@@ -1,11 +1,11 @@
-$pink-000: #f77ef1;
-$pink-100: #f967f1;
-$pink-200: #e94ee1;
-$pink-300: #dd2cd4;
-$yellow-300: #7B5F0C;
+$orange-000: #f7cb7e;
+$orange-100: #f7be59;
+$orange-200: #e99c4e;
+$orange-300: #dd932c;
+$yellow-300: #f0ca0e;
 
-$lt-purple-000: #50098A;
-$lt-purple-300: #50098A;
+$lt-green-000: #278a09;
+$lt-green-300: #278a09;
 
 @media print {
   .side-bar
@@ -30,19 +30,19 @@ table {
   display: table;
   min-width: 25%;
   border-collapse: separate;
-  border: 2px #50098A solid;
+  border: 2px #278a09 solid;
 }
 
 th {
    min-width: 100px;
-   background-color:#50098A;
+   background-color:#278a09;
    color: #ffffff;
    font-weight: bold;
    text-align:center;
 }
 
-.btn-pink {
-  @include btn-color(#ffffff, #50098A); 
+.btn-green {
+  @include btn-color(#ffffff, #278a09); 
 }
 
 // Spacing Sp-1 = 4 pixels, sp-2 = 8 pixels
@@ -58,7 +58,7 @@ td {
 code {
     white-space : pre-wrap !important;
     word-break: break-word;
-    background-color:#462B53;
+    background-color:#b06317;
     color: #ffffff;
     font-family:system-ui,-apple-system,blinkmacsystemfont,"Segoe UI",roboto,"Helvetica Neue",arial,sans-serif;
 }
@@ -66,14 +66,14 @@ code {
 pre {
     white-space : pre-wrap !important;
     word-break: break-word;
-    background-color:#462B53;
+    background-color:#b06317;
     color: #ffffff;
     font-family:system-ui,-apple-system,blinkmacsystemfont,"Segoe UI",roboto,"Helvetica Neue",arial,sans-serif;
 }
 
 .highlight,
 pre.highlight {
-    background-color: #462B53;
+    background-color: #b06317;
     white-space : pre-wrap !important;
     word-break: break-word;
     color: #ffffff;
