@@ -54,3 +54,73 @@ nav_external_links:
   - title: Patch Notes
     url: https://github.com/TheMrNewVegas/TTWTrueVegas/releases
     hide_icon: false # set to true to hide the external link icon - defaults to false    
+
+callouts_level: loud
+callouts:
+  highlight:
+    title: Notice
+    color: yellow
+  important:
+    title: Important
+    color: yellow
+  logfile:
+    title: Log Section
+    color: green
+  iniSetting:
+    title: INI Setting
+    color: green
+  alternative:
+    title: Alternative
+    color: green
+  console:
+    title: Console Commands
+    color: green    
+  hint:
+    title: Hint
+    color: green  
+  note:
+    title: Note
+    color: yellow
+  warning:
+    title: Warning
+    color: red
+  NoTitleYellow:
+    color: yellow
+  NoTitleGreen:
+    color: green
+    
+# Define Jekyll collections
+collections:
+  01Support:
+    permalink: "/:collection/:path/"
+    output: true
+  02InstallGuide:
+    permalink: "/:collection/:path/"
+    output: true
+  03PlayerConditionGuides:
+    permalink: "/:collection/:path/"
+    output: true
+  04CraftingGuides:
+    permalink: "/:collection/:path/"
+    output: true
+  05GeneralGameplayGuides:
+    permalink: "/:collection/:path/"
+    output: true
+    
+just_the_docs:
+  collections:
+    01Support:
+      name: Support Pages
+      nav_fold: true   
+    02InstallGuide:
+      name: Installation Guide
+      nav_fold: true   
+    03PlayerConditionGuides:
+      name: Player Condition Guides
+      nav_fold: true 
+    04CraftingGuides:
+      name: Crafting Guides
+      nav_fold: true 
+    05GeneralGameplayGuides:
+      name: General Gameplay Guides
+      nav_fold: true 
