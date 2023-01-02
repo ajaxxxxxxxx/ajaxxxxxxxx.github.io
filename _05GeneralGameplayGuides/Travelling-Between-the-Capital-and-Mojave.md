@@ -1,3 +1,10 @@
+---
+layout: default
+title: TravellingBetween Capital & Mojave
+nav_order: 3
+description: How to Get to the Mojave & Back
+---
+
 # **How to Travel from the Capital to the Mojave**
 **This guide contains spoilers for the TTW quest "There & Back Again" in addition to location spoilers for the game. In addition it was taken directly from the TTW forums. Credits to [pintocat here](https://taleoftwowastelands.com/viewtopic.php?t=6730)**
 
