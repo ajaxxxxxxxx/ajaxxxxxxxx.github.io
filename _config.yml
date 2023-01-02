@@ -1,8 +1,58 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Capital Punishment Wiki
+description: A Tale of Two Wastelands Hardcore Roleplaying Modlist
 theme: just-the-docs
+color_scheme: dark
 
 url: https://themrnewvegas.github.io
 
+logo: "/ASSETS/images/Wiki-Logo.png"
+favicon_ico: "/ASSETS/images/favicon.ico"
+
+search_enabled: true
+
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+ # Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2022 TheMrNewVegas"
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
 aux_links:
-  Template Repository: https://https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/
+  "Patreon":
+    - "https://www.patreon.com/Themrnewvegas"
+  "Discord":
+    - "https://discord.gg/43EhRjU"
+  "Youtube":
+    - "https://youtu.be/JE7h5ka_kwI"
+  "Twitch":
+    - "https://www.twitch.tv/TheMrNewVegas"    
+  "Kofi":
+    - "https://ko-fi.com/themrnewvegas" 
+
+    # Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/TheMrNewVegas/TheMrNewVegas.github.io" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+nav_external_links:
+  - title: Legacy Wiki
+    url: https://github.com/TheMrNewVegas/TTWTrueVegas
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: Patch Notes
+    url: https://github.com/TheMrNewVegas/TTWTrueVegas/releases
+    hide_icon: false # set to true to hide the external link icon - defaults to false    
