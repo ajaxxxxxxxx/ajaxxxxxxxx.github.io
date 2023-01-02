@@ -91,36 +91,36 @@ callouts:
     
 # Define Jekyll collections
 collections:
-  01Support:
+  _01Support:
     permalink: "/:collection/:path/"
     output: true
-  02InstallGuide:
+  _02InstallGuide:
     permalink: "/:collection/:path/"
     output: true
-  03PlayerConditionGuides:
+  _03PlayerConditionGuides:
     permalink: "/:collection/:path/"
     output: true
-  04CraftingGuides:
+  _04CraftingGuides:
     permalink: "/:collection/:path/"
     output: true
-  05GeneralGameplayGuides:
+  _05GeneralGameplayGuides:
     permalink: "/:collection/:path/"
     output: true
     
 just_the_docs:
   collections:
-    01Support:
+    _01Support:
       name: Support Pages
       nav_fold: true   
-    02InstallGuide:
+    _02InstallGuide:
       name: Installation Guide
       nav_fold: true   
-    03PlayerConditionGuides:
+    _03PlayerConditionGuides:
       name: Player Condition Guides
       nav_fold: true 
-    04CraftingGuides:
+    _04CraftingGuides:
       name: Crafting Guides
       nav_fold: true 
-    05GeneralGameplayGuides:
+    _05GeneralGameplayGuides:
       name: General Gameplay Guides
       nav_fold: true 
