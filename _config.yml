@@ -31,7 +31,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 aux_links:
   "Patreon":
-    - [Patreon](https://www.patreon.com/Themrnewvegas/){: .btn .btn-purple }
+    - "https://www.patreon.com/Themrnewvegas"
   "Discord":
     - "https://discord.gg/43EhRjU"
   "Youtube":
