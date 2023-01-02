@@ -1,3 +1,10 @@
+---
+layout: default
+title: Drug Synthesizing
+nav_order: 2
+description: How to Synthesize Drugs
+---
+
 All usable chemistry sets (bar a few) have been automatically turned into Drug Synthesizers. These can be use to breakdown chems into compounds. Below is a list of the compounds and their relationship to SPECIAL
 
 ## **SPECIAL Ingredients**
