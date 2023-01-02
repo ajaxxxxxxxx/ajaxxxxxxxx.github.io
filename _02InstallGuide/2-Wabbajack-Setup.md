@@ -1,3 +1,10 @@
+---
+layout: default
+title: Wabbajack Setup
+nav_order: 2
+description: How to Setup Wabbajack
+---
+
 ## **Wabbajack Setup**
 
 - **Download Wabbajack from [here](https://www.wabbajack.org/)**
