@@ -1,3 +1,10 @@
+---
+layout: default
+title: Controls & Tweaks
+nav_order: 4
+description: Controls & Tweaks
+---
+
 ## **Tweaks**
 
 Gameplay tweaks as well as mod configuration settings are extremely important for tailoring the game to how you would like to play.* In addition, they can help fix overlaps between multiple mod/in game key binds. Please refer to the list below to change the proper key binds to help minimize this overlap. Below these key bind changes will also be a full compilation of tweaks and what they do alongside our very own @Kragos#2049 tweaks list.
