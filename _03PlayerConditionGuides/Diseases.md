@@ -1,3 +1,10 @@
+---
+layout: default
+title: Diseases
+nav_order: 1
+description: Diseases
+---
+
 Yes disease exists as it should in the post-apocalyptic Mojave/Capital Wasteland. All diseases will eventually fade away, but the player may take Immuno-boosters to rid themselves quicker.
 
 ### **Current Disease List**
