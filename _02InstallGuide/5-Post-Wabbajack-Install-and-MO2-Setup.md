@@ -1,3 +1,10 @@
+---
+layout: default
+title: Post Wabbajack Install
+nav_order: 5
+description: What to do After Installing Through Wabba
+---
+
 ## **Post-Wabbajack Installation & MO2 Setup**
 
 - **When the Wabbajack and TTW installations have completed, go to the folder you made, then go to the downloads folder. Drag the Tale of Two Wastelands zip file you made into it**
