@@ -1,3 +1,10 @@
+---
+layout: default
+title: FAQ
+nav_order: 1
+description: Frequently Asked Questions
+---
+
 ### SPOILER WARNING
 **Potential spoilers for gameplay and quests in drop down menus below.**
 
