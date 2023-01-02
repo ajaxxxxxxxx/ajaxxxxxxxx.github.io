@@ -28,6 +28,9 @@ If you do not know what Tale of Two Wastelands is, it is a total conversion of F
 
 {: .important}
 > When updating our Wabbajack list, we will always release [Patch Notes Here](https://github.com/TheMrNewVegas/TTWTrueVegas/releases). At the top of each release there will be a statement saying **Save Safe For ____ Versions** or **Not Save Safe**. 
+![image](https://user-images.githubusercontent.com/112358568/210279382-be1fb72e-7770-467a-9cf9-19646d323f5b.png)
+![image](https://user-images.githubusercontent.com/112358568/210279395-51745e85-e413-44a6-b3db-b81b3d2e3f5d.png)
+
 
 ### Save Safe
 
