@@ -1,3 +1,10 @@
+---
+layout: default
+title: Updating
+nav_order: 2
+description: How to Update
+---
+
 ## **Updating**
 
 - With Wabbajack the updating process is relatively simple
