@@ -1,3 +1,10 @@
+---
+layout: default
+title: Healing
+nav_order: 2
+description: Healing Mechanics
+---
+
 Healing is the essence of life in any Fallout game, but healing has been completely revamped in this mod. New healing items have replaced others, new sickness and diseases have been added, and food/water no longer heals health as it used to. Even worrying about light, moderate, and severe bleeding will be a part of your everyday struggle as you fight through the wastes. Below are all the items you will need to prepare yourself for this/what they do.
 
 ## **Tweaked Healing Items**
