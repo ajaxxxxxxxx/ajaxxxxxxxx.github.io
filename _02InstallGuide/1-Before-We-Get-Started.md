@@ -1,3 +1,10 @@
+---
+layout: default
+title: Before We Get Started
+nav_order: 1
+description: First Things to Read Into
+---
+
 ## **READ BEFORE CONTINUING:** 
 ### **1.) Please do not bother the Tale of Two Wastelands Developers/Discord or Other NV related Discords with troubleshooting questions regarding this mod list. Even if you think your question pertains to the Tale of Two Wastelands installation, please ask us in our [Discord](https://discord.gg/43EhRjU).**
 
