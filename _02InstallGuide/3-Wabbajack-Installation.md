@@ -1,3 +1,10 @@
+---
+layout: default
+title: Wabbajack Installation
+nav_order: 3
+description: How to Install Through Wabbajack
+---
+
 ## **Wabbajack Installation**
 
 - **Go to the home screen and go to browse modlists**
