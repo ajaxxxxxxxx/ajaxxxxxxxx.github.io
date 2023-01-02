@@ -4,7 +4,7 @@ theme: just-the-docs
 color_scheme: dark
 
 url: https://themrnewvegas.github.io
-favicon_ico: "/ASSETS/images/favicon.jpg"
+favicon_ico: "https://cdn.discordapp.com/attachments/984100624733962340/1059538963553075240/favicon.jpg"
 
 search_enabled: true
 
