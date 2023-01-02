@@ -1,8 +1,8 @@
 ---
 layout: default
-title: FAQ
-nav_order: 1
-description: Frequently Asked Questions
+title: Available Player Homes
+nav_order: 4
+description: Player Homes Throughout Mojave & Capital Wastes
 ---
 
 ### SPOILER WARNING
