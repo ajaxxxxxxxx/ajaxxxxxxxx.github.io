@@ -1,3 +1,10 @@
+---
+layout: default
+title: TTW Installation
+nav_order: 4
+description: How to Install Tale of Two Wastelands
+---
+
 ## **TTW Installation**
 
 - **While Wabbajack is going you can begin the TTW installation process. Download the [TTW 3.3.2 Installer](https://taleoftwowastelands.com/dl)**
