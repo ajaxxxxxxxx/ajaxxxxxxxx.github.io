@@ -1,3 +1,10 @@
+---
+layout: default
+title: Hardcore Needs
+nav_order: 3
+description: Different Needs for Survival
+---
+
 After tweaking the game to your liking and determining your character’s origins, it is now time to survive the harsh wastes. A number of mods have made this game much more challenging, but also fair. Unless you are constantly mashing your sprint key, hydration should last you up to 3 days before becoming critically important. In addition, you should be able to last without food for several days without noticing any effects. As for sleep, you can go upwards of a month without it. That being said, your needs still do matter and they will creep up on you before you know it. This is why knowing how to provide for yourself in the harsh wastes is important
 
 ## **Shelter**
