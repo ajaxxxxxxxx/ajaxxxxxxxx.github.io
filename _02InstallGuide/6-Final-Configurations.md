@@ -1,3 +1,10 @@
+---
+layout: default
+title: Final Configurations
+nav_order: 6
+description: Last steps of the guide
+---
+
 ## **Final Configurations**
 - **If your game won't boot and you cannot find the the libogg.dll, libvorbis.dll, or libvorbisfile.dll in your "Capital Punishment/Stock Game" directory after having fully finished the TTW steps, you may find copies in your "Capital Punishment/Game Folder Files" directory which you can copy and paste into your "Capital Punishment/Stock Game directory"**
 
