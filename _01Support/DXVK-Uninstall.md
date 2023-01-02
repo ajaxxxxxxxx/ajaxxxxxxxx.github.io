@@ -1,3 +1,10 @@
+---
+layout: default
+title: DXVK Uninstall
+nav_order: 4
+description: How to Uninstall DXVK
+---
+
 ## **What is DXVK?**
 
 - DXVK (DirectX Vulkan) is a Vulkan-based translation layer for Direct3D 9, 10 and 11 that allows you to run 3D apps and games. We use it to run Fallout: New vegas through the DXVK API which has benefits of much lower drawcall overhead than D3D9, which is one of the main performance limiting factors in this game
