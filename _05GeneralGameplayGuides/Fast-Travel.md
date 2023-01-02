@@ -1,3 +1,10 @@
+---
+layout: default
+title: Fast Travel
+nav_order: 2
+description: Fast Travel Mechanics
+---
+
 Fast travel is in the game! But not how you think. Fast travel is one of the best, yet least immersive things about Fallout. However, now that is a thing of the past! There are several ways the player may fast travel which will be detailed below!
 
 ## **Transporters**
