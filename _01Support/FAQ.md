@@ -1,3 +1,10 @@
+---
+layout: default
+title: FAQ
+nav_order: 3
+description: Frequently Asked Questions
+---
+
 # **Mod List Misconceptions**
 <details><summary>1.) Is this list broken?</summary>
 While this list is not perfect, it is far from broken and is regularly maintained. At one point in time I could not have said this as confidently as I do now. From the days of our broken vortex packs we have come a long way in ensuring this is as stable and smooth as it can possibly be. In the end we have had numerous users report easily logging 50-100+ hours without save corrupts, crashes, or other issues. 
