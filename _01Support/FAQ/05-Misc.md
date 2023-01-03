@@ -19,7 +19,7 @@ Hit M after pausing the game.
 
 While not advised for continuity reasons, you may do so by pressing N after pausing the game.
 
-##**4.) TTW? MO2? NVSE?? What are all these acronyms?**
+## **4.) TTW? MO2? NVSE?? What are all these acronyms?**
 
 To save time and space, we sometimes use acronyms for words we're going to repeat a lot. Here is a non-exhaustive list of words.
 
