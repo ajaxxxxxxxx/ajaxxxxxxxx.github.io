@@ -11,7 +11,7 @@ Gameplay tweaks as well as mod configuration settings are extremely important fo
 
 ## **MAPMO HUD Keybinds**
 
-- **HUD Quest Log:** SHIFT+J
+- HUD Quest Log: SHIFT+J
 
 
 ## **Key Bind Changes**
