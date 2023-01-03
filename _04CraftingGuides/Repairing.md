@@ -7,6 +7,8 @@ description: How to use Repair Mechanics
 
 Weapons & armor can be repaired in the same way as they once were, but why settle for this when there are much better alternatives? With the ability to craft weapon and armor specific parts, it is now more viable to do so. Below is a list of all weapon parts and their crafting requirements
 
+## **Since we do not currently use armor/gun parts but rather weapon repair kits, this may not apply. **
+
 ## **Weapon Crafting Req.**
 
 1.) **Scrap Revolver Parts:** Workbench (20 Repair); Hammer, Scrap Metal (2), Duct Tape (1)
