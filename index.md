@@ -19,20 +19,20 @@ If you do not know what Tale of Two Wastelands is, it is a total conversion of F
 
 ## **The MNV Staff**
 
-- **Community Manager**: Bird/Lilly
+### **Community Manager**: Bird/Lilly
 - The head of our Help team as well as one of the driving forces behind documentation, outreach, and other behind the scenes development for the community.
 
 ![image](https://user-images.githubusercontent.com/112358568/210427354-a304fc08-f74e-47fe-ad71-736bfa93e8e9.png)
 
-- **Lead Developer:** MctTiddies4Lunch
+### **Lead Developer:** MctTiddies4Lunch
 - The head of our Development team, Tiddies is second to TheMrNewVegas in leading developmental changes to the modpack while also delegating development tasks to other developers
 
 ![image](https://user-images.githubusercontent.com/112358568/210428921-904333d6-8ead-4a71-9762-8ee4a26bb83c.png)
 
-- **Developer:** SexyThighs
+### **Developer:** SexyThighs
 - One of the first members of the original staff team, Thighs has been instrumental in our bug testing and problem solving departments. 
 
-- **Developer:** Camboi
+### **Developer:** Camboi
 - The newest addition to our team, Cam is the main developer and maintainer for our Xedit patch which has fixed a heap of discrepancies and bugs in the mod list
 
 ## How do I Get Help?
