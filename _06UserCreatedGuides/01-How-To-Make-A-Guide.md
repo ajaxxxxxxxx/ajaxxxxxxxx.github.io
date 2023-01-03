@@ -25,19 +25,27 @@ description: Walkthrough for Making a Wiki Page
 
 3.) Inside of your newly created file, add this code block and properly fill in the necessary areas
 
-```---
+`---
 layout: default
 title: Your Page's Name that will be displayed on the website
 nav_order: Your pages # without 0 at the beginning 
 description: Short description of your page
----```
+---`
 
 4.) The beginning of creating your page is now complete, now format it as you please with all of the information you would like. A formatting guide can be found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-5.) Once you finish, press Propose New File at the bottom
+5.) Once you finish, press Propose New File at the bottom (Give it a succint title and description)
+
+![image](https://user-images.githubusercontent.com/112358568/210454551-0453f266-632c-4f22-99fe-2e8d9417ef3a.png)
 
 6.) On the new page, look for the button "Create Pull Request"
 
+![image](https://user-images.githubusercontent.com/112358568/210454559-382f82b0-4529-435c-8337-83f8bfd407b8.png)
+
 7.) Write a short descriptive title, a summary about what your page is adding, and make sure to check `Allow Edits by Maintainers`. Then click "Create Pull Request"
 
-8.) Your page is now officially submitted and will be reviewed in time. Page acceptance/denial is up to staff discrepancy 
+![image](https://user-images.githubusercontent.com/112358568/210454592-79377982-6d5b-460b-8711-54d35a910786.png)
+
+8.) Your page is now officially submitted and will be reviewed in time. Page acceptance/denial is up to staff discrepancy and will take time. Your patience and work is appreciated!
+
+![image](https://user-images.githubusercontent.com/112358568/210454635-655fadbb-a006-40e5-8cf2-d925fb8d42fe.png)
