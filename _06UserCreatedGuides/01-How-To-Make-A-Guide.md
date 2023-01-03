@@ -15,13 +15,20 @@ description: Walkthrough for Making a Wiki Page
 {: .hint}
 > This entire process can be done locally using a text document. Simply replace the .txt with .md and upload the finished document into the Created Guides section as a Pull Request
 
-2.) Click add file at the top right of the page. Name your file '#-Name.md'.
+![image](https://user-images.githubusercontent.com/112358568/210454777-aebf25ff-5e7d-41fa-97f4-0c7326289721.png)
+
+
+2.) Click add file then Create New File at the top right of the page. Name your file '#-Name.md'.
+
+![image](https://user-images.githubusercontent.com/112358568/210454864-cebb45c1-e792-4384-8951-ff932a1ac52b.png)
 
 {: .note }
 > The # symbol stands for the number that your post is. This is how we organize posts. Make sure to number your post to be after the last one (IE: If the last file is called 08-Guide.md, your folder should be called 09-Name.md)
 
 {: .note }
 > A hyphen should go between all spaces of your file's name (Ex: 01 The Mr New Vegas.md would be 01-The-Mr-New-Vegas.md)
+
+![image](https://user-images.githubusercontent.com/112358568/210454912-b11b08b9-9ce6-402d-a006-52fa9c7387e2.png)
 
 3.) Inside of your newly created file, add this code block and properly fill in the necessary areas
 
@@ -32,7 +39,11 @@ nav_order: Your pages # without 0 at the beginning
 description: Short description of your page
 ---`
 
+![image](https://user-images.githubusercontent.com/112358568/210454983-715cc01a-4ae1-4abf-a295-784efe2ba86c.png)
+
 4.) The beginning of creating your page is now complete, now format it as you please with all of the information you would like. A formatting guide can be found [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+![image](https://user-images.githubusercontent.com/112358568/210455103-4846abe8-d0fc-498b-ae66-2b74f7b910d8.png)
 
 5.) Once you finish, press Propose New File at the bottom (Give it a succint title and description)
 
