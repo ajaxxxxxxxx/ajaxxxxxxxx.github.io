@@ -16,22 +16,27 @@ description: First Things to Read Into
 
 {: .NoTitleGreen}
 > At least 120GB of free space
+
 {: .NoTitleGreen}
 >A Nexus Account
+
 {: .NoTitleGreen}
 >A FRESH GLOBAL STEAM installation (Eastern European PCR Steam, GOG, and any Non Steam versions are not compatible) of Fallout NV GOTY and either a Steam or Epic Games installation of FO3**
+
 {: .NoTitleGreen}
 >[Directx Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
 {: .NoTitleGreen}
+
 >[Visual C++ Runtime Libraries](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+
 {: .NoTitleGreen}
 >[7-Zip](https://www.7-zip.org/) (Or Winrar)
+
 {: .NoTitleGreen}
 >Nexus Premium is a BIG SUGGESTION
 
 {: .NoTitleGreen}
 >The [Wabbajack Launcher](https://www.wabbajack.org)
-
 
 {: .NoTitleYellow}
 > Why does FNV Need to be Steam Global?: This is due to Wabbajack functionality/how we have set up the way Wabbajack downloads the mod pack. This doesn't apply to FO3 as it is used only to compile Tale of Two Wastelands
