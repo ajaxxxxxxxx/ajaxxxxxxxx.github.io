@@ -28,6 +28,17 @@ If you do not know what Tale of Two Wastelands is, it is a total conversion of F
 
 5. If after your searches you still cannot find your issue, make a help post in #ttw-help on our discord and we will get to it as soon as possible!
 
+## Help Guidelines
+
+{: .note}
+> This list does not include all guidelines. Staff may choose to ignore questions if it does not adhere to the below/under their own discretion.
+
+1.) Do NOT private message or @ staff without their permission 
+
+2.) If your save is from an incompatible revision/a not up to date revision, support is voided. 
+
+3.) Modifying The Modpack = We Can't Help You
+
 ## Game Saves, Capital Punishment Updates, & How They Coincide
 
 {: .important}
