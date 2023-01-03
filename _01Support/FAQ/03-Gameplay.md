@@ -30,3 +30,14 @@ Look to your left. You won't be shooting at the building anymore
 ## **5.) How do I level up?**
 
 Your character has to sleep to level up for more than 1 hour. If it doesn't work try sleeping again for more than 3 hours
+
+## **6.) How do I fix the Tranquility Lane Bug?**
+
+{: .note} 
+> While this should be fixed, I have decided to include the Legacy Fix in the FAQ just in case of any future issues
+
+1.) Saving while SetPCYoung 1 is in effect overrides the player's race's IsChild flag when you load that save so you're 'permanently' flagged as IsChild until the game engine resets/reloads.
+
+2.) When you load the new save (even works when stuck in the lounger bc the game has already issued SetPCYoung 0) the player's IsChild flag will correctly have updated back to 0 (meaning you can now leave the lounger without needing to use any fix mods or console commands). 
+
+3.) Effectively the bug occurs again, but in reverse - as evidenced by saves made and loaded BEFORE entering Tranquility lane returning IsChild >> 0 after entering but >> 1 after saving in TL then loading that save.
