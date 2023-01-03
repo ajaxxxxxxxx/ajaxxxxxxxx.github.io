@@ -26,6 +26,6 @@ If you do not know what Tale of Two Wastelands is, it is a total conversion of F
 
 4.) If your question is unanswered in our documentation, join our [Discord](https://discord.gg/43EhRjU). Some fixes that we have included there are not integrated to the wiki yet. Please look through our #ttw-help, #fixes, #ttw-bug-reports, in addition to looking through pins, announcements, and using the search function
 
-5. If after your searches you still cannot find your issue, make a help post in #ttw-help on our discord and we will get to it as soon as possible!
+5.) If after your searches you still cannot find your issue, make a help post in #ttw-help on our discord and we will get to it as soon as possible!
 
 
