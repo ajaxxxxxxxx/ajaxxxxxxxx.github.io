@@ -106,6 +106,9 @@ collections:
   05GeneralGameplayGuides:
     permalink: "/:collection/:path/"
     output: true
+  06UserCreatedGuides:
+    permalink: "/:collection/:path/"
+    output: true
     
 just_the_docs:
   collections:
@@ -123,4 +126,7 @@ just_the_docs:
       nav_fold: true 
     05GeneralGameplayGuides:
       name: General Gameplay Guides
+      nav_fold: true 
+    06UserCreatedGuides:
+      name: User Created Guides
       nav_fold: true 
