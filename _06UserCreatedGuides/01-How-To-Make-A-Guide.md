@@ -10,7 +10,7 @@ description: Walkthrough for Making a Wiki Page
 {: .note}
 > It is generally advised that the user know basic markdown and github functionality before submitting a page. This guide will cover some of this but not everything
 
-1.) In our [Github](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io) find the section labeled User Created Guides
+1.) In our [Github](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io) find the section labeled `UserCreatedGuides`
 
 {: .hint}
 > This entire process can be done locally using a text document. Simply replace the .txt with .md and upload the finished document into the Created Guides section as a Pull Request
