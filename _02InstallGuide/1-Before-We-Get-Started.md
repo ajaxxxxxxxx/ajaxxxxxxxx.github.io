@@ -25,8 +25,8 @@ description: First Things to Read Into
 
 {: .NoTitleGreen}
 >[Directx Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
-{: .NoTitleGreen}
 
+{: .NoTitleGreen}
 >[Visual C++ Runtime Libraries](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 {: .NoTitleGreen}
