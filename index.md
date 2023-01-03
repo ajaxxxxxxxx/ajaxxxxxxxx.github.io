@@ -46,4 +46,7 @@ If you do not know what Tale of Two Wastelands is, it is a total conversion of F
 
 5.) If after your searches you still cannot find your issue, make a help post in #ttw-help on our discord and we will get to it as soon as possible!
 
+## DO NOT ASK THE TALE OF TWO WASTELANDS OR OTHER DISCORDS FOR HELP
+
+Tale of Two Wastelands does not endorse this mod list and in addition, does not have the resources or time to help with problems regarding it. Please source all help to our discord alone. Even if you think that your question relates to your installation of Tale of Two Wastelands itself, please bring it into our discord.
 
