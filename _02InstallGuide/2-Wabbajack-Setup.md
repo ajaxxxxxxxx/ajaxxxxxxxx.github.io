@@ -28,4 +28,4 @@ description: How to Setup Wabbajack
 
 ![image](https://user-images.githubusercontent.com/114360108/200663338-8646f5cb-7a26-42ce-b1de-e48dead237a9.png)
 
-### [**STEP THREE**](https://github.com/TheMrNewVegas/TTWTrueVegas/wiki/Wabbajack-Installation)
+### [**STEP THREE**](https://www.capitalpunishmentmod.com/02InstallGuide/3-Wabbajack-Installation/)
