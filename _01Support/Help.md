@@ -5,6 +5,10 @@ nav_order: 5
 description: Help Guidelines
 ---
 
+## DO NOT ASK THE TALE OF TWO WASTELANDS OR OTHER DISCORDS FOR HELP
+
+Tale of Two Wastelands does not endorse this mod list and in addition, does not have the resources or time to help with problems regarding it. Please source all help to our discord alone. Even if you think that your question relates to your installation of Tale of Two Wastelands itself, please bring it into our discord.
+
 ## **General Questions to Ask Yourself Before Seeking Help**
 
 1.) Have you looked at the installation guide?
