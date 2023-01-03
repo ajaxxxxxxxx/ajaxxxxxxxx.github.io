@@ -16,13 +16,13 @@ description: First Things to Read Into
 
 {: .NoTitleGreen}
 > At least 120GB of free space
-A Nexus Account
-A FRESH GLOBAL STEAM installation (Eastern European PCR Steam, GOG, and any Non Steam versions are not compatible) of Fallout NV GOTY and either a Steam or Epic Games installation of FO3**
-[Directx Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
-[Visual C++ Runtime Libraries](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
-[7-Zip](https://www.7-zip.org/) (Or Winrar)
-Nexus Premium is a BIG SUGGESTION
-The [Wabbajack Launcher](https://www.wabbajack.org)
+>A Nexus Account
+>A FRESH GLOBAL STEAM installation (Eastern European PCR Steam, GOG, and any Non Steam versions are not compatible) of Fallout NV GOTY and either a Steam or Epic Games installation of FO3**
+>[Directx Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109)
+>[Visual C++ Runtime Libraries](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+>[7-Zip](https://www.7-zip.org/) (Or Winrar)
+>Nexus Premium is a BIG SUGGESTION
+>The [Wabbajack Launcher](https://www.wabbajack.org)
 
 
 {: .NoTitleYellow}
@@ -35,7 +35,7 @@ The [Wabbajack Launcher](https://www.wabbajack.org)
 > Your Steam Library in a Non-protected directory (I do the surface of my drive)
 
 {: .NoTitleYellow}
-> Protected libraries are Program Files, Your Desktop, Etc.([Tutorial Here](https://www.howtogeek.com/257472/how-to-painlessly-move-your-steam-library-to-another-folder-or-hard-drive/)
+> Protected libraries are Program Files, Your Desktop, Etc.([Tutorial Here](https://www.howtogeek.com/257472/how-to-painlessly-move-your-steam-library-to-another-folder-or-hard-drive/))
 
 ![image](https://user-images.githubusercontent.com/114360108/200666624-ef7d6d2a-e51a-479a-b972-632dcb011be2.png)
 ![image](https://user-images.githubusercontent.com/114360108/200666751-d952aea7-2dd8-41b8-b5fe-6657a3a87321.png)
