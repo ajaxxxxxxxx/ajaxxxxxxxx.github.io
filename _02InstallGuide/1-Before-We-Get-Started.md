@@ -57,5 +57,5 @@ description: First Things to Read Into
 
 - **YOU WILL NOT BE EDITING YOUR ORIGINAL STEAM PATH. MO2 AND THIS MODPACK WILL WORK OFF OF THE STOCK GAME FOLDER. ANY PATHS YOU SET, EDITS YOU MAKE, ETC SHOULD BE DONE TO THE STOCK GAME FOLDER GRANTED THEY ARE IN THE INSTALLATION GUIDE**
 
-### [**STEP TWO**](https://github.com/TheMrNewVegas/TTWTrueVegas/wiki/Wabbajack-Setup)
+### [**STEP TWO**]([https://github.com/TheMrNewVegas/TTWTrueVegas/wiki/Wabbajack-Setup](https://www.capitalpunishmentmod.com/02InstallGuide/2-Wabbajack-Setup/))
 
