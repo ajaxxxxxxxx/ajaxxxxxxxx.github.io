@@ -17,6 +17,22 @@ Capital Punishment is Fallout New Vegas mod list based on the Tale of Two Wastel
 ## What is Tale of Two Wastelands?
 If you do not know what Tale of Two Wastelands is, it is a total conversion of Fallout 3 into the engine of Fallout New Vegas (with added fixes and modifications from the authors). This allows for the player to play Fallout 3 & Fallout New Vegas in the same game! For more info visit the [Tale of Two Wastelands Website](https://thebestoftimes.github.io/index.html)
 
+## **The MNV Staff**
+
+- **Community Manager**: Bird/Lilly
+- The head of our Help team as well as one of the driving forces behind documentation, outreach, and other behind the scenes development for the community.
+
+![image](https://user-images.githubusercontent.com/112358568/210427354-a304fc08-f74e-47fe-ad71-736bfa93e8e9.png)
+
+- **Lead Developer:** MctTiddies4Lunch
+- The head of our Development team, Tiddies is second to TheMrNewVegas in leading developmental changes to the modpack while also delegating development tasks to other developers
+
+- **Developer:** SexyThighs
+- One of the first members of the original staff team, Thighs has been instrumental in our bug testing and problem solving departments. 
+
+- **Developer:** Camboi
+- The newest addition to our team, Cam is the main developer and maintainer for our Xedit patch which has fixed a heap of discrepancies and bugs in the mod list
+
 ## How do I Get Help?
 1.) Make sure to look at the installation guide and follow in order.
 
