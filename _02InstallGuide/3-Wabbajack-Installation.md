@@ -27,4 +27,4 @@ description: How to Install Through Wabbajack
 
 ![image](https://user-images.githubusercontent.com/112358568/190105266-ba1bfb8c-7f06-4fb3-9e08-6a5c74f0ab00.png)
 
-### [**STEP FOUR**](https://github.com/TheMrNewVegas/TTWTrueVegas/wiki/TTW-Installation)
+### [**STEP FOUR**](https://www.capitalpunishmentmod.com/02InstallGuide/4-TTW-Installation/)
