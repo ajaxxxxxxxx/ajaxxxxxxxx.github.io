@@ -7,7 +7,8 @@ description: How to use Repair Mechanics
 
 Weapons & armor can be repaired in the same way as they once were, but why settle for this when there are much better alternatives? With the ability to craft weapon and armor specific parts, it is now more viable to do so. Below is a list of all weapon parts and their crafting requirements
 
-## **Since we do not currently use armor/gun parts but rather weapon repair kits, this may not apply.**
+{: .note}
+> Since we have weapon repair kits enabled in the preconfigured save, parts may not populate but rather just weapon repair kits. If you would prefer to use armor parts you may disable it manually in MCM
 
 ## **Weapon Crafting Req.**
 
