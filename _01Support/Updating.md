@@ -16,7 +16,7 @@ description: How to Update
 
 ![image](https://user-images.githubusercontent.com/112358568/190491120-f2d94d57-1f5b-442d-a96a-21f8e75a3beb.png)
 
-- *lick the play button once this is all configured
+- Click the play button once this is all configured
 
 ![image](https://user-images.githubusercontent.com/112358568/190491694-52822c11-0779-4cad-887d-dec513dbddcc.png)
 
