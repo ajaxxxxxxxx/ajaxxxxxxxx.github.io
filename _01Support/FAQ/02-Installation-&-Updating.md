@@ -45,6 +45,6 @@ If the file did not come with the Wabbajack installation, then it will be delete
 If you are on the preconfigured save, just press the INSERT button on your keyboard to switch between the reshade and the controls overlay
 
 
-## **5.) Where can an updatedI find a list of mods?**
+## **5.) Where can I find an updated list of mods?**
 
 [Click Here](https://www.wabbajack.org/search/TTWTrueVegas/capitalpunishment)
