@@ -37,4 +37,4 @@ description: How to Install Tale of Two Wastelands
 
 ![image](https://user-images.githubusercontent.com/112358568/189812234-ee6e30d6-7e6d-4690-9b4d-2dd244a39474.png)
 
-### [**STEP FIVE**](https://github.com/TheMrNewVegas/TTWTrueVegas/wiki/Post-Wabbajack-Install-&-MO2-Setup)
+### [**STEP FIVE**](https://www.capitalpunishmentmod.com/02InstallGuide/5-Post-Wabbajack-Install-and-MO2-Setup/)
