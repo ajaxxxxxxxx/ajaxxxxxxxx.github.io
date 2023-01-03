@@ -20,7 +20,7 @@ Hit M after pausing the game.
 While not advised for continuity reasons, you may do so by pressing N after pausing the game. 
 
 {: .note}
-> This may revert back after each restart. To permanently change the colors you may have to chance them in the Capital Punishment/Stock Game/Mods/Capital Punishment Resources/MAPMO.ini
+> This may revert back after each restart. To permanently change the colors you may have to change them in the Capital Punishment/Stock Game/Mods/Capital Punishment Resources/MAPMO.ini
 
 ## **4.) TTW? MO2? NVSE?? What are all these acronyms?**
 
