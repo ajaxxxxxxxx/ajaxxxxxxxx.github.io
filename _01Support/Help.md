@@ -1,0 +1,28 @@
+---
+layout: default
+title: Help
+nav_order: 5
+description: Help
+---
+
+## How do I Get Help?
+1.) Make sure to look at the installation guide and follow in order.
+
+2.) The next step would be to check our [FAQ](https://themrnewvegas.github.io/01Support/FAQ/)
+
+3.) If your issue is not in the FAQ or Installation Guide, take the time to look around the Wiki (Especially if its gameplay related questions such as "How do I Repair Guns?"
+
+4.) If your question is unanswered in our documentation, join our [Discord](https://discord.gg/43EhRjU). Some fixes that we have included there are not integrated to the wiki yet. Please look through our #ttw-help, #fixes, #ttw-bug-reports, in addition to looking through pins, announcements, and using the search function
+
+5. If after your searches you still cannot find your issue, make a help post in #ttw-help on our discord and we will get to it as soon as possible!
+
+## Help Guidelines
+
+{: .note}
+> This list does not include all guidelines. Staff may choose to ignore questions if it does not adhere to the below/under their own discretion.
+
+1.) Do NOT private message or @ staff without their permission 
+
+2.) If your save is from an incompatible revision/a not up to date revision, support is voided. 
+
+3.) Modifying The Modpack = We Can't Help You
