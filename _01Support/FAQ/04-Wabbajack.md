@@ -19,6 +19,10 @@ Try logging out of and back into your Nexus account in Wabbajack, then proceed w
 - Select Verify Integrity of Local Files
 - Launch Wabbajack & Retry Installation
 
+If this doesn't work, try using the Network Workaround in Wabbajack settings, then restart your installation
+
+![image](https://user-images.githubusercontent.com/112358568/210460381-6a33efbd-5dca-43e4-bfda-45c89f5795eb.png)
+
 ## **2.) ______ Mod is Failing to Download and I cant complete the installation. What do I do?**
 
 If this is a Nexus Mod please report it in the discord under #ttw-help with your accompanying Wabbajack Log. If this is not a nexus mod then find it from the list below.
