@@ -13,7 +13,7 @@ description: Release Notes
 
 <iframe id="github-iframe" src=""></iframe>
 <script>
-    fetch('https://api.github.com/repos/TheMrNewVegas/TTWTrueVegas/contents/src/releases@latest')
+    fetch('https://api.github.com/repos/TheMrNewVegas/TTWTrueVegas/releases')
         .then(function(response) {
             return response.json();
         }).then(function(data) {
