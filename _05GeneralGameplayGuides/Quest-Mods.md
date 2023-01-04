@@ -59,7 +59,29 @@ __**How to Start**__
 
 ## **TTW Merged Collectables Quests**
 
-[Link to Nexus Page]
+[Link to Nexus Page](https://www.nexusmods.com/newvegas/mods/77108)
+
+__**General Mod Features**__
+- A multitude of bounty hunting missions against the most malevolent and vile assortment of outlaws in the Mojave Wasteland
+- Rogue rangers, fiends, raiders, drug smugglers, cannibals, and pistoleros, are a few of the enemies you will face. 
+- Enemies designed to be boss-caliber which gradually get more difficult as you progress
+- 436+ lines of fully-voiced dialogue
+
+__**LE Specific Features**__
+- Countless bug fixes and minor enhancements that in no way change Someguy2000's vision.
+- Conversion to ESM for proper navmesh function, no need for ini tweaks, and less memory usage/save bloat.
+- Assets packed into uncompressed BSA files to speed loading on modern systems.
+- Remastered and some revoiced character audio.
+- If you have NVSE and kNVSE installed, Sweet Revenge will have new custom animations created by Hitman47101.
+
+__**Location**__
+- Just oustide of Primm
+
+__**How to Start**__
+- Speak with Steven Randall about the bounty hunter position in the Randall & Associates Building
+
+{: .hint}
+> [Click Here for the NVB Wiki](https://someguy2000.fandom.com/wiki/New_Vegas_Bounties_(quest))
 
 
 ## **The Regulators**
