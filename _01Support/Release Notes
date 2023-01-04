@@ -10,8 +10,6 @@ description: Release Notes
 
 ### Release Notes
 
-<iframe src="https://api.github.com/repos/TheMrNewVegas/TTWTrueVegas/releases" width="1200" height="1044" align="left" frameborder="0" marginheight="0" marginwidth="0"> Loading…</iframe>
-
 <iframe id="github-iframe" src=""></iframe>
 <script>
     fetch('https://api.github.com/repos/TheMrNewVegas/TTWTrueVegas/releases')
