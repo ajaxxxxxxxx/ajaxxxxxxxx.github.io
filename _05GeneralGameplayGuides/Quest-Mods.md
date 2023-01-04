@@ -82,10 +82,6 @@ Potential spoilers for gameplay and quests below.
 
 ## **TTW Merged Collectables Quests**
 
-[Link to Nexus Page]
-
-## **The Regulators**
-
 [Link to Nexus Page](https://www.nexusmods.com/newvegas/mods/75829)
 
 **Features**
@@ -103,6 +99,28 @@ Potential spoilers for gameplay and quests below.
 - Please refer to the individual mod pages for more info
 
 ![image](https://user-images.githubusercontent.com/112358568/210500592-f55801a7-570f-4308-8da9-5642803a9d83.png)
+
+## **The Regulators**
+
+[Link to Nexus Page](https://www.nexusmods.com/newvegas/mods/66266)
+
+**Features**
+- There are 47 new missions at locations all over the wasteland.
+- The missions are to take out a fugitive and his gang of outlaws.
+- The missions start out easy but they soon become very difficult. You will have to use everything at your disposal to win!
+- Each contract completed rewards you in Karma and caps.
+- Complete all 47 missions without cancelling any of them and be rewarded with the 'Regulators Speciality' perk.
+> The Perk gives you +5% damage resistance, +5% critical hit chance.
+- Two special weapons which you must search for in the Regulator HQ if you want them.
+> Sawed off shotgun which has better accuracy and damage
+> Silenced 10mm Submachine Gun for the silent kills. Has a slower rate of fire but does more damage.
+- Purchase Heavy Regulators to patrol the compound and Turret Emplacements to protect your HQ.
+
+**Location**
+- Regulator HQ (NE of Megaton, West of the Wheaton Armory)
+
+**How to Start**
+- After you get the Lawbringer perk, visit the Regulator HQ and access the terminal.
 
 
 ## **Washington's Malevolence**
