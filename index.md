@@ -50,3 +50,7 @@ If you do not know what Tale of Two Wastelands is, it is a total conversion of F
 
 Tale of Two Wastelands does not endorse this mod list and in addition, does not have the resources or time to help with problems regarding it. Please source all help to our discord alone. Even if you think that your question relates to your installation of Tale of Two Wastelands itself, please bring it into our discord.
 
+## A Small Note
+
+While we use the open source Just The Docs format, we have leaned heavily on the custom resources created by the talented [Wildlander Team's Wiki](http://wiki.wildlandermod.com). I will continue to try to improve from their format and change ours to not be a near replica and would like to thank them for providing the resources for me being able to learn and so so. 
+
