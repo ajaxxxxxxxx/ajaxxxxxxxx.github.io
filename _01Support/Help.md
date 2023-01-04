@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How to Seek Help
-nav_order: 1
+nav_order: 2
 description: Help Guidelines
 ---
 
