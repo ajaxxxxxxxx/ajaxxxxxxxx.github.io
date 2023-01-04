@@ -54,7 +54,7 @@ It is stored in Benny's safe at the Tops Casino
 
 More than likely not and if there is it will not be in the forseeable future
 
-## **10.) How do I start the DLC's?
+## **10.) How do I start the DLC's?**
 
 __**Starting the DLC for Fallout: New Vegas works as follows:**__
 - **Dead Money:** The radio broadcast reaches to about Helios One and needs to be listened to for the quest to start.
