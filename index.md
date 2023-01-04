@@ -52,5 +52,5 @@ Tale of Two Wastelands does not endorse this mod list and in addition, does not 
 
 ## A Small Note
 
-While we use the open source Just The Docs format, we have leaned heavily on the custom resources created by the talented [Wildlander Team's Wiki](http://wiki.wildlandermod.com). I will continue to try to improve from their format and change ours to not be a near replica and would like to thank them for providing the resources for me being able to learn and so so. 
+While we use the open source Just The Docs format, we have leaned heavily on the custom resources created by the talented [Wildlander Team's Wiki](http://wiki.wildlandermod.com). I will continue to try to improve from their format and change ours to not be a near replica and would like to thank them for providing the resources for me being able to learn and so so. If you are a fan of Skyrim, please check out their [Wildlander List](https://www.wildlandermod.com). It is the sole reason I got into making mod lists and I attribute nearly all of my ideas, work ethic, and general skillset to their hard work.
 
