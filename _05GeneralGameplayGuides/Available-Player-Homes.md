@@ -6,7 +6,7 @@ description: Player Homes Throughout Mojave & Capital Wastes
 ---
 
 ### SPOILER WARNING
-**Potential spoilers for gameplay and quests in drop down menus below.**
+**Potential spoilers for gameplay and quests below.**
 
 # **Player Homes**
 
