@@ -54,11 +54,6 @@ __**How to Start**__
 
 ## **New Vegas Bounties I LE**
 
-[Link to Nexus Page]
-
-
-## **TTW Merged Collectables Quests**
-
 [Link to Nexus Page](https://www.nexusmods.com/newvegas/mods/77108)
 
 __**General Mod Features**__
@@ -82,6 +77,10 @@ __**How to Start**__
 
 {: .hint}
 > [Click Here for the NVB Wiki](https://someguy2000.fandom.com/wiki/New_Vegas_Bounties_(quest))
+
+![image](https://user-images.githubusercontent.com/112358568/210499960-43787519-b240-49a8-b2c1-abbbd799012f.png)
+
+## **TTW Merged Collectables Quests**
 
 
 ## **The Regulators**
