@@ -17,6 +17,6 @@ description: Release Notes
             return response.json();
         }).then(function(data) {
             var iframe = document.getElementById('github-iframe');
-            iframe.src = '' + encodeURIComponent(data['content']);
+            iframe.src = 'https://github.com/TheMrNewVegas/TTWTrueVegas/releases' + encodeURIComponent(data['content']);
         });
 </script>
