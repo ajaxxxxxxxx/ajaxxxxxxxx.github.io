@@ -122,8 +122,25 @@ Potential spoilers for gameplay and quests below.
 **How to Start**
 - After you get the Lawbringer perk, visit the Regulator HQ and access the terminal.
 
+![image](https://user-images.githubusercontent.com/112358568/210501385-8c0f9b18-e6ec-4e23-82b8-7e205666c041.png)
 
 ## **Washington's Malevolence**
 
-[Link to Nexus Page]
+[Link to Nexus Page](https://www.nexusmods.com/newvegas/mods/75027)
+
+**Features**
+- A completely new area and questline
+- Multiple explorable locations
+
+**Warnings About This Mod**
+- Sometimes, scripted events may not occur properly. Washington's Malevolence relies heavily on scripted encounters and can sometimes have problems with NPCs not appearing on cue. After doing some digging, I've determined that this is most likely a problem with trigger boxes not working properly in the latest versions of xNVSE. - Sometimes, the trigger boxes just don't run their scripts as they should. It is rare and difficult to reproduce.
+- Sometimes in the Vault 98 security hall, the game will CTD randomly. I haven't been able to track down the cause of the issue. This is an issue with both versions of this mod.
+
+**Location**
+- Citadel Bailey
+
+**How to Start**
+- Retrieve the note from next to the entrance door in the Citadel Bailey upon completing The Waters of Life. You only need access to the Citadel; completing the main quest of Fallout 3 is no longer a requirement.
+
+![image](https://user-images.githubusercontent.com/112358568/210501500-114ee89f-2eee-491b-8bc9-aa410fb1ac5b.png)
 
