@@ -29,4 +29,6 @@ Adds a repeatable Courier Delivery Service quest to Primm, with time limits, ran
 - Package Delivery Challenge
 - And more!
 
+**Location(s):** Primm
+
 ![image](https://user-images.githubusercontent.com/114360108/210483336-eba29ec0-c26f-40b1-b5ee-572401dcb080.png)
