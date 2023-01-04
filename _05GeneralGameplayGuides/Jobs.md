@@ -108,6 +108,9 @@ This is a revised and rebuilt edition of the old mod of the same name. The entir
 - The Underworld
 - Tenpenny Tower
 
+![image](https://user-images.githubusercontent.com/112358568/210503522-de6db242-8089-4d7c-8755-7ee6fb2a0406.png)
+
+
 ## **Working on the Chain Gang**
 
 [Link to Nexus Page](https://www.nexusmods.com/newvegas/mods/74958)
@@ -133,3 +136,6 @@ Working on the Chain Gang is a Powder Ganger-centric quest mod designed to begin
 
 **How to Start**
 - Find a man named Whitmeyer at Goodsprings Source.
+
+![image](https://user-images.githubusercontent.com/112358568/210503571-9ec77400-ac31-4cd6-8bd9-e059443b1cce.png)
+
