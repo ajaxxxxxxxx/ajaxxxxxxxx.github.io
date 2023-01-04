@@ -66,6 +66,14 @@ description: First Things to Read Into
 {: .important}
 > Make sure any pre-existing ini’s are deleted  so they game can build them again post installation. These can be found in Documents > My Games > Fallout NV most commonly
 
+{: .important}
+> Make sure your Fallout New Vegas is set to the English language as other languages are not supported. 
+
+![image](https://user-images.githubusercontent.com/112358568/210669768-419af1eb-8d7a-4e81-8e0e-6dd1c9b45100.png)
+
+![image](https://user-images.githubusercontent.com/112358568/210669813-da7cc682-1216-410d-aa04-4fdc6474a865.png)
+
+
 - Now Install [Microsoft Visual C++ Redistributable x86 & x64 Version](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) – Install them over each other by clicking “repair” when you install the other version.
 
 **![AAA](https://media.discordapp.net/attachments/984100624733962340/1019103684820467802/unknown.png)**
