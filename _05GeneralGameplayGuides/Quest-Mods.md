@@ -10,6 +10,8 @@ Potential spoilers for gameplay and quests below.
 
 ## **Casino Heists**
 
+[Link to Nexus Page](https://www.nexusmods.com/newvegas/mods/59896)
+
 __**Features:**__
 - 3 Casino vaults for you to rob - Gomorrah, The Tops and Ultra-Luxe
 - 2 alternative ways to break into each vault
@@ -19,8 +21,14 @@ __**Features:**__
 - Guard Bosses
 - Lots of money and gold to be stolen!
 
+__**Location**__
+- The Strip
+
 __**How to Start**__
 - To find out how to get into each Casino's vault, there's a blueprint hidden in every respective Casino's main floor area that gives you all the information you need.  - The vault areas are integrated into the vanilla areas in such a way that it is easy to stumble into them naturally during the main story as well.
+
+![image](https://user-images.githubusercontent.com/112358568/210498485-734f4bcd-5884-4e47-8c63-fa022c7274ce.png)
+
 
 ## **The Caravan Tournament**
 
