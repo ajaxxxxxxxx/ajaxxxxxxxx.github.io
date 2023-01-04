@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DXVK Uninstall
-nav_order: 3
+nav_order: 5
 description: How to Uninstall DXVK
 ---
 
