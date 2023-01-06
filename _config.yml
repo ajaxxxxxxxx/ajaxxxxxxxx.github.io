@@ -109,6 +109,9 @@ collections:
   06UserCreatedGuides:
     permalink: "/:collection/:path/"
     output: true
+  07ForlornHope:
+    permalink: "/:collection/:path/"
+    output: true
     
 just_the_docs:
   collections:
@@ -128,5 +131,8 @@ just_the_docs:
       name: General Gameplay Guides
       nav_fold: true 
     06UserCreatedGuides:
+      name: User Created Guides
+      nav_fold: true 
+    07UserCreatedGuides:
       name: User Created Guides
       nav_fold: true 
