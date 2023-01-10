@@ -9,8 +9,8 @@ has_toc: true
 
 ![Wiki_Logo](https://user-images.githubusercontent.com/112358568/210277595-96e03939-e710-4ba4-9f85-3e0d8dc7cdcc.png)
 
-# 01/08/2023 NOTICE
-## Nexus Mods & The Wabbajack Download Will Be Down @ 11 PM CST/12 AM EST
+# 01/09/2023 NOTICE
+## Nexus Mods is Back Up But Expect Ups/Downs & Possible Issues Over the Next Few Days
 
 ## What is Capital Punishment?
 Capital Punishment is Fallout New Vegas mod list based on the Tale of Two Wastelands Mod (Version 3.3.2). It seeks to bring a multitude of graphical changes and hardcore roleplaying elements to the Capital & Mojave wastes. Alongside these changes are various new quests, player homes, jobs, weapons, in game systems, and much more. If you would like to see an extensive list of our load order/mod list, [click here](https://www.wabbajack.org/search/TTWTrueVegas/capitalpunishment). While I can take the credit for compiling the mods together to make this list, I cannot take credit for the amazing work the many mod authors involved have provided. If you can, take the time to support and endorse mods in the list that you enjoy!
