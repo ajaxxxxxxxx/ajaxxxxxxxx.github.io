@@ -7,6 +7,13 @@ nav_order: 1
 description: Modlist Misconceptions
 ---
 
+## **0.) TLDR/Current Modpack State**
+
+- **Does the Modlist Have Bugs?** - Yes
+- **Are they Gamebreaking?** - None Currently 
+- **Is this the list for me?** - If you like the content I have curated/gameplay balances
+- **Is the list in active development/actively supported?** - Yes
+
 ## **1.) Is this list broken?**
 
 While this list is not perfect, it is far from broken and is regularly maintained. At one point in time I could not have said this as confidently as I do now. From the days of our broken vortex packs we have come a long way in ensuring this is as stable and smooth as it can possibly be. In the end we have had numerous users report easily logging full playthroughs spanning 50-200 hours without save corrupts, crashes, or other issues.
