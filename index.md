@@ -24,7 +24,7 @@ If you do not know what Tale of Two Wastelands is, it is a total conversion of F
 
 ## **The MNV Staff**
 
-### **Community Manager**: Bird/Lilly
+### **Community Manager**: [Bird/Lilly](https://linktr.ee/lillybird69)
 - The head of our Help team as well as one of the driving forces behind documentation, outreach, and other behind the scenes development for the community.
 
 ![image](https://user-images.githubusercontent.com/112358568/210427354-a304fc08-f74e-47fe-ad71-736bfa93e8e9.png)
