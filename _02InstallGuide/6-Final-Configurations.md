@@ -8,8 +8,6 @@ description: Last steps of the guide
 ## **Final Configurations**
 - If your game won't boot and you cannot find the the libogg.dll, libvorbis.dll, or libvorbisfile.dll in your "Capital Punishment/Stock Game" directory after having fully finished the TTW steps, you may find copies in your "Capital Punishment/Game Folder Files" directory which you can copy and paste into your "Capital Punishment/Stock Game directory"
 
-![image](https://user-images.githubusercontent.com/112358568/189825582-3cc598bd-2827-49af-a603-3309cc1d8d6e.png)
-
 - Now find your Tale of Two Wastelands mod in the left hand pane.
 
 ![image](https://user-images.githubusercontent.com/112358568/190857255-ce4335e6-9c86-4072-a166-a5d24ba904be.png)
