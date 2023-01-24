@@ -17,5 +17,13 @@ Forlorn Hope is an upcoming Fallout 4 Modlist which attempts to tie in elements 
 
 Forlorn Hope was named after the popular camp in Fallout New Vegas. We wanted to show that we have not forgotten our roots from Capital Punishment, and will provide plenty of references to the days of the Capital/Mojave. 
 
+## **How do I Install This List**
+
+For now this list is under heavy development. From the start of the original True Vegas to now, many mistakes have been made and many half-cocked releases put out. With Forlorn Hope I want to change this. Using the knowledge I've gained in the last 8 months, the help from my immensely talented time, and new knowledge I am gaining through development, I hope to release this in a fully stable manner for all of you to enjoy and experience relatively stable and bug free. A release date is not out yet nor will it be provided for a while. Please refer to this page/section for updates on a release date and general development
+
+## **Where is the pack at Development Wise?**
+
+As of (1/23/2023) we feel as though the current addon set we have will be the included addons for base release. While more may be added, a majority of functionality, gameplay loop, and most other features are implemented. This longer phase of development will be hand testing everything, XEdit Conflict Resolution, and ensuring this is the best experience it can be.
+
 
 
