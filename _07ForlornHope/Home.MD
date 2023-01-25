@@ -25,5 +25,6 @@ For now this list is under heavy development. From the start of the original Tru
 
 As of (1/23/2023) we feel as though the current addon set we have will be the included addons for base release. While more may be added, a majority of functionality, gameplay loop, and most other features are implemented. This longer phase of development will be hand testing everything, XEdit Conflict Resolution, and ensuring this is the best experience it can be.
 
+## **Notice**
 
-
+This page and its associated pages will serve as the main pages for the list until a proper restructure and design can be made to the site. This restructure will include a new domain and a less Capital Punishment focused home page/side navigation bar
