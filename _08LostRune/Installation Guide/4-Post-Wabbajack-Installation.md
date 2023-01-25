@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Post Wabbajack Installation & MO2 Setup
+has_toc: true
+parent: Installation Guide
 nav_order: 4
 description: How to finish installation
 ---
