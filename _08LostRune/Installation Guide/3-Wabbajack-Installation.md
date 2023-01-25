@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Wabbajack Installation
+has_toc: true
+parent: Installation Guide
 nav_order: 3
 description: How to Install Through Wabbajack
 ---
