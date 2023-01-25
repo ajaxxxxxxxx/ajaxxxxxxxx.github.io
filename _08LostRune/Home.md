@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: LR Home Page
+---
+
 **Welcome to the Lost Runes wiki!**
 
 ![](https://i.gyazo.com/0826c66b57cbf0a6589e04418b33ae09.jpg)
