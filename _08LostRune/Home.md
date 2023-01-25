@@ -5,7 +5,7 @@ nav_order: 1
 description: LR Home Page
 ---
 
-**Welcome to the Lost Runes wiki!**
+**Welcome to the Lost Runes Wiki!**
 
 ![](https://i.gyazo.com/0826c66b57cbf0a6589e04418b33ae09.jpg)
 
