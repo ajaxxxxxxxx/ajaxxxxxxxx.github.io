@@ -112,6 +112,9 @@ collections:
   07ForlornHope:
     permalink: "/:collection/:path/"
     output: true
+  08LostRune:
+    permalink: "/:collection/:path/"
+    output: true
     
 just_the_docs:
   collections:
@@ -134,5 +137,8 @@ just_the_docs:
       name: User Created Guides
       nav_fold: true 
     07ForlornHope:
-      name: Forlorn Hope
+      name: Forlorn Hope - FO4
+      nav_fold: true 
+    08LostRune:
+      name: Lost Rune - SKAE
       nav_fold: true 
