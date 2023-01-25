@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Before We Get Started
+has_toc: true
+parent: Installation Guide
 nav_order: 1
 description: First Things to Read Into
 ---
