@@ -16,15 +16,6 @@ The changes to the temple are also respectful to the lore of the area as well. F
 
 
 
-***
-
-
-
-**[Ashfall](https://www.nexusmods.com/skyrimspecialedition/mods/80638)**
-
-Ashfall is a Build Your Own Home style player home that comes with custom storages, displays for items weapons and armor. A complete crafting area, mannequins, all Doomstones and Shrines and a teleport spell.
-
-
 
 ***
 
