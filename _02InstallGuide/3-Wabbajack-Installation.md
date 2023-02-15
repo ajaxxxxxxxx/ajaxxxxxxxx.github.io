@@ -5,6 +5,15 @@ nav_order: 3
 description: How to Install Through Wabbajack
 ---
 
+## If You are Downloading the List From a .Wabba File
+- Go to Wabbajack and click install from disk
+![image](https://user-images.githubusercontent.com/112358568/218915538-8ca1e58d-f12e-439d-ae3a-ceef01bfe668.png)
+
+- Choose the .Wabbajack file you downloaded amd open it
+![image](https://user-images.githubusercontent.com/112358568/218915687-99e65947-0738-4f4f-875c-90189e8fcc42.png)
+
+- Continue your installation from the step **"For installation Location..."** on this page
+
 ## **Wabbajack Installation**
 
 - Go to the home screen and go to browse modlists
