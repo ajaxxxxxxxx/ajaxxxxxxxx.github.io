@@ -40,7 +40,7 @@ If you do not know what Tale of Two Wastelands is, it is a total conversion of F
 ## How do I Get Help?
 1.) Make sure to look at the installation guide and follow in order.
 
-2.) The next step would be to check our [FAQ](https://themrnewvegas.github.io/01Support/FAQ/)
+2.) The next step would be to check our [FAQ](https://www.capitalpunishmentmod.com/01Support/FAQ/FAQ/)
 
 3.) If your issue is not in the FAQ or Installation Guide, take the time to look around the Wiki (Especially if its gameplay related questions such as "How do I Repair Guns?"
 
