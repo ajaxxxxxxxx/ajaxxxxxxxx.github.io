@@ -48,3 +48,7 @@ If you are on the preconfigured save, just press the INSERT button on your keybo
 ## **5.) Where can I find an updated list of mods?**
 
 [Click Here](https://www.wabbajack.org/search/TTWTrueVegas/capitalpunishment)
+
+## **6.) When I launch the game, it loads the black dialog box, but does not launch the game. How do I fix this?**
+
+
