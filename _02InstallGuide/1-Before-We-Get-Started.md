@@ -55,10 +55,7 @@ description: First Things to Read Into
 
 ## **Starting Off...**
 
-- Install both Fallout New Vegas & Fallout 3. After they have installed, run them both once and then close their launchers after your settings have been detected. You may also take this time to quickly change your resolution to what you prefer for Fallout NV.
-
-{: .important}
-> Make sure to enable HDR and disable V-Sync
+- Install both Fallout New Vegas & Fallout 3. 
 
 {: .important}
 > Make sure old installations are completely deleted and reinstalled, especially if they have been previously modded
