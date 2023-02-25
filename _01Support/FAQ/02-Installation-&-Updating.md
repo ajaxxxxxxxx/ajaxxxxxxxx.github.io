@@ -53,10 +53,10 @@ If you are on the preconfigured save, just press the INSERT button on your keybo
 This is likely due to preexisting INI's or other files being prevalent in your %USER$/My Games/FalloutNV folder. Delete these files, then follow the steps below
 
 - Run Tale of Two Wastelands through MO2.
-- 
+
 - When the New Vegas Launcher pops up, change your resolution/your preset to your preferred preset. Exit the launcher
-- 
+
 - Run Tale of Two Wastelands through MO2 again
-- 
+
 - A popup will appear asking if you would like to "Clear the Read Only Flag" choose the first option stating "Clear the Read Only Flag"
 
