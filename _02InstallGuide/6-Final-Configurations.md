@@ -16,6 +16,17 @@ description: Last steps of the guide
 
 ![image](https://user-images.githubusercontent.com/112358568/190857287-613d5f0a-6c11-4d84-b4b5-67f3949d947e.png)
 
+## **Launching for the First Time**
+- In MO2 go to the top right and select the Tale of Two Wastelands Option from the dropdown. Then press run.
+![image](https://user-images.githubusercontent.com/112358568/221331509-65fcd2f4-bc18-4d56-a3d7-0e696d563f62.png)
+
+- The Fallout New Vegas launcher will popup, change your resolution & preset to what you would like. Press ok when you have finished setting your settings to your preference then exit the launcher
+
+![image](https://user-images.githubusercontent.com/112358568/221331595-32557acf-5692-4db0-ab84-300da8969b09.png)
+
+![image](https://user-images.githubusercontent.com/112358568/221331573-d864ddd5-38d0-427c-adba-29d829e8e613.png)
+
+
 ### **Preconfigured Save Game**
 
 - Go to Your Capital Punishment/Game Folder Files
@@ -34,9 +45,8 @@ description: Last steps of the guide
 
 ![image](https://user-images.githubusercontent.com/112358568/198391168-fb244524-2a84-488b-8bfc-48d1ae51cb5d.png)
 
-- After doing this your game should run smoothly! You can now run your FalloutNV.exe whenever you're ready in Mod Organizer and all should be well! If you plan to use the preconfigured save, just make sure to go into game, select load, and look for this particularly save after completing the above steps to integrate it
+- After doing this your game should run smoothly! Run Tale of Two Wastelands through MO2 again. You will likely receive a popup asking you would like to clear a read only flag. Make sure you choose **"Clear Read Only Flag"**.
 
-![image](https://user-images.githubusercontent.com/114360108/202832675-b9a33f4f-38e5-4ca5-9a5a-2cda4e34cd55.png)
 
 ## **If You Cant Find the Provided Lib Files**
 
