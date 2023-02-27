@@ -1,0 +1,14 @@
+---
+layout: default
+title: (Optional) NVR Installation
+nav_order: 7
+description: How to instal New Vegas Reloaded
+---
+
+I would suggest trying the game out first to see how your performance fairs prior to installing this. That being said, it drastically changes the look of the entire game and is heavily recommended 
+
+1.) Create a mod inside of the Modpack Resources separator called "NVR" by right clicking the seperator, going to all mods> and then clicking create mod inside.
+
+2.) To install NVR, begin by going to the TES Reloaded Discord server and go to the #nightly-builds channel to find the NewVegasReloaded.zip file. Once downloaded, extract all of the files located in the archive folder to the NVR mod you created under the Modpack Resources separator by right clicking it and opening in explorer.
+
+3.) Then you're going to go to [#preset-share] and get the preset from A Raven of Many Hats and extract it to the same place as you did NVR, overwriting the file in there already.
