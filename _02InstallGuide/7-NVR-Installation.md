@@ -25,7 +25,7 @@ I would suggest trying the game out first to see how your performance fairs prio
 ![image](https://user-images.githubusercontent.com/112358568/221451880-b1f6135d-d6d6-4920-9fe6-a6e522be1b98.png)
 
 
-3.) Go to this link in the [#preset-share channel of the TES Reloaded discord](https://discord.com/channels/344843935123898369/1030630380455350272/1076152796514107493) and download Sigerious's preset
+3.) Go to this link in the [#preset-share channel of the TES Reloaded discord](https://discord.com/channels/344843935123898369/1030630380455350272/1076152796514107493) and download Sigerious's preset. You may choose any preset of your liking but this is my preferred for the time being
 
 ![image](https://user-images.githubusercontent.com/112358568/221451752-312ee097-db47-448e-97d7-cfd43ff6ede7.png)
 
