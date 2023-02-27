@@ -9,7 +9,7 @@ description: How to instal New Vegas Reloaded
 
 I would suggest trying the game out first to see how your performance fairs prior to installing this. That being said, it drastically changes the look of the entire game and is heavily recommended 
 
-1.) Create a mod inside of the Modpack Resources separator called "NVR" by right clicking the seperator, then navigating going to All Mods>Create Empty Mod Inside
+1.) Create a mod inside of the Modpack Resources separator called "[No Delete] NVR" by right clicking the seperator, then navigating going to All Mods>Create Empty Mod Inside
 
 ![image](https://user-images.githubusercontent.com/112358568/221451734-48fd9833-c2c6-453e-99b5-c3e49d9f11de.png)
 
