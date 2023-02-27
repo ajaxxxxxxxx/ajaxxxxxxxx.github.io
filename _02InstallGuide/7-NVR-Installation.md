@@ -36,6 +36,8 @@ I would suggest trying the game out first to see how your performance fairs prio
 
 ![image](https://user-images.githubusercontent.com/112358568/221451913-2b243055-9e88-432a-a5ac-8b2bb8d5bfe8.png)
 
-5.) Enable the mod in MO2 & Launch the game. Should work from here :)
+5.) Enable the mod in MO2 & Launch the game. Should work from here!
+
+![image](https://user-images.githubusercontent.com/112358568/221454282-cd628317-e4bf-4de1-9c80-462e29bba8e4.png)
 
 **Notice:** If you try to use an older preset on a newer version of NVR, you will experience crashes and break your NVR. Please be aware of the presets you decide to use and what version of NVR you are on (As of the posting of this guide, both the listed presets should work with the current version of NVR)
