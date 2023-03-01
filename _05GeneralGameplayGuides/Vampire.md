@@ -18,3 +18,46 @@ description: How to Become a Vampire
 ### **Requirements:**
 - Speech Level: 70 (Optional, Makes Getting to the End of the Questline Much Easier)
 - Medicine Level: 50 (Hard Requirement)
+
+
+### **Constant Benefits of Vampirism**
+- Water breathing
+- Poison immunity
+- Increased jump height
+- Increased aerial maneuverability
+- Fall damage immunity
+- x2 Speed Multiplier
+- +100 Health
+- -20% aim spread
+- +10 DT
+
+### **Benefits of Vampirism (If Not Taking Sunlight Rads)
+- +20 DT
+- +100 Carry Weight
+- Ð+1/s Radiation Recovery (up to 900 dehydration)
+- Ð+1/s Health Recovery (non-combat, up to stage 3)
+- +50 Action Points
+
+### **Negatives of Vampirism**
+- 100% Fire Resistance (Watch out in for those Greyditch Ants)
+
+### **Affects of Daylight on a Vampire**
+- Constant Sunlight RADs 1/s  (raining/snowing/cloudy/swimming)
+- Late morning/midday RADs +3/s  (raining/snowing/cloudy/swimming)
+- -20% DR  (raining/snowing/cloudy/swimming)
+- -4 Strength  (raining/snowing/cloudy/swimming)
+- -4 Endurance (raining/snowing/cloudy/swimming)
+
+### **Positive Affects of Being Blood Starved**
+- Stage 1 (<200 Dehydration): +15 melee & unarmed damage, ignore 20% DT
+- Stage 2 (200-399 Dehydration): +20 melee & unarmed damage, ignore 40% DT
+- Stage 3 (400-599 Dehydration): +25 melee & unarmed damage, ignore 60% DT
+- Stage 4 (600-799 Dehydration): +30 melee & unarmed damage, ignore 80% DT
+- Stage 5 (800+ Dehydration): +50 melee & unarmed damage, ignore 100% DT
+
+### **Negative Affects of Being Blood Starved**
+- Stage 1 (<200 Dehydration): None
+- Stage 2 (200-399 Dehydration): -50 Sunlight RADs Resistance, -1 Charisma & -10 Damage Resistance
+- Stage 3 (400-599 Dehydration): -100 Sunlight RADs Resistance, -2 Charisma & -15 Damage Resistance
+- Stage 4 (600-799 Dehydration): -150 Sunlight RADs Resistance, -2 Charisma & -20 Damage Resistance
+- Stage 5 (800+ Dehydration): -200 Sunlight RADs Resistance, -3 Charisma & -25 Damage Resistance
