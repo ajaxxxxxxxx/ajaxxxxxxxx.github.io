@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beating FO3 and Character Creation
-nav_order: 2
+nav_order: 3
 description: How to Beat FO3 & Create Your Character
 ---
 
