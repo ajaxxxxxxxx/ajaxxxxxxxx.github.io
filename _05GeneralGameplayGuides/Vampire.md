@@ -31,7 +31,7 @@ description: How to Become a Vampire
 - -20% aim spread
 - +10 DT
 
-### **Benefits of Vampirism (If Not Taking Sunlight Rads)
+### **Benefits of Vampirism (If Not Taking Sunlight Rads)**
 - +20 DT
 - +100 Carry Weight
 - _+1/s `RADIATION RECOVERY` (up to 900 dehydration)_
