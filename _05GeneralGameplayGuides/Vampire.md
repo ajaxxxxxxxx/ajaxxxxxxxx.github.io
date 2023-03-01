@@ -18,8 +18,14 @@ description: How to Become a Vampire
 - The more dehydrated you become, the more feral (increased damage, decreased damage resistance).
 - Sunlight can be fatal. Be cautious when waiting outdoors. Especially at higher stages.
 - While taking shelter from the sun, any accumulated RADs will shed, but dehydrate you faster while it does.
-= While not in combat or in the sun, your health restores, but will also dehydrate you faster.
+- While not in combat or in the sun, your health restores, but will also dehydrate you faster.
 - The weather is much more agreeable for a vampire in D.C. compared to the desert. But don't let that stop you.
+- Blood from mutated creatures and ghouls that additionally gives minor radiation resistance has been added, but acquiring it without Ghastly Scavenger will have a lesser effect and cause vomiting, which hurts (but won't kill).
+- Tribal Wisdom enhances animal blood effects.
+- Non-mutant blood can now remove radiation.
+- Disabled water hydration from puddles and faucets. (let me know if a water source was left out)
+- Removed additional radiation weaknesses when submerged in water.
+- Added minor karma loss for drinking human blood.
 
 ## Specific Vampiric Affects (Spoilers Ahead)
 
