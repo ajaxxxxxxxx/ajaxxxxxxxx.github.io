@@ -5,14 +5,26 @@ nav_order: 7
 description: How to Become a Vampire
 ---
 
+## **Shoutout to Seldalore**
+- He is the original author of the mod and walked me through the changes needed to make this mod work specifically how I was looking for it to. If you've got the time give him an endorsement on his [Wasteland Vampirism](https://www.nexusmods.com/newvegas/mods/79669?tab=files&BH=2) mod and check out his other mods [here](https://www.nexusmods.com/newvegas/users/459172)
+
+## General Features of the Vampirism Mod
+
+- Living creatures will have Blood in their inventory on death.
+- Taking the Fresh Blood instantly hydrates and heals. (used upon acquiring)
+- Fresh Blood scales with the Medicine skill.
+- Normal Blood Packs you find in the Wasteland won't do. It must be fresh. (see optional files)
+- Food and drink have no positive effect on appetite.
+- The more dehydrated you become, the more feral (increased damage, decreased damage resistance).
+- Sunlight can be fatal. Be cautious when waiting outdoors. Especially at higher stages.
+- While taking shelter from the sun, any accumulated RADs will shed, but dehydrate you faster while it does.
+= While not in combat or in the sun, your health restores, but will also dehydrate you faster.
+- The weather is much more agreeable for a vampire in D.C. compared to the desert. But don't let that stop you.
+
 ## Specific Vampiric Affects (Spoilers Ahead)
 
 {: .warning}
 > Becoming a Vampire is permanent. Once you have accepted these abilities at the end of the "Blood Ties" questline you will be a Vampire for the rest of your playthrough. Before going down this path it is pertninent that you do not make this decision hastily
-
-### **Shoutout to Seldalore**
-- He is the original author of the mod and walked me through the changes needed to make this mod work specifically how I was looking for it to. If you've got the time give him an endorsement on his [Wasteland Vampirism](https://www.nexusmods.com/newvegas/mods/79669?tab=files&BH=2) mod and check out his other mods [here](https://www.nexusmods.com/newvegas/users/459172)
-
 
 ### **Constant Benefits of Vampirism**
 - Water breathing
