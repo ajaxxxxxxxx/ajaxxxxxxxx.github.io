@@ -24,6 +24,7 @@ description: How to Become a Vampire
 - Tribal Wisdom enhances animal blood effects.
 - Non-mutant blood can now remove radiation.
 - Minor karma loss for drinking human blood.
+- Fresh Blood Scales with Medicine Skill
 
 ## Specific Vampiric Affects (Spoilers Ahead)
 
