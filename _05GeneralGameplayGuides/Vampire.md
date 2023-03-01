@@ -81,8 +81,8 @@ description: How to Become a Vampire
 
 ### **Requirements:**
 - The requirements are not necessarily needed until you reach the Mereseti Train Station. Try to start the quest early in your playthrough for the best results and if you need to come back later with higher levels, you can do so.
-- Speech Level: 70 (Optional, Makes Getting to the End of the Questline Much Easier)
-- Medicine Level: 50 (Hard Requirement)
+- Speech Level: 70 (**Optional**, Makes Getting to the End of the Questline Much Easier)
+- Medicine Level: 30 or 50 (Hard Requirement)
 
 ### **Starting Blood Ties**
 
