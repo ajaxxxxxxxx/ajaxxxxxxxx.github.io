@@ -37,7 +37,9 @@ description: How to Become a Vampire
 - _+1/s `RADIATION RECOVERY` (up to 900 dehydration)_
 - _+1/s `HEALTH RECOVERY` (non-combat, up to stage 3)_
 - **+50 Action Points**
-- Any item that is **bolded** in this category does not take affect if in power armor, any item in *italics* in this list means that it is added by dehydration, any `ALL CAPS` item in the list above does not take affect if you are taking sunglight rads
+- Any item that is **bolded** in this category does not take affect if in power armor
+- Any item in *italics* in this list means that it is added by dehydration
+- Any `ALL CAPS` item in the list above does not take affect if you are taking sunglight rads
 
 ### **Constant Negatives of Vampirism**
 - 100% Fire Resistance (Watch out in for those Greyditch Ants)
