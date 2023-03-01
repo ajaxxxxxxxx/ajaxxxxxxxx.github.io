@@ -90,5 +90,48 @@ description: How to Become a Vampire
 
 ### **Getting to the Family**
 
+- Once you've made your way through the Mereseti Trainstation, you will be met by Robert. He is the gate guard. This is where your speech will come in handy. You can either choose 70 speech to get into the Families Hideout or pay 100 caps to enter.
 
+![image](https://user-images.githubusercontent.com/112358568/222066368-23176d14-79b1-4e9e-a7f6-fa956196ba89.png)
 
+![image](https://user-images.githubusercontent.com/112358568/222066528-0f3d64e6-b845-42e9-b7e3-6bf34658b44d.png)
+
+- After doing this enter the hideout through the gate behind Robert. You can talk to anyone in the family if you'd like but our main goal is talking to Vance. Strike up a conversation with him. Let him continue his speech he starts on and DO NOT ATTACK OR TRY TO PROVOKE HIM.
+
+![image](https://user-images.githubusercontent.com/112358568/222066830-e4e12962-1e94-485e-8651-ba0db9e29403.png)
+
+### **Speaking With Vance & Finding Ian**
+
+- After his speech is over you can use Speech 70 again, this time to learn what "The Family" is about. If you do not have 70 speech you will be required to read through the family terminal. This will come up here shortly
+
+![image](https://user-images.githubusercontent.com/112358568/222067098-3444852a-0cd4-45fd-91fc-755f1dfca153.png)
+
+![image](https://user-images.githubusercontent.com/112358568/222067139-a41e5827-8f40-4e78-b3e0-7a42d6e0cecb.png)
+
+- Tell Vance you have been searching for Ian, and that you have a letter from his sister. From here I usually just choose the first option in the dialogue until I reach The Dialogue Which States "Please, You Must Let me Speak to Him". If you did not do the prior speech check, you will choose this and be directed to their family terminal. Read through all of it and then talk to him again. If you did do the "I know you're a vampire" speech check, then "Now That I have a better understanding of the family..." one will be present for you to select.
+
+![image](https://user-images.githubusercontent.com/112358568/222067463-58ff0716-70ed-4175-8db3-5503af6d5070.png)
+
+![image](https://user-images.githubusercontent.com/112358568/222067709-1645ed96-3ef9-4ff1-a941-ef5099bae13e.png)
+
+- Once you have convinced Vance to let you see Ian, unlock the door with the terminal password and approach him
+
+![image](https://user-images.githubusercontent.com/112358568/222067879-53a8a34c-7f63-41da-9ec3-fcb100d6f8ac.png)
+
+![image](https://user-images.githubusercontent.com/112358568/222067910-e74ad4d3-e2ff-4c07-b625-87ec8ff85ab1.png)
+
+- Again I usually just choose the first option until the speech option "Maybe I can Help You" comes up. Choose this one and then convince Ian to Stay With the Family. When you have done so, return to Vance.
+
+![image](https://user-images.githubusercontent.com/112358568/222068169-754de592-8519-406e-9ea7-b2e8bee1de0a.png)
+
+- When you begin talking to Vance again, discuss the fate of Arefu. **THE NEXT STEP IS EXTREMELY IMPORTANT AND YOU MUST FOLLOW THIS OR YOU WILL NOT GET THE PERK**
+
+![image](https://user-images.githubusercontent.com/112358568/222068493-bbbcb361-5a47-4da5-9249-d556d7f8201a.png)
+
+- Propose (Either with 30 or 50 Medicine check) that Arefu Donates Bloodpacks and that they leave the town alone. In addition inform Vance of Ian staying with the family. Begin your travels back to Arefu when this is done
+
+![image](https://user-images.githubusercontent.com/112358568/222068633-5114c0f8-7d82-4eb8-a640-ee9f1b278c8d.png)
+
+![image](https://user-images.githubusercontent.com/112358568/222068711-18e183d1-da5c-45b1-99ae-0e51838c95e9.png)
+
+### **Finishing the Quest**
