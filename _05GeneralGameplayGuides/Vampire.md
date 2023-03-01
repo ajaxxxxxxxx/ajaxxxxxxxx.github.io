@@ -43,7 +43,7 @@ description: How to Become a Vampire
 
 ### **Affects of Daylight on a Vampire**
 - Constant Sunlight RADs 1/s  (raining/snowing/cloudy/swimming)
-**- Late morning/midday RADs +3/s  (raining/snowing/cloudy/swimming)
+- **Late morning/midday RADs +3/s  (raining/snowing/cloudy/swimming)
 - -20% DR  (raining/snowing/cloudy/swimming)
 - -4 Strength  (raining/snowing/cloudy/swimming)
 - -4 Endurance (raining/snowing/cloudy/swimming)**
