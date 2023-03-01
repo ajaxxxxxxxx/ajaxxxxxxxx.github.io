@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Travelling Between Capital & Mojave
-nav_order: 3
+nav_order: 1
 description: How to Get to the Mojave & Back
 ---
 
