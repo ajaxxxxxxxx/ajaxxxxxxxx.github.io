@@ -34,8 +34,8 @@ description: How to Become a Vampire
 ### **Benefits of Vampirism (If Not Taking Sunlight Rads)
 - +20 DT
 - +100 Carry Weight
-- Ð+1/s Radiation Recovery (up to 900 dehydration)
-- Ð+1/s Health Recovery (non-combat, up to stage 3)
+- +1/s Radiation Recovery (up to 900 dehydration)
+- +1/s Health Recovery (non-combat, up to stage 3)
 - +50 Action Points
 
 ### **Constant Negatives of Vampirism**
