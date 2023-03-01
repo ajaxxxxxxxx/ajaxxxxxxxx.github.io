@@ -5,7 +5,7 @@ nav_order: 7
 description: How to Become a Vampire
 ---
 
-## How to Become A Vampire (Spoilers Ahead)
+## Specific Vampiric Affects (Spoilers Ahead)
 
 {: .warning}
 > Becoming a Vampire is permanent. Once you have accepted these abilities at the end of the "Blood Ties" questline you will be a Vampire for the rest of your playthrough. Before going down this path it is pertninent that you do not make this decision hastily
@@ -65,3 +65,5 @@ description: How to Become a Vampire
 - Stage 3 (400-599 Dehydration): -100 Sunlight RADs Resistance, -2 Charisma & -15 Damage Resistance
 - Stage 4 (600-799 Dehydration): -150 Sunlight RADs Resistance, -2 Charisma & -20 Damage Resistance
 - Stage 5 (800+ Dehydration): -200 Sunlight RADs Resistance, -3 Charisma & -25 Damage Resistance
+
+## **How to Become a Vampire (Spoilers Ahead)**
