@@ -11,6 +11,10 @@ description: How to Become a Vampire
 > Becoming a Vampire is permanent. Once you have accepted these abilities at the end of the "Blood Ties" questline you will be a Vampire for the rest of your playthrough. Before going down this path it is pertninent that you do not make this decision hastily
 
 
+### **Shoutout to Seldalore**
+- He is the original author of the mod and walked me through the changes needed to make this mod work specifically how I was looking for it to. If you've got the time give him an endorsement on his [Wasteland Vampirism](https://www.nexusmods.com/newvegas/mods/79669?tab=files&BH=2) mod and check out his other mods [here](https://www.nexusmods.com/newvegas/users/459172)
+
+
 ### **Requirements:**
 - Speech Level: 70 (Optional, Makes Getting to the End of the Questline Much Easier)
 - Medicine Level: 50 (Hard Requirement)
