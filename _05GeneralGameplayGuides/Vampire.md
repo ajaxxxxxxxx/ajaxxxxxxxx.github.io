@@ -53,7 +53,7 @@ description: How to Become a Vampire
 - Any `ALL CAPS` item in the list above does not take affect if you are taking sunglight rads
 
 ### **Constant Negatives of Vampirism**
-- 100% Fire Resistance (Watch out in for those Greyditch Ants)
+- -100% Fire Resistance (Watch out in for those Greyditch Ants)
 
 ### **Affects of Daylight on a Vampire**
 - Constant Sunlight RADs 1/s  (raining/snowing/cloudy/swimming)
