@@ -48,7 +48,7 @@ description: How to Become a Vampire
 - **-20% DR  (raining/snowing/cloudy/swimming)**
 - **-4 Strength  (raining/snowing/cloudy/swimming)**
 - **-4 Endurance (raining/snowing/cloudy/swimming)**
-- **The bolded items above in the category do not apply if you are in power armor**
+- The **bolded** items above in the category do not apply if you are in power armor
 
 ### **Positive Affects of Being Blood Starved**
 - Stage 1 (<200 Dehydration): +15 melee & unarmed damage, ignore 20% DT
