@@ -135,3 +135,28 @@ description: How to Become a Vampire
 ![image](https://user-images.githubusercontent.com/112358568/222068711-18e183d1-da5c-45b1-99ae-0e51838c95e9.png)
 
 ### **Finishing the Quest**
+
+- Travel back to Arefu and talk to Evan King one more time. Tell him that the Family will no longer bother them and lie that Evan was not with the family
+
+![image](https://user-images.githubusercontent.com/112358568/222069114-fbc52cc8-4d3e-4bd0-a214-0c6abfe2ce1c.png)
+
+![image](https://user-images.githubusercontent.com/112358568/222069213-35c0f328-6169-48b4-9f26-5d85b0a9ff27.png)
+
+- The above will complete the quest, but before you end your conversation with Evan, make sure to give the proposal to him from Vance. After doing so, travel to Mereseti to meet with Vance one more time
+![image](https://user-images.githubusercontent.com/112358568/222069310-50e3edef-d8c9-4eec-8ddf-674e37266e71.png)
+
+### **Becoming a Vampire**
+
+{: .warning}
+> If you are having any doubts or changes of heart, understand that once you ask Vance to "Teach Me the Ways of the Vampire" your character will permanently be a vampire. There is no "Are You Sure". You simply initiate the dialogue and you are a vampire.
+
+- When you make it back to the Family's Hideout, talk to Vance again and ask him to "Teach the Ways of the Vampire". He will go through a short span of dialogue and then reward you the traits "Hematophage" & "Wasteland Vampire"
+
+![image](https://user-images.githubusercontent.com/112358568/222069763-444173c1-437d-4a40-9d40-8e63bdc4134e.png)
+
+- Congratulations, you are now one of The Family, but most importantly your are a deadly nightstalker of the wastelands. You now prey on the blood of the innocent, brahmin included and hate the smell of garlic!
+
+![image](https://user-images.githubusercontent.com/112358568/222070064-9a3e1bc5-bada-4c15-8e49-b817a819c659.png)
+
+![image](https://user-images.githubusercontent.com/112358568/222070139-5b63dcbd-5ae2-4e05-bc4a-212e4a19bc27.png)
+
