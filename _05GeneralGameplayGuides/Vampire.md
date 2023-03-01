@@ -38,15 +38,16 @@ description: How to Become a Vampire
 - Ð+1/s Health Recovery (non-combat, up to stage 3)
 - +50 Action Points
 
-### **Negatives of Vampirism**
+### **Constant Negatives of Vampirism**
 - 100% Fire Resistance (Watch out in for those Greyditch Ants)
 
 ### **Affects of Daylight on a Vampire**
 - Constant Sunlight RADs 1/s  (raining/snowing/cloudy/swimming)
-- Late morning/midday RADs +3/s  (raining/snowing/cloudy/swimming)
+**- Late morning/midday RADs +3/s  (raining/snowing/cloudy/swimming)
 - -20% DR  (raining/snowing/cloudy/swimming)
 - -4 Strength  (raining/snowing/cloudy/swimming)
-- -4 Endurance (raining/snowing/cloudy/swimming)
+- -4 Endurance (raining/snowing/cloudy/swimming)**
+- **The bolded items above in the category do not apply if you are in power armor**
 
 ### **Positive Affects of Being Blood Starved**
 - Stage 1 (<200 Dehydration): +15 melee & unarmed damage, ignore 20% DT
