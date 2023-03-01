@@ -10,14 +10,8 @@ description: How to Become a Vampire
 {: .warning}
 > Becoming a Vampire is permanent. Once you have accepted these abilities at the end of the "Blood Ties" questline you will be a Vampire for the rest of your playthrough. Before going down this path it is pertninent that you do not make this decision hastily
 
-
 ### **Shoutout to Seldalore**
 - He is the original author of the mod and walked me through the changes needed to make this mod work specifically how I was looking for it to. If you've got the time give him an endorsement on his [Wasteland Vampirism](https://www.nexusmods.com/newvegas/mods/79669?tab=files&BH=2) mod and check out his other mods [here](https://www.nexusmods.com/newvegas/users/459172)
-
-
-### **Requirements:**
-- Speech Level: 70 (Optional, Makes Getting to the End of the Questline Much Easier)
-- Medicine Level: 50 (Hard Requirement)
 
 
 ### **Constant Benefits of Vampirism**
@@ -67,3 +61,18 @@ description: How to Become a Vampire
 - Stage 5 (800+ Dehydration): -200 Sunlight RADs Resistance, -3 Charisma & -25 Damage Resistance
 
 ## **How to Become a Vampire (Spoilers Ahead)**
+
+### **Requirements:**
+- Speech Level: 70 (Optional, Makes Getting to the End of the Questline Much Easier)
+- Medicine Level: 50 (Hard Requirement)
+
+### **Starting Blood Ties**
+
+- Talk to Lucy West in Megaton. She can be found outside of her house around 8:20 AM in game time. Her house is located East of the Megaton Plaza Directly Above Mr. Burkes House. When she asks you to deliver a message make sure to accept by saying "Sure Why Not"
+
+![image](https://user-images.githubusercontent.com/112358568/222064423-7c6dfa50-4ee4-452a-96e0-08a72aef5589.png)
+
+![image](https://user-images.githubusercontent.com/112358568/222064647-a68b0019-b192-454b-8fcd-3b6470a4ca73.png)
+
+![image](https://user-images.githubusercontent.com/112358568/222064584-5910d90c-3590-4232-bc94-7eed656dbd2d.png)
+
