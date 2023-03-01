@@ -63,16 +63,32 @@ description: How to Become a Vampire
 ## **How to Become a Vampire (Spoilers Ahead)**
 
 ### **Requirements:**
+- The requirements are not necessarily needed until you reach the Mereseti Train Station. Try to start the quest early in your playthrough for the best results and if you need to come back later with higher levels, you can do so.
 - Speech Level: 70 (Optional, Makes Getting to the End of the Questline Much Easier)
 - Medicine Level: 50 (Hard Requirement)
 
 ### **Starting Blood Ties**
 
-- Talk to Lucy West in Megaton. She can be found outside of her house around 8:20 AM in game time. Her house is located East of the Megaton Plaza Directly Above Mr. Burkes House. When she asks you to deliver a message make sure to accept by saying "Sure Why Not"
+- Talk to Lucy West in Megaton. She can be found outside of her house around 8:20 AM in game time. Her house is located East of the Megaton Plaza Directly Above Mr. Burkes House. When she asks you to deliver a message make sure to accept by saying "Sure Why Not". She will give you a letter which you are to take to Arefu.
 
 ![image](https://user-images.githubusercontent.com/112358568/222064423-7c6dfa50-4ee4-452a-96e0-08a72aef5589.png)
 
 ![image](https://user-images.githubusercontent.com/112358568/222064647-a68b0019-b192-454b-8fcd-3b6470a4ca73.png)
 
 ![image](https://user-images.githubusercontent.com/112358568/222064584-5910d90c-3590-4232-bc94-7eed656dbd2d.png)
+
+- When you arrive at Arefu (Northwest of Vault 101), talk to Evan King. State that you have the letter from the West Family. When he asks for you to investigate the issues in Arefu accept. Talk extensively to all of the residents of Arefu and find the bodies of the West family. Once you're done, report back to Evan.
+
+![image](https://user-images.githubusercontent.com/112358568/222064892-c2f8722c-8d72-405d-942d-aaf4e7b3738b.png)
+
+![image](https://user-images.githubusercontent.com/112358568/222064987-9449b243-eaec-4c79-b6d4-bf86dfc5190e.png)
+
+- After reporting back to Evan, assure him youll "Figure Out What Happened to the Wests" and ask him "Where do you think I can find the Family?. Begin making your way to Mereseti Trainyard (East of Arefu)"
+![image](https://user-images.githubusercontent.com/112358568/222065783-ad8e3a30-8756-411c-979e-19ba5d0e368e.png)
+
+![image](https://user-images.githubusercontent.com/112358568/222066127-610952df-fc01-4b94-aef5-de72313c1112.png)
+
+### **Getting to the Family**
+
+
 
