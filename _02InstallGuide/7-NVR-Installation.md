@@ -25,7 +25,7 @@ I would suggest trying the game out first to see how your performance fairs prio
 ![image](https://user-images.githubusercontent.com/112358568/221451880-b1f6135d-d6d6-4920-9fe6-a6e522be1b98.png)\
 
 {: .warning}
-> If you try to use an older preset on a newer version of NVR, you will experience crashes and break your NVR. Please be aware of the presets you decide to use and what version of NVR you are on (As of the posting of this guide, both the listed presets should work with the current version of NVR).
+> If you try to use an older preset on a newer version of NVR, you will experience crashes and break your NVR. Please be aware of the presets you decide to use and what version of NVR you are on. It is best for the time being to match the presets and versions with the screenshots we post here.
 
 
 3.) Go to this link in the [#preset-share channel of the TES Reloaded discord](https://discord.com/channels/344843935123898369/1030630380455350272/1076152796514107493) and download Sigerious's preset or the A Raven of Many Hats preset below. You may choose any preset of your liking but these are my preferred for the time being
