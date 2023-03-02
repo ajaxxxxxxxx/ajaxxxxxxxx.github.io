@@ -25,6 +25,7 @@ description: How to Become a Vampire
 - Non-mutant blood can now remove radiation.
 - Minor karma loss for drinking human blood.
 - Fresh Blood Scales with Medicine Skill
+- Vampires can sneak up on sleeping victims and activate a Feed prompt
 
 ## Specific Vampiric Affects (Spoilers Ahead)
 
