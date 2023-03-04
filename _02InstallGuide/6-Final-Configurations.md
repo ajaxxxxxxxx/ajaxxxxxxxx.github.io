@@ -47,6 +47,7 @@ description: Last steps of the guide
 
 - After doing this your game should run smoothly! Run Tale of Two Wastelands through MO2 again. You will likely receive a popup asking you would like to clear a read only flag. Make sure you choose **"Clear Read Only Flag"**.
 
+- You can delete the downloads folder once the process is completed and running properly. This will save you a lot of hard drive space, but will make updating slower and have to be done each time you update
 
 ## **If You Cant Find the Provided Lib Files**
 
