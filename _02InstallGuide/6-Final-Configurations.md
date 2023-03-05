@@ -62,7 +62,17 @@ description: Last steps of the guide
 
 ![image](https://user-images.githubusercontent.com/112358568/189825312-65d86650-12e6-409f-ad1f-698b7eaeb080.png)
 
-### **NVHR Sidenote:** A black dialog box will pop up when you run your game. If your game freezes or if you have any issues you can alt tab to look at this box and see what they may be.
+### **NVHR Sidenote:** A black dialog box will pop up when you run your game. This mod is essential, but those who experience in game lag may be experiencing a side effect of Steam's Shader Pre-caching system interfering with NVHR and vice versa. 
+
+- To rid of this simply open your steam, go to the top left of steam where it says "Steam", and under that menu settings.
+
+![image](https://user-images.githubusercontent.com/112358568/222941986-5d136c09-69fd-471b-98b7-9482bf234176.png)
+
+- When the Settings Menu opens up, go to "Shader Precaching", then disable "Enable Shader Pre-Caching"
+
+![image](https://user-images.githubusercontent.com/112358568/222942002-455255c1-7146-4e1c-b3e3-a7b5f44aac6f.png)
 
 
-Congratulations! Your game should be up and running smoothly. If you are having any issues, please read the FAQ and re-read the guide before coming to the Discord for help. We have a help channel set up for questions and problems. Please also check the sidebar for Gameplay Guides and more information.
+Congratulations! Your game should be up and running smoothly. You can continue to the option seventh step if you would like NVHR! 
+
+- If you are having any issues, please read the FAQ and re-read the guide before coming to the Discord for help. We have a help channel set up for questions and problems. Please also check the sidebar for Gameplay Guides and more information.
