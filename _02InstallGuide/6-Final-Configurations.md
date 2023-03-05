@@ -76,3 +76,5 @@ description: Last steps of the guide
 Congratulations! Your game should be up and running smoothly. You can continue to the option seventh step if you would like NVHR! 
 
 - If you are having any issues, please read the FAQ and re-read the guide before coming to the Discord for help. We have a help channel set up for questions and problems. Please also check the sidebar for Gameplay Guides and more information.
+
+- If you would like to free up some space, you may also delete the contents of the downloads folder. The con of doing this is that updates will take longer as it will need to install everything again when you do update
