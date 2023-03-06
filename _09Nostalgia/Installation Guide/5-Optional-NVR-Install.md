@@ -13,7 +13,7 @@ description: How to install NVR
 
 ![](https://user-images.githubusercontent.com/112358568/221451815-a9d8f7a8-0804-428b-853b-e779ecfa9b11.png)
 
-2.) To install NVR, begin by going to the [TES Reloaded Discord Server](https://discord.com/invite/QgN6mR6eTK). Go to the #nightly-builds channel to find the latest NewVegasReloaded.zip file. Once downloaded, extract all of the files located in the archive folder to the NVR mod you created under the Modpack Resources separator by right clicking it and opening in explorer.
+2.) To install NVR, begin by going to the [TES Reloaded Discord Server](https://discord.com/invite/QgN6mR6eTK). Go to the #nightly-builds channel to find the NewVegasReloaded.zip file shown in the image. (IF YOU DON'T THEN YOUR GAME WILL LOOK BAD). Once downloaded, extract all of the files located in the archive folder to the NVR mod you created under the Modpack Resources separator by right clicking it and opening in explorer.
 
 ![](https://user-images.githubusercontent.com/112358568/221451782-85799b6d-ce2e-434b-bd31-c5595b76784d.png)
 
@@ -21,9 +21,9 @@ description: How to install NVR
 
 ![](https://i.gyazo.com/a13c71451a416b9da8be90cec26d4ccd.png)
 
-3.) Go to this link in the [#preset-share channel of the TES Reloaded discord](https://discord.com/channels/344843935123898369/1030630380455350272/1077380480283983973) and download sean_macvay55's preset.
+3.) Go to this link in the [#preset-share channel of the TES Reloaded discord](https://discord.com/channels/344843935123898369/1030630380455350272/1077380480283983973) and download A Raven of Many Hats preset.
 
-![](https://i.gyazo.com/f5c779e4de9c1cf16e2b8db15e7495a4.png)
+![](https://i.gyazo.com/fd1e05a8a7eb19a13f126c08aefa8774.png)
 
 4.) Take this file (NewVegasRoladed.dll.config) and in your NVR mod, overwrite the same file. This should be located in NVR>NVSE>Plugins
 
