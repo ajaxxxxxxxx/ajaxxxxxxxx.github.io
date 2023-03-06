@@ -34,5 +34,3 @@ description: Final Installation Steps
 * When in game be sure to press INS and familiarize yourself with the controls! (Controller Overlay coming soon!)
 
 Congratulations! Your game should be up and running smoothly. If you are having any issues, please re-read the guide before coming to the Discord for help. There's a help channel set up for questions and problems. Please also check the sidebar for Gameplay Guides and more information.
-
-_**[NVR INSTALL](https://github.com/McTiddies4Lunch/Nostalgia/wiki/(OPTIONAL)-NVR-Install)**_
