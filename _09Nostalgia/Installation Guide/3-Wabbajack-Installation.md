@@ -19,5 +19,3 @@ When you find Nostalgia, click the download button (bottom icon)
 For installation location, make a folder on the surface of your primary drive called “Nostalgia” and then set it as your installation location. The Download location will automatically populate.
 
 Press the play button to start the installation
-
-_**[Next Step](https://github.com/McTiddies4Lunch/Nostalgia/wiki/Post-Wabbajack-Installation-&-MO2-Setup)**_
