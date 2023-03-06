@@ -2,7 +2,7 @@
 layout: default
 title: Patch Notes
 has_toc: true
-parent: Installation Guide
+parent: Support
 nav_order: 2
 description: Patch Notes
 ---
