@@ -115,6 +115,9 @@ collections:
   08LostRune:
     permalink: "/:collection/:path/"
     output: true
+  09Nostalgia:
+    permalink: "/:collection/:path/"
+    output: true
     
 just_the_docs:
   collections:
