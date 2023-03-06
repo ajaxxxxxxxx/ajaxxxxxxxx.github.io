@@ -10,6 +10,20 @@ description: Patch Notes
 # **Releases (Newest to Oldest)**
 Visit our [Trello](https://www.capitalpunishmentmod.com/01Support/Trello/) for more In Depth Development Logs
 
+## **Release 0.08**
+_**Save safe for previous versions**_
+
+### **Added**
+
+### **Fixed**
+
+### **Updated**
+
+* Control overlay updated to add controller buttons
+
+
+### **Removed**
+
 ## **Release 0.07**
 _**Save safe for previous versions**_
 
