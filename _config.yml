@@ -91,7 +91,10 @@ callouts:
     
 # Define Jekyll collections
 collections:
-  01Support:
+ 00CapPunHome:
+    permalink: "/:collection/:path/"
+    output: true
+ 01Support:
     permalink: "/:collection/:path/"
     output: true
   02InstallGuide:
@@ -121,6 +124,9 @@ collections:
     
 just_the_docs:
   collections:
+  00CapPunHome:
+      name: Support Pages
+      nav_fold: true   
     01Support:
       name: Support Pages
       nav_fold: true   
