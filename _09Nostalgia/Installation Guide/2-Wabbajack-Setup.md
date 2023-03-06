@@ -19,5 +19,3 @@ Go into the numbered folder and find the Wabbajack.exe in there to launch the pr
 Go to the Cogwheel at the top right of the program
 
 Login to your Nexus through there.
-
-_**[Next Step](https://github.com/McTiddies4Lunch/Nostalgia/wiki/Wabbajack-Installation)**_
