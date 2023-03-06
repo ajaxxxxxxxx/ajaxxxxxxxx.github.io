@@ -54,5 +54,3 @@ The One Compiled by Steam will be in your typical steam directory
 The One Compiled by Wabbajack will be in the folder where wabbajack will deliver all of the files (Whatever path you choose in Wabbajack\Stock Game)
 
 YOU WILL NOT BE EDITING YOUR ORIGINAL STEAM PATH. MO2 AND THIS MODPACK WILL WORK OFF OF THE STOCK GAME FOLDER. ANY PATHS YOU SET, EDITS YOU MAKE, ETC SHOULD BE DONE TO THE STOCK GAME FOLDER GRANTED THEY ARE IN THE INSTALLATION GUIDE**
-
-_**[Next Step](https://github.com/McTiddies4Lunch/Nostalgia/wiki/Wabbajack-Setup)**_
