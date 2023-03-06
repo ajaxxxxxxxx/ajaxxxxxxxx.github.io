@@ -14,8 +14,9 @@ description: LR Home Page
 * [Patreon Link](https://patreon.com/user?u=65852394&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
 
 ## **Modpack Summary**
+**Created By:** McTiddies4Lunch
 
-Lost Runes is a semi-hardcore survival mod pack focused on enhancing all aspects of gameplay and role play. From arrow wounds causing you to bleed, or tougher enemies, or even hunger and thirst, you may struggle to survive at first. The harsh, beautiful world of Skyrim will only make you stronger and draw you further in as you level up and ascend to being **THE DRAGONBORN**.
+Lost Runes is a semi-hardcore survival mod pack focused created by McTiddies4Lunchon enhancing all aspects of gameplay and role play. From arrow wounds causing you to bleed, or tougher enemies, or even hunger and thirst, you may struggle to survive at first. The harsh, beautiful world of Skyrim will only make you stronger and draw you further in as you level up and ascend to being **THE DRAGONBORN**.
 
 ## **Notice**
 
