@@ -24,6 +24,8 @@ _**Save safe for previous versions**_
 
 ### **Removed**
 
+* Vulpes Inculta - Fully-Voiced Legion Companion (Already done by CFEE)
+
 ## **Release 0.07**
 _**Save safe for previous versions**_
 
