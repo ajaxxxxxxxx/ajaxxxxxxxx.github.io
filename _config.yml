@@ -142,3 +142,7 @@ just_the_docs:
     08LostRune:
       name: Lost Rune - SKAE
       nav_fold: true 
+    09Nostalgia:
+      name: Nostalgia - FNV
+      nav_fold: true 
+      
