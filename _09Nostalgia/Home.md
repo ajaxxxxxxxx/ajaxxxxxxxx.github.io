@@ -17,4 +17,6 @@ _**Important Links**_
 
 **Modpack Summary**
 
+**Created By: McTiddies4Lunch**
+
 Nostalgia is an original Fallout New Vegas  experience heavily inspired by the wacky nature of the original interplay Fallout games. From new adventures, updated graphics & animations, optional NVR installation, new world spaces & world additive, all the way to an older style UI, you will be able to experience both New Vegas & The Original Fallout Experience in a new fashion!
