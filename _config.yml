@@ -91,9 +91,6 @@ callouts:
     
 # Define Jekyll collections
 collections:
-  00CapPunHome:
-    permalink: "/:collection/:path/"
-    output: true
   01Support:
     permalink: "/:collection/:path/"
     output: true
@@ -123,10 +120,7 @@ collections:
     output: true
     
 just_the_docs:
-  collections:
-  00CapPunHome:
-      name: Capital Punishment Home
-      nav_fold: true   
+  collections: 
    01Support:
       name: Support Pages
       nav_fold: true   
