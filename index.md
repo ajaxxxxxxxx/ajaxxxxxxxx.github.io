@@ -27,7 +27,7 @@ If you do not know what Tale of Two Wastelands is, it is a total conversion of F
 ![image](https://user-images.githubusercontent.com/112358568/210427354-a304fc08-f74e-47fe-ad71-736bfa93e8e9.png)
 
 ### **Lead Developer:** [McTiddies4Lunch](linxx.app/McTiddies)
-- The head of our Development team, Tiddies is second to TheMrNewVegas in leading developmental changes to the modpack while also delegating development tasks to other developers. In addition he is the creator of [Nostalgia](https://github.com/McTiddies4Lunch/Nostalgia/wiki) & the soon to come Lost Runes modlist which will be featured on our wiki here!
+- The head of our Development team, Tiddies is second to TheMrNewVegas in leading developmental changes to the modpack while also delegating development tasks to other developers. In addition he is the creator of [Nostalgia](https://github.com/McTiddies4Lunch/Nostalgia/wiki) & the soon to come [Lost Runes](https://www.capitalpunishmentmod.com/08LostRune/Home/) modlist which will be featured on our wiki here!
 
 ![image](https://user-images.githubusercontent.com/112358568/210428921-904333d6-8ead-4a71-9762-8ee4a26bb83c.png)
 
