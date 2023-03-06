@@ -125,7 +125,7 @@ collections:
 just_the_docs:
   collections:
   01CapPunHome:
-      name: Support Pages
+      name: Capital Punishment Home
       nav_fold: true   
    02Support:
       name: Support Pages
