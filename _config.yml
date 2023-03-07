@@ -48,11 +48,11 @@ gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 nav_external_links:
-  - title: Legacy Wiki
+  - title: Capital Punishment Release Notes
     url: https://www.modlists.net/01CapitalPunishment/3-Release-Notes/
     hide_icon: false # set to true to hide the external link icon - defaults to false
-  - title: Patch Notes
-    url: https://github.com/TheMrNewVegas/TTWTrueVegas/releases
+  - title: Nostalgia Release Notes
+    url: https://github.com/McTiddies4Lunch/Nostalgia/wiki/Patch-Notes
     hide_icon: false # set to true to hide the external link icon - defaults to false    
 
 callouts_level: loud
