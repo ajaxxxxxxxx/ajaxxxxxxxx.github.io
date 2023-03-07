@@ -15,6 +15,8 @@ _**Save safe for previous versions**_
 
 ### **Added**
 
+* DXVK Install files
+
 * Tactapack
 
 * Dusty Distance Redone
