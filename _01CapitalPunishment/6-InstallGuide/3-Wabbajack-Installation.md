@@ -38,4 +38,4 @@ description: Installation Through Wabbajack
 
 ![image](https://user-images.githubusercontent.com/112358568/190105266-ba1bfb8c-7f06-4fb3-9e08-6a5c74f0ab00.png)
 
-### [**Step Four**](https://www.capitalpunishmentmod.com/02InstallGuide/4-TTW-Installation/)
+### [**Step Four**](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/4-TTW-Installation/)
