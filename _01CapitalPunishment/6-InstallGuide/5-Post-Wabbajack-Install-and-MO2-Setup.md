@@ -47,4 +47,4 @@ description: Setting Up MO2
 ![image](https://user-images.githubusercontent.com/112358568/205771579-750a1c75-4cc5-4909-9b89-05c8bf4290e2.png)
 ![image](https://user-images.githubusercontent.com/112358568/205771756-71faf89c-9dbd-4753-aad5-fd5c9497a36d.png)
 
-### [**Step Six**](https://www.capitalpunishmentmod.com/02InstallGuide/6-Final-Configurations/)
+### [**Step Six**](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/6-Final-Configurations/)
