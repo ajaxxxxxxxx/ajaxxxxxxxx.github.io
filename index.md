@@ -44,7 +44,13 @@ This does not go without saying that none of this would be possible without the 
 ### **Helpers:** Clayby & Oatasaurus Rex
 - These are our bread and butter. While we try to make things work properly, these are the individuals who dedicates their free time to ensuring those with any troubleshooting/in game issues can have expedient assistance and hopefully get things resolved. In addition to this, they are also essential in both the bug & general gameplay testing departments.
 
-## A Small Note
+## Credits
 
-While we use the open source Just The Docs format, we have leaned heavily on the custom resources created by the talented [Wildlander Team's Wiki](http://wiki.wildlandermod.com). I will continue to try to improve from their format and change ours to not be a near replica and would like to thank them for providing the resources for me to be able learn and produce a quality product. If you are a fan of Skyrim, please check out their [Wildlander List](https://www.wildlandermod.com). It is the sole reason I got into making mod lists and I attribute nearly all of my ideas, work ethic, and general skillset to their hard work.
+- **The Wildlander Team:** While we use the open source Just The Docs format, we have leaned heavily on the custom resources created by the talented [Wildlander Team's Wiki](http://wiki.wildlandermod.com). I will continue to try to improve from their format and change ours to not be a near replica and would like to thank them for providing the resources for me to be able learn and produce a quality product. If you are a fan of Skyrim, please check out their [Wildlander List](https://www.wildlandermod.com). It is the sole reason I got into making mod lists and I attribute nearly all of my ideas, work ethic, and general skillset to their hard work.
+
+- **The TTW Team:** Without their framework and both positive (and negative) critiques, the original Capital Punishment list would not be where it is at today nor would it function to begin with. Agreements/disagreements aside, their dedication to bringing the world of Fallout 3 together with the Fallout New Vegas world space is a massive feat, not to mention the plethora of other supplementary mods they have released along the way.
+
+- **Countless Mod Authors:** Disagreements and agreements aside again, none of this would be possible without the hard work of the mod authors behind each and every mod you find in one of our lists. A large thank you to all of them for providing these resources.
+
+- **The Boneyards Creation Team:** Excluding myself (MNV), I want to thank the development & support members of this team. They sacrificed hours of their free time and put those hours into Capital Punishment and our other lists. I am extremely grateful to have both their dedication and support and look forward to our future endeavors as a team. 
 
