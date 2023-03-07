@@ -15,7 +15,8 @@ description: Modlist Misconceptions
 - **Is the list in active development/actively supported?** - Yes
 - **Is this a mixmatch of mods?** - No
 
-<iframe class="yt-embed" width="640" height="360" src="[https://www.youtube.com/embed/vXRurA0h6NE](https://youtu.be/DkrqC55hjAg?t=3424)" title="Modlist Misconception Address" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="yt-embed" width="650" height="315" src="https://www.youtube.com/embed/DkrqC55hjAg?start=3424" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## **1.) Is this list broken?**
 
