@@ -90,5 +90,5 @@ description: Beginning Installation
 {: .warning}
 > YOU WILL NOT BE EDITING YOUR ORIGINAL STEAM PATH. MO2 AND THIS MODPACK WILL WORK OFF OF THE STOCK GAME FOLDER. ANY PATHS YOU SET, EDITS YOU MAKE, ETC SHOULD BE DONE TO THE STOCK GAME FOLDER GRANTED THEY ARE IN THE INSTALLATION GUIDE**
 
-### [**Step Two**](https://www.capitalpunishmentmod.com/02InstallGuide/2-Wabbajack-Setup/)
+### [**Step Two**](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/2-Wabbajack-Setup/)
 
