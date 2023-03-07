@@ -10,6 +10,23 @@ description: Patch Notes
 # **Releases (Newest to Oldest)**
 Visit our [Trello](https://www.capitalpunishmentmod.com/01Support/Trello/) for more In Depth Development Logs
 
+## **Release 0.09** (NOT RELEASED)
+_**Save safe for previous versions**_
+
+### **Added**
+
+* Tactapack
+
+* Dusty Distance Redone
+
+### **Fixed**
+
+### **Updated**
+
+### **Removed**
+
+* Titus - A Frumentarii Companion (Legion)
+
 ## **Release 0.08** (NOT RELEASED)
 _**Save safe for previous versions**_
 
