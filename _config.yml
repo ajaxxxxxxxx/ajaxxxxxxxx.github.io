@@ -91,61 +91,67 @@ callouts:
     
 # Define Jekyll collections
 collections:
-  01Support:
+  01CapPunHome:
     permalink: "/:collection/:path/"
     output: true
-  02InstallGuide:
+  02Support:
     permalink: "/:collection/:path/"
     output: true
-  03PlayerConditionGuides:
+  03InstallGuide:
     permalink: "/:collection/:path/"
     output: true
-  04CraftingGuides:
+  04PlayerConditionGuides:
     permalink: "/:collection/:path/"
     output: true
-  05GeneralGameplayGuides:
+  05CraftingGuides:
     permalink: "/:collection/:path/"
     output: true
-  06UserCreatedGuides:
+  06GeneralGameplayGuides:
     permalink: "/:collection/:path/"
     output: true
-  07ForlornHope:
+  07UserCreatedGuides:
     permalink: "/:collection/:path/"
     output: true
-  08LostRune:
+  08ForlornHope:
     permalink: "/:collection/:path/"
     output: true
-  09Nostalgia:
+  09LostRune:
+    permalink: "/:collection/:path/"
+    output: true
+  10Nostalgia:
     permalink: "/:collection/:path/"
     output: true
     
 just_the_docs:
   collections: 
-   01Support:
+   01CapPunHome:
+      name: Capital Punishment Home
+      nav_fold: true 
+   02Support:
       name: Support Pages
       nav_fold: true   
-   02InstallGuide:
+   03InstallGuide:
       name: Installation Guide
       nav_fold: true   
-   03PlayerConditionGuides:
+   04PlayerConditionGuides:
       name: Player Condition Guides
       nav_fold: true 
-   04CraftingGuides:
+   05CraftingGuides:
       name: Crafting Guides
       nav_fold: true 
-   05GeneralGameplayGuides:
+   06GeneralGameplayGuides:
       name: General Gameplay Guides
       nav_fold: true 
-   06UserCreatedGuides:
+   07UserCreatedGuides:
       name: User Created Guides
       nav_fold: true 
-   07ForlornHope:
+   08ForlornHope:
       name: Forlorn Hope - FO4
       nav_fold: true 
-   08LostRune:
+   09LostRune:
       name: Lost Rune - SKAE
       nav_fold: true 
-   09Nostalgia:
+   10Nostalgia:
       name: Nostalgia - FNV
       nav_fold: true 
       
