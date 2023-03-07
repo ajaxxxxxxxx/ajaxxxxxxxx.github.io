@@ -41,4 +41,4 @@ description: TTW Install Guide
 
 ![image](https://user-images.githubusercontent.com/112358568/189812234-ee6e30d6-7e6d-4690-9b4d-2dd244a39474.png)
 
-### [**Step Five**](https://www.capitalpunishmentmod.com/02InstallGuide/5-Post-Wabbajack-Install-and-MO2-Setup/)
+### [**Step Five**](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/5-Post-Wabbajack-Install-and-MO2-Setup/)
