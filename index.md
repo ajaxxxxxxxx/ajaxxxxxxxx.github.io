@@ -7,7 +7,7 @@ permalink: /
 has_toc: true
 ---
 
-![Wiki_Logos](https://user-images.githubusercontent.com/112358568/223301374-50ecb314-f7ab-4656-a435-3fb396bba46d.png)
+![Wiki_Logo](https://user-images.githubusercontent.com/112358568/223337475-899caffc-7c5e-4266-9ac5-1865e8bf0980.png)
 
 ## Welcome to the Boneyard Creations Modlist Wiki!
 This wiki encompasses the information regarding all modlists developed by members of the MNV Development team as well as myself. It was originally designed to be a wiki for only our Tale of Two Wastelands Capital Punishment list, but times have changed and our managed project list is growing exponentially. Primary categories will still be based upon Capital Punishment since it is our main list we are developing, but other lists such as Nostalgia will have their own sections near the bottom of the nav bar. Below is the latest development stream and the staff who help to create these awesome experiences!
