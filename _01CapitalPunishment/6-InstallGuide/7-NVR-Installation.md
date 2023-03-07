@@ -44,3 +44,4 @@ I would suggest trying the game out first to see how your performance fairs prio
 ![image](https://user-images.githubusercontent.com/112358568/221454282-cd628317-e4bf-4de1-9c80-462e29bba8e4.png)
 
 
+[Step 7 (OPTIONAL)](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/7-NVR-Installation/)
