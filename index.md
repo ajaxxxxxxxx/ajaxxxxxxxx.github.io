@@ -10,7 +10,9 @@ has_toc: true
 ![Wiki_Logo](https://user-images.githubusercontent.com/112358568/223337475-899caffc-7c5e-4266-9ac5-1865e8bf0980.png)
 
 ## Welcome to the Boneyard Creations Modlist Wiki!
-This wiki encompasses the information regarding all modlists developed by members of the MNV Development team as well as myself. It was originally designed to be a wiki for only our Tale of Two Wastelands Capital Punishment list, but times have changed and our managed project list is growing exponentially. Primary categories will still be based upon Capital Punishment since it is our main list we are developing, but other lists such as Nostalgia will have their own sections near the bottom of the nav bar. Below is the latest development stream and the staff who help to create these awesome experiences!
+This wiki encompasses the information regarding all modlists developed by members of the Boneyard Creations/MrNewVegas Staff Team as well as myself. Our original list, Capital Punishment, has received much criticism and praise, both fair and unfair. From it all, we have taken both the fair criticism and praise to heart and have improved upon our previous attempts. Over months of trial, error, and learning we have made Capital Punishment into something we are proud of and that we feel is a stable and new experience for the budding masochist. With all of this newfound knowledge, we have decided to branch into different titles, using our combined strengths to try and make the most enjoyable modified gameplay experiences possible.
+
+This does not go without saying that none of this would be possible without the volunteers who have spent countless hours working on open source mods, readable guides/materials, and more for these games we love. The credit should always be given to them first and foremost and I hope that you all take the time to endorse a few of your favorites, leave an encouraging comment, or show them love in some other form if you install one of our lists.
 
 ## Latest Development Stream
 
