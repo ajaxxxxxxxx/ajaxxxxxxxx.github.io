@@ -17,6 +17,8 @@ _**Save safe for previous versions**_
 
 ### **Fixed**
 
+* falloutcustom.ini not being included, now the font should be correct.
+
 ### **Updated**
 
 * Control overlay updated to add controller buttons
