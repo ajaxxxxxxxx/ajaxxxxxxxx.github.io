@@ -11,9 +11,11 @@ description: Modlist Misconceptions
 
 - **Does the Modlist Have Bugs?** - Yes
 - **Are they Gamebreaking?** - None Currently 
-- **Is this the list for me?** - If you like the content I have curated/gameplay balances
+- **Is this the list for me?** - If you like the content I have curated/would like a very hardcore experience (Casual Profile Coming in 1.45 Official Release)
 - **Is the list in active development/actively supported?** - Yes
 - **Is this a mixmatch of mods?** - No
+
+<iframe width="560" height="315" src="https://youtu.be/DkrqC55hjAg?t=3429" title="Addressing The Mod List" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## **1.) Is this list broken?**
 
