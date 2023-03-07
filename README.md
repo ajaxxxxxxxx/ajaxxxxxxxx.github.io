@@ -7,7 +7,10 @@ This wiki encompasses the information regarding all modlists developed by member
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLZqVHJkQaJjmHb7xvWU_ntgMuur8mE1xH" title="Development Stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## **The MNV Staff**
+## **The Boneyard Creations/MNV Community Staff**
+
+### **Community & Development Lead:** [TheMrNewVegas](https://discord.gg/43EhRjU)
+- TheMrNewVegas (myself) is the original founding member and lead for both TheMrNewVegas Discord Community & the associated Boneyard Creations Team. He is also very handsome (his mom told him so no argument) and benches, like, 5 plates easy.
 
 ### **Community Manager**: [Bird/Lilly](https://linktr.ee/lillybird69)
 - The head of our Help team as well as one of the driving forces behind documentation, outreach, and other behind the scenes development for the community.
@@ -24,6 +27,9 @@ This wiki encompasses the information regarding all modlists developed by member
 
 ### **Developer:** Camboi
 - The newest addition to our team, Cam is the main developer and maintainer for our Xedit patch which has fixed a heap of discrepancies and bugs in the mod list
+
+##3 **Helpers:** Clayby & Oatasaurus Rex
+- These are our bread and butter. While we try to make things work properly, these are the individuals who dedicates their free time to ensuring those with any troubleshooting/in game issues can have expedient assistance and hopefully get things resolved. In addition to this, they are also essential in both the bug & general gameplay testing departments.
 
 ## A Small Note
 
