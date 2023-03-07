@@ -1,4 +1,4 @@
-title: Modlists For Your Favorite Titles
+title: Capital Punishment Wiki
 description: A Tale of Two Wastelands Hardcore Roleplaying Modlist
 theme: just-the-docs
 color_scheme: dark-custom
@@ -48,12 +48,12 @@ gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 nav_external_links:
-  - title: Capital Punishment Patch Notes
-    url: https://www.modlists.net/01CapPunHome/3-Release-Notes/
-    hide_icon: false # set to true to hide the external link icon - defaults to false    
-  - title: Nostalgia Patch Notes
-    url: https://github.com/McTiddies4Lunch/Nostalgia/wiki/Patch-Notes
+  - title: Legacy Wiki
+    url: https://github.com/TheMrNewVegas/TTWTrueVegas
     hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: Patch Notes
+    url: https://github.com/TheMrNewVegas/TTWTrueVegas/releases
+    hide_icon: false # set to true to hide the external link icon - defaults to false    
 
 callouts_level: loud
 callouts:
@@ -91,67 +91,32 @@ callouts:
     
 # Define Jekyll collections
 collections:
-  01CapPunHome:
+  01CapitalPunishment:
     permalink: "/:collection/:path/"
     output: true
-  02Support:
+  02ForlornHope:
     permalink: "/:collection/:path/"
     output: true
-  03InstallGuide:
+  03LostRune:
     permalink: "/:collection/:path/"
     output: true
-  04PlayerConditionGuides:
+  04Nostalgia:
     permalink: "/:collection/:path/"
     output: true
-  05CraftingGuides:
-    permalink: "/:collection/:path/"
-    output: true
-  06GeneralGameplayGuides:
-    permalink: "/:collection/:path/"
-    output: true
-  07UserCreatedGuides:
-    permalink: "/:collection/:path/"
-    output: true
-  08ForlornHope:
-    permalink: "/:collection/:path/"
-    output: true
-  09LostRune:
-    permalink: "/:collection/:path/"
-    output: true
-  10Nostalgia:
-    permalink: "/:collection/:path/"
-    output: true
-    
+     
 just_the_docs:
   collections: 
-   01CapPunHome:
-      name: Capital Punishment Home
+   01CapitalPunishment:
+      name: Capital Punishment - TTW
       nav_fold: true 
-   02Support:
-      name: Support Pages
-      nav_fold: true   
-   03InstallGuide:
-      name: Installation Guide
-      nav_fold: true   
-   04PlayerConditionGuides:
-      name: Player Condition Guides
-      nav_fold: true 
-   05CraftingGuides:
-      name: Crafting Guides
-      nav_fold: true 
-   06GeneralGameplayGuides:
-      name: General Gameplay Guides
-      nav_fold: true 
-   07UserCreatedGuides:
-      name: User Created Guides
-      nav_fold: true 
-   08ForlornHope:
+   02ForlornHope:
       name: Forlorn Hope - FO4
-      nav_fold: true 
-   09LostRune:
-      name: Lost Rune - SKAE
-      nav_fold: true 
-   10Nostalgia:
+      nav_fold: true   
+   03LostRune:
+      name: Lost Rune - SK:AE
+      nav_fold: true   
+   04Nostalgia:
       name: Nostalgia - FNV
       nav_fold: true 
+  
       
