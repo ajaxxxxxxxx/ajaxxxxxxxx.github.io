@@ -1,5 +1,5 @@
-title: Capital Punishment Wiki
-description: A Tale of Two Wastelands Hardcore Roleplaying Modlist
+title: Modlists By Boneyard Creations
+description: Boneyard Creations Modlist Wiki
 theme: just-the-docs
 color_scheme: dark-custom
 
@@ -49,7 +49,7 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 
 nav_external_links:
   - title: Legacy Wiki
-    url: https://github.com/TheMrNewVegas/TTWTrueVegas
+    url: https://www.modlists.net/01CapitalPunishment/3-Release-Notes/
     hide_icon: false # set to true to hide the external link icon - defaults to false
   - title: Patch Notes
     url: https://github.com/TheMrNewVegas/TTWTrueVegas/releases
