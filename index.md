@@ -39,6 +39,9 @@ This wiki encompasses the information regarding all modlists developed by member
 ### **Developer:** Camboi
 - The newest addition to our team, Cam is the main developer and maintainer for our Xedit patch which has fixed a heap of discrepancies and bugs in the mod list
 
+### **Helpers:** Clayby & Oatasaurus Rex
+- These are our bread and butter. While we try to make things work properly, these are the individuals who dedicates their free time to ensuring those with any troubleshooting/in game issues can have expedient assistance and hopefully get things resolved. In addition to this, they are also essential in both the bug & general gameplay testing departments.
+
 ## A Small Note
 
 While we use the open source Just The Docs format, we have leaned heavily on the custom resources created by the talented [Wildlander Team's Wiki](http://wiki.wildlandermod.com). I will continue to try to improve from their format and change ours to not be a near replica and would like to thank them for providing the resources for me to be able learn and produce a quality product. If you are a fan of Skyrim, please check out their [Wildlander List](https://www.wildlandermod.com). It is the sole reason I got into making mod lists and I attribute nearly all of my ideas, work ethic, and general skillset to their hard work.
