@@ -44,6 +44,10 @@ This does not go without saying that none of this would be possible without the 
 ### **Helpers:** Clayby & Oatasaurus Rex
 - These are our bread and butter. While we try to make things work properly, these are the individuals who dedicates their free time to ensuring those with any troubleshooting/in game issues can have expedient assistance and hopefully get things resolved. In addition to this, they are also essential in both the bug & general gameplay testing departments.
 
+![image](https://user-images.githubusercontent.com/112358568/223551281-46fa2020-f8e8-42cb-b02a-fa468e1505a0.png)
+
+![image](https://user-images.githubusercontent.com/112358568/223551336-b2a636d9-992b-4210-9f4e-63b5787f9869.png)
+
 ## Credits
 
 - **The Wildlander Team:** While we use the open source Just The Docs format, we have leaned heavily on the custom resources created by the talented [Wildlander Team's Wiki](http://wiki.wildlandermod.com). I will continue to try to improve from their format and change ours to not be a near replica and would like to thank them for providing the resources for me to be able learn and produce a quality product. If you are a fan of Skyrim, please check out their [Wildlander List](https://www.wildlandermod.com). It is the sole reason I got into making mod lists and I attribute nearly all of my ideas, work ethic, and general skillset to their hard work.
