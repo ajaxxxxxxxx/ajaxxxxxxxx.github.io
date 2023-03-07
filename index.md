@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Main Page for Capital Punishment."
+description: "Main Development Page."
 permalink: /
 has_toc: true
 ---
