@@ -30,4 +30,4 @@ description: Setting Up Wabbajack
 ![image](https://user-images.githubusercontent.com/114360108/200663338-8646f5cb-7a26-42ce-b1de-e48dead237a9.png)
 
 
-### [**Step Three**](https://www.capitalpunishmentmod.com/02InstallGuide/3-Wabbajack-Installation/)
+### [**Step Three**](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/3-Wabbajack-Installation/)
