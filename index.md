@@ -7,6 +7,8 @@ permalink: /
 has_toc: true
 ---
 
+![Wiki_Logos](https://user-images.githubusercontent.com/112358568/223301374-50ecb314-f7ab-4656-a435-3fb396bba46d.png)
+
 ## Welcome to the MNV Modlist Development Wiki!
 This wiki was originally meant to be a wiki for only Capital Punishment, but times have changed and our managed project list is growing exponentially. Therefore you may all soon see a shift in the websites layout or the introduction of an entirely new website. This website still has a primary focus on Capital Punishment, but also has all pertinent information needed for our various In Progress & Completed lists. Below is the latest development stream and the staff who help to create these awesome experiences
 
