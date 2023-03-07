@@ -28,7 +28,7 @@ This wiki encompasses the information regarding all modlists developed by member
 ### **Developer:** Camboi
 - The newest addition to our team, Cam is the main developer and maintainer for our Xedit patch which has fixed a heap of discrepancies and bugs in the mod list
 
-##3 **Helpers:** Clayby & Oatasaurus Rex
+### **Helpers:** Clayby & Oatasaurus Rex
 - These are our bread and butter. While we try to make things work properly, these are the individuals who dedicates their free time to ensuring those with any troubleshooting/in game issues can have expedient assistance and hopefully get things resolved. In addition to this, they are also essential in both the bug & general gameplay testing departments.
 
 ## A Small Note
