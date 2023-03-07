@@ -21,7 +21,7 @@ This wiki encompasses the information regarding all modlists developed by member
 ### **Community & Development Lead:** [TheMrNewVegas](https://discord.gg/43EhRjU)
 - TheMrNewVegas (myself) is the original founding member and lead for both TheMrNewVegas Discord Community & the associated Boneyard Creations Team. He is also very handsome (his mom told him so no argument) and benches, like, 5 plates easy.
 
-![image](https://user-images.githubusercontent.com/112358568/223336452-91c98650-9f16-4926-93d8-b7eb2318539c.png)
+![image](https://user-images.githubusercontent.com/112358568/223336503-5c2b0a35-ef85-4505-a47a-1d8763a514db.png)
 
 ### **Community Manager**: [Bird/Lilly](https://linktr.ee/lillybird69)
 - The head of our Help team as well as one of the driving forces behind documentation, outreach, and other behind the scenes development for the community.
