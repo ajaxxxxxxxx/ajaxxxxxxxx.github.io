@@ -78,3 +78,5 @@ description: Getting Ready to Play
 Congratulations! Your game should be up and running smoothly. You can continue to the option seventh step if you would like NVHR! 
 
 - If you would like to free up some space, you may also delete the contents of the downloads folder. The con of doing this is that updates will take longer as it will need to install everything again when you do update
+
+[Step 7 (OPTIONAL)](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/7-NVR-Installation/)
