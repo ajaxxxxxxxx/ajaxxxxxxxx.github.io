@@ -94,7 +94,7 @@ description: How to Install DXVK w/ Reshade
 ### Reverting back to regular reshade
 - Whether it be due to compatibility or preference, switching back is pretty easy. Just follow the steps below.
 
-1.) Follow the first portion of this guide again (Uninstalling The Current Reshade). To uninstall Reshade. Then, go into your Stock games folder & delete D3D9.dll, DXVK LICENSE.md, & dxvk.conf
+1.) Follow the first portion of this guide again [Uninstalling The Current Reshade](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/8-DXVK-Installation/#uninstalling-the-current-reshade). To uninstall Reshade. Then, go into your Stock games folder & delete D3D9.dll, DXVK LICENSE.md, & dxvk.conf
 
 ![image](https://user-images.githubusercontent.com/112358568/223610369-c61268f7-0ed4-4ab9-b1fc-ae88372f9c27.png)
 
