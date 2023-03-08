@@ -33,7 +33,7 @@ _**Save safe for previous versions**_
 
 * Titus - A Frumentarii Companion (Legion)
 
-## **Release 0.08** (NOT RELEASED)
+## **Release 0.08** 
 _**Save safe for previous versions**_
 
 ### **Added**
