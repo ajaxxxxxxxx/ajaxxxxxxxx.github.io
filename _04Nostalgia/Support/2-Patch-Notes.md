@@ -15,7 +15,7 @@ _**Save safe for previous versions**_
 
 ### **Added**
 
-* DXVK Install files
+* [DXVK Install files](https://www.modlists.net/04Nostalgia/Installation%20Guide/6-Optional-DVXK-Install/)
 
 * Tactapack
 
