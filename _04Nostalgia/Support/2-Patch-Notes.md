@@ -8,7 +8,7 @@ description: Patch Notes
 ---
 
 # **Releases (Newest to Oldest)**
-Visit our [Trello](https://www.capitalpunishmentmod.com/01Support/Trello/) for more In Depth Development Logs
+Visit our [Trello](https://www.modlists.net/01CapitalPunishment/2-Trello/) for more In Depth Development Logs
 
 ## **Release 0.09**
 _**Save safe for previous versions**_
