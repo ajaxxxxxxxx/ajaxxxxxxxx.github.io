@@ -21,6 +21,10 @@ _**Save safe for previous versions**_
 
 * Dusty Distance Redone
 
+* Recent Loot Log
+
+* Soft-Lock Aim-Assist
+
 ### **Fixed**
 
 ### **Updated**
