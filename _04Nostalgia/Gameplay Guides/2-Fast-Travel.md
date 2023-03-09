@@ -7,7 +7,7 @@ nav_order: 2
 description: Fast Travel
 ---
 
-**[Transporters - Immersive Fast Travel](https://www.nexusmods.com/skyrimspecialedition/mods/17905)**
+**[Transporters - Immersive Fast Travel](https://www.nexusmods.com/newvegas/mods/77645)**
 
 The Transporters are one of the oldest factions on the West Coast. Decades ago, when they were tribals, they took to taming and riding Mole Rats. Nowadays, they use their talents to taxi citizens across the Wasteland with them. Take on the Mojave with a new form of Fast-Travel, with over 30+ travel destinations! 
 
@@ -25,7 +25,7 @@ A Premium Travel Membership can be purchased to extend the travel range and make
 
 
 
-**[JIP Fast-Travel Anywhere with Random Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/12693)**
+**[JIP Fast-Travel Anywhere with Random Encounters](https://www.nexusmods.com/newvegas/mods/52129)**
 
 Using Fast-Travel Anywhere
 
