@@ -25,8 +25,6 @@ _**NOT Save safe for previous versions**_
 
 * JAM Sprint No AP Drain Outside Combat
 
-* Recent Loot Log
-
 ### **Fixed**
 
 ### **Updated**
