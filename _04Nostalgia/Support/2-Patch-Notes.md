@@ -10,6 +10,39 @@ description: Patch Notes
 # **Releases (Newest to Oldest)**
 Visit our [Trello](https://www.modlists.net/01CapitalPunishment/2-Trello/) for more In Depth Development Logs
 
+## **Release 0.10**
+_**Save safe for previous versions**_
+
+### **Added**
+
+* [DXVK Install files](https://www.modlists.net/04Nostalgia/Installation%20Guide/6-Optional-DVXK-Install/)
+
+* No Combat Recovery
+
+* Hidden Valley Overhauled
+
+* Desert Bridges
+
+* Radiation Decay
+
+* JAM Sprint No AP Drain Outside Combat
+
+* Recent Loot Log
+
+### **Fixed**
+
+### **Updated**
+
+### **Removed**
+
+* NVRA - Walther MPK
+
+* Limitless Stats
+
+* Flashbangs are Better
+
+* Immersive Four Eyes Visuals
+
 ## **Release 0.09**
 _**Save safe for previous versions**_
 
