@@ -10,12 +10,10 @@ description: Patch Notes
 # **Releases (Newest to Oldest)**
 Visit our [Trello](https://www.modlists.net/01CapitalPunishment/2-Trello/) for more In Depth Development Logs
 
-## **Release 0.10**
-_**Save safe for previous versions**_
+## **Release 0.10** (Not Released)
+_**NOT Save safe for previous versions**_
 
 ### **Added**
-
-* [DXVK Install files](https://www.modlists.net/04Nostalgia/Installation%20Guide/6-Optional-DVXK-Install/)
 
 * No Combat Recovery
 
