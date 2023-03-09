@@ -31,6 +31,8 @@ _**NOT Save safe for previous versions**_
 
 ### **Removed**
 
+* CONELRAD 640-1240 - Civil Defense Radio
+
 * NVRA - Walther MPK
 
 * Limitless Stats
