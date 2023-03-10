@@ -21,7 +21,7 @@ description: Final Installation Steps
 
 * Go to your Nostalgia Folder
 
-* Go to Nostalgia/PRECONFIGURED SAVE
+* Go to Nostalgia/Game Folder Files
 
 * Copy the two save files found there
 
