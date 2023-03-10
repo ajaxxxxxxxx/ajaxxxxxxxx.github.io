@@ -18,41 +18,14 @@ Gameplay tweaks as well as mod configuration settings are extremely important fo
 
 ## **Key Bind Changes**
 
-![image](https://user-images.githubusercontent.com/114360108/200676974-0cdcca3e-afe3-42b5-a856-fdea009da82c.png)
+![Layer](https://user-images.githubusercontent.com/112358568/224410462-3bb91511-689c-43f7-b0e6-74c2dcef7b3b.png)
 
+## **Controller Binds**
 
-- **B42 Melee Bash:** V
+![ControllerLayout](https://user-images.githubusercontent.com/112358568/224410713-5dd8fad3-e38e-4343-b1cf-c5d4354ba5d3.png)
 
-- **Toggle Visual Objective:** N
+ - It is suggested you either have an XInput Controller (Xbox Controlelr; So Far Have only Tested Xbox 360 Functioning Properly) or a program which spoofs non Xinput Controllers [(IE: DS4 Windows)](https://ds4-windows.com)
 
-- **Stewies Tweaks Change Ammo Type:** Double tab R
-
-- **JIP Select Fire:** L-Alt
-
-- **JAM**
-> Weapon Hweel: H
-
-> Sprint: L-Shift
-
-> Bullet Time: X
-
-- **Quantum Trigger Time Stop:** \
-
-- **B42 Inspect**
-> Weapon Condition: P
-
-> Ammo Check: O
-
-- **B42 Quickthrow**
-> Throw: G
-
-> Select Key: 9
-
-> Stop Throw: R
-
-- **Realtime Weapon Modding:** C
-
-- **3rd Person Shoulder Swap:** Right Click(Aim) + F
 
 
 ## **Tweaks & What They Do**
