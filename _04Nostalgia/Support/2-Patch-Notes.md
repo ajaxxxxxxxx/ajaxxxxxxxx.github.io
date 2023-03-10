@@ -10,7 +10,7 @@ description: Patch Notes
 # **Releases (Newest to Oldest)**
 Visit our [Trello](https://www.modlists.net/01CapitalPunishment/2-Trello/) for more In Depth Development Logs
 
-## **Release 0.10** (Not Released)
+## **Release 0.10**
 _**NOT Save safe for previous versions**_
 
 ### **Added**
@@ -32,14 +32,19 @@ _**NOT Save safe for previous versions**_
 ### **Removed**
 
 * CONELRAD 640-1240 - Civil Defense Radio
+(ESP space)
 
 * NVRA - Walther MPK
+(ESP space)
 
 * Limitless Stats
+(Broke tags menu)
 
 * Flashbangs are Better
+(ESP space)
 
 * Immersive Four Eyes Visuals
+(ESP space)
 
 ## **Release 0.09**
 _**Save safe for previous versions**_
