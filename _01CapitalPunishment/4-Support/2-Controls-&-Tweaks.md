@@ -24,7 +24,7 @@ Gameplay tweaks as well as mod configuration settings are extremely important fo
 
 ![ControllerLayout](https://user-images.githubusercontent.com/112358568/224410713-5dd8fad3-e38e-4343-b1cf-c5d4354ba5d3.png)
 
- - It is suggested you either have an XInput Controller (Xbox Controlelr; So Far Have only Tested Xbox 360 Functioning Properly) or a program which spoofs non Xinput Controllers [(IE: DS4 Windows)](https://ds4-windows.com)
+ - It is suggested you either have an XInput Controller (Xbox Controller; So Far Have only Tested Xbox 360 Functioning Properly) or a program which spoofs non Xinput Controllers [(IE: DS4 Windows)](https://ds4-windows.com)
 
 
 
