@@ -29,7 +29,7 @@ description: Final Installation Steps
 
 * Go into Nostalgia/saves (if it isn't there then make a saves folder) and paste the files inside
 
-* After doing this your game should run smoothly! Run New Vegas through MO2. You will likely receive a popup asking you would like to clear a read only flag. Make sure you choose “Clear Read Only Flag”.
+* After doing this your game should run smoothly! Run Nostalgia through MO2. You will likely receive a popup asking you would like to clear a read only flag. Make sure you choose “Clear Read Only Flag”.
 
 * When in game be sure to press INS and familiarize yourself with the controls! (Controller Overlay coming soon!)
 
