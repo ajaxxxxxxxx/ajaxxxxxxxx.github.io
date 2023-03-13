@@ -5,7 +5,7 @@ nav_order: 1
 description: Capital Punishment Homepage
 ---
 
-![CapPun Logo3](https://user-images.githubusercontent.com/112358568/224746143-f32a674e-f6a6-4c88-a6e9-26dd5a34673c.png)
+![CapPunLogo2](https://user-images.githubusercontent.com/112358568/224746250-c308274e-5cf3-4f5d-ac65-b2f0850ff4ef.png)
 
 
 ## What is Capital Punishment?
