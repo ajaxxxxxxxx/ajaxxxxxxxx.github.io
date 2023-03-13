@@ -5,7 +5,8 @@ nav_order: 1
 description: Capital Punishment Homepage
 ---
 
-![Wiki_Logo](https://user-images.githubusercontent.com/112358568/210277595-96e03939-e710-4ba4-9f85-3e0d8dc7cdcc.png)
+![CapPun Logo3](https://user-images.githubusercontent.com/112358568/224746143-f32a674e-f6a6-4c88-a6e9-26dd5a34673c.png)
+
 
 ## What is Capital Punishment?
 Capital Punishment is Fallout New Vegas mod list based on the Tale of Two Wastelands Mod (Version 3.3.2). It seeks to bring a multitude of graphical changes and hardcore roleplaying elements to the Capital & Mojave wastes. Alongside these changes are various new quests, player homes, jobs, weapons, in game systems, and much more. If you would like to see an extensive list of our load order/mod list, [click here](https://loadorderlibrary.com/lists/capital-punishment-1122). While I can take the credit for compiling the mods together to make this list, I cannot take credit for the amazing work the many mod authors involved have provided. If you can, take the time to support and endorse mods in the list that you enjoy!
