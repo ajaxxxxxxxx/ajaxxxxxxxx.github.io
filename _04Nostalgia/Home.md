@@ -8,7 +8,7 @@ description: Nostalgia Home Page
 
 **Welcome to the Nostalgia wiki!**
 
-![](https://i.gyazo.com/e24ca80f4f0563d58bcd9cea03f2ec7d.jpg)
+![](https://cdn.discordapp.com/attachments/987465565608235108/1086332396695195858/Nostalgia.png)
 
 _**Important Links**_
 * [Discord Link](https://discord.gg/Mu3RQbzxyz)
