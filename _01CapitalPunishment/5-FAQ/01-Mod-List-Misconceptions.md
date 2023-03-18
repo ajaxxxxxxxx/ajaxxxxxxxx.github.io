@@ -35,3 +35,7 @@ Because of the infamy the vortex collections received, a lot of outdated informa
 
 This list has been carefully curated and over time, added to/reduced from to create a hardcore survival rpg experience in which the player starts off weak, but quickly gains strength and power in the wasteland with the proper planning and understanding of the list contents. Secondary to this, updating textures, animations, and creating livelier and new world spaces for the player to enjoy is the next priority. Depending on your definition, this can be yes or no. I would say that the only mods that could be construed as mix matched would be the new world space and quest mods
 
+## **5.) Can this list be modified?**
+
+For the time being, we do not offer support for list modification. As stated on our home page, we are currently ironing out bugs left and right trying to make the base list as bug free as we possibly can. This provides us no time to troubleshoot mod additions you may have made. 
+
