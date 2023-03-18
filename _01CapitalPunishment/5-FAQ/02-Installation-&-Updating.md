@@ -54,11 +54,12 @@ This is likely due to preexisting INI's or other files being prevalent in your %
 
 ### **The 4 Fixes**
 
-**1.) The Primary Fix
+**1.) The Primary Fix**
 - Step 1: Go to your Documents/My Games/FalloutNV and delete all of its contents
 - Step 2: Run Fallout New Vegas through Steam once. A popup should come up saying "Detecting Settings".
 - Step 3: Configure your settings to how you like. Close the launcher when you are done.
 - Step 4: Try to launch Capital Punishment through MO2 again
+> The reason this is the primary fix is because most people are either not running with falloutprefs & fallout.ini generated or they are running files/older ini's that are conflicting with the list. 
 
 **2.) If the above does not apply/does not work try this (This should be fixed in 1.45)**
 
