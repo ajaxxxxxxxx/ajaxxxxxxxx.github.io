@@ -9,7 +9,7 @@ description: Setting Up Wabbajack
 
 ## **Wabbajack Setup**
 
-- Download Wabbajack from [here](https://www.wabbajack.org/)
+- Download Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe)
 
 ![](https://media.discordapp.net/attachments/984100624733962340/1019104548171808829/unknown.png)
 
