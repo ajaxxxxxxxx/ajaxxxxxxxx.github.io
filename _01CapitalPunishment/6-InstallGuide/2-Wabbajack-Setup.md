@@ -14,8 +14,10 @@ description: Setting Up Wabbajack
 ![](https://media.discordapp.net/attachments/984100624733962340/1019104548171808829/unknown.png)
 
 - Make a folder in a place of your choice, then drag the wabbajack installer inside. Then run the installer and let the files populate. Folder should look like this after
+
 ![image](https://user-images.githubusercontent.com/114360108/200662651-6cb52303-eae1-4601-98fa-50efb31a6be5.png)
-![](https://media.discordapp.net/attachments/984100624733962340/1019104806574489610/unknown.png)
+
+![image](https://media.discordapp.net/attachments/984100624733962340/1019104806574489610/unknown.png)
 
 - Go into the numbered folder and find the Wabbajack.exe in there to launch the program
 
