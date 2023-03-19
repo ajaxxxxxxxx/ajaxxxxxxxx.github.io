@@ -10,6 +10,41 @@ description: Patch Notes
 # **Releases (Newest to Oldest)**
 Visit our [Trello](https://www.modlists.net/01CapitalPunishment/2-Trello/) for more In Depth Development Logs
 
+## **Release 0.12** 
+_**Save safe for previous versions**_
+
+### **Added**
+
+* Exterior Emittance Fix - NVSE
+
+* Fallout Alpha Rendering Tweaks - NVSE
+
+* Wasteland Warrior - A Melee Animation Overhaul
+
+* Modern Stagger animations
+
+* Friendly Misc Factions
+
+* Pleasant Primm (Location Redesign)
+
+* Expanded Mojave - Highway 95 Viper's Encampment
+
+* Simple Loadwheels
+
+* Nipton Solitare Garage (Location Remake)
+
+### **Fixed**
+
+### **Updated**
+
+### **Removed**
+
+* Faster Protectron Running
+
+* EZ Campfire
+
+* BURN
+
 ## **Release 0.10**
 _**NOT Save safe for previous versions**_
 
