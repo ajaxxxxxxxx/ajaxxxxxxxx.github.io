@@ -54,6 +54,9 @@ This does not go without saying that none of this would be possible without the 
 
 - **The Boneyards Creation Team:** Excluding myself (MNV), I want to thank the development & support members of this team. They sacrificed hours of their free time and put those hours into Capital Punishment and our other lists. I am extremely grateful to have both their dedication and support and look forward to our future endeavors as a team. 
 
+- **The Donators**
+Whether you have donated through discord, patreon, kofi, or any other mode, we appreciate you immensely! It has allowed the team & myself to give financial recompensation to some of our hardworking team members, helped in running giveaways for the discord, and even helped in obtaining new hardware for streams and ensuring our modlists can be backed up locally!
+
 - **Countless Mod Authors:** Disagreements and agreements aside, none of this would be possible without the hard work of the mod authors behind each and every mod you find in one of our lists. A large thank you to all of them for providing these resources.
 
 - **The TTW Team:** Without their framework and both positive (and negative) critiques, the original Capital Punishment list would not be where it is at today nor would it function to begin with. Agreements/disagreements aside again, their dedication to bringing the world of Fallout 3 together with the Fallout New Vegas world space is a massive feat, not to mention the plethora of other supplementary mods they have released along the way.
