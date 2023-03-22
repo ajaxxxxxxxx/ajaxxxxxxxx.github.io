@@ -61,33 +61,15 @@ Bleeding is proc'd when the player is hit for a certain amount of their health a
 |**Splint**|Grants a small amount of limb healing|
 |**Army Morphine Syrette**|Grants 90 seconds of ignored crippled limbs, reduces strength for 90-120 seconds. Weaker version of Med-X, with a lower addiction chance than Med-X in my Indigestibles mod. Valuable for their weight in resale. Medicine 25 for visibility + 30 Medicine to craft|
 |**Army Morphine Syrette Crafting**|Requires: Empty Syringe, Med-X, Surgical Tubing, Purified Water|
+|**Combat Stim**|Increases AP by 20, Agility by 1, +25% AP regen, and +10% movement speed for 120 seconds, but it increases your sleep deprivation by 55. Pretty useful. Has a low addiction chance, and a relatively low addiction penalty|
+|**Improvised Medkit**|Restores 12 health over 4-5 seconds, restores 15 limb health over 5-3 seconds, and reduces Endurance and Strength for 30-45 seconds. It's not very strong, but it's a relatively cheap way to get your limbs off of crippled for a short time, and it's relatively easy to craft. Marked as a food item, so it benefits from the Survival skill. Survival 15/Medicine 20 for visibility + Survival 20 to craft|
+|**Improvised Medkit Crafting**|Requires: Tin Can, Solvitol, Purified Water, Empty Syringe, Lunchbox, Antiseptic|
+|**Survival Medkit**|Restores 24 health over 6-8 seconds, restores 25-30 limb health over 5-6 seconds, reduces limb damage by 25% for 2 minutes, and reduces Endurance and Strength for 30-45 seconds. A moderate improvement on the Improvised Medkit for Survival players. Also marked as a food item. Survival 30/Medicine 20 for visibility + Survival 35 to craft|
+|**Survival Medkit Crafting**|Requires: Tin Can, Solvitol x2, Purified Water, Empty Syringe, Lunchbox, Improvised Hemostat Pill x2|
+|**Small Medkit**|Restores 24 health over 4-5 seconds, restores 30 limb health over 3-10 seconds, and reduces Endurance for 30-40 seconds. Not as much direct healing as just using the healing ingredients on their own, but having them all together along with the scalpel, grants you some moderate limb healing. Medicine 25 for visibility + Medicine 25 to craft|
+|**Small Medkit Crafting**|Requires: Stimpak, Bandage, Antiseptic, Scalpel|
 
-- **Combat Stim:** Increases AP by 20, Agility by 1, +25% AP regen, and +10% movement speed for 120 seconds, but it increases your sleep deprivation by 55. 
 
->Pretty useful. Has a low addiction chance, and a relatively low addiction penalty.
-
-- **Improvised Medkit:** Restores 12 health over 4-5 seconds, restores 15 limb health over 5-3 seconds, and reduces Endurance and Strength for 30-45 seconds.
-
-> Survival 15/Medicine 20 for visibility + Survival 20 to craft.
-
-> Requires: Tin Can, Solvitol, Purified Water, Empty Syringe, Lunchbox, Antiseptic.
-> It's not very strong, but it's a relatively cheap way to get your limbs off of crippled for a short time, and it's relatively easy to craft. Marked as a food item, so it benefits from the Survival skill. 
-
-- **Survival Medkit:** Restores 24 health over 6-8 seconds, restores 25-30 limb health over 5-6 seconds, reduces limb damage by 25% for 2 minutes, and reduces Endurance and Strength for 30-45 seconds.
-
-> Survival 30/Medicine 20 for visibility + Survival 35 to craft.
-
-> Requires: Tin Can, Solvitol x2, Purified Water, Empty Syringe, Lunchbox, Improvised Hemostat Pill x2.
-
-> A moderate improvement on the Improvised Medkit for Survival players. Also marked as a food item.
-
-**Small Medkit:** Restores 24 health over 4-5 seconds, restores 30 limb health over 3-10 seconds, and reduces Endurance for 30-40 seconds.
-
-> Medicine 25 for visibility + Medicine 25 to craft.
-
-> Requires: Stimpak, Bandage, Antiseptic, Scalpel.
-
-> Not as much direct healing as just using the healing ingredients on their own, but having them all together along with the scalpel, grants you some moderate limb healing.
 
 - **Army Medkit:** Restores 30-36 health over 5-6 seconds, restores 60 limb health over 6-10 seconds, grants +5 DR for 25-30 seconds, lets you ignore crippled limbs for 60 seconds, and reduces Endurance for 50 seconds.
 
