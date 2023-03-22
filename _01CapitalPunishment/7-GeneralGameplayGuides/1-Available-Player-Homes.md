@@ -107,7 +107,7 @@ TTW Mobile Truck Base - player home, allows both inter- and intra-wasteland trav
 
 [Link to Nexus page](https://www.nexusmods.com/newvegas/mods/79005)
 
-Location(s): Scrapyard in the Capital Wasteland or Gibson Scrap Yard in the Mojave Wasteland
+Location(s): Scrapyard in the Capital Wasteland or Gibson Scrap Yard in the Mojave Wasteland, Truck Addons/The Truck Key can be Purchased at Craterside Supply
 
 ![image](https://user-images.githubusercontent.com/114360108/202836538-d0c85e68-f82a-49f0-824d-2c842b3f3ef8.png)
 
