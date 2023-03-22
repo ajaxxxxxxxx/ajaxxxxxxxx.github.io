@@ -19,6 +19,7 @@ Bleeding is proc'd when the player is hit for a certain amount of their health a
 - **Trauma Kits:** Removes all levels of bleeding at one time
 
 ### **By Default, Bleeding is Set to the Values Below**
+
 |Bleed Level|Amount of Health Lost|
 |--|--|
 |Minor|5%|
@@ -26,6 +27,7 @@ Bleeding is proc'd when the player is hit for a certain amount of their health a
 |Critical|40%|
 
 ### **What We Recommend/Put in Our Preconfigured Save** 
+
 |Bleed Level|Amount of Health Lost|
 |--|--|
 |Minor|15%|
