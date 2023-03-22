@@ -13,13 +13,13 @@ All usable chemistry sets (bar a few) have been automatically turned into Drug S
 
 |Ingredient|Associated Stat|
 |--|--|
-|**Brawnoids|Strength**|
-|**Zanahoria|Perception**|
-|**Staminoma|Endurance**|
-|**Charmagra|Charisma**|
-|**Nu-Nootropics|Intelligence**|
-|**Reflexum|Agility**|
-|**Favorabis|Luck**|
+|**Brawnoids**|**Strength**|
+|**Zanahoria**|**Perception**|
+|**Staminoma**|**Endurance**|
+|**Charmagra**|**Charisma**|
+|**Nu-Nootropics**|**Intelligence**|
+|**Reflexum**|**Agility**|
+|**Favorabis**|**Luck**|
 
 ## **Extra Ingredients**
 
