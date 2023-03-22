@@ -122,5 +122,13 @@ Location(s): Big Town
 
 ![20221119095927_1](https://user-images.githubusercontent.com/114360108/202857212-28d539f3-a3b7-49a6-8a14-19a98bc7ebf3.jpg)
 
+## **Casa de New Vegas**
 
+A large scale adobe mansion in the Mojave with lots to do besides just sitting around and admiring its beauty
+
+[Link to Nexus page](https://www.nexusmods.com/newvegas/mods/76101)
+
+Location(s): North of New Vegas/NorthWest of the Freeside North Gate
+
+![image](https://user-images.githubusercontent.com/112358568/227043753-d0607773-df5c-4c3f-822d-411f2ba77fa9.png)
 
