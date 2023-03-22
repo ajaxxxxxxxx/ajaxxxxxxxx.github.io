@@ -22,7 +22,44 @@ The Mojave & the Capital Wasteland are places of varying weather conditions. Hot
 We will leave it to you to find these player homes on your adventures
 
 ## **Human: Hardcore Needs**
-Like I said, it may be easy to forget you need to sleep and eat, but hydration is the most rapidly changing stat depending on your movement, the temperature, carry weight/armor weight, and time. While all normal methods of water drinking are still in game, bottling water is one that is new. To do this…
+Sleeping, eating, & drinking. These are the three pillars of survival in this list and they all revolve around one skill; `Survival`. Below is a table of survival levels and how they affect your hardcore needs
+
+|Survival Level|How Long it Takes (In Seconds) For Your Thirst to Go Up By 1|
+|--|--|
+|35|30|
+|45|45|
+|55|60|
+|65|75|
+|75|90|
+|85|105|
+|95|120|
+|100|140|
+
+|Survival Level|How Long it Takes (In Seconds) For Your Hunger to Go Up By 1|
+|--|--|
+|35|40|
+|45|45|
+|55|50|
+|65|55|
+|75|60|
+|85|65|
+|95|70|
+|100|80|
+
+|Survival Level|How Long it Takes (In Seconds) For Your Sleep to Go Up By 1|
+|--|--|
+|35|51|
+|45|59|
+|55|68|
+|65|75|
+|75|85|
+|85|93|
+|95|102|
+|100|111|
+
+## **Hardcore Needs: Bottling Water**
+
+While all normal methods of water drinking are still in game, bottling water is one that is new. To do this…
 
 **1.)** Have an empty bottle in your inventory (You can get one by drinking a bottle of water/other bottle)
 
@@ -33,6 +70,7 @@ Like I said, it may be easy to forget you need to sleep and eat, but hydration i
 While I will not post every value below, understand that drinking anything other than water such as alcohol and soda will only serve to dehydrate you even more. This also applies to dry foods and other foods. Make sure to read every consumables description before consuming it.
 
 As for sleeping and eating, these are self explanatory. Make sure to watch your meters in your pip-boy and sleep/eat when you begin to feel hungry. All three of these stats will produce negative modifiers once they reach a certain threshold, so making sure your character is healthy will ensure you do not become over encumbered or worse.
+
 
 Finally, we come to one that is less a need and more of a point of preference...
 
