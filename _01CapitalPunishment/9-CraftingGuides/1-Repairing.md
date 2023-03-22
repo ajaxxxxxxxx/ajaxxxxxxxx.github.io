@@ -47,16 +47,11 @@ Weapons & armor can be repaired in the same way as they once were, but why settl
 |**Iron**|Workbench (15 Repair); Wrench|Scrap Electronics|
 |**Paint Gun**|Workbench (20 Repair); Wrench|Scrap Metal|
 |**Hot Plate**|Workbench (25 Repair); Wrench|Scrap Electronics|
-
-5.) **Pressure Cooker:** Workbench (30 Repair); Hammer; Scrap Metal (2)
-
-6.) **Toaster:** Workbench (40 Repair); Wrench; Scrap Metal, Scrap Electronics, Sensor Module
-
-7.) **Vacuum Cleaner:** Workbench (60 Repair); Wrench; Scrap Metal (3), Sensor Module (2)
-
-8.) **Leaf Blower:** Workbench (75 Repair); Wrench; Scrap Metal (2), Scrap Electronics (4)
-
-9.) **Wood Chipper:** Workbench (85 Repair); Wrench, Hammer; Scrap Metal (5), Scrap Electronics (2), Sensor Module (2)
+|**Pressure Cooker**|Workbench (30 Repair); Hammer|Scrap Metal (2)|
+|**Toaster**|Workbench (40 Repair); Wrench|Scrap Metal, Scrap Electronics, Sensor Module|
+|**Vacuum Cleaner**|Workbench (60 Repair); Wrench|Scrap Metal (3), Sensor Module (2)|
+|**Leaf Blower**|Workbench (75 Repair); Wrench|Scrap Metal (2), Scrap Electronics (4)|
+|**Wood Chipper**|Workbench (85 Repair); Wrench, Hammer|Scrap Metal (5), Scrap Electronics (2), Sensor Module (2)|
 
 ## **Misc Repair Notes**
 
