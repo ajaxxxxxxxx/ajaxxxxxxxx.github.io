@@ -50,24 +50,13 @@ Bleeding is proc'd when the player is hit for a certain amount of their health a
 
 ## **New Healing Items**
 
-- **Basic Bandage:** Heals 15 health over 15 seconds. Heals 10 bonus health over 10 seconds if you're not in combat.
-Basic, but it won't count toward Overdose, and it's light and relatively easy to find. Bandages will stop BLEED's bleeding effect if you're afflicted by it.
-
-- **Military Bandage:** Heals 25 health over 25 seconds, but it reduces Agility by 1 while it heals. Heals 10 bonus health over 10 seconds if you're not in combat.
-
-> Rarer, but better Bandage. Comes with an Agility penalty to account for it's better healing.
-
-- **Antiseptic:** Grants 10% bonus healing for 45 seconds. 
-
-> It's more for use in Medkit crafting recipes than individual use. It will apply to food healing.
-
-- **Improvised Hemostat Pill:** Grants 25% reduced limb damage for 240 seconds.
-
-> Survival 20 or Medicine 20 for visibility + 20 Science to craft.
-
-> Requires: Tin Can, Buffout, Healing Powder, Purified Water.
-
-> Recipe grants 6 pills. Marked as a food item, so it scales with Survival.
+|Healing Item|What it Does|
+|--|--|
+|**Basic Bandage**|Heals 15 health over 15 seconds. Heals 10 bonus health over 10 seconds if you're not in combat. Basic, but it won't count toward Overdose, and it's light and relatively easy to find. Bandages will stop BLEED's bleeding effect if you're afflicted by it|
+|**Military Bandage**|Heals 25 health over 25 seconds, but it reduces Agility by 1 while it heals. Heals 10 bonus health over 10 seconds if you're not in combat. Rarer, but better Bandage. Comes with an Agility penalty to account for it's better healing|
+|**Antiseptic**|Grants 10% bonus healing for 45 seconds. It's more for use in Medkit crafting recipes than individual use. It will apply to food healing|
+|**Improvised Hemostat Pill|Grants 25% reduced limb damage for 240 seconds. Survival 20 or Medicine 20 for visibility + 20 Science to craft|
+|**Improved Hemostat Pill Crafting**|Requires: Tin Can, Buffout, Healing Powder, Purified Water; Recipe grants 6 pills. Marked as a food item, so it scales with Survival|
 
 - **Solvitol** (Painkillers): Provides +12% DR for 200 seconds, damages dehydration by 15.
 
