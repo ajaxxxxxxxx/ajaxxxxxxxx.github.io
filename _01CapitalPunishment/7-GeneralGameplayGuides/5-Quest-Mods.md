@@ -31,28 +31,6 @@ Potential spoilers for gameplay and quests below.
 
 ![image](https://user-images.githubusercontent.com/112358568/210498485-734f4bcd-5884-4e47-8c63-fa022c7274ce.png)
 
-## **The Caravan Tournament**
-
-[Link to Nexus Page](https://www.nexusmods.com/newvegas/mods/72768)
-
-**Features:**
-- An exciting caravan tournament against 5 unique opponents
-- Different outcomes for losing, winning, & surrendering
-- A Prizepool of 20,000 Caps & a Mystery Item
-- Unique and new caravan cards to collect with a perk for having them all
-- The title of Caravan Master 
-
-**Warnings About This Mod**
-- Don’t push Cas from her position, and do not quicksave while in the chair in the arena. This will soft lock you or break something if either are done
-
-**Location**
-- Crimson Caravan
-
-**How to Start**
-- Listen to the Crimson Caravan radio and follow the instructions, or just go to the Crimson Caravan.
-
-![image](https://user-images.githubusercontent.com/112358568/210498682-cb50a7f2-9f46-4a60-9b14-d2178930af64.png)
-
 
 ## **New Vegas Bounties I LE**
 
