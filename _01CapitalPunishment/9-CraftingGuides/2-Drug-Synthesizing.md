@@ -23,22 +23,19 @@ All usable chemistry sets (bar a few) have been automatically turned into Drug S
 
 ## **Extra Ingredients**
 
-1.) **Renovamen =** A compound found in drugs that heal like Stimpaks
-
-2.) **Chernoboidine =** A compound found in drugs that reduce radiation like Rad-X or Radaway
-
-3.) **Tht-Spcl-Kck =** A misc. addictive substance found in drugs like Jet or Psycho
+|Ingredient|Description|
+|--|--|
+|**Renovamen**|A compound found in drugs that heal like Stimpaks|
+|**Chernoboidine**|A compound found in drugs that reduce radiation like Rad-X or Radaway|
+|**Tht-Spcl-Kck**|A misc. addictive substance found in drugs like Jet or Psycho|
 
 ## **Drugs That Are Added By this Mod**
 
-1.) **Blood Pack Kit =** Not really a drug but an aid item that creates a blood pack at the cost of a little health
-
-2.) **Voodoo =** An Inhaler drug that increases Luck and Agility at the cost of Intelligence
-
-3.) **Mint Breath =** An Inhaler drug that increases Charisma and Luck at the cost of Strength
-
-4.) **Brain Blast =** An Inhaler drug that increases Intelligence and Perception at the cost of Endurance
-
-5.) **Rad-B-Gone =** A needle version of Rad-Away that reduces rad levels at the cost of Agility
-
-6.) **Whale Lung =** An Inhaler drug that provides water breathing at the expense of Strength
+|Drug|Description|
+|--|--|
+|**Blood Pack Kit**|Not really a drug but an aid item that creates a blood pack at the cost of a little health|
+|**Voodoo**|An Inhaler drug that increases Luck and Agility at the cost of Intelligence|
+|**Mint Breath**|An Inhaler drug that increases Charisma and Luck at the cost of Strength|
+|**Brain Blast**|An Inhaler drug that increases Intelligence and Perception at the cost of Endurance|
+|**Rad-B-Gone**|A needle version of Rad-Away that reduces rad levels at the cost of Agility|
+|**Whale Lung**|An Inhaler drug that provides water breathing at the expense of Strength|
