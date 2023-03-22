@@ -16,11 +16,8 @@ Yes disease exists as it should in the post-apocalyptic Mojave/Capital Wasteland
 |Disease|Symptoms//Cause|
 |--|--|
 |**Scratch Fever**|Reduced Carry Weight, Max AP, & Max Health**//**Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
-
 |**Trail Tremors**|Reduced Accuracy and Lockpick skill**//**Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
-
 |**Rad-Fleas**|Reduced Luck, Radiation Resistance, and Barter skill**//**Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
-
 |**Fog Eyes**|Reduced Perception and Critical Hit Chance**//**Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
 
 **Slobber Mouth**
