@@ -28,27 +28,13 @@ Weapons & armor can be repaired in the same way as they once were, but why settl
 |**Scrap Energy Rifle Parts**|Workbench (60 Science); Soldering Iron, Scrap Metal (1), Scrap Electronics (3), Sensor Module (1)|
 |**Scrap Energy Heavy Weapon Parts**|Workbench (70 Science); Soldering Iron, Scrap Electronics (1), Conductor (1), Sensor Module (1)|
 
-## **Armor Crafting Req.**
+## **Armor Crafting Requirements**
 
-1.) **Whet Stone:** Workbench (30 Repair); Dirty OR Purified Water (1), Paperweight (1)
-
-2.) **Cloth:** Workbench (15 Repair); Scissors, Pre-War, Merc, Prospector, Wasteland, Caravaneer, Settler, Field Hand, Tribal Clothing, OR Powder Ganger Outfit (1)
-
-3.) **Light Armor Parts:** Campfire (30 Repair); Any of the following
-
--    Gecko Hide (3)
-
--    Golden Gecko Hide (3)
-
--    Fire Gecko Hide (3)
-
--    Green Gecko Hide (Honest Hearts) (2)
-
--    Dog Hide (4)
-
--    Coyote Hide (4)
-
--    Tunneler Hide (Lonesome Road) (2)
+|Armor Part|Requirements|
+|--|--|
+|**Whet Stone**|Workbench (30 Repair); Dirty OR Purified Water (1), Paperweight (1)|
+|**Cloth**|Workbench (15 Repair); Scissors, Pre-War, Merc, Prospector, Wasteland, Caravaneer, Settler, Field Hand, Tribal Clothing, OR Powder Ganger Outfit (1)|
+|**Light Armor Parts**| Campfire (30 Repair); Any of the following - Gecko Hide (3), Golden Gecko Hide (3), Fire Gecko Hide (3), Green Gecko Hide (Honest Hearts) (2), Dog Hide (4), Coyote Hide (4), Tunneler Hide (Lonesome Road) (2)|
 
 4.) **Medium Armor Parts:** Workbench (45 Repair); Welding Gun, Hammer, Flamer Fuel (25), Cloth (2), Armor Plating [Any of the following: Tin Plate(1), Metal Cooking Pan(1), Metal Cooking Pot (1), Pot (1), Pressure Cooker(1)].
 
