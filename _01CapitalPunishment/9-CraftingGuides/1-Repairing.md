@@ -39,15 +39,14 @@ Weapons & armor can be repaired in the same way as they once were, but why settl
 |**Heavy Armor Parts**|Workbench (60 Repair); Welding Gun, Hammer, Flamer Fuel (50), Scrap Metal (1), Armor Plating; _Any of the following: Tin Plate(1), Metal Cooking Pan(1), Metal Cooking Pot (1), Pot (1), Pressure Cooker(1)_.
 |**Power Armor Parts**|Workbench (80 Repair); Welding Gun, Hammer, Wrench, Flamer Fuel (75), Scrap Metal (2), Scrap Electronics (2), Armor Plating; _Any of the following: Tin Plate(1), Metal Cooking Pan(1), Metal Cooking Pot (1), Pot (1), Pressure Cooker(1)_|
 
-## **Scrappable Items Req.**
+## **Breakdown Item Requirements**
 
-1.) **Camera:** Workbench (10 Repair); Hammer; Scrap Electronics
-
-2.) **Iron:** Workbench (15 Repair); Wrench; Scrap Electronics
-
-3.) **Paint Gun:** Workbench (20 Repair); Wrench; Scrap Metal
-
-4.) **Hot Plate:** Workbench (25 Repair); Wrench; Scrap Electronics
+|Item|Requirements|Output|
+|--|--|--|
+|**Camera**|Workbench (10 Repair); Hammer|Scrap Electronics|
+|**Iron**|Workbench (15 Repair); Wrench|Scrap Electronics|
+|**Paint Gun**|Workbench (20 Repair); Wrench|Scrap Metal|
+|**Hot Plate**|Workbench (25 Repair); Wrench|Scrap Electronics|
 
 5.) **Pressure Cooker:** Workbench (30 Repair); Hammer; Scrap Metal (2)
 
