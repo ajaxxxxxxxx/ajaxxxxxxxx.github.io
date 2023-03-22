@@ -1,9 +1,7 @@
 ---
+title: Abbreviated Installation Guide
 layout: default
-title: 1.) Abbreviated Install Guide
-has_toc: true
-parent: Install Guide
-nav_order: 10
+nav_order: 2
 description: Abbreviated Installation Guide
 ---
 ## Abbreviated Installation Guide
