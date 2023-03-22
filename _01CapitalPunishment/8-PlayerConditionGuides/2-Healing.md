@@ -7,7 +7,30 @@ nav_order: 2
 description: All Healing Items & Effects
 ---
 
+## **Healing: An Introduction**
+
 Healing is the essence of life in any Fallout game, but healing has been completely revamped in this mod. New healing items have replaced others, new sickness and diseases have been added, and food/water no longer heals health as it used to. Even worrying about light, moderate, and severe bleeding will be a part of your everyday struggle as you fight through the wastes. Below are all the items you will need to prepare yourself for this/what they do.
+
+## **Bleeding**
+
+Bleeding is proc'd when the player is hit for a certain amount of their health at one time or in a short period. This bleeding affect comes in three stages and can be alleviated in two different ways
+
+- **Bandages:** Removes one level of bleeding at a time
+- **Trauma Kits:** Removes all levels of bleeding at one time
+
+**By Default, Bleeding is Set to the Values Below**
+|Bleed Level|Amount of Health Lost|
+|--|--|
+|Minor|5%|
+|Severe|20%|
+|Critical|40%|
+
+**What We Recommend/Put in Our Preconfigured Save*
+|Bleed Level|Amount of Health Lost|
+|--|--|
+|Minor|15%|
+|Severe|40%|
+|Critical|60%|
 
 ## **Tweaked Healing Items**
 
