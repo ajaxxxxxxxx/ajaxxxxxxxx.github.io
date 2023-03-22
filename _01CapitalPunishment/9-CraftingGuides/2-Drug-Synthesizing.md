@@ -11,19 +11,15 @@ All usable chemistry sets (bar a few) have been automatically turned into Drug S
 
 ## **SPECIAL Ingredients**
 
-1.) **Brawnoids = Strength**
-
-2.) **Zanahoria = Perception**
-
-3.) **Staminoma  = Endurance**
-
-4.) **Charmagra = Charisma**
-
-5.) **Nu-Nootropics = Intelligence**
-
-6.) **Reflexum = Agility**
-
-7.) **Favorabis = Luck**
+|Ingredient|Associated Stat|
+|--|--|
+|**Brawnoids|Strength**|
+|**Zanahoria|Perception**|
+|**Staminoma|Endurance**|
+|**Charmagra|Charisma**|
+|**Nu-Nootropics|Intelligence**|
+|**Reflexum|Agility**|
+|**Favorabis|Luck**|
 
 ## **Extra Ingredients**
 
