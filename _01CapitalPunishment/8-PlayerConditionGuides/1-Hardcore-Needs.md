@@ -21,6 +21,10 @@ The Mojave & the Capital Wasteland are places of varying weather conditions. Hot
 
 We will leave it to you to find these player homes on your adventures
 
+## **Ambient Temperature**
+
+The Mojave & The Capital Wasteland, like the real world, suffer from their cool and warmer days. Things like temperature, dew point, heat index, and relative humidity will affect all of your hardcore needs. These can all be checked in your Pipboy Module labeled `Today's Weather` in your Pipboy's Armr Section. If it is hot out, think about wearing lighter armor/clothing. If its warm, do the opposite. As simplistic as this system is, it can cause catastrophic differences in your overall survival if you are not properly prepared. 
+
 ## **Hardcore Needs: Thirst**
 
 Like in a real life survival scenario, thirst is the first thing that kills many. Unlike in the real world, however, levelling up your survival can turn this from a burdenous and even expensive task to nothing more than an occasional annoyance. 
