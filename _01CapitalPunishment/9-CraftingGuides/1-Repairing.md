@@ -15,6 +15,7 @@ Weapons & armor can be repaired in the same way as they once were, but why settl
 ## **Weapon Crafting Requirements**
 
 |Weapon Part|Requirements|
+|--|--|
 |**Scrap Revolver Parts**|Workbench (20 Repair); Hammer, Scrap Metal (2), Duct Tape (1)|
 |**Scrap Pistol Parts**|Workbench (25 Repair); Hammer, Scrap Metal (2), Duct Tape (1)|
 |**Scrap Shotgun Parts**|Workbench (30 Repair); Hammer, Scrap Metal (1), Duct Tape (1), Wonderglue (1)|
