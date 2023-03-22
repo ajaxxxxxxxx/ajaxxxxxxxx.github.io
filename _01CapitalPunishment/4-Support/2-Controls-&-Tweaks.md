@@ -30,6 +30,9 @@ Gameplay tweaks as well as mod configuration settings are extremely important fo
 
 ## **Tweaks & What They Do**
 
+{: .warning}
+> Certain tweaks may cause issues with how the list is set up or may be incompatible with the list altogether. If you decide to add or edit tweaks, this will void support as modifying the list/adding mods to the list does.
+
 - 2 Hotkey Restored - replaces the 'Ammo Swap' icon with a functional weapon slot '2' (rebinding the Ammo Swap Key may be required)
 - Activating While Seated Doesn't Stand Up - prevents standing up when you press 'Activate' without a ref selected while seated
 - Aiming Unholsters Weapons - take out your weapon when aiming
