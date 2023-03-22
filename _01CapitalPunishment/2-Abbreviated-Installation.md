@@ -28,7 +28,7 @@ This guide will be a shortened version of our larger installation guide. If you 
 
 1.) Install a Fresh Copy of Fallout New Vegas & 3 (English Language Only). Once installation is finished, launch them once and a popup should appear saying detecting game settings. 
 
-2.) set your resolution and other settings to your liking and close the launcher after
+2.) Set your resolution and other settings to your liking and close the launcher after
 
 ## Wabbajack Setup
 
