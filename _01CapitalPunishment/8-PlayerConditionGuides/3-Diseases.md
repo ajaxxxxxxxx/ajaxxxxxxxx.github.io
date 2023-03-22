@@ -13,7 +13,7 @@ Yes disease exists as it should in the post-apocalyptic Mojave/Capital Wasteland
 
 ### **Current Disease List**
 
-|Disease|Symptoms//Cause|
+|Disease|Symptoms // Cause|
 |--|--|
 |**Scratch Fever**|Reduced Carry Weight, Max AP, & Max Health **//** Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
 |**Trail Tremors**|Reduced Accuracy and Lockpick skill **//** Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
