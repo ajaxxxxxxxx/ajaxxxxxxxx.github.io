@@ -8,7 +8,7 @@ description: Abbreviated Installation Guide
 ---
 ## Abbreviated Installation Guide
 
-This guide will be a shortened version of all of the steps above. This assumes you know what you are doing and may not go over every little detail like the larger guide. That being said, if you feel as though you don't know what you are doing, read our in depth guide.
+This guide will be a shortened version of our larger installation guide. If you feel you will need a slower/more indepth approach, you may use the guide [HERE](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/installguide/)
 
 ## The Bare Minimum
 
