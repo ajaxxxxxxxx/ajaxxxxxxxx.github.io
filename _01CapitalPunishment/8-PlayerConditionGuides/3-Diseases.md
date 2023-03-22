@@ -7,33 +7,21 @@ nav_order: 3
 description: All Diseases & Effects
 ---
 
+## **Diseases**
+
 Yes disease exists as it should in the post-apocalyptic Mojave/Capital Wasteland. All diseases will eventually fade away, but the player may take Immuno-boosters to rid themselves quicker.
 
 ### **Current Disease List**
 
-**Scratch Fever**
+|Disease|Symptoms//Cause|
+|--|--|
+|**Scratch Fever**|Reduced Carry Weight, Max AP, & Max Health**//**Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
 
-- Reduced Carry Weight, Max AP, & Max Health
+|**Trail Tremors**|Reduced Accuracy and Lockpick skill**//**Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
 
-- Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)
+|**Rad-Fleas**|Reduced Luck, Radiation Resistance, and Barter skill**//**Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
 
-**Trail Tremors**
-
-- Reduced Accuracy and Lockpick skill
-
-- Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)
-
-**Rad-Fleas**
-
-- Reduced Luck, Radiation Resistance, and Barter skill
-
-- Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)
-
-**Fog Eyes**
-
-- Reduced Perception and Critical Hit Chance
-
-- Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)
+|**Fog Eyes**|Reduced Perception and Critical Hit Chance**//**Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
 
 **Slobber Mouth**
 
