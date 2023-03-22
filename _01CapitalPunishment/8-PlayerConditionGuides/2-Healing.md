@@ -42,7 +42,7 @@ Bleeding is proc'd when the player is hit for a certain amount of their health a
 - Restores 20 health and 50 sleep deprivation immediately, increases health by 20, Agility and Perception by 1, AP regen by 25%, and attack/movement speed by 10% for 120 seconds, but it reduces your sleep deprivation by 1 each second, for 175 seconds.
 - Carries the same withdrawal as the Combat Stim, at about twice the likelihood.
 - Can be diluted into 3 regular Combat Stims, or condensed from 3 Combat Stims and an Empty Syringe.
-- Has an option for distribution throughout the wastes. Unlike the other items, this setting can be set to 0 and turned off, leaving the stim only in LR locations.|
+- Has an option for distribution throughout the wastes. Unlike the other items, this setting can be set to 0 and turned off, leaving the stim only in LR locations|
 
 - **Auto-Inject Super Stimpak: Now the Ultra-Stimpak:**
 
