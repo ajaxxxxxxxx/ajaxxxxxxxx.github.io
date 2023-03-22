@@ -6,35 +6,26 @@ parent: Crafting & Repair Guides
 nav_order: 1
 description: How to Repair Weapons/Armor
 ---
-
+## **Weapon & Armor Repairing**
 Weapons & armor can be repaired in the same way as they once were, but why settle for this when there are much better alternatives? With the ability to craft weapon and armor specific parts, it is now more viable to do so. Below is a list of all weapon parts and their crafting requirements
 
 {: .note}
 > Since we have weapon repair kits enabled in the preconfigured save, parts may not populate but rather just weapon repair kits. If you would prefer to use armor parts you may disable it manually in MCM
 
-## **Weapon Crafting Req.**
+## **Weapon Crafting Requirements**
 
-1.) **Scrap Revolver Parts:** Workbench (20 Repair); Hammer, Scrap Metal (2), Duct Tape (1)
-
-2.) **Scrap Pistol Parts:** Workbench (25 Repair); Hammer, Scrap Metal (2), Duct Tape (1)
-
-3.) **Scrap Shotgun Parts:** Workbench (30 Repair); Hammer, Scrap Metal (1), Duct Tape (1), Wonderglue (1)
-
-4.) **Scrap SMG Parts:** Workbench (45 Repair); Hammer, Scrap Metal (3), Duct Tape (1)
-
-5.) **Scrap Rifle Parts:** Workbench (60 Repair); Hammer, Scrap Metal (3), Duct Tape (1), Wonderglue (1)
-
-6.) **Scrap Heavy Weapon Parts:** Workbench (70 Repair); Hammer, Scrap Metal (4), Duct Tape (1), Wonderglue (1)  
-              
-7.) **Scrap Grenade Launcher Parts:** Workbench (40 Repair); Welding Gun, Flamer Fuel (30), Scrap Metal (4)
-
-8.) **Scrap Missile Launcher Parts:** Workbench (60 Repair); Welding Gun, Flamer Fuel (60), Scrap Metal (5)  
-          
-9.) **Scrap Energy Pistol Parts:** Workbench (20 Science); Soldering Iron, Scrap Metal (1), Scrap Electronics (2)
-
-10.) **Scrap Energy Rifle Parts:** Workbench (60 Science); Soldering Iron, Scrap Metal (1), Scrap Electronics (3), Sensor Module (1)
-
-11.) **Scrap Energy Heavy Weapon Parts:** Workbench (70 Science); Soldering Iron, Scrap Electronics (1), Conductor (1), Sensor Module (1)
+|Weapon Part|Requirements|
+|**Scrap Revolver Parts:|Workbench (20 Repair); Hammer, Scrap Metal (2), Duct Tape (1)|
+|**Scrap Pistol Parts**|Workbench (25 Repair); Hammer, Scrap Metal (2), Duct Tape (1)|
+|**Scrap Shotgun Parts**|Workbench (30 Repair); Hammer, Scrap Metal (1), Duct Tape (1), Wonderglue (1)|
+|**Scrap SMG Parts**|Workbench (45 Repair); Hammer, Scrap Metal (3), Duct Tape (1)|
+|**Scrap Rifle Parts**|Workbench (60 Repair); Hammer, Scrap Metal (3), Duct Tape (1), Wonderglue (1)|
+|**Scrap Heavy Weapon Parts**|Workbench (70 Repair); Hammer, Scrap Metal (4), Duct Tape (1), Wonderglue (1)|  
+|**Scrap Grenade Launcher Parts**|Workbench (40 Repair); Welding Gun, Flamer Fuel (30), Scrap Metal (4)|
+|**Scrap Missile Launcher Parts**|Workbench (60 Repair); Welding Gun, Flamer Fuel (60), Scrap Metal (5)|  
+|**Scrap Energy Pistol Parts**|Workbench (20 Science); Soldering Iron, Scrap Metal (1), Scrap Electronics (2)|
+|**Scrap Energy Rifle Parts**|Workbench (60 Science); Soldering Iron, Scrap Metal (1), Scrap Electronics (3), Sensor Module (1)|
+|**Scrap Energy Heavy Weapon Parts**|Workbench (70 Science); Soldering Iron, Scrap Electronics (1), Conductor (1), Sensor Module (1)|
 
 ## **Armor Crafting Req.**
 
