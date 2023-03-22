@@ -34,9 +34,8 @@ Weapons & armor can be repaired in the same way as they once were, but why settl
 |--|--|
 |**Whet Stone**|Workbench (30 Repair); Dirty OR Purified Water (1), Paperweight (1)|
 |**Cloth**|Workbench (15 Repair); Scissors, Pre-War, Merc, Prospector, Wasteland, Caravaneer, Settler, Field Hand, Tribal Clothing, OR Powder Ganger Outfit (1)|
-|**Light Armor Parts**| Campfire (30 Repair); Any of the following - Gecko Hide (3), Golden Gecko Hide (3), Fire Gecko Hide (3), Green Gecko Hide (Honest Hearts) (2), Dog Hide (4), Coyote Hide (4), Tunneler Hide (Lonesome Road) (2)|
-
-4.) **Medium Armor Parts:** Workbench (45 Repair); Welding Gun, Hammer, Flamer Fuel (25), Cloth (2), Armor Plating [Any of the following: Tin Plate(1), Metal Cooking Pan(1), Metal Cooking Pot (1), Pot (1), Pressure Cooker(1)].
+|**Light Armor Parts**| Campfire (30 Repair); [Any of the following - Gecko Hide (3), Golden Gecko Hide (3), Fire Gecko Hide (3), Green Gecko Hide (Honest Hearts) (2), Dog Hide (4), Coyote Hide (4), Tunneler Hide (Lonesome Road) (2)]|
+|**Medium Armor Parts**|Workbench (45 Repair); Welding Gun, Hammer, Flamer Fuel (25), Cloth (2), Armor Plating [Any of the following: Tin Plate(1), Metal Cooking Pan(1), Metal Cooking Pot (1), Pot (1), Pressure Cooker(1)]|
 
 5.) **Heavy Armor Parts:** Workbench (60 Repair); Welding Gun, Hammer, Flamer Fuel (50), Scrap Metal (1), Armor Plating [Any of the following: Tin Plate(1), Metal Cooking Pan(1), Metal Cooking Pot (1), Pot (1), Pressure Cooker(1)].
 
