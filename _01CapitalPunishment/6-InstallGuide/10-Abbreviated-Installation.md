@@ -13,7 +13,7 @@ This guide will be a shortened version of all of the steps above. This assumes y
 ## The Bare Minimum
 
 {: .NoTitleGreen}
-> **120 GB of Free Space, A Nexus Account (Preferably Premium), a Global Steam Installation of Fallout NV w/ All DLC, Fallout 3 With All DLC (GOG, Steam, Or Epic Games)
+> 120 GB of Free Space, A Nexus Account (Preferably Premium), a Global Steam Installation of Fallout NV w/ All DLC, Fallout 3 With All DLC (GOG, Steam, Or Epic Games)
 
 {: .NoTitleYellow}
 > Make sure you install everything to the root of your drive (Ex: C:/Capital Punishment ; C:/Steam). Protected directories such as your Desktop, Program Files, etc may cause issues.
