@@ -25,7 +25,7 @@ Bleeding is proc'd when the player is hit for a certain amount of their health a
 |Severe|20%|
 |Critical|40%|
 
-**What We Recommend/Put in Our Preconfigured Save*
+**What We Recommend/Put in Our Preconfigured Save** 
 |Bleed Level|Amount of Health Lost|
 |--|--|
 |Minor|15%|
