@@ -19,36 +19,11 @@ Yes disease exists as it should in the post-apocalyptic Mojave/Capital Wasteland
 |**Trail Tremors**|Reduced Accuracy and Lockpick skill **//** Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
 |**Rad-Fleas**|Reduced Luck, Radiation Resistance, and Barter skill **//** Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
 |**Fog Eyes**|Reduced Perception and Critical Hit Chance **//** Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
-
-**Slobber Mouth**
-
-- Reduced Charisma
-
-- Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)
-
-**Viral Atrophy**
-
-- Reduced Strength
-
-- Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)
-
-**Tick Itch**
-
-- Reduced Agility
-
-- Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)
-
-**Infortunatus**
-
-- Reduced Luck
-
-- Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)
-
-**Flesh Eating Fungus**
-
-- Reduced Endurance
-
-- Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)
+|**Slobber Mouth**|Reduced Charisma **//** Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
+|**Viral Atrophy**|Reduced Strength **//** Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
+|**Tick Itch**|Reduced Agility **//**  Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
+|**Infortunatus**|Reduced Luck **//** Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)|
+|**Flesh Eating Fungus**|Reduced Endurance **//** Contracted creatures marked as “animals”. (i.e. Coyotes, Brahmin. Not Deathclaws or Robots)
 
 **Ghoul Rot**
 
