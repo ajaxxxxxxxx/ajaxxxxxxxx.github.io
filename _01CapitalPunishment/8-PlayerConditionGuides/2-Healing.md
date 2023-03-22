@@ -43,12 +43,9 @@ Bleeding is proc'd when the player is hit for a certain amount of their health a
 |**Auto-Inject Stimpak**|Carries the same withdrawal as the Combat Stim, at about twice the likelihood|
 |**Auto-Inject Stimpak**|Can be diluted into 3 regular Combat Stims, or condensed from 3 Combat Stims and an Empty Syringe|
 |**Auto-Inject Stimpak**|Has an option for distribution throughout the wastes. Unlike the other items, this setting can be set to 0 and turned off, leaving the stim only in LR locations|
-
-- **Auto-Inject Super Stimpak: Now the Ultra-Stimpak:**
-
->  Buffed to restore twice as much health as the Super Stimpak and increase health by 50 for two minutes, after which your health is reduced by 30 for an additional minute. It also carries a moderate food/hydration penalty, as well as a short sleep deprivation restoration, but a much steeper sleep deprivation penalty over time, all of which take place over 4/5 seconds.
-
-> Crafting recipe requires a Super Stimpak, Stimpak, Leather Belt, and an Antivenom.
+|**Auto-Inject Super Stimpak**| Now the Ultra-Stimpak|
+|**Auto-Inject Super Stimpak**|Buffed to restore twice as much health as the Super Stimpak and increase health by 50 for two minutes, after which your health is reduced by 30 for an additional minute. It also carries a moderate food/hydration penalty, as well as a short sleep deprivation restoration, but a much steeper sleep deprivation penalty over time, all of which take place over 4/5 seconds|
+|**Auto-Inject Super Stimpak**|Crafting recipe requires a Super Stimpak, Stimpak, Leather Belt, and an Antivenom|
 
 
 ## **New Healing Items**
