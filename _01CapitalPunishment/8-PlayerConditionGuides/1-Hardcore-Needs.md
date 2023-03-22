@@ -92,22 +92,17 @@ As time progresses, dirt will accumulate on your body. As you know, the Capital 
 
 Optionally you may also craft soap. This is the only way to get the clean status. Below are the requirements.
 
-**1.)** 50 Survival
-
-**2.)** One of the following - Broc Flower, Apple, or Pear
-
-**3.)** 1 Turpentine, 1 Abraxo cleaner.
+|Survival Needed|Crafting Ingredients|
+|--|--|
+|50| One of the following - Broc Flower, Apple, or Pear & 1 Turpentine, 1 Abraxo cleaner|
 
 Finally below are the different status effects of hygeine
 
-**1.) Clean:** CHR+2, Sneak-15 (because of the soap perfume)
-
-**2.) Normal:** nothing, vanilla game
-
-**3.) Level 1 - Slightly dirty:** CHR-1, Sneak+5 in interiors and exteriors
-
-**4.) Level 2 - Dirty:** CHR-3, Sneak+10 in exteriors only
-
-**5.) Level 3 - Very dirty:** CHR-5, Sneak-10 in interiors, Sneak+20 in exteriors
-
-**6.) Level 4 - Appalling:** CHR-7, Sneak-15 in interiors, Sneak+25 in exteriors, Animals are not hostile to the player
+|Cleanliness|Effects|
+|--|--|
+|**Clean**|CHR+2, Sneak-15 (because of the soap perfume)|
+|**Normal**|nothing, vanilla game|
+|**Level 1 - Slightly dirty**|CHR-1, Sneak+5 in interiors and exteriors|
+|**Level 2 - Dirty**|CHR-3, Sneak+10 in exteriors only|
+|**Level 3 - Very dirty**|CHR-5, Sneak-10 in interiors, Sneak+20 in exteriors|
+|**Level 4 - Appalling**|CHR-7, Sneak-15 in interiors, Sneak+25 in exteriors, Animals are not hostile to the player|
