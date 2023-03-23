@@ -45,5 +45,8 @@ description: How to Travel Between Capital & Mojave
 > He Loops through Canterbury Commons, Temple of the Union, Agatha's house, Paradise Falls, Arefu, Evergreen Mills, Megaton, and Rivet City
 
 - Travel to the Scrapyard (Where Dogmeat is)
+
+![image](https://user-images.githubusercontent.com/112358568/227066433-5fc2d6c7-8b0d-4b2c-8974-b8e589ca6eff.png)
+
 - Unlock the MTB using the key from the pack
-- 
+
