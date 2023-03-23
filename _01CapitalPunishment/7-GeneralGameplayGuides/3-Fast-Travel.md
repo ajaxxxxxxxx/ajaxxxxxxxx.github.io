@@ -16,3 +16,7 @@ A faction of roaming wanderers, these people will take you from point A to point
 ## **Travelling with Caravans**
 
 If you've got the caps, you can travel with any wandering or stationary caravan to their next stop(s). Be warned though, random events will occur when you do travel with them, all wildly varying. 
+
+## **Military Truck Base**
+
+Located in the Scrapyard in the Capital/Gibsons Scrapyard in the Mojave, for a measly 1500 caps you can live your dreams of living the van life! This, of course, comes at the extra added cost of flamer fuel, which is the primary fuel source for the truck.
