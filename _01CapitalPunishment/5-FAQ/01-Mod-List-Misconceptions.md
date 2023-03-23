@@ -14,7 +14,6 @@ description: Modlist Misconceptions
 - **Is this the list for me?** - If you like the content I have curated/would like a very hardcore experience (Casual Profile Coming in 1.45 Official Release)
 - **Is the list in active development/actively supported?** - Yes
 - **Is this a mixmatch of mods?** - No
-- **Note:** Some users are currently experiencing issues where after installation, the game will not launch past NVHR. This is something we are currently figuring out (whether it be due to our compiled files or our installation guide not having the proper steps)
 
 <iframe class="yt-embed" width="650" height="315" src="https://www.youtube.com/embed/DkrqC55hjAg?start=3424" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
