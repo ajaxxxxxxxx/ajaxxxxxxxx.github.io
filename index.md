@@ -7,7 +7,8 @@ permalink: /
 has_toc: true
 ---
 
-![banner](https://user-images.githubusercontent.com/112358568/227128385-9f7cc10c-8a71-4a81-9b3e-5fbca90043fd.png)
+![bannerl2rv2](https://user-images.githubusercontent.com/112358568/227137823-9d40c675-4193-4547-a7f5-e4dc66423c50.png)
+
 
 ## Welcome to the Boneyard Creations Modlist Wiki!
 This wiki encompasses the information regarding all modlists developed by members of the Boneyard Creations/MrNewVegas Staff Team as well as myself. Our original list, Capital Punishment, has received much criticism and praise, both fair and unfair. From it all, we have taken both the fair criticism and praise to heart and have improved upon our previous attempts. Over months of trial, error, and learning we have made Capital Punishment into something we are proud of and that we feel is a stable and new experience for the budding masochist. With all of this newfound knowledge, we have decided to branch into different titles, using our combined strengths to try and make the most enjoyable modified gameplay experiences possible.
