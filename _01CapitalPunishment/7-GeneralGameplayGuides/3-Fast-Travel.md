@@ -19,4 +19,4 @@ If you've got the caps, you can travel with any wandering or stationary caravan 
 
 ## **Military Truck Base**
 
-Located in the Scrapyard in the Capital/Gibsons Scrapyard in the Mojave, for a measly 1500 caps you can live your dreams of living the van life! This, of course, comes at the extra added cost of flamer fuel, which is the primary fuel source for the truck.
+Located in the Scrapyard in the Capital/Gibsons Scrapyard in the Mojave. For a measly 1500 caps, you can buy the Prospector's Pack from Wolfgang & live your dreams of  van life! This, of course, comes at the extra added cost of flamer fuel, which is the primary fuel source for the truck. And don't think that travelling to the Mojave immediately doesn't come at a cost. Benny will steal your truck, sell it to Old Lady Gibson, and you will have to buy it again.
