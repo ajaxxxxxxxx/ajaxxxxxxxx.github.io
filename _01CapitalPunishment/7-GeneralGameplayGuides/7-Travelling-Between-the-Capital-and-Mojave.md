@@ -44,6 +44,8 @@ description: How to Travel Between Capital & Mojave
 - Find Crazy Wolfgang as he travels through the wastes & Buy the Prospectors Pack for 1500 Caps
 > He Loops through Canterbury Commons, Temple of the Union, Agatha's house, Paradise Falls, Arefu, Evergreen Mills, Megaton, and Rivet City
 
+- I would suggest purchasing as much Flamer Fuel as you can afford
+
 - Travel to the Scrapyard (Where Dogmeat is)
 
 ![image](https://user-images.githubusercontent.com/112358568/227066433-5fc2d6c7-8b0d-4b2c-8974-b8e589ca6eff.png)
