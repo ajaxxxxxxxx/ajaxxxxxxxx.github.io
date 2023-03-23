@@ -41,7 +41,9 @@ description: How to Travel Between Capital & Mojave
 
 # **Buying the Military Truck Base**
 
-- Go to Crazy Wolfgang's Shop & Buy the Prospectors Pack for 1500 Caps
+- Find Crazy Wolfgang as he travels through the wastes & Buy the Prospectors Pack for 1500 Caps
+> He Loops through Canterbury Commons, Temple of the Union, Agatha's house, Paradise Falls, Arefu, Evergreen Mills, Megaton, and Rivet City
+
 - Travel to the Scrapyard (Where Dogmeat is)
 - Unlock the MTB using the key from the pack
 - 
