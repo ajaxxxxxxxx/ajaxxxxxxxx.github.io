@@ -7,7 +7,7 @@ nav_order: 7
 description: How to Travel Between Capital & Mojave
 ---
 
-# **How to Travel from the Capital to the Mojave**
+# **Traditional Method**
 **This guide contains spoilers for the TTW quest "There & Back Again" in addition to location spoilers for the game. In addition it was taken directly from the TTW forums. Credits to [pintocat here](https://taleoftwowastelands.com/viewtopic.php?t=6730)**
 
 **Step 1:** First, from The Mall make your way East towards the Capitol Building then North towards the National Archives.
@@ -38,3 +38,10 @@ description: How to Travel Between Capital & Mojave
 **Step 2:** Continue past the Mormon Fort, down the street and under the overpass.
 
 ![image](https://user-images.githubusercontent.com/112358568/193181995-5c96d320-780b-4389-974b-a715456e9179.png)
+
+# **Buying the Military Truck Base**
+
+- Go to Crazy Wolfgang's Shop & Buy the Prospectors Pack for 1500 Caps
+- Travel to the Scrapyard (Where Dogmeat is)
+- Unlock the MTB using the key from the pack
+- 
