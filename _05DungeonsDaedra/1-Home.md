@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: D&D Home
+---
+
 ![D D](https://user-images.githubusercontent.com/112358568/195156481-a69b5df0-63ca-4e9b-b0c6-f388d7669d75.jpg)
 
 ## **Welcome to the Dungeons & Daedra Wiki**
