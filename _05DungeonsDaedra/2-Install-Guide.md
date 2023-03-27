@@ -1,4 +1,11 @@
 
+---
+layout: default
+title: Installation Guide
+nav_order: 2
+description: Install Guide
+---
+
 # **BIG NOTE:** 
 
 **This guide is a direct copy and paste of the [Heartland Installation Guide](https://github.com/wabbajack-tools/mod-lists/blob/master/heartland/readme.md) and is only acting as a placeholder. This will be edited and rewritten entirely as to not directly plagiarize the writings they have made/to represent the steps needed to install Dungeons & Daedra itself.**
