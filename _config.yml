@@ -103,6 +103,9 @@ collections:
   04Nostalgia:
     permalink: "/:collection/:path/"
     output: true
+  05DungeonsDaedra:
+    permalink: "/:collection/:path/"
+    output: true
      
 just_the_docs:
   collections: 
@@ -117,6 +120,9 @@ just_the_docs:
       nav_fold: true   
    04Nostalgia:
       name: Nostalgia - FNV
+      nav_fold: true 
+   05DungeonsDaedra:
+      name: Dungeons & Daedra - TESIV
       nav_fold: true 
   
       
