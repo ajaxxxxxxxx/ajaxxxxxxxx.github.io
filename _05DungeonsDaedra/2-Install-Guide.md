@@ -35,7 +35,7 @@ Within the D&D folder, copy the contents of the **Game Folder Files** folder to 
 
 1. Run **ModOrganizer.exe** in the D&D MO2 folder.
 3. Select **BOSS GUI** from the **executable dropdown** in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS** without changing any of the settings. It will now take some time to download the latest masterlist, if it hasn't done so already. (This occasionally fails - if this happens, first ensure 'Update Masterlist' is ticked, then try running BOSS again. Eventually, you should receive the masterlist. When you are successful, untick 'Update Masterlist'.). After the masterlist is obtained, BOSS will sort your plugins and output an HTML log when completed.
-4. Download the **userlist.txt** file from [here](https://drive.google.com/open?id=1YMnIIi1illJe7TeQdkRvX64FbfzmsiwU), cut to  **tools/BOSS/bin/Release-64/oblivion** and overwrite any existing file there.
+4. Find the **userlist.txt** file in **D&D/Game Folder Files/Userlist File (DONT PASTE THIS TO OBLIVION DIRECTORY), & cut this to your **tools/BOSS/bin/Release-64/oblivion** and overwrite any existing file there.
 5. Repeat step 3, using BOSS to sort your load order with the newly applied user rules.
 
 ### Special Installation Steps
