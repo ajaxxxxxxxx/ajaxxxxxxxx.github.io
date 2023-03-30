@@ -15,6 +15,6 @@ This is a list which heavily relies on both the [Heartland Wabbajack Framework](
 
 Dungeons & Daedra is a total graphical and gameplay overhaul of Oblivion which utilizes Bevilex's Modlist & [Maskar's Oblivion Overhaul](https://www.nexusmods.com/oblivion/mods/42780) to create a Dungeons & Dragons like experience. While this was originally a prevalent theme in Oblivion itself, there were areas that lacked depth such as dungeon delving, enemy variability/variety, etc. This is where Maskar's Oblivion Overhaul comes into play. While not entirely lore friendly, it adds a plethora of new items, enemies, and features that replicate the feel of Dungeons & Dragons like gameplay.
 
-## ** A Big Thank You to the Heartland Team**
+## **A Big Thank You to the Heartland Team**
 This list is a near clone of there iteration of Bevilex's guide and without this list, I doubt D&D would have been able to start with good enough footing. Thank you guys a ton and as I find more of your socials, I will post them here
 
