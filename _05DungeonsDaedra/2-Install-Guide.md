@@ -7,33 +7,33 @@ description: Install Guide
 
 # **BIG NOTE:** 
 
-**This guide is a direct copy and paste of the [Heartland Installation Guide](https://github.com/wabbajack-tools/mod-lists/blob/master/heartland/readme.md) and is only acting as a placeholder. This will be edited and rewritten entirely as to not directly plagiarize the writings they have made/to represent the steps needed to install Dungeons & Daedra itself.**
+**This guide, in its majority, is a direct copy and paste of the [Heartland Installation Guide](https://github.com/wabbajack-tools/mod-lists/blob/master/heartland/readme.md). This will be edited and rewritten entirely as to not directly plagiarize the writings they have made/to represent the steps needed to install Dungeons & Daedra itself.**
 
 ## Mandatory Instructions
 
 #### Prerequisites:
 *   A **vanilla copy of Oblivion** in the **English language** with at least the Knights of the Nine and Shivering Isles DLCs, **obtained from Steam or GOG**, and **installed outside of C:\Program Files.** 
 *   **Default Oblivion configuration files**. To generate them, first ensure that the Documents/MyGames/Oblivion folder has been wiped, then **launch the game once in vanilla**.
-*   **50GB of hard drive space** (not including Oblivion).
+*   **60GB of hard drive space** (not including Oblivion).
 *   A Nexus Premium account, or a lot of time to download the mods manually!
 
 ### Using the Wabbajack Autoinstaller
 
 1. **Download** the latest version of Wabbajack from the [Wabbajack Github](https://github.com/wabbajack-tools/wabbajack/releases/), and **extract the Wabbajack.exe** file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
-2. **Create a new folder** for the new installation, and call it **Heartland**, placing it close to the root of your drive once again, but not within the Wabbajack folder. Ensure you have at least 50GB of hard drive space.
-3. **Launch Wabbajack.exe** from within the Wabbajack folder. Select the **Heartland** modlist, and then hit **Download and Install** to download the modlist file. Alternatively, the modlist can be downloaded manually from this page. If installing manually, place the modlist file in the Wabbajack directory, and select **Install from Disk**.
-4. Under Installation Location, **select the Heartland folder** you created in step 2. Set the Download Location to Heartland\downloads. Click **Begin**.
+2. **Create a new folder** for the new installation, and call it **D&D**, placing it close to the root of your drive once again, but not within the Wabbajack folder. Ensure you have at least 60GB of hard drive space.
+3. **Launch Wabbajack.exe** from within the Wabbajack folder. Select the **Dungeons & Daedra** modlist, and then hit **Download and Install** to download the modlist file. Alternatively, the modlist can be downloaded manually from this page. If installing manually, place the modlist file in the Wabbajack directory, and select **Install from Disk**.
+4. Under Installation Location, **select the D&D folder** you created in step 2. Set the Download Location to D&D\downloads. Click **Begin**.
 5. Wabbajack will open a browser and ask for Nexus authorisation. Log in and then hit **Authorise.** (_If you get an error on authorisation, download and install [.Net Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework/net48) and run the installer again_)
 6. Wabbajack will now download and install the mods specified in the installer. The download size is approximately 18GB so this may take a little while. The installer should keep you informed of progress.
 7. After the **installation complete** message appears, close the installer.
 
 ### Game Folder Files
 
-Within the Heartland folder, copy the contents of the **Game Folder Files** folder to your root Oblivion directory (e.g. C:\Steam\steamapps\common\Oblivion).
+Within the D&D folder, copy the contents of the **Game Folder Files** folder to your root Oblivion directory (e.g. C:\Steam\steamapps\common\Oblivion).
 
 ### Running Better Oblivion Sorting Software (BOSS) with User Rules
 
-1. Run **ModOrganizer.exe** in the Heartland MO2 folder.
+1. Run **ModOrganizer.exe** in the D&D MO2 folder.
 3. Select **BOSS GUI** from the **executable dropdown** in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS** without changing any of the settings. It will now take some time to download the latest masterlist, if it hasn't done so already. (This occasionally fails - if this happens, first ensure 'Update Masterlist' is ticked, then try running BOSS again. Eventually, you should receive the masterlist. When you are successful, untick 'Update Masterlist'.). After the masterlist is obtained, BOSS will sort your plugins and output an HTML log when completed.
 4. Download the **userlist.txt** file from [here](https://drive.google.com/open?id=1YMnIIi1illJe7TeQdkRvX64FbfzmsiwU), cut to  **tools/BOSS/bin/Release-64/oblivion** and overwrite any existing file there.
 5. Repeat step 3, using BOSS to sort your load order with the newly applied user rules.
@@ -44,7 +44,7 @@ Within the Heartland folder, copy the contents of the **Game Folder Files** fold
 
 Only applicable if you have a Steam or retail copy of Oblivion. GOG users can skip this step.
 
-* Within the Heartland MO2 folder, go to **tools/Oblivion RAM Optimization** and run **4gb patch.exe**.
+* Within the D&D MO2 folder, go to **tools/Oblivion RAM Optimization** and run **4gb patch.exe**.
 * Target both the **Oblivion.exe** and **OblivionLauncher.exe** executables in your root Oblivion directory. Both executables will now have been patched to improve the memory that can be allocated to their processes.
 
 ##### _Standard GOTY Users_
@@ -93,7 +93,7 @@ Only applicable for use with a monitor that has greater than a 16:9 aspect ratio
 
 ## Optional Post Installation Instructions
 
-### Heartland Optionals
+### D&D Optionals
 
 This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods. To view, simply right click the seperator select Information, then select the Notes tab. You will be presented with instructions like below:
 
@@ -128,11 +128,11 @@ This won't be to everyone's tastes (particularly the pauses), but I encourage yo
 
 ### Mod Suggestions, Gameplay Profiles, and Installing Additional Mods
 
-The base Heartland modlist overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Given this, you may want to consider adding additional mods to enhance Oblivion's gameplay. Below are some general steps to follow in order to add mods on top of the list. Please note though, we cannot provide support for list modifications, so you are more than welcome to play around, but do so at your own risk!
+The base D&D modlist overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Given this, you may want to consider adding additional mods to enhance Oblivion's gameplay. Below are some general steps to follow in order to add mods on top of the list. Please note though, we cannot provide support for list modifications, so you are more than welcome to play around, but do so at your own risk!
 
 #### General Steps
 
-1. **Download the mods you wish to add.** Make sure to read the documentation to ensure that they do not have any compatibility issues with any of the mods already included in the Heartland list. If on Nexus, use ‘mod manager download’ where possible with MO2 open to have the archive appear directly in your MO2/download folder. If only manual download is available, cut and paste the archive to the downloads folder.
+1. **Download the mods you wish to add.** Make sure to read the documentation to ensure that they do not have any compatibility issues with any of the mods already included in the D&D list. If on Nexus, use ‘mod manager download’ where possible with MO2 open to have the archive appear directly in your MO2/download folder. If only manual download is available, cut and paste the archive to the downloads folder.
 2. **Install the mods in MO2** by double clicking the archive in the Downloads tab of the plugins pane. Click the **manual installation** option and verify that the structure is as it should be (you can tell from the green ‘Looks good’ text). If it is not, right click and set the data directory on the folders as appropriate. Remember to checkmark the mod in the mods pane after it has been installed.
 3. Select **BOSS** from the executable dropdown in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS**. It will sort your plugins and output an HTML log when completed. Close BOSS. Back in MO2, the ESPs from your new mod(s) will now be in their correct load order positions in the plugins pane.
 4. In the mods pane, find the **Bashed Patch** mod for your currently enabled profile and **remove it**.
@@ -172,9 +172,9 @@ _"Back when Oblivion was released in 2006 for old generation consoles the overal
 _BSA Decompressor recreates BSA archives without zlib compression so the game is limited only by your hardware disk system performance. All vanilla assets remain in uncompressed BSA archives."_
 
 1. In MO2, find the **Unofficial Shivering Isles Patch** in the mods pane, and right click **Open in Explorer**. Cut **DLCShiveringIsles - Faces.bsa** to the Data folder in your Oblivion game directory.
-2. Close MO2 and go to Heartland/tools/Oblivion BSA Decompressor. **Run Oblivion BSA Decompressor.exe**.
+2. Close MO2 and go to D&D/tools/Oblivion BSA Decompressor. **Run Oblivion BSA Decompressor.exe**.
 3. Select **Decompress**, then close the tool once it has finished. Your vanilla BSA files will now be decompressed.
-4. Cut **DLCShiveringIsles - Faces.bsa** back to Heartland/mods/Unofficial Shivering Isles Patch. 
+4. Cut **DLCShiveringIsles - Faces.bsa** back to D&D/mods/Unofficial Shivering Isles Patch. 
 
 ![](https://i.imgur.com/Nhfq9jN.png)
 
@@ -185,7 +185,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 ## Troubleshooting
 
 1. _I receive a blank / black screen on start up._
-    * Replace the Oblivion.ini file in Documents/MyGames/Oblivion and [MO2 Install]/profiles/Heartland with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
+    * Replace the Oblivion.ini file in Documents/MyGames/Oblivion and [MO2 Install]/profiles/Dungeons & Daedra with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
 2. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
     * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the support channel on [Drazden and Dark's Modding Hub Discord](https://discord.gg/xQmzNASbz5), please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
 3. _I can’t run the Oblivion executable from MO2 - I get an application error._
