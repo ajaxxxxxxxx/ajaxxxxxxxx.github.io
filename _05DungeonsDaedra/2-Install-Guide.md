@@ -187,7 +187,7 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 1. _I receive a blank / black screen on start up._
     * Replace the Oblivion.ini file in Documents/MyGames/Oblivion and [MO2 Install]/profiles/Dungeons & Daedra with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
 2. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
-    * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the support channel on [Drazden and Dark's Modding Hub Discord](https://discord.gg/xQmzNASbz5), please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
+    * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the support channel on [Boneyard Creations](https://discord.gg/43EhRjU), please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
 3. _I can’t run the Oblivion executable from MO2 - I get an application error._
     * If you bought the game through Steam, it needs to be running in the background for you to play the game. Boot up Steam and give it another try.
 4. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
