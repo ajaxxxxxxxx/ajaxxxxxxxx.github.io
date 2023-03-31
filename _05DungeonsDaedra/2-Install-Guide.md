@@ -31,12 +31,27 @@ description: Install Guide
 
 Within the D&D folder, copy the contents of the **Game Folder Files** folder to your root Oblivion directory (e.g. C:\Steam\steamapps\common\Oblivion).
 
+### Creating a Wrye Bash Bashed Patch
+
+1. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**.
+2. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**.
+3. In the following interface, make sure that the following options are enabled for the best experience (courtesy of Mexxy):
+    * **Tweak Assorted -> DarNify Books** ticked so books look as intended
+    * **Tweak Settings -> Arrow Speed is x2.0** for more responsive archery (right click box to change)
+    * **Tweak Actors -> Irresponsible Creatures** ticked
+    * **Tweak Settings -> Crime: Alarm Distance at 2000** to reduce guard crime intuition range (right click to change)
+    * **Tweak Settings -> Actor: Greeting Distance at 100** for less NPC chatter (right click to change)
+    * **Tweak Settings -> Warning: Exterior Distance to Hostiles at 2000** for reduced combat distance outdoors (right click to change)
+4. When asked about mods to be de-activated and incorporated into the patch, simply **press OK**.
+5. Hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
+6. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, place it in the **Install Specific Tweaks** section, and ensure it is enabled after installation.
+
 ### Running Better Oblivion Sorting Software (BOSS) with User Rules
 
 1. Run **ModOrganizer.exe** in the D&D MO2 folder.
 3. Select **BOSS GUI** from the **executable dropdown** in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS** without changing any of the settings. It will now take some time to download the latest masterlist, if it hasn't done so already. (This occasionally fails - if this happens, first ensure 'Update Masterlist' is ticked, then try running BOSS again. Eventually, you should receive the masterlist. When you are successful, untick 'Update Masterlist'.). After the masterlist is obtained, BOSS will sort your plugins and output an HTML log when completed.
 4. Find the **userlist.txt** file in **D&D/Game Folder Files/Userlist File (DONT PASTE THIS TO OBLIVION DIRECTORY)**, & cut the userlist.txt inside to your **tools/BOSS/bin/Release-64/oblivion** and overwrite any existing file there.
-5. Repeat step 3, using BOSS to sort your load order with the newly applied user rules.
+5. Repeat step 2, using BOSS to sort your load order with the newly applied user rules.
 
 ### Special Installation Steps
 
@@ -69,21 +84,6 @@ Only applicable for use with a monitor that has greater than a 16:9 aspect ratio
 * Under **[Display]**, change **iSizeW** and **iSizeH** to match your resolution. For example, for 1440p, iSizeW=3440 and iSizeH=1440.
 * Download the **Ultra Widescreen Fix for Heartland** from [here](https://drive.google.com/open?id=1dnWbrmT_zcIESIqmLWMVSzHaEdQgkCs8) and install through MO2, placing it in the **Install Specific Tweaks** section.
 * Download the **Black Rectangle Ultrawide Fix** from [here](https://www.nexusmods.com/oblivion/mods/48351), and install through MO2, placing it in the **Install Specific Tweaks** section.
-
-### Creating a Wrye Bash Bashed Patch
-
-1. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**.
-2. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**.
-3. In the following interface, make sure that the following options are enabled for the best experience (courtesy of Mexxy):
-    * **Tweak Assorted -> DarNify Books** ticked so books look as intended
-    * **Tweak Settings -> Arrow Speed is x2.0** for more responsive archery (right click box to change)
-    * **Tweak Actors -> Irresponsible Creatures** ticked
-    * **Tweak Settings -> Crime: Alarm Distance at 2000** to reduce guard crime intuition range (right click to change)
-    * **Tweak Settings -> Actor: Greeting Distance at 100** for less NPC chatter (right click to change)
-    * **Tweak Settings -> Warning: Exterior Distance to Hostiles at 2000** for reduced combat distance outdoors (right click to change)
-4. When asked about mods to be de-activated and incorporated into the patch, simply **press OK**.
-5. Hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
-6. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, place it in the **Install Specific Tweaks** section, and ensure it is enabled after installation.
 
 ### Running the Game
 1. If you use Steam, ensure it is running.
