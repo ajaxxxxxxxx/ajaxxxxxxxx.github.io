@@ -15,7 +15,7 @@ description: How to install NVR
 
 2.) To install NVR, begin by going to the [TES Reloaded Discord Server](https://discord.com/invite/QgN6mR6eTK). Go to the #nightly-builds channel to find the NewVegasReloaded.zip file shown in the image. (IF YOU DON'T THEN YOUR GAME WILL LOOK BAD). Once downloaded, extract all of the files located in the archive folder to the NVR mod you created under the Modpack Resources separator by right clicking it and opening in explorer.
 
-![](https://user-images.githubusercontent.com/112358568/221451782-85799b6d-ce2e-434b-bd31-c5595b76784d.png)
+![image](https://user-images.githubusercontent.com/114360108/229316194-2b772007-b6f8-48d9-8c57-413b93b97eef.png)
 
 ![](https://user-images.githubusercontent.com/112358568/221451861-f792774d-1633-4b0e-bb9f-e9be12df4722.png)
 
