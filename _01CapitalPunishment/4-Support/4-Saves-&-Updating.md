@@ -10,7 +10,7 @@ description: How Saves & Updating Work
 ## **Game Saves, Capital Punishment Updates, & How They Coincide**
 
 {: .important}
-> When updating our Wabbajack list, we will always release [Patch Notes Here](https://github.com/TheMrNewVegas/TTWTrueVegas/releases). At the top of each release there will be a statement saying **Save Safe For ____ Versions** or **Not Save Safe**. In addition to this, your modlist version can be found at the top of MO2. 
+> When updating our Wabbajack list, we will always release [Patch Notes Here](https://www.modlists.net/01CapitalPunishment/3-Release-Notes/). At the top of each release there will be a statement saying **Save Safe For ____ Versions** or **Not Save Safe**. In addition to this, your modlist version can be found at the top of MO2. 
 
 ![image](https://user-images.githubusercontent.com/112358568/210279382-be1fb72e-7770-467a-9cf9-19646d323f5b.png)
 ![image](https://user-images.githubusercontent.com/112358568/210279441-f1bf9414-8ea9-4e97-b1ce-9f0a7b165acb.png)
