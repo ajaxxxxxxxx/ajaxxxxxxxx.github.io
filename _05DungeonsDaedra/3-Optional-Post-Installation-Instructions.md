@@ -2,7 +2,7 @@
 layout: default
 title: Installation Guide
 nav_order: 3
-description: Create 3-Optional-Post-Installation-Instructions.md
+description: 3-Optional-Post-Installation-Instructions.md
 ---
 
 ## Optional Post Installation Instructions
