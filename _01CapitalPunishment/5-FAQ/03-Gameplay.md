@@ -72,3 +72,6 @@ __**Starting Fallout 3's DLC in TTW works as follows:**__
 
 ## **11.) Where is my stuff and how do I get it in Mothership Zeta?**
 You will find your gear in a container right after the space walk.
+
+## **12.) Why does my gun shake so much?**
+This is caused by either a low gun skill or low strength skill, or both. The higher the stat, the more steady your gun will be. 
