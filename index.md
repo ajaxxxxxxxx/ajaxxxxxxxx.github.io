@@ -65,6 +65,8 @@ This does not go without saying that none of this would be possible without the 
 - **The Donators**
 Whether you have donated through discord, patreon, kofi, or any other mode, we appreciate you immensely! It has allowed the team & myself to give financial recompensation to some of our hardworking team members, helped in running giveaways for the discord, and even helped in obtaining new hardware for streams and ensuring our modlists can be backed up locally!
 
+- [**NutnOff**](https://www.nexusmods.com/users/72170253): Both for shaping Capital Punishment as a list very early and for countless hours of help with other lists. In addition was the primary reason I was able to get Lifetime Premium to make list compilation 10x easier.
+
 - **Countless Mod Authors:** Disagreements and agreements aside, none of this would be possible without the hard work of the mod authors behind each and every mod you find in one of our lists. A large thank you to all of them for providing these resources.
 
 - **The TTW Team:** Without their framework and both positive (and negative) critiques, the original Capital Punishment list would not be where it is at today nor would it function to begin with. Agreements/disagreements aside again, their dedication to bringing the world of Fallout 3 together with the Fallout New Vegas world space is a massive feat, not to mention the plethora of other supplementary mods they have released along the way.
