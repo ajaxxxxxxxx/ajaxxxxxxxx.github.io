@@ -86,3 +86,11 @@ This is likely due to preexisting INI's or other files being prevalent in your %
 - Step 2: Manually download the latest NVHR from here https://www.nexusmods.com/newvegas/mods/69779?tab=files
 
 - Step 3: Extract the zip folder, then paste the files contained within to your Capital Punishment/Stock Game Folder
+
+## **7.) I am having a missing textures, my game is super bright at certain times of the day, I am having *insert error here* **
+With the current version of MO2, it is likely that your load order may be resetting. This can cause a variety of in game conflicts. To correctly reset your load order follow the steps below.
+
+1.) Go to our [Load Order Library](https://loadorderlibrary.com/lists/capital-punishment-1122)
+2.) Download the `loadorder.txt`. Copy this file to your clipboard once it is downloaded.
+3.) Go to your `Capital Punishment/profiles/Casual_Punishment_Default` folder
+4.) Paste the copied `loadorder.txt` into your `Capital Punishment/profiles/Casual_Punishment_Default`. When it asks you to overwrite your previous load order, select yes
