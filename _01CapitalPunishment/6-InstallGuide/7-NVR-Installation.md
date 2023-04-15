@@ -30,9 +30,9 @@ I would suggest trying the game out first to see how your performance fairs prio
 > If you try to use an older preset on a newer version of NVR, you will experience crashes and break your NVR. Please be aware of the presets you decide to use and what version of NVR you are on. 
 
 
-3.) Go to this link to the [Presets Forum](https://discord.com/channels/344843935123898369/1088790187355672627) and download Vanilla & Vibrant Plus. You may choose any preset of your liking but these are my preferred for the time being
+3.) Go to this link to the [Presets Forum](https://discord.com/channels/344843935123898369/1088790187355672627) and download Vanilla & Vibrant Plus. You may choose any preset of your liking but these are my preferred for the time being. We use Shabby Vibrant
 
-![image](https://user-images.githubusercontent.com/112358568/221452574-b30ff826-22f6-4ffa-8ec7-680d8da4e448.png)
+![image](https://user-images.githubusercontent.com/112358568/232209457-c3223e24-ed26-4aa7-98b9-1060f3164223.png)
 
 
 4.) Take this file (NewVegasRoladed.dll.config) and in your NVR mod, overwrite the same file. This should be located in NVR>NVSE>Plugins
