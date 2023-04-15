@@ -27,10 +27,10 @@ I would suggest trying the game out first to see how your performance fairs prio
 ![image](https://user-images.githubusercontent.com/112358568/221451880-b1f6135d-d6d6-4920-9fe6-a6e522be1b98.png)\
 
 {: .warning}
-> If you try to use an older preset on a newer version of NVR, you will experience crashes and break your NVR. Please be aware of the presets you decide to use and what version of NVR you are on. It is best for the time being to match the presets and versions with the screenshots we post here.
+> If you try to use an older preset on a newer version of NVR, you will experience crashes and break your NVR. Please be aware of the presets you decide to use and what version of NVR you are on. 
 
 
-3.) Go to this link ti the [Presets Forum](https://discord.com/channels/344843935123898369/1088790187355672627) and download Vanilla & Vibrant Plus. You may choose any preset of your liking but these are my preferred for the time being
+3.) Go to this link to the [Presets Forum](https://discord.com/channels/344843935123898369/1088790187355672627) and download Vanilla & Vibrant Plus. You may choose any preset of your liking but these are my preferred for the time being
 
 ![image](https://user-images.githubusercontent.com/112358568/221452574-b30ff826-22f6-4ffa-8ec7-680d8da4e448.png)
 
