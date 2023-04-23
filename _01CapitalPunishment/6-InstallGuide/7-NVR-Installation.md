@@ -6,6 +6,8 @@ parent: Install Guide
 nav_order: 7
 description: How to Install NVR
 ---
+## **Warning**
+NVR is currently deep in development and visual issues/bugs may occur. Use NVR at your own discretion.
 
 ## NVR Installation
 
