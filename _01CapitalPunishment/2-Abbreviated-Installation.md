@@ -42,15 +42,15 @@ This guide will be a shortened version of our larger installation guide and will
 
 ## Installing TTW
 
-1.) Download and unzip the [TTW 3.3.2 Installer](https://taleoftwowastelands.com/dl). Then create a new folder called `[No Delete] Tale of Two Wastelands`
+1.) Download and unzip the [TTW 3.3.2 Installer](https://taleoftwowastelands.com/dl). Then create a new folder called `[NoDelete] Tale of Two Wastelands`
 
-2.) Make sure Steam is fully closed, then run the Tale of Two Wastelands Launcher. Set the paths for where your `Fallout 3`, `Fallout NV`, & `[No Delete] Tale of Two Wastelands` main directories are located, then press install (This takes a while)
+2.) Make sure Steam is fully closed, then run the Tale of Two Wastelands Launcher. Set the paths for where your `Fallout 3`, `Fallout NV`, & `[NoDelete] Tale of Two Wastelands` main directories are located, then press install (This takes a while)
 
-3.) After the TTW Launcher successfully completes the installation, zip up the `[No Delete] Tale of Two Wastelands` folder. You may now safely delete Fallout 3 from your computer.
+3.) After the TTW Launcher successfully completes the installation, zip up the `[NoDelete] Tale of Two Wastelands` folder. You may now safely delete Fallout 3 from your computer.
 
 4.) When Wabbajack successfully completes installing the modlist, drag this 7zip into your `Capital Punishment/Downloads` directory. Go back to your main `Capital Punishment directory`, then open up `Mod Organizer 2`
 
-5.) On the right hand side, sort by Filetime until you see your `[No Delete] Tale of Two Wastelands.7z` at the top. Drag and drop this to the top of the lefthand separator `PUT TALE OF TWO WASTELANDS HERE`
+5.) On the right hand side, sort by Filetime until you see your `[NoDelete] Tale of Two Wastelands.7z` at the top. Drag and drop this to the top of the lefthand separator `PUT TALE OF TWO WASTELANDS HERE`
 
 ## Preconfigured Save Setup (RECOMMENDED BUT OPTIONAL )
 
