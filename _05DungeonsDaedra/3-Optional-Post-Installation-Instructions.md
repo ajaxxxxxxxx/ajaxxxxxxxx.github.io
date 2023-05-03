@@ -6,12 +6,12 @@ description: Optional Post Installation Instructions
 ---
 
 ## Optional Post Installation Instructions
+These steps/descriptions are provided entirely by the Heartland Team and their installation guide. I have left this as is as they most accurately describe the installation steps/descriptions of mods.
 
 ### D&D Optionals
 
 This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods. To view, simply right click the seperator select Information, then select the Notes tab. You will be presented with instructions like below:
 
-![](https://i.imgur.com/cScNH0o.png)
 
 #### _Weather and Interiors: All Natural and Immersive Interiors_
 
@@ -22,7 +22,6 @@ within its exterior environment.
 
 Please note that there are minor issues with foggy weather and nights being brighter than desired. This is an experimental configuration and is being actively improved.
 
-![](https://i.imgur.com/0hZMm9s.jpg)
 
 #### _User Interface: DarNified UI_
 
@@ -32,7 +31,6 @@ DarNified UI is a more traditional take on a UI overhaul for Oblivion. All manne
 
 Also included in this configuration is a compatible loading screens replacer, but instructions are available to switch to vanilla loading screens for those that prefer them.
 
-![](https://i.imgur.com/Q1PjkZC.png)
 
 #### _Music: GOSH, Oblivion Symphonic Variations Suite, Silent Tracks Expanded_
 
@@ -41,8 +39,6 @@ This optional configuration overhauls sound and music in Oblivion with new sound
 This won't be to everyone's tastes (particularly the pauses), but I encourage you to give it a try as you may just prefer it!
 
 ### Mod Suggestions, Gameplay Profiles, and Installing Additional Mods
-
-The base D&D modlist overhauls visuals and stability, leaving the gameplay systems (questing, levelling, level scaling, combat) in a vanilla state. Given this, you may want to consider adding additional mods to enhance Oblivion's gameplay. Below are some general steps to follow in order to add mods on top of the list. Please note though, we cannot provide support for list modifications, so you are more than welcome to play around, but do so at your own risk!
 
 #### General Steps
 
@@ -76,7 +72,6 @@ Oblivion is only designed to run on the first two cores of a PC, but by default,
 4. ALT-Tab to Process Lasso and right-click the Oblivion.exe process. Choose **CPU Affinity -> Always -> Select CPU affinity**, and then **tick only CPU 0 and CPU 1**.
 5. Restart Oblivion!
 
-![](https://i.imgur.com/eAxxcKs.png)
 
 ### Decompressing Vanilla Game BSAs
 Courtesy of Zilav:
@@ -90,7 +85,6 @@ _BSA Decompressor recreates BSA archives without zlib compression so the game is
 3. Select **Decompress**, then close the tool once it has finished. Your vanilla BSA files will now be decompressed.
 4. Cut **DLCShiveringIsles - Faces.bsa** back to D&D/mods/Unofficial Shivering Isles Patch. 
 
-![](https://i.imgur.com/Nhfq9jN.png)
 
 ## Extra Notes
 
