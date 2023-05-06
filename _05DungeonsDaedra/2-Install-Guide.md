@@ -22,7 +22,7 @@ Currently speaking, this list is in an alpha state. As we continue to develop, b
 
 ### Using the Wabbajack Autoinstaller
 
-1.** Download [Wabbajack Here](https://github.com/wabbajack-tools/wabbajack/releases/)**; Extract the Wabbajack.exe file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
+1.**Download [Wabbajack Here](https://github.com/wabbajack-tools/wabbajack/releases/)**; Extract the Wabbajack.exe file to a new directory called **Wabbajack**, as close to the root of your drive as possible (e.g. C:\Wabbajack).
 2. **Create a new folder for the new installation**, and call it **D&D**, make sure this is on the root of your drive and not in the Wabbajack installation folder
 3. **Launch Wabbajack.exe** from within the Wabbajack folder. Go to Modlists, then search for the **Dungeons & Daedra** modlist (Make sure you have checked Unofficial Lists at the top of Wabbajack if it isnt showing up. Hit **Download and Install** to download the modlist file. Alternatively, the modlist can be downloaded manually from [this page](https://www.nexusmods.com/oblivion/mods/52947). If installing manually, click install from disk in the Wabbajack program, then select the Wabbajack file you got from the NExus
 4. Under Installation Location, **select the D&D folder** you created in step 2. The download location should automatically set to D&D\downloads. Click **Begin**.
