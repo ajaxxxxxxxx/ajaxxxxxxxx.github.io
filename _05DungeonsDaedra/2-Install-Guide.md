@@ -9,6 +9,9 @@ description: Install Guide
 
 **This guide, in its majority, is a direct copy and paste of the [Heartland Installation Guide](https://github.com/wabbajack-tools/mod-lists/blob/master/heartland/readme.md). This will be edited and rewritten entirely as we continue to test and release new iterations to not directly plagiarize the writings they have made/to represent the steps needed to install Dungeons & Daedra itself. The Heartland team and Bevilex are hugely responsible for me making such small edits and I hope that I can expand upon these further. Make sure to show them love by checking out their socials, which I will have linked on the D&D home page!**
 
+## **THIS LIST IS IN AN ALPHA STATE**
+Currently speaking, this list is in an alpha state. As we continue to develop, bugs will be handled and removed. As of now, expect bugs, CTD's, and other inconsistencies with gameplay.
+
 ## Mandatory Instructions
 
 #### Prerequisites:
