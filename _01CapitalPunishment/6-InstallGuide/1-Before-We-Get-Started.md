@@ -7,6 +7,8 @@ nav_order: 1
 description: Beginning Installation
 ---
 
+# **THIS INSTALLATION GUIDE HAS BEEN SUPERCEDED BY [THIS ONE](https://www.modlists.net/01CapitalPunishment/2-Abbreviated-Installation/). WHEN WE UPDATE TO 1.5, THESE PAGES WILL GO DOWN AND BE REPLACED BY THE ABBREVIATED INSTALLATION GUIDE. 
+
 ## **READ BEFORE CONTINUING:** 
 ### **1.) Please do not bother the Tale of Two Wastelands Developers/Discord or Other NV related Discords with troubleshooting questions regarding this mod list. Even if you think your question pertains to the Tale of Two Wastelands installation, please ask us in our [Discord](https://discord.gg/43EhRjU).**
 
