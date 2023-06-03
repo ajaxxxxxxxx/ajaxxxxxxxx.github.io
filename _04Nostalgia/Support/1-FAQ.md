@@ -12,9 +12,13 @@ description: Frequently Asked Questions
 To save time and space, we sometimes use acronyms for words we’re going to repeat a lot. Here is a list of key words.
 
 WJ - Wabbajack, the tool we use to automate the installation
+
 NVSE - New Vegas Script Extender, script extension mod used by mod authors for functionality purposes
+
 MO2 - Mod Organizer 2, the mod manager we use.
+
 NVR - New Vegas Reloaded, a visual overhaul of the game.
+
 
 **Where is MCM?**
 
@@ -23,14 +27,23 @@ Hit M after pausing the game.
 **Why is my Wabbajack Not Working/My DL Failing?**
 
 Try logging out of and back into your Nexus account in Wabbajack, then proceed with the download. If this doesn’t work try the following. If the below doesnt work send us your Wabbajack log in the #fnv-help discord channel
+
 Close Wabbajack
+
 Open your Steam Library tab
+
 Right click the game title that you are modding
+
 Select Properties
+
 Select Local Files
+
 Select Verify Integrity of Local Files
+
 Launch Wabbajack & Retry Installation
-Why does Wabbajack say it cannot find my Fallout New Vegas install?
+
+**Why does Wabbajack say it cannot find my Fallout New Vegas install?**
+
 This usually happens when the game is moved to another folder than Wabbajack was originally ran with. Go to C:\Users\YOURUSERNAME\AppData\Local and delete the Wabbajack folder. This will clear the settings and regenerate the next time Wabbajack is ran.
 
 **How do I start the DLC’s?**
