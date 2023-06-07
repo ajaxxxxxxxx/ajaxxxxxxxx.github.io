@@ -6,6 +6,9 @@ description: D&D Home
 ---
 
 ![image](https://user-images.githubusercontent.com/112358568/228737962-c4c28588-0933-4c38-a48d-079e85bec7d8.png)
+# **NOTICE**
+Dungeons & Daedra is on an indefinite development hold as we completely rebuild the list from the ground up. Below is the announcement regarding why it has been taken down.
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/f515ab08-7057-4d5a-9012-de7fb74c5ab2)
 
 ## **Welcome to the Dungeons & Daedra Wiki**
 
