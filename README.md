@@ -38,3 +38,4 @@ This wiki encompasses the information regarding all modlists developed by member
 ## A Small Note
 
 While we use the open source Just The Docs format, we have leaned heavily on the custom resources created by the talented [Wildlander Team's Wiki](http://wiki.wildlandermod.com). I will continue to try to improve from their format and change ours to not be a near replica and would like to thank them for providing the resources for me to be able learn and produce a quality product. If you are a fan of Skyrim, please check out their [Wildlander List](https://www.wildlandermod.com). It is the sole reason I got into making mod lists and I attribute nearly all of my ideas, work ethic, and general skillset to their hard work.
+![favicon-32x32](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/eeeff19b-74ba-4ca1-81ca-dacf245a08b3)
