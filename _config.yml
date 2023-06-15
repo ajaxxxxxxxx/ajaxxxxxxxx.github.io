@@ -28,8 +28,6 @@ last_edit_timestamp: true # show or hide edit time - page must have `last_modifi
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
 aux_links:
-  "Patreon":
-    - "https://www.patreon.com/Themrnewvegas"
   "Discord":
     - "https://discord.gg/43EhRjU"
   "Youtube":
@@ -37,7 +35,7 @@ aux_links:
   "Twitch":
     - "https://www.twitch.tv/TheMrNewVegas"    
   "Kofi":
-    - "https://ko-fi.com/themrnewvegas" 
+    - "https://ko-fi.com/boneyard" 
 
     # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
