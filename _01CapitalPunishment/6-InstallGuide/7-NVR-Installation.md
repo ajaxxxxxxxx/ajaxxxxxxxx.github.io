@@ -9,6 +9,8 @@ description: How to Install NVR
 ## **Warning**
 NVR is currently deep in development and visual issues/bugs may occur. Use NVR at your own discretion.
 
+In addition to this, B42 Scopes WILL NOT  function properly with NVR at the moment.
+
 ## NVR Installation
 
 I would suggest trying the game out first to see how your performance fairs prior to installing this. That being said, it drastically changes the look of the entire game and is heavily recommended 
