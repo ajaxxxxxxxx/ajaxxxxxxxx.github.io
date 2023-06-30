@@ -95,13 +95,7 @@ collections:
   02ForlornHope:
     permalink: "/:collection/:path/"
     output: true
-  03LostRune:
-    permalink: "/:collection/:path/"
-    output: true
-  04Nostalgia:
-    permalink: "/:collection/:path/"
-    output: true
-  05DungeonsDaedra:
+  03DungeonsDaedra:
     permalink: "/:collection/:path/"
     output: true
      
