@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Tutorial Questline
+title: Beginners Guide
 nav_order: 2
 description: Beginner's Guide
 ---
 # **Tutorial Questline - A Beginners Guide**
 
-When joining any server the experience may be a bit daunting if not just generally confusing. We hope this guide will remedy any confusion!
+When joining any server the experience may be a bit daunting if not just generally confusing. The tutorial questline (and this guide in general) are a way for you to understand the rudimentary mechanics of the server and enjoy them!
 
 ### **Part 1: New Beginnings**
 
