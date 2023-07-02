@@ -109,6 +109,8 @@ When joining any server the experience may be a bit daunting if not just general
 
 3.) **Talk to the Mayor of Jothon one more time to complete the questline. Congratulations on making it to the end of the tutorial quests! You will now have the first five quests ready to start. You can see available quests by typing `/quests list` and see your active quest by doing `/quests journal`**
 
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/ef3f2845-2bad-4822-8f73-ca0f5c2c1f6e)
+
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/0886df68-39a5-451c-85c6-027d857fc558)
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/4f5e4572-38f9-4c5d-bb5d-f1159d4e21a3)
