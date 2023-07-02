@@ -7,7 +7,7 @@ description: Bone Voyage MC
 
 ![bonevoyagetrailer](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/a97f12e1-337c-4622-9e68-1e08d7d84a77)
 
-# **Welcome to Bone Voyage**
+# **Welcome to Bone Voyage for Minecraft Java**
 ## **IP: PLAY.MODLISTS.NET:25565**
 ## **[STORE](SMP.MODLISTS.NET)**
 
@@ -71,4 +71,4 @@ From Day 1 we knew that hosting microtransactions that gave in game benefits wou
 
 #### **And These Are Only a Fraction of Our Features!**
 
-Consistent Development & Updates (We are Currently Implementing Custom Dungeons, Weapons, Armors, Artifacts, & Much More...)
+If you do not like Towny, you can enjoy the server as an adventurer earning experience levels, enjoying quests, and collecting loot. If you don't want to play an RPG like system, you can build up a Town and enjoy life as a Mayor, whether it be by yourself or under a coalition of people. The choice is yours and we hope you come by and make it here at Bone Voyage!
