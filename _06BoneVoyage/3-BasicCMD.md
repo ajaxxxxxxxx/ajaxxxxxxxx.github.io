@@ -14,7 +14,7 @@ description: A Guide to Server Commands
 - `/buy`: This will bring up the donation perks currently available on the server and provide you a direct link to whichever perk you are looking to purchase.
 - `/uc`: This is the menu for any and all cosmetics on the server. This is how you will use cosmetic keys to open crates, equip/uneqip owned cosmetics, and look through your collection of cosmetic items!
 - `/hat`: The ability to wear whichever block is in your hand as a hat. This cannot be used with cosmetics equipped 
-- '/kittycannon' & '/beezooka': Random commands which shoot cats and bees from your fingertips (Sort of)
+- `/kittycannon' & '/beezooka`: Random commands which shoot cats and bees from your fingertips (Sort of)
 
 ### **Voting**
 
@@ -28,6 +28,7 @@ description: A Guide to Server Commands
 - `/msg [player]`: Message a player privately
 - `/tpa [player]`, `/tpah [player]`, & `/tpaccept`: Request to teleport to a player or request they teleport to you. Then accept said request.
 - `/warp [name]`: Allows you to warp to any of our created warps
+- `/rtp`: Randomly teleport to a location in the wilderness
 
 ### **MCMMO Player Commands**
 - `/stats`: View your current stats
@@ -60,4 +61,9 @@ description: A Guide to Server Commands
 ### **Quest Commands**
 - `/quests list`: List all of your current available quests
 - `/quests journal:` View your active quest/task
+
+## **Adventurer's Guild Commmands**
+- `/ag`: Teleport to the adventurer's guild
+- `/em`: Open up the adventurer's journal
+
 
