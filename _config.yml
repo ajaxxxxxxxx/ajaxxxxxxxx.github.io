@@ -113,10 +113,10 @@ just_the_docs:
    02ForlornHope:
       name: Forlorn Hope - FO4
       nav_fold: true
-   03LostRune:
+    03LostRune:
       name: Lost Rune - SKAE
       nav_fold: true  
-   04Nostalgia:
+     04Nostalgia:
       name: Nostalgia - FNV
       nav_fold: true  
    05DungeonsDaedra:
