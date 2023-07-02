@@ -50,8 +50,6 @@ While not a main feature of our server (yet), a few minigames such as parkour an
 
 Economies are one of the most important aspects of a minecraft server and a driving force behind player interaction and progression. We have taken this aspect extremely seriously and have made sure it was the best it possibly could be. Players can trade amongst themselves, own bank accounts, employ other users by giving them an automated salary from said bank accounts, earn money through mob farming and other activities, create player shops, and interact with our own handmade shops. This is only a small percentage of our economies everexpanding feature list and much more regarding it can either be read on the wiki or experienced in game!
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/fab40f0f-3b29-45a0-bc4a-6c15a58dd074)
-
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/e94cb6ae-53b6-4620-8430-97119b509285)
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/9d2936e6-b43e-47ff-96c8-b10eea2d5bb2)
