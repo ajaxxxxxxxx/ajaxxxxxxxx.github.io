@@ -27,8 +27,6 @@ One of the primary plugins we use is towny. This allows you to build or join a t
 
 Through the use of EliteMobs & Better Structures, you will now be able to find various new structures, mobs, dungeons, items, and so much more. In addition to this, quests, custom made instanced dungeons, and other RPG elements have been intertwined into the server to give the feeling of adventuring in minecraft a whole new meaning. In short, these plugins help the world feel as though you are truly in a Dungeons & Dragons like experience. 
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/fab40f0f-3b29-45a0-bc4a-6c15a58dd074)
-
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/bd2a7a68-4fe0-4dbc-9da7-d9f647bf1eec)
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/3ab29872-42a1-4595-b923-388f9432f52b)
@@ -39,7 +37,7 @@ Through the use of EliteMobs & Better Structures, you will now be able to find v
 
 Whether you are fighting, mining, fishing, or chopping down trees, you are developing your character and their associated skills. Through the use of MCMMO, players will be able to progress their characters in a multitude of fashions, earning new passive and active abilities, xp buffs, and much more.
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/a17b2ba8-5bdb-405f-b2d5-ba178d23f059)
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/fab40f0f-3b29-45a0-bc4a-6c15a58dd074)
 
 #### **Minigames**
 
@@ -51,6 +49,8 @@ While not a main feature of our server (yet), a few minigames such as parkour an
 #### **An Advanced Economy & Trading System**
 
 Economies are one of the most important aspects of a minecraft server and a driving force behind player interaction and progression. We have taken this aspect extremely seriously and have made sure it was the best it possibly could be. Players can trade amongst themselves, own bank accounts, employ other users by giving them an automated salary from said bank accounts, earn money through mob farming and other activities, create player shops, and interact with our own handmade shops. This is only a small percentage of our economies everexpanding feature list and much more regarding it can either be read on the wiki or experienced in game!
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/fab40f0f-3b29-45a0-bc4a-6c15a58dd074)
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/e94cb6ae-53b6-4620-8430-97119b509285)
 
