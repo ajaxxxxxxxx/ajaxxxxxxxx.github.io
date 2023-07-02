@@ -49,3 +49,15 @@ description: A Guide to Server Commands
 - `/towny create [town name]`: Create your own town
 - `/t menu`: Bring up the towny interface where you can manage your towny experience
 
+### **Economy Commands**
+- `/balance [player]`: View yours or another players balance
+- `/pay [player] bones [amount]`: Pay a player a certain amount of money
+- `/trade [player]`: Trade with another player
+- `/trade-accept [player]`: Accept a trade from another player
+- `/trade-decline [player]`: Decline a trade from another player
+- '/baltop Bones': Check the top balances
+
+### **Quest Commands**
+- `/quests list`: List all of your current available quests
+- `/quests journal:` View your active quest/task
+
