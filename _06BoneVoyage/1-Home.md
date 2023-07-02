@@ -9,7 +9,7 @@ description: Bone Voyage MC
 
 # **Welcome to Bone Voyage**
 ## **IP: PLAY.MODLISTS.NET:25565**
-## **STORE: SMP.MODLISTS.NET**
+## **[STORE](SMP.MODLISTS.NET)**
 
 ### **A Towny Adventure RPG Minecraft Server**
 
