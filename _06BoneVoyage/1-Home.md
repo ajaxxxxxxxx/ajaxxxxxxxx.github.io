@@ -39,15 +39,14 @@ Through the use of EliteMobs & Better Structures, you will now be able to find v
 
 Whether you are fighting, mining, fishing, or chopping down trees, you are developing your character and their associated skills. Through the use of MCMMO, players will be able to progress their characters in a multitude of fashions, earning new passive and active abilities, xp buffs, and much more.
 
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/a17b2ba8-5bdb-405f-b2d5-ba178d23f059)
+
 #### **Minigames**
 
 While not a main feature of our server (yet), a few minigames such as parkour and fishing competitions are in place. These allow you to enjoy some mindless fun when you need a break from town building and adventuring!
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/1c41f3c1-a67f-4810-9d15-20cc70b1be71)
 
-#### **RPG Skills**
-
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/a17b2ba8-5bdb-405f-b2d5-ba178d23f059)
 
 #### **An Advanced Economy & Trading System**
 
