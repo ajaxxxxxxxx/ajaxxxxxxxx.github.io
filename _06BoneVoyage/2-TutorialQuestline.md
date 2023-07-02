@@ -129,8 +129,6 @@ When joining any server the experience may be a bit daunting if not just general
 
 ### **Various npcs will have quests for you to complete in Jothon. Talk to them and complete their tasks to receive quest points, xp, item rewards, money, and more!**
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/07c98b19-b75e-470e-8c0b-aa10895a18dc)
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/c8d9e9b9-bf41-4dd7-81f4-279020d4d1b2)
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/da76174b-76c9-4393-bec7-ded2549b2ebd)
 
 ### **Player Shops & Town Advertisements/Embassies Can be Found & Made  Directly North of Spawn in the Player Bazaar!**
