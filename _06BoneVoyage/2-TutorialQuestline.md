@@ -75,9 +75,11 @@ When joining any server the experience may be a bit daunting if not just general
 
 5. **After returning to the Town Guide, you will be tasked with Killing 1 Zombie. These can be found in the Wilderness, which can be travelled to in one of two ways**
 
-- Using the `/RTP` command in chat
+- **Using the `/RTP` command in chat**
 
 - **Talk to the Wilderness Guide underneath spawn**
+
+**MAKE SURE TO DO /KIT STARTER AND EQUIP THE ITEMS YOU ARE GIVEN**
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/1b56ce34-9f67-44c7-8937-167d8ae5e427)
 
