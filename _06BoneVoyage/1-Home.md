@@ -58,7 +58,6 @@ Economies are one of the most important aspects of a minecraft server and a driv
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/dd3bdd69-164d-456b-852d-3cac1364bc04)
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/3665d63e-c992-4a41-b8e9-c21e4a0ea73a)
 
 #### **Randomized World Events with Interesting Rewards**
 
@@ -68,7 +67,7 @@ Experience randomized mob spawns and boss fights around your location. Defeat th
 
 From Day 1 we knew that hosting microtransactions that gave in game benefits would be something that could possibly be problematic. While it may provide more donations in the short term (and even long term), the last thing we wanted to do was make something where players felt unfairly balanced against their counterparts, let alone break Minecraft's very anti P2W EULA. For this and moral reasons, we decided it was best to stick with solely cosmetic donation rewards. For your support, users will be able to receive cosmetics such as mounts, particle effects, pets, and much more!
 
-![Uploading image.png…]()
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/3665d63e-c992-4a41-b8e9-c21e4a0ea73a)
 
 #### **And These Are Only a Fraction of Our Features!**
 
