@@ -100,8 +100,10 @@ When joining any server the experience may be a bit daunting if not just general
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/09af85c8-5eac-43c3-8d77-31875b7df8cd)
 
-2.) **Like we did previously, use RTP to travel to the wilderness. Find a cozy spot in the wilderness to claim your town, then do /town create [Your Town Name]. Place 20 Stone Bricks in your town...**
+2.) **Like we did previously, use RTP to travel to the wilderness. Find a cozy spot in the wilderness to claim your town, then do /town create [Your Town Name]. Place 20 Stone Bricks in your town.**
+
 - **If you do not want to create a town you can just place the 20 stone bricks down and this will complete the questline as well.**
+- **If you do decide to create a town, it can be fully managed using the command `/t menu`.**
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/ccfbc776-08e0-4979-a3d9-f0e018a815b8)
 
