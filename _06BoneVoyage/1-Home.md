@@ -5,7 +5,7 @@ nav_order: 1
 description: Bone Voyage MC
 ---
 
-![bonevoyagetrailer](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/a97f12e1-337c-4622-9e68-1e08d7d84a77)
+<iframe width="560" height="315" src="https://youtu.be/Cii7_xEFUd0" title="Development Stream" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # **Welcome to Bone Voyage for Minecraft Java**
 ## **IP: PLAY.MODLISTS.NET:25565**
