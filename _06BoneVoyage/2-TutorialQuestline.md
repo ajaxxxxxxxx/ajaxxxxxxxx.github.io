@@ -135,4 +135,9 @@ When joining any server the experience may be a bit daunting if not just general
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/f2240e0d-8abd-4f69-a7cd-e6cb8befcd5f)
 
+### **Need a Little Scratch? You Can AFK in the AFK Room Just Left of the Path to Jothon to Receive Rewards Every 20 Minutes
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/b1eb1f25-beba-43bd-8b3c-c005bf91f651)
+
+
 
