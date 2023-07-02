@@ -27,14 +27,17 @@ One of the primary plugins we use is towny. This allows you to build or join a t
 
 Through the use of EliteMobs & Better Structures, you will now be able to find various new structures, mobs, dungeons, items, and so much more. In addition to this, quests, custom made instanced dungeons, and other RPG elements have been intertwined into the server to give the feeling of adventuring in minecraft a whole new meaning. In short, these plugins help the world feel as though you are truly in a Dungeons & Dragons like experience. 
 
-![Uploading image.png…]()
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/fab40f0f-3b29-45a0-bc4a-6c15a58dd074)
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/bd2a7a68-4fe0-4dbc-9da7-d9f647bf1eec)
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/3ab29872-42a1-4595-b923-388f9432f52b)
 
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/f1663c41-ee6c-4397-9a2a-558aeaf55222)
 
+#### **RPG Skills & Progression**
 
+Whether you are fighting, mining, fishing, or chopping down trees, you are developing your character and their associated skills. Through the use of MCMMO, players will be able to progress their characters in a multitude of fashions, earning new passive and active abilities, xp buffs, and much more.
 
 #### **Minigames**
 
@@ -42,18 +45,34 @@ While not a main feature of our server (yet), a few minigames such as parkour an
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/1c41f3c1-a67f-4810-9d15-20cc70b1be71)
 
+#### **RPG Skills**
 
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/a17b2ba8-5bdb-405f-b2d5-ba178d23f059)
 
+#### **An Advanced Economy & Trading System**
 
+Economies are one of the most important aspects of a minecraft server and a driving force behind player interaction and progression. We have taken this aspect extremely seriously and have made sure it was the best it possibly could be. Players can trade amongst themselves, own bank accounts, employ other users by giving them an automated salary from said bank accounts, earn money through mob farming and other activities, create player shops, and interact with our own handmade shops. This is only a small percentage of our economies everexpanding feature list and much more regarding it can either be read on the wiki or experienced in game!
 
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/e94cb6ae-53b6-4620-8430-97119b509285)
 
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/9d2936e6-b43e-47ff-96c8-b10eea2d5bb2)
 
-RPG Skills for almost every action from fishing to fighting
-An Advanced Economy & Trading System
-Chest Shops and P2P Employment Systems
-Randomized World Events with Interesting Rewards
-Levelled Adventures You Can Embark On Alone or With Friends
-No Advantage MTX
-PVP & PVE Mixture that is both balanced and caters to both casual and hardcore styles of play
-Various Cosmetic Changes & Perks
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/9dd367bf-3883-4804-9e8a-5b53c0f021fb)
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/dd3bdd69-164d-456b-852d-3cac1364bc04)
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/3665d63e-c992-4a41-b8e9-c21e4a0ea73a)
+
+#### **Randomized World Events with Interesting Rewards**
+
+Experience randomized mob spawns and boss fights around your location. Defeat these bosses and mobs for prizes and compete to be the number one boss slayer on the server! Currently, most of our randomized world events are handled by EliteMobs. This being said, we currently have multiple ideas and are workingo n implementation of them that will only add to these EliteMobs events!
+
+#### **Fair & Non-Gameplay Affecting MTX**
+
+From Day 1 we knew that hosting microtransactions that gave in game benefits would be something that could possibly be problematic. While it may provide more donations in the short term (and even long term), the last thing we wanted to do was make something where players felt unfairly balanced against their counterparts, let alone break Minecraft's very anti P2W EULA. For this and moral reasons, we decided it was best to stick with solely cosmetic donation rewards. For your support, users will be able to receive cosmetics such as mounts, particle effects, pets, and much more!
+
+![Uploading image.png…]()
+
+#### **And These Are Only a Fraction of Our Features!**
+
 Consistent Development & Updates (We are Currently Implementing Custom Dungeons, Weapons, Armors, Artifacts, & Much More...)
