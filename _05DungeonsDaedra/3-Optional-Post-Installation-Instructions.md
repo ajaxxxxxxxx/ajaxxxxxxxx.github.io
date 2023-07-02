@@ -1,0 +1,104 @@
+---
+layout: default
+title: Optional Post Installation Instructions
+nav_order: 3
+description: Optional Post Installation Instructions
+---
+
+## Optional Post Installation Instructions
+These steps/descriptions are provided entirely by the Heartland Team and their installation guide. I have left this as is as they most accurately describe the installation steps/descriptions of mods.
+
+### D&D Optionals
+
+This list includes several optional configurations pre-installed, which can be swapped in and out as desired. Each configuration is denoted by an MO2 mod separator, which includes step-by-step instructions on how to enable the optional mods. To view, simply right click the seperator select Information, then select the Notes tab. You will be presented with instructions like below:
+
+
+#### _Weather and Interiors: All Natural and Immersive Interiors_
+
+This optional configuration disables Natural and Atmospheric Oblivion, in favour of All Natural and Immersive Interiors.
+
+All Natural is an older weather mod with weather effects that are now dated (in my opinion) in comparison to Natural and Atmospheric Oblivion. However, All Natural provides several innovative features which cannot be found in NAO - notably Real Lights, which ensures light is actually centred on light sources, and support for Immersive Interiors, which allows the player to see the outside world from within interiors. The latter effect really draws you into the game world and makes each interior feel properly situated
+within its exterior environment.
+
+Please note that there are minor issues with foggy weather and nights being brighter than desired. This is an experimental configuration and is being actively improved.
+
+
+#### _User Interface: DarNified UI_
+
+This optional configuration disables NorthernUI in favour of DarNified UI.
+
+DarNified UI is a more traditional take on a UI overhaul for Oblivion. All manner of menus have been improved, including the journal, inventory, map, wait/sleep screens, level up screens and more. Unlike NorthernUI though, these changes preserve the vanilla style - perfect for players who want a lighter brush stroke to improve the user interface. 
+
+Also included in this configuration is a compatible loading screens replacer, but instructions are available to switch to vanilla loading screens for those that prefer them.
+
+
+#### _Music: GOSH, Oblivion Symphonic Variations Suite, Silent Tracks Expanded_
+
+This optional configuration overhauls sound and music in Oblivion with new sound effects and music tracks. Additionally, silent music tracks have been added to provide randomised pauses between music tracks so that the player is not oversaturarated during gameplay.
+
+This won't be to everyone's tastes (particularly the pauses), but I encourage you to give it a try as you may just prefer it!
+
+### Mod Suggestions, Gameplay Profiles, and Installing Additional Mods
+
+#### General Steps
+
+1. **Download the mods you wish to add.** Make sure to read the documentation to ensure that they do not have any compatibility issues with any of the mods already included in the D&D list. If on Nexus, use ‘mod manager download’ where possible with MO2 open to have the archive appear directly in your MO2/download folder. If only manual download is available, cut and paste the archive to the downloads folder.
+2. **Install the mods in MO2** by double clicking the archive in the Downloads tab of the plugins pane. Click the **manual installation** option and verify that the structure is as it should be (you can tell from the green ‘Looks good’ text). If it is not, right click and set the data directory on the folders as appropriate. Remember to checkmark the mod in the mods pane after it has been installed.
+3. Select **BOSS** from the executable dropdown in MO2 and hit **Run**. The BOSS GUI will appear over the top of MO2. Hit **Run BOSS**. It will sort your plugins and output an HTML log when completed. Close BOSS. Back in MO2, the ESPs from your new mod(s) will now be in their correct load order positions in the plugins pane.
+4. In the mods pane, find the **Bashed Patch** mod for your currently enabled profile and **remove it**.
+5. Ensure that there are **no files in your MO2/overwrite folder** (move any OBSE logs that may be there to the OBSE Logs mod).
+6. Select **Wrye Bash** from the in MO2 and hit **Run**. If prompted for a game choice, select **Oblivion**. 
+7. Within the Wrye Bash interface, right click the plugin right at the bottom (**Bashed Patch 0.esp**) and click **Rebuild Patch**. 
+8. In the following interface, make sure that the following options are ticked (they should have carried over from before):
+    * **Tweak Assorted -> DarNify Books** ticked so books look as intended
+    * **Tweak Settings -> Arrow Speed is x2.0** for more responsive archery (right click box to change)
+    * **Tweak Actors -> Irresponsible Creatures** ticked
+    * **Tweak Settings -> Crime: Alarm Distance at 2000** to reduce guard crime intuition range (right click to change)
+    * **Tweak Settings -> Greeting Distance at 100** for less NPC chatter (right click to change)
+    * **Tweak Settings -> Warning: Exterior Distance to Hostiles at 2000** for reduced combat distance outdoors (right click to change)
+9. Then hit **Build Patch**. This will take a few minutes, and produce a popup log when complete. Close Wrye Bash.
+10. Back in MO2, right click the **Overwrite** panel at the bottom of the mods pane and select **Create mod**. Call it **Bashed Patch**, and ensure it is enabled after installation.
+11. Done! Run the game as usual by selecting and running Oblivion from the dropdown menu.
+
+### Setting Core Affinity to improve performance (courtesy of Aerialvas)
+
+**NOTE: Depending on your CPU architecture, this may cause more performance problems than it solves.** If you wish to give it a try, it is worth measuring FPS and testing stability both before and after making these changes to determine if you will obtain a benefit.
+
+Oblivion is only designed to run on the first two cores of a PC, but by default, the operating system will attempt to use all cores. By manually setting Oblivion to use just the first two cores, you can achieve a significant performance boost in game.
+
+1. Download and install the **Process Lasso** tool from [https://bitsum.com](https://bitsum.com). Note that if you don’t select it to start at startup, ensure that the tool is running prior to playing Oblivion.
+2. In MO2, select the **INI Editor** on the top bar. In the **[General]** section, paste in this line: **iNumHWThreads = 2**.
+3. Launch Oblivion with MO2, after following the mandatory installation steps above.
+4. ALT-Tab to Process Lasso and right-click the Oblivion.exe process. Choose **CPU Affinity -> Always -> Select CPU affinity**, and then **tick only CPU 0 and CPU 1**.
+5. Restart Oblivion!
+
+
+### Decompressing Vanilla Game BSAs
+Courtesy of Zilav:
+
+_"Back when Oblivion was released in 2006 for old generation consoles the overall size occupied by the game mattered so vanilla BSA archives use zlib compression to reduce overall assets size on the disk. However assets need to be decompressed by the game on the go which takes extra time leading to longer loading times and additional stutter when moving in exterior worldspaces while cells being loaded in background._
+
+_BSA Decompressor recreates BSA archives without zlib compression so the game is limited only by your hardware disk system performance. All vanilla assets remain in uncompressed BSA archives."_
+
+1. In MO2, find the **Unofficial Shivering Isles Patch** in the mods pane, and right click **Open in Explorer**. Cut **DLCShiveringIsles - Faces.bsa** to the Data folder in your Oblivion game directory.
+2. Close MO2 and go to D&D/tools/Oblivion BSA Decompressor. **Run Oblivion BSA Decompressor.exe**.
+3. Select **Decompress**, then close the tool once it has finished. Your vanilla BSA files will now be decompressed.
+4. Cut **DLCShiveringIsles - Faces.bsa** back to D&D/mods/Unofficial Shivering Isles Patch. 
+
+
+## Extra Notes
+
+*   Due to the way MO2 loads Oblivion and OBSE, the Steam overlay and screenshot functionality cannot be used. Use F11 to take screenshots using Oblivion Reloaded.
+
+## Troubleshooting
+
+1. _I receive a blank / black screen on start up._
+    * Replace the Oblivion.ini file in Documents/MyGames/Oblivion and [MO2 Install]/profiles/Dungeons & Daedra with [this version](https://drive.google.com/file/d/1nby-4x-eFlEC4nvIlERilWVstzHztRck/view?usp=sharing).
+2. _I am unable to download [X] mod during the Wabbajack install process, and from the Nexus page I can see that it was updated within the past week._
+    * The mod in question has been updated and the mod author has not kept the previous version accessible on the Nexus. As such, the current modlist cannot be installed and must be updated. If you encounter this and it has not been mentioned in the support channel on [Boneyard Creations](https://discord.gg/43EhRjU), please ping me (@Sam) so that I am aware of the issue and can update the modlist as soon as possible. 
+3. _I can’t run the Oblivion executable from MO2 - I get an application error._
+    * If you bought the game through Steam, it needs to be running in the background for you to play the game. Boot up Steam and give it another try.
+4. _When I run Oblivion, a new window opens and I can hear the main menu audio, but all I get is a blank/black screen._
+   * MO2 is failing to load the OBSE libraries when running Oblivion leading to issues with the mods installed. To correct, click the executable dropdown in MO2, select Edit, and then check the Oblivion.exe entry. Ensure that Force Load Libraries is ticked, and click Configure Libraries. Ensure that Oblivion.exe is set to load the library obse_1_2_416.dll in your Oblivion game directory.
+5. _Following the above instructions, there is no obse_1_2_416.dll._
+   * Make sure you have copied the contents of Game Folder Files to your Oblivion game directory. The OBSE files should be present in this folder. 
