@@ -103,7 +103,11 @@ collections:
     output: true
   05DungeonsDaedra:
     permalink: "/:collection/:path/"
-    output: true  
+    output: true
+  06BoneVoyage:
+    permalink: "/:collection/:path/"
+    output: true    
+    
   
      
 just_the_docs:
@@ -123,5 +127,8 @@ just_the_docs:
    05DungeonsDaedra:
       name: Dungeons & Daedra - TESIV
       nav_fold: true 
+   06BoneVoyage:
+      name: Bone Voyage - MC
+      nav_fold: true   
   
       
