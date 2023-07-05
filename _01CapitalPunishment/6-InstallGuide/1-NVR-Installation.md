@@ -2,7 +2,7 @@
 layout: default
 title: 1.) NVR Installation (Optional)
 has_toc: true
-parent: Optional Install Guides
+parent: 6-InstallGuide
 nav_order: 2
 description: How to Install NVR
 ---
