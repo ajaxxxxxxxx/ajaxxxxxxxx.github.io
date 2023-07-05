@@ -8,7 +8,7 @@ description: Official Installation Guide
 ## The Bare Minimum
 
 {: .NoTitleGreen}
-> 120 GB of Free Space, A Nexus Account (Preferably Premium), a Global Steam Installation of Fallout NV w/ All DLC, & Fallout 3 With All DLC (GOG, Steam, Or Epic Games will do fine for Fallout 3 only, but Fallout New Vegas REQUIRES a Steam Global Copy)
+> 170 GB of Free Space, A Nexus Account (Preferably Premium), a Global Steam Installation of Fallout NV w/ All DLC, & Fallout 3 With All DLC (GOG, Steam, Or Epic Games will do fine for Fallout 3 only, but Fallout New Vegas REQUIRES a Steam Global Copy).
 
 {: .NoTitleYellow}
 > Make sure you install everything to the root of your drive (Ex: C:/Capital Punishment ; C:/Steam). Protected directories such as your Desktop, Program Files, etc may cause issues.
@@ -72,6 +72,7 @@ description: Official Installation Guide
 
 ## Optional Post Installation Steps
 
+- You can choose to delete the contents of the `Capital Punishment/Downloads` folder to free up space, but when you update you will have to fully reinstall everything again.
 - [NVR Installation](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/1-NVR-Installation/)
 - [DXVK w/ Reshade Installation](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/2-DXVK-Installation/)
 - [Performance Tweaks](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/3-Performance-Tweaks/)
