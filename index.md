@@ -44,10 +44,10 @@ This does not go without saying that none of this would be possible without the 
 ![image](https://user-images.githubusercontent.com/112358568/210428921-904333d6-8ead-4a71-9762-8ee4a26bb83c.png)
 
 ### **Developer:** SexyThighs
-- One of the first members of the original staff team, Thighs has been instrumental in our bug testing and problem solving departments. 
+- One of the first members of the original staff team, Thighs has been instrumental in our bug testing and problem solving departments. Primarily functioning as QA, Sexythighs ensures all changes made to our lists are functional and that the list does not contain any game breaking issues 
 
 ### **Developer:** Camboi
-- The newest addition to our team, Cam is the main developer and maintainer for our Xedit patch which has fixed a heap of discrepancies and bugs in the mod list
+- Cam is the main developer and maintainer for our Xedit patch which has fixed a heap of discrepancies and bugs in the mod list. In addition, he works hand in hand with our lead developer to ensure that issues are not present with large changes to the list and has a direct hand in list development and maintenance.
 
 ### **Helpers:** Clayby & Oatasaurus Rex
 - These are our bread and butter. While we try to make things work properly, these are the individuals who dedicates their free time to ensuring those with any troubleshooting/in game issues can have expedient assistance and hopefully get things resolved. In addition to this, they are also essential in both the bug & general gameplay testing departments.
