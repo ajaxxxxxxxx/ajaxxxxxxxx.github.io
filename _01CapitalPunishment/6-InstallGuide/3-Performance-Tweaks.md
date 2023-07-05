@@ -3,7 +3,7 @@ layout: default
 title: 3.) Performance Tweaks (Optional)
 has_toc: true
 parent: Install Guide
-nav_order: 3
+nav_order: 4
 description: How to Tweak Performance
 ---
 
