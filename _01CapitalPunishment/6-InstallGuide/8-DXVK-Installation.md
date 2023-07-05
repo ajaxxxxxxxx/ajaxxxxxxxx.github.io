@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 8.) DXVK w/ Reshade Installation (Optional)
+title: 2.) DXVK w/ Reshade Installation (Optional)
 has_toc: true
 parent: Install Guide
-nav_order: 8
+nav_order: 2
 description: How to Install DXVK w/ Reshade
 ---
 
