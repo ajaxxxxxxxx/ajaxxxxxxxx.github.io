@@ -75,5 +75,6 @@ description: Official Installation Guide
 - [NVR Installation](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/1-NVR-Installation/)
 - [DXVK w/ Reshade Installation](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/2-DXVK-Installation/)
 - [Performance Tweaks](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/3-Performance-Tweaks/)
+- [Optional Mods](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/4-OptionalMods/)
 
 
