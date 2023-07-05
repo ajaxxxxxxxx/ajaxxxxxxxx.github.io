@@ -3,7 +3,7 @@ layout: default
 title: Starting DLC
 has_toc: true
 parent: Gameplay Guides
-nav_order: 9
+nav_order: 8
 description: How to Start DLC
 ---
 
