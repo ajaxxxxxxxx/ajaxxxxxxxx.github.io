@@ -49,9 +49,18 @@ description: Official Installation Guide
 
 5.) On the right hand side, sort by Filetime until you see your `[NoDelete] Tale of Two Wastelands.7z` at the top. Drag and drop this to the top of the lefthand separator `PUT TALE OF TWO WASTELANDS HERE`
 
-## Preconfigured Save Setup (RECOMMENDED BUT OPTIONAL )
+## Preconfigured Save Setup (RECOMMENDED BUT OPTIONAL)
 
-1.) Go to Capital Punishment/Game Folder Files, copy the two save files you find there, and past them to your `Capital Punishment/profiles/Casual_Punishment_Default/saves` folder
+1.) Go to Capital Punishment/Game Folder Files, copy the two appropriate Save Files for the profile you plan to use (Casual or Hardcore), then paste them into the appropriate profile folder you plan to use **(HC = Hardcore)**
+
+- **At the End Of the Saves Look for the Markers For Casual/Hardcore**
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/96f62de7-5f55-485d-bb73-4a91dc69a457)
+
+- **Copy the Two Saves Which Correlate & Paste Them Into `Capital Punishment/Profiles/[The Profile Of Your Choice]/saves`**
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/d4984034-f544-4a58-a447-d4a43eaf122f)
+
 
 ## Final Setup
 
