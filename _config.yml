@@ -49,7 +49,7 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 
 nav_external_links:
   - title: Tale of Two Wastelands Website
-    url: https://thebestoftimes.github.io
+    url: https://taleoftwowastelands.com/dl
     hide_icon: false # set to true to hide the external link icon - defaults to false
   - title: Download Wabbajack
     url: https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe
