@@ -15,11 +15,7 @@ This is a completely optional step and mainly intended for those who are experie
 ## **NVHR Causing Severe Lag**
 So while NVHR is an extremely useful tool, the most recent update has caused a few issues for some systems. With that in mind, we suggest two things.
 
-### **1.) Remove NVHR All Together**
-- Delete `d3dx9_38.dll` in `Capital Punishment/Stock Games`
-- Delete the `NVHR` folder located in `Capital Punishment/Stock Games/Data`
-
-### **2.) Downgrade to NVHR 3.2**
+### **1.) Downgrade to NVHR 3.2**
 1.) Delete `d3dx9_38.dll` in `Capital Punishment/Stock Games`
 
 2.) Delete the `NVHR` folder located in `Capital Punishment/Stock Games/Data`
