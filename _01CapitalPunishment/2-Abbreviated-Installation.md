@@ -1,8 +1,8 @@
 ---
-title: Abbreviated Installation Guide
+title: Installation Guide
 layout: default
 nav_order: 2
-description: Abbreviated Installation Guide
+description: Official Installation Guide
 ---
 
 ## The Bare Minimum
