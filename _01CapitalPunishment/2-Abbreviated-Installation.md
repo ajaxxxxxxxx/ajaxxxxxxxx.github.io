@@ -23,7 +23,7 @@ description: Official Installation Guide
 
 ## Installing the Games
 
-1.) Install a Fresh Copy of Fallout New Vegas & 3 (English Language Only). Once installation is finished, launch them once and a popup should appear saying detecting game settings. 
+1.) Install a Fresh Copy of Fallout New Vegas & 3 (English Language Only). **Once installation is finished, launch them once and a popup should appear saying detecting game settings.** 
 
 2.) Set your resolution and other settings to your liking and close the launcher after
 
