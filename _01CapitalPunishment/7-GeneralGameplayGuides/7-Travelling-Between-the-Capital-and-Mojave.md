@@ -3,7 +3,7 @@ layout: default
 title: Travelling From the Capital to Mojave
 has_toc: true
 parent: Gameplay Guides
-nav_order: 7
+nav_order: 6
 description: How to Travel Between Capital & Mojave
 ---
 
