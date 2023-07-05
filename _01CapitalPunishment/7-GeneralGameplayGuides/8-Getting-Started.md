@@ -3,7 +3,7 @@ layout: default
 title: Getting Started
 has_toc: true
 parent: Gameplay Guides
-nav_order: 8
+nav_order: 7
 description: How to Get Started
 ---
 
