@@ -17,12 +17,12 @@ Capital Punishment is Fallout New Vegas mod list based on the Tale of Two Wastel
 - **A Casual List:** While 1.45 Official Release will have a Casual profile, this list was designed with the intention of being challenging. 
 
 ## **What is Tale of Two Wastelands?**
-If you do not know what Tale of Two Wastelands is, it is a total conversion of Fallout 3 into the engine of Fallout New Vegas (with added fixes and modifications from the authors). This allows for the player to play Fallout 3 & Fallout New Vegas in the same game! For more info visit the [Tale of Two Wastelands Website](https://thebestoftimes.github.io/index.html)
+If you do not know what Tale of Two Wastelands is, it is a total conversion of Fallout 3 into the engine of Fallout New Vegas (with added fixes and modifications from the authors). This allows for the player to play Fallout 3 & Fallout New Vegas in the same game! For more info visit the [Tale of Two Wastelands Website](https://taleoftwowastelands.com/download_ttw)
 
 ## How do I Get Help?
 1.) Make sure to look at the installation guide and follow in order.
 
-2.) The next step would be to check our [FAQ](https://www.capitalpunishmentmod.com/01Support/FAQ/FAQ/)
+2.) The next step would be to check our [FAQ](https://www.modlists.net/01CapitalPunishment/5-FAQ/FAQ/)
 
 3.) If your issue is not in the FAQ or Installation Guide, take the time to look around the Wiki (Especially if its gameplay related questions such as "How do I Repair Guns?"
 
