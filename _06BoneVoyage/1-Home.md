@@ -44,7 +44,10 @@ Whether you are fighting, mining, fishing, or chopping down trees, you are devel
 
 #### **Minigames**
 
-While not a main feature of our server (yet), a few minigames such as parkour and fishing competitions are in place. These allow you to enjoy some mindless fun when you need a break from town building and adventuring!
+From a Mario Party like minigame to parkour and fishing competitions, Bone Voyage has numerous minigames for you to pass the time when youre not building or adventuring!
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/7d2417d0-6829-425b-ac88-0c60c694f2fe)
+
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/1c41f3c1-a67f-4810-9d15-20cc70b1be71)
 
