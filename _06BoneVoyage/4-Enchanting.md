@@ -14,6 +14,8 @@ description: A Guide to Enchanting
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/02150c07-aa40-4e8f-b1dc-fc6017a42e60)
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/fa490d72-1cae-46b1-9c40-44a3e4c093c0)
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/56b8ddad-19e1-477d-8da4-54087c49845e)
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/9d061cb6-b190-4b9f-a8f3-dd281d9ec051)
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/12fadca7-9356-4bb4-a2a3-209f8f577514)
 
 
 
