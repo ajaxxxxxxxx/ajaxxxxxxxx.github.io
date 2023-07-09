@@ -9,6 +9,9 @@ description: A Guide to Server Commands
 
 **This guide will cover all of the commands that may be important during your time here on the server. This will not cover the extensive list of towny commands or any ones which are unnecessary to use.**
 
+###**/MENU**
+####**This is the singular most important command on the server. It provides a custom interface which allows you to reach the most important commands and information all with the ease of navigation!**
+
 ### **Donation Related Commands**
 
 - `/buy`: This will bring up the donation perks currently available on the server and provide you a direct link to whichever perk you are looking to purchase.
