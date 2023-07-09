@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Basic Commands
+title: Enchanting Guides
 nav_order: 4
-description: A Guide to Server Commands
+description: A Guide to Enchanting
 ---
