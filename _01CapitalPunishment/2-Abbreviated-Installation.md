@@ -41,6 +41,8 @@ description: Official Installation Guide
 
 1.) Download and unzip the [TTW 3.3.2 Installer](https://taleoftwowastelands.com/dl). Then create a new folder called `[NoDelete] Tale of Two Wastelands`
 
+> The `[No Delete]` tag has recently been having issues. PLEASE BACK UP YOUR TALE OF TWO WASTELANDS OUTSIDE OF YOUR CAPITAL PUNISHMENT FOLDER
+
 2.) Make sure Steam is fully closed, then run the Tale of Two Wastelands Launcher. Set the paths for where your `Fallout 3`, `Fallout NV`, & `[NoDelete] Tale of Two Wastelands` main directories are located, then press install (This takes a while)
 
 3.) After the TTW Launcher successfully completes the installation, zip up the `[NoDelete] Tale of Two Wastelands` folder. You may now safely delete Fallout 3 from your computer.
