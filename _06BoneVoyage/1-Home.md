@@ -35,6 +35,9 @@ Through the use of EliteMobs & Better Structures, you will now be able to find v
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/da807803-0aba-4eb7-a4c1-063bec60b844)
 
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/5de72c6d-9684-4b86-aea9-b7027da69722)
+
+
 #### **RPG Skills & Progression**
 
 Whether you are fighting, mining, fishing, or chopping down trees, you are developing your character and their associated skills. Through the use of MCMMO, players will be able to progress their characters in a multitude of fashions, earning new passive and active abilities, xp buffs, and much more.
