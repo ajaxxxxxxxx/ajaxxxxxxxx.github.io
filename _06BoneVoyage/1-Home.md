@@ -5,11 +5,11 @@ nav_order: 1
 description: Bone Voyage MC
 ---
 
+![Untitled](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/790b3e77-f9cb-4e92-8c4d-1ccb5f5853fd)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cii7_xEFUd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# **Welcome to Bone Voyage for Minecraft Java**
-## **IP: PLAY.MODLISTS.NET:25565**
-## **[STORE](http://shop.modlists.net)**
+## **[STORE](http://byx.tebex.io)**
 
 ### **A Towny Adventure RPG Minecraft Server**
 
