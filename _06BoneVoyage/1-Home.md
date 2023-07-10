@@ -69,6 +69,9 @@ Economies are one of the most important aspects of a minecraft server and a driv
 
 Experience randomized mob spawns and boss fights around your location. Defeat these bosses and mobs for prizes and compete to be the number one boss slayer on the server! Currently, most of our randomized world events are handled by EliteMobs. This being said, we currently have multiple ideas and are workingo n implementation of them that will only add to these EliteMobs events!
 
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/3db374a2-9bb9-4251-8a85-b4faf7db329f)
+
+
 #### **Fair & Non-Gameplay Affecting MTX**
 
 From Day 1 we knew that hosting microtransactions that gave in game benefits would be something that could possibly be problematic. While it may provide more donations in the short term (and even long term), the last thing we wanted to do was make something where players felt unfairly balanced against their counterparts, let alone break Minecraft's very anti P2W EULA. For this and moral reasons, we decided it was best to stick with solely cosmetic donation rewards. For your support, users will be able to receive cosmetics such as mounts, particle effects, pets, and much more!
