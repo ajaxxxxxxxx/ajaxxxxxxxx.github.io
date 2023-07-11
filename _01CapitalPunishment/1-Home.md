@@ -14,7 +14,6 @@ Capital Punishment is Fallout New Vegas mod list based on the Tale of Two Wastel
 ## What is it Not?
 - **A Modifiable List (For the Time Being):** As we iron out issues with the compiled list we have no time to support extra additions to the list
 - **A Vanilla/Vanilla+ Experience:** While I added things to try to retain the feel of NV/FO3, this is by no means a small or vanilla+ list+
-- **A Casual List:** While 1.45 Official Release will have a Casual profile, this list was designed with the intention of being challenging. 
 
 ## **What is Tale of Two Wastelands?**
 If you do not know what Tale of Two Wastelands is, it is a total conversion of Fallout 3 into the engine of Fallout New Vegas (with added fixes and modifications from the authors). This allows for the player to play Fallout 3 & Fallout New Vegas in the same game! For more info visit the [Tale of Two Wastelands Website](https://taleoftwowastelands.com/download_ttw)
