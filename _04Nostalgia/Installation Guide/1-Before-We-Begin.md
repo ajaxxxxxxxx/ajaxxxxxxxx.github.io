@@ -17,7 +17,7 @@ description: First Things to Read Into
 
 **Pre-Installation Checklist**
 
-* 85GB of free space (You can delete the downloads folder after the install to decrease this, however it will make updates take longer)
+* 90GB of free space (You can delete the downloads folder after the install to decrease this, however it will make updates take longer)
 
 * A Nexus Account
 
