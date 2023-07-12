@@ -39,8 +39,6 @@ _**Save safe for previous version 1.1**_
 
 * NV Collectibles - Merged
 
-* Delay DLC Redux
-
 * Another Millenia Gun-Addon
 
 * JIP LN NVSE Plugin
