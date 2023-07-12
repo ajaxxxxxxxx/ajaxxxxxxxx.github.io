@@ -19,6 +19,8 @@ _**Save safe for previous version 1.1**_
 
 * Weapon Based fNearDistance ESPLess
 
+* Better Brotherhood
+
 ### **Fixed**
 
 * Removed Rough Rider .22 from LL
@@ -27,7 +29,29 @@ _**Save safe for previous version 1.1**_
 
 ### **Updated**
 
+* Console Paste Support
+
+* Mojave Express Courier Delivery Work - Primm
+
+* Simply Upscaled Grass
+
+* WAP Year One and Bonus
+
+* NV Collectibles - Merged
+
+* Delay DLC Redux
+
+* Another Millenia Gun-Addon
+
+* JIP LN NVSE Plugin
+
+* Claim the Mojave
+
+* Alcohol Flushes Radiation
+
 ### **Removed**
+
+*Brotherhood of Steel Wasteland Presence
 
 ## **Release 0.12** 
 _**Save safe for previous versions**_
