@@ -51,7 +51,7 @@ _**Save safe for previous version 1.1**_
 
 ### **Removed**
 
-*Brotherhood of Steel Wasteland Presence
+* Brotherhood of Steel Wasteland Presence
 
 ## **Release 0.12** 
 _**Save safe for previous versions**_
