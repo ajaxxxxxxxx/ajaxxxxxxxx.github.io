@@ -10,6 +10,25 @@ description: Patch Notes
 # **Releases (Newest to Oldest)**
 Visit our [Trello](https://www.modlists.net/01CapitalPunishment/2-Trello/) for more In Depth Development Logs
 
+## **Release 1.1.2** 
+_**Save safe for previous version 1.1**_
+
+### **Added**
+
+* Basic Console Autocomplete
+
+* Weapon Based fNearDistance ESPLess
+
+### **Fixed**
+
+* Removed Rough Rider .22 from LL
+
+* Removed the 2nd Hotplate and Workbench from Novac Hotel Room due to mod conflictions
+
+### **Updated**
+
+### **Removed**
+
 ## **Release 0.12** 
 _**Save safe for previous versions**_
 
