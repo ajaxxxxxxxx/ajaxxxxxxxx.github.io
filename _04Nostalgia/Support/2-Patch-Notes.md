@@ -10,6 +10,21 @@ description: Patch Notes
 # **Releases (Newest to Oldest)**
 Visit our [Trello](https://www.modlists.net/01CapitalPunishment/2-Trello/) for more In Depth Development Logs
 
+
+## **Release 1.1.3** 
+_**Save safe**_
+
+### **Added**
+
+* Follower Formula Redone
+
+### **Fixed**
+
+### **Updated**
+
+### **Removed**
+
+
 ## **Release 1.1.2** 
 _**Save safe for previous version 1.1**_
 
