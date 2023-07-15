@@ -5,7 +5,8 @@ nav_order: 1
 description: Bone Voyage MC
 ---
 
-![Untitled](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/790b3e77-f9cb-4e92-8c4d-1ccb5f5853fd)
+![BoneVoyage](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/431622b9-765e-4930-a5f1-0ee08ca34808)
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cii7_xEFUd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
