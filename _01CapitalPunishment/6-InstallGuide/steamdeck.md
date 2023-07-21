@@ -3,7 +3,7 @@ layout: default
 title: 5.) Steam Deck/Linux Installation
 has_toc: true
 parent: Optional Install Guides
-nav_order: 4
+nav_order: 5
 description: How to Install Capital Punishment On Steam Deck
 ---
 # **Community Guide: Capital Punishment Steam Deck/Linux Installation**
