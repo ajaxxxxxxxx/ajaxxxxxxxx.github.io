@@ -29,7 +29,7 @@ Next, start Fallout New Vegas and from the Launcher, click Play to load into the
 ### **Step 2 - Install RockerBacon MO2 for Linux**
 On Steam Deck, download the Rocker Bacon MO2 installer and extract it to it's own directory, e.g. /home/deck/Documents/RBMO2. The following one-liner will do that for you. If you wish to do this manually, you can get it from [here](https://github.com/rockerbacon/modorganizer2-linux-installer).
 
-``mkdir /home/deck/Documents/RBMO2 ; wget https://github.com/rockerbacon/modorganizer2-linux-installer/releases/download/4.3.1/mo2installer-4.3.1.tar.gz -O /home/deck/Documents/RBMO2/mo2installer-4.3.1.tar.gz ; tar -xpzvf  /home/deck/Documents/RBMO2/mo2installer-4.3.1.tar.gz -C /home/deck/Documents/RBMO2``
+<code>mkdir /home/deck/Documents/RBMO2 ; wget https://github.com/rockerbacon/modorganizer2-linux-installer/releases/download/4.3.1/mo2installer-4.3.1.tar.gz -O /home/deck/Documents/RBMO2/mo2installer-4.3.1.tar.gz ; tar -xpzvf  /home/deck/Documents/RBMO2/mo2installer-4.3.1.tar.gz -C /home/deck/Documents/RBMO2</code>
 
 Run the Rockerbacon ./install.sh script, and select Fallout New Vegas:
 
