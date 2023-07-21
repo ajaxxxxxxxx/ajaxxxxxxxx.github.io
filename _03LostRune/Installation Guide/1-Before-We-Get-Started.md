@@ -59,4 +59,4 @@ The One Compiled by Wabbajack will be in the folder where wabbajack will deliver
 
 YOU WILL NOT BE EDITING YOUR ORIGINAL STEAM PATH. MO2 AND THIS MODPACK WILL WORK OFF OF THE STOCK GAME FOLDER. ANY PATHS YOU SET, EDITS YOU MAKE, ETC SHOULD BE DONE TO THE STOCK GAME FOLDER GRANTED THEY ARE IN THE INSTALLATION GUIDE**
 
-_**[Next Step](https://www.capitalpunishmentmod.com/08LostRune/Installation%20Guide/2-Wabbajack-Setup/)**_
+_**[Next Step](https://www.modlists.net/08LostRune/Installation%20Guide/2-Wabbajack-Setup/)**_

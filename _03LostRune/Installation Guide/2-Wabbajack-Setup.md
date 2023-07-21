@@ -20,4 +20,4 @@ Go to the Cogwheel at the top right of the program
 
 Login to your Nexus, and Vector Plexus accounts through there.
 
-_**[Next Step](https://www.capitalpunishmentmod.com/08LostRune/Installation%20Guide/3-Wabbajack-Installation/)**_
+_**[Next Step](https://www.modlists.net/08LostRune/Installation%20Guide/3-Wabbajack-Installation/)**_
