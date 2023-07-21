@@ -12,7 +12,7 @@ This guide is a community released guide and therefore, is not officially tested
 
 ## **Credits**
 
-Thank you to users [Omniman](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Fallout-NV:-Capital-Punishment) for this published guide and offering support for it as well as ghrsch/Bort for their efforts pinning this method down as well as the contained DXVK configuration tweaks!
+**Thank you to users [Omniman](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Fallout-NV:-Capital-Punishment) for this published guide and offering support for it as well as ghrsch/Bort for their efforts pinning this method down as well as the contained DXVK configuration tweaks!**
 
 ## **Instructions**
 **The following has been tested on Capital Punishment v1.5.0.3**
@@ -29,11 +29,11 @@ Next, start Fallout New Vegas and from the Launcher, click Play to load into the
 ### **Step 2 - Install RockerBacon MO2 for Linux**
 On Steam Deck, download the Rocker Bacon MO2 installer and extract it to it's own directory, e.g. /home/deck/Documents/RBMO2. The following one-liner will do that for you. If you wish to do this manually, you can get it from [here](https://github.com/rockerbacon/modorganizer2-linux-installer).
 
-"mkdir /home/deck/Documents/RBMO2 ; wget https://github.com/rockerbacon/modorganizer2-linux-installer/releases/download/4.3.1/mo2installer-4.3.1.tar.gz -O /home/deck/Documents/RBMO2/mo2installer-4.3.1.tar.gz ; tar -xpzvf  /home/deck/Documents/RBMO2/mo2installer-4.3.1.tar.gz -C /home/deck/Documents/RBMO2"
+``mkdir /home/deck/Documents/RBMO2 ; wget https://github.com/rockerbacon/modorganizer2-linux-installer/releases/download/4.3.1/mo2installer-4.3.1.tar.gz -O /home/deck/Documents/RBMO2/mo2installer-4.3.1.tar.gz ; tar -xpzvf  /home/deck/Documents/RBMO2/mo2installer-4.3.1.tar.gz -C /home/deck/Documents/RBMO2``
 
 Run the Rockerbacon ./install.sh script, and select Fallout New Vegas:
 
-"/home/deck/Documents/RBMO2/install.sh"
+``/home/deck/Documents/RBMO2/install.sh``
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/b8fe070a-9582-468d-a341-9995988a07be)
 
@@ -168,7 +168,7 @@ Do the same for the "Tale of Two Wastelands" and "Fallout Launcher" executable e
 ### **Step 7 - Copy in tweaked DXVK.conf file for better performance**
 Thanks to users ghrsch and Bort, we can apply a dxvk configuration that should hopefully increase the performance of the list on Steam Deck. To grab it, run the following command in a Konsole terminal window:
 
-`wget https://github.com/Omni-guides/Wabbajack-Modlist-Linux/raw/main/docs/FNV_CapitalPunishment_dxvk.conf -O /home/deck/Games/Fallout/CapitalPunishment/modorganizer2/Stock\ Game/dxvk.conf`
+``wget https://github.com/Omni-guides/Wabbajack-Modlist-Linux/raw/main/docs/FNV_CapitalPunishment_dxvk.conf -O /home/deck/Games/Fallout/CapitalPunishment/modorganizer2/Stock\ Game/dxvk.conf``
 
 This tweaks a few settings, and caps the framerate to 40FPS, which you can then match with the Steam Deck's performance settings.
 
