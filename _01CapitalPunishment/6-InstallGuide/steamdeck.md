@@ -12,7 +12,7 @@ This guide is a community released guide and therefore, is not officially tested
 
 ## **Credits**
 
-Thank you to users [Omniman](https://github.com/Omni-guides) for this published guide and offering support for it as well as ghrsch/Bort for their efforts pinning this method down as well as the contained DXVK configuration tweaks!
+Thank you to users [Omniman](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Fallout-NV:-Capital-Punishment) for this published guide and offering support for it as well as ghrsch/Bort for their efforts pinning this method down as well as the contained DXVK configuration tweaks!
 
 ## **Instructions**
 **The following has been tested on Capital Punishment v1.5.0.3**
