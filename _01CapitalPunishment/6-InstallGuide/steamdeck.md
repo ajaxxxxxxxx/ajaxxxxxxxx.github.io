@@ -195,9 +195,9 @@ Some text will scroll by in the little terminal window that opened when you laun
 ### **Step 9 - Optional but Recommended**
 Increase Steam Deck Swap Space, Swappiness and adjust Steam Deck VRAM
 
-This may be optional, but there have been reports of far better stability and performance after increasing the swap space available to the deck when running Modlists. This is an optional step, but if you are experiencing stability issues, it might be worth investigating. How to do so is outside the scope of this guide, but there is plenty of information available elsewhere on how to do it - CryoByte33 has an excellent set of utilities available on github that can take care of this, and more!
+This may be optional, but there have been reports of far better stability and performance after increasing the swap space available to the deck when running Modlists. This is an optional step, but if you are experiencing stability issues, it might be worth investigating. How to do so is outside the scope of this guide, but there is plenty of information available elsewhere on how to do it - [CryoByte33](https://github.com/CryoByte33/steam-deck-utilities) has an excellent set of utilities available on github that can take care of this, and more!
 
-Personally I have increased the VRAM in the deck bios to 4GB (see here for details), 16GB Swap space, and a Swappiness of 1 - the recommended settings when you run Cryobyte33's Steam Deck Utilities. In fact, the full video of Cryobyte33 explaining what this all means, is definitely worth a watch!
+Personally I have increased the VRAM in the deck bios to 4GB (see [here](https://www.youtube.com/watch?v=od9_a1QQQns&t=1377s) for details), 16GB Swap space, and a Swappiness of 1 - the recommended settings when you run Cryobyte33's Steam Deck Utilities. In fact, the [full video](https://www.youtube.com/watch?v=od9_a1QQQns) of Cryobyte33 explaining what this all means, is definitely worth a watch!
 
 Switch to an even newer Proton Version
 
