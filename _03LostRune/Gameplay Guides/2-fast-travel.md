@@ -24,17 +24,6 @@ During the events of the main quest, you can come across a book that reveals exp
 
 
 
-**[Convenient Carriages](https://www.nexusmods.com/skyrimspecialedition/mods/12693)**
-
-You can travel to Darkwater Crossing, Dawnstar, Dragon Bridge, Falkreath, Heljarchen Hall, Ivarstead, Karthwasten, Lakeview Manor, Markarth, Morthal, Nightgate Inn, Old Hroldan, Riften, Riverwood, Rorikstead, Shor's Stone, Solitude, the Whiterun/Rorikstead/Markarth/Falkreath crossroad, the NW Coast, Whiterun, Windhelm, Windstad Manor, Winterhold [and Bruma and/or Helgen if you install the dedicated versions].
-The Hearthfire destinations are available when you buy the property.
-
-
-
-***
-
-
-
 **[Paraglider](https://www.nexusmods.com/skyrimspecialedition/mods/53256)**
 
 To acquire the Paraglider, exit Falkreath's East Gate and head towards the crossroads. You will be greeted by a man named Fred.
