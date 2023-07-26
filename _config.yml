@@ -36,8 +36,8 @@ aux_links:
     - "https://www.twitch.tv/TheMrNewVegas"    
   "Kofi":
     - "https://ko-fi.com/boneyard"
-  "MC Store":
-    - "https://www.bonevoyagemc.com/store/" 
+  "Patreon":
+    - "https://www.patreon.com/Themrnewvegas" 
 
     # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
