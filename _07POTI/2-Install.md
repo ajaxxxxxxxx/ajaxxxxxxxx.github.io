@@ -48,7 +48,7 @@ description: Path of the Incarnate
 
 ### 6.) Find the OpenMW zip file that you downloaded earlier and unzip it in a location of your choice.
 
-- It is suggested that you unzip it in or near your POTI install folder for ease of access.
+- It is suggested that you unzip it near your POTI install folder for ease of access.
 
 - You may also rename this to whatever you would like
 
