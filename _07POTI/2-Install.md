@@ -60,7 +60,7 @@ description: Path of the Incarnate
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/b06e25bd-09c0-4dd4-8cb0-dfaccce3bfb0)
 
-###*7.) Select browse on this next popup and find your Morrowind installation. Then find your Morrowind.esm. Select it and press open. Then press next on the installer
+### 7.) Select browse on this next popup and find your Morrowind installation. Then find your Morrowind.esm. Select it and press open. Then press next on the installer
 
 - For steam users, this can commonly be found under `C:/Program Files(x86)/Steam/steamapps/common/Morrowind/Data Files\Morrowind.esm`
 
