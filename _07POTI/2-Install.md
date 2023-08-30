@@ -24,6 +24,6 @@ description: Path of the Incarnate
 
 ### **4.) After this has finished downloading, leave it be. Search for Path of the Incarnate on Wabbajack. Make sure you have checked "Unofficial Lists". Open the list and set the correct paths that you wish Path of the Incarnate to install to.** 
 
-#### ** - Make sure it is NOT on a protected path such as program files, desktop, etc. It is best to download it to the base of a drive (IE: C:/POTI). After doing this, click the play button at the right and wait for the list to fully download**
+#### **- Make sure it is NOT on a protected path such as program files, desktop, etc. It is best to download it to the base of a drive (IE: C:/POTI). After doing this, click the play button at the right and wait for the list to fully download**
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/eae79624-9ea6-4253-8d76-ce1b59e1a0c2)
