@@ -78,9 +78,9 @@ description: Path of the Incarnate
 
 ### **12.) (OPTIONAL) Go to the Data Files section in the OpenMW menu that opens up, then Navigation Mesh Cache below. Press the "Update" button to begin this process**
 
-** - This step has been shown to significantly decrease load times in game, but will take some time and is entirely optional.**
+**- This step has been shown to significantly decrease load times in game, but will take some time and is entirely optional.**
 
-** - You may increase the Max Size of the Nav Mesh Cache, but please only do so if you know what you are doing. Otherwise, stick with the default. The largest we have heard of is 18 gb." 
+**- You may increase the Max Size of the Nav Mesh Cache, but please only do so if you know what you are doing. Otherwise, stick with the default. The largest we have heard of is 18 gb.** 
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/fa748d6a-bf6e-48f1-b07b-178e4a3f466a)
 
