@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Installation Guide
 nav_order: 1
 description: Path of the Incarnate
 ---
