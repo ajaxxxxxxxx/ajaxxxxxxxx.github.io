@@ -84,7 +84,7 @@ description: Path of the Incarnate
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/fa748d6a-bf6e-48f1-b07b-178e4a3f466a)
 
-### **13.) You are now ready to play Path of the Incarnate! When you are finished with everything, select Launch OpenMw at the bottom of the launcher and enjoy!
+### **13.) You are now ready to play Path of the Incarnate! When you are finished with everything, select Launch OpenMw at the bottom of the launcher and enjoy!**
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/cc03497b-932d-4220-936b-7b4de7907aa4)
 
