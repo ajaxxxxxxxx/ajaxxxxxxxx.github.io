@@ -60,7 +60,7 @@ description: Path of the Incarnate
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/b06e25bd-09c0-4dd4-8cb0-dfaccce3bfb0)
 
-### 7.) Select browse on this next popup and find your Morrowind installation. Then find your Morrowind.esm. Select it and press open. Then press next on the installer
+### 8.) Select browse on this next popup and find your Morrowind installation. Then find your Morrowind.esm. Select it and press open. Then press next on the installer
 
 - For steam users, this can commonly be found under `C:/Program Files(x86)/Steam/steamapps/common/Morrowind/Data Files\Morrowind.esm`
 
@@ -68,17 +68,17 @@ description: Path of the Incarnate
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/c8115dd1-11c5-4888-87e5-98f21cad7fa4)
 
-### 8.) Continue to press next until you reach this screen. Check everything BUT Import bitmap fonts setup from Morrowind.ini. Then press next. After this you have finished install OpenMW. Click finish to exit the installer.
+### 9.) Continue to press next until you reach this screen. Check everything BUT Import bitmap fonts setup from Morrowind.ini. Then press next. After this you have finished install OpenMW. Click finish to exit the installer.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/a6ae026b-5ca7-4314-b5bb-690fbf176c89)
 
-### 9.) Go to your Path of the Incarnate Folder/Game Folder Files. You will see 2 files here. Copy these and paste them to User/Documents/My Games/OpenMW.
+### 10.) Go to your Path of the Incarnate Folder/Game Folder Files. You will see 2 files here. Copy these and paste them to User/Documents/My Games/OpenMW.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/de5e936b-1c0f-42d0-902d-8230046d42ee)
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/527780d7-e810-4996-883d-043227c1b32f)
 
-### 10.) Return to your Path of the Incarnate folder again and look for ModOrganizer.exe. Launch this, then in Mod Organizer, look for the dropdown menu. Select it, then select edit. Under the selection `OpenMW Launcher`, set the binary path to where your OpenMW-launcher.exe is located. Once you have done this, apply your changes and press ok.
+### 11.) Return to your Path of the Incarnate folder again and look for ModOrganizer.exe. Launch this, then in Mod Organizer, look for the dropdown menu. Select it, then select edit. Under the selection `OpenMW Launcher`, set the binary path to where your OpenMW-launcher.exe is located. Once you have done this, apply your changes and press ok.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/6a111fec-5439-47d2-8e35-9324e222a3ea)
 
@@ -88,13 +88,13 @@ description: Path of the Incarnate
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/ab6fbf85-fca2-4784-b01f-b599e64bc91b)
 
-### 11.) Make sure that OpenMW Launcher is selected in your MO2 drop down. Then press run. If a message pops up asking you to set up the installation wizard, you may select Skip. You will now officially be in the OpenMW launcher.
+### 12.) Make sure that OpenMW Launcher is selected in your MO2 drop down. Then press run. If a message pops up asking you to set up the installation wizard, you may select Skip. You will now officially be in the OpenMW launcher.
  
 - From here, you may go to settings to graphics to customize your resolution and other graphics settings before playing
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/91d04d39-1d45-4b06-bd07-c6aba52edec2)
 
-### 12.) (OPTIONAL) Go to the Data Files section in the OpenMW menu that opens up, then Navigation Mesh Cache below. Press the "Update" button to begin this process
+### 13.) (OPTIONAL) Go to the Data Files section in the OpenMW menu that opens up, then Navigation Mesh Cache below. Press the "Update" button to begin this process
 
 - This step has been shown to significantly decrease load times in game, but will take some time and is entirely optional.
 
@@ -102,11 +102,11 @@ description: Path of the Incarnate
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/fa748d6a-bf6e-48f1-b07b-178e4a3f466a)
 
-### 13.) You are now ready to play Path of the Incarnate! When you are finished with everything, select Launch OpenMw at the bottom of the launcher and enjoy!
+### 14.) You are now ready to play Path of the Incarnate! When you are finished with everything, select Launch OpenMw at the bottom of the launcher and enjoy!
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/cc03497b-932d-4220-936b-7b4de7907aa4)
 
-### 14.) (Optional Step) Once in game, if you do not like Cinematic Depth of Field (Directional Blur based on where you are looking), you may turn this off. Go to your escape menu, then options, scripts, then find Cinematic DoF. Click the box next to enabled until it says no.
+### 15.) (Optional Step) Once in game, if you do not like Cinematic Depth of Field (Directional Blur based on where you are looking), you may turn this off. Go to your escape menu, then options, scripts, then find Cinematic DoF. Click the box next to enabled until it says no.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/de3d48cd-8de1-4375-b8ed-a5259cc2a334)
 
