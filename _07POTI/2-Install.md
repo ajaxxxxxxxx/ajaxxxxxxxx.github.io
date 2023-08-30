@@ -30,7 +30,7 @@ description: Path of the Incarnate
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/eae79624-9ea6-4253-8d76-ce1b59e1a0c2)
 
-### 4B) (Nexus File Users) Search for Path of the Incarnate on Nexus and download the zip folder containing the .wabba file. Unzip this folder and place the Wabbajack file somehwere you can easily select it. Now open Wabbajack, select install from disk, and select the .wabba file. Then set the correct modlist path that you wish Path of the Incarnate to install to.
+### 4B) (Nexus File Users) Search for [Path of the Incarnate](https://www.nexusmods.com/morrowind/mods/53437?tab=files) on Nexus and download the zip folder containing the .wabba file. Unzip this folder and place the Wabbajack file somehwere you can easily select it. Now open Wabbajack, select install from disk, and select the .wabba file. Then set the correct modlist path that you wish Path of the Incarnate to install to.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/7b945a46-1f6a-49cd-89ae-ca8f9a2ae90e)
 
