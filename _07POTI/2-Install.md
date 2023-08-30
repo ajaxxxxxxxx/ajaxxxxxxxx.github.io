@@ -26,11 +26,11 @@ description: Path of the Incarnate
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/51b209bc-df1d-475b-8514-1ce41e421b17)
 
-### 4A.) (WABBAJACK DOWNLOADS ONLY) After this has finished downloading, leave it be. Search for Path of the Incarnate on Wabbajack. Make sure you have checked "Unofficial Lists". Open the list and set the correct modlist path that you wish Path of the Incarnate to install to.
+### 4A.) (Wabbajack Gallery Users) After this has finished downloading, leave it be. Search for Path of the Incarnate on Wabbajack. Make sure you have checked "Unofficial Lists". Open the list and set the correct modlist path that you wish Path of the Incarnate to install to.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/eae79624-9ea6-4253-8d76-ce1b59e1a0c2)
 
-### 4B) (NEXUS DOWNLOADS ONLY) Search for Path of the Incarnate on Nexus and download the zip folder containing the .wabba file. Unzip this folder and place the Wabbajack file somehwere you can easily select it. Now open Wabbajack, select install from disk, and select the .wabba file. Then set the correct modlist path that you wish Path of the Incarnate to install to.
+### 4B) (Nexus File Users) Search for Path of the Incarnate on Nexus and download the zip folder containing the .wabba file. Unzip this folder and place the Wabbajack file somehwere you can easily select it. Now open Wabbajack, select install from disk, and select the .wabba file. Then set the correct modlist path that you wish Path of the Incarnate to install to.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/7b945a46-1f6a-49cd-89ae-ca8f9a2ae90e)
 
