@@ -88,7 +88,7 @@ description: Path of the Incarnate
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/cc03497b-932d-4220-936b-7b4de7907aa4)
 
-### **14.) (Optional Step) Once in game, if you do not like cinematic DoF, you may turn this off. Go to your escape menu, then options, scripts, then find Cinematic DoF. Click the box that says enabled until it says no.**
+### **14.) (Optional Step) Once in game, if you do not like Cinematic Depth of Field (Directional Blur based on where you are looking), you may turn this off. Go to your escape menu, then options, scripts, then find Cinematic DoF. Click the box next to enabled until it says no.**
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/de3d48cd-8de1-4375-b8ed-a5259cc2a334)
 
