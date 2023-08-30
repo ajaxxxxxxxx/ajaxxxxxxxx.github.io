@@ -12,7 +12,7 @@ Path of the Incarnate is an original mod list for OpenMW, aiming to offer a fres
 
 ## What is it Not?
 - **A Modifiable List (For the Time Being):** As we iron out issues with the compiled list we have no time to support extra additions to the list
-- **A Vanilla/Vanilla+ Experience:** While I added things to try to retain the feel of NV/FO3, this is by no means a small or vanilla+ list+
+- **A Vanilla/Vanilla+ Experience:** This is by no means a small or vanilla+ list+
 
 ## **What is OpenMW?**
 OpenMW is a free and open-source game engine recreation that reimplements the one powering Bethesda Softworks' 2002 open-world role-playing game The Elder Scrolls III: Morrowind. For more info visit the [OpenMW Website](https://openmw.org/en/)
