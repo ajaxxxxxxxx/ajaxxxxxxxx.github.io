@@ -108,7 +108,10 @@ collections:
     output: true
   06BoneVoyage:
     permalink: "/:collection/:path/"
-    output: true    
+    output: true
+  07POTI:
+    permalink: "/:collection/:path/"
+    output: true      
     
   
      
@@ -131,6 +134,9 @@ just_the_docs:
       nav_fold: true 
    06BoneVoyage:
       name: Bone Voyage - MC
-      nav_fold: true   
+      nav_fold: true
+   07POTI:
+      name: Path of the Incarnate - OpenMW
+      nav_fold: true     
   
       
