@@ -8,7 +8,7 @@ description: Path of the Incarnate
 # **Installation Guide**
 
 ## **Requirements**
-- ~ 87.6 GB of Space (13.6 GB of this can optionally be removed after install by deleting the contents of the downloads folder)
+- ~ 40 GB of Space (13.6 GB of this can optionally be removed after install by deleting the contents of the downloads folder)
 - A Legal Game of the Year Copy of Morrowind on CD Rom, Steam, Or GOG (These are the only platforms we know are functional and working, other platforms may work but we do not guarantee this)
 
 
