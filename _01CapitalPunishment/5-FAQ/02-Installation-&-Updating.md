@@ -15,8 +15,7 @@ Due to the jankiness of New Vegas and the variety of conflicts introducing new m
 - New Mod Installations
 - Disabling/Deleting Preexisting Mods
 - Editing INI's of Existing Mods
-- Installing New Reshade Presets
-> Reshade preset changes/additions are loosely unsupported as a reshade preset may be running on a newer/older version of reshade versus the one we are running. This wont cause issues necessarily with gameplay, but may not work as intended.
+> We do have channels where users may help eachother with unsupported modifications and have an active user base consistently discussing various changes they have made.
 
 ## **2.) I updated my game and ________ file is now gone. Where did it go?**
 
@@ -42,12 +41,13 @@ If the file did not come with the Wabbajack installation, then it will be delete
 
 ## **4.) How do I show the In Game Keybind Interface?**
 
-If you are on the preconfigured save, just press the INSERT button on your keyboard to switch between the reshade and the controls overlay
+We have removed Reshade from the list, but still provide the files to allow for users who wish to use it. You can follow our reshade guide [here]() to set this up or you can view our keybinds/controls page [here](https://www.modlists.net/01CapitalPunishment/4-Support/2-Controls-&-Tweaks/) 
 
 
 ## **5.) Where can I find an updated list of mods?**
 
-[Click Here](https://www.wabbajack.org/search/TTWTrueVegas/capitalpunishment)
+[Hardcore List](https://loadorderlibrary.com/lists/capital-punishment-1122)
+[Casual List](https://loadorderlibrary.com/lists/capital-punishment-casual-list)
 
 ## **6.) When I launch the game, it loads the black dialog box, but does not launch the game. How do I fix this?**
 This is likely due to preexisting INI's or other files being prevalent in your %USER$/My Games/FalloutNV folder. Delete these files, run your new vegas through steam once, then follow the steps below.
@@ -90,7 +90,7 @@ This is likely due to preexisting INI's or other files being prevalent in your %
 ## **7.) I am having a missing textures, my game is super bright at certain times of the day, I am having *insert error here***
 With the current version of MO2, it is likely that your load order may be resetting. This can cause a variety of in game conflicts. To correctly reset your load order follow the steps below.
 
-1.) Go to our [Load Order Library](https://loadorderlibrary.com/lists/capital-punishment-1122)
+1.) Depending on the list you are using, go to either the [Hardcore Load Order Library](https://loadorderlibrary.com/lists/capital-punishment-1122) or [Casual Load Order Library](https://loadorderlibrary.com/lists/capital-punishment-casual-list) page
 
 2.) Download the `loadorder.txt`. Copy this file to your clipboard once it is downloaded.
 
