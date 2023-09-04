@@ -83,7 +83,7 @@ This is likely due to preexisting INI's or other files being prevalent in your %
 
 - Step 1: Delete CPUinfo.exe, D3dx9_38.tmp, NVHR Folder, and d3dx9_38.dll from your Capital Punishment/Stock Game Folder
 
-- Step 2: Manually download the latest NVHR from here https://www.nexusmods.com/newvegas/mods/69779?tab=files
+- Step 2: Manually download the latest NVHR from [here](https://www.nexusmods.com/newvegas/mods/69779?tab=files)
 
 - Step 3: Extract the zip folder, then paste the files contained within to your Capital Punishment/Stock Game Folder
 
