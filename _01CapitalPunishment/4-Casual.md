@@ -13,6 +13,8 @@ Welcome to the official page for the Capital Punishment Casual Profile. This ver
 
 ## **Removed Mods (Organized by MO2 Separator)**
 
+You may also check out our load order library page [here](https://loadorderlibrary.com/lists/capital-punishment-casual-list)
+
 ### **Gameplay Changes - Weapons & Armor**
 - Alternative Repairing
 
