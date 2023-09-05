@@ -12,7 +12,7 @@ description: Descriptions of Each Profile
 
 # **Capital Punishment - Hardcore Profile - Controller - High**
 
-- This profile was made as more of a means of convenience for the user by activating/deactivating a couple of mods. This includes all original graphic affecting mods at the highest setting they were added to the list in as well as all original hardcore mods. Users can modify their other profiles to match this if they are playing with controller, but may not use the preconfigured save if they do so.
+- This profile was made as more of a means of convenience for the user by activating/deactivating a couple of mods. This includes all original graphic affecting mods at the highest setting they were added to the list in as well as all original hardcore mods. Users can modify their other profiles to match this if they are playing with controller.
 
 ## **Added (Organized by MO2 Separator)**
 
