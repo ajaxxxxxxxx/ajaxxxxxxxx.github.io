@@ -7,14 +7,13 @@ description: Descriptions of Each Profile
 
 # **Capital Punishment - Hardcore Profile - High**
 
-This is the original Capital Punishment profile and how the list was originally intended to be played. This includes all original graphic affecting mods at the highest setting they were added to the list in as well as all original hardcore mods.
+- This is the original Capital Punishment profile and how the list was originally intended to be played. This includes all original graphic affecting mods at the highest setting they were added to the list in as well as all original hardcore mods.
 
-For a consistently updated visual of our modlist/load order, you may also check out our load order library page [here](https://loadorderlibrary.com/lists/capital-punishment-1122)
-
+- For a consistently updated visual of our modlist/load order, you may also check out our load order library page [here](https://loadorderlibrary.com/lists/capital-punishment-1122)
 
 # **Capital Punishment - Hardcore Profile - Controller - High**
 
-This profile was made as more of a means of convenience for the user by activating/deactivating a couple of mods. This includes all original graphic affecting mods at the highest setting they were added to the list in as well as all original hardcore mods. Users can modify their other profiles to match this if they are playing with controller, but may not use the preconfigured save if they do so.
+- This profile was made as more of a means of convenience for the user by activating/deactivating a couple of mods. This includes all original graphic affecting mods at the highest setting they were added to the list in as well as all original hardcore mods. Users can modify their other profiles to match this if they are playing with controller, but may not use the preconfigured save if they do so.
 
 ## **Added (Organized by MO2 Separator)**
 
@@ -27,13 +26,20 @@ This profile was made as more of a means of convenience for the user by activati
 - ySI - Patches
 - ySI - Categories
 
+# **Capital Punishment - Hardcore Profile - Medium**
+
+This is a graphically downgraded version of the **High Hardcore** profile to allow for better performance on lower end CPU's/systems.
+
+
+
+
 # **Capital Punishment - Casual Profile - High**
 
-This version of Capital Punishment removes all of the hardcore aspects included in the list, allowing for users to enjoy both the other gamplay & graphical changes without being impeded by the survival and difficulty changes. This list includes all original graphic affecting mods at the highest setting they were added to the list in.
+- This version of Capital Punishment removes all of the hardcore aspects included in the list, allowing for users to enjoy both the other gamplay & graphical changes without being impeded by the survival and difficulty changes. This list includes all original graphic affecting mods at the highest setting they were added to the list in.
+
+- For a consistently updated visual of our modlist/load order, you may also check out our load order library page [here](https://loadorderlibrary.com/lists/capital-punishment-casual-list)
 
 ## **Removed Mods (Organized by MO2 Separator)**
-
-For a consistently updated visual of our modlist/load order, you may also check out our load order library page [here](https://loadorderlibrary.com/lists/capital-punishment-casual-list)
 
 ### **Gameplay Changes - Weapons & Armor**
 - Alternative Repairing
