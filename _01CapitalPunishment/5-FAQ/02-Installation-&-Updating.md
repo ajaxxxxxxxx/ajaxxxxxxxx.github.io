@@ -41,7 +41,7 @@ If the file did not come with the Wabbajack installation, then it will be delete
 
 ## **4.) How do I show the In Game Keybind Interface?**
 
-We have removed Reshade from the list, but still provide the files to allow for users who wish to use it. You can follow our reshade guide [here]() to set this up or you can view our keybinds/controls page [here](https://www.modlists.net/01CapitalPunishment/4-Support/2-Controls-&-Tweaks/) 
+We have removed Reshade from the list, but still provide the files to allow for users who wish to use it. You can follow our reshade guide [here](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/2-Reshade-Installation/) to set this up or you can view our keybinds/controls page [here](https://www.modlists.net/01CapitalPunishment/4-Support/2-Controls-&-Tweaks/) 
 
 
 ## **5.) Where can I find an updated list of mods?**
