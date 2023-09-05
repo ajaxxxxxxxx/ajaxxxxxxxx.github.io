@@ -72,6 +72,19 @@ description: Official Installation Guide
 
 3.) You can now select "Capital Punishment TTW" from the right hand dropdown and press play
 
+## Switching to Casual or Another Profile
+
+- Depending on the experience/performance choices you would like to make when playing this list, you may want to select a different list.
+
+1.) In MO2, select the dropdown menu at the top. From there, choose the profile you would like to play.
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/ede43e0d-26b9-477b-bc05-cd628e66a7f3)
+
+2.) After doing that, press Run in MO2 with Capital Punishment TTW selected and the list you have chosen should boot up.
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/f5c647a2-f0ed-4e6e-933e-74320d85d4ea)
+
+
 ## Optional Post Installation Steps
 
 - You can choose to delete the contents of the `Capital Punishment/Downloads` folder to free up space, but when you update you will have to fully reinstall everything again.
