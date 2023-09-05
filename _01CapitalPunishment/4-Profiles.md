@@ -40,7 +40,7 @@ description: Descriptions of Each Profile
 
 # **Capital Punishment - Hardcore Profile - Low**
 
-- This is a graphically downgraded version of the **High Hardcore** profile to allow for better performance on lower end CPU's/systems.
+- This is a further downgraded version of the **High/Medium Hardcore** profiles to allow for better performance on lower end CPU's/systems.
 - While there isn't a load order library available for this, you may use the [Hardcore LOL](https://loadorderlibrary.com/lists/capital-punishment-1122) to replace yours if MO2 ever reorganizes your load order.
 
 ## **Added (Organized by MO2 Separator)**
