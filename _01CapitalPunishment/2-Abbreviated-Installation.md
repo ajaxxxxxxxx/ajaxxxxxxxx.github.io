@@ -84,6 +84,8 @@ description: Official Installation Guide
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/f5c647a2-f0ed-4e6e-933e-74320d85d4ea)
 
+- For a list of what each profile does/is about, you can check out our profiles page [here](https://www.modlists.net/01CapitalPunishment/4-Profiles/)
+
 
 ## Optional Post Installation Steps
 
