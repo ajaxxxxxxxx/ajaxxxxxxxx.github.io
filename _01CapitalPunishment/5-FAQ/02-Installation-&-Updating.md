@@ -21,7 +21,7 @@ Due to the jankiness of New Vegas and the variety of conflicts introducing new m
 
 If the file did not come with the Wabbajack installation, then it will be deleted on the next update
 
-> The main file is Tale of Two Wastelands.7zip. Make sure to follow our[UPDATING GUIDE](https://github.com/TheMrNewVegas/TTWTrueVegas/wiki/Updating) to ensure when you update, it doesn't delete out of your mods/downloads folders.
+> The main file is Tale of Two Wastelands.7zip. Make sure to follow our [UPDATING GUIDE](https://www.modlists.net/01CapitalPunishment/4-Support/3-Updating/) to ensure when you update, it doesn't delete out of your mods/downloads folders.
 
 ## **3.) I Cannot Launch My Game/I am Getting Cannot Read Arguments**
 
