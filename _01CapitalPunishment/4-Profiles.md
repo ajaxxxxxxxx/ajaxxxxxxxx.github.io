@@ -8,7 +8,6 @@ description: Descriptions of Each Profile
 # **Capital Punishment - Hardcore Profile - High**
 
 - This is the original Capital Punishment profile and how the list was originally intended to be played. This includes all original graphic affecting mods at the highest setting they were added to the list in as well as all original hardcore mods.
-
 - For a consistently updated visual of our modlist/load order, you may also check out our load order library page [here](https://loadorderlibrary.com/lists/capital-punishment-1122)
 
 # **Capital Punishment - Hardcore Profile - Controller - High**
@@ -28,15 +27,33 @@ description: Descriptions of Each Profile
 
 # **Capital Punishment - Hardcore Profile - Medium**
 
-This is a graphically downgraded version of the **High Hardcore** profile to allow for better performance on lower end CPU's/systems.
+- This is a graphically downgraded version of the **High Hardcore** profile to allow for better performance on lower end CPU's/systems.
+- While there isn't a load order library available for this, you may use the [Hardcore LOL](https://loadorderlibrary.com/lists/capital-punishment-1122) to replace yours if MO2 ever reorganizes your load order.
 
+## **Added (Organized by MO2 Separator)**
+
+
+
+## **Removed (Organized by MO2 Separator)**
+
+
+
+# **Capital Punishment - Hardcore Profile - Low**
+
+- This is a graphically downgraded version of the **High Hardcore** profile to allow for better performance on lower end CPU's/systems.
+- While there isn't a load order library available for this, you may use the [Hardcore LOL](https://loadorderlibrary.com/lists/capital-punishment-1122) to replace yours if MO2 ever reorganizes your load order.
+
+## **Added (Organized by MO2 Separator)**
+
+
+
+## **Removed (Organized by MO2 Separator)**
 
 
 
 # **Capital Punishment - Casual Profile - High**
 
 - This version of Capital Punishment removes all of the hardcore aspects included in the list, allowing for users to enjoy both the other gamplay & graphical changes without being impeded by the survival and difficulty changes. This list includes all original graphic affecting mods at the highest setting they were added to the list in.
-
 - For a consistently updated visual of our modlist/load order, you may also check out our load order library page [here](https://loadorderlibrary.com/lists/capital-punishment-casual-list)
 
 ## **Removed Mods (Organized by MO2 Separator)**
