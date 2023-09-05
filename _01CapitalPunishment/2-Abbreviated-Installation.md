@@ -76,7 +76,7 @@ description: Official Installation Guide
 
 - You can choose to delete the contents of the `Capital Punishment/Downloads` folder to free up space, but when you update you will have to fully reinstall everything again.
 - [NVR Installation](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/1-NVR-Installation/)
-- [DXVK w/ Reshade Installation](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/2-DXVK-Installation/)
+- [Reshade Installation](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/2-Reshade-Installation/)
 - [Performance Tweaks](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/3-Performance-Tweaks/)
 - [Optional Mods](https://www.modlists.net/01CapitalPunishment/6-InstallGuide/4-OptionalMods/)
 
