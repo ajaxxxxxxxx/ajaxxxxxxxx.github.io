@@ -68,7 +68,7 @@ description: How to Install Reshade
 ## **Uninstall Guide**
 
 - Rerun the Reshade Executable
-- Select the same path you selected when installing reshade (Capital Punishment/Stock Game/FalloutNV.exe). Press next
+- Select the same path you selected when installing reshade (`Capital Punishment/Stock Game/FalloutNV.exe`). Press next
 - When prompted, select the Uninstall tick bubble. Press next
 - Reshade and its components should now be completely uninstalled 
   
