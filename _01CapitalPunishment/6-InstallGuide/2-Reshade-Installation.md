@@ -11,7 +11,7 @@ description: How to Install Reshade
 
 - ReShade is a generic post-processing injector for games and video software developed by crosire. Think of it as a filter that goes over the top of your game's visuals allowing for ambient occlusion, real depth of field effects, color correction, and a lot more
 
-## **Why is this no longer included with Capital Punishment?
+## **Why is this no longer included with Capital Punishment?**
 
 - After many reports of out of memory errors, performance issues, et cetera, we decided we would leave it up to the users to make the decision whether or not they wanted to use reshade
 
@@ -65,3 +65,10 @@ description: How to Install Reshade
 
 - You may now press Home to close the Reshade menu when you are done. You have now completed the installation and should have the ability for some better visuals alongside our controller presets!
 
+## **Uninstall Guide**
+
+- Rerun the Reshade Executable
+- Select the same path you selected when installing reshade (Capital Punishment/Stock Game/FalloutNV.exe). Press next
+- When prompted, select the Uninstall tick bubble. Press next
+- Reshade and its components should now be completely uninstalled 
+  
