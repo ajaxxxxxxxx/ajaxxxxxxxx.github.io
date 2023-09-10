@@ -16,17 +16,21 @@ description: Abyssal Installation Guide
 - Make a file called StarfieldCustom.ini inside the afforementioned directory
 - Inside, paste this verbatim
 
-`[Archive]
+```
+[Archive]
 bInvalidateOlderFiles=1
-sResourceDataDirsFinal=`
+sResourceDataDirsFinal=
+```
 
 4.) Also want to change your FOV? Here is how!
 
 - In your same StarfieldCustom.ini, input these values
 
-`[Camera]
+```
+[Camera]
 fFPWorldFOV=100.0000
-fTPWorldFOV=100.0000`
+fTPWorldFOV=100.0000
+```
 
 - You can change the above values to what you would like! Below are the vanilla values.
 
