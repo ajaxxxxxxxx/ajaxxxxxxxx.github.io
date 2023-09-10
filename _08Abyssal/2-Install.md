@@ -46,7 +46,7 @@ fTPWorldFOV=70.0000
 
 2.) Once these are all downloaded, go ahead and unzip them into their own folders and organize the folders at your discretion.
 
-### **Utilities**
+### **Root Folder Installs**
 
 - [Starfield Script Extender](https://www.nexusmods.com/starfield/mods/106)
 - [Baka Achievement Enabler](https://www.nexusmods.com/starfield/mods/658)
@@ -54,16 +54,16 @@ fTPWorldFOV=70.0000
 - [Upscaler Base Plugin](https://www.nexusmods.com/site/mods/502)
 - [Starfield Optimizations](https://www.nexusmods.com/starfield/mods/104)
 
-### **HUD**
+### **Data Folder Installs**
 
 - [BetterHUD](https://www.nexusmods.com/starfield/mods/214)
 - [StarUI Inventory](https://www.nexusmods.com/starfield/mods/773)
+- [Smooth Ship Reticle](https://www.nexusmods.com/starfield/mods/270)
 
-### **Visual Changes**
+### **Texture Folder Installs**
 
 - [Neutral LUT's](https://www.nexusmods.com/starfield/mods/323)
-- [Starfield FOV](https://www.nexusmods.com/starfield/mods/99)
-- [Smooth Ship Reticle](https://www.nexusmods.com/starfield/mods/270)
+
 
 ## **Part 3 - Root Folder Mod Installation**
 
@@ -89,8 +89,11 @@ fTPWorldFOV=70.0000
 - [Upscaler Base Link](https://www.nexusmods.com/site/mods/502)
 
 1.) Extract this mod to your root folder
+
 2.) Install the Upscaler Base plugin and place the PDPerfPlugin.dll into mods/UpscalerBasePlugin folder.
+
 3.) You need to download nvngx_dlss.dll or libxess.dll, and place them into mods/UpscalerBasePlugin folder. The file you choose is dependent on which Graphics Card you have. 
+
 - [DLSS - NVIDIA](https://www.techpowerup.com/download/nvidia-dlss-dll/)
 > Make sure to download the latest 2.x version if you are using the free version of this plugin as it does not support 3.x
 
@@ -100,8 +103,15 @@ fTPWorldFOV=70.0000
 
 4.) Press END in the game to open the menu for the upscaler, and you can select DLSS or XeSS.
 
-5.) You need to turn on FSR2 in the game's settings, cuz this mod replaces FSR2 with DLSS/XeSS.
+5.) You need to turn on FSR2 in the game's settings, this mod replaces FSR2 with DLSS/XeSS.
 
+### **4.) Starfield Performance Optimizations**
+
+- [Link](https://www.nexusmods.com/starfield/mods/104)
+
+1.) Choose the preset(s) you want when installing. If you want all of the presets, choose the All in One Pack
+
+2.) Extract the files to your root folder, overwriting the files it asks you to.
 
 ## **Part 4 - Data Folder Mod Installation**
 
