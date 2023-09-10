@@ -34,9 +34,11 @@ fTPWorldFOV=100.0000
 
 - You can change the above values to what you would like! Below are the vanilla values.
 
-`[Camera]
+```
+[Camera]
 fFPWorldFOV=85.0000
-fTPWorldFOV=70.0000`
+fTPWorldFOV=70.0000
+```
 
 ## **Part 2 - File Downloads**
 
