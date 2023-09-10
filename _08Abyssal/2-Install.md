@@ -73,7 +73,7 @@ fTPWorldFOV=70.0000
 
 ### **1.) Starfield Script Extender**
 
-[Link](https://www.nexusmods.com/starfield/mods/106)
+- [Link](https://www.nexusmods.com/starfield/mods/106)
 
 1.) Copy the dll and exe files in to your Starfield folder. 
 
@@ -81,12 +81,12 @@ fTPWorldFOV=70.0000
 
 ### **2.) Baka Achievement Enabler**
 
-[Link](https://www.nexusmods.com/starfield/mods/658)
+- [Link](https://www.nexusmods.com/starfield/mods/658)
 
 ### **3.) Starfield Upscaler & Upscaler Base Plugin**
 
-[Upscaler Link](https://www.nexusmods.com/starfield/mods/111)
-[Upscaler Base Link](https://www.nexusmods.com/site/mods/502)
+- [Upscaler Link](https://www.nexusmods.com/starfield/mods/111)
+- [Upscaler Base Link](https://www.nexusmods.com/site/mods/502)
 
 1.) Extract this mod to your root folder
 2.) Install the Upscaler Base plugin and place the PDPerfPlugin.dll into mods/UpscalerBasePlugin folder.
