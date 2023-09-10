@@ -65,7 +65,7 @@ fTPWorldFOV=70.0000
 - [Neutral LUT's](https://www.nexusmods.com/starfield/mods/323)
 
 
-## **Part 3 - Root Folder Mod Installation**
+## **Part 3 - Root Folder Installs**
 
 - All of these mods will be downloaded to the ROOT Starfield folder. This is commonly found at `C:\Program Files\Steam\SteamApps\common\Starfield\`
 - If no special instructions are given, all the files given by these mods will be placed into the root folder
@@ -113,6 +113,14 @@ fTPWorldFOV=70.0000
 
 2.) Extract the files to your root folder, overwriting the files it asks you to.
 
-## **Part 4 - Data Folder Mod Installation**
+## **Part 4 - Data Folder Installs**
 
+- All of these mods will be downloaded to the ROOT Starfield folder. This is commonly found at `C:\Program Files\Steam\SteamApps\common\Starfield\Data`
+- If no special instructions are given, all the files given by these mods will be placed into or overwrite the Data folder
+- DO NOT put the folders/zip archives into the root folder, but the files inside those folders
 
+### 1.) **StarUI - Inventory**
+
+- [Link](https://www.nexusmods.com/starfield/mods/773)
+
+1.) Copy the interface folder and paste it inside of your data folder
