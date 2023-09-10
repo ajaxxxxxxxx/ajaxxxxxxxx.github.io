@@ -148,3 +148,8 @@ fTPWorldFOV=70.0000
 - [Link](https://www.nexusmods.com/starfield/mods/323)
 
 1.) Overwrite the textures folder with the one provided by the mod
+
+## **Part 6 - Running the Game**
+
+- Now that you have finished the installation of all mods within this list, you are good to go!
+- Make sure that when you run the game, you are running it from the sfse_loader.exe. If you dont do this, then some of this mods will not function properly.
