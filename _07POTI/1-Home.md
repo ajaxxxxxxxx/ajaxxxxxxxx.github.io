@@ -32,4 +32,4 @@ OpenMW is a free and open-source game engine recreation that reimplements the on
 
 ## DO NOT ASK THE OPENMW OR OTHER DISCORDS FOR HELP
 
-Please source all help to our discord alone. Even if you think that your question relates to your installation of Tale of Two Wastelands itself, please bring it into our discord.
+Please source all help to our discord alone. Even if you think that your question relates to your installation of OpenMW itself, please bring it into our discord.
