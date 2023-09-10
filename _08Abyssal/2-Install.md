@@ -5,6 +5,10 @@ nav_order: 2
 description: Abyssal Installation Guide
 ---
 
+## **Requirements**
+- A Steam Copy of Starfield
+- 2-3 GBs of Space (Not including your installation of Starfield)
+
 ## **Part 1 - Initial Setup**
 
 1.) Download the [StarfieldCustom.ini]() in our downloads section
