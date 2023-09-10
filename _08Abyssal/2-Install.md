@@ -47,8 +47,8 @@ sResourceDataDirsFinal=`
 - [Starfield FOV](https://www.nexusmods.com/starfield/mods/99)
 - [Smooth Ship Reticle](https://www.nexusmods.com/starfield/mods/270)
 
-### **Part 3 - Mod Installation**
+## **Part 3 - Mod Installation**
 
 - Below are all of the provided manual installation guides by the authors of said mods. Thank you to these authors for providing these guides!
 
-#### [Starfield Script Extender](https://www.nexusmods.com/starfield/mods/106)
+### [Starfield Script Extender](https://www.nexusmods.com/starfield/mods/106)
