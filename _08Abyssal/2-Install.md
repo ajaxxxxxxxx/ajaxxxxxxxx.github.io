@@ -124,3 +124,27 @@ fTPWorldFOV=70.0000
 - [Link](https://www.nexusmods.com/starfield/mods/773)
 
 1.) Copy the interface folder and paste it inside of your data folder
+
+### 2.) **BetterHUD**
+
+- [Link](https://www.nexusmods.com/starfield/mods/214)
+
+1.) Copy all files from inside this folder and paste within your data folder
+
+### 3.) **Smooth Ship Reticle**
+
+- [Link](https://www.nexusmods.com/starfield/mods/270)
+
+1.) Overwrite your data folder with the provided data folder from the mod
+
+## **Part 5 - Texture Folder Installs**
+
+- All of these mods will be downloaded to the TEXTURES Starfield folder. This is commonly found at `C:/Users/[User]/Documents/My Games/Starfield/Data/Textures`
+- If no special instructions are given, all the files given by these mods will be placed into or overwrite the textures folder.
+- DO NOT put the folders/zip archives into the root folder, but the files inside those folders
+
+### **Neutral LUT's - No Color Filters**
+
+- [Link](https://www.nexusmods.com/starfield/mods/323)
+
+1.) Overwrite the textures folder with the one provided by the mod
