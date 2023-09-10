@@ -67,20 +67,42 @@ fTPWorldFOV=70.0000
 
 ## **Part 3 - Root Folder Mod Installation**
 
+- All of these mods will be downloaded to the ROOT Starfield folder. This is commonly found at `C:\Program Files\Steam\SteamApps\common\Starfield\`
+- If no special instructions are given, all the files given by these mods will be placed into the root folder
+- DO NOT put the folders/zip archives into the root folder, but the files inside those folders
+
 ### **1.) Starfield Script Extender**
 
 [Link](https://www.nexusmods.com/starfield/mods/106)
 
-1.) Copy the dll and exe files in to your Starfield folder. This is usually C:\Program Files\Steam\SteamApps\common\Starfield\. Do not put it in your Data folder.
+1.) Copy the dll and exe files in to your Starfield folder. 
 
 2.) Ignore the src folder. It is there for programmers only.
-
-3.) Make sure Steam is running, then launch the game by running sfse_loader.exe.
 
 ### **2.) Baka Achievement Enabler**
 
 [Link](https://www.nexusmods.com/starfield/mods/658)
 
-1.) Download the main file and extract it into your game root folder (the folder containing Starfield.exe).
+### **3.) Starfield Upscaler & Upscaler Base Plugin**
 
-2.) Be sure to run the game with sfse_loader.exe from the Starfield Script Extender in order for the mod to load.
+[Upscaler Link](https://www.nexusmods.com/starfield/mods/111)
+[Upscaler Base Link](https://www.nexusmods.com/site/mods/502)
+
+1.) Extract this mod to your root folder
+2.) Install the Upscaler Base plugin and place the PDPerfPlugin.dll into mods/UpscalerBasePlugin folder.
+3.) You need to download nvngx_dlss.dll or libxess.dll, and place them into mods/UpscalerBasePlugin folder. The file you choose is dependent on which Graphics Card you have. 
+- [DLSS - NVIDIA](https://www.techpowerup.com/download/nvidia-dlss-dll/)
+> Make sure to download the latest 2.x version if you are using the free version of this plugin as it does not support 3.x
+
+- [FSR2 - AMD](https://github.com/PureDark/FidelityFX-FSR2/releases/)
+  
+- [XeSS - Intel](﻿https://raw.githubusercontent.com/intel/xess/main/bin/libxess.dll)
+
+4.) Press END in the game to open the menu for the upscaler, and you can select DLSS or XeSS.
+
+5.) You need to turn on FSR2 in the game's settings, cuz this mod replaces FSR2 with DLSS/XeSS.
+
+
+## **Part 4 - Data Folder Mod Installation**
+
+
