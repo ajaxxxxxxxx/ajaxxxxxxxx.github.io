@@ -11,7 +11,7 @@ description: Abyssal Installation Guide
 
 ## **Part 1 - Initial Setup**
 
-1.) Download the [StarfieldCustom.ini]() in our downloads section
+1.) Download one of the [StarfieldCustom.ini](https://www.nexusmods.com/starfield/mods/1817?tab=files) in our downloads section
 
 2.) Place this file in your `C:/Users/[User]/Documents/My Games/Starfield`
 
