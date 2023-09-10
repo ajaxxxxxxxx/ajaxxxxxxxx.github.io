@@ -61,7 +61,7 @@ fTPWorldFOV=70.0000`
 
 ## **Part 3 - Root Folder Mod Installation**
 
-### **Starfield Script Extender**
+### **1.) Starfield Script Extender**
 
 [Link](https://www.nexusmods.com/starfield/mods/106)
 
@@ -71,7 +71,7 @@ fTPWorldFOV=70.0000`
 
 3.) Make sure Steam is running, then launch the game by running sfse_loader.exe.
 
-### **Baka Achievement Enabler**
+### **2.) Baka Achievement Enabler**
 
 [Link](https://www.nexusmods.com/starfield/mods/658)
 
