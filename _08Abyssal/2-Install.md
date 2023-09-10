@@ -51,4 +51,6 @@ sResourceDataDirsFinal=`
 
 - Below are all of the provided manual installation guides by the authors of said mods. Thank you to these authors for providing these guides!
 
-### [Starfield Script Extender](https://www.nexusmods.com/starfield/mods/106)
+### Starfield Script Extender
+
+[Link](https://www.nexusmods.com/starfield/mods/106)
