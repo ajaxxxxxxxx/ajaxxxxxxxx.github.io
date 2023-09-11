@@ -45,7 +45,8 @@ fFPWorldFOV=85.0000
 fTPWorldFOV=70.0000
 ```
 
-## **Part 2 - File Downloads**
+![pt2](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/30fcb9c4-c4cd-4265-9671-c01455fc6c04)
+
 
 1.) To start, below is a list of the mods that you will need to **MANUALLY DOWNLOAD**. If you are a stickler for organization, I have provided a folder format below that may suit you for organizing these mods as you download them
 
