@@ -5,11 +5,12 @@ nav_order: 2
 description: Abyssal Installation Guide
 ---
 
-## **Requirements**
+![requirements](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/9be3cd97-d22d-4f60-abfa-204a9c17a413)
 - A Steam Copy of Starfield
 - 2-3 GBs of Space (Not including your installation of Starfield)
 
-## **Part 1 - Initial Setup**
+![pt1](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/f4d1e08a-5f7b-40d9-aa1b-b7154578413c)
+
 
 1.) Download one of the [StarfieldCustom.ini](https://www.nexusmods.com/starfield/mods/1817?tab=files) in our downloads section
 
