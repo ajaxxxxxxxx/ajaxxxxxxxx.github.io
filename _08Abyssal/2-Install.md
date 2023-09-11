@@ -71,7 +71,8 @@ fTPWorldFOV=70.0000
 - [Neutral LUT's](https://www.nexusmods.com/starfield/mods/323)
 
 
-## **Part 3 - Root Folder Installs**
+![Part3](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/385cb951-f01a-45be-836f-6124031da68e)
+
 
 - All of these mods will be downloaded to the ROOT Starfield folder. This is commonly found at `C:\Program Files\Steam\SteamApps\common\Starfield\`
 - If no special instructions are given, all the files given by these mods will be placed into the root folder
@@ -119,7 +120,7 @@ fTPWorldFOV=70.0000
 
 2.) Extract the files to your root folder, overwriting the files it asks you to.
 
-## **Part 4 - Data Folder Installs**
+![Part4](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/2caa8230-09a2-472d-b52c-87cabfb1adc6)
 
 - All of these mods will be downloaded to the ROOT Starfield folder. This is commonly found at `C:\Program Files\Steam\SteamApps\common\Starfield\Data`
 - If no special instructions are given, all the files given by these mods will be placed into or overwrite the Data folder
@@ -143,7 +144,7 @@ fTPWorldFOV=70.0000
 
 1.) Overwrite your data folder with the provided data folder from the mod
 
-## **Part 5 - Texture Folder Installs**
+![Part5](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/a7d17b33-cf73-4930-b4ee-f8c2bd349603)
 
 - All of these mods will be downloaded to the TEXTURES Starfield folder. This is commonly found at `C:/Users/[User]/Documents/My Games/Starfield/Data/Textures`
 - If no special instructions are given, all the files given by these mods will be placed into or overwrite the textures folder.
@@ -155,7 +156,7 @@ fTPWorldFOV=70.0000
 
 1.) Overwrite the textures folder with the one provided by the mod
 
-## **Part 6 - Running the Game**
+![Part6](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/598c6056-3cd7-46ca-bbf3-778d82dcb0c3)
 
 - Now that you have finished the installation of all mods within this list, you are good to go!
 - Make sure that when you run the game, you are running it from the sfse_loader.exe. If you dont do this, then some of this mods will not function properly.
