@@ -6,6 +6,23 @@ description: Abyssal Release Notes
 ---
 # Releases (Newest to Oldest)
 
+## Release 0.0.1.1
+
+### Save Safe?: YES
+
+**Added**
+
+- [Starfield Frame Generation](https://www.nexusmods.com/starfield/mods/761?tab=posts)
+
+**Updated**
+
+**Removed**
+
+- Starfield Upscaler & Upscaler Base Plugin
+> Replaced with Frame Generation
+
+**Fixed**
+
 ## Release 0.0.1.0
 
 ### Save Safe?: YES
