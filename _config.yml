@@ -50,6 +50,9 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 nav_external_links:
   - title: Download Wabbajack
     url: https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: Modding Tutorials
+    url: https://github.com/TheMrNewVegas/moddingtutorials/wiki
     hide_icon: false # set to true to hide the external link icon - defaults to false    
 
 callouts_level: loud
