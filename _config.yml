@@ -106,7 +106,7 @@ collections:
   05DungeonsDaedra:
     permalink: "/:collection/:path/"
     output: true
-  06BoneVoyage:
+  06HOS:
     permalink: "/:collection/:path/"
     output: true
   07POTI:
@@ -135,7 +135,7 @@ just_the_docs:
    05DungeonsDaedra:
       name: Dungeons & Daedra - TESIV
       nav_fold: true 
-   06BoneVoyage:
+   06HOS:
       name: Halls of Sovngarde - SSE
       nav_fold: true
    07POTI:
