@@ -48,6 +48,9 @@ gh_edit_branch: "main" # the branch that your docs is served from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
 
 nav_external_links:
+  - title: Our Minecraft Servers
+    url: https://www.bonevoyagemc.com
+    hide_icon: false # set to true to hide the external link icon - defaults to false
   - title: Download Wabbajack
     url: https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe
     hide_icon: false # set to true to hide the external link icon - defaults to false
