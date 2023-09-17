@@ -12,10 +12,16 @@ This is a completely optional step and mainly intended for those who are experie
 
 # **[Wall's Performance Guide](https://wallsogb.github.io/FalloutNV-Performance-Guide/#RecommendedLimiters)**
 
-## **NVHR Causing Severe Lag**
-So while NVHR is an extremely useful tool, the most recent update has caused a few issues for some systems. With that in mind, we suggest two things.
+# **Installing NVHR**
+- If NVHR has worked for you in the past, hasn't caused multiple Out of Memory Errors, or running Capital Punishment with NVHR is causing major performance hits, this section may be for you
 
-### **1.) Downgrade to NVHR 3.2**
+1.) Manually download the latest NVHR from [here](https://www.nexusmods.com/newvegas/mods/69779?tab=files). Extract the zip file
+
+2.) Drag all of the contents of the extracted folder into your Capital Punishment/Stock Game Directory. You now have NVHR installed.
+
+### **Downgrade to NVHR 3.2**
+- This is an optional troubleshooting step. If you would like to try and downgrade to an earlier version of NVHR to see if this provides better results for you, then follow this tutorial.
+
 1.) Delete `d3dx9_38.dll` in `Capital Punishment/Stock Games`
 
 2.) Delete the `NVHR` folder located in `Capital Punishment/Stock Games/Data`
