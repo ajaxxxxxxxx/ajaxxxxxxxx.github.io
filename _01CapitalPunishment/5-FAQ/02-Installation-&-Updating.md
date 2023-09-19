@@ -52,7 +52,7 @@ We have removed Reshade from the list, but still provide the files to allow for 
 ## **6.) When I launch the game, it loads the black dialog box, but does not launch the game. How do I fix this?**
 This is likely due to preexisting INI's or other files being prevalent in your %USER$/My Games/FalloutNV folder. Delete these files, run your new vegas through steam once, then follow the steps below.
 
-### **The 2 Fixes**
+### **The 3 Fixes**
 
 **1.) The Primary Fix**
 - Step 1: Go to your Documents/My Games/FalloutNV and delete all of its contents
