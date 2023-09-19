@@ -52,7 +52,7 @@ We have removed Reshade from the list, but still provide the files to allow for 
 ## **6.) When I launch the game, it loads the black dialog box, but does not launch the game. How do I fix this?**
 This is likely due to preexisting INI's or other files being prevalent in your %USER$/My Games/FalloutNV folder. Delete these files, run your new vegas through steam once, then follow the steps below.
 
-### **The 4 Fixes**
+### **The 2 Fixes**
 
 **1.) The Primary Fix**
 - Step 1: Go to your Documents/My Games/FalloutNV and delete all of its contents
@@ -61,15 +61,7 @@ This is likely due to preexisting INI's or other files being prevalent in your %
 - Step 4: Try to launch Capital Punishment through MO2 again
 > The reason this is the primary fix is because most people are either not running with falloutprefs & fallout.ini generated or they are running files/older ini's that are conflicting with the list. 
 
-**2.) If the above does not apply/does not work try this (This should be fixed in 1.45)**
-
-- Step 1: Go to your Capital Punishment/Profiles/Casual_Punishment_Default folder
-
-- Step 2: Delete the included "Falloutprefs & Fallout.ini"
-
-- Step 3: Try to launch the game again 
-
-**3.) If neither of the above applies or works try this**
+**2.) If neither of the above applies or works try this**
 
 - Step 1: Run Tale of Two Wastelands through MO2.
 
@@ -79,9 +71,9 @@ This is likely due to preexisting INI's or other files being prevalent in your %
 
 - Step 4: A popup will appear asking if you would like to "Clear the Read Only Flag" choose the first option stating "Clear the Read Only Flag"
 
-**4.) If you are running a version below 1.45 then follow this**
+**3.) Deleting and reinstalling**
 
-- Step 1: Delete CPUinfo.exe, D3dx9_38.tmp, NVHR Folder, and d3dx9_38.dll from your Capital Punishment/Stock Game Folder
+- Step 1: Delete CPUinfo.exe, D3dx9_38.tmp, and d3dx9_38.dll from your Capital Punishment/Stock Game Folder and the NVHR folder from Capital Punishment/Stock Game/Data
 
 - Step 2: Manually download the latest NVHR from [here](https://www.nexusmods.com/newvegas/mods/69779?tab=files)
 
