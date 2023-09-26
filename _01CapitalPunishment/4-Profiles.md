@@ -25,7 +25,7 @@ description: Descriptions of Each Profile
 - ySI - Patches
 - ySI - Categories
 
-# **Capital Punishment - Hardcore Profile - Medium**
+# **Capital Punishment - Casual/Hardcore Profile - Medium**
 
 - This is a graphically downgraded version of the **High Hardcore** profile to allow for better performance on lower end CPU's/systems.
 - While there isn't a load order library available for this, you may use the [Hardcore LOL](https://loadorderlibrary.com/lists/capital-punishment-1122) to replace yours if MO2 ever reorganizes your load order.
@@ -83,7 +83,7 @@ description: Descriptions of Each Profile
 - Remastered Quarries – 2k
 - Lumen Ambient Lighting & TTW Addon
   
-# **Capital Punishment - Hardcore Profile - Low**
+# **Capital Punishment - Casual/Hardcore Profile - Low**
 
 - This is a further downgraded version of the **Medium Hardcore** profiles to allow for better performance on lower end CPU's/systems. All removals from the Medium profile are also applied to the low profile in addition.
 - While there isn't a load order library available for this, you may use the [Hardcore LOL](https://loadorderlibrary.com/lists/capital-punishment-1122) to replace yours if MO2 ever reorganizes your load order.
