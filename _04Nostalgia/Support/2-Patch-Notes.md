@@ -10,6 +10,65 @@ description: Patch Notes
 # **Releases (Newest to Oldest)**
 Visit our [Trello](https://www.modlists.net/01CapitalPunishment/2-Trello/) for more In Depth Development Logs
 
+## **Release 2.0** 
+_**Not Save safe**_
+
+### **Added**
+
+* Skill Practice ++
+
+* Decaying Ghouls
+
+* Subtle Sandstorms
+
+* Afterglow Neon
+
+* Arizona Redux
+
+* The World We Knew
+
+* Brave New World - Revoice Only
+
+* The Haunted Casino
+
+* Based Beverages
+
+* Character Kit Remake
+
+* Nefarious Nipton
+
+* Open Camp Mccarran
+
+* Mojave Vagabond
+
+* Classic Goris
+
+* Fabulous New Vegas
+
+* Map Marker Icons
+
+* Weapon Hotkey Icons
+
+* Caravan Guard Remastered
+
+* Real Recoil Re-Calculated
+
+* Radiant Infinium
+
+* Feral Ghouls Play Dead
+
+### **Fixed**
+
+### **Updated**
+
+*Titans of the New West
+
+### **Removed**
+
+* Brave New World
+
+* Whatever the face mod I had on was I forget (Sorry it's been a while)
+
 
 ## **Release 1.1.3** 
 _**Save safe**_
