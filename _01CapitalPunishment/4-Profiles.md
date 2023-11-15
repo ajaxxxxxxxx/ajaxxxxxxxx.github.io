@@ -5,6 +5,8 @@ nav_order: 4
 description: Descriptions of Each Profile
 ---
 
+# Last Updated - 11/14/2023 for Release 1.5.3.0
+
 # **Capital Punishment - Hardcore Profile - High**
 
 - This is the original Capital Punishment profile and how the list was originally intended to be played. This includes all original graphic affecting mods at the highest setting they were added to the list in as well as all original hardcore mods.
