@@ -88,30 +88,12 @@ description: Descriptions of Each Profile
 ## **Removed Mods (Organized by MO2 Separator)**
 
 ### **Gameplay Changes - Weapons & Armor**
-- Alternative Repairing
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/ee9e0708-c962-4c0d-b565-a46a8770c5ac)
 
 ### **Gameplay Changes - Player**
-- AVladimir1994's Custom Messages for TTW
-- SawyerBatty TTW
-- Sweets Simple Settings
-- Armor Damage Overhaul
-
-### **Gameplay Changes - Narrative & Worldspace**
-- Ambient Temperature
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/384e049a-1157-470c-8507-5be48f7aeba4)
 
 ### **Gameplay Changes - Hardcore Effects**
-- Hardcore Forever
-- Harder New Vegas Strip Access
-- Progresive Hardcore Needs
-- Simple Diseases
-- Radiation is Actually Dangerous
-- ROOG TTW
-- SawyerbattyROOGTTW
-- Hardcore Perk Every Level
-- Simple Diseases & Immunoboosters Recipe for Simple Diseases
-- TTW Hardcore Zeta
-- TTW Mothership Zeta Rehaul - Hardcore Zeta & Delay DLC Redux Patch
-- Wash Yourself - A Bathing Mod
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/710b65e3-1dd2-4709-8eb6-2da550eac9c5)
 
-### **Weather**
-- Heatstroke 
+
