@@ -57,83 +57,28 @@ description: Descriptions of Each Profile
 - This is a further downgraded version of the **Medium Hardcore** profiles to allow for better performance on lower end CPU's/systems. All removals from the Medium profile are also applied to the low profile in addition.
 - While there isn't a load order library available for this, you may use the [Hardcore LOL](https://loadorderlibrary.com/lists/capital-punishment-1122) to replace yours if MO2 ever reorganizes your load order.
 
-## **Added (Organized by MO2 Separator)**
+## **Added & Removed (Organized by MO2 Separator)**
 
 ### **Weapons & Armor Textures**
--  Weapon Textures from Heaven 1k
-  
-### **NPC & Creature Textures**
-- Its a Dogs World - Dog Texture Overhaul OPTIMIZED
-  
-### **General Item Textures**
-- Magazines of Unparalleled Aesthetic Quality 512
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/2527aa4c-1823-46bf-9675-d9b9f639e1c9)
 
-### **Worldspace & Large Texture Packs**
-- Legacy Reborn, Mojave Cliffs, & NMC’s Merge – Low
-- Remastered Quarries – 1k
-
-## **Removed (Organized by MO2 Separator)**
-
-### **Weapons & Armor Textures**
-- Assorted Leather Armor Retexture
-- Enhanced Bullet Impacts
-- PM’s HD Ammo Boxes
-- PM’s HD Legion Overhaul
-- PM HD Ranger Outfits
-- EXE – Effect Textures Enhanced
-- Throwing Melee Weapon Retexture
-- ALL WAP MODS & PATCHES
-- LAER Retexture
-- Bullet Trails
-- DKS and Friends
-- Laser Rifle Rebirth
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/7733738e-f346-4339-8fe9-58904c99cf42)
 
 ### **NPC & Creature Textures**
-- Authentic Burned Man
-- Lakelurk High Quality Replacer
-- Rex 2k HD Retexture
-- The Molerat Extravaganza – Molerat Retextures
-- Its a Dogs World - Dog Texture Overhaul LARGE
-- Feral Ghoul Retexture by Koldorn
-- Glowing Cazadores and Retexture
-  
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/8d9a9386-a03e-4b98-bd61-5d7f6c6622ca)
+
 ### **General Item Textures**
-- Audley’s Misc Textures
-- Shiny Platinum Chip
-- High Res Vanilla Posters and Graffiti
-- HiRes Skill Books Retexture
-- Minimod – High Resolution Newspapers
-- Magazines of Unparalleled Aesthetic Quality 1k
-- HQ Metal Barrels
-- Quality Carts
-- Better Books – Fallout3NV
-- Physically Based Kitchenware
-- Fractal Crystals
-  
-### **Food & Aid Textures**
-- Physically Based Chems
-- Alcohol Bottles Overhaul – by zzjay
-- 6ixes Clutter Texture Pack NV Edition
-- High Res Vanilla Water Bottle Textures and Meshes
-  
-### **Other Textures**
-- Physically Based Parkware
-- F4NV Autodoc
-- Neglected Clutter & Other Things - Retex
-- Neglected Clutter & Other Things – ArchitectureFurniture
-- MGs Neat Clutter Retextures
-  
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/9c172ff2-26ee-4e04-bf69-e56336dd6491)
+
+## **Food & Aid Textures**
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/f0da5360-cf5e-4507-978a-e69c01e7f5e6)
+
+## **Other Textures**
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/0c4e03b4-381b-4c4e-93de-65282192dd10)
+
 ### **Worldspace & Large Texture Packs**
-- NV Translucency Overhaul
-- Legacy Reborn, Mojave Cliffs, & NMC’s Merge - High
-- Legacy Reborn, Mojave Cliffs, & NMC’s Merge – Medium
-- Taller DC TTW 3.3 Conversion
-- TTW DC Flora Overhaul
-- Nuts Natural Grass
-- Fallout 3 HD Overhaul & Its DLC Counterparts
-- Nut Water Overhaul
-- Lumen Ambient Lighting & TTW Addon
-- EVP 2.0, NVR Patch, & Real Unique Flame Weapons
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/3655bb0f-e90e-4e46-878e-a27d1384c708)
+
 
 # **Capital Punishment - Casual Profile - High**
 
