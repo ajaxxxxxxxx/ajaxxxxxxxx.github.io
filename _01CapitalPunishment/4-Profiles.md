@@ -30,7 +30,7 @@ description: Descriptions of Each Profile
 - This is a graphically downgraded version of the **High Hardcore** profile to allow for better performance on lower end CPU's/systems.
 - While there isn't a load order library available for this, you may use the [Hardcore LOL](https://loadorderlibrary.com/lists/capital-punishment-1122) to replace yours if MO2 ever reorganizes your load order.
 
-## **Added (Organized by MO2 Separator)**
+## **Added & Removed (Organized by MO2 Separator)**
 
 ### **Weapons & Armor Textures**
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/a20aadcb-74c8-4f78-8d36-c1d19ea54a49)
@@ -38,48 +38,19 @@ description: Descriptions of Each Profile
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/8ee0e76d-8864-44cc-a345-93fdda2a813a)
 
 ### **NPC & Creature Textures**
-- Its a Dogs World - Dog Texture Overhaul OPTIMIZED
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/6b0bad70-9897-4655-98a7-91c46b955d81)
 
-### **Worldspace & Large Texture Packs**
-- NV Translucency Overhaul Performance
-- Legacy Reborn, Mojave Cliffs, & NMC’s Merge - Medium
-- Remastered Quarries – 1k
-
-
-
-## **Removed (Organized by MO2 Separator)**
-
-### **Weapons & Armor Textures**
-- Assorted Leather Armor Retexture 2k
-- Weapon Textures from Heaven 2k
-- Enhanced Bullet Impacts
-- PM’s HD Ammo Boxes 2k1k
-- PM’s HD Legion Overhaul 2k
-- PM HD Ranger Outfits 2k
-- ALL WAP Mods & Patches
-- Bullet Trails
-    
-### **NPC & Creature Textures**
-- Lakelurk High Quality Replacer
-- Rex 2k HD Retexture
-- Its a Dogs World - Dog Texture Overhaul LARGE
-  
 ### **General Item Textures**
-- HiRes Skill Books Retexture
-- HQ Metal Barrels
-- Physically Based Kitchenware
-  
-### **Food & Aid Textures**
-- Physically Based Chems
-  
-### **Other Textures**
-- Physically Based Parkware
-  
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/b1c15d23-de5e-46e7-b496-865d46e3394c)
+
+## **Food & Aid Textures**
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/c353a4cc-63cd-4dd2-90ca-111856b4b7c5)
+
+## **Other Textures**
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/41132ec5-8e11-4dd0-940d-38797afa54bb)
+
 ### **Worldspace & Large Texture Packs**
-- NV Translucency Overhaul 2x Upscale
-- Legacy Reborn, Mojave Cliffs, & NMC’s Merge - High
-- Remastered Quarries – 2k
-- Lumen Ambient Lighting & TTW Addon
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/7384592a-95c7-4299-88e0-6ccbccc956dc)
   
 # **Capital Punishment - Casual/Hardcore Profile - Low**
 
