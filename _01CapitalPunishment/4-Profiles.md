@@ -33,11 +33,9 @@ description: Descriptions of Each Profile
 ## **Added (Organized by MO2 Separator)**
 
 ### **Weapons & Armor Textures**
--  Assorted Leather Armor Retexture 1k
-- Weapon Textures from Heaven 1k
-- PM’s HD Ammo Boxes 1k512
-- PM’s HD Legion Overhaul 1k
-- PM HD Ranger Outfits 1k
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/a20aadcb-74c8-4f78-8d36-c1d19ea54a49)
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/8ee0e76d-8864-44cc-a345-93fdda2a813a)
 
 ### **NPC & Creature Textures**
 - Its a Dogs World - Dog Texture Overhaul OPTIMIZED
