@@ -9,7 +9,7 @@ description: First Things to Read Into
 
 ### **READ BEFORE CONTINUING:**
 
-1.) Please do not bother any mod authors with troubleshooting questions regarding this mod list. Even if you think your question pertains to the mod itself, please ask in our [Discord](https://discord.gg/Mu3RQbzxyz).
+1.) Please do not bother any mod authors with troubleshooting questions regarding this mod list. Even if you think your question pertains to the mod itself, please ask in our [Discord](https://discord.gg/boneyard-creations-415287319982112768).
 
 2.) You MUST follow this guide in the order given and word for word. If you do not you will experience issues. Please read through it at least once prior to install
 
