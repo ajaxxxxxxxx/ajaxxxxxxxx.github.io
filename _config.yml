@@ -115,9 +115,6 @@ collections:
   07POTI:
     permalink: "/:collection/:path/"
     output: true
-  08Abyssal:
-    permalink: "/:collection/:path/"
-    output: true   
     
   
      
@@ -144,8 +141,6 @@ just_the_docs:
    07POTI:
       name: POTI - OpenMW
       nav_fold: true  
-   08Abyssal:
-      name: Abyssal - Starfield
-      nav_fold: true    
+
   
       
