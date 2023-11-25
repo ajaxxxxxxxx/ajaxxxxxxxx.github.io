@@ -5,19 +5,7 @@ nav_order: 1
 description: Halls of Sovngarde
 ---
 
-# **PLEASE READ BEFORE INSTALLING**
-
-1.) Follow our Installation Guide to avoid any installation issues
-
-2.) If you do run into issues come visit us at our Discord
-
-3.) DO NOT bother the Requiem mod team about troubleshooting issues. Even if you think your issue is due to Requiem or another mod, we handle all of our support internally﻿ and other discords will likely either turn you to us or disregard your help question entirely.
-
-4.) We do not handle support in the comment section here. Again, visit our Discord or Help Pages above for support
-
-# Welcome to the Halls of Sovngarde Nexus Page
-
-This page will serve as a repository for our most recent Wabbajack file releases. If you've played one of our lists before then welcome back, if not then I hope we can get you to stick around and try it out! As a side note this list is in no way lightweight, a modifiable framework, or a stability list. That being said we have utilized a plethora of resources including Lively's Learn to Mod, the Lux discord, and many others to create this curated experience and make it as stable/balanced as possible.
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/bb21da8e-1aa2-4cfe-9dc1-ae077264b543)
 
 ## What is Halls of Sovngarde?
 
