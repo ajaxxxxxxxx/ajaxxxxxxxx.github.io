@@ -31,7 +31,9 @@ This list is not a hardcore list, however certain elements such as thirst, sleep
 
 A large problem with Skyrim, modded or not, is that it is party to a host of issues. Without boring you all with the details, I will mention again that this list was made with resources such as Learn to Mod & the Lux discord. Further additions past that have or are currently being tested/vetted for any issues they may present in this ongoing project and at this point, many already have.
 
-### Disclaimer to the Above: As for performance improvements, most of the testing that was done was done on a mid-end PC and performance was very manageable in most areas, with only large cities providing any issues. However, performance may very and further steps will be taken if possible to improve this.
+### Disclaimer to the Above: 
+
+As for performance improvements, most of the testing that was done was done on a mid-end PC and performance was very manageable in most areas, with only large cities providing any issues. However, performance may very and further steps will be taken if possible to improve this.
 
 ## And Much More!
 
