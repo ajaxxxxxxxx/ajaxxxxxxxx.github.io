@@ -10,6 +10,8 @@ description: Halls of Sovngarde Installation Guide
 - ~200GB of space, 98GB from downloads can be deleted after installation is complete 
 - A legal copy of Skyrim SE from steam updated to the most recent version
 
+# **Part 1: Installation Guide**
+
 ### 1) Install a fresh copy of Skyrim SE
 
 - If a copy has already been installed the game can be uninstalled, ini's deleted in User/Documents/My Games/Skyrim Special Edition, and then reinstalled like normal through steam
@@ -29,3 +31,21 @@ description: Halls of Sovngarde Installation Guide
 ### 7) At the top left of MO2, go to Tools/Settings/Paths/Managed Game. Make sure that this is set to your Halls of Sovngarde folder & not your Vanilla Skyrim (IE: C:/HoS/Stock Game/SkyrimSE.exe)
 
 ### 8) You can now select “Halls of Sovngarde” from the right hand dropdown and press play
+
+# **Part 2: In Game Guide (Beta Release Only)**
+
+### 1.) When you have loaded into your save, press enter and select preset or go into Skyrim Unbound MCM and customize character. Choose to stay in starting area, don't continue.
+
+### 2.) Let scripts finish running
+
+### 3.) Go into and exit inventory to start Requiem install and distribute 3 perks
+
+### 4.) Go into mcm recorder mcm and play HoS recording
+
+### 5.) Select yes on any prompts
+
+### 6.) press backspace to go into IED menu, each section has a corresponding HoS preset, with an additional one for the horserace (don't apply to humans)
+
+### 7.) Select NAT settings spell and turn off all graphical options
+
+### 8.) Press enter and select continue
