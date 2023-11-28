@@ -1,4 +1,4 @@
-[---
+[[---
 layout: default
 title: Release Notes
 nav_order: 3
@@ -50,4 +50,5 @@ description: Release Notes
 </zero-md>
 
 </div>
+](https://raw.githubusercontent.com/CamIce2002/HallsofSovngarde/main/README.md)https://raw.githubusercontent.com/CamIce2002/HallsofSovngarde/main/README.md
 ](https://raw.githubusercontent.com/CamIce2002/HallsofSovngarde/main/README.md)https://raw.githubusercontent.com/CamIce2002/HallsofSovngarde/main/README.md
