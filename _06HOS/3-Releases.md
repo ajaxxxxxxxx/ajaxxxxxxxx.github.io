@@ -1,4 +1,4 @@
----
+[---
 layout: default
 title: Release Notes
 nav_order: 3
@@ -14,7 +14,7 @@ description: Release Notes
 <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
 
 <!-- Simply set the `src` attribute to your MD file and win -->
-<zero-md src="[https://raw.githubusercontent.com/TheMrNewVegas/TTWTrueVegas/main/Releases.md](https://raw.githubusercontent.com/CamIce2002/HallsofSovngarde/main/README.md)">
+<zero-md src="https://raw.githubusercontent.com/CamIce2002/HallsofSovngarde/main/README.md">
   <template>
     <!-- Define your own styles inside a `<style>` tag -->
     <style>
@@ -50,3 +50,4 @@ description: Release Notes
 </zero-md>
 
 </div>
+](https://raw.githubusercontent.com/CamIce2002/HallsofSovngarde/main/README.md)https://raw.githubusercontent.com/CamIce2002/HallsofSovngarde/main/README.md
