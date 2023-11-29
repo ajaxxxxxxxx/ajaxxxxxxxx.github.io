@@ -22,7 +22,7 @@ sidebar_position: 2
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/a761bfd8-a781-4d9d-824e-9e0e424e4e18)
 
-- Run the Reshade Setup Exe that is downloaded. When it opens, browse for your Capital Punishment/Stock Game and select your FalloutNV.exe. Open this file, then select next.
+- Run the Reshade Setup Exe that is downloaded. When it opens, browse for your Fallout New Vegas installation and select your FalloutNV.exe. Open this file, then select next.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/de8a135e-ff14-48d6-9ee6-59994183ced4)
 
@@ -36,15 +36,15 @@ sidebar_position: 2
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/33430c22-3ddb-47d5-9a56-8260c4c443dc)
 
-- Now go to your `Capital Punishment/Stock Game/reshade-shaders/Textures` folder. Paste the files you just copied into this folder and replace the files in the destination.
+- Now go to your `Fallout New Vegas/reshade-shaders/Textures` folder. Paste the files you just copied into this folder and replace the files in the destination.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/ed740f3a-f542-4663-898a-686e5558007f)
 
-- Go to your `Capital Punishment/Game Folder Files/Reshade Files (FOLLOW INSTALL GUIDE)/Presets (Place these in the Stock Game Folder)` folder. Copy all of the files in here.
+- Go to your `Capital Punishment/Game Folder Files/Reshade Files (FOLLOW INSTALL GUIDE)/Presets (Place these in your Fallout New Vegas Folder)` folder. Copy all of the files in here.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/57f31737-ff6e-448a-90e7-6c61a7e5f511)
 
-- Paste these files into `Capital Punishment/Stock Game` folder
+- Paste these files into your `Fallout New Vegas` folder
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/b7c3be43-000b-4e3e-9962-ad1be19ac69d)
 
@@ -65,7 +65,7 @@ sidebar_position: 2
 ## **Uninstall Guide**
 
 - Rerun the Reshade Executable
-- Select the same path you selected when installing reshade (`Capital Punishment/Stock Game/FalloutNV.exe`). Press next
+- Select the same path you selected when installing reshade (`Fallout New Vegas/FalloutNV.exe`). Press next
 - When prompted, select the Uninstall tick bubble. Press next
 - Reshade and its components should now be completely uninstalled 
 :::
