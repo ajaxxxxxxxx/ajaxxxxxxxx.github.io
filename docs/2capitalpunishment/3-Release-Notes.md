@@ -6,7 +6,7 @@ sidebar_position: 3
 
 ### (Newest to Oldest)
 
-## Release 1.5.3.0 [UNRELEASED]
+## Release 1.5.3.0
 
 ### Save Safe?: NO
 
