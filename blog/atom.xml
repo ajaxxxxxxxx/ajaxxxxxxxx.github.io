@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://themrnewvegas.github.io/blog</id>
+    <title>Boneyard Creations Blog</title>
+    <updated>2023-11-28T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://themrnewvegas.github.io/blog"/>
+    <subtitle>Boneyard Creations Blog</subtitle>
+    <icon>https://themrnewvegas.github.io/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://themrnewvegas.github.io/blog/welcome</id>
+        <link href="https://themrnewvegas.github.io/blog/welcome"/>
+        <updated>2023-11-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Just like our discord announcements, this will be a place where we will update you all when it comes down to modlist developments, releases, server updates, and much more. If you haven't yet, take a look around at our new wiki pages and home screen. We look forward to hearing from you guys on this new website change!]]></summary>
+        <content type="html"><![CDATA[<p>Just like our discord announcements, this will be a place where we will update you all when it comes down to modlist developments, releases, server updates, and much more. If you haven't yet, take a look around at our new wiki pages and home screen. We look forward to hearing from you guys on this new website change!</p>]]></content>
+        <author>
+            <name>TheMrNewVegas</name>
+            <uri>https://www.patreon.com/Themrnewvegas</uri>
+        </author>
+        <category label="general" term="general"/>
+        <category label="welcome" term="welcome"/>
+    </entry>
+</feed>
