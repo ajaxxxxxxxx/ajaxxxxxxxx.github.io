@@ -27,7 +27,7 @@ This does not go without saying that none of this would be possible without the 
 
 ![image](https://user-images.githubusercontent.com/112358568/210427354-a304fc08-f74e-47fe-ad71-736bfa93e8e9.png)
 
-### **Lead Developer:** [McTiddies4Lunch](https://linxx.app/McTiddies)
+### **Lead Developer:** [McTiddies4Lunch](https://linktr.ee/mctiddies)
 - The head of our Development team, Tiddies is second to TheMrNewVegas in leading developmental changes to the modpack while also delegating development tasks to other developers. In addition he is the creator of Nostalgia & the soon to come Lost Runes modlists.
 
 ![image](https://user-images.githubusercontent.com/112358568/210428921-904333d6-8ead-4a71-9762-8ee4a26bb83c.png)
