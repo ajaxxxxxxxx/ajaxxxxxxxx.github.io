@@ -4,7 +4,7 @@ sidebar_position: 1
 # Boneyard Creations Wiki
 
 ### Welcome to the Boneyard Creations Wiki!
-
+test
 ![bannerl2rv2](https://user-images.githubusercontent.com/112358568/227137823-9d40c675-4193-4547-a7f5-e4dc66423c50.png)
 
 This wiki encompasses the information regarding all modlists developed by members of the Boneyard Creations Staff Team. Our original list, Capital Punishment, has received much criticism and praise, both fair and unfair. From it all, we have taken both the fair criticism and praise to heart and have improved upon our previous attempts. Over months of trial, error, and learning, we have made Capital Punishment into something we are proud of and that we feel is a stable and new experience for the budding masochist and new player alike. With this newfound knowledge, we have decided to branch into different titles, using our combined strengths to try and make the most enjoyable modified gameplay experiences possible.
