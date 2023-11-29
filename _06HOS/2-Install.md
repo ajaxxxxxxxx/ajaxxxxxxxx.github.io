@@ -56,9 +56,7 @@ description: Halls of Sovngarde Installation Guide
 
 ### 4.) Go into mcm recorder mcm and play HoS recording
 
-### 5.) Select yes on any prompts
-
-### 6.) press backspace to go into IED menu, each section has a corresponding HoS preset, with an additional one for the horserace (don't apply to humans)
+### 5.) press backspace to go into IED menu, each section has a corresponding HoS preset, with an additional one for the horserace (don't apply to humans)
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/216681f4-f46e-4902-b644-364615982e51)
 
@@ -76,6 +74,4 @@ description: Halls of Sovngarde Installation Guide
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/257e743f-74ed-4630-a6ec-08d0987023fc)
 
-### 7.) Select NAT settings spell and turn off all graphical options
-
-### 8.) Press enter and select continue
+### 6.) Press enter and select continue
