@@ -14,14 +14,14 @@ This is a completely optional step and mainly intended for those who are experie
 
 1.) Manually download the latest NVHR from [here](https://www.nexusmods.com/newvegas/mods/69779?tab=files). Extract the zip file
 
-2.) Drag all of the contents of the extracted folder into your Capital Punishment/Stock Game Directory. You now have NVHR installed.
+2.) Drag all of the contents of the extracted folder into your Fallout New Vegas Directory. You now have NVHR installed.
 
 ### **Downgrade to NVHR 3.2**
 - This is an optional troubleshooting step. If you would like to try and downgrade to an earlier version of NVHR to see if this provides better results for you, then follow this tutorial.
 
-1.) Delete `d3dx9_38.dll` in `Capital Punishment/Stock Games`
+1.) Delete `d3dx9_38.dll` in your Fallout New Vegas Directory
 
-2.) Delete the `NVHR` folder located in `Capital Punishment/Stock Games/Data`
+2.) Delete the `NVHR` folder located in `Fallout New Vegas/Data`
 
 3.) Manually Download NVHR 3.2 [Here](https://www.nexusmods.com/newvegas/mods/69779?tab=files&file_id=1000076606)
 
@@ -29,6 +29,6 @@ This is a completely optional step and mainly intended for those who are experie
 
 ![image](https://user-images.githubusercontent.com/112358568/227371787-e6b23743-76de-4e20-bda5-ec65dd3f5ac3.png)
 
-5.) Go to the folder it told you to in `CPU_info.exe`, copy and paste the d3dx9_38.dll from there into your `Capital Punishment/Stock Games` directory
+5.) Go to the folder it told you to in `CPU_info.exe`, copy and paste the d3dx9_38.dll from there into your Fallout New Vegas directory
 
 6.) You may optionally put the d3dx9_38.tmp into the same directory above if you would like to see the black windows terminal. Helps to give you confirmation that it is loading up/other mods are loading correctly.
