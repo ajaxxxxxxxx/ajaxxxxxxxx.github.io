@@ -49,7 +49,9 @@ sidebar_position: 2
 
 4.) When Wabbajack successfully completes installing the modlist, drag this 7zip into your `Capital Punishment/Downloads` directory. Go back to your main `Capital Punishment directory`, then open up `Mod Organizer 2`
 
-5.) On the right hand side, sort by Filetime until you see your `[NoDelete] Tale of Two Wastelands.7z` at the top. Drag and drop this to the top of the lefthand separator `PUT TALE OF TWO WASTELANDS HERE`
+5.) For each profile you open, a dialog box will popup regarding the read only flag. **ALWAYS** select 'Clear the Read Only Flag'
+
+6.) On the right hand side, sort by Filetime until you see your `[NoDelete] Tale of Two Wastelands.7z` at the top. Drag and drop this to the top of the lefthand separator `PUT TALE OF TWO WASTELANDS HERE`
 
 ## Preconfigured Save Setup (RECOMMENDED BUT OPTIONAL)
 
@@ -72,7 +74,7 @@ sidebar_position: 2
 
 > This will not override your New Vegas installation; We now use Root Builder which allows us
 
-3.) Go to the dropdown menu at the top right of MO2 and select "Explore Virtual Folder". From this menu, find and double click `FNVpatch.exe`. Then close the dialog box that pops up.
+3.) Go to the dropdown menu at the top right of MO2 and select "Explore Virtual Folder". From this menu, find and double click `FNVpatch.exe`. Then close the dialog box that pops up as well as the virtual folder.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/46fd1a50-c21b-4f8b-89b7-15bdd4aa2d75)
 
