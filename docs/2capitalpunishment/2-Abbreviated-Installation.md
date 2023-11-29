@@ -72,7 +72,7 @@ sidebar_position: 2
 
 > This will not override your New Vegas installation; We now use Root Builder which allows us
 
-3.) Go to the dropdown menu at the top right of MO2 and select "Explore Virtual Folder". From this menu, find and double click 'FNVpatch.exe". Then close the dialog box that pops up.
+3.) Go to the dropdown menu at the top right of MO2 and select "Explore Virtual Folder". From this menu, find and double click `FNVpatch.exe`. Then close the dialog box that pops up.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/46fd1a50-c21b-4f8b-89b7-15bdd4aa2d75)
 
