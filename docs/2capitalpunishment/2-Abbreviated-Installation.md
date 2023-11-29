@@ -68,9 +68,15 @@ sidebar_position: 2
 
 1.) Make sure in MO2 that all of the application directories in the dropdown match the locations on your system. If they do not, change them so that they do.
 
-2.) At the top left of MO2, go to `Tools/Settings/Paths/Managed Game`. Make sure that this is set to your Capital Punishment folder & not your Vanilla Fallout New Vegas (IE: C:/Capital Punishment/Stock Game/FalloutNV.exe)
+2.) At the top left of MO2, go to `Tools/Settings/Paths/Managed Game`. Make sure that this is set to where your vanilla Fallout New Vegas installation
 
-3.) You can now select "Capital Punishment TTW" from the right hand dropdown and press play
+> This will not override your New Vegas installation; We now use Root Builder which allows us
+
+3.) Go to the dropdown menu at the top right of MO2 and select "Explore Virtual Folder". From this menu, find and double click 'FNVpatch.exe". Then close the dialog box that pops up.
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/46fd1a50-c21b-4f8b-89b7-15bdd4aa2d75)
+
+4.) You can now select "Capital Punishment TTW" from the right hand dropdown and press play.
 
 ## Switching to Casual or Another Profile
 
