@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Boneyard Creations Blog</title>
-        <link>https://modlists.net/blog</link>
+        <link>https://www.modlists.net/blog</link>
         <description>Boneyard Creations Blog</description>
         <lastBuildDate>Tue, 28 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://modlists.net/blog/welcome</link>
-            <guid>https://modlists.net/blog/welcome</guid>
+            <link>https://www.modlists.net/blog/welcome</link>
+            <guid>https://www.modlists.net/blog/welcome</guid>
             <pubDate>Tue, 28 Nov 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Just like our discord announcements, this will be a place where we will update you all when it comes down to modlist developments, releases, server updates, and much more. If you haven't yet, take a look around at our new wiki pages and home screen. We look forward to hearing from you guys on this new website change!]]></description>
             <content:encoded><![CDATA[<p>Just like our discord announcements, this will be a place where we will update you all when it comes down to modlist developments, releases, server updates, and much more. If you haven't yet, take a look around at our new wiki pages and home screen. We look forward to hearing from you guys on this new website change!</p>]]></content:encoded>
