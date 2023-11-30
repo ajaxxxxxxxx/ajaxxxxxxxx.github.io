@@ -1,5 +1,5 @@
 ---
-slug: welcome
+slug: hos091
 title: HOS 0.9.1 Release
 authors: [cam]
 tags: [HOS, Update]
