@@ -8,6 +8,17 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 1.5.4.0 - Unreleased
+
+### Save Safe?: YES
+
+**Added**
+
+**Removed/Fixed**
+
+**Updated**
+
+
 ## Release 1.5.3.1 - 11/30/2023
 
 ### Save Safe?: YES
@@ -21,7 +32,6 @@ sidebar_position: 3
 **Removed/Fixed**
 - Fixed Discord Integreation Not Properly Working
 - Made Zelda BOTW Keybinds Only work for aid/Moved to 2
-- LOD's have been remade and errors in production have been amended 
 
 **Updated**
 
