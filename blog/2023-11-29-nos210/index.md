@@ -1,3 +1,10 @@
+---
+slug: welcome
+title: Nostalgia 2.1.0 Release
+authors: [mt4l]
+tags: [Nostalgia, Update]
+---
+
 # Nostalgia 2.1.0 Update
 
 ## NOT SAVE SAFE
