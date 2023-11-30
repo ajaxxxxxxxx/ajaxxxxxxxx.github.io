@@ -31,12 +31,20 @@
         <category label="Announcement" term="Announcement"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[cappun1532]]></title>
-        <id>https://www.modlists.net/blog/2023/11/30/cappun1532</id>
-        <link href="https://www.modlists.net/blog/2023/11/30/cappun1532"/>
+        <title type="html"><![CDATA[Capital Punishment - 1.5.3.2 Release]]></title>
+        <id>https://www.modlists.net/blog/cappun1532</id>
+        <link href="https://www.modlists.net/blog/cappun1532"/>
         <updated>2023-11-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[aaa]]></summary>
-        <content type="html"><![CDATA[<p>aaa</p>]]></content>
+        <summary type="html"><![CDATA[Release Notes]]></summary>
+        <content type="html"><![CDATA[<p><strong><a href="https://www.modlists.net/docs/2capitalpunishment/Release-Notes" target="_blank" rel="noopener noreferrer">Release Notes</a></strong>
+<strong>Save Safe - Yes (1.5.3.0+)</strong></p>
+<p>This is a good sized hotfix, as it both updated the LOD's and fixed them. Also, some minor INI changes were made that should increase performance around the board relating to LODs.</p>]]></content>
+        <author>
+            <name>Camboi</name>
+            <uri>https://ko-fi.com/clayby</uri>
+        </author>
+        <category label="HOS" term="HOS"/>
+        <category label="Update" term="Update"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[HOS 0.9.1 Release]]></title>

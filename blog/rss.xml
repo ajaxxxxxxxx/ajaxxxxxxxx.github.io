@@ -28,12 +28,16 @@
             <category>Announcement</category>
         </item>
         <item>
-            <title><![CDATA[cappun1532]]></title>
-            <link>https://www.modlists.net/blog/2023/11/30/cappun1532</link>
-            <guid>https://www.modlists.net/blog/2023/11/30/cappun1532</guid>
+            <title><![CDATA[Capital Punishment - 1.5.3.2 Release]]></title>
+            <link>https://www.modlists.net/blog/cappun1532</link>
+            <guid>https://www.modlists.net/blog/cappun1532</guid>
             <pubDate>Thu, 30 Nov 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[aaa]]></description>
-            <content:encoded><![CDATA[<p>aaa</p>]]></content:encoded>
+            <description><![CDATA[Release Notes]]></description>
+            <content:encoded><![CDATA[<p><strong><a href="https://www.modlists.net/docs/2capitalpunishment/Release-Notes" target="_blank" rel="noopener noreferrer">Release Notes</a></strong>
+<strong>Save Safe - Yes (1.5.3.0+)</strong></p>
+<p>This is a good sized hotfix, as it both updated the LOD's and fixed them. Also, some minor INI changes were made that should increase performance around the board relating to LODs.</p>]]></content:encoded>
+            <category>HOS</category>
+            <category>Update</category>
         </item>
         <item>
             <title><![CDATA[HOS 0.9.1 Release]]></title>
