@@ -20,6 +20,7 @@ sidebar_position: 3
 
 **Removed/Fixed**
 - Fixed Discord Integreation Not Properly Working
+- Made Zelda BOTW Keybinds Only work for aid/Moved to 2
 
 **Updated**
 
