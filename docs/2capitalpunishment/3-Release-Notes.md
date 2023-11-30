@@ -18,7 +18,7 @@ sidebar_position: 3
 - [B42 Inject - Meat Anims](https://www.nexusmods.com/newvegas/mods/83906?tab=files)
 
 **Removed/Fixed**
-
+- Fixed Discord Integreation Not Properly Working
 
 **Updated**
 
