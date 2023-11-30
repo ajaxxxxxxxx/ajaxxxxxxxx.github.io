@@ -31,6 +31,14 @@
         <category label="Announcement" term="Announcement"/>
     </entry>
     <entry>
+        <title type="html"><![CDATA[cappun1532]]></title>
+        <id>https://www.modlists.net/blog/2023/11/30/cappun1532</id>
+        <link href="https://www.modlists.net/blog/2023/11/30/cappun1532"/>
+        <updated>2023-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[aaa]]></summary>
+        <content type="html"><![CDATA[<p>aaa</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HOS 0.9.1 Release]]></title>
         <id>https://www.modlists.net/blog/hos091</id>
         <link href="https://www.modlists.net/blog/hos091"/>
