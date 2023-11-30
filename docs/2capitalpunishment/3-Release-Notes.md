@@ -28,6 +28,8 @@ sidebar_position: 3
 > 4.97 to 4.98
 - Animated Ingestibles: B42 Inject Patch
 > 1.2 to 1.3
+- Keybinds
+> to 1530; Both on Website & For Reshade Files
 
 ## Release 1.5.3.0
 
