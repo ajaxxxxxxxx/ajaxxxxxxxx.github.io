@@ -8,13 +8,15 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
-## Release 1.5.4.0 - Unreleased
+## Release 1.5.3.2 - Released
 
 ### Save Safe?: YES
 
 **Added**
 
 **Removed/Fixed**
+- LODs Have Been Regenerated/INI Changes made to improve related performance
+- Working Pipboy 2kIV buttons have been checked in all profiles
 
 **Updated**
 
