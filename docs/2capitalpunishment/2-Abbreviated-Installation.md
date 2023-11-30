@@ -8,6 +8,7 @@ sidebar_position: 2
 
 > 170 GB of Free Space, A Nexus Account (Preferably Premium), a Global Steam Installation of Fallout NV w/ All DLC, & Fallout 3 With All DLC (GOG, Steam, Or Epic Games will do fine for Fallout 3 only, but Fallout New Vegas REQUIRES a Steam Global Copy).
 
+> With the introduction of Root builder, other builds of Fallout New Vegas (GOG, Epic, etc) should, in theory, work with the modlist. We have left Steam Global as a copy as this is the only we have tested. Please proceed with caution in regards to these versions
 
 > Make sure you install everything to the root of your drive (Ex: C:/Capital Punishment ; C:/Steam). Protected directories such as your Desktop, Program Files, etc may cause issues.
 
