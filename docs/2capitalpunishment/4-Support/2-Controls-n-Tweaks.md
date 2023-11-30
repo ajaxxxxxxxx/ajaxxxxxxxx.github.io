@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## **Key Bind Changes**
 
-![Layer](https://user-images.githubusercontent.com/112358568/224410462-3bb91511-689c-43f7-b0e6-74c2dcef7b3b.png)
+![CapPun Controls](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/38e5c68d-a34a-4508-a7a4-e95989da22f4)
 
 ## **Controller Binds**
 
