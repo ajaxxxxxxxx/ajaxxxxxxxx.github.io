@@ -1,5 +1,5 @@
 ---
-slug: welcome
+slug: nos210
 title: Nostalgia 2.1.0 Release
 authors: [mt4l]
 tags: [Nostalgia, Update]
