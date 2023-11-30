@@ -1,11 +1,13 @@
 ---
 slug: welcome
 title: HOS 0.9.1 Release
-authors: [mnv]
+authors: [cam]
 tags: [HOS, Update]
 ---
 
-# Save Safe?: YES (Although using a save from an interior is advised)
+# HOS 0.9.1 Release
+
+## Save Safe?: YES (Although using a save from an interior is advised)
 
 [Release Notes](https://discord.com/channels/415287319982112768/610934257182965779/1179222049869279293)
 
