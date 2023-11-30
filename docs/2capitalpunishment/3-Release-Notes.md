@@ -16,6 +16,7 @@ sidebar_position: 3
 
 - [Consistent Pip-boy Icons - Reputations](https://www.nexusmods.com/newvegas/mods/83840?tab=files)
 - [B42 Inject - Meat Anims](https://www.nexusmods.com/newvegas/mods/83906?tab=files)
+[Pipboy 2000 MK VI Working Buttons](https://www.nexusmods.com/newvegas/mods/75268)
 
 **Removed/Fixed**
 - Fixed Discord Integreation Not Properly Working
