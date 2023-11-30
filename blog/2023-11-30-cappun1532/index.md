@@ -1,7 +1,7 @@
 ---
 slug: cappun1532
 title: Capital Punishment - 1.5.3.2 Release
-authors: [cam]
+authors: [mnv]
 tags: [Capital Punishment, Update]
 ---
 
