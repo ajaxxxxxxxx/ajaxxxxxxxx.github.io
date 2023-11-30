@@ -36,7 +36,7 @@
             <content:encoded><![CDATA[<p><strong><a href="https://www.modlists.net/docs/2capitalpunishment/Release-Notes" target="_blank" rel="noopener noreferrer">Release Notes</a></strong>
 <strong>Save Safe - Yes (1.5.3.0+)</strong></p>
 <p>This is a good sized hotfix, as it both updated the LOD's and fixed them. Also, some minor INI changes were made that should increase performance around the board relating to LODs.</p>]]></content:encoded>
-            <category>HOS</category>
+            <category>Capital Punishment</category>
             <category>Update</category>
         </item>
         <item>
