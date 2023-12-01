@@ -4,10 +4,18 @@
         <title>Boneyard Creations Blog</title>
         <link>https://www.modlists.net/blog</link>
         <description>Boneyard Creations Blog</description>
-        <lastBuildDate>Thu, 30 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[1]]></title>
+            <link>https://www.modlists.net/blog/2023/12/01/1</link>
+            <guid>https://www.modlists.net/blog/2023/12/01/1</guid>
+            <pubDate>Fri, 01 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[aaa]]></description>
+            <content:encoded><![CDATA[<p>aaa</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[New Subreddit & Capital Punishment 1.5.3.0 Update]]></title>
             <link>https://www.modlists.net/blog/cap1530</link>
