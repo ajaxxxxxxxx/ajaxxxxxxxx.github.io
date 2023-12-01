@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gameplay Guides
+title: The Guide to Requiem
 nav_order: 1
 description: Halls of Sovngarde Installation Guide
 ---
