@@ -8,6 +8,17 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 1.5.3.3 - 11/31/2023
+
+### Save Safe?: YES (1530+)
+
+**Added**
+
+**Removed/Fixed**
+- Game should now automatically patch itself with 4GB Patcher.
+
+**Updated**
+
 ## Release 1.5.3.2 - 11/31/2023
 
 ### Save Safe?: YES (1530+)
