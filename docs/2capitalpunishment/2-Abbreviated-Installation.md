@@ -83,6 +83,8 @@ sidebar_position: 2
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/46fd1a50-c21b-4f8b-89b7-15bdd4aa2d75)
 
+> If the game does not automatically patch as it should with 1.5.3.3, then you will need to do this step every update
+
 4.) You can now select "Capital Punishment TTW" from the right hand dropdown and press play.
 
 ## Switching to Casual or Another Profile
