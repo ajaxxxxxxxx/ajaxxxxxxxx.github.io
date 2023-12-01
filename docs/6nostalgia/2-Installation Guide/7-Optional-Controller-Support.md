@@ -13,4 +13,4 @@ LB + X (JIP Companion)
 LB + B (Bullet Time)
 LB + Y (Nightvision)
 
-;;;info **In MO2 enable Soft Lock Aim Assist + Controller Support NVSE. then in game go into menu and swap out Grab and Sneak controls so that Sneak is RS and Grab is LS**;;;
+;;;info **In MO2 enable Soft Lock Aim Assist + Controller Support NVSE. then in game go into menu and swap out Grab and Sneak controls so that Sneak is RS and Grab is LS** ;;;
