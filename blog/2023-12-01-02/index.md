@@ -1,5 +1,5 @@
 ---
-slug: 1
+slug: 2
 title: December Update
 authors: [mnv]
 tags: [Capital Punishment, Update]
