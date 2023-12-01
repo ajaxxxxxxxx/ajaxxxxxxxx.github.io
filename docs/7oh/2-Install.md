@@ -28,7 +28,7 @@ description: Ordo Hereticus Install Guide
 
 ## Mod Settings
 
-Most of this can be to person taste, but this is what I run and recommend.
+Most of this can be to personal taste, but this is what I run and recommend.
 
 ```
 - Toggle Mods - Everything should be enabled already
