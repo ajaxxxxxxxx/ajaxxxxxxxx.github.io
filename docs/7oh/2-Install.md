@@ -20,6 +20,12 @@ description: Ordo Hereticus Install Guide
 
 - You no longer need to worry about load order due to the Auto Mod Loading and Ordering mod.
 
+## Updating 
+
+- When the game updates, run the "Toggle Modding" tool on the Darktide Dashboard. If it says "Darktide is already patched" then you don't need to patch.
+
+- Check for updates with mods regularly, I have the list set to download the latest versions.
+
 ## Mod Settings
 
 Most of this can be to person taste, but this is what I run and recommend.
@@ -74,14 +80,5 @@ Most of this can be to person taste, but this is what I run and recommend.
 - True Level - Personal preference
 - Volley Fire Timer - Keep as is; Personal preference
 - Weapon FOV - Keep as is; Personal preference
-- What The Localization - Keep as is```
-
-##Updating 
-
-- When the game updates, run the "Toggle Modding" tool on the Darktide Dashboard. If it says "Darktide is already patched" then you don't need to patch.
-
-- Check for updates with mods regularly, I have the list set to download the latest versions.
-
-## Known Bugs
-
-- Getting downed during a boss fight will disable the health bar of the boss
+- What The Localization - Keep as is
+```
