@@ -8,6 +8,18 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 1.5.4.0 - UNRELEASED
+
+### Save Safe?: YES (1530+)
+
+**Added**
+
+**Removed/Fixed**
+
+**Updated**
+
+- All large textures/associated meshes have been packed into BSA's to increase performance significantly
+
 ## Release 1.5.3.3 - 11/31/2023
 
 ### Save Safe?: YES (1530+)
