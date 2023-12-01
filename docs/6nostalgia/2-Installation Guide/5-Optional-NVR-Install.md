@@ -7,7 +7,8 @@ nav_order: 5
 description: How to install NVR
 ---
 
-NO LONGER SUPPORTED, DO THIS AT YOUR OWN RISK, TOO MANY BUGS
+:::Danger [OUTDATED] NO LONGER SUPPORTED, DO THIS AT YOUR OWN RISK, TOO MANY BUGS
+:::
 
 1.) Create a mod inside of the Modpack Resources separator called “[No Delete] NVR” by right clicking the separator, then navigating to All Mods>Create Empty Mod Inside
 
