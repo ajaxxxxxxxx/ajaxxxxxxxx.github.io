@@ -73,7 +73,11 @@ sidebar_position: 2
 
 2.) At the top left of MO2, go to `Tools/Settings/Paths/Managed Game`. Make sure that this is set to where your vanilla Fallout New Vegas installation
 
-> This will not override your New Vegas installation; We now use Root Builder which allows us
+> This will not override your New Vegas installation; We now use Root Builder which allows us to use your vanilla New Vegas directory without modifying it.
+
+:::info
+- As of 1.5.3.3, the game should be patched automatically. If this does not occur, you experience crashes, etc then please follow the below step 3. If it does work, then move on to step 4
+:::
 
 3.) Go to the dropdown menu at the top right of MO2 and select "Explore Virtual Folder". From this menu, find and double click `FNVpatch.exe`. Then close the dialog box that pops up as well as the virtual folder.
 
