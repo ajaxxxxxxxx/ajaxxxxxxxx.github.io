@@ -24,7 +24,7 @@ description: How to install DXVK
 
 1.) Go to the [Official Reshade Website](https://reshade.me) & Scroll to the bottom. Press **Download Reshade 5.9.2**. NOT THE ONE WITH FULL ADDON SUPPORT
 
-![image](https://gyazo.com/afddc8671d3d73fa0cfae40fb175bb43)
+![afddc8671d3d73fa0cfae40fb175bb43](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/122637851/3bcec282-e1f0-41f9-8e3f-b68fcb7c428b)
 
 2.) Run the downloaded reshade exe. Click browse, then select your FalloutNV.exe in your Nostalgia/Stock Games folder. Press open, then press next
 
