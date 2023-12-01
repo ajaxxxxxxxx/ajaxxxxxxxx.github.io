@@ -8,6 +8,68 @@ description: Patch Notes
 ---
 
 # **Releases (Newest to Oldest)**
+## **Release 2.5** 
+_**Not Save safe**_
+
+### **Added**
+
+* Item Values Overhaul
+* New Main Menu Song
+* New Reshade Presets to pick from
+* Iron Sight Inertia - espless
+* Patches for Character Kit Remake and many mods
+* Character Preset Menu
+* Wild Card - Open the Lucky 38
+* OX Toolkit
+* MUX Series - Addition
+* Cash Box HD
+* Simple Reputation and Disguises
+* Primm Reputation Restored Revised
+* Agility Actually Matters - ESPless
+* Impostors and LOD Flicker Fix
+* Classic Fallout Metal Armor
+* Classic Leather Armor Replacer for Leather Armor
+* Classic Super Mutant Style Armor
+* Animated Ingestibles
+* Harder Barter Faster Stronger (Rip your caps early game lol)
+
+### **Fixed**
+
+* Turned on Tweak for smoother controller aiming
+* Controller Support Fixed
+
+### **Updated**
+
+* All Consistent Pip-Boy Icon Mods
+* ToTNW 2.0
+* Just Sprint Plus
+* Map Marker Icons
+* Weapon Hotkey Icons
+* Atmospheric Lighting Tweaks
+* Claim The Mojave
+* Hits Anims Season 2
+* Johnny Guitar
+* Stewies Tweaks
+* Arizona Redux
+* Vanilla enhancements merged
+* Into the deep
+* Another Millenia
+* Tactapack
+* Sweets Perk Overhaul
+* MUX
+
+### **Removed**
+
+* Classic Fallout Floaters for New Vegas
+* Animated Ingestibles
+* Weapon Rechambering (Doesn't play nice with the list sadly)
+* B42 Inertia (Replaced)
+* Dramatic Inertia
+* Drag's 10 Year anniversary pack
+* True Blade of The East
+* Feral Ghouls Play Dead
+
+
 
 ## **Release 2.0** 
 _**Not Save safe**_
