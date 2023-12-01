@@ -1,8 +1,8 @@
 {
-  "label": "Crafting Guides",
-  "position": 10,
+  "label": "Gameplay Guides",
+  "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "Crafting Guides for Capital Punishment."
+    "description": "Gameplay Guides for Halls of Sovngarde."
   }
 }
