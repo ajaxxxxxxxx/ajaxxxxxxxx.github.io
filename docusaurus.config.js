@@ -61,6 +61,12 @@ const config = {
       disableSwitch: false,
       respectPrefersColorScheme: false,
     },
+      algolia: {
+        appId: "YT8MKLXGDB",
+        apiKey: "828568b1a1a24894f73157fe239e85d4",
+        indexName: "modlists",
+        contextualSearch: false,
+      },
       image: 'img/bycsocial.png',
       navbar: {
         title: 'Boneyard Creations',
