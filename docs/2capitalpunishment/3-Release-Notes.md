@@ -17,7 +17,10 @@ sidebar_position: 3
 **Removed/Fixed**
 
 **Updated**
-
+- Titans of the New West 2.0
+> 2.1.6 to 2.1.1.0
+- JSM
+> 1.0.6.1 to 1.0.7.0
 - All large textures/associated meshes have been packed into BSA's to increase performance significantly
 
 ## Release 1.5.3.3 - 11/31/2023
