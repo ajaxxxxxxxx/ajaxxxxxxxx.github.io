@@ -8,7 +8,7 @@ description: Ordo Hereticus
 ## What is Ordo Hereticus?
 ### [Nexus Collection Link](https://next.nexusmods.com/warhammer40kdarktide/collections/rzdfo4)
 
-Ordo Hereticus is a customizable collection of QoL mods that make the game more streamlined and fun.
+Ordo Hereticus is a customizable Nexus collection for Warhammer 40,000: Darktide that make the game more streamlined and fun.
 
 ## Features
 
