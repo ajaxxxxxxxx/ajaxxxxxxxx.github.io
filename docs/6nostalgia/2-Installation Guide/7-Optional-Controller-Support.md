@@ -1,4 +1,4 @@
-# Optional Controller Support
+# 7. Controller Support (Optional)
 
 ![overlay](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/122637851/bdf2b287-de79-4ad2-b328-a1b0e5c53bfe)
 
@@ -13,4 +13,4 @@ LB + X (JIP Companion)
 LB + B (Bullet Time)
 LB + Y (Nightvision)
 
-;;;info **In MO2 enable Soft Lock Aim Assist + Controller Support NVSE. then in game go into menu and swap out Grab and Sneak controls so that Sneak is RS and Grab is LS** ;;;
+:::info **In MO2 enable Soft Lock Aim Assist + Controller Support NVSE. then in game go into menu and swap out Grab and Sneak controls so that Sneak is RS and Grab is LS** :::
