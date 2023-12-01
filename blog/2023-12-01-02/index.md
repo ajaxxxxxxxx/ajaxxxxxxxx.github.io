@@ -5,7 +5,7 @@ authors: [mnv]
 tags: [Capital Punishment, Update]
 ---
 
-# **December Update - Supporter Contest Winners & What We Have Going On
+# **December Update - Supporter Contest Winners & What We Have Going On**
 
 ## **Contest Winner & Next Contest**
 
