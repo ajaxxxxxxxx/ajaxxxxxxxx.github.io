@@ -8,6 +8,19 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 1.5.4.5 - Unreleased
+
+### Save Safe?: NO 
+
+**Added**
+- [Nuka Cola World - Nuka Overhaul Installer](https://www.nexusmods.com/newvegas/mods/72985?tab=files)
+- [Radiant Infinium & TTW Patch](https://www.nexusmods.com/newvegas/mods/83610?tab=files)
+
+**Removed/Fixed**
+- Fixed Missing Nuka Cola Textures
+
+**Updated**
+
 ## Release 1.5.4.0 - 12/01/2023
 
 ### Save Safe?: NO 
