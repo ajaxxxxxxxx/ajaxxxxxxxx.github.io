@@ -1,6 +1,8 @@
 ---
 layout: default
 title: The Guide to Requiem
+has_toc: true
+parent: Gameplay Guides
 nav_order: 1
 description: Halls of Sovngarde Installation Guide
 ---
