@@ -4,7 +4,7 @@ title: 6. DXVK w/ Reshade Installation (Optional)
 has_toc: true
 parent: Installation Guide
 nav_order: 6
-description: How to install NVR
+description: How to install DXVK
 ---
 
 ## **What is DXVK?**
@@ -22,9 +22,9 @@ description: How to install NVR
 
 ### Uninstalling The Current Reshade
 
-1.) Go to the [Official Reshade Website](https://reshade.me) & Scroll to the bottom. Press **Download Reshade 5.7.0**. NOT THE ONE WITH FULL ADDON SUPPORT
+1.) Go to the [Official Reshade Website](https://reshade.me) & Scroll to the bottom. Press **Download Reshade 5.9.2**. NOT THE ONE WITH FULL ADDON SUPPORT
 
-![image](https://user-images.githubusercontent.com/112358568/223607908-c6101adc-464f-46e3-ad76-20e7659a08ca.png)
+![image](https://gyazo.com/afddc8671d3d73fa0cfae40fb175bb43)
 
 2.) Run the downloaded reshade exe. Click browse, then select your FalloutNV.exe in your Nostalgia/Stock Games folder. Press open, then press next
 
@@ -74,7 +74,7 @@ description: How to install NVR
 ![image](https://i.gyazo.com/612c9412e6b5ce1b56fdc3aed5393d64.png)
 
 
-2.) Once that is done go back to Nostalgia/Game Folder Files. Find DXVK Reshade Install Files, open it, and copy the Layer.png. Take this file and paste it into Nostalgia/Stock Games/reshade-shaders/Textures and overwrite the existing Layer.png
+2.) Once that is done go back to Nostalgia/Game Folder Files. Find DXVK Reshade Install Files, open it, and copy the Layer.png. Take this file and paste it into Nostalgia/Stock Games/reshade-shaders/Textures and overwrite the existing Overlay.png
 
 ![image](https://i.gyazo.com/ba114ddbc67ea8a5e29e5ece0ec4a7b8.png)
 
