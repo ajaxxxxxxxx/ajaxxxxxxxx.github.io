@@ -11,8 +11,8 @@ description: Nostalgia Home Page
 ![](https://cdn.discordapp.com/attachments/987465565608235108/1086332396695195858/Nostalgia.png)
 
 _**Important Links**_
-* [Discord Link](https://discord.gg/Mu3RQbzxyz)
-* [Patreon Link](https://patreon.com/user?u=65852394&utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
+* [Discord Link](https://discord.gg/43EhRjU)
+* [Kofi Link](https://ko-fi.com/mctiddies4lunch)
 * [Load Order](https://loadorderlibrary.com/lists/nostalgia-3)
 
 **Modpack Summary**
