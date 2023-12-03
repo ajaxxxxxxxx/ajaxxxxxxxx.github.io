@@ -56,6 +56,135 @@ Old World Blues: Extends across most of the southern section of the map centered
 
 Lonesome Road: Extends across the western section of the map centered around the Canyon Wreckage. you should reach it just before entering Primm while travelling south from Goodsprings. It uses Morse code audio files left over from Fallout 3 to match this DLC's original popup description of an encoded signal.
 
+**How do I level up skills?**
+
+**Barter
+
+*  Winning games of caravan (increase per cap won) 
+*  Trading items for caps (increase per cap traded)
+*  Reading Barter magazines 
+
+**Energy Weapons
+
+*  Firing weapons
+*  Hitting enemies
+*  Killing enemies
+*  Disintegrating enemies
+*  Reading Energy Weapons magazines 
+
+**Explosives
+
+*  Detonating explosives
+*  Hitting enemies
+*  Killing enemies
+*  Reverse pickpocketing grenades
+*  Disarming mines
+*  Reading Explosives magazines 
+
+**Guns
+
+*  Firing weapons
+*  Hitting enemies
+*  Killing enemies
+*  Reading Guns magazines 
+
+**Lockpick
+
+*  Picking locks (shocking)
+*  Breaking lockpicks
+*  Breaking down items at a reloading bench 
+*  Reading Lockpick magazines
+
+**Medicine
+
+*  Using Stimpaks
+*  Using Doctor's Bags
+*  Using Med-X 
+*  Using Radaway
+*  Using Rad-X
+*  Reading Medicine magazines 
+
+**Melee Weapons
+
+*  Attacking with weapons - currently jank, just hit 'em
+*  Hitting enemies
+*  Killing enemies
+*  Reading Melee Weapons magazines 
+
+**Repair
+
+*  Disarming traps
+*  Disarming bombs
+*  Repairing items
+*  Crafting items at workbenches / reloading benches 
+*  Reading Repair magazines 
+
+**Science
+
+*  Hacking terminals
+*  Getting locked out of terminals
+*  Crafting Energy Weapon ammo 
+*  Disabling Robots
+*  Reading Science magazines
+
+**Sneak
+
+*  Pickpocketing
+*  Sneak attacking enemies (both ranged and melee)
+*  Sneak killing enemies (both ranged and melee)
+*  Sandman killing enemies
+*  Reading Sneak magazines 
+
+**Speech
+
+*  Speaking to people 
+*  Passing Speech checks
+*  Failing Speech checks
+*  Reading Speech magazines
+
+**Survival
+
+*  HP healed from food (per HP healed)
+*  Eating corpses
+*  Disarming traps
+*  Discovering locations
+*  Picking plants
+*  Crafting items at campfires 
+*  Reading Survival magazines 
+
+**Unarmed
+
+*  Attacking - same as melee attacking
+*  Hitting enemies
+*  Killing enemies
+*  Blocking attacks - untested, may not work
+*  Reading Unarmed magazines
+
+ **Currently added skill training NPCs are: 
+ 
+Doc Mitchell (50 caps) - Medicine
+Manny Vargus - Guns
+Doc Henry (250 caps) - Medicine
+Samuel Kerr (250 caps) - Repair
+Major Knight (100 caps)
+Dale Barton (350 caps)
+Arcade Gannon (150 caps)
+Sunny Smiles (75 caps)
+Mortimer (200 caps)
+Jack (3 jet)
+Chet - Barter
+Ike (Boulder)
+Heck Gunderson
+Easy Pete
+Chomps Lewis
+Raquel
+Trudy
+Billy Knight
+Beagle
+Veronica
+Vulpes
+Marcus
+
 **General Questions to Ask Yourself Before Seeking Help**
 
 1.) Have you looked at the installation guide?
