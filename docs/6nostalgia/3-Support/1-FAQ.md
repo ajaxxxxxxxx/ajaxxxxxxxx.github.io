@@ -58,13 +58,13 @@ Lonesome Road: Extends across the western section of the map centered around the
 
 **How do I level up skills?**
 
-**Barter
+**Barter**
 
 *  Winning games of caravan (increase per cap won) 
 *  Trading items for caps (increase per cap traded)
 *  Reading Barter magazines 
 
-**Energy Weapons
+**Energy Weapons**
 
 *  Firing weapons
 *  Hitting enemies
@@ -72,7 +72,7 @@ Lonesome Road: Extends across the western section of the map centered around the
 *  Disintegrating enemies
 *  Reading Energy Weapons magazines 
 
-**Explosives
+**Explosives**
 
 *  Detonating explosives
 *  Hitting enemies
@@ -81,21 +81,21 @@ Lonesome Road: Extends across the western section of the map centered around the
 *  Disarming mines
 *  Reading Explosives magazines 
 
-**Guns
+**Guns**
 
 *  Firing weapons
 *  Hitting enemies
 *  Killing enemies
 *  Reading Guns magazines 
 
-**Lockpick
+**Lockpick**
 
 *  Picking locks (shocking)
 *  Breaking lockpicks
 *  Breaking down items at a reloading bench 
 *  Reading Lockpick magazines
 
-**Medicine
+**Medicine**
 
 *  Using Stimpaks
 *  Using Doctor's Bags
@@ -104,14 +104,14 @@ Lonesome Road: Extends across the western section of the map centered around the
 *  Using Rad-X
 *  Reading Medicine magazines 
 
-**Melee Weapons
+**Melee Weapons**
 
 *  Attacking with weapons - currently jank, just hit 'em
 *  Hitting enemies
 *  Killing enemies
 *  Reading Melee Weapons magazines 
 
-**Repair
+**Repair**
 
 *  Disarming traps
 *  Disarming bombs
@@ -119,7 +119,7 @@ Lonesome Road: Extends across the western section of the map centered around the
 *  Crafting items at workbenches / reloading benches 
 *  Reading Repair magazines 
 
-**Science
+**Science**
 
 *  Hacking terminals
 *  Getting locked out of terminals
@@ -127,7 +127,7 @@ Lonesome Road: Extends across the western section of the map centered around the
 *  Disabling Robots
 *  Reading Science magazines
 
-**Sneak
+**Sneak**
 
 *  Pickpocketing
 *  Sneak attacking enemies (both ranged and melee)
@@ -135,14 +135,14 @@ Lonesome Road: Extends across the western section of the map centered around the
 *  Sandman killing enemies
 *  Reading Sneak magazines 
 
-**Speech
+**Speech**
 
 *  Speaking to people 
 *  Passing Speech checks
 *  Failing Speech checks
 *  Reading Speech magazines
 
-**Survival
+**Survival**
 
 *  HP healed from food (per HP healed)
 *  Eating corpses
@@ -152,7 +152,7 @@ Lonesome Road: Extends across the western section of the map centered around the
 *  Crafting items at campfires 
 *  Reading Survival magazines 
 
-**Unarmed
+**Unarmed**
 
 *  Attacking - same as melee attacking
 *  Hitting enemies
@@ -160,7 +160,7 @@ Lonesome Road: Extends across the western section of the map centered around the
 *  Blocking attacks - untested, may not work
 *  Reading Unarmed magazines
 
- **Currently added skill training NPCs are: 
+ **Currently added skill training NPCs are: **
  
 Doc Mitchell (50 caps) - Medicine
 Manny Vargus - Guns
