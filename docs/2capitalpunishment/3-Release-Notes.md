@@ -23,6 +23,7 @@ sidebar_position: 3
 - Removed default 90 FOV. Players now have control of this themselves
 - NVAC
 > Is not in the list anymore, but players may opt in to use it in the optionals tab
+- Fixed LOD Inconsistencies and errors + Separated Terrain & Object LODs
 
 **Updated**
 - Titans of the New West
