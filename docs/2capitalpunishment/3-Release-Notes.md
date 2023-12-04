@@ -20,6 +20,7 @@ sidebar_position: 3
 **Removed/Fixed**
 - Fixed Missing Nuka Cola Textures
 - FNV TTW Paper Maps
+- Removed default 90 FOV. Players now have control of this themselves
 
 **Updated**
 
