@@ -8,6 +8,19 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 1.5.4.6 - 12/04/2023
+
+### Save Safe?: Yes (1545+)
+
+**Added**
+- NVAC
+> Will be a dependency until we can solve root causes for crashing on startup
+
+**Removed/Fixed**
+- Further fixed LOD issues
+
+**Updated**
+
 ## Release 1.5.4.5 - 12/04/2023
 
 ### Save Safe?: NO 
