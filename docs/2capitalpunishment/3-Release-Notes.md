@@ -23,6 +23,10 @@ sidebar_position: 3
 - Removed default 90 FOV. Players now have control of this themselves
 
 **Updated**
+- Titans of the New West
+> 2.1.1.0 to 2.1.1.1
+- Bad Touch NVSE
+> 1.4.1 to 1.6
 
 ## Release 1.5.4.0 - 12/01/2023
 
