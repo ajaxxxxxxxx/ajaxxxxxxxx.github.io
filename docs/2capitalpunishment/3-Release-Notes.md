@@ -8,7 +8,7 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
-## Release 1.5.4.5 - Unreleased
+## Release 1.5.4.5 - 12/04/2023
 
 ### Save Safe?: NO 
 
@@ -18,11 +18,10 @@ sidebar_position: 3
 - [Simple Maps](https://www.nexusmods.com/newvegas/mods/83902?tab=files)
 
 **Removed/Fixed**
-- Fixed Missing Nuka Cola Textures
-- FNV TTW Paper Maps
-- Removed default 90 FOV. Players now have control of this themselves
-- NVAC
-> Is not in the list anymore, but players may opt in to use it in the optionals tab
+- Fixed Missing Iced Nuka Cola Textures
+- Removed FNV TTW Paper Maps
+- Removed hard stuck 90 FOV. Players now have control of this themselves in game and dont have to edit resource INI's
+- NVAC (This is still an optional enable granted this update causes issues)
 - Fixed LOD Inconsistencies and errors + Separated Terrain & Object LODs
 
 **Updated**
