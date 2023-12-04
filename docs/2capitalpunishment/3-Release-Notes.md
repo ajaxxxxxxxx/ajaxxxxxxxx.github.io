@@ -15,9 +15,11 @@ sidebar_position: 3
 **Added**
 - [Nuka Cola World - Nuka Overhaul Installer](https://www.nexusmods.com/newvegas/mods/72985?tab=files)
 - [Radiant Infinium & TTW Patch](https://www.nexusmods.com/newvegas/mods/83610?tab=files)
+- [Simple Maps](https://www.nexusmods.com/newvegas/mods/83902?tab=files)
 
 **Removed/Fixed**
 - Fixed Missing Nuka Cola Textures
+- FNV TTW Paper Maps
 
 **Updated**
 
