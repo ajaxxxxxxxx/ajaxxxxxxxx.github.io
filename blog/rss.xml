@@ -4,10 +4,20 @@
         <title>Boneyard Creations Blog</title>
         <link>https://www.modlists.net/blog</link>
         <description>Boneyard Creations Blog</description>
-        <lastBuildDate>Fri, 01 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[**Capital Punishment - 1.5.4.5 Release**]]></title>
+            <link>https://www.modlists.net/blog/2023/12/04/04</link>
+            <guid>https://www.modlists.net/blog/2023/12/04/04</guid>
+            <pubDate>Mon, 04 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Release Notes]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="release-notes"><strong><a href="https://www.modlists.net/docs/2capitalpunishment/Release-Notes#release-1545---unreleased" target="_blank" rel="noopener noreferrer">Release Notes</a></strong><a href="https://www.modlists.net/blog/2023/12/04/04#release-notes" class="hash-link" aria-label="Direct link to release-notes" title="Direct link to release-notes">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="save-safe-no"><strong>Save Safe?: NO</strong><a href="https://www.modlists.net/blog/2023/12/04/04#save-safe-no" class="hash-link" aria-label="Direct link to save-safe-no" title="Direct link to save-safe-no">​</a></h2>
+<p>This update fixes a few minor bugs I found throughout the last release that were brought to my attention/that I found whilst testing while also adding in the very anticipated (by the staff at least) addition - Radiant Questing! If you're curious about how this works, check it our yourself in game :).</p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[December Update]]></title>
             <link>https://www.modlists.net/blog/2</link>
