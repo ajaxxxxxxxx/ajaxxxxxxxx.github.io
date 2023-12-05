@@ -13,7 +13,7 @@ description: Final Installation Steps
 
 * Open ModOrganizer
 
-* Since your directories may not match mine, you may need to set them up yourself. Go to Edit and make sure the NVSE directory is in the Stock Game folder pointing to the nvse_loader.exe
+* Since your directories may not match mine, you may need to set them up yourself. Go to Edit and make sure the Nostalgia directory is in the Stock Game folder pointing to the FalloutNV.exe
 
 * Run the launcher to generate ini's
 
