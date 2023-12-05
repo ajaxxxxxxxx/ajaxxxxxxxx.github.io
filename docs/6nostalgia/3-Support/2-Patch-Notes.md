@@ -8,7 +8,41 @@ description: Patch Notes
 ---
 
 # **Releases (Newest to Oldest)**
-## **Release 2.5** 
+
+## **Release 2.5.5** 
+_**Save safe**_
+
+### **Added**
+
+* FPS Weapon Lowering
+* Zero Kill Impulse
+* Tacticool Weekly
+* BOTW Quick Select (You're welcome controller users)
+* NCR Citizenship
+* Level Adjuster
+* Follower Formula Redone Rebalanced
+* Save Manager
+* Blurry Distance
+* Eyes of Torment
+* Simple Maps
+
+### **Fixed**
+
+* Meta files for moddb mods by mirroring to githun (WITH PROPER LICENSE)
+
+### **Updated**
+
+* Simple Skill Advancement
+
+### **Removed**
+
+* Ragdolls (Crashy meshes)
+* Death Throes
+* Follower Formula Redone
+
+
+
+## **Release 2.5.0** 
 _**Not Save safe**_
 
 ### **Added**
