@@ -74,7 +74,7 @@ description: How to install DXVK
 ![image](https://i.gyazo.com/612c9412e6b5ce1b56fdc3aed5393d64.png)
 
 
-2.) Once that is done go back to Nostalgia/Game Folder Files. Find DXVK Reshade Install Files, open it, and copy the Layer.png. Take this file and paste it into Nostalgia/Stock Games/reshade-shaders/Textures and overwrite the existing Overlay.png
+2.) Once that is done go back to Nostalgia/Game Folder Files. Find DXVK Reshade Install Files, open it, and copy the Overlay.png. Take this file and paste it into Nostalgia/Stock Games/reshade-shaders/Textures and overwrite the existing Overlay.png
 
 ![image](https://i.gyazo.com/ba114ddbc67ea8a5e29e5ece0ec4a7b8.png)
 
