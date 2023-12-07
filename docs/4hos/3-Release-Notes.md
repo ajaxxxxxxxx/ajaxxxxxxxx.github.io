@@ -32,6 +32,48 @@ Save Safe?: NO
 * [Shaders of Solstheim - Ash and Moss - Parallax Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/60144)
 * [Unique Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/105771)
 * [FYX - Palace of The Kings](https://www.nexusmods.com/skyrimspecialedition/mods/105843)
+* [Description Framework](https://www.nexusmods.com/skyrimspecialedition/mods/105799)
+* [Vanilla Item Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/105970)
+* [GATE TO SOVNGARDE (GTS) - Small Mods and Resources](https://www.nexusmods.com/skyrimspecialedition/mods/97490)
+* [s6o6t LORE - Dark Anchors Ruins and Dolmens AE](https://www.nexusmods.com/skyrimspecialedition/mods/51010)
+* [s6o6t LORE - Oblivion gates AE](https://www.nexusmods.com/skyrimspecialedition/mods/50933)
+* [Sunthgat](https://www.nexusmods.com/skyrimspecialedition/mods/55343)
+* [Amber Guard](https://www.nexusmods.com/skyrimspecialedition/mods/55564)
+* [Granitehall](https://www.nexusmods.com/skyrimspecialedition/mods/57180)
+* [Reich Corigate](https://www.nexusmods.com/skyrimspecialedition/mods/58214)
+* [Granite Hill Village](https://www.nexusmods.com/skyrimspecialedition/mods/58335)
+* [Dunpar Wall](https://www.nexusmods.com/skyrimspecialedition/mods/60728)
+* [Oakwood](https://www.nexusmods.com/skyrimspecialedition/mods/61007)
+* [Lainalten](https://www.nexusmods.com/skyrimspecialedition/mods/61422)
+* [Iggath](https://www.nexusmods.com/skyrimspecialedition/mods/75157)
+* [Amol Village](https://www.nexusmods.com/skyrimspecialedition/mods/75264)
+* [Laintar Dale](https://www.nexusmods.com/skyrimspecialedition/mods/75768)
+* [Stonehills](https://www.nexusmods.com/skyrimspecialedition/mods/76508)
+* [Vernim Wood](https://www.nexusmods.com/skyrimspecialedition/mods/79036)
+* [Greymoor](https://www.nexusmods.com/skyrimspecialedition/mods/80824)
+* [New Weynon](https://www.nexusmods.com/skyrimspecialedition/mods/90041)
+* [Hvislharan - Whistling Mine Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/90444)
+* [Neugrad](https://www.nexusmods.com/skyrimspecialedition/mods/92376)
+* [Fabled Forests Patch Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/99604)
+* [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943)
+* [Last Seed - Skills of the Wild Updated Patch](https://www.nexusmods.com/skyrimspecialedition/mods/98664)
+* [Hide Those Futile Quests SE](https://www.nexusmods.com/skyrimspecialedition/mods/76361)
+* [Argonian Head Mesh Minor Adjustments](https://www.nexusmods.com/skyrimspecialedition/mods/105821)
+* [Argonian Horns (and Brows) Are Forever - High Poly Head Edition](https://www.nexusmods.com/skyrimspecialedition/mods/62854)
+* [Whiterun Watchtower Doesn't Start Broken](https://www.nexusmods.com/skyrimspecialedition/mods/49305)
+* [Environs - Master Plugin](https://www.nexusmods.com/skyrimspecialedition/mods/91160)
+* [Environs - The Ruined Tundra Farmhouse](https://www.nexusmods.com/skyrimspecialedition/mods/72981)
+* [Environs - The Greenwood Shack](https://www.nexusmods.com/skyrimspecialedition/mods/73732)
+* [Environs - Whiterun Watchtower Doesn't Stay Broken](https://www.nexusmods.com/skyrimspecialedition/mods/76261)
+* [Environs - Kolskeggr](https://www.nexusmods.com/skyrimspecialedition/mods/78477)
+* [Environs - The Shrines of Talos](https://www.nexusmods.com/skyrimspecialedition/mods/85141)
+* [Environs - Riften Warehouse](https://www.nexusmods.com/skyrimspecialedition/mods/88024)
+* [Environs - Hroggar's House](https://www.nexusmods.com/skyrimspecialedition/mods/83457)
+* [Fort Takeovers Framework](https://www.nexusmods.com/skyrimspecialedition/mods/25143)
+* [SRC - Exclude from Radiant System Options](https://www.nexusmods.com/skyrimspecialedition/mods/41881)
+* [Skyrim Realistic Conquering - All In One](https://www.nexusmods.com/skyrimspecialedition/mods/26396)
+* [Static Skill Leveling Rewritten](https://www.nexusmods.com/skyrimspecialedition/mods/89940)
+* [Classic Paralysis](https://www.nexusmods.com/skyrimspecialedition/mods/45931)
     
 **Removed**  
 
@@ -47,13 +89,25 @@ Save Safe?: NO
 * [Awesome Potion Simplified mesh patch](https://www.nexusmods.com/skyrimspecialedition/mods/72849)
 * [The Great Cities - Resources](https://www.nexusmods.com/skyrimspecialedition/mods/20272)
 * [Iconic's Ashman Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/88360)
+* [Apachii Sky Hair SSE](https://www.nexusmods.com/skyrimspecialedition/mods/2014)
+* [Immersive HUD - iHUD Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/12440)
+* [Hunting in Skyrim - A Hunting Guild SE](https://www.nexusmods.com/skyrimspecialedition/mods/10353)
+* [Hunterborn SE](https://www.nexusmods.com/skyrimspecialedition/mods/7900)
+* [Hunterborn SE MCM](https://www.nexusmods.com/skyrimspecialedition/mods/17993)
+* [Trading and NPC reactions for Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/99774)
+* [Hunterborn Animations](https://www.nexusmods.com/skyrimspecialedition/mods/80677)
+* [Carry Your Carcasses - Immersive Prices](https://www.nexusmods.com/skyrimspecialedition/mods/82584)
+* [Hunting in Skyrim Skinned Models for Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/59744)
+* [Animal Fat to Lantern Oil](https://www.nexusmods.com/skyrimspecialedition/mods/8059)
+* [iHUD and True HUD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/66476)
+* [IHud Smooth Cam Patch](https://www.nexusmods.com/skyrimspecialedition/mods/45433)
     
 **Updated**  
 
 * powerofthree's Tweaks
   > 1.8 to 1.8.1
 * Spell Perk Item Distributor (SPID)
-  > 6.6.1 to 6.7.2
+  > 6.6.1 to 6.7.4
 * ConsolePlusPlus
   > 1.2 to 1.4
 * dTry Plugin Updates
@@ -92,10 +146,18 @@ Save Safe?: NO
   > 2.30 to 2.32
 * Skyrim's Got Talent - Improve As a Bard
   > 1.63 to 1.64
+* Skyrim's Got Talent - Player Reactions Addon
+  > 1.03 to 1.04
 * Time Flies SE
   > 7.2.2 to 7.3.7
+* Indecent Exposure - Immersive Naked Reactions
+  > 0.5 to 0.5.1
 * Take a Peek - New Stealth Mechanic
   > 1.21 to 1.22
+* Sweeping Organizes Stuff - Use Broom to Clean Mess
+  > 0.4 to 0.5.2
+* Simple Fishing Overhaul - FLM Addon
+  > 1.1 to 1.2
 * Immersive Interactions - Animated Actions
   > 1.72 to 1.74
 * NPC Animation Remix (OAR)
@@ -106,8 +168,6 @@ Save Safe?: NO
   > 4.3 to 5.0
 * Animated Ingredients
   > 3.1.1 to 5.0.2
-* Hunterborn Animations
-  > 2.0 to 2.1
 * Igniting Animation for Campfire
   > 1.01 to 1.03
 * Weapon Styles - Draw-Sheathe animations for IED
@@ -191,7 +251,7 @@ Save Safe?: NO
 * True Directional Movement - Modernized Third Person Gameplay
   > 2.2.3 to 2.2.5
 * Serana Dialogue Add-On Patch Hub
-  > 2.5 to 2.7
+  > 2.5 to 2.8
 * The Great Town of Ivarstead Patch Collection
   > 2.10.1 to 2.10.2
 * Cities of the North - Morthal Patch Collection
