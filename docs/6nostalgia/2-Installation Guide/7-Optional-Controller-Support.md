@@ -4,7 +4,9 @@
 
 # [Controller Keys]
 * LS  (Sprint)
-* D-Pad Left (3rd Person)
+* D-Pad Up (3rd Person)
+*  D-Pad Left (Quick Select Guns)
+*  D-Pad Right (Quick Select Aid)
 * LB + START  (JIP Fast Travel)
 * LB + BACK (Swap Throwable)
 * LB + RB (Grenade)
