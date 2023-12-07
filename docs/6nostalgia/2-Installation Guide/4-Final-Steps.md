@@ -31,6 +31,8 @@ description: Final Installation Steps
 
 * After doing this your game should run smoothly! Run Nostalgia through MO2. You will likely receive a popup asking you would like to clear a read only flag. Make sure you choose “Clear Read Only Flag”.
 
+* Make sure to start your game and all future new games with the preconfigured save or you will end up with a bunch of messed up keybinds and the like
+
 * When in game be sure to press INS and familiarize yourself with the controls! (Controller Overlay coming soon!)
 
 Congratulations! Your game should be up and running smoothly. If you are having any issues, please re-read the guide before coming to the Discord for help. There's a help channel set up for questions and problems. Please also check the sidebar for Gameplay Guides and more information.
