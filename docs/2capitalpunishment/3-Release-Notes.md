@@ -23,6 +23,7 @@ sidebar_position: 3
 - [LumenEssence](https://www.nexusmods.com/newvegas/mods/81060?tab=files)
 - [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833?tab=files)
 - [Simple Open Lightbright](https://www.nexusmods.com/newvegas/mods/77093?tab=description)
+- [Desert Natural Realism TTW](https://www.nexusmods.com/newvegas/mods/80902?tab=files)
 
 **Removed**
 - HC Controller High Profile
