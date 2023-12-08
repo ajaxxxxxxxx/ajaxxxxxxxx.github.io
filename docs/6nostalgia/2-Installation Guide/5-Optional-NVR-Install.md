@@ -29,7 +29,7 @@ DO THIS AT YOUR OWN RISK, CAN CAUSE FRAME DROP AND OTHER ISSUES
 
 ![](https://i.gyazo.com/0bb87784fdd365c0fd760f023b252a33.png)
 
-4.) Take this file (NewVegasRoladed.dll.config) and in your NVR mod, overwrite the same file. This should be located in NVR>NVSE>Plugins
+4.) Take this file (NewVegasReloaded.dll.toml) and in your NVR mod, overwrite the same file. This should be located in NVR>NVSE>Plugins
 
 ![](https://i.gyazo.com/8113af369d915347ee4f359c2bc94e3f.png)
 
