@@ -17,6 +17,7 @@ sidebar_position: 3
 - [Classic Metal & Combat Armor x Consistent Pipboy Icons Patches](https://www.nexusmods.com/newvegas/mods/80298?tab=files)
 - [Classic Fallout Tesla Armor](https://www.nexusmods.com/newvegas/mods/80372)
 - [Classic Fallout Tesla Armor x Consistent Pipboy Icons Patch](https://www.nexusmods.com/newvegas/mods/80347?tab=files)
+- [Stay Frosty Redrawn](https://www.nexusmods.com/newvegas/mods/76378?tab=files)
 
 **Removed**
 
