@@ -1,4 +1,9 @@
-# Capital Punishment - 1.5.4.7 Update
+---
+slug: 6
+title: Capital Punishment 1.5.4.7 Update
+authors: [mnv]
+tags: [general, welcome]
+---
 
 **Save Safe?:** No
 **[Release Notes](https://www.modlists.net/docs/2capitalpunishment/Release-Notes#release-1547---12082023)**
