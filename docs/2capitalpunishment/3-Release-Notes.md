@@ -20,6 +20,7 @@ sidebar_position: 3
 - [Stay Frosty Redrawn](https://www.nexusmods.com/newvegas/mods/76378?tab=files)
 - [TTW Robco Lights](https://www.nexusmods.com/newvegas/mods/79641)
 - [Lumen NV LLL](https://www.nexusmods.com/newvegas/mods/81060?tab=files)
+- [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833?tab=files)
 
 **Removed**
 
