@@ -8,7 +8,7 @@ description: How to install NVR
 ---
 
 :::danger
-[OUTDATED] NO LONGER SUPPORTED, DO THIS AT YOUR OWN RISK, TOO MANY BUGS
+DO THIS AT YOUR OWN RISK, CAN CAUSE FRAME DROP AND OTHER ISSUES
 :::
 
 1.) Create a mod inside of the Modpack Resources separator called “[No Delete] NVR” by right clicking the separator, then navigating to All Mods>Create Empty Mod Inside
@@ -17,7 +17,7 @@ description: How to install NVR
 
 ![](https://user-images.githubusercontent.com/112358568/221451815-a9d8f7a8-0804-428b-853b-e779ecfa9b11.png)
 
-2.) To install NVR, begin by going to the [TES Reloaded Discord Server](https://discord.com/invite/QgN6mR6eTK). Go to the #nightly-builds channel to find the NewVegasReloaded.zip file shown in the image. (IF YOU DON'T THEN YOUR GAME WILL LOOK BAD). Once downloaded, extract all of the files located in the archive folder to the NVR mod you created under the Modpack Resources separator by right clicking it and opening in explorer.
+2.) To install NVR, begin by going to the [TES Reloaded Discord Server](https://discord.com/invite/QgN6mR6eTK). Go to the #nightly-builds channel to find the NewVegasReloaded.zip file from 11/24/2023. Once downloaded, extract all of the files located in the archive folder to the NVR mod you created under the Modpack Resources separator by right clicking it and opening in explorer.
 
 ![image](https://user-images.githubusercontent.com/114360108/229316194-2b772007-b6f8-48d9-8c57-413b93b97eef.png)
 
@@ -25,7 +25,7 @@ description: How to install NVR
 
 ![](https://i.gyazo.com/a13c71451a416b9da8be90cec26d4ccd.png)
 
-3.) Go to this link in the [#preset-share channel of the TES Reloaded discord](https://discord.com/channels/344843935123898369/1030630380455350272/1077380480283983973) and download A Raven of Many Hats preset.
+3.) Go to this link in the [#preset-share channel of the TES Reloaded discord](https://discord.com/channels/344843935123898369/1096837770745487522/1143008334987931748) and download the sigma preset.
 
 ![](https://i.gyazo.com/fd1e05a8a7eb19a13f126c08aefa8774.png)
 
