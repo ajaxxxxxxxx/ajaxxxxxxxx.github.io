@@ -8,6 +8,20 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 1.5.4.7 - 12/04/2023
+
+### Save Safe?: Yes (1545+)
+
+**Added**
+- [Classic Metal Armor Replacer](https://www.nexusmods.com/newvegas/mods/79493?tab=files)
+
+**Removed**
+
+**Fixed**
+- Fixed icon overwrites for consistent pipboy icon patches
+
+**Updated**
+
 ## Release 1.5.4.6 - 12/04/2023
 
 ### Save Safe?: Yes (1545+)
