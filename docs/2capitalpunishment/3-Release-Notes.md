@@ -18,6 +18,8 @@ sidebar_position: 3
 - [Classic Fallout Tesla Armor](https://www.nexusmods.com/newvegas/mods/80372)
 - [Classic Fallout Tesla Armor x Consistent Pipboy Icons Patch](https://www.nexusmods.com/newvegas/mods/80347?tab=files)
 - [Stay Frosty Redrawn](https://www.nexusmods.com/newvegas/mods/76378?tab=files)
+- [TTW Robco Lights](https://www.nexusmods.com/newvegas/mods/79641)
+- [Lumen NV LLL](https://www.nexusmods.com/newvegas/mods/81060?tab=files)
 
 **Removed**
 
