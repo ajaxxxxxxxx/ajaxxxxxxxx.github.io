@@ -4,10 +4,23 @@
         <title>Boneyard Creations Blog</title>
         <link>https://www.modlists.net/blog</link>
         <description>Boneyard Creations Blog</description>
-        <lastBuildDate>Mon, 04 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Capital Punishment 1.5.4.7 Update]]></title>
+            <link>https://www.modlists.net/blog/6</link>
+            <guid>https://www.modlists.net/blog/6</guid>
+            <pubDate>Fri, 08 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Save Safe?: No]]></description>
+            <content:encoded><![CDATA[<p><strong>Save Safe?:</strong> No
+<strong><a href="https://www.modlists.net/docs/2capitalpunishment/Release-Notes#release-1547---12082023" target="_blank" rel="noopener noreferrer">Release Notes</a></strong></p>
+<p>Fixed quite a few things that have been reported over the last few days, bring the list back to a more playable state than it has been post 1540. There may be some lingering issues or bugs that I have not fixed, but a majority of these are those that have been there for a while and are planned to be worked on for 1.5.5.0. If any bugs reoccur, please let us know in #ttw-bug-report and thank you guys for your patience!</p>
+<p><a href="https://www.reddit.com/r/boneyardcreations/comments/18do7i0/capital_punishment_1547_update/" target="_blank" rel="noopener noreferrer">Reddit Post</a></p>]]></content:encoded>
+            <category>general</category>
+            <category>welcome</category>
+        </item>
         <item>
             <title><![CDATA[Capital Punishment 1.5.4.5 Release]]></title>
             <link>https://www.modlists.net/blog/4</link>

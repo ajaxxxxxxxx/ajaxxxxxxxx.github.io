@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.modlists.net/blog</id>
     <title>Boneyard Creations Blog</title>
-    <updated>2023-12-04T00:00:00.000Z</updated>
+    <updated>2023-12-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.modlists.net/blog"/>
     <subtitle>Boneyard Creations Blog</subtitle>
     <icon>https://www.modlists.net/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Capital Punishment 1.5.4.7 Update]]></title>
+        <id>https://www.modlists.net/blog/6</id>
+        <link href="https://www.modlists.net/blog/6"/>
+        <updated>2023-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Save Safe?: No]]></summary>
+        <content type="html"><![CDATA[<p><strong>Save Safe?:</strong> No
+<strong><a href="https://www.modlists.net/docs/2capitalpunishment/Release-Notes#release-1547---12082023" target="_blank" rel="noopener noreferrer">Release Notes</a></strong></p>
+<p>Fixed quite a few things that have been reported over the last few days, bring the list back to a more playable state than it has been post 1540. There may be some lingering issues or bugs that I have not fixed, but a majority of these are those that have been there for a while and are planned to be worked on for 1.5.5.0. If any bugs reoccur, please let us know in #ttw-bug-report and thank you guys for your patience!</p>
+<p><a href="https://www.reddit.com/r/boneyardcreations/comments/18do7i0/capital_punishment_1547_update/" target="_blank" rel="noopener noreferrer">Reddit Post</a></p>]]></content>
+        <author>
+            <name>TheMrNewVegas</name>
+            <uri>https://www.patreon.com/Themrnewvegas</uri>
+        </author>
+        <category label="general" term="general"/>
+        <category label="welcome" term="welcome"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Capital Punishment 1.5.4.5 Release]]></title>
         <id>https://www.modlists.net/blog/4</id>
