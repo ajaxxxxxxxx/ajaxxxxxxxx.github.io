@@ -8,9 +8,9 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
-## Release 1.5.4.7 - 12/04/2023
+## Release 1.5.4.7 - Unreleased
 
-### Save Safe?: Yes (1545+)
+### Save Safe?: NO 
 
 **Added**
 - [Classic Metal Armor Replacer](https://www.nexusmods.com/newvegas/mods/79493?tab=files)
