@@ -35,6 +35,10 @@ sidebar_position: 3
 - Fixed icon overwrites for consistent pipboy icon patches. Thank you to discord user @Baby for pressing the issue and bringing it to my attention
 
 **Updated**
+- Animated Ingestibles - B42 Inject Patch
+> 1.3 to 1.4
+- MUX Series Overhaul
+> 6.2 to 6.2a
 
 ## Release 1.5.4.6 - 12/04/2023
 
