@@ -22,7 +22,7 @@ sidebar_position: 3
 **Removed**
 
 **Fixed**
-- Fixed icon overwrites for consistent pipboy icon patches
+- Fixed icon overwrites for consistent pipboy icon patches. Thank you to discord user @Baby for pressing the issue and bringing it to my attention
 
 **Updated**
 
