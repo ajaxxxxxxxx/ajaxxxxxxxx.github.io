@@ -24,6 +24,8 @@ sidebar_position: 3
 - [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833?tab=files)
 
 **Removed**
+- HC Controller High Profile
+> Page where this profile is stored will be updated on details for how to apply the small changes yourself!
 
 **Fixed**
 - Fixed icon overwrites for consistent pipboy icon patches. Thank you to discord user @Baby for pressing the issue and bringing it to my attention
