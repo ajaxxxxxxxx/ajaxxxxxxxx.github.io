@@ -19,7 +19,7 @@ DO THIS AT YOUR OWN RISK, CAN CAUSE FRAME DROP AND OTHER ISSUES
 
 2.) To install NVR, begin by going to the [TES Reloaded Discord Server](https://discord.com/invite/QgN6mR6eTK). Go to the #nightly-builds channel to find the NewVegasReloaded.zip file from 11/24/2023. Once downloaded, extract all of the files located in the archive folder to the NVR mod you created under the Modpack Resources separator by right clicking it and opening in explorer.
 
-![image](https://user-images.githubusercontent.com/114360108/229316194-2b772007-b6f8-48d9-8c57-413b93b97eef.png)
+![image](https://i.gyazo.com/9317e585e89594c137b84d34730e5255.png)
 
 ![](https://user-images.githubusercontent.com/112358568/221451861-f792774d-1633-4b0e-bb9f-e9be12df4722.png)
 
@@ -27,7 +27,7 @@ DO THIS AT YOUR OWN RISK, CAN CAUSE FRAME DROP AND OTHER ISSUES
 
 3.) Go to this link in the [#preset-share channel of the TES Reloaded discord](https://discord.com/channels/344843935123898369/1096837770745487522/1143008334987931748) and download the sigma preset.
 
-![](https://i.gyazo.com/fd1e05a8a7eb19a13f126c08aefa8774.png)
+![](https://i.gyazo.com/0bb87784fdd365c0fd760f023b252a33.png)
 
 4.) Take this file (NewVegasRoladed.dll.config) and in your NVR mod, overwrite the same file. This should be located in NVR>NVSE>Plugins
 
