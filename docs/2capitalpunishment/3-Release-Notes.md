@@ -14,6 +14,9 @@ sidebar_position: 3
 
 **Added**
 - [Classic Metal Armor Replacer](https://www.nexusmods.com/newvegas/mods/79493?tab=files)
+- [Classic Metal & Combat Armor Patches](https://www.nexusmods.com/newvegas/mods/80298?tab=files)
+- [Classic Fallout Tesla Armor](https://www.nexusmods.com/newvegas/mods/80372)
+- [Classic Fallout Tesla Armor x Consistent Pipboy Icons Patch](https://www.nexusmods.com/newvegas/mods/80347?tab=files)
 
 **Removed**
 
