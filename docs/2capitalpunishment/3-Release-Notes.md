@@ -21,6 +21,7 @@ sidebar_position: 3
 > Now utilizing JIP LN NVSE for NPC weapon mod distribution
 - Jacobstown Pond Fix
 - TTW Cooking Revolution (PENDING REMOVAL/MEGAPATCH UPDATING)
+- Wash Yourself & Associated Patches (PENDING REMOVAL/MEGAPATCH UPDATING)
 
 **Fixed**
 
