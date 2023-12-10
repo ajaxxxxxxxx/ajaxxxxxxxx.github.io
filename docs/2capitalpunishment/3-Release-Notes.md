@@ -19,6 +19,8 @@ sidebar_position: 3
 **Removed**
 - NAWEMO
 > Now utilizing JIP LN NVSE for NPC weapon mod distribution
+- Jacobstown Pond Fix
+- TTW Cooking Revolution (PENDING REMOVAL/MEGAPATCH UPDATING)
 
 **Fixed**
 
