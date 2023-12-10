@@ -25,6 +25,8 @@ sidebar_position: 3
 - [Simple Open Lightbright](https://www.nexusmods.com/newvegas/mods/77093?tab=description)
 - [Desert Natural Realism TTW](https://www.nexusmods.com/newvegas/mods/80902?tab=files)
 - [LightBright Strip Overhaul and Desert Natural Weather Redux patch](https://www.nexusmods.com/newvegas/mods/81253?tab=files)
+- [Hit Pipboy in Power Armor Anim](https://www.nexusmods.com/newvegas/mods/84046)
+- [Atmos - Ambient Sounds](https://www.nexusmods.com/newvegas/mods/84054)
 
 **Removed**
 - HC Controller High Profile
