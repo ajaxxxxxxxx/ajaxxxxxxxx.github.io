@@ -13,33 +13,17 @@ sidebar_position: 3
 ### Save Safe?: NO 
 
 **Added**
-- [Classic Metal Armor Replacer](https://www.nexusmods.com/newvegas/mods/79493?tab=files)
-- [Classic Metal & Combat Armor x Consistent Pipboy Icons Patches](https://www.nexusmods.com/newvegas/mods/80298?tab=files)
-- [Classic Fallout Tesla Armor](https://www.nexusmods.com/newvegas/mods/80372)
-- [Classic Fallout Tesla Armor x Consistent Pipboy Icons Patch](https://www.nexusmods.com/newvegas/mods/80347?tab=files)
-- [Stay Frosty Redrawn](https://www.nexusmods.com/newvegas/mods/76378?tab=files)
-- [TTW Robco Lights](https://www.nexusmods.com/newvegas/mods/79641)
-- [Lumen NV LLL](https://www.nexusmods.com/newvegas/mods/81060?tab=files)
-- [LumenEssence](https://www.nexusmods.com/newvegas/mods/81060?tab=files)
-- [Improved Lighting Shaders](https://www.nexusmods.com/newvegas/mods/69833?tab=files)
-- [Simple Open Lightbright](https://www.nexusmods.com/newvegas/mods/77093?tab=description)
-- [Desert Natural Realism TTW](https://www.nexusmods.com/newvegas/mods/80902?tab=files)
-- [LightBright Strip Overhaul and Desert Natural Weather Redux patch](https://www.nexusmods.com/newvegas/mods/81253?tab=files)
-
+[Hit Pipboy in PA Animations](https://www.nexusmods.com/newvegas/mods/84046)
+[Atmos Ambient Sound Overhaul](https://www.nexusmods.com/newvegas/mods/84054)
 
 **Removed**
-- HC Controller High Profile
-> Page where this profile is stored will be updated on details for how to apply the small changes yourself!
-- Brightweight Strip Overhaul & DNW Patch
+
 
 **Fixed**
-- Fixed icon overwrites for consistent pipboy icon patches. Thank you to discord user @Baby for pressing the issue and bringing it to my attention
+
 
 **Updated**
-- Animated Ingestibles - B42 Inject Patch
-> 1.3 to 1.4
-- MUX Series Overhaul
-> 6.2 to 6.2a
+
 
 ## Release 1.5.4.7 - 12/08/2023
 
