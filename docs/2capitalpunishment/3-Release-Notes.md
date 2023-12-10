@@ -17,7 +17,8 @@ sidebar_position: 3
 - [Atmos Ambient Sound Overhaul](https://www.nexusmods.com/newvegas/mods/84054)
 
 **Removed**
-
+- NAWEMO
+> Now utilizing JIP LN NVSE for NPC weapon mod distribution
 
 **Fixed**
 
