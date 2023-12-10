@@ -13,8 +13,8 @@ sidebar_position: 3
 ### Save Safe?: NO 
 
 **Added**
-[Hit Pipboy in PA Animations](https://www.nexusmods.com/newvegas/mods/84046)
-[Atmos Ambient Sound Overhaul](https://www.nexusmods.com/newvegas/mods/84054)
+- [Hit Pipboy in PA Animations](https://www.nexusmods.com/newvegas/mods/84046)
+- [Atmos Ambient Sound Overhaul](https://www.nexusmods.com/newvegas/mods/84054)
 
 **Removed**
 
