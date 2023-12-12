@@ -27,7 +27,22 @@ sidebar_position: 3
 
 
 **Updated**
-
+- MUX Interface Overhaul
+> 6.2 to 6.3
+- TTW - Robco Lights
+> 1.0 to 1.1
+- Consistent Pipboy Icons v5 Extension
+> 3.0 to 3.1
+- Consistent Pipboy Icons v5 Items
+> 5.05 to 5.06
+- Yvile's Crash Logger
+> 4.5.2 to 4.5.3
+- Aid Addon
+> 13.13 to 13.35
+- Titans of the New West
+> 2.1.11 to 2.1.12
+- Benny Humbles You
+> 12.31 to 12.34
 
 ## Release 1.5.4.7 - 12/08/2023
 
