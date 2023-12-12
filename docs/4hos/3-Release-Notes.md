@@ -2,6 +2,29 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 0.9.2.2  
+Save Safe?: YES   
+  
+**Added**  
+  
+* [Backported Extended ESL Support](https://www.nexusmods.com/skyrimspecialedition/mods/106441)
+* [HD Remastered Blended Roads - 8k 4k 2k 1k](https://www.nexusmods.com/skyrimspecialedition/mods/63674)
+* [TrueHUD - No Enemy Healthbar Fade Delay](https://www.nexusmods.com/skyrimspecialedition/mods/76427)
+* [Descriptions for Various Mods](https://www.nexusmods.com/skyrimspecialedition/mods/106229)
+* [Recursion Monitor](https://www.nexusmods.com/skyrimspecialedition/mods/76867)
+* [Skyrim Priority SE AE - CPU Performance FPS Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/50129)
+* [Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133)
+* [Venerable Nordic Temples (2K - 4K)](https://www.nexusmods.com/skyrimspecialedition/mods/38544)
+    
+**Removed**
+
+* [Achievements Mods Enabler](https://www.nexusmods.com/skyrimspecialedition/mods/245)
+* [Naked Dead NPC Fix](https://www.nexusmods.com/skyrimspecialedition/mods/99024)
+  
+**Updated**
+
+* 
+
 # Release 0.9.2  
 Save Safe?: NO   
   
@@ -295,6 +318,7 @@ Save Safe?: YES (Although using a save from an interior is advised)
 * [Water for ENB - Patch - Cabbage ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061)
     
 **Removed**
+
 * [NAT 2018](https://www.nexusmods.com/skyrimspecialedition/mods/12842)
   
 **Updated** 
