@@ -20,6 +20,8 @@ Save Safe?: YES
 
 * [Achievements Mods Enabler](https://www.nexusmods.com/skyrimspecialedition/mods/245)
 * [Naked Dead NPC Fix](https://www.nexusmods.com/skyrimspecialedition/mods/99024)
+* [Road Chunk Remover with Blended Roads Compatiblility](https://www.nexusmods.com/skyrimspecialedition/mods/42179)
+* [Realistic Trading Stocks of Skyrim (with DnD Spellcasting Service)](https://www.nexusmods.com/skyrim/mods/77680)
   
 **Updated**
 
