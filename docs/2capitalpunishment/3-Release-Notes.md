@@ -22,6 +22,8 @@ sidebar_position: 3
 - Jacobstown Pond Fix
 - TTW Cooking Revolution (PENDING REMOVAL/MEGAPATCH UPDATING)
 - Wash Yourself & Associated Patches (PENDING REMOVAL/MEGAPATCH UPDATING)
+- Fire Queue Fix
+> Now a part of Stewie's Tweaks
 
 **Fixed**
 
