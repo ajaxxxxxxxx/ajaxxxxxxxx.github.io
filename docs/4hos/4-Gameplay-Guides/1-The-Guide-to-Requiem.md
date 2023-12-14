@@ -17,7 +17,7 @@ description: Halls of Sovngarde Installation Guide
 - [Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
 - [Immersive Divine Blessings](https://www.nexusmods.com/skyrimspecialedition/mods/61297)
 - [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)
-- [Hunterborn](https://www.nexusmods.com/skyrimspecialedition/mods/7900)
+- [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943)
 - [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667)
 - [Skills of the Wild](https://www.nexusmods.com/skyrimspecialedition/mods/37693) (list was made on an older version built for Hunterborn but info is mostly the same)
 - [Wounds](https://www.nexusmods.com/skyrimspecialedition/mods/17581)
