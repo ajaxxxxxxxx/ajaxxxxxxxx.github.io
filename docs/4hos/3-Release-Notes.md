@@ -15,6 +15,8 @@ Save Safe?: YES
 * [Skyrim Priority SE AE - CPU Performance FPS Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/50129)
 * [Shadow Boost](https://www.nexusmods.com/skyrimspecialedition/mods/73133)
 * [Venerable Nordic Temples (2K - 4K)](https://www.nexusmods.com/skyrimspecialedition/mods/38544)
+* [Producers of Skyrim - Farmers Miners Fishermen Are Vendors](https://www.nexusmods.com/skyrimspecialedition/mods/61123)
+* [Favor Jobs Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40145/)
     
 **Removed**
 
@@ -25,7 +27,64 @@ Save Safe?: YES
   
 **Updated**
 
-* 
+* Address Library for SKSE Plugins
+  > 8.0 to 9.0
+* Spell Perk Item Distributor (SPID)
+  > 6.7.4 to 6.7.5
+* SSE Display Tweaks
+  > 0.5.12 to 0.5.14
+* Papyrus Ini Manipulator
+  > 1.9.3 to 1.9.4
+* AI Overhaul SSE
+  > 1.8.4 to 1.8.5
+* Simple Dual Sheath
+  > 1.5.6 to 1.5.7
+* Immersive Equipment Displays
+  > 1.7.3 to 1.7.4
+* Description Framework
+  > 1.1.1 to 1.2.1
+* Vanilla Item Descriptions
+  > 1.0 to 1.1
+* Time Flies SE
+  > 7.3.7 to 7.3.8
+* Soaking Wet - Character Wetness Effect
+  > 1.2 to 1.2.1
+* Lively Children Animations (OAR)
+  > 1.0 to 2.0
+* New Praying Animations (OAR)
+  > 1.0.1 to 1.1.0
+* Immersive folded hands (OAR)
+  > 1.5 to 1.6
+* Conditional tavern cheering (OAR)
+  > 1.1 to 1.2
+* Diverse Catches - Base Object Swapper - INI update
+  > 1.5 to 1.6
+* FYX - Palace of The Kings
+  > 1.0.1.1 to 1.0.2
+* Water for ENB
+  > 1.84 to 1.86
+* Unique Armors and Weapons Retexture SE
+  > 1.0 to 1.0.1
+* Object Categorization Framework
+  > 4.7.1 to 4.8
+* The Handy Icon Collection Collective for I4
+  > 1.4.1 to 1.5
+* Lux Via
+  > 1.7 to 2.1
+* Lux Orbis
+  > 3.3 to 4.0
+* DynDOLOD Resources SE 3
+  > Alpha-45 to Alpha-46
+* DynDOLOD 3 Alpha
+  > Alpha-148 to Alpha-159
+* XP32 Maximum Skeleton Special Extended - XPMSSE
+  > 5.04 to 5.05
+* The Great City of Winterhold Patch Collection
+  > 2.3 to 2.3.1
+* JK's Solitude Outskirts Patch Collection
+  > 1.3 to 1.4
+* Descriptions for Various Mods
+  > 1.5 to 2.1
 
 # Release 0.9.2  
 Save Safe?: NO   
