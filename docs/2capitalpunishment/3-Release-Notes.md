@@ -15,6 +15,8 @@ sidebar_position: 3
 **Added**
 - [Hit Pipboy in PA Animations](https://www.nexusmods.com/newvegas/mods/84046)
 - [Atmos Ambient Sound Overhaul](https://www.nexusmods.com/newvegas/mods/84054)
+- [Base Object Swapper](https://www.nexusmods.com/newvegas/mods/83934?tab=files)
+- [Kaleidoscope](https://www.nexusmods.com/newvegas/mods/84017?tab=description)
 
 **Removed**
 - NAWEMO
