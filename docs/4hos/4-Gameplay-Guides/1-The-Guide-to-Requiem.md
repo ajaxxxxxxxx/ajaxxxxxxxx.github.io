@@ -19,7 +19,7 @@ description: Halls of Sovngarde Installation Guide
 - [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)
 - [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943)
 - [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667)
-- [Skills of the Wild](https://www.nexusmods.com/skyrimspecialedition/mods/37693) (list was made on an older version built for Hunterborn but info is mostly the same)
+- [Skills of the Wild](https://www.nexusmods.com/skyrimspecialedition/mods/37693)
 - [Wounds](https://www.nexusmods.com/skyrimspecialedition/mods/17581)
 - [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393)
 :::
