@@ -47,6 +47,8 @@ sidebar_position: 3
 > 2.1.11 to 2.1.12
 - Benny Humbles You
 > 12.31 to 12.34
+- ATMOS Ambient Sound Overhaul
+> 1.0 to 1.1
 
 ## Release 1.5.4.7 - 12/08/2023
 
