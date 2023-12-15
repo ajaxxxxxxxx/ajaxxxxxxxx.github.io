@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Release Notes 
 
-## For More In Depth Development Changelogs, Refer to [Trello](https://trello.com/b/mZ6GzGul/boneyard-creations-development-task-list)
+## For Changelogs Regarding Bugfixes and More In Depth Processes, Refer to [Trello](https://trello.com/b/mZ6GzGul/boneyard-creations-development-task-list)
 
 ### (Newest to Oldest)
 
