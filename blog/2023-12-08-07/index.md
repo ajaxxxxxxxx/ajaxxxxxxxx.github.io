@@ -17,4 +17,4 @@ Capital Punishment's 1.5.5.0 release is upon us and has released with a few bug 
 - If switching profiles only provides minimally positive results, try installing [NVHR](https://www.modlists.net/docs/2capitalpunishment/InstallGuide/Performance-Tweaks#downgrade-to-nvhr-32). THIS CAN BE DONE AT ANY POINT IN YOUR PLAYTHROUGH
 - If none of these work for you or your issues still persist, then refer to [Wall's Performance Guide](https://performance.moddinglinked.com/falloutnv.html)
 
-[Reddit Post]()
+[Reddit Post](https://www.reddit.com/r/boneyardcreations/comments/18it5yv/capital_punishment_1550_release/)
