@@ -31,54 +31,57 @@ description: Ordo Hereticus Install Guide
 Most of this can be to personal taste, but this is what I run and recommend.
 
 ```
-- Toggle Mods - Everything should be enabled already
-- Darktide Mod Framework - Turn on Developer Mode and Show Developer Console; Keep everything else as it is
-- LogMeIn - Keep as is
-- AFK - Keep as is
-- Barter At Once - Keep as it; Enable Skip Confirmation Popup
-- BetterMelk - Keep as is
-- Blessings of the Omnissiah - Personal Preference
-- Book Finder - Personal Preference
-- Buy Until Rating - Keep as is; Personal preference
-- Contacts Overlay - Keep as is
-- Custom Flames - Personal preference
-- DarkCache - Turn everything on; Mission Board, Premium Store, and Dev Mod should be off
-- DynamicCrosshair - Keep as is
-- Equipped Icon+ - Keep as is; Personal preference
-- For The Emperor! - Keep as is; Personal preference
-- FullAuto - Keep as is
-- Healthbars - Turn everything on that isn't tagged [monster]; Can be adjusted to personal taste
-- Hub Hotkey Menus - Personal preference; I did it in order on NumPad
-- Inventory2D - Keep as is; Personal preference
-- Item Sorting - Keep as is; Personal Preference
-- KeepSwinging - Personal preference; I set Toggle to Mouse 4
-- Killfeed Improvements - Keep as is
-- Kill Tracker - Keep as is
-- loadinglore - Keep as is; Personal preference
-- Modular Menu Buttons - Keep as is; Personal preference
-- MoreGraphicsOptions - This is if you want to fine tune your graphics settings to get more frames. Entirely up to you.
-- Faulty Mouse Workaround - I swear this one is placebo but I was getting some click issues as Psyker. Disable/enable as needed.
-- Name It - Keep as is
-- Nothing New - Toggle as needed
-- Numeric UI - Personal preference; I turned off Dodge Count HUD
-- Pew Pew - Personal preference. This one goes a little more in depth, you can change what each individual gun will shoot. I just changed what I usually run and left it at that.
-- PsykaniumDefaultDifficulty - Personal preference
-- Quick Look Card - Keep as is
-- Quick Chat - This requires a bit of setup with the Lua file, but you can just use the premade options and set it up however you'd like.
-- Ration Pack - Turn on Show Numbers
-- ReorderChars - Keep as is
-- Reveal Blessings - Keep as is
-- Scanner Darkly - Keep as is
-- Scoreboard - Turn everything on, change 'Open Scoreboard History' to F6; Can be adjusted to personal taste
-- Scoreboard Enhanced Defense Plugin - Keep as is; Personal preference
-- Show Equipped In Lobby - Keep as is
-- Show Me Real Weapon Stats - Keep as is
-- Smaller Telent Tree - Personal preference; I put the scale at 0.45
-- Sorted Mission Grid - Keep as is
-- Talent Tree UX - Keep as is; Personal preference
-- Toggle HUD - Personal preference
-- True Level - Personal preference
-- Volley Fire Timer - Keep as is; Personal preference
-- Weapon FOV - Keep as is; Personal preference
-- What The Localization - Keep as is
+Toggle Mods - Everything should be enabled already
+Darktide Mod Framework -  Keep as is
+LogMeIn - Keep as is
+AFK - Keep as is
+Barter At Once - Keep as it; Enable Skip Confirmation Popup
+BetterMelk - Keep as is
+Blessings of the Omnissiah - Personal Preference
+Book Finder - Personal Preference
+BornReady - Keep as is; Personal preference
+Buy Until Rating - Keep as is; Personal preference
+Contacts Overlay - Keep as is
+Custom Flames - Personal preference
+DarkCache - Turn everything on; Mission Board, Premium Store, and Dev Mod should be off
+Decode Helper - Keep as is; Personal preference
+DynamicCrosshair - Keep as is
+Equipped Icon+ - Keep as is; Personal preference
+For The Emperor! - Keep as is; Personal preference
+FullAuto - Keep as is
+Healthbars - Turn everything on that isn't tagged [monster]; Can be adjusted to personal taste
+Hub Hotkey Menus - Personal preference; I did it in order on NumPad
+Inventory2D - Keep as is; Personal preference
+Item Sorting - Keep as is; Personal Preference
+KeepSwinging - Personal preference; I set Toggle to Mouse 4
+Killfeed Improvements - Keep as is
+Kill Tracker - Keep as is
+loadinglore - Keep as is; Personal preference
+Modular Menu Buttons - Keep as is; Personal preference
+MoreGraphicsOptions - This is if you want to fine tune your graphics settings to get more frames. Entirely up to you.
+Faulty Mouse Workaround - I swear this one is placebo but I was getting some click issues as Psyker. Disable/enable as needed.
+Name It - Keep as is
+Nothing New - Toggle as needed
+Numeric UI - Personal preference; I turned off Dodge Count HUD
+Pew Pew - Personal preference. This one goes a little more in depth, you can change what each individual gun will shoot. I just changed what I usually run and left it at that.
+PsykaniumDefaultDifficulty - Personal preference
+Quickest Play - Requires a bit of set up, entirely up to you
+Quick Look Card - Keep as is
+Quick Chat - This requires a bit of setup with the Lua file, but you can just use the premade options and set it up however you'd like.
+Ration Pack - Turn on Show Numbers
+ReorderChars - Keep as is
+Reveal Blessings - Keep as is
+Scanner Darkly - Keep as is
+Scoreboard - Turn everything on, change 'Open Scoreboard History' to F6; Can be adjusted to personal taste
+Scoreboard Enhanced Defense Plugin - Keep as is; Personal preference
+Show Equipped In Lobby - Keep as is
+Show Me Real Weapon Stats - Keep as is
+Smaller Telent Tree - Personal preference; I put the scale at 0.45
+Sorted Mission Grid - Keep as is
+Talent Tree UX - Keep as is; Personal preference
+Toggle HUD - Personal preference
+True Level - Personal preference
+Volley Fire Timer - Keep as is; Personal preference
+Weapon FOV - Keep as is; Personal preference
+What The Localization - Keep as is
 ```
