@@ -41,6 +41,7 @@ sidebar_position: 3
 > Now a part of Stewie's Tweaks
 - FO3 HD Overhaul
 > Was unable to compress these files/pack them into the Wabbajack as compressed files so running with 8k textures is not worth it
+- Radiant Infinium 
 
 **Updated**
 - MUX Interface Overhaul
