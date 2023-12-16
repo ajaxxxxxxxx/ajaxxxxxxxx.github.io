@@ -7,13 +7,25 @@ description: Release Notes
 
 # Releases (Newest to Oldest)
 
+## Release 1.1.X.X - Unreleased
+
+### Save Safe?: TBD 
+
+**Added**
+
+[Throat Singing Temple Healers - Radicalized](https://www.nexusmods.com/morrowind/mods/53843)
+
+[Weapon Sheathing - Claymores on Hip - OpenMW](https://www.nexusmods.com/morrowind/mods/53846)
+
+**Removed**
+
+**Updated**
+
 ## Release 1.1.0.0
 
 ### Save Safe?: NO
 
-### Requires Latest OpenMW Development Build (.49)
-
-### Added
+**Added**
 
 [Aether Pirate’s Discovery](https://www.nexusmods.com/morrowind/mods/53320)
 
@@ -201,7 +213,7 @@ description: Release Notes
 [Mid Mushrooms - Ascadian Isles](https://www.nexusmods.com/morrowind/mods/53235)
 
 
-[Morag Tong Polished]
+[Morag Tong Polished](https://www.nexusmods.com/morrowind/mods/47041)
 
 
 [MUSE Music Expansion - Ashlander](https://www.nexusmods.com/morrowind/mods/51255)
@@ -329,7 +341,7 @@ description: Release Notes
 
 [Vivec and Velothi - Arkitektora Vol.2](https://www.nexusmods.com/morrowind/mods/46266)
 
-### Updated
+**Updated**
 
 A Cold Cell 1.0.3 to 1.0.4
 
@@ -393,7 +405,7 @@ Voiced Vivec and Yakety Yagrum - Merged and Improved 1.0 to 1.1
 
 Zack’s Lua Multimark Mod 1.1.1 to 1.2
 
-### Removed
+**Removed**
 
 Apel's Fire Retexture Patched for OpenMW and Morrowind Rebirth
 
