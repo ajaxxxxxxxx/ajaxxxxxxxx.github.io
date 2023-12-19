@@ -86,6 +86,12 @@ Save Safe?: YES
   > 1.3 to 1.4
 * Descriptions for Various Mods
   > 1.5 to 2.1
+* Animated Poisons
+  > 5.1.1 to 3.2.1
+* Animated Potions
+  > 5.0 to 4.3
+* Animated Ingredients
+  > 5.0.2 to 3.1.1
 
 # Release 0.9.2  
 Save Safe?: NO   
