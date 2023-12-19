@@ -13,13 +13,59 @@ description: Release Notes
 
 **Added**
 
-[Throat Singing Temple Healers - Radicalized](https://www.nexusmods.com/morrowind/mods/53843)
+[Dynamic Distant Buildings - OpenMW Lua](https://www.nexusmods.com/morrowind/mods/53214)
 
-[Weapon Sheathing - Claymores on Hip - OpenMW](https://www.nexusmods.com/morrowind/mods/53846)
+[Hammerfell Ansei Warrior Armour](https://www.nexusmods.com/morrowind/mods/53822)
+
+[Imperial Employment Office (MD Edit)](https://www.nexusmods.com/morrowind/mods/53845)
+
+[Nine-Holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093) 
+
+[Superior Shulk Eggmine - OAAB](https://www.nexusmods.com/morrowind/mods/53785)
+
+[Thirteen Telvanni - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52081)
+
+[Throat Singing Temple Healers - Radicalized](https://www.nexusmods.com/morrowind/mods/53843)
 
 **Removed**
 
 **Updated**
+
+BCOM 3.0 to 3.0.3
+
+Better Bound Items 1.03 to 1.04
+
+Kogoruhn - Extinct City of Ash and Sulfur 2.6 to 2.7
+
+Lord of Rebirth 1.5 to 1.6
+
+Mage Robes 2.2.2 to 2.3
+
+Markgran Forest (Maar Gan Forest) 1.2 to 1.5
+
+NCGDMW Lua Edition 1.3 to 2.0
+
+Nine-Holes 1.06 to 1.07
+
+OAAB Shipwrecks 1.7.4 to 1.7.7
+
+Tabletop Alchemy 1.2 to 1.2.1
+
+The Fires of Orc 2.1 to 2.2
+
+The Search for the White Wave 1.2 to 1.3
+
+Thickle-Lo - The Succulent Hackle-Lo Mod 1.2 to 1.3
+
+Thirteen Telvanni 
+
+Vanilla Friendly Wearables Expansion 3.3 to 3.4
+
+Various Armor Improvements and Patches 1.4 to 1.6
+
+Vindsvept Solstheim 1.0 to 1.1
+
+Weapon Expansion Project 1.2 to 2.0.1
 
 ## Release 1.1.0.0
 
