@@ -92,6 +92,8 @@ Save Safe?: YES
   > 5.0 to 4.3
 * Animated Ingredients
   > 5.0.2 to 3.1.1
+* Dragon Armors and Weapons Retexture SE
+  > 1.3 to 2.1
 
 # Release 0.9.2  
 Save Safe?: NO   
