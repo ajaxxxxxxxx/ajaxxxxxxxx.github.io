@@ -15,6 +15,7 @@ sidebar_position: 3
 ### Save Safe?: NO 
 
 **Added**
+- [LOD Fixes & Improvements](https://www.nexusmods.com/newvegas/mods/84171)
 
 **Removed**
 - Wash Yourself & Dirt Textures
