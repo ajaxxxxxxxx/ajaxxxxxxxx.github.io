@@ -20,6 +20,26 @@ sidebar_position: 3
 - Wash Yourself & Dirt Textures
 
 **Updated**
+- Kaleidoscope
+> 1.2 to 1.3
+- Improved Console
+> 1.6 to 3.0
+- Titans of the New West
+> 2.1.12 to 2.1.13
+- Aid Addon
+> 13.35 to 13.36
+- Just Sprint Plus
+> 1.07 to 1.075
+- FPGEL
+> 6.2 to 6.5
+- FNV Clean Animations - Grenade Pack
+> 1.1 to 1.1.1 (Update is Separate)
+- WAP Year One & Bonus
+> 1.61 to 1.9
+- Death Throes - Reactive Ragdolls
+> 1.2 to 1.7
+- Atmos Sound Overhaul
+> 1.1 to 1.3
 
 ## Release 1.5.5.0 - 12/14/2023
 
