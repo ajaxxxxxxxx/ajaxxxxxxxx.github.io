@@ -25,6 +25,8 @@ Save Safe?: YES
 * [Road Chunk Remover with Blended Roads Compatiblility](https://www.nexusmods.com/skyrimspecialedition/mods/42179)
 * [Realistic Trading Stocks of Skyrim (with DnD Spellcasting Service)](https://www.nexusmods.com/skyrim/mods/77680)
 * [Patch Hub mineorescript.pex](https://www.nexusmods.com/skyrimspecialedition/mods/73168)
+* [Weapon Styles - Draw-Sheathe animations for IED](https://www.nexusmods.com/skyrimspecialedition/mods/85085)
+* [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210)
   
 **Updated**
 
