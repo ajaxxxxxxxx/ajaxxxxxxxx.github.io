@@ -27,6 +27,7 @@ Save Safe?: YES
 * [Patch Hub mineorescript.pex](https://www.nexusmods.com/skyrimspecialedition/mods/73168)
 * [Weapon Styles - Draw-Sheathe animations for IED](https://www.nexusmods.com/skyrimspecialedition/mods/85085)
 * [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210)
+* [Extra Drawing Animations](https://www.nexusmods.com/skyrimspecialedition/mods/37804)
   
 **Updated**
 
