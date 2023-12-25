@@ -36,11 +36,31 @@ sidebar_position: 3
 - FNV Clean Animations - Grenade Pack
 > 1.1 to 1.1.1 (Update is Separate)
 - WAP Year One & Bonus
-> 1.61 to 1.9
+> 1.61 to 1.9 to 2.01
 - Death Throes - Reactive Ragdolls
 > 1.2 to 1.7
 - Atmos Sound Overhaul
 > 1.1 to 1.3
+- Stewie's Tweaks
+> 8.81 to 8.85
+- Another Millenia
+> 1.6 to 2.4
+- Bad Touch
+> 1.6 to 1.7
+- Fallout Alpha Rendering Tweaks
+> 2.5 to 2.51
+- Consistent Pip-Boy Icons v5 - Framework Plugin
+> 5.05 to 5.06
+- Another Millenia & TTW Cell Forwarding
+> 2.3a to 2.4
+- Another Millenia Shop Add-on TTW
+> 1.3 to 1.4.1
+- WAP B42 Optics Patch
+> 1.2 to 1.3
+- Lumenessence
+> 1.0 to 1.1
+- Desert Natural Weathers
+> 7.1 to 7.2
 
 ## Release 1.5.5.0 - 12/14/2023
 
