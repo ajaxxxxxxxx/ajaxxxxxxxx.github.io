@@ -50,7 +50,16 @@ It is stored in Benny's safe at the Tops Casino
 
 More than likely not and if there is it will not be in the forseeable future
 
-## **10.) How do I start the DLC's?**
+## **10.) Why does my game show an error with YUPTTW when I start?**
+
+This is likely because your load order has been alphabetized. This is a common bug that occurs with MO2 and causes for mods to load out of order, therefore causing issue and error. To fix it do the following
+
+- Download the [Casual Load Order Text File](https://loadorderlibrary.com/lists/capital-punishment-casual-list) or [Hardcore Load Order Text File](https://loadorderlibrary.com/lists/capital-punishment-1122) depending on which you are playing.
+- Locate where your Capital Punishment is installed, then go to `Capital Punishment/Profiles/[The Profile You Are Playing]
+- Drag and drop the downloaded text file you have just installed in this path, overwriting the one that is already there
+- Close and relaunch or refresh MO2. This should fix your load order and any overwrite errors
+
+## **11.) How do I start the DLC's?**
 
 __**Starting the DLC for Fallout: New Vegas works as follows:**__
 - **Dead Money:** The radio broadcast reaches to about Helios One and needs to be listened to for the quest to start.
