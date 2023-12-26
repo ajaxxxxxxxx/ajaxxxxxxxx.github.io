@@ -28,6 +28,8 @@ Save Safe?: YES
 * [Weapon Styles - Draw-Sheathe animations for IED](https://www.nexusmods.com/skyrimspecialedition/mods/85085)
 * [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210)
 * [Extra Drawing Animations](https://www.nexusmods.com/skyrimspecialedition/mods/37804)
+* [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161)
+* [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782)
   
 **Updated**
 
@@ -97,6 +99,8 @@ Save Safe?: YES
   > 5.0.2 to 3.1.1
 * Dragon Armors and Weapons Retexture SE
   > 1.3 to 2.1
+* Kynareth Replaces Talos - Civil War Consequence
+  > 1.1 to 2.0
 
 # Release 0.9.2  
 Save Safe?: NO   
