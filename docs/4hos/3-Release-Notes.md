@@ -30,6 +30,8 @@ Save Safe?: YES
 * [Extra Drawing Animations](https://www.nexusmods.com/skyrimspecialedition/mods/37804)
 * [Serana Dialogue Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/32161)
 * [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782)
+* [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014)
+* [SCAR AE Support](https://www.nexusmods.com/skyrimspecialedition/mods/77285)
   
 **Updated**
 
