@@ -58,22 +58,17 @@ description: Halls of Sovngarde Installation Guide
 
 ### 4.) Go into mcm recorder mcm and play HoS recording
 
-### 5.) press backspace to go into IED menu, each section has a corresponding HoS preset, with an additional one for the horserace (don't apply to humans)
+### 5.) In the IED menu, import the HoS preset
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/216681f4-f46e-4902-b644-364615982e51)
-
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/31b6db22-9b23-4183-9111-b935a080ebbc)
-
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/7ea12259-af65-42c2-8cd0-04db56f6b947)
-
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/85ba28a3-0889-494a-a146-9ddc608a86a2)
-
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/fed43582-b43e-4079-b2bc-413088c748f7)
-
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/90bc6b58-8d68-4c73-a9fc-629d295b5ac6)
-
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/75a512f4-e05a-410f-96ed-51ffa7732735)
-
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/257e743f-74ed-4630-a6ec-08d0987023fc)
+Press backspace 
+Top left look for “file”, click it
+Import/export, click it
+Click “default” 
+In the drop down menu look for “HoS”
+Click it 
+Select “Import”
+Click Ok
+Close
+File - Exit
 
 ### 6.) Press enter and select continue
