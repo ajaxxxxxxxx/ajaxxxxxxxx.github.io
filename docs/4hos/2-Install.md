@@ -58,17 +58,17 @@ description: Halls of Sovngarde Installation Guide
 
 ### 4.) Go into mcm recorder mcm and play HoS recording
 
-### 5.) In the IED menu, import the HoS preset
-
-Press backspace 
-Top left look for “file”, click it
-Import/export, click it
-Click “default” 
-In the drop down menu look for “HoS”
-Click it 
-Select “Import”
-Click Ok
-Close
-File - Exit
+### 5.) In the IED menu, import the HoS preset  
+  
+Press backspace   
+Top left look for “file”, click it  
+Import/export, click it  
+Click “default”   
+In the drop down menu look for “HoS”  
+Click it   
+Select “Import”  
+Click Ok  
+Close  
+File - Exit  
 
 ### 6.) Press enter and select continue
