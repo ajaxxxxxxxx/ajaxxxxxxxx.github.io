@@ -56,6 +56,8 @@ Save Safe?: NO
 * [Fire Hurts NG](https://www.nexusmods.com/skyrimspecialedition/mods/74064)
 * [Fire Hurts Not Steam](https://www.nexusmods.com/skyrimspecialedition/mods/107456)
 * [Precision Trail Replacer - Simple](https://www.nexusmods.com/skyrimspecialedition/mods/83544)
+* [Third Era Alchemy Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/60057)
+* [Requiem - Third Era Alchemy Equipment](https://www.nexusmods.com/skyrimspecialedition/mods/79506)
     
 **Removed**
 
