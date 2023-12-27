@@ -2,8 +2,8 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 0.9.2.2  
-Save Safe?: YES   
+# Release 0.9.3  
+Save Safe?: NO   
   
 **Added**  
   
@@ -17,6 +17,45 @@ Save Safe?: YES
 * [Venerable Nordic Temples (2K - 4K)](https://www.nexusmods.com/skyrimspecialedition/mods/38544)
 * [Producers of Skyrim - Farmers Miners Fishermen Are Vendors](https://www.nexusmods.com/skyrimspecialedition/mods/61123)
 * [Favor Jobs Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/40145/)
+* [Requiem - Lock Bashing Visualized](https://www.nexusmods.com/skyrimspecialedition/mods/84614)
+* [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)
+* [NVIDIA Reflex Support](https://www.nexusmods.com/skyrimspecialedition/mods/74498)
+* [Creation Club Item Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/106048)
+* [GKB Waves Reborn](https://www.nexusmods.com/skyrimspecialedition/mods/71126)
+* [ProjectedDiffuse Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/57643)
+* [Console Commands Extender - Anniversary Edition Update](https://www.nexusmods.com/skyrimspecialedition/mods/74390)
+* [Atlantean Landscape -Rocks and Dirt- Complex Terrain Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/84425)
+* [Amol Village Texture Patch](https://www.nexusmods.com/skyrimspecialedition/mods/80834)
+* [Missives - The Witcher Board HD (4K-2K-ENB Light)](https://www.nexusmods.com/skyrimspecialedition/mods/47097)
+* [Simple Hunting Overhaul - MCM](https://www.nexusmods.com/skyrimspecialedition/mods/103439)
+* [XPMSSE - Extra Animations](https://www.nexusmods.com/skyrimspecialedition/mods/105364)
+* [Misc. Blended Road Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42643)
+* [FSMP - Faster HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339)
+* [SMP-NPC crash fix](https://www.nexusmods.com/skyrimspecialedition/mods/91616)
+* [Artesian Cloaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/17416)
+* [Artesian Cloaks of Skyrim - Patches for CCOR](https://www.nexusmods.com/skyrimspecialedition/mods/35498)
+* [Cheese Wedge - Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/82108)
+* [Eidar Cheese Wedge 2K-8K by iimlenny](https://www.nexusmods.com/skyrimspecialedition/mods/95687)
+* [Complete Cheese Wheel Models for iimlenny's Eidar and Pfuscher's Goat Cheeses](https://www.nexusmods.com/skyrimspecialedition/mods/107588)
+* [Vanilla hair remake](https://www.nexusmods.com/skyrimspecialedition/mods/63979)
+* [HDT SMP XMLs](https://www.nexusmods.com/skyrimspecialedition/mods/25240)
+* [Vanilla hair - Salt and Wind](https://www.nexusmods.com/skyrimspecialedition/mods/45147)
+* [KS Hairdos - HDT SMP (Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
+* [Salt and Wind - Rough Hair for KS Hairdos SE](https://www.nexusmods.com/skyrimspecialedition/mods/16582)
+* [Falmer Overhaul - New models and textures](https://www.nexusmods.com/skyrimspecialedition/mods/86338)
+* [Night Mother](https://www.nexusmods.com/skyrimspecialedition/mods/83527)
+* [Arissa - Default Body plus Dialog Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42187)
+* [Bears of the North patches for SkyTest and Savage Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/47708)
+* [ENB Light Detection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/107693)
+* [Custom Window](https://www.nexusmods.com/skyrimspecialedition/mods/83945)
+* [Requiem Magic Redone - Enemy Magic Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/79506)
+* [Simple Hunting Overhaul - Eating Animations and Sounds Patch](https://www.nexusmods.com/skyrimspecialedition/mods/98077)
+* [Serana Dialogue Edit - Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/16222)
+* [Exchange Currency SE](https://www.nexusmods.com/skyrimspecialedition/mods/491)
+* [Fires Hurt RE](https://www.nexusmods.com/skyrimspecialedition/mods/67473)
+* [Fire Hurts NG](https://www.nexusmods.com/skyrimspecialedition/mods/74064)
+* [Fire Hurts Not Steam](https://www.nexusmods.com/skyrimspecialedition/mods/107456)
+* [Precision Trail Replacer - Simple](https://www.nexusmods.com/skyrimspecialedition/mods/83544)
     
 **Removed**
 
@@ -32,6 +71,7 @@ Save Safe?: YES
 * [Serana Dialogue Add-On Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/70782)
 * [SCAR - Skyrim Combos AI Revolution](https://www.nexusmods.com/skyrimspecialedition/mods/72014)
 * [SCAR AE Support](https://www.nexusmods.com/skyrimspecialedition/mods/77285)
+* [Console Commands Extender](https://www.nexusmods.com/skyrimspecialedition/mods/28210)
   
 **Updated**
 
