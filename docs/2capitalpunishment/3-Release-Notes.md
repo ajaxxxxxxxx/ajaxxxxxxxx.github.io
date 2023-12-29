@@ -10,15 +10,19 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
-## Release 1.5.6.0 - Unreleased
+## Release 1.5.5.5 - 12/28/2023
 
 ### Save Safe?: NO 
 
 **Added**
 - [LOD Fixes & Improvements](https://www.nexusmods.com/newvegas/mods/84171)
+- [Sparse Starting Gear TTW](https://www.nexusmods.com/newvegas/mods/78088?tab=files)
+- [TTW Quick Start Locations](https://www.nexusmods.com/newvegas/mods/84293?tab=files)
 
 **Removed**
 - Wash Yourself & Dirt Textures
+- Wasteland Starting Gear DC
+> Replaced with Sparse Starting Gear TTW
 
 **Updated**
 - Kaleidoscope
