@@ -2,6 +2,19 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 0.9.3.1  
+Save Safe?: NO   
+  
+**Added**
+
+* [NPCs React To Frenzy](https://www.nexusmods.com/skyrimspecialedition/mods/107492)
+  
+**Removed**
+
+* [Subsurface Scattering Shaders for Skins](https://www.nexusmods.com/skyrimspecialedition/mods/14238)
+
+**Updated**
+
 # Release 0.9.3  
 Save Safe?: NO   
   
