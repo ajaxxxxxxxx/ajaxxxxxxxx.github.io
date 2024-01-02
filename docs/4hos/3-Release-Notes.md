@@ -3,11 +3,17 @@
 # Releases (Newest to Oldest)  
 
 # Release 0.9.3.1  
-Save Safe?: NO   
+Save Safe?: YES   
   
 **Added**
 
 * [NPCs React To Frenzy](https://www.nexusmods.com/skyrimspecialedition/mods/107492)
+* [SMP Wind](https://www.nexusmods.com/skyrimspecialedition/mods/76776)
+* [Blowing in the Wind Lite (moveable lanterns with Base Object Swapper)](https://www.nexusmods.com/skyrimspecialedition/mods/61161)
+* [Icons for Skyrim Character Sheet](https://www.nexusmods.com/skyrimspecialedition/mods/71282)
+* [Scaleform Translation Plus Plus NG](https://www.nexusmods.com/skyrimspecialedition/mods/77359)
+* [Skyrim Character Sheet](https://www.nexusmods.com/skyrimspecialedition/mods/56069)
+* [3rd Person Camera Stagger Remover](https://www.nexusmods.com/skyrimspecialedition/mods/25316)
   
 **Removed**
 
