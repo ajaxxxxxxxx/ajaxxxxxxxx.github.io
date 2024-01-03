@@ -10,6 +10,23 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 1.5.6.0 - UNRELEASED
+
+### Save Safe?: NO 
+
+**Added**
+- [Various Signs HD](https://www.nexusmods.com/newvegas/mods/84292?tab=files)
+- [Casino Posters & Signs HD](https://www.nexusmods.com/newvegas/mods/84302)
+- [Hoover Dam Signs HD](https://www.nexusmods.com/newvegas/mods/84069?tab=files)
+- [Hit - Crossbow](https://www.nexusmods.com/newvegas/mods/77649)
+- [Casino Rugs](https://www.nexusmods.com/newvegas/mods/84325?tab=files)
+
+**Removed**
+-
+
+**Updated**
+- 
+
 ## Release 1.5.5.5 - 12/28/2023
 
 ### Save Safe?: NO 
