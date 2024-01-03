@@ -25,7 +25,24 @@ sidebar_position: 3
 -
 
 **Updated**
-- 
+- SUP NVSE
+> 8.51 to 8.55
+- Landscape Texture Improvements
+> 1.2 to 1.3
+- Kaleidoscope
+> 1.3 to 1.4
+- Another Millenia Shop Addon
+> 1.4.1 to 1.4.2
+- S6S Perks
+> 16.19 to 16.21
+- JSRS Patch for TTW
+> 1.01 to 1.02
+- JSRS Another Millenia Gun Addon Patch
+> 1.11 to 1.2
+- JSRS Another Millenia Patch
+> 1.1 to 1.2
+- LOD Fixes & Improvements - NVSE
+> 1.0 to 1.1
 
 ## Release 1.5.5.5 - 12/28/2023
 
