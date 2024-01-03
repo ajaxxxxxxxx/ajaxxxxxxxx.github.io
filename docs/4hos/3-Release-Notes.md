@@ -19,6 +19,9 @@ Save Safe?: YES
 * [Subsurface Scattering Shaders for Skins](https://www.nexusmods.com/skyrimspecialedition/mods/14238)
 * [Not So Fast - Mage Guild](https://www.nexusmods.com/skyrimspecialedition/mods/5686)
 * [Naked Dead NPC Fix](https://www.nexusmods.com/skyrimspecialedition/mods/99024) Actually this time
+* [Ancient Dwemer Metal](https://www.nexusmods.com/skyrim/mods/75610)
+* [Ancient Dwemer Metal - My patches](https://www.nexusmods.com/skyrimspecialedition/mods/38845)
+* [Dwemer Armors and Weapons Retexture SE - Ancient Dwemer Metal - My patches by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/99690)
 
 **Updated**
 
