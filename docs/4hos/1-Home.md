@@ -37,7 +37,7 @@ As for performance improvements, most of the testing that was done was done on a
 
 ## And Much More!
 
-I will continue to update this page as we have much more on this list than the above already. For those interested in our full list of mods, you can see that here
+I will continue to update this page as we have much more on this list than the above already. For those interested in our full list of mods, you can see that [here](https://loadorderlibrary.com/lists/halls-of-sovngarde)
 
 ### Final Note: 
 None of this would be possible without the hard work of the many mod authors, the staff behind the Wabbajack platform, or the people who have work alongside me during development. They have all sacrificed their free time to develop and release the works associated with this list, and absolutely free of charge. Please take the time to endorse some of these authors if you can or send them some kind feedback as they are more than deserving.
