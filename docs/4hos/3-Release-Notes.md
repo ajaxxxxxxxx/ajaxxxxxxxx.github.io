@@ -2,6 +2,35 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 0.9.3.2  
+Save Safe?: YES   
+  
+**Added**
+
+* [Hearthfires Extended and Creation Club Fishing Patch](https://www.nexusmods.com/skyrimspecialedition/mods/61548)
+* [NAT ENB Bizarre Shadow Fix](https://www.nexusmods.com/skyrimspecialedition/mods/105036)
+* [KreatE](https://www.nexusmods.com/skyrimspecialedition/mods/83757)
+* [DALC Fix KreatE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/103052)
+* [Ebony ENB - NAT 3 weathers](https://www.nexusmods.com/skyrimspecialedition/mods/106549)
+* [Biggie's Ebony ReShade](https://www.nexusmods.com/skyrimspecialedition/mods/108767)
+* [Subtle eye cubemap](https://www.nexusmods.com/skyrimspecialedition/mods/21833)
+* [Cathedral - 3D Tundra Shrubs](https://www.nexusmods.com/skyrimspecialedition/mods/108747)
+* [Visual Animated Enchants 2-023 AKA VAE2](https://www.nexusmods.com/skyrimspecialedition/mods/82329)
+* [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
+* [(Unofficial SkyPatched) Visual Animated Enchants(VAE 1 and 2) best of both Ultimate Patch](https://www.nexusmods.com/skyrimspecialedition/mods/108397)
+* [Riften Docks Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/39333)
+* [Bjorn Reshade Dark Ages](https://www.nexusmods.com/skyrimspecialedition/mods/64714)
+  
+**Removed**
+
+* [Cabbage ENB for NAT 3 Weather](https://www.nexusmods.com/skyrimspecialedition/mods/103042)
+* [Biggie Boss ReShade Presets for NAT 3 Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/106521)
+* [Visual Animated Enchants - VAE](https://www.nexusmods.com/skyrimspecialedition/mods/7037)
+* [QRVAE - Qwinn's Refined Visual Animated Enchants](https://www.nexusmods.com/skyrimspecialedition/mods/24665)
+* [Adjusted Visual Animated Enchants (AVAE)](https://www.nexusmods.com/skyrimspecialedition/mods/50382)
+
+**Updated**
+
 # Release 0.9.3.1  
 Save Safe?: YES   
   
