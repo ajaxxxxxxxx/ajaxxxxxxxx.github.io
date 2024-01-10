@@ -28,6 +28,7 @@ Save Safe?: YES
 * [Visual Animated Enchants - VAE](https://www.nexusmods.com/skyrimspecialedition/mods/7037)
 * [QRVAE - Qwinn's Refined Visual Animated Enchants](https://www.nexusmods.com/skyrimspecialedition/mods/24665)
 * [Adjusted Visual Animated Enchants (AVAE)](https://www.nexusmods.com/skyrimspecialedition/mods/50382)
+* [Oblivion horses SE saddle fixes](https://www.nexusmods.com/skyrimspecialedition/mods/77325)
 
 **Updated**
 
