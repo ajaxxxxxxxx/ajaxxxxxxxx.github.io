@@ -68,6 +68,8 @@ Save Safe?: YES
 * [Certain Objects ENB Lighted](https://www.nexusmods.com/skyrimspecialedition/mods/102132)
 * [Kill Miraak Spell Fix - Fix for Unlootable and Unkillable Miraak](https://www.nexusmods.com/skyrimspecialedition/mods/108654)
 * [Varied Guard Armor - Sleeves Addon](https://www.nexusmods.com/skyrimspecialedition/mods/101599)
+* [FYX - Sparks of Fire reacts to the Wind](https://www.nexusmods.com/skyrimspecialedition/mods/102099)
+* [FYX - Campfire Reacts to the Wind - EmbersXD Edition](https://www.nexusmods.com/skyrimspecialedition/mods/103807)
   
 **Removed**
 
