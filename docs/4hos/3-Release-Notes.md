@@ -71,6 +71,7 @@ Save Safe?: YES
 * [FYX - Sparks of Fire reacts to the Wind](https://www.nexusmods.com/skyrimspecialedition/mods/102099)
 * [FYX - Campfire Reacts to the Wind - EmbersXD Edition](https://www.nexusmods.com/skyrimspecialedition/mods/103807)
 * [Immersive Cow Tipping (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/69390)
+* [EVGAT - Dynamic Climb-able Ladder Doors](https://www.nexusmods.com/skyrimspecialedition/mods/108900)
   
 **Removed**
 
