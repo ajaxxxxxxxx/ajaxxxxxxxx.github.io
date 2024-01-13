@@ -85,6 +85,9 @@ Save Safe?: YES
 
 **Updated**
 
+* Immersive Interactions - Animated Actions
+  > 1.74 to 1.75
+
 # Release 0.9.3.1  
 Save Safe?: YES   
   
