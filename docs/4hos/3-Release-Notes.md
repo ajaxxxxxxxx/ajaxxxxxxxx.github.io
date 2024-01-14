@@ -87,6 +87,32 @@ Save Safe?: YES
 
 * Immersive Interactions - Animated Actions
   > 1.74 to 1.75
+* Zero Bounty Hostility Fix
+  > 0.3 to 0.4
+* Bandit Lines Expansion
+  > 1.08 to 1.09
+* Civil War Lines Expansion
+  > 1.08 to 1.09
+* Forsworn and Thalmor Lines Expansion
+  > 1.01 to 1.02
+* Vampire Lines Expansion
+  > 1.01 to 1.02
+* Time Flies SE
+  > 7.3.8 to 7.3.11
+* C.O.I.N. - Coins of Interesting Natures
+  > 2.1.2.1 to 2.1.3.1
+* Skyrim Realistic Conquering - All In One
+  > 0.70 to 0.71
+* Favor Jobs Overhaul
+  > 2.7.7 to 2.7.8
+* Skills of the Wild - New Campfire Survival Skill Trees
+  > 2.04 to 2.10
+* EVG Animated Traversal
+  > 1.02 to 2.0B
+* Nilheim - Misc Quest Expansion
+  > 1.12 to 1.13
+* The Heart of Dibella - Quest Expansion
+  > 1.0 to 1.01
 
 # Release 0.9.3.1  
 Save Safe?: YES   
