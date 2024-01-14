@@ -21,6 +21,12 @@ sidebar_position: 3
 - [Hit - Crossbow](https://www.nexusmods.com/newvegas/mods/77649)
 - [Casino Rugs](https://www.nexusmods.com/newvegas/mods/84325?tab=files)
 
+**Look Into Adding**
+- [Clothing And Others From Here](https://www.nexusmods.com/newvegas/users/5714593?tab=user+files)
+- [View Model Shake](https://www.nexusmods.com/newvegas/mods/84443)
+- [Hit Assorted Anims](https://www.nexusmods.com/newvegas/mods/84439)
+
+
 **Removed**
 -
 
