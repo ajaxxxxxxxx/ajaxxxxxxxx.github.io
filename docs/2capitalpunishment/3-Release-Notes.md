@@ -44,7 +44,7 @@ sidebar_position: 3
 - Another Millenia Shop Addon
 > 1.4.1 to 1.4.2
 - S6S Perks
-> 16.19 to 16.21
+> 16.19 to 16.21 to 16.23
 - JSRS Patch for TTW
 > 1.01 to 1.02
 - JSRS Another Millenia Gun Addon Patch
@@ -53,6 +53,36 @@ sidebar_position: 3
 > 1.1 to 1.2
 - LOD Fixes & Improvements - NVSE
 > 1.0 to 1.1
+- Book Menu Restored
+> 1.1 to 1.2
+- Johnny Guitar NVSE
+> 4.98 to 4.98c
+- Stewie's Tweaks
+> 8.85 to 8.95
+- Fallout Alpha Rendering Tweaks NVSE
+> 2.5.1 to 2.5.1a
+- Titans of the New West
+> 2.1.13 to 2.2.21
+- Another Millenia
+> 2.4 to Hotfix 2a
+- Another Millenia Gun Addon
+> 1.0 to 1.6
+- JVS
+> 1.075 to 1.078
+- Benny Humbles You & Steals Your Stuff
+> 12.34 to 12.37
+- Animated Ingestibles B42 Inject Patch
+> 1.4 to 1.5
+- Securitrons on Alert
+> 4.5.1 to 4.5.2
+- WAP Year One & Bonus
+> 2.01 to 2.1
+- A World of (Less) Pai
+> 3.8a to 3.9a
+- Atmos Sound Overhaul
+> 1.3 to 1.4
+- Desert Natural Weathers
+> 7.2 to 7.4.5
 
 ## Release 1.5.5.5 - 12/28/2023
 
