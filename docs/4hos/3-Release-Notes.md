@@ -71,6 +71,17 @@ Save Safe?: YES
 * [FYX - Campfire Reacts to the Wind - EmbersXD Edition](https://www.nexusmods.com/skyrimspecialedition/mods/103807)
 * [Immersive Cow Tipping (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/69390)
 * [EVGAT - Dynamic Climb-able Ladder Doors](https://www.nexusmods.com/skyrimspecialedition/mods/108900)
+* [Ash Ghoul - Ash Spawn Sound Rework -](https://www.nexusmods.com/skyrimspecialedition/mods/101763)
+* [NAT.ENB - ENB PRESET v3.1.1C](https://www.nexusmods.com/skyrimspecialedition/mods/27141)
+* [PRT XII - PhotoRealistic Tamriel 12.7](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
+* [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)
+* [ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743)
+* [ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796)
+* [KiLoader for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99404)
+* [ENB Extender for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)
+* [Silent Horizons 2 - Universal Core](https://www.nexusmods.com/skyrimspecialedition/mods/99398)
+* [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
+* [Take Notes - Journal of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13570)
   
 **Removed**
 
