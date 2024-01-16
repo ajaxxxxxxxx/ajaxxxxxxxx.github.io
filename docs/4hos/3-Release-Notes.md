@@ -8,11 +8,6 @@ Save Safe?: YES
 **Added**
 
 * [Hearthfires Extended and Creation Club Fishing Patch](https://www.nexusmods.com/skyrimspecialedition/mods/61548)
-* [NAT ENB Bizarre Shadow Fix](https://www.nexusmods.com/skyrimspecialedition/mods/105036)
-* [KreatE](https://www.nexusmods.com/skyrimspecialedition/mods/83757)
-* [DALC Fix KreatE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/103052)
-* [Ebony ENB - NAT 3 weathers](https://www.nexusmods.com/skyrimspecialedition/mods/106549)
-* [Biggie's Ebony ReShade](https://www.nexusmods.com/skyrimspecialedition/mods/108767)
 * [Subtle eye cubemap](https://www.nexusmods.com/skyrimspecialedition/mods/21833)
 * [Cathedral - 3D Tundra Shrubs](https://www.nexusmods.com/skyrimspecialedition/mods/108747)
 * [Visual Animated Enchants 2-023 AKA VAE2](https://www.nexusmods.com/skyrimspecialedition/mods/82329)
@@ -72,16 +67,21 @@ Save Safe?: YES
 * [Immersive Cow Tipping (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/69390)
 * [EVGAT - Dynamic Climb-able Ladder Doors](https://www.nexusmods.com/skyrimspecialedition/mods/108900)
 * [Ash Ghoul - Ash Spawn Sound Rework -](https://www.nexusmods.com/skyrimspecialedition/mods/101763)
+* [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
+* [Take Notes - Journal of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13570)
+* [NAT ENB Bizarre Shadow Fix](https://www.nexusmods.com/skyrimspecialedition/mods/105036)
+* [KreatE](https://www.nexusmods.com/skyrimspecialedition/mods/83757)
+* [ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743)
+* [ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796)
+* [DALC Fix KreatE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/103052)
+* [Ebony ENB - NAT 3 weathers](https://www.nexusmods.com/skyrimspecialedition/mods/106549)
+* [Biggie's Ebony ReShade](https://www.nexusmods.com/skyrimspecialedition/mods/108767)
 * [NAT.ENB - ENB PRESET v3.1.1C](https://www.nexusmods.com/skyrimspecialedition/mods/27141)
 * [PRT XII - PhotoRealistic Tamriel 12.7](https://www.nexusmods.com/skyrimspecialedition/mods/4743)
 * [Berserkyr ENB](https://www.nexusmods.com/skyrimspecialedition/mods/62381)
-* [ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743)
-* [ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796)
 * [KiLoader for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99404)
 * [ENB Extender for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/99406)
 * [Silent Horizons 2 - Universal Core](https://www.nexusmods.com/skyrimspecialedition/mods/99398)
-* [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
-* [Take Notes - Journal of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13570)
   
 **Removed**
 
