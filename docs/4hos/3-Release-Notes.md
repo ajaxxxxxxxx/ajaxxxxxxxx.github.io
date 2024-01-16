@@ -28,7 +28,6 @@ Save Safe?: YES
 * [Optimized meshes for ENB lights by Oz3 - patches addons](https://www.nexusmods.com/skyrimspecialedition/mods/105846)
 * [Optimised Meshes for ENB Light - DC BOS Patch](https://www.nexusmods.com/skyrimspecialedition/mods/94369)
 * [Cale's Patch Compendium](https://www.nexusmods.com/skyrimspecialedition/mods/66157)
-* [ENB Particle Lights for Wearable Lanterns](https://www.nexusmods.com/skyrimspecialedition/mods/57710)
 * [WeldingMans Enchanting Table Variants with ENB Light (BOS)](https://www.nexusmods.com/skyrimspecialedition/mods/80493)
 * [Rudy HQ - More Lights for ENB SE - Chaurus Eggs and Sacs](https://www.nexusmods.com/skyrimspecialedition/mods/22705)
 * [Rudy HQ - More Lights for ENB SE - Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/22704)
