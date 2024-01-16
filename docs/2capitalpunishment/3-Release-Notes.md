@@ -20,12 +20,16 @@ sidebar_position: 3
 - [Hoover Dam Signs HD](https://www.nexusmods.com/newvegas/mods/84069?tab=files)
 - [Hit - Crossbow](https://www.nexusmods.com/newvegas/mods/77649)
 - [Casino Rugs](https://www.nexusmods.com/newvegas/mods/84325?tab=files)
-
-**Look Into Adding**
-- [Clothing And Others From Here](https://www.nexusmods.com/newvegas/users/5714593?tab=user+files)
-- [View Model Shake](https://www.nexusmods.com/newvegas/mods/84443)
-- [Hit Assorted Anims](https://www.nexusmods.com/newvegas/mods/84439)
-
+- [Clothing HD - Doctors 2k](https://www.nexusmods.com/newvegas/mods/84497)
+- [Clothes HD - Powder Gangers 2k](https://www.nexusmods.com/newvegas/mods/84483?tab=files)
+- [Clothes HD - Great Khans 2k](https://www.nexusmods.com/newvegas/mods/84476)
+- [Clothes HD - Prewar 2k](https://www.nexusmods.com/newvegas/mods/84460)
+- [Clothes HD - Gamblers 2k](https://www.nexusmods.com/newvegas/mods/84445)
+- [Clothes HD - Kings 2k](https://www.nexusmods.com/newvegas/mods/84429)
+- [Clothes HD - Wasteland 2k](https://www.nexusmods.com/newvegas/mods/84418)
+- [Clothes HD - Workers 2k](https://www.nexusmods.com/newvegas/mods/84411)
+- [View Model Shake Fix](https://www.nexusmods.com/newvegas/mods/84443?tab=files)
+- [Hit's Anims - Assorted Items 1](https://www.nexusmods.com/newvegas/mods/84439)
 
 **Removed**
 -
