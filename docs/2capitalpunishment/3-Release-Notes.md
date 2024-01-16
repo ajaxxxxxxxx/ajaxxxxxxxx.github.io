@@ -83,6 +83,10 @@ sidebar_position: 3
 > 1.3 to 1.4
 - Desert Natural Weathers
 > 7.2 to 7.4.5
+- Desert Natural Sandstorm
+> 2.4 to 2.6.5
+- Desert Natural Realism
+> 2.3 to 2.4.5
 
 ## Release 1.5.5.5 - 12/28/2023
 
