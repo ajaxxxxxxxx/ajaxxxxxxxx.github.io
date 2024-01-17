@@ -92,6 +92,9 @@ Save Safe?: YES
 * [Adjusted Visual Animated Enchants (AVAE)](https://www.nexusmods.com/skyrimspecialedition/mods/50382)
 * [Oblivion horses SE saddle fixes](https://www.nexusmods.com/skyrimspecialedition/mods/77325)
 * [Subsurface Scattering Shaders for Skins](https://www.nexusmods.com/skyrimspecialedition/mods/14238)
+* [BlockSteal Papyrus](https://www.nexusmods.com/skyrimspecialedition/mods/32605)
+* [Mum's the Word](https://www.nexusmods.com/skyrimspecialedition/mods/27713)
+* [Mum's the Word NG](https://www.nexusmods.com/skyrimspecialedition/mods/77409)
 
 **Updated**
 
