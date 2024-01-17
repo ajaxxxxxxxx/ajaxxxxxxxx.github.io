@@ -30,6 +30,7 @@ sidebar_position: 3
 - [Clothes HD - Workers 2k](https://www.nexusmods.com/newvegas/mods/84411)
 - [View Model Shake Fix](https://www.nexusmods.com/newvegas/mods/84443?tab=files)
 - [Hit's Anims - Assorted Items 1](https://www.nexusmods.com/newvegas/mods/84439)
+- [Megaton Signs HD](https://www.nexusmods.com/newvegas/mods/83424?tab=files)
 
 **Removed**
 - Drug Synthesizer & Added Mods
