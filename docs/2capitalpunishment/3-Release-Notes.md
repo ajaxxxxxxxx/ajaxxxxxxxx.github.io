@@ -33,7 +33,7 @@ sidebar_position: 3
 - [Megaton Signs HD](https://www.nexusmods.com/newvegas/mods/83424?tab=files)
 
 **Removed**
-- Drug Synthesizer & Added Mods
+- Drug Synthesizer & Replacer
 
 **Updated**
 - SUP NVSE
