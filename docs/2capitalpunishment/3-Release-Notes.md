@@ -32,7 +32,7 @@ sidebar_position: 3
 - [Hit's Anims - Assorted Items 1](https://www.nexusmods.com/newvegas/mods/84439)
 
 **Removed**
--
+- Drug Synthesizer & Added Mods
 
 **Updated**
 - SUP NVSE
