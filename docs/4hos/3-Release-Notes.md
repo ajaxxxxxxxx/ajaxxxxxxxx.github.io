@@ -69,6 +69,7 @@ Save Safe?: YES
 * [Ash Ghoul - Ash Spawn Sound Rework -](https://www.nexusmods.com/skyrimspecialedition/mods/101763)
 * [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
 * [Take Notes - Journal of the Dragonborn SSE](https://www.nexusmods.com/skyrimspecialedition/mods/13570)
+* [Inferno - Fire Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29316)
 * [NAT ENB Bizarre Shadow Fix](https://www.nexusmods.com/skyrimspecialedition/mods/105036)
 * [KreatE](https://www.nexusmods.com/skyrimspecialedition/mods/83757)
 * [ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743)
