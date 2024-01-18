@@ -10,7 +10,6 @@ Save Safe?: YES
 * [Hearthfires Extended and Creation Club Fishing Patch](https://www.nexusmods.com/skyrimspecialedition/mods/61548)
 * [Subtle eye cubemap](https://www.nexusmods.com/skyrimspecialedition/mods/21833)
 * [Cathedral - 3D Tundra Shrubs](https://www.nexusmods.com/skyrimspecialedition/mods/108747)
-* [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
 * [Riften Docks Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/39333)
 * [Bjorn Reshade Dark Ages](https://www.nexusmods.com/skyrimspecialedition/mods/64714)
 * [Immersive Better Bow Positioning - IED-OAR](https://www.nexusmods.com/skyrimspecialedition/mods/99966)
@@ -86,7 +85,6 @@ Save Safe?: YES
 
 * [Cabbage ENB for NAT 3 Weather](https://www.nexusmods.com/skyrimspecialedition/mods/103042)
 * [Biggie Boss ReShade Presets for NAT 3 Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/106521)
-* [QRVAE - Qwinn's Refined Visual Animated Enchants](https://www.nexusmods.com/skyrimspecialedition/mods/24665)
 * [Oblivion horses SE saddle fixes](https://www.nexusmods.com/skyrimspecialedition/mods/77325)
 * [Subsurface Scattering Shaders for Skins](https://www.nexusmods.com/skyrimspecialedition/mods/14238)
 * [BlockSteal Papyrus](https://www.nexusmods.com/skyrimspecialedition/mods/32605)
