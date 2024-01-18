@@ -8,7 +8,6 @@ Save Safe?: YES
 **Added**
 
 * [Hearthfires Extended and Creation Club Fishing Patch](https://www.nexusmods.com/skyrimspecialedition/mods/61548)
-* [Subtle eye cubemap](https://www.nexusmods.com/skyrimspecialedition/mods/21833)
 * [Cathedral - 3D Tundra Shrubs](https://www.nexusmods.com/skyrimspecialedition/mods/108747)
 * [Riften Docks Overhaul Patch](https://www.nexusmods.com/skyrimspecialedition/mods/39333)
 * [Bjorn Reshade Dark Ages](https://www.nexusmods.com/skyrimspecialedition/mods/64714)
