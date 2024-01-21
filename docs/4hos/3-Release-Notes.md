@@ -80,6 +80,7 @@ Save Safe?: YES
 * [Flame VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/109414)
 * [More Lights for ENB - Blood Splatter and Inventory Centering Fix](https://www.nexusmods.com/skyrimspecialedition/mods/55582)
 * [Requiem - Lock Bash Threshold Meter](https://www.nexusmods.com/skyrimspecialedition/mods/109661)
+* [Koralina's Makeup Tweaks - 4k 2k](https://www.nexusmods.com/skyrimspecialedition/mods/63024)
 * [NAT ENB Bizarre Shadow Fix](https://www.nexusmods.com/skyrimspecialedition/mods/105036)
 * [KreatE](https://www.nexusmods.com/skyrimspecialedition/mods/83757)
 * [ENB Helper Plus](https://www.nexusmods.com/skyrimspecialedition/mods/62743)
