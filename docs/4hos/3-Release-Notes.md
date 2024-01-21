@@ -104,6 +104,7 @@ Save Safe?: YES
 * [Mum's the Word](https://www.nexusmods.com/skyrimspecialedition/mods/27713)
 * [Mum's the Word NG](https://www.nexusmods.com/skyrimspecialedition/mods/77409)
 * [Requiem - Lock Bashing Visualized](https://www.nexusmods.com/skyrimspecialedition/mods/84614)
+* [ENB Dynamic Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/98122)
 
 **Updated**
 
