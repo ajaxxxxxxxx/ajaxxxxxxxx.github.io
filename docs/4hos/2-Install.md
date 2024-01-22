@@ -46,7 +46,6 @@ description: Halls of Sovngarde Installation Guide
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/612b5db4-cc00-4fa7-aedd-dad613e6640d)
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/2706968d-db58-4e41-b7b4-63efe7984f75)
 :::
 # **Part 2: In Game Guide (Beta Release Only)**
 
@@ -58,17 +57,4 @@ description: Halls of Sovngarde Installation Guide
 
 ### 4.) Go into mcm recorder mcm and play HoS recording
 
-### 5.) In the IED menu, import the HoS preset  
-  
-Press backspace   
-Top left look for “file”, click it  
-Import/export, click it  
-Click “default”   
-In the drop down menu look for “HoS”  
-Click it   
-Select “Import”  
-Click Ok  
-Close  
-File - Exit  
-
-### 6.) Press enter and select continue
+### 5.) Press enter and select continue
