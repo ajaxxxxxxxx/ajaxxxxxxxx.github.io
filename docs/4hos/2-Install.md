@@ -46,7 +46,12 @@ description: Halls of Sovngarde Installation Guide
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/612b5db4-cc00-4fa7-aedd-dad613e6640d)
 
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/48836285/edae352b-894b-4380-a01e-b9223cf4dfcd)
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/48836285/239b575b-8c0e-4edf-8e83-f5df9950471e)
+
 :::
+
 # **Part 2: In Game Guide (Beta Release Only)**
 
 ### 1.) When you have loaded into your save, press enter and select preset or go into Skyrim Unbound MCM and customize character. Choose to stay in starting area, don't continue.
