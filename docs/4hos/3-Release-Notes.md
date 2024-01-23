@@ -2,6 +2,17 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 0.9.3.3  
+Save Safe?: YES   
+  
+**Added**
+  
+**Removed**
+
+* [Requiem - Lock Bashing Visualized](https://www.nexusmods.com/skyrimspecialedition/mods/84614)
+
+**Updated**
+
 # Release 0.9.3.2  
 Save Safe?: YES   
   
@@ -104,7 +115,6 @@ Save Safe?: YES
 * [BlockSteal Papyrus](https://www.nexusmods.com/skyrimspecialedition/mods/32605)
 * [Mum's the Word](https://www.nexusmods.com/skyrimspecialedition/mods/27713)
 * [Mum's the Word NG](https://www.nexusmods.com/skyrimspecialedition/mods/77409)
-* [Requiem - Lock Bashing Visualized](https://www.nexusmods.com/skyrimspecialedition/mods/84614)
 * [ENB Dynamic Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/98122)
 
 **Updated**
