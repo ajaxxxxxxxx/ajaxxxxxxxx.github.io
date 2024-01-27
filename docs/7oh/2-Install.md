@@ -36,33 +36,43 @@ Darktide Mod Framework -  Keep as is
 LogMeIn - Keep as is
 AFK - Keep as is
 Barter At Once - Keep as it; Enable Skip Confirmation Popup
+Zealot Fire Particle Swap - Personal Preference
 BetterMelk - Keep as is
 Blessings of the Omnissiah - Personal Preference
 Book Finder - Personal Preference
 BornReady - Keep as is; Personal preference
 Buy Until Rating - Keep as is; Personal preference
+Coherency Keeper - Keep as is; Personal preference; I haven't done much testing with this yet
 Contacts Overlay - Keep as is
 Custom Flames - Personal preference
+Custom HUD - Go into the Psykanium and move the Special Tracker tooltip to the location of your choice with F3
 DarkCache - Turn everything on; Mission Board, Premium Store, and Dev Mod should be off
 Decode Helper - Keep as is; Personal preference
+Direct to Hadron - Keep as is
 DynamicCrosshair - Keep as is
+Enhanced Descriptions Weapon Blessing - Keep as is
+Enhanced Descriptions Curios - Keep as is
+Enhanced Descriptions Perks - Keep as is
 Equipped Icon+ - Keep as is; Personal preference
 For The Emperor! - Keep as is; Personal preference
 FullAuto - Keep as is
 Healthbars - Turn everything on that isn't tagged [monster]; Can be adjusted to personal taste
+Height Changer - Personal Preference
 Hub Hotkey Menus - Personal preference; I did it in order on NumPad
-Inventory2D - Keep as is; Personal preference
+(Optional Install) Inventory2D - Keep as is; Personal preference
 Item Sorting - Keep as is; Personal Preference
 KeepSwinging - Personal preference; I set Toggle to Mouse 4
 Killfeed Improvements - Keep as is
 Kill Tracker - Keep as is
+LessAnnoyingPing - Keep as is; Personal preference; I haven't done much testing with this yet
 loadinglore - Keep as is; Personal preference
+Modification Icon Color - Keep as is; Personal preference
 Modular Menu Buttons - Keep as is; Personal preference
-MoreGraphicsOptions - This is if you want to fine tune your graphics settings to get more frames. Entirely up to you.
 Faulty Mouse Workaround - I swear this one is placebo but I was getting some click issues as Psyker. Disable/enable as needed.
 Name It - Keep as is
 Nothing New - Toggle as needed
 Numeric UI - Personal preference; I turned off Dodge Count HUD
+Quick-Inject Stimms - Personal preference
 Pew Pew - Personal preference. This one goes a little more in depth, you can change what each individual gun will shoot. I just changed what I usually run and left it at that.
 PsykaniumDefaultDifficulty - Personal preference
 Quickest Play - Requires a bit of set up, entirely up to you
@@ -75,13 +85,17 @@ Scanner Darkly - Keep as is
 Scoreboard - Turn everything on, change 'Open Scoreboard History' to F6; Can be adjusted to personal taste
 Scoreboard Enhanced Defense Plugin - Keep as is; Personal preference
 Show Equipped In Lobby - Keep as is
+Show Insignias - Keep as is
 Show Me Real Weapon Stats - Keep as is
 Smaller Telent Tree - Personal preference; I put the scale at 0.45
 Sorted Mission Grid - Keep as is
+Specials Tracker - Keep as is; Personal preference; I haven't done much testing with this yet
+Stimms Pickup Icon - Keep as is; Personal preference; If you downloaded the RecolorStimms mod you need to enable the last setting
 Talent Tree UX - Keep as is; Personal preference
 Toggle HUD - Personal preference
 True Level - Personal preference
 Volley Fire Timer - Keep as is; Personal preference
-Weapon FOV - Keep as is; Personal preference
+Extended Weapon Customization - Personal preference; There's a fair bit to mess with here and it is all up to you.
+(Optional Install) Weapon FOV - Keep as is; Personal preference
 What The Localization - Keep as is
 ```
