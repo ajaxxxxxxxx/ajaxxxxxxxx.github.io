@@ -42,6 +42,7 @@ Save Safe?: YES
 * [HD CubeMap Collection](https://www.nexusmods.com/skyrim/mods/95466)
 * [Better Metal - Cubemaps and Masks Redone](https://www.nexusmods.com/skyrimspecialedition/mods/101916)
 * [Quality CubeMaps - HD Cube Maps Optimized](https://www.nexusmods.com/skyrimspecialedition/mods/53335)
+* [Shiny Material Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/32800)
   
 **Removed**
 
