@@ -46,6 +46,13 @@ Save Safe?: YES
 **Removed**
 
 * [Requiem - Lock Bashing Visualized](https://www.nexusmods.com/skyrimspecialedition/mods/84614)
+* [Skyrim 3D Docks and BoardWalks Weathered Riften Textures](https://www.nexusmods.com/skyrimspecialedition/mods/28781)
+* [Women of Skyrim female textures - SE CBBE and UNP](https://www.nexusmods.com/skyrimspecialedition/mods/20555)
+* [VHR - Vanilla Hair Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/25574)
+* [KS Hairdos SSE](https://www.nexusmods.com/skyrimspecialedition/mods/6817)
+* [Compatibility patch](https://www.nexusmods.com/skyrimspecialedition/mods/63979)
+* [KS Hairdos - HDT SMP (Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
+* [Salt and Wind - Rough Hair for KS Hairdos SE](https://www.nexusmods.com/skyrimspecialedition/mods/16582)
 
 **Updated**
 
