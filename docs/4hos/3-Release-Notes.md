@@ -6,6 +6,7 @@
 Save Safe?: YES   
   
 **Added**
+
 * [GRIM ENB](https://www.nexusmods.com/skyrimspecialedition/mods/59679)
 * [Modular SMP Hairstyles](https://www.nexusmods.com/skyrimspecialedition/mods/93608)
 * [Chooey's Modular SMP Hairstyles Edit](https://www.nexusmods.com/skyrimspecialedition/mods/110414)
@@ -51,6 +52,9 @@ Save Safe?: YES
 * [Salt and Wind - Rough Hair for KS Hairdos SE](https://www.nexusmods.com/skyrimspecialedition/mods/16582)
 
 **Updated**
+
+* Pause After Load Unscripted NG
+  > 1.1.1 to 1.2
 
 # Release 0.9.3.2  
 Save Safe?: YES   
