@@ -38,11 +38,6 @@ Save Safe?: YES
 * [Rally's Ants](https://www.nexusmods.com/skyrimspecialedition/mods/22089)
 * [Skyking Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/110303)
 * [More realistic fur and antlers for Hearthfire Elks](https://www.nexusmods.com/skyrimspecialedition/mods/110479)
-* [Custom Cubemaps (and Metal Tutorial)](https://www.nexusmods.com/skyrimspecialedition/mods/58817)
-* [HD CubeMap Collection](https://www.nexusmods.com/skyrim/mods/95466)
-* [Better Metal - Cubemaps and Masks Redone](https://www.nexusmods.com/skyrimspecialedition/mods/101916)
-* [Quality CubeMaps - HD Cube Maps Optimized](https://www.nexusmods.com/skyrimspecialedition/mods/53335)
-* [Shiny Material Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/32800)
   
 **Removed**
 
