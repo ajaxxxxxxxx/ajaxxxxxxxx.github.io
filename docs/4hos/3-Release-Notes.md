@@ -55,6 +55,60 @@ Save Safe?: YES
 
 * Pause After Load Unscripted NG
   > 1.1.1 to 1.2
+* Community Shaders
+  > 0.7.3 to 0.7.4
+* Grass Lighting
+  > 1.3.3 to 1.4
+* Improved Camera SE
+  > 1.0.5 to 1.1.0-Beta2
+* Improved Camera SE - INI Tweaks
+  > 1.1 to 1.3
+* Dirt and Blood - Dynamic Visual Effects
+  > 2.32 to 2.34
+* Time Flies SE
+  > 7.3.11 to 7.3.14
+* Immersive Rejections
+  > 1.11 to 1.13
+* Remote Interactions
+  > 1.03 to 1.04
+* Skyrim's Got Talent - Improve As a Bard
+  > 1.64 to 1.7
+* Skyrim's Got Talent - Player Reactions Addon
+  > 1.04 to 1.05
+* C.O.I.N. - Coins of Interesting Natures
+  > 2.1.3.1 to 2.1.3.2
+* NPC Animation Remix (OAR)
+  > 1.7 to 1.8.1
+* Immersive Equipping Animations
+  > 2.01 to 2.02
+* Lively Children Animations (OAR)
+  > 2.0 to 2.1
+* Immersive folded hands (OAR)
+  > 1.6 to 1.6.1
+* Conditional tavern cheering (OAR)
+  > 1.2 to 1.3
+* Igniting Animation for Campfire
+  > 1.03 to 1.04
+* Paired Animation Improvements
+  > 1.01 to 1.02
+* Organic Player Animations (OAR)
+  > 1.1 to 1.2.1
+* Descriptions for Various Mods
+  > 2.2.1 to 2.3.1
+* JK's Riften Outskirts
+  > 1.0.1 to 1.1
+* Amol Village
+  > 1.01.4 to 1.01.5
+* Amol Village Texture Patch
+  > 1.0 to 1.1
+* Belethor's Sister - Quest
+  > 0.2.6 to 0.3
+* Requiem - WACCF CCOR ACE Patches
+  > 4.6 to 4.6.1
+* Requiem Magic Redone - Enemy Magic Expansion
+  > MrEMX0.1 to MrEMX0.2.1
+* Requiem - Lock Bash Threshold Meter
+  > 1.0 to 1.0.2
 
 # Release 0.9.3.2  
 Save Safe?: YES   
