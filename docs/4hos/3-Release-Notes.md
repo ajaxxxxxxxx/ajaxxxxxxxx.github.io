@@ -109,6 +109,26 @@ Save Safe?: YES
   > MrEMX0.1 to MrEMX0.2.1
 * Requiem - Lock Bash Threshold Meter
   > 1.0 to 1.0.2
+* Gesture Animation Remix (OAR)
+  > 2.0 to 2.1
+* Cathedral - 3D Clover Plant
+  > 1.0 to 4.0
+* Diverse Catches - Base Object Swapper Fish Racks
+  > 1.6 to 1.7
+* Fabled Forests - Floating Trees fix BOS version
+  > 2.3 to 2.4
+* Water for ENB
+  > 1.86 to 1.87
+* Simplicity of Snow
+  > 0.18 to 0.19
+* Skyrim Character Sheet
+  > 1.0.3 to 1.1.2
+* Object Categorization Framework
+  > 4.8 to 4.9
+* Particle Patch for ENB
+  > 1.2.6 to 1.2.8
+* Embers XD
+  > 2.9.1 to 2.9.4
 
 # Release 0.9.3.2  
 Save Safe?: YES   
