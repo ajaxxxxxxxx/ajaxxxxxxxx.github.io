@@ -48,7 +48,8 @@ description: Halls of Sovngarde Installation Guide
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/48836285/edae352b-894b-4380-a01e-b9223cf4dfcd)
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/48836285/239b575b-8c0e-4edf-8e83-f5df9950471e)
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/48836285/d9863fab-4e0e-4059-9ca9-82b9793d7dac)
+
 
 :::
 
