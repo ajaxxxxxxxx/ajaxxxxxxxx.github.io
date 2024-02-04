@@ -18,7 +18,7 @@ description: Halls of Sovngarde Installation Guide
 
 > If a copy has already been installed the game can be uninstalled, ini's deleted in User/Documents/My Games/Skyrim Special Edition, and then reinstalled like normal through steam
 
-### 2.) Make sure the game has been ran at least once to the main menu to generate the required fresh ini's
+### 2.) Make sure the game has been ran at least once to the main menu to generate the required fresh ini's and update all CC content through the Creations menu
 
 ### 3.) Launch your installed Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here
 
@@ -52,7 +52,7 @@ description: Halls of Sovngarde Installation Guide
 
 :::
 
-# **Part 2: In Game Guide (Beta Release Only)**
+# **Part 2: In Game Guide**
 
 ### 1.) When you have loaded into your save, press enter and select preset or go into Skyrim Unbound MCM and customize character. Choose to stay in starting area, don't continue.
 
