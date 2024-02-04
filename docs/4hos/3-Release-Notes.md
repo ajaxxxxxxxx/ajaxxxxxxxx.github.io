@@ -50,6 +50,7 @@ Save Safe?: YES
 * [Compatibility patch](https://www.nexusmods.com/skyrimspecialedition/mods/63979)
 * [KS Hairdos - HDT SMP (Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
 * [Salt and Wind - Rough Hair for KS Hairdos SE](https://www.nexusmods.com/skyrimspecialedition/mods/16582)
+* [Twilight](https://www.nexusmods.com/skyrimspecialedition/mods/82665)
 
 **Updated**
 
