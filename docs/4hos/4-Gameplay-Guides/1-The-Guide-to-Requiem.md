@@ -16,6 +16,8 @@ description: Halls of Sovngarde Installation Guide
 - [Requiem Guide - What is Displayed on This Page](https://www.reddit.com/r/skyrimrequiem/comments/1w5cej/surviving_the_first_few_hours_in_requiem_or/) 
 - [Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
 - [Immersive Divine Blessings](https://www.nexusmods.com/skyrimspecialedition/mods/61297)
+- [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
+- [Static Skill Leveling Rewritten](https://www.nexusmods.com/skyrimspecialedition/mods/89940)
 - [Frostfall](https://www.nexusmods.com/skyrimspecialedition/mods/671)
 - [Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/95943)
 - [Campfire](https://www.nexusmods.com/skyrimspecialedition/mods/667)
