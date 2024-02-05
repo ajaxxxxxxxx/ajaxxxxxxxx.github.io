@@ -10,6 +10,20 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 1.5.6.0 - UNRELEASED
+
+### Save Safe?: NO 
+
+**Added**
+
+**Want to Add**
+- [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
+- [Vats Lag Fix](https://www.nexusmods.com/newvegas/mods/84823)
+
+**Removed**
+
+**Updated**
+
 ## Release 1.5.6.0 - 01/16/2024
 
 ### Save Safe?: NO 
