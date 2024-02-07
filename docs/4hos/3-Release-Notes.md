@@ -130,6 +130,16 @@ Save Safe?: YES
   > 1.2.6 to 1.2.8
 * Embers XD
   > 2.9.1 to 2.9.4
+* BeastHHBB - Khajiit and Argonian content - player character and NPC replacer
+  > 3.7.5 to 3.8
+* Font Overhaul - Natural Typefaces for Skyrim -- FONTS
+  > 2.1.2 to 2.1.3
+* SkyTEST - Hens - Mihail Monsters and Animals replacer SE-AE by Xtudo
+  > 1.1 to 1.2
+* JK's Windhelm Outskirts Patch Collection
+  > 1.2 to 1.4.2
+* JK's Riften Outskirts Patch Collection
+  > 1.2 to 1.4.2
 
 # Release 0.9.3.2  
 Save Safe?: YES   
