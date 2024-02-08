@@ -7,7 +7,6 @@ Save Safe?: YES
   
 **Added**
 
-* [GRIM ENB](https://www.nexusmods.com/skyrimspecialedition/mods/59679)
 * [Modular SMP Hairstyles](https://www.nexusmods.com/skyrimspecialedition/mods/93608)
 * [Chooey's Modular SMP Hairstyles Edit](https://www.nexusmods.com/skyrimspecialedition/mods/110414)
 * [Super Fast Get Up Animation](https://www.nexusmods.com/skyrimspecialedition/mods/46714)
@@ -39,6 +38,19 @@ Save Safe?: YES
 * [Rally's Ants](https://www.nexusmods.com/skyrimspecialedition/mods/22089)
 * [Skyking Soul Gems](https://www.nexusmods.com/skyrimspecialedition/mods/110303)
 * [More realistic fur and antlers for Hearthfire Elks](https://www.nexusmods.com/skyrimspecialedition/mods/110479)
+* [Assorted Animation Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/93271)
+* [Sky Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110604)
+* [Requiem - SPID Apprentice and Novice Perks for All Followers](https://www.nexusmods.com/skyrimspecialedition/mods/100245)
+* [Buyable Golden Claw](https://www.nexusmods.com/skyrimspecialedition/mods/24689)
+* [Silence is Golden](https://www.nexusmods.com/skyrimspecialedition/mods/50581)
+* [Golden Claw - More Choices](https://www.nexusmods.com/skyrimspecialedition/mods/110696)
+* [Robes Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/110655)
+* [Cathedral - 3D Stonecrop](https://www.nexusmods.com/skyrimspecialedition/mods/110726)
+* [Face Sculptor Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/110116)
+* [ChickenMike's Random Assortment of Patches (C.R.A.P.)](https://www.nexusmods.com/skyrimspecialedition/mods/106790)
+* [GRIM ENB](https://www.nexusmods.com/skyrimspecialedition/mods/59679)
+* [AMON ENB REBORN for NAT 3](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
+* [Ragnarok Reshade For Cabbage ENB](https://www.nexusmods.com/skyrimspecialedition/mods/104546)
   
 **Removed**
 
