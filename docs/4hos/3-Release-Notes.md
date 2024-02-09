@@ -56,6 +56,8 @@ Save Safe?: YES
 * [Wounds Add-Ons - Spell Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/68458)
 * [Atlantean Landscape -Complete- Complex Terrain Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/89542)
 * [RVX Dirt 02 Terrain Parallax 1k-2k-4k](https://www.nexusmods.com/skyrimspecialedition/mods/105577)
+* [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257)
+* [Parallax Occlusion Mapping](https://www.nexusmods.com/skyrimspecialedition/mods/78976)
 * [GRIM ENB](https://www.nexusmods.com/skyrimspecialedition/mods/59679)
 * [AMON ENB REBORN for NAT 3](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
 * [Ragnarok Reshade For Cabbage ENB](https://www.nexusmods.com/skyrimspecialedition/mods/104546)
