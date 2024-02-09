@@ -1,6 +1,9 @@
 ---
 sidebar_position: 2
 ---
+
+# [![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/72676bf0-0302-4f82-b373-609b33a8d51e)](https://www.modlists.net/docs/2capitalpunishment/Home) [![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/22bca291-aae2-45fe-80ff-308fa49e85bf)](https://www.patreon.com/Themrnewvegas) [![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/99d6f770-e29c-4813-9a37-5494d0753818)](https://www.nexusmods.com/newvegas/mods/80042)
+
 # Installation Guide
 
 :::info
