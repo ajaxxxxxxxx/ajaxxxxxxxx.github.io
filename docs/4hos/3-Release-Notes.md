@@ -73,6 +73,11 @@ Save Safe?: YES
 * [KS Hairdos - HDT SMP (Physics)](https://www.nexusmods.com/skyrimspecialedition/mods/31300)
 * [Salt and Wind - Rough Hair for KS Hairdos SE](https://www.nexusmods.com/skyrimspecialedition/mods/16582)
 * [Twilight](https://www.nexusmods.com/skyrimspecialedition/mods/82665)
+* [Majestic Mountains - Simplicity of Snow Patch](https://www.nexusmods.com/skyrimspecialedition/mods/84042)
+* [Atlantean Landscape -Majestic Edition-](https://www.nexusmods.com/skyrimspecialedition/mods/102170)
+* [Atlantean Landscape -Rocks and Dirt- Complex Terrain Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/84425)
+* [No Sunlight Through Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/45401)
+* [D13 Faster GET UP STAND UP animation vanilla friendly SSE](https://www.nexusmods.com/skyrimspecialedition/mods/5890)
 
 **Updated**
 
