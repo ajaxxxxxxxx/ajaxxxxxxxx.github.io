@@ -19,6 +19,7 @@ sidebar_position: 3
 **Want to Add**
 - [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
 - [Vats Lag Fix](https://www.nexusmods.com/newvegas/mods/84823)
+- [Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917)
 
 **Removed**
 
