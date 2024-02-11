@@ -57,6 +57,18 @@ Save Safe?: YES
 * [Atlantean Landscape -Complete- Complex Terrain Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/89542)
 * [RVX Dirt 02 Terrain Parallax 1k-2k-4k](https://www.nexusmods.com/skyrimspecialedition/mods/105577)
 * [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257)
+* [Terrain Parallax Blending Fix](https://www.nexusmods.com/skyrimspecialedition/mods/88261)
+* [Shrubbery Symphony - Enhanced Greenery](https://www.nexusmods.com/skyrimspecialedition/mods/108442)
+* [Forest Cat](https://www.nexusmods.com/skyrimspecialedition/mods/72351)
+* [Lion's Mane](https://www.nexusmods.com/skyrimspecialedition/mods/72166)
+* [K.C.C.E Khajiit Character Creation Extended](https://www.nexusmods.com/skyrimspecialedition/mods/95969)
+* [Argonian Crests](https://www.nexusmods.com/skyrimspecialedition/mods/102860)
+* [Aquatic Elegance - Argonian Koi Whisker Addons](https://www.nexusmods.com/skyrimspecialedition/mods/97363)
+* [Thick braid SMP](https://www.nexusmods.com/skyrimspecialedition/mods/62997)
+* [Digitigrade Beast Races for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/1975)
+* [Riverborn Argonian Skin](https://www.nexusmods.com/skyrimspecialedition/mods/84819)
+* [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963)
+* [Hidden Boots For Beast Race Mods](https://www.nexusmods.com/skyrimspecialedition/mods/97320)
 * [Parallax Occlusion Mapping](https://www.nexusmods.com/skyrimspecialedition/mods/78976)
 * [GRIM ENB](https://www.nexusmods.com/skyrimspecialedition/mods/59679)
 * [AMON ENB REBORN for NAT 3](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
@@ -78,6 +90,9 @@ Save Safe?: YES
 * [Atlantean Landscape -Rocks and Dirt- Complex Terrain Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/84425)
 * [No Sunlight Through Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/45401)
 * [D13 Faster GET UP STAND UP animation vanilla friendly SSE](https://www.nexusmods.com/skyrimspecialedition/mods/5890)
+* [Skyrim Outfit System SE Revived](https://www.nexusmods.com/skyrimspecialedition/mods/42162)
+* [Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)](https://www.nexusmods.com/skyrimspecialedition/mods/1443)
+* [Female Dragonic Argonian Textures 4k - 2k(CBBE and UNP)](https://www.nexusmods.com/skyrimspecialedition/mods/1442)
 
 **Updated**
 
