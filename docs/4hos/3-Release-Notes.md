@@ -68,10 +68,12 @@ Save Safe?: YES
 * [Digitigrade Beast Races for Skyrim SE](https://www.nexusmods.com/skyrimspecialedition/mods/1975)
 * [Riverborn Argonian Skin](https://www.nexusmods.com/skyrimspecialedition/mods/84819)
 * [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963)
+* [Digitigrade Beast Races DAV](https://www.nexusmods.com/skyrimspecialedition/mods/97633)
 * [Hidden Boots For Beast Race Mods](https://www.nexusmods.com/skyrimspecialedition/mods/97320)
 * [Parallax Occlusion Mapping](https://www.nexusmods.com/skyrimspecialedition/mods/78976)
 * [GRIM ENB](https://www.nexusmods.com/skyrimspecialedition/mods/59679)
 * [AMON ENB REBORN for NAT 3](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
+* [KAUZ ENB](https://www.nexusmods.com/skyrimspecialedition/mods/111431)
 * [Ragnarok Reshade For Cabbage ENB](https://www.nexusmods.com/skyrimspecialedition/mods/104546)
   
 **Removed**
