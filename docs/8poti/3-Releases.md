@@ -218,6 +218,7 @@ description: Release Notes
 [Winged Twilight Rebalance](https://www.nexusmods.com/morrowind/mods/53310)
 
 **Removed**
+
 Another Pickpocketing Fix
 
 Ascadian Isles - Hlaalu Bridges
