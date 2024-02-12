@@ -13,43 +13,309 @@ description: Release Notes
 
 **Added**
 
+[6th House - Glowing Things](https://www.nexusmods.com/morrowind/mods/48764)
+
+[Abot's Boats](https://www.nexusmods.com/morrowind/mods/42270)
+
+[Ald'Ruhn Manor Banners](https://www.nexusmods.com/morrowind/mods/51527)
+
+[Ald'Ruhn Under-Skar](https://www.nexusmods.com/morrowind/mods/50332)
+
+[A Merchant's Whim](https://www.nexusmods.com/morrowind/mods/51068)
+
+[Apel's Various Things - Sacks](https://www.nexusmods.com/morrowind/mods/42558)
+
+[Arkgthand 2.0](https://www.nexusmods.com/morrowind/mods/43628)
+
+[Arkitektora White Suran](https://www.nexusmods.com/morrowind/mods/45101)
+
+[Atronach Rebalance](https://www.nexusmods.com/morrowind/mods/51309)
+
+[Ashlander Architect](https://www.nexusmods.com/morrowind/mods/52879)
+
+[Bear Armor Replacer](https://www.nexusmods.com/morrowind/mods/44992)
+
+[Better Sprigans](https://www.nexusmods.com/morrowind/mods/44271)
+
+[Better Telvanni Crystal](https://www.nexusmods.com/morrowind/mods/50818)
+
+[Bitter Coast Scum Replacer](https://www.nexusmods.com/morrowind/mods/48291)
+
+[Black Soul Gems](https://www.nexusmods.com/morrowind/mods/45902)
+
+[Blademeister](https://www.nexusmods.com/morrowind/mods/52740)
+
+[Blue Kanet Organic Integration](https://www.nexusmods.com/morrowind/mods/54081)
+
+[Boots for Beasts - Amenophis Revision](https://www.nexusmods.com/morrowind/mods/48726)
+
+[Bountiful Blue Kanet](https://www.nexusmods.com/morrowind/mods/54106)
+
+[Box of Horrors - Corprus Weeping](https://www.nexusmods.com/morrowind/mods/47795)
+
+[Calm Your Jordans](https://www.nexusmods.com/morrowind/mods/54032)
+
+[Chalk](https://www.nexusmods.com/morrowind/mods/54043)
+
+[Children of Morrowind for BCOM and TOTSP](https://www.nexusmods.com/morrowind/mods/48683)
+
+[Cinia](https://www.nexusmods.com/morrowind/mods/47153)
+
+[Colovian Helm and Heavy Leather Boots Retexture](https://www.nexusmods.com/morrowind/mods/43330?tab=files)
+
+[Combat Sounds Overhaul](https://www.nexusmods.com/morrowind/mods/53859)
+
+[Corporeal Carryable Containers](https://www.nexusmods.com/morrowind/mods/53772)
+
+[Crates Bump-Mapped](https://www.nexusmods.com/morrowind/mods/43330?tab=files)
+
+[Daggerfall Skeleton Sounds](https://www.nexusmods.com/morrowind/mods/45838)
+
+[Dagoth Ur Fleshed Out](https://www.nexusmods.com/morrowind/mods/54070)
+
+[Darker Imperial Forts Normal Mapped](https://www.nexusmods.com/morrowind/mods/54128)
+
+[Diverse Khajiit - New and Improved](https://www.nexusmods.com/morrowind/mods/48832)
+
 [Dynamic Distant Buildings - OpenMW Lua](https://www.nexusmods.com/morrowind/mods/53214)
+
+[Eclipse of the Crescent Blade](https://www.nexusmods.com/morrowind/mods/47194)
+
+[EKM Corkbulb Retexture](https://www.nexusmods.com/morrowind/mods/43809)
+
+[Expanded Soundtrack Akavir](https://www.nexusmods.com/morrowind/mods/53244)
+
+[Expanded Soundtrack Winds of Kyne](https://www.nexusmods.com/morrowind/mods/53946)
+
+[Facelift TR](https://www.nexusmods.com/morrowind/mods/53935)
+
+[Flies](https://www.nexusmods.com/morrowind/mods/43481)
+
+[Gates of Ascadia](https://www.nexusmods.com/morrowind/mods/53547)
+
+[Gray North - Andavel-Assumanu](https://www.nexusmods.com/morrowind/mods/51326)
+
+[Guar Stables of Balmora](https://www.nexusmods.com/morrowind/mods/53904)
+
+[Guild of Vampire Hunters - The Weary Vampire Patch](https://www.nexusmods.com/morrowind/mods/52172)
 
 [Hammerfell Ansei Warrior Armour](https://www.nexusmods.com/morrowind/mods/53822)
 
+[Hanging Gardens of Suran](https://www.nexusmods.com/morrowind/mods/53316)
+
+[How I Shot Web](https://www.nexusmods.com/morrowind/mods/54034)
+
+[Immersive Grotto Entrances](https://www.nexusmods.com/morrowind/mods/54014)
+
 [Imperial Employment Office (MD Edit)](https://www.nexusmods.com/morrowind/mods/53845)
+
+[Improved Kwama Eggs and Egg Sacs](https://www.nexusmods.com/morrowind/mods/43555)
+
+[Improved Propylon Particles](https://www.nexusmods.com/morrowind/mods/44509)
+
+[Indoril Armor](https://www.nexusmods.com/morrowind/mods/49687)
+
+[I Want That Purple Stuff](https://www.nexusmods.com/morrowind/mods/54048)
+
+[Kart's Elvish Breton Male Presets](https://www.nexusmods.com/morrowind/mods/53918)
+
+[Little Landscape - Foyada of Sharp Teeth](https://www.nexusmods.com/morrowind/mods/53355)
+
+[Logs on Fire](https://www.nexusmods.com/morrowind/mods/51752)
+
+[Maar Gan - Town of Pilgrimage](https://www.nexusmods.com/morrowind/mods/53919)
+
+[Mages Guild Stronghold - Nchagalelft](https://www.nexusmods.com/morrowind/mods/53342)
+
+[MAO Spell Sounds](https://www.nexusmods.com/morrowind/mods/50486)
+
+[Mimics](https://www.nexusmods.com/morrowind/mods/53889)
+
+[Morrowind Redux](https://www.nexusmods.com/morrowind/mods/54060)
 
 [Nine-Holes - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52093) 
 
+[Nocturnal Moths](https://www.nexusmods.com/morrowind/mods/44148)
+
+[Non-Euclidean Mournhold](https://www.nexusmods.com/morrowind/mods/54005)
+
+[No Sneaky Sleeping](https://www.nexusmods.com/morrowind/mods/53539)
+
+[OAAB Saplings OpenMW Groundcover Patch](https://www.nexusmods.com/morrowind/mods/52351)
+
+[Oh God Snow for Skies.iv and OpenMW](https://www.nexusmods.com/morrowind/mods/50509)
+
+[Oh No, Stolen Reports!](https://www.nexusmods.com/morrowind/mods/53046)
+
+[Old Blue Fin](https://www.nexusmods.com/morrowind/mods/49503)
+
+[Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562)
+
+[Perfumed Vampires](https://www.nexusmods.com/morrowind/mods/53714)
+
+[Pickpocket Rebalance](https://www.nexusmods.com/morrowind/mods/53174)
+
+[Pimp My Lava](https://www.nexusmods.com/morrowind/mods/53808)
+
+[Quarra Clan - Refreshed](https://www.nexusmods.com/morrowind/mods/48955)
+
+[Quick Spell Casting](https://www.nexusmods.com/morrowind/mods/52130)
+
+[Ranis Athrys- Let Go and Begin Again](https://www.nexusmods.com/morrowind/mods/50664)
+
+[Realistic Stealth](https://www.nexusmods.com/morrowind/mods/49021)
+
+[Remove Negative Lights for OpenMW](https://www.nexusmods.com/morrowind/mods/52487)
+
+[Repopulated Morrowind](https://www.nexusmods.com/morrowind/mods/51174)
+
+[Roaring Arena - Betting and Bloodletting](https://www.nexusmods.com/morrowind/mods/50954)
+
+[Rocky Red Mountain - Vanilla Textures and BCoM Compatibility Patch](https://www.nexusmods.com/morrowind/mods/52979)
+
+[Sanctus Shrine](https://www.nexusmods.com/morrowind/mods/47841)
+
+[SM Bonelord Replacer Overhaul](https://www.nexusmods.com/morrowind/mods/53841)
+
+[SM Iron Vol1 Replace](https://www.nexusmods.com/morrowind/mods/53761)
+
+[Solstheim Rumor Fix - Fixed - Fixed](https://www.nexusmods.com/morrowind/mods/47053)
+
+[Some OpenMW Post Processing Shaders](https://www.nexusmods.com/morrowind/mods/53747)
+
 [Superior Shulk Eggmine - OAAB](https://www.nexusmods.com/morrowind/mods/53785)
+
+[The Ebonheart Lighthouse](https://www.nexusmods.com/morrowind/mods/53417)
+
+[The Madstone](https://www.nexusmods.com/morrowind/mods/47653)
+
+[The Professionals](https://www.nexusmods.com/morrowind/mods/53986)
+
+[The Road To The Lighthouse](https://www.nexusmods.com/morrowind/mods/54076)
+
+[The Stone Halls of Solstheim - Reforged](https://www.nexusmods.com/morrowind/mods/49841)
+
+[The Weary Vampire](https://www.nexusmods.com/morrowind/mods/49774)
 
 [Thirteen Telvanni - Tamriel Rebuilt Addon](https://www.nexusmods.com/morrowind/mods/52081)
 
 [Throat Singing Temple Healers - Radicalized](https://www.nexusmods.com/morrowind/mods/53843)
 
-**Removed**
+[Tribunal Assassin Delay](https://www.nexusmods.com/morrowind/mods/43477)
 
+[Upscaled Old Blue Fin](https://www.nexusmods.com/morrowind/mods/53027)
+
+[Upscaled Textures of TR Clothing](https://www.nexusmods.com/morrowind/mods/53948)
+
+[Vampire Hunter Faction](https://www.nexusmods.com/morrowind/mods/53811)
+
+[Vanilla Friendly Creatures and Undead Expansion](https://www.nexusmods.com/morrowind/mods/48818)
+
+[Weapons Expansion Project - Cleaned and Capitalized](https://www.nexusmods.com/morrowind/mods/53869)
+
+[White Suran 2 - MD Edition](https://www.nexusmods.com/morrowind/mods/44153)
+
+[Winged Twilight Rebalance](https://www.nexusmods.com/morrowind/mods/53310)
+
+**Removed**
+Another Pickpocketing Fix
+
+Ascadian Isles - Hlaalu Bridges
+
+Expansion Delay
+
+I Lava Good Mesh Replacer
+
+Imperials Go Home
+
+Little Landscapes - Path to Vivec Lighthouse
+
+Moon Magic
+
+MUSE Music Expansion - Empire
+
+OAAB Leveled Lists
+
+OAAB Market
+
+Sarandas Family Hearth
+
+Skooma Baron
+
+The Arcane Watch DEMO
+
+The Magic Rock of Maar Gan
+
+The Talos Cult Conspiracy
+
+Welcome to the Arena
 **Updated**
 
-BCOM 3.0 to 3.0.3
+AATL Data 0.4f to 0.5b
+
+Akulakhan's Best Chamber 1.3.4 to 1.3.5
+
+Alchemical Hustle 1.3 to 1.4
+
+Azura's Shrine Overhaul 1.2 to 1.3
+
+Balmora Stoneflower House 1.0 to 1.2
+
+BCOM 3.0 to 3.1
 
 Better Bound Items 1.03 to 1.04
 
-Kogoruhn - Extinct City of Ash and Sulfur 2.6 to 2.7
+Caldera Mine Expanded - Simplified and Bug-Free 1.2 to 1.3
+
+Caldera Priory and the Depths of Blood and Bone 1.2 to 2.1
+
+Devilish Vampire Overhaul 1.5.2 to 2.4
+
+Distant Horizon - A Chimeri-quey Flotilla 1.2 to 1.3
+
+Djangos Dialogue 1.42 to 1.43
+
+Dura gra-Bol's House Reclaimed - And the Grab-All Gang 2.2 to 2.5
+
+Dynamic Music 0.9 to 0.10
+
+Fireflies 1.0 to 1.1
+
+Immersive Mournhold 2.4 to 2.5
+
+Kogoruhn - Extinct City of Ash and Sulfur 2.6 to 2.8
+
+Library of Vivec Enhanced 1.8 to 1.9
 
 Lord of Rebirth 1.5 to 1.6
 
 Mage Robes 2.2.2 to 2.3
 
-Markgran Forest (Maar Gan Forest) 1.2 to 1.5
+Magical Missions Recharged 1.2 to 2.3
 
-NCGDMW Lua Edition 1.3 to 2.0
+Markgran Forest 1.2 to 1.6
+
+NCGDMW Lua Edition 1.3 to 2.1
+
+New Ilunibi 1.3 to 1.4
 
 Nine-Holes 1.06 to 1.07
 
-OAAB Shipwrecks 1.7.4 to 1.7.7
+Nordic Solstheim - Solstheim Interiors Overhaul 1.4 to 1.6
+
+OAAB Shipwrecks 1.7.4 to 2.0
+
+OAAB Tel Mora 4.0.5 to 4.0.6
+
+Of Melodies and Moonlight - A Sadrith Mora Artist 4.2 to 5.4
+
+Of Murk and Mussels - A Sadrith Mora Trader 1.3 to 1.4
+
+Repopulated Waters 1.0 to 1.3
 
 Tabletop Alchemy 1.2 to 1.2.1
+
+Tamriel Rebuilt - Hall of Justice Overhaul 1.1 to 1.2
 
 The Fires of Orc 2.1 to 2.2
 
@@ -57,7 +323,7 @@ The Search for the White Wave 1.2 to 1.3
 
 Thickle-Lo - The Succulent Hackle-Lo Mod 1.2 to 1.3
 
-Thirteen Telvanni 
+Thirteen Telvanni 1.04 to 1.11
 
 Vanilla Friendly Wearables Expansion 3.3 to 3.4
 
