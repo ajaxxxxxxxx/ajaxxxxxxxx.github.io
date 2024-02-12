@@ -253,7 +253,7 @@ Welcome to the Arena
 
 **Updated**
 
-AATL Data 0.4f to 0.5b
+AATL Data 0.4f to 0.5c
 
 Akulakhan's Best Chamber 1.3.4 to 1.3.5
 
@@ -261,7 +261,7 @@ Alchemical Hustle 1.3 to 1.4
 
 Azura's Shrine Overhaul 1.2 to 1.3
 
-Balmora Stoneflower House 1.0 to 1.2
+Balmora Stoneflower House 1.0 to 1.3
 
 BCOM 3.0 to 3.1
 
