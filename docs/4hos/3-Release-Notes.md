@@ -184,6 +184,8 @@ Save Safe?: YES
   > 1.2 to 1.4.2
 * JK's Riften Outskirts Patch Collection
   > 1.2 to 1.4.2
+* Better Third Person Selection - BTPS
+  > 0.5.9 to 0.6
 
 # Release 0.9.3.2  
 Save Safe?: YES   
