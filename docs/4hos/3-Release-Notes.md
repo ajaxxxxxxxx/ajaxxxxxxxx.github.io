@@ -95,6 +95,7 @@ Save Safe?: YES
 * [Skyrim Outfit System SE Revived](https://www.nexusmods.com/skyrimspecialedition/mods/42162)
 * [Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)](https://www.nexusmods.com/skyrimspecialedition/mods/1443)
 * [Female Dragonic Argonian Textures 4k - 2k(CBBE and UNP)](https://www.nexusmods.com/skyrimspecialedition/mods/1442)
+* [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
 
 **Updated**
 
