@@ -70,6 +70,7 @@ Save Safe?: YES
 * [Dynamic Armor Variants](https://www.nexusmods.com/skyrimspecialedition/mods/65963)
 * [Digitigrade Beast Races DAV](https://www.nexusmods.com/skyrimspecialedition/mods/97633)
 * [Hidden Boots For Beast Race Mods](https://www.nexusmods.com/skyrimspecialedition/mods/97320)
+* [Bethesda Plugin Manager for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/111236)
 * [Parallax Occlusion Mapping](https://www.nexusmods.com/skyrimspecialedition/mods/78976)
 * [GRIM ENB](https://www.nexusmods.com/skyrimspecialedition/mods/59679)
 * [AMON ENB REBORN for NAT 3](https://www.nexusmods.com/skyrimspecialedition/mods/99786)
@@ -96,6 +97,7 @@ Save Safe?: YES
 * [Male Dragonic Argonian Textures 4k - 2k (SOS and Vanilla)](https://www.nexusmods.com/skyrimspecialedition/mods/1443)
 * [Female Dragonic Argonian Textures 4k - 2k(CBBE and UNP)](https://www.nexusmods.com/skyrimspecialedition/mods/1442)
 * [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
+* [Crash Log Tools for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/66743)
 
 **Updated**
 
@@ -187,6 +189,10 @@ Save Safe?: YES
   > 1.2 to 1.4.2
 * Better Third Person Selection - BTPS
   > 0.5.9 to 0.6
+* Mod Organizer
+  > 2.4.4 to 2.5
+* NIF Preview (3D Model Viewer) for Mod Organizer
+  > 0.1.8b to 0.2
 
 # Release 0.9.3.2  
 Save Safe?: YES   
