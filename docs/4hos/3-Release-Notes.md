@@ -2,20 +2,20 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 0.9.3.3  
+# Release 0.9.3.4  
 Save Safe?: YES   
   
 **Added**
 
-[Requiem - Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/111718)
-[TMD The Rift Leaves](https://www.nexusmods.com/skyrimspecialedition/mods/111461)
-[HDT SMP fluffy beast race tail replacer](https://www.nexusmods.com/skyrimspecialedition/mods/91811)
-[Icy Mesh Remaster - Ice Glaciers - LOD - other fixes](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
-[Glacierslab SSE](https://www.nexusmods.com/skyrimspecialedition/mods/24178)
+* [Requiem - Simple Hunting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/111718)
+* [TMD The Rift Leaves](https://www.nexusmods.com/skyrimspecialedition/mods/111461)
+* [HDT SMP fluffy beast race tail replacer](https://www.nexusmods.com/skyrimspecialedition/mods/91811)
+* [Icy Mesh Remaster - Ice Glaciers - LOD - other fixes](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
+* [Glacierslab SSE](https://www.nexusmods.com/skyrimspecialedition/mods/24178)
   
 **Removed**
 
-[Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101)
+* [Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101)
 
 **Updated**
 
