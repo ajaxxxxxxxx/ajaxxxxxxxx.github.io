@@ -21,6 +21,7 @@ sidebar_position: 3
 - [Vats Lag Fix](https://www.nexusmods.com/newvegas/mods/84823)
 - [Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917)
 - [Pipboy Vendor](https://www.nexusmods.com/newvegas/mods/84997)
+- [CPBI Adendumb](https://www.nexusmods.com/newvegas/mods/85024)
 
 **Removed**
 
