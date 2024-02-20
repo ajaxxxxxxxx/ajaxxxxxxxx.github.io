@@ -103,8 +103,10 @@ Location(s): On the hill North East of Cottonwood Cove
 TTW Mobile Truck Base - player home, allows both inter- and intra-wasteland travel.
 
 [Link to Nexus page](https://www.nexusmods.com/newvegas/mods/79005)
+[Addon - Hardcore Mobile Truck Base TTW](https://www.nexusmods.com/newvegas/mods/80421)
+[Addon 2 - TTW Mobile Truck Base Megaton Mover](https://www.nexusmods.com/newvegas/mods/77160)
 
-Location(s): Scrapyard in the Capital Wasteland or Gibson Scrap Yard in the Mojave Wasteland, Truck Addons/The Truck Key can be Purchased at Craterside Supply
+Location(s): Scrapyard in the Capital Wasteland or Gibson Scrap Yard in the Mojave Wasteland, Truck Addons/The Truck Key can be Purchased from Crazy Wolfgang's Shop
 
 ![image](https://user-images.githubusercontent.com/114360108/202836538-d0c85e68-f82a-49f0-824d-2c842b3f3ef8.png)
 
