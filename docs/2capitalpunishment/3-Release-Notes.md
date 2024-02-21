@@ -15,6 +15,7 @@ sidebar_position: 3
 ### Save Safe?: NO 
 
 **Added**
+- [Titans of the New West INI](https://www.nexusmods.com/newvegas/mods/78688?tab=files)
 
 **Want to Add**
 - [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
@@ -24,8 +25,56 @@ sidebar_position: 3
 - [CPBI Adendumb](https://www.nexusmods.com/newvegas/mods/85024)
 
 **Removed**
+- MUX Patches
+> Merged into MUX itself in latest version
 
 **Updated**
+- Console Paste Support
+> 2.2 to 2.3
+- Johnny Guitar NVSE
+> 4.98c to 5.00a
+- NVTF INI Preset
+> 10.2.2.3 to 10.2.2.3a
+- Stewies Tweaks
+> 8.95 to 9.01
+- Yvile's Crash Logger
+> 4.5.3 to 4.5.4
+- Kaleidoscope
+> 1.4 to 1.5
+- Viewmodel Shake Fix
+> 1.0 to 1.1
+- Consistent Pipboy Icons v5
+> 3.1 to 3.2
+- MUX Series Interface Overhaul
+> 6.2a to 7.2
+- Titans of the New West
+> 2.1.21 to 2.1.28
+- B42 Optics
+> 0.20beta to 0.21b
+- AM & Gun Addon B42 Patch
+> 1.0 to 1.5
+- Another Millenia
+> 2.4.2a to 2.4.3 + Hotfix
+- Another Millenia TTW Unique Placements
+> TTW1.1 to TTW1.2
+- Another Millenia Gun Addon
+> 1.6 to 1.6.1HF
+- Aid Addon
+> 13.36 to 13.40
+- Just Sprint Plus
+> 1.078 to 1.079
+- Sweet 6 Shooter Perk Pack TTW Version
+> 16.23 to 16.24
+- B42 Interact
+> 0.14b to 0.15b
+- Lumen NV LLL
+> 1.5 to 1.6
+- Desert Natural Weathers
+> 7.4.5 to 7.6.0
+- Desert Natural Sandstorms TTW
+> 2.6.5 to 2.7.6
+- LOD Fixes & Improvements
+> 1.1 to 1.2.6
 
 ## Release 1.5.6.0 - 01/16/2024
 
