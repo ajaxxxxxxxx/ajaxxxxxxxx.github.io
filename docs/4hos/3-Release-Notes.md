@@ -17,6 +17,7 @@ Save Safe?: YES
   
 **Removed**
 
+* [Varied Guard Armor - Sleeves Addon](https://www.nexusmods.com/skyrimspecialedition/mods/101599)
 
 **Updated**
 
