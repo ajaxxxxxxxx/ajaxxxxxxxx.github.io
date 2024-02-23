@@ -2,11 +2,18 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 0.9.3.5  
+# Release 1.0  
 Save Safe?: YES   
   
 **Added**
 
+* (Enhanced Vampire Appearance)[https://www.nexusmods.com/skyrimspecialedition/mods/59859]
+* (Reshaped Dwarven Armor)[https://www.nexusmods.com/skyrimspecialedition/mods/56608]
+* (HD LODs Textures SE)[https://www.nexusmods.com/skyrimspecialedition/mods/3333]
+* (DynDoLod V 3.0 Lod pack (all versions))[https://www.nexusmods.com/skyrimspecialedition/mods/87547]
+* (NPCs Take Cover - Smarter Anti-Cheese AI)[https://www.nexusmods.com/skyrimspecialedition/mods/111890]
+* (Pronouns)[https://www.nexusmods.com/skyrimspecialedition/mods/43816]
+* (Snowy Ships for Snowy Regions)[https://www.nexusmods.com/skyrimspecialedition/mods/111827]
   
 **Removed**
 
