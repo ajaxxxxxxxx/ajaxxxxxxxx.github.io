@@ -27,7 +27,7 @@ sidebar_position: 3
 **Removed**
 - MUX Patches
 > Merged into MUX itself in latest version
-- All Lower Performance Profiles
+- All Lower Performance Profiles & Associated Decreased Textures
 > These profiles provided little in terms of performance enhancements. This will decrease the space needed for this list and allow us to work with different, more interesting profiles
 - Hires Eye Replacers
 > Handled by CKR
