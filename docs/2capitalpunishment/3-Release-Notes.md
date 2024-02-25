@@ -23,6 +23,7 @@ sidebar_position: 3
 - [Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917)
 - [Pipboy Vendor](https://www.nexusmods.com/newvegas/mods/84997)
 - [CPBI Adendumb](https://www.nexusmods.com/newvegas/mods/85024)
+- [Hardcore Wait Needs](https://www.nexusmods.com/newvegas/mods/85148)
 
 **Removed**
 - MUX Patches
