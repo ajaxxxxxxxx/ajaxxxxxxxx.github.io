@@ -13,7 +13,7 @@ description: Halls of Sovngarde Installation Guide
 ### **Original Sources for All Information**
 
 - [All Requiem Guides](https://www.reddit.com/r/skyrimrequiem/comments/hijmml/guides_resources_links_for_beginners_and_advanced/?utm_medium=android_app&utm_source=share)
-- [Requiem Guide - What is Displayed on This Page](https://www.reddit.com/r/skyrimrequiem/comments/1w5cej/surviving_the_first_few_hours_in_requiem_or/) 
+- [Requiem Guide](https://www.reddit.com/r/skyrimrequiem/comments/1w5cej/surviving_the_first_few_hours_in_requiem_or/) 
 - [Noxcrab's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/42591)
 - [Immersive Divine Blessings](https://www.nexusmods.com/skyrimspecialedition/mods/61297)
 - [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751)
