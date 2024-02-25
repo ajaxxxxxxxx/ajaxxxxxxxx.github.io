@@ -29,6 +29,10 @@ sidebar_position: 3
 > Merged into MUX itself in latest version
 - All Lower Performance Profiles
 > These profiles provided little in terms of performance enhancements. This will decrease the space needed for this list and allow us to work with different, more interesting profiles
+- Hires Eye Replacers
+> Handled by CKR
+- [DNW SMGE Patch](https://www.nexusmods.com/newvegas/mods/78104)
+> Heavily outdated
 
 **Updated**
 - Console Paste Support
