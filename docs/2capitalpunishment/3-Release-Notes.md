@@ -36,6 +36,10 @@ sidebar_position: 3
 > Heavily outdated
 - Fairfax City Interiors & FCI Revision
 - Less Fertile Wasteland & WFO
+- Animated Wastelands TTW
+- AmaccurzerO's Animated Wasteland
+- Animated Microfilm Machines
+- Amaccurzer's Animated Zeppelins
 
 **Updated**
 - Console Paste Support
