@@ -35,6 +35,7 @@ sidebar_position: 3
 - [DNW SMGE Patch](https://www.nexusmods.com/newvegas/mods/78104)
 > Heavily outdated
 - Fairfax City Interiors & FCI Revision
+- Less Fertile Wasteland & WFO
 
 **Updated**
 - Console Paste Support
