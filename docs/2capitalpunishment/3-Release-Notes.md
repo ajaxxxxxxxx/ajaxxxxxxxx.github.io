@@ -45,6 +45,7 @@ sidebar_position: 3
 - Mojave Express Drop Off
 - Mojave Express Overhaul
 - NVAC
+- Vendyboi 2
 
 **Updated**
 - Console Paste Support
