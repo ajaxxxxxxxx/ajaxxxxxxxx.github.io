@@ -34,7 +34,7 @@ sidebar_position: 3
 > Handled by CKR
 - [DNW SMGE Patch](https://www.nexusmods.com/newvegas/mods/78104)
 > Heavily outdated
-- Fairfax City Interiors
+- Fairfax City Interiors & FCI Revision
 
 **Updated**
 - Console Paste Support
