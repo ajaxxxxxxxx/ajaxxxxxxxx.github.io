@@ -26,7 +26,7 @@ description: Halls of Sovngarde Installation Guide
 - [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393)
 :::
 *** 
-## Stats and Skills:
+## Stats and Skills
 
 **Racial Derived Attributes**
 * Health Regen (%) = 0.2 + Health_Offset / 200 (Exception: Argonian 0.3)
