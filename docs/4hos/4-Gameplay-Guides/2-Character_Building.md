@@ -24,6 +24,7 @@ description: Halls of Sovngarde Installation Guide
 - [Skills of the Wild](https://www.nexusmods.com/skyrimspecialedition/mods/37693)
 - [Wounds](https://www.nexusmods.com/skyrimspecialedition/mods/17581)
 - [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393)
+:::
 *** 
 ## Stats and Skills:
 
