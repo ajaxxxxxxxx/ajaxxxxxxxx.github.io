@@ -41,6 +41,8 @@ sidebar_position: 3
 - Animated Microfilm Machines
 - Amaccurzer's Animated Zeppelins
 - MUX
+- Mojave Express Drop Off
+- Mojave Express Overhaul
 
 **Updated**
 - Console Paste Support
