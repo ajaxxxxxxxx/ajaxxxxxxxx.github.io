@@ -40,6 +40,7 @@ sidebar_position: 3
 - AmaccurzerO's Animated Wasteland
 - Animated Microfilm Machines
 - Amaccurzer's Animated Zeppelins
+- MUX
 
 **Updated**
 - Console Paste Support
