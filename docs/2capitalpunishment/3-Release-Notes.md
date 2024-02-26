@@ -24,6 +24,7 @@ sidebar_position: 3
 - [Pipboy Vendor](https://www.nexusmods.com/newvegas/mods/84997)
 - [CPBI Adendumb](https://www.nexusmods.com/newvegas/mods/85024)
 - [Hardcore Wait Needs](https://www.nexusmods.com/newvegas/mods/85148)
+- [YSI Pickup Icons](https://www.nexusmods.com/newvegas/mods/85117)
 
 **Removed**
 - MUX Patches
