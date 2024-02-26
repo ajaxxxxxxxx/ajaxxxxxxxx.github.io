@@ -25,6 +25,7 @@ sidebar_position: 3
 - [CPBI Adendumb](https://www.nexusmods.com/newvegas/mods/85024)
 - [Hardcore Wait Needs](https://www.nexusmods.com/newvegas/mods/85148)
 - [YSI Pickup Icons](https://www.nexusmods.com/newvegas/mods/85117)
+- [Progressive Sneak Attack Damage](https://www.nexusmods.com/newvegas/mods/77571)
 
 **Removed**
 - MUX Patches
