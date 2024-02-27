@@ -29,6 +29,7 @@ sidebar_position: 3
 - [Hardcore Wait Needs](https://www.nexusmods.com/newvegas/mods/85148)
 - [YSI Pickup Icons](https://www.nexusmods.com/newvegas/mods/85117)
 - [Progressive Sneak Attack Damage](https://www.nexusmods.com/newvegas/mods/77571)
+- [Bad Touch - Extended](https://www.nexusmods.com/newvegas/mods/84726?tab=description)
 
 **Removed**
 - MUX Patches
