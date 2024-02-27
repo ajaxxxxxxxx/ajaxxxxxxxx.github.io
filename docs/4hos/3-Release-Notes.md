@@ -32,6 +32,8 @@ Save Safe?: YES
 * [Holy Mountains - Skeleton HD Patch](https://www.nexusmods.com/skyrimspecialedition/mods/64963)
 * [Immersive Hunting Animations](https://www.nexusmods.com/skyrimspecialedition/mods/96961)
 * [Campfire Animations](https://www.nexusmods.com/skyrimspecialedition/mods/112322)
+* [Snazzy Diverse Carriages - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/112041)
+* [Frost VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/112509)
   
 **Removed**
 
