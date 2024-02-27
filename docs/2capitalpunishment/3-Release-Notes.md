@@ -54,6 +54,7 @@ sidebar_position: 3
 > Replaced with no mesh changes version
 - Hitman's Animations Seasons 1-3
 > Using FNV Clean Anims Primarily Now
+- Hit's Anims - Animation Fixes
 
 **Updated**
 - Console Paste Support
