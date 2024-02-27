@@ -30,6 +30,7 @@ sidebar_position: 3
 - [YSI Pickup Icons](https://www.nexusmods.com/newvegas/mods/85117)
 - [Progressive Sneak Attack Damage](https://www.nexusmods.com/newvegas/mods/77571)
 - [Bad Touch - Extended](https://www.nexusmods.com/newvegas/mods/84726?tab=description)
+- [NUka World x AIO Patch](https://www.nexusmods.com/newvegas/mods/79368?tab=files)
 
 **Removed**
 - MUX Patches
