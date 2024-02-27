@@ -18,6 +18,7 @@ sidebar_position: 3
 - [Titans of the New West INI](https://www.nexusmods.com/newvegas/mods/78688?tab=files)
 - [FNV Clean Anims Part 3 - Update 1.13](https://www.nexusmods.com/newvegas/mods/81648?tab=files)
 - [Hit's Millenia Animations Pt. 2](https://www.nexusmods.com/newvegas/mods/85192)
+- [Iron Sights Alligned](https://www.nexusmods.com/newvegas/mods/81933)
 
 **Want to Add**
 - [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
@@ -55,6 +56,9 @@ sidebar_position: 3
 - Hitman's Animations Seasons 1-3
 > Using FNV Clean Anims Primarily Now
 - Hit's Anims - Animation Fixes
+- WAP Year One and Bonus- 44 Revolver Hitman Anim Patch
+- B42 Optics Aligned - Hitmans KNVSE
+- B42 Optics Alligned - Vanilla 
 
 **Updated**
 - Console Paste Support
