@@ -60,7 +60,8 @@ sidebar_position: 3
 - B42 Optics Aligned - Hitmans KNVSE
 - B42 Optics Alligned - Vanilla
 - WAP Patch
-> Will be added to regular megapatches
+> Will be added to regular megapatch if needed
+- All WAP Mods Besides Year One & Bonus
 
 **Updated**
 - Console Paste Support
