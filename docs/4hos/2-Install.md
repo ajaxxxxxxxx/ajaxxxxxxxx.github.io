@@ -37,7 +37,7 @@ description: Halls of Sovngarde Installation Guide
 :::tip
 # Optional Post-Install Steps
 
-- If instead of CS you want to run an ENB, find the appropriate ENB separators and enable all mods under one of them
+- If instead of CS you want to run an ENB, first, enable mods under the separator "Enable for All ENB", then find the appropriate ENB separators and enable all mods under one of them
 - For each plugin, place it where shown
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/5edaafa2-a375-45d3-8612-f9f1e31fb169)
@@ -50,6 +50,9 @@ description: Halls of Sovngarde Installation Guide
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/48836285/d9863fab-4e0e-4059-9ca9-82b9793d7dac)
 
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/48836285/9c9651ed-fd8b-4ebb-a698-149f6b5c1932)
+
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/48836285/3d9f618f-6006-4136-a472-30396ddc76b5)
 
 :::
 
