@@ -16,7 +16,7 @@ sidebar_position: 3
 
 **Added**
 - [Titans of the New West INI](https://www.nexusmods.com/newvegas/mods/78688?tab=files)
-- [FNV Clean Anims Part 3 - Update 1.13]
+- [FNV Clean Anims Part 3 - Update 1.13](https://www.nexusmods.com/newvegas/mods/81648?tab=files)
 - [Hit's Millenia Animations Pt. 2](https://www.nexusmods.com/newvegas/mods/85192)
 
 **Want to Add**
