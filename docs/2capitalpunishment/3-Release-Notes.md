@@ -62,6 +62,7 @@ sidebar_position: 3
 - WAP Patch
 > Will be added to regular megapatch if needed
 - All WAP Mods Besides Year One & Bonus & Applicable Patches
+- Forgotten Millenia Animated & S6S Patch
 
 **Updated**
 - Console Paste Support
