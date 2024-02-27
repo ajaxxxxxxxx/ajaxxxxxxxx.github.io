@@ -58,7 +58,9 @@ sidebar_position: 3
 - Hit's Anims - Animation Fixes
 - WAP Year One and Bonus- 44 Revolver Hitman Anim Patch
 - B42 Optics Aligned - Hitmans KNVSE
-- B42 Optics Alligned - Vanilla 
+- B42 Optics Alligned - Vanilla
+- WAP Patch
+> Will be added to regular megapatches
 
 **Updated**
 - Console Paste Support
