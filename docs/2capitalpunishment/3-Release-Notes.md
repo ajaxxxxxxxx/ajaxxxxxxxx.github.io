@@ -57,12 +57,13 @@ sidebar_position: 3
 > Using FNV Clean Anims Primarily Now
 - Hit's Anims - Animation Fixes
 - WAP Year One and Bonus- 44 Revolver Hitman Anim Patch
-- B42 Optics Aligned - Hitmans KNVSE
-- B42 Optics Alligned - Vanilla
+- All B42 Optics Alligned Mods
+> Replaced with Iron Sights Alligned
 - WAP Patch
 > Will be added to regular megapatch if needed
 - All WAP Mods Besides Year One & Bonus & Applicable Patches
 - Forgotten Millenia Animated & S6S Patch
+- Varmint Rifle 22LR Setter
 
 **Updated**
 - Console Paste Support
