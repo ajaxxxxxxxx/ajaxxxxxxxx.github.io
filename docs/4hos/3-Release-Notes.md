@@ -38,6 +38,7 @@ Save Safe?: YES
 **Removed**
 
 * [Varied Guard Armor - Sleeves Addon](https://www.nexusmods.com/skyrimspecialedition/mods/101599)
+* [Pause After Load Unscripted NG](https://www.nexusmods.com/skyrimspecialedition/mods/60958)
 
 **Updated**
 
