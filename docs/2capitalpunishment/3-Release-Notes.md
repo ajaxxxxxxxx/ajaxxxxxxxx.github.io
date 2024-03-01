@@ -33,6 +33,8 @@ sidebar_position: 3
 - [NUka World x AIO Patch](https://www.nexusmods.com/newvegas/mods/79368?tab=files)
 - [YSI Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075)
 - [Honest Hearts Graffiti](https://www.nexusmods.com/newvegas/mods/85238)
+- [FNV Clean Animations Mines](https://www.nexusmods.com/newvegas/mods/85242)
+- [Crafting XP](https://www.nexusmods.com/newvegas/mods/85229)
 
 **Removed**
 - MUX Patches
