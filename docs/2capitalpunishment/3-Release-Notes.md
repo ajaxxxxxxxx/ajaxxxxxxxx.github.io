@@ -71,7 +71,6 @@ sidebar_position: 3
 - All WAP Mods Besides Year One & Bonus & Applicable Patches
 - Forgotten Millenia Animated & S6S Patch
 - Varmint Rifle 22LR Setter
-- Nuka World Imports & Patches
 
 **Updated**
 - Console Paste Support
@@ -81,7 +80,7 @@ sidebar_position: 3
 - NVTF INI Preset
 > 10.2.2.3 to 10.2.2.3a
 - Stewies Tweaks
-> 8.95 to 9.01
+> 8.95 to 9.01 to 9.05
 - Yvile's Crash Logger
 > 4.5.3 to 4.5.4
 - Kaleidoscope
@@ -93,7 +92,7 @@ sidebar_position: 3
 - MUX Series Interface Overhaul
 > 6.2a to 7.2
 - Titans of the New West
-> 2.1.21 to 2.1.28
+> 2.1.21 to 2.1.28 to 2.1.29
 - B42 Optics
 > 0.20beta to 0.21b
 - AM & Gun Addon B42 Patch
@@ -120,6 +119,22 @@ sidebar_position: 3
 > 2.6.5 to 2.7.6
 - LOD Fixes & Improvements
 > 1.1 to 1.2.6
+- Moonlight NVSE
+> 1.5.1 to 2.0.0
+- Depth of Field Fix
+> 1.1 to 1.1a
+- Viewmodel Shake Fix
+> 1.1 to 1.2
+- Zelda BOTW Quick Select
+> 2.0.4 to 2.0.5
+- Another Millenia Gun Addon
+> 1.6 to 1.7(version) to 1.7.1c(merged)
+- Another Millenia
+> 2.4.4 to 2.4.5(version) to 2.4.6(Merge)
+- Another Millenia TTW Unique Placements
+> TTW1.2 to TTW1.3
+- Another Millenia & Gun Addon B42 Optics Patch
+> 1.5 to 1.7
 
 ## Release 1.5.6.0 - 01/16/2024
 
