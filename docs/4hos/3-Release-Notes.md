@@ -37,6 +37,8 @@ Save Safe?: YES
 * [UpscalerBasePlugin](https://www.nexusmods.com/site/mods/502)
 * [Skyrim Upscaler - DLSS FSR2 XeSS](https://www.nexusmods.com/skyrimspecialedition/mods/80343)
 * [Set CPU Affinity for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/94636)
+* [UpscalerBasePlugin](https://www.nexusmods.com/site/mods/502?tab=description)
+* [Skyrim Upscaler - DLSS FSR2 XeSS](https://www.nexusmods.com/skyrimspecialedition/mods/80343)
   
 **Removed**
 
