@@ -34,6 +34,9 @@ Save Safe?: YES
 * [Campfire Animations](https://www.nexusmods.com/skyrimspecialedition/mods/112322)
 * [Snazzy Diverse Carriages - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/112041)
 * [Frost VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/112509)
+* [UpscalerBasePlugin](https://www.nexusmods.com/site/mods/502)
+* [Skyrim Upscaler - DLSS FSR2 XeSS](https://www.nexusmods.com/skyrimspecialedition/mods/80343)
+* [Set CPU Affinity for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/94636)
   
 **Removed**
 
