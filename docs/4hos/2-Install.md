@@ -40,6 +40,7 @@ description: Halls of Sovngarde Installation Guide
 # Optional Post-Install Steps
 
 - If you don't use an Nvidia GPU, disable NVIDIA Reflex Support and both Skyrim Upscaler mods
+- An optional low profile is now provided with most texture mods removed 
 - If instead of CS you want to run an ENB, first, enable mods under the separator "Enable for All ENB", then find the appropriate ENB separators and enable all mods under one of them
 - For each plugin, place it where shown
 
