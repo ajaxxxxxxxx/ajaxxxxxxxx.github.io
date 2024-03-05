@@ -26,17 +26,20 @@ description: Halls of Sovngarde Installation Guide
 
 ### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/HoS) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
 
-> The installation will fail at Sforzinda Imitations. While we sort this out, you may download the file from **[here](https://drive.google.com/file/d/1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ/edit)**. Place this into your populated `Halls of Sovngarde/downloads` folder, then restart the Wabbajack installation
+> If the installation fails at Sforzinda Imitations you may download the file from **[here](https://drive.google.com/file/d/1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ/edit)**. Place this into your populated `Halls of Sovngarde/downloads` folder, then restart the Wabbajack installation
 
 ### 6.) After Wabbajack installation is done make sure in MO2 that all of the application directories in the dropdown match the locations on your system. If they do not, change them so that they do.
 
 ### 7.) At the top left of MO2, go to Tools/Settings/Paths/Managed Game. Make sure that this is set to your Halls of Sovngarde folder & not your Vanilla Skyrim (IE: C:/HoS/Stock Game/SkyrimSE.exe)
 
-### 8.) You can now select “Halls of Sovngarde” from the right hand dropdown and press play
+### 8.) At the top left of MO2, click on the puzzle icon which will open up a dropdown menu for various tools. Choose Set CPU Affinity and first clear if there's anything there, then select the tool again and change the affinity
+
+### 9.) You can now select “Halls of Sovngarde” from the right hand dropdown and press play
 
 :::tip
 # Optional Post-Install Steps
 
+- If you don't use an Nvidia GPU, disable NVIDIA Reflex Support and both Skyrim Upscaler mods
 - If instead of CS you want to run an ENB, first, enable mods under the separator "Enable for All ENB", then find the appropriate ENB separators and enable all mods under one of them
 - For each plugin, place it where shown
 
@@ -64,6 +67,4 @@ description: Halls of Sovngarde Installation Guide
 
 ### 3.) Go into and exit inventory to start Requiem install and distribute 3 perks
 
-### 4.) Go into mcm recorder mcm and play HoS recording
-
-### 5.) Press enter and select continue
+### 4.) Press enter and select continue
