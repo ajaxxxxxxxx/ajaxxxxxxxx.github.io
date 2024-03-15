@@ -9,6 +9,9 @@ Save Safe?: NO
 
 **Removed**
 
+* [KreatE](https://www.nexusmods.com/skyrimspecialedition/mods/83757)
+* [DALC Fix KreatE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/103052)
+
 **Updated**
 
 * Community Shaders
