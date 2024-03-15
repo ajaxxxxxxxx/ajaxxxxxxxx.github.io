@@ -2,6 +2,64 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 1.1 (Unreleased)
+Save Safe?: NO
+
+**Added**
+
+**Removed**
+
+**Updated**
+
+* Community Shaders
+  > 0.7.4 to 0.8.1
+* Tree LOD Lighting
+  > 1.2 to 1.2.1
+* Grass Lighting
+  > 1.4 to 1.4.1
+* Screen-Space Shadows
+  > 1.1.2 to 1.2
+* Light Limit Fix
+  > 1.2 to 1.3
+* Complex Parallax Materials
+  > 1.0.2 to 1.0.3
+* Address Library for SKSE Plugins
+  > 9 to 11
+* powerofthree's Tweaks
+  > 1.8.1 to 1.9.2
+* Spell Perk Item Distributor (SPID)
+  > 6.7.5 to 6.8.2
+* Keyword Item Distributor (KID)
+  > 3.0.4 to 3.4
+* Classic Sprinting Redone (SKSE64)
+  > 2.3 to 2.3.1
+* Auto Input Switch
+  > 1.2 to 1.2.3
+* Papyrus Ini Manipulator
+  > 1.9.4 to 1.9.6
+* Open Animation Replacer
+  > 2.0.2 to 2.1
+* Sound Record Distributor
+  > 1.3 to 1.5.1
+* Photo Mode
+  > 1.2 to 1.3
+* Native EditorID Fix
+  > 1.1.1 to 1.2
+* OnMagicEffectApply Replacer
+  > 1.8.1 to 1.8.2
+* SRC - Exclude from Radiant System Options
+  > 1.1.1 to 1.1.2
+* Crash Logger SSE AE VR - PDB support
+  > 1.11.1 to 1.12.1
+* Capture Warmer (Dynamic Cubemaps)
+  > 1.1 to 1.2
+* SMP Wind
+  > 2 to 2.3.0-640
+* Scaleform Translation Plus Plus NG
+  > 1.7 to 1.8
+* SkyPatcher
+  > 2.4.2 to 2.4.6.1
+
 # Release 1.0  
 Save Safe?: YES   
   
