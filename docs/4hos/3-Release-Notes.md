@@ -7,6 +7,28 @@ Save Safe?: NO
 
 **Added**
 
+* [Subtitles](https://www.nexusmods.com/skyrimspecialedition/mods/113214)
+* [Diverse Foods - BOS - Requiem Patch](https://www.nexusmods.com/skyrimspecialedition/mods/113485)
+* [Stacks of Septims - 3d Coin Piles](https://www.nexusmods.com/skyrimspecialedition/mods/113071)
+* [Stacks of Septims - 3D Coin Piles - My patches SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/113152)
+* [Dawnfire ENB - NAT3 Weathers - EVLAS - LUX -](https://www.nexusmods.com/skyrimspecialedition/mods/111660)
+* [POISE - Stagger Overhaul SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/72653)
+* [POISE - Stagger Overhaul - NG](https://www.nexusmods.com/skyrimspecialedition/mods/72692)
+* [Sekiro Combat S](https://www.nexusmods.com/skyrimspecialedition/mods/79206)
+* [Sekiro Combat S - POISE Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/79962)
+* [Ugly Skyrim - Textures Worser Clean Version](https://www.nexusmods.com/skyrimspecialedition/mods/76685)
+* [Water Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/112761)
+* [Water Caustics](https://www.nexusmods.com/skyrimspecialedition/mods/112762)
+* [Subsurface Scattering](https://www.nexusmods.com/skyrimspecialedition/mods/114114)
+* [Dynamic Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/112763)
+* [Dynamic Cubemaps - Metals](https://www.nexusmods.com/skyrimspecialedition/mods/114119)
+* [POISE Don't showing Magic Effect](https://www.nexusmods.com/skyrimspecialedition/mods/74101)
+* [Animated Ships](https://www.nexusmods.com/skyrimspecialedition/mods/110260)
+* [Animated Ships Patches](https://www.nexusmods.com/skyrimspecialedition/mods/111556)
+* [Animated Ships - Finer Sails](https://www.nexusmods.com/skyrimspecialedition/mods/112517)
+* [High Hrothgar Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/55254)
+* [Lux - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/113002)
+
 **Removed**
 
 * [KreatE](https://www.nexusmods.com/skyrimspecialedition/mods/83757)
@@ -156,6 +178,54 @@ Save Safe?: NO
   > 1.03 to 1.05
 * Glass Armors and Weapons Retexture SE
   > 1.01 to 2.1
+* Vanilla hair remake
+  > 0.7 to 0.19
+* Rally's Bees And More (High Poly)
+  > 1.4 to 1.5
+* Modular SMP Hairstyles
+  > 1.0 to 1.02
+* More realistic fur and antlers for Hagraven Clutter (DTA supported)
+  > 1.2 to 1.4
+* Diverse Farm Fences - Base Object Swapper
+  > 1.4 to 1.5b
+* Water in Wells - mesh-only animated wells
+  > 0.7 to 0.8
+* Skyking Soul Gems
+  > 2 to 2.5
+* moreHUD Inventory Edition
+  > 2.1.2 to 2.1.3
+* Oxygen Meter 2
+  > 1.0.5 to 1.0.7
+* TrueHUD - HUD Additions
+  > 1.1.8 to 1.1.9
+* Skyrim Character Sheet
+  > 1.1.2 to 1.1.4
+* Object Categorization Framework
+  > 4.9 to 5.3
+* The Handy Icon Collection Collective
+  > 1.5 to 1.6
+* Aura's Inventory Tweaks (More SkyUI Icons Sorting Options and Columns)
+  > 4.3 to 4.4.1
+* Particle Patch for ENB
+  > 1.2.8 to 1.2.9
+* Embers XD
+  > 2.9.4 to 2.9.6
+* Lux
+  > 6.4.1 to 6.5.1
+* Frost VFX Edit
+  > 1.12 to 1.2
+* ChickenMike's Random Assortment of Patches (C.R.A.P.)
+  > 2.02 to 2.03
+* Cities of the North - Dawnstar Patch Collection
+  > 5.0 to 5.1
+* The Great City of Winterhold Patch Collection
+  > 2.3.1 to 2.4.1
+* Cities of the North - Falkreath Patch Collection
+  > 1.2 to 1.21.3
+* JK's Guild HQ Interiors Patch Collection
+  > 1.14.3 to 1.18
+* Kauz ENB
+  > 0.1 to 0.1.3
 
 # Release 1.0  
 Save Safe?: YES   
