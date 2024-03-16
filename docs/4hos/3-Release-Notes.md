@@ -11,6 +11,14 @@ Save Safe?: NO
 
 * [KreatE](https://www.nexusmods.com/skyrimspecialedition/mods/83757)
 * [DALC Fix KreatE Preset](https://www.nexusmods.com/skyrimspecialedition/mods/103052)
+* [Last Seed Food Description Fix](https://www.nexusmods.com/skyrimspecialedition/mods/107783)
+* [Animunculi - Dwarven Centurion SFX Redesigned -](https://www.nexusmods.com/skyrimspecialedition/mods/70862)
+* [Animunculi - Dwarven Sphere SFX Redesigned -](https://www.nexusmods.com/skyrimspecialedition/mods/87528)
+* [Animunculi - Dwarven Spider SFX Redesigned -](https://www.nexusmods.com/skyrimspecialedition/mods/90638)
+* [Airgetlam - Shouts SFX -](https://www.nexusmods.com/skyrimspecialedition/mods/90696)
+* [Insectoid - Chaurus Sounds Rework -](https://www.nexusmods.com/skyrimspecialedition/mods/90772)
+* [Ash Ghoul - Ash Spawn Sound Rework -](https://www.nexusmods.com/skyrimspecialedition/mods/101763)
+* [Happy Little Logs](https://www.nexusmods.com/skyrimspecialedition/mods/76142)
 
 **Updated**
 
@@ -62,6 +70,92 @@ Save Safe?: NO
   > 1.7 to 1.8
 * SkyPatcher
   > 2.4.2 to 2.4.6.1
+* DynDOLOD Resources SE 3
+  > Alpha-46 to Alpha-47
+* Description Framework
+  > 1.2.1 to 1.3
+* Descriptions for Various Mods
+  > 2.3.1 to 2.4.1
+* Skyrim Unbound Reborn (Alternate Start)
+  > 2.1.6 to 2.1.9
+* Headhunter - Bounties Redone
+  > 1.43 to 1.52
+* Time Flies SE
+  > 7.3.14 to 7.3.17
+* Kynareth Replaces Talos - Civil War Consequence
+  > 2 to 2.0.1
+* Environs - The Shrines of Talos
+  > 3 to 3.01
+* Environs - Riften Warehouse
+  > 2 to 2.01
+* Skyrim Realistic Conquering - All In One
+  > 0.71 to 0.73
+* Last Seed - Survival Needs and Diseases
+  > 5.1 to 5.2.1
+* Simple Hunting Overhaul
+  > 1.07 to 1.08
+* NPC Animation Remix (OAR)
+  > 1.8.1 to 1.8.2
+* Reanimated NPC Animations
+  > 1.2 to 1.21
+* Gesture Animation Remix (OAR)
+  > 2.1 to 2.1.1
+* Blind people DAR animations
+  > 1.1 to 1.2
+* Immersive Hunting Animations
+  > 2.0.1 to 2.1.1
+* Campfire Animations
+  > 1.0 to 1.2
+* JK's The Bannered Mare.
+  > 1.1 to 1.1.1
+* Riften Docks Overhaul
+  > 2.5.6 to 2.5.7b
+* Cathedral - 3D Grass Library
+  > 11 to 12
+* Blood and Silver - Cidhna Mine Expanded
+  > 2.1 to 2.3b
+* The Heart of Dibella - Quest Expansion
+  > 1.01 to 1.03
+* Simple Fishing Overhaul - Animations and Improved Quest Dialogue
+  > 1.1 to 1.2
+* Phoenix Compendium
+  > 2.2.1 to 2.3
+* Requiem - Weapons and Armor Redone
+  > 0.9 to 0.9.1
+* Requiem - Magic Redone
+  > 0.12 to 0.13
+* Requiem - Lock Bash Threshold Meter
+  > 1.02 to 1.03
+* Requiem - Simple Hunting Overhaul
+  > 1 to 1.0.1
+* Skyrim Landscape and Water Fixes
+  > 8.4 to 8.5.2
+* Smaller Cathedral 3D Plants
+  > 1.0 to 1.8
+* Security Overhaul SKSE - Some More Locks
+  > 1.0.5 to 1.0.7
+* Diverse Catches - Base Object Swapper Fish Racks
+  > 1.7 to 1.8
+* Snowy Ships for Snowy Regions
+  > 1.5 to 2.1
+* Fabled Forests
+  > 2.1 to 2.1A
+* Fabled Forests - Floating Trees fix BOS version
+  > 2.4 to 3.1
+* Atlantean Landscape -Complete- Complex Terrain Parallax
+  > 1.7.1 to 1.7.3
+* Water for ENB
+  > 1.87 to 1.9
+* Cathedral - 3D Stonecrop
+  > 1.1 to 1.2
+* Better Rings for Windhelm Prison
+  > 1.01 to 1.02
+* Better Vanilla Gravestones
+  > 1 to 1.3
+* Dragon Mounds - Better Collision and Mesh Fixes
+  > 1.03 to 1.05
+* Glass Armors and Weapons Retexture SE
+  > 1.01 to 2.1
 
 # Release 1.0  
 Save Safe?: YES   
