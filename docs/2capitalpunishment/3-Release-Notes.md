@@ -36,6 +36,7 @@ sidebar_position: 3
 - [FNV Clean Animations Mines](https://www.nexusmods.com/newvegas/mods/85242)
 - [Crafting XP](https://www.nexusmods.com/newvegas/mods/85229)
 - [Smooth Hud](https://www.nexusmods.com/newvegas/mods/84853)
+- [Dynamico](https://www.nexusmods.com/newvegas/mods/85411)
 
 **Removed**
 - MUX Patches
