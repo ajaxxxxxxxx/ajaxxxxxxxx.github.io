@@ -37,6 +37,7 @@ sidebar_position: 3
 - [Crafting XP](https://www.nexusmods.com/newvegas/mods/85229)
 - [Smooth Hud](https://www.nexusmods.com/newvegas/mods/84853)
 - [Dynamico](https://www.nexusmods.com/newvegas/mods/85411)
+- [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
 
 **Removed**
 - MUX Patches
