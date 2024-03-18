@@ -45,7 +45,7 @@ Save Safe?: NO
 **Updated**
 
 * Community Shaders
-  > 0.7.4 to 0.8.1
+  > 0.7.4 to 0.8.4
 * Tree LOD Lighting
   > 1.2 to 1.2.1
 * Grass Lighting
@@ -71,7 +71,7 @@ Save Safe?: NO
 * Papyrus Ini Manipulator
   > 1.9.4 to 1.9.6
 * Open Animation Replacer
-  > 2.0.2 to 2.1
+  > 2.0.2 to 2.2.2
 * Sound Record Distributor
   > 1.3 to 1.5.1
 * Photo Mode
