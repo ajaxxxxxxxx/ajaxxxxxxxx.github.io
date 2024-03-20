@@ -19,6 +19,7 @@ sidebar_position: 3
 - [FNV Clean Anims Part 3 - Update 1.13](https://www.nexusmods.com/newvegas/mods/81648?tab=files)
 - [Hit's Millenia Animations Pt. 2](https://www.nexusmods.com/newvegas/mods/85192)
 - [Iron Sights Alligned](https://www.nexusmods.com/newvegas/mods/81933)
+- [High Resolution Water Fog](https://www.nexusmods.com/newvegas/mods/78400?tab=files)
 
 **Want to Add**
 - [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
