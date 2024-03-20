@@ -100,11 +100,13 @@ sidebar_position: 3
 - AM & Gun Addon B42 Patch
 > 1.0 to 1.5
 - Another Millenia
-> 2.4.2a to 2.4.3 + Hotfix
+> 2.4.2a to 2.4.3 + Hotfix to 2.4.7
 - Another Millenia TTW Unique Placements
-> TTW1.1 to TTW1.2
+> TTW1.1 to TTW1.2 to TTW1.4
 - Another Millenia Gun Addon
 > 1.6 to 1.6.1HF
+- Another Millenia Shop Addon
+> 1.4.2 to 1.4.3
 - Aid Addon
 > 13.36 to 13.40
 - Just Sprint Plus
@@ -147,6 +149,39 @@ sidebar_position: 3
 > 5.0.6 to 5.0.7
 - Consistent Pipboy Icons V5 - Apparel
 > 5.04 to 5.05
+- Fatigue Overhaul
+> 0.2.2 to 2.3
+- Subjugation
+> 0.1.2 to 1.5
+- Subjugation TTW Addon
+> 0.1.4 to 1.5
+- Aid Addon
+> 13.4 to 13.43
+- Just Sprint Plus
+> 1.079 to 1.080
+- S6S Perks
+> 16.24 to 16.26
+- Delay DLC Redux
+> 2.0 to 2.2
+- Menace of The New West
+> 1.1 to 1.2
+- WAP Year One & Bonus
+> 2.1 to 2.3
+- High Resolution Bloom NVSE
+> 5.0 to 5.1
+- More LOD Additions & Fixes
+> 1.2 to 1.23
+- Aqua Performa
+> 1.0 to 2.0
+- Death Throes
+> 1.7 to 1.8
+- Afterglow Lightbright Tweaks
+> 1.01 to 1.02
+- Enhanced Landscapes
+> 1.5.3 to 1.5.4
+- Sweet Style Bounties
+> 1.093 to 1.093
+
 
 ## Release 1.5.6.0 - 01/16/2024
 
