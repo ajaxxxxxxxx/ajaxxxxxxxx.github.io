@@ -78,11 +78,11 @@ sidebar_position: 3
 - Console Paste Support
 > 2.2 to 2.3
 - Johnny Guitar NVSE
-> 4.98c to 5.00a
+> 4.98c to 5.00a to to 5.01
 - NVTF INI Preset
 > 10.2.2.3 to 10.2.2.3a
 - Stewies Tweaks
-> 8.95 to 9.01 to 9.05
+> 8.95 to 9.01 to 9.05 to 9.06
 - Yvile's Crash Logger
 > 4.5.3 to 4.5.4
 - Kaleidoscope
@@ -94,7 +94,7 @@ sidebar_position: 3
 - MUX Series Interface Overhaul
 > 6.2a to 7.2
 - Titans of the New West
-> 2.1.21 to 2.1.28 to 2.1.29
+> 2.1.21 to 2.1.28 to 2.1.29 to 2.1.31
 - B42 Optics
 > 0.20beta to 0.21b
 - AM & Gun Addon B42 Patch
@@ -128,7 +128,7 @@ sidebar_position: 3
 - Viewmodel Shake Fix
 > 1.1 to 1.2
 - Zelda BOTW Quick Select
-> 2.0.4 to 2.0.5
+> 2.0.4 to 2.0.5 to 2.2.0
 - Another Millenia Gun Addon
 > 1.6 to 1.7(version) to 1.7.1c(merged)
 - Another Millenia
@@ -137,6 +137,16 @@ sidebar_position: 3
 > TTW1.2 to TTW1.3
 - Another Millenia & Gun Addon B42 Optics Patch
 > 1.5 to 1.7
+- Fallout Alpha Rendering Tweaks
+> 2.5.1a to 2.5.2
+- Weapon Hotkey Icons
+> 5.05 to 5.10
+- TTW Goodies
+> 1.01 to 1.02
+- Consistent Pipboy Icons V5 - Framework Plugin
+> 5.0.6 to 5.0.7
+- Consistent Pipboy Icons V5 - Apparel
+> 5.04 to 5.05
 
 ## Release 1.5.6.0 - 01/16/2024
 
