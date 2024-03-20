@@ -78,6 +78,7 @@ sidebar_position: 3
 - Spice of Life & Associated Patches/Plugins
 - Better Balanced Backpacks S6S Spice
 - Gas Masks of Life
+- Simplified Pave
 
 **Updated**
 - Console Paste Support
