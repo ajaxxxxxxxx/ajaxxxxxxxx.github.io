@@ -165,22 +165,6 @@
         <category label="Update" term="Update"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Capital Punishment - 1.5.3.2 Release]]></title>
-        <id>https://www.modlists.net/blog/cappun1532</id>
-        <link href="https://www.modlists.net/blog/cappun1532"/>
-        <updated>2023-11-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Release Notes]]></summary>
-        <content type="html"><![CDATA[<p><strong><a href="https://www.modlists.net/docs/2capitalpunishment/Release-Notes" target="_blank" rel="noopener noreferrer">Release Notes</a></strong>
-<strong>Save Safe - Yes (1.5.3.0+)</strong></p>
-<p>This is a good sized hotfix, as it both updated the LOD's and fixed them. Also, some minor INI changes were made that should increase performance around the board relating to LODs.</p>]]></content>
-        <author>
-            <name>TheMrNewVegas</name>
-            <uri>https://www.patreon.com/Themrnewvegas</uri>
-        </author>
-        <category label="Capital Punishment" term="Capital Punishment"/>
-        <category label="Update" term="Update"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Subreddit & Capital Punishment 1.5.3.0 Update]]></title>
         <id>https://www.modlists.net/blog/cap1530</id>
         <link href="https://www.modlists.net/blog/cap1530"/>
@@ -202,6 +186,22 @@
         <category label="Capital Punishment" term="Capital Punishment"/>
         <category label="Update" term="Update"/>
         <category label="Announcement" term="Announcement"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capital Punishment - 1.5.3.2 Release]]></title>
+        <id>https://www.modlists.net/blog/cappun1532</id>
+        <link href="https://www.modlists.net/blog/cappun1532"/>
+        <updated>2023-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Release Notes]]></summary>
+        <content type="html"><![CDATA[<p><strong><a href="https://www.modlists.net/docs/2capitalpunishment/Release-Notes" target="_blank" rel="noopener noreferrer">Release Notes</a></strong>
+<strong>Save Safe - Yes (1.5.3.0+)</strong></p>
+<p>This is a good sized hotfix, as it both updated the LOD's and fixed them. Also, some minor INI changes were made that should increase performance around the board relating to LODs.</p>]]></content>
+        <author>
+            <name>TheMrNewVegas</name>
+            <uri>https://www.patreon.com/Themrnewvegas</uri>
+        </author>
+        <category label="Capital Punishment" term="Capital Punishment"/>
+        <category label="Update" term="Update"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[HOS 0.9.1 Release]]></title>
