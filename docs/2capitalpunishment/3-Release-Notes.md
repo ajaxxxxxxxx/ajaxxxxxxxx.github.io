@@ -21,6 +21,7 @@ sidebar_position: 3
 - [Iron Sights Alligned](https://www.nexusmods.com/newvegas/mods/81933)
 - [High Resolution Water Fog](https://www.nexusmods.com/newvegas/mods/78400?tab=files)
 - [Skinned Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/82042?tab=files)
+- [Clothes HD](https://www.nexusmods.com/newvegas/mods/85394?tab=files)
 
 **Want to Add**
 - [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
