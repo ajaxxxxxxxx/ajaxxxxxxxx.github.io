@@ -184,6 +184,8 @@ sidebar_position: 3
 > 1.093 to 1.093
 - JIP LN NVSE
 > Updated to latest discord version in [NVSE Discord](https://discord.com/channels/711228477382328331/889511645989175416/1195666893311332422)
+- KNVSE
+> Updated to Beta 24 in [NVSE Discord](https://discord.com/channels/711228477382328331/889511422764142623/1101307013318856745)
 
 
 ## Release 1.5.6.0 - 01/16/2024
