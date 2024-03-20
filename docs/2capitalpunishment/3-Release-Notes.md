@@ -75,6 +75,9 @@ sidebar_position: 3
 - All WAP Mods Besides Year One & Bonus & Applicable Patches
 - Forgotten Millenia Animated & S6S Patch
 - Varmint Rifle 22LR Setter
+- Spice of Life & Associated Patches/Plugins
+- Better Balanced Backpacks S6S Spice
+- Gas Masks of Life
 
 **Updated**
 - Console Paste Support
