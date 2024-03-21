@@ -23,6 +23,7 @@ sidebar_position: 3
 - [Skinned Mesh Improvement Mod](https://www.nexusmods.com/newvegas/mods/82042?tab=files)
 - [Clothes HD](https://www.nexusmods.com/newvegas/mods/85394?tab=files)
 - [Mojave Flora Project](https://www.nexusmods.com/newvegas/mods/84698?tab=files)
+- [Vanilla Fonts Revisited](https://www.nexusmods.com/newvegas/mods/85136?tab=files)
 
 **Want to Add**
 - [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
