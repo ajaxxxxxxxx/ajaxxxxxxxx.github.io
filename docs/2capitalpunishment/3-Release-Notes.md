@@ -26,7 +26,6 @@ sidebar_position: 3
 - [Vanilla Fonts Revisited](https://www.nexusmods.com/newvegas/mods/85136?tab=files)
 - [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
 - [Vats Lag Fix](https://www.nexusmods.com/newvegas/mods/84823)
-- [Pipboy Vendor](https://www.nexusmods.com/newvegas/mods/84997)
 - [CPBI Adendumb](https://www.nexusmods.com/newvegas/mods/85024)
 - [Hardcore Wait Needs](https://www.nexusmods.com/newvegas/mods/85148)
 - [YSI Pickup Icons](https://www.nexusmods.com/newvegas/mods/85117)
