@@ -80,6 +80,7 @@ sidebar_position: 3
 - Better Balanced Backpacks S6S Spice
 - Gas Masks of Life
 - Simplified Pave
+- Lucky 38 Suite Revolutions
 
 **Updated**
 - Console Paste Support
