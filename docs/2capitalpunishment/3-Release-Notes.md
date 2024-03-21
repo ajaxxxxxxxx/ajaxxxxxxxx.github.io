@@ -26,18 +26,14 @@ sidebar_position: 3
 - [Vanilla Fonts Revisited](https://www.nexusmods.com/newvegas/mods/85136?tab=files)
 - [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
 - [Vats Lag Fix](https://www.nexusmods.com/newvegas/mods/84823)
-- [Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917)
 - [Pipboy Vendor](https://www.nexusmods.com/newvegas/mods/84997)
 - [CPBI Adendumb](https://www.nexusmods.com/newvegas/mods/85024)
 - [Hardcore Wait Needs](https://www.nexusmods.com/newvegas/mods/85148)
 - [YSI Pickup Icons](https://www.nexusmods.com/newvegas/mods/85117)
-- [Progressive Sneak Attack Damage](https://www.nexusmods.com/newvegas/mods/77571)
 - [Bad Touch - Extended](https://www.nexusmods.com/newvegas/mods/84726?tab=description)
-- [NUka World x AIO Patch](https://www.nexusmods.com/newvegas/mods/79368?tab=files)
 - [YSI Colorful Icons Fix](https://www.nexusmods.com/newvegas/mods/85075)
 - [Honest Hearts Graffiti](https://www.nexusmods.com/newvegas/mods/85238)
 - [FNV Clean Animations Mines](https://www.nexusmods.com/newvegas/mods/85242)
-- [Crafting XP](https://www.nexusmods.com/newvegas/mods/85229)
 - [Dynamico](https://www.nexusmods.com/newvegas/mods/85411)
 
 **Want to Add**
