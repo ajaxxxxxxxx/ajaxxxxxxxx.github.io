@@ -24,8 +24,6 @@ sidebar_position: 3
 - [Clothes HD](https://www.nexusmods.com/newvegas/mods/85394?tab=files)
 - [Mojave Flora Project](https://www.nexusmods.com/newvegas/mods/84698?tab=files)
 - [Vanilla Fonts Revisited](https://www.nexusmods.com/newvegas/mods/85136?tab=files)
-
-**Want to Add**
 - [Viewmodel Shading Fix](https://www.nexusmods.com/newvegas/mods/84781)
 - [Vats Lag Fix](https://www.nexusmods.com/newvegas/mods/84823)
 - [Radiation Visuals](https://www.nexusmods.com/newvegas/mods/84917)
@@ -42,6 +40,8 @@ sidebar_position: 3
 - [Crafting XP](https://www.nexusmods.com/newvegas/mods/85229)
 - [Smooth Hud](https://www.nexusmods.com/newvegas/mods/84853)
 - [Dynamico](https://www.nexusmods.com/newvegas/mods/85411)
+
+**Want to Add**
 - [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
 
 **Removed**
