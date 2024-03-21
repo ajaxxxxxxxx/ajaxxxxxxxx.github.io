@@ -41,6 +41,8 @@ Save Safe?: NO
 * [Insectoid - Chaurus Sounds Rework -](https://www.nexusmods.com/skyrimspecialedition/mods/90772)
 * [Ash Ghoul - Ash Spawn Sound Rework -](https://www.nexusmods.com/skyrimspecialedition/mods/101763)
 * [Happy Little Logs](https://www.nexusmods.com/skyrimspecialedition/mods/76142)
+* [Vanilla HDR](https://www.nexusmods.com/skyrimspecialedition/mods/76521)
+* [DynDOLOD DLL SE](https://www.nexusmods.com/skyrimspecialedition/mods/57264)
 
 **Updated**
 
