@@ -38,7 +38,6 @@ sidebar_position: 3
 - [Honest Hearts Graffiti](https://www.nexusmods.com/newvegas/mods/85238)
 - [FNV Clean Animations Mines](https://www.nexusmods.com/newvegas/mods/85242)
 - [Crafting XP](https://www.nexusmods.com/newvegas/mods/85229)
-- [Smooth Hud](https://www.nexusmods.com/newvegas/mods/84853)
 - [Dynamico](https://www.nexusmods.com/newvegas/mods/85411)
 
 **Want to Add**
