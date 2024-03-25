@@ -23,7 +23,7 @@ sidebar_position: 2
 ## Tools/Programs You Need
 
 
-> **[Directx Runtime Libraries](https://www.microsoft.com/en-us/download/details.aspx?id=8109), [Visual C++ Runtime Libraries](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170), [Microsoft .NET 6.0 AND 7.0](https://dotnet.microsoft.com/en-us/download/dotnet), The [Wabbajack Launcher](https://www.wabbajack.org), & [7-Zip](https://www.7-zip.org/) (Or Winrar)**
+> **[Directx Runtime Libraries](https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe), [Visual C++ Runtime Libraries](https://aka.ms/vs/17/release/vc_redist.x64.exe), [Microsoft .NET 6.0 AND 7.0](https://dotnet.microsoft.com/en-us/download/dotnet), The [Wabbajack Launcher](https://www.wabbajack.org), & [7-Zip](https://www.7-zip.org/) (Or Winrar)**
 :::
 ## Installing the Games
 
