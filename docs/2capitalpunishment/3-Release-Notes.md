@@ -191,6 +191,8 @@ sidebar_position: 3
 > 20.0 to Beta 24 in [NVSE Discord](https://discord.com/channels/711228477382328331/889511422764142623/1101307013318856745)
 - Simple Maps
 > Replaced Regular Version w/ TTW Version
+- XNVSE
+> 6.3.4 to 6.3.5b
 
 
 ## Release 1.5.6.0 - 01/16/2024
