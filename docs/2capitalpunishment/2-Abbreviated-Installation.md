@@ -41,7 +41,7 @@ sidebar_position: 2
 
 3.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/Capital Punishment) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
 
-## ![image_2024-03-28_114618038](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/8589ed7a-3825-4947-a3d1-ff9291a20ac9) Installing TTW
+## ![image_2024-03-28_114618038 (1)](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/40470e33-c3f1-4276-a905-30a02d6084e0) Installing TTW
 
 1.) Download and unzip the [TTW 3.3.2 Installer](https://taleoftwowastelands.com/dl). Then create a new folder called `[NoDelete] Tale of Two Wastelands`
 
