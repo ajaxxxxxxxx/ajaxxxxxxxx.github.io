@@ -43,40 +43,10 @@ We have removed Reshade from the list, but still provide the files to allow for 
 
 ## **5.) Where can I find an updated list of mods?**
 
-[Hardcore List](https://loadorderlibrary.com/lists/capital-punishment-1122)
-[Casual List](https://loadorderlibrary.com/lists/capital-punishment-casual-list)
+- [Hardcore List](https://loadorderlibrary.com/lists/capital-punishment-1122)
+- [Casual List](https://loadorderlibrary.com/lists/capital-punishment-casual-list)
 
-## **6.) When I launch the game, it loads the black dialog box, but does not launch the game. How do I fix this?**
-This is likely due to preexisting INI's or other files being prevalent in your %USER$/My Games/FalloutNV folder. Delete these files, run your new vegas through steam once, then follow the steps below.
-
-### **The 3 Fixes**
-
-**1.) The Primary Fix**
-- Step 1: Go to your Documents/My Games/FalloutNV and delete all of its contents
-- Step 2: Run Fallout New Vegas through Steam once. A popup should come up saying "Detecting Settings".
-- Step 3: Configure your settings to how you like. Close the launcher when you are done.
-- Step 4: Try to launch Capital Punishment through MO2 again
-> The reason this is the primary fix is because most people are either not running with falloutprefs & fallout.ini generated or they are running files/older ini's that are conflicting with the list. 
-
-**2.) If neither of the above applies or works try this**
-
-- Step 1: Run Tale of Two Wastelands through MO2.
-
-- Step 2: When the New Vegas Launcher pops up, change your resolution/your preset to your preferred preset. Exit the launcher
-
-- Step 3: Run Tale of Two Wastelands through MO2 again
-
-- Step 4: A popup will appear asking if you would like to "Clear the Read Only Flag" choose the first option stating "Clear the Read Only Flag"
-
-**3.) Deleting and reinstalling**
-
-- Step 1: Delete CPUinfo.exe, D3dx9_38.tmp, and d3dx9_38.dll from your Capital Punishment/Stock Game Folder and the NVHR folder from Capital Punishment/Stock Game/Data
-
-- Step 2: Manually download the latest NVHR from [here](https://www.nexusmods.com/newvegas/mods/69779?tab=files)
-
-- Step 3: Extract the zip folder, then paste the files contained within to your Capital Punishment/Stock Game Folder
-
-## **7.) I am having a missing textures, my game is super bright at certain times of the day, I am having *insert error here***
+## **6.) I am having a missing textures, my game is super bright at certain times of the day, I am having *insert error here***
 With the current version of MO2, it is likely that your load order may be resetting. This can cause a variety of in game conflicts. To correctly reset your load order follow the steps below.
 
 1.) Depending on the list you are using, go to either the [Hardcore Load Order Library](https://loadorderlibrary.com/lists/capital-punishment-1122) or [Casual Load Order Library](https://loadorderlibrary.com/lists/capital-punishment-casual-list) page
