@@ -46,9 +46,9 @@ To turn this off you can go to Just Mods in MCM, then turn off the Hit Indicator
 
 It is stored in Benny's safe at the Tops Casino
 
-## **9.) Will there be controller support?**
+## **9.) Is there controller support?**
 
-More than likely not and if there is it will not be in the forseeable future
+Both yes and no. Controller support is handled by a mixture of JAM's built in controller support in addition to the game's built in controller support. This means that some features such as night vision will not work on controller natively, but features such as sprint should.
 
 ## **10.) Why does my game show an error with YUPTTW when I start?**
 
