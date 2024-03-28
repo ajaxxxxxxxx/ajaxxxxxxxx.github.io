@@ -41,7 +41,7 @@ sidebar_position: 2
 
 3.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/Capital Punishment) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
 
-## Installing TTW
+## ![image_2024-03-28_114618038](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/8589ed7a-3825-4947-a3d1-ff9291a20ac9) Installing TTW
 
 1.) Download and unzip the [TTW 3.3.2 Installer](https://taleoftwowastelands.com/dl). Then create a new folder called `[NoDelete] Tale of Two Wastelands`
 
@@ -57,7 +57,7 @@ sidebar_position: 2
 
 6.) On the right hand side, sort by Filetime until you see your `[NoDelete] Tale of Two Wastelands.7z` at the top. Drag and drop this to the top of the lefthand separator `PUT TALE OF TWO WASTELANDS HERE`
 
-## Preconfigured Save Setup (RECOMMENDED BUT OPTIONAL)
+## Preconfigured Save Setup 
 
 1.) Go to Capital Punishment/Game Folder Files, copy the two appropriate Save Files for the profile you plan to use (Casual or Hardcore), then paste them into the appropriate profile folder you plan to use **(HC = Hardcore)**
 
