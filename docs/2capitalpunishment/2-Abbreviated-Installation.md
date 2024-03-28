@@ -80,7 +80,7 @@ sidebar_position: 2
 
 3.) You can now select "Capital Punishment TTW" from the right hand dropdown and press play.
 
-## Switching to Casual or Another Profile
+## ![image_2024-03-28_115724042](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/62ffbb65-1612-4fe6-acd0-6927a741d152) Switching to Casual or Another Profile
 
 - Depending on the experience/performance choices you would like to make when playing this list, you may want to select a different list.
 
@@ -95,8 +95,8 @@ sidebar_position: 2
 - For a list of what each profile does/is about, you can check out our profiles page on here on the wiki!
 
 
-## Optional Post Installation Steps
+## ![image_2024-03-28_115628770](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/1b455b94-9c62-4d3c-b75f-e2ad04f90739) Optional Post Installation Steps
 
 - You can choose to delete the contents of the `Capital Punishment/Downloads` folder to free up space, but when you update you will have to fully reinstall everything again.
-- Past this you may check out our Optional Installation Steps later in this documentation. These involve steps for download NVR, Reshade, and much more!
+- Past this you may check out our Optional Installation Steps later in this documentation. These involve steps for downloading NVR, Reshade, and much more!
 
