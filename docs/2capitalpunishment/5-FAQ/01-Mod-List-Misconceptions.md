@@ -7,7 +7,7 @@ sidebar_position: 1
 ## **0.) TLDR/Current Modpack State**
 
 - **Does the Modlist Have Bugs?** - Yes
-- **Are they Gamebreaking?** - None Currently 
+- **Are they Gamebreaking?** - Yes
 - **Is this the list for me?** - Most likely yes! We have both hardcore and casual lists for any type of player to enjoy!
 - **Is the list in active development/actively supported?** - Yes
 - **Is this a mixmatch of mods?** - No
