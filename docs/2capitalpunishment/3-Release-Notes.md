@@ -77,6 +77,8 @@ sidebar_position: 3
 - Gas Masks of Life
 - Simplified Pave
 - Lucky 38 Suite Revolutions
+- Masters of the Madre + Patches
+- Sierra Madre Grand Entrance
 
 **Updated**
 - Console Paste Support
@@ -193,7 +195,8 @@ sidebar_position: 3
 > Replaced Regular Version w/ TTW Version
 - XNVSE
 > 6.3.4 to 6.3.5b
-
+- Nevada Arsenal
+> 5.05 to 5.16
 
 ## Release 1.5.6.0 - 01/16/2024
 
