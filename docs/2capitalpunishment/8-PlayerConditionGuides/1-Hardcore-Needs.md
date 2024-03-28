@@ -43,17 +43,9 @@ Like in a real life survival scenario, thirst is the first thing that kills many
 |95|120|
 |100|140|
 
-### **Hardcore Needs: Bottling Water**
+### **Hardcore Needs: Water Purification**
 
-While all normal methods of water drinking are still in game, bottling water is one that is new. To do this…
-
-**1.)** Have an empty bottle in your inventory (You can get one by drinking a bottle of water/other bottle)
-
-**2.)** Approach any source of water 
-
-**3.)** Press the grab key (Z by default) whilst in/looking at the water source
-
-While I will not post every value below, understand that drinking anything other than water such as alcohol and soda will only serve to dehydrate you even more. This also applies to dry foods and other foods. Make sure to read every consumables description before consuming it.
+_**Section Under Construction**_
 
 ## **Hardcore Needs: Food**
 
@@ -82,28 +74,3 @@ While I will not post every value below, understand that drinking anything other
 |100|111|
 
 Finally, we come to one that is less a need and more of a point of preference...
-
-## **Bathing & Cleanliness**
-
-As time progresses, dirt will accumulate on your body. As you know, the Capital Wasteland & Mojave are not places of cleanly nature. To wash yourself, all you have to do is follow the simple steps below...
-
-**1.)** Find a body of water or tub
-**2.)** Aim (right click to zoom) at it and press your activation key (E by default)
-**3.)** Wash yourself.
-
-Optionally you may also craft soap. This is the only way to get the clean status. Below are the requirements.
-
-|Survival Needed|Crafting Ingredients|
-|--|--|
-|50| One of the following - Broc Flower, Apple, or Pear & 1 Turpentine, 1 Abraxo cleaner|
-
-Finally below are the different status effects of hygeine
-
-|Cleanliness|Effects|
-|--|--|
-|**Clean**|CHR+2, Sneak-15 (because of the soap perfume)|
-|**Normal**|nothing, vanilla game|
-|**Level 1 - Slightly dirty**|CHR-1, Sneak+5 in interiors and exteriors|
-|**Level 2 - Dirty**|CHR-3, Sneak+10 in exteriors only|
-|**Level 3 - Very dirty**|CHR-5, Sneak-10 in interiors, Sneak+20 in exteriors|
-|**Level 4 - Appalling**|CHR-7, Sneak-15 in interiors, Sneak+25 in exteriors, Animals are not hostile to the player|
