@@ -34,6 +34,7 @@ sidebar_position: 3
 - [Honest Hearts Graffiti](https://www.nexusmods.com/newvegas/mods/85238)
 - [FNV Clean Animations Mines](https://www.nexusmods.com/newvegas/mods/85242)
 - [Dynamico](https://www.nexusmods.com/newvegas/mods/85411)
+- [Home & Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391?tab=files)
 
 **Want to Add**
 - [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
