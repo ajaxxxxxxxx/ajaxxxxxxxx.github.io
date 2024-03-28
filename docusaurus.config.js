@@ -96,18 +96,6 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
-			docId: '5lr/Home',
-            label: 'Lost Runes',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
-			docId: '6nostalgia/Home',
-            label: 'Nostalgia',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
 			docId: '7oh/Home',
             label: 'Ordo Hereticus',
           },
