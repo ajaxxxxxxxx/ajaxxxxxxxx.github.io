@@ -70,7 +70,7 @@ sidebar_position: 2
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/d4984034-f544-4a58-a447-d4a43eaf122f)
 
 
-## Final Setup
+## ![image_2024-03-28_115256155](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/1d522d2a-b8a7-4451-995a-5e47417329c5) Final Setup
 
 1.) Make sure in MO2 that all of the application directories in the dropdown match the locations on your system. If they do not, change them so that they do.
 
