@@ -200,6 +200,8 @@ sidebar_position: 3
 > 6.3.4 to 6.3.5b
 - Nevada Arsenal
 > 5.05 to 5.16
+- Simple Diseases
+> 1.61 to 1.63
 
 ## Release 1.5.6.0 - 01/16/2024
 
