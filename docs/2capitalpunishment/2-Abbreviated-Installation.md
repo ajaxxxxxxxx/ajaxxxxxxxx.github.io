@@ -28,7 +28,7 @@ sidebar_position: 2
 >
 > [.NET Framework 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) **AND** [.NET Framework 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 >
-> The [Wabbajack Launcher](https://www.wabbajack.org)
+> [The Wabbajack Launcher](https://www.wabbajack.org)
 >
 > [7-Zip](https://www.7-zip.org/) (Or Winrar)
 :::
