@@ -39,7 +39,6 @@ sidebar_position: 3
 - [Strip Lights Region Fix](https://www.nexusmods.com/newvegas/mods/73596?tab=files)
 
 **Want to Add**
-- [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
 
 **Removed**
 - MUX Patches
