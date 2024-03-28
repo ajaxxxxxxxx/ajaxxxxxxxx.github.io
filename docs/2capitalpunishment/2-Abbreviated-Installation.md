@@ -25,6 +25,7 @@ sidebar_position: 2
 
 > **[Directx Runtime Libraries](https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe), [Visual C++ Runtime Libraries](https://aka.ms/vs/17/release/vc_redist.x64.exe), [.NET Framework 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) **AND** [.NET Framework 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), The [Wabbajack Launcher](https://www.wabbajack.org), & [7-Zip](https://www.7-zip.org/) (Or Winrar)**
 :::
+
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/98589461-4e3d-4d2d-a95c-d20c2840f7be) ## Installing the Games
 
 1.) Install a Fresh Copy of Fallout New Vegas & 3 (English Language Only). **Once installation is finished, launch them once and a popup should appear saying detecting game settings.** 
