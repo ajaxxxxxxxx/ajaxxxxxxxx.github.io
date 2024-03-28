@@ -22,7 +22,11 @@ sidebar_position: 2
 :::info
 ## Tools/Programs You Need
 
-> **[Directx Runtime Libraries](https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe), [Visual C++ Runtime Libraries](https://aka.ms/vs/17/release/vc_redist.x64.exe), [.NET Framework 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) **AND** [.NET Framework 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), The [Wabbajack Launcher](https://www.wabbajack.org), & [7-Zip](https://www.7-zip.org/) (Or Winrar)**
+> **[Directx Runtime Libraries](https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe)
+> [Visual C++ Runtime Libraries](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+> [.NET Framework 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) **AND** [.NET Framework 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+> The [Wabbajack Launcher](https://www.wabbajack.org)
+> [7-Zip](https://www.7-zip.org/) (Or Winrar)**
 :::
 
 ## ![](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/eee43769-3e17-40b6-b670-958c8e660dc5) Installing the Games
