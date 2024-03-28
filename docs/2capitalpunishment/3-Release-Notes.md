@@ -35,6 +35,8 @@ sidebar_position: 3
 - [FNV Clean Animations Mines](https://www.nexusmods.com/newvegas/mods/85242)
 - [Dynamico](https://www.nexusmods.com/newvegas/mods/85411)
 - [Home & Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391?tab=files)
+- [Lucky 38 Exterior Remastered](https://www.nexusmods.com/newvegas/mods/81005?tab=files)
+- [Strip Lights Region Fix](https://www.nexusmods.com/newvegas/mods/73596?tab=files)
 
 **Want to Add**
 - [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459)
