@@ -18,7 +18,7 @@ To put it into perspective; You're an 18 year old kid who just jumped out of the
 
 ## **3.) Why is the water messed up, blocky, and why can I see it through walls?**
 
-This is caused by an improperly set up ENB. The ENB is no longer supported and is considered a modification of the modpack (which as well isnt supported)
+This is caused by an improperly set up ENB. ENB is no longer supported and is considered a modification of the modpack (which as well isnt supported)
 
 ## **4.) Where are the Sunset Sarsaparilla bottles during the tutorial? They aren't behind the building like usual.**
 
