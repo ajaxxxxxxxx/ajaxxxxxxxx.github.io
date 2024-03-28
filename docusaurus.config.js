@@ -96,13 +96,13 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
-			docId: '7oh/Home',
+			docId: '5oh/Home',
             label: 'Ordo Hereticus',
           },
 		  {
 			type: 'doc',
 			position: 'left',
-			docId: '8poti/Home',
+			docId: '6poti/Home',
             label: 'Path of the Incarnate',
           },
           {to: '/blog', label: 'News', position: 'left'},
