@@ -33,17 +33,6 @@ Location(s): Mojave and Zion National Park campgrounds
 ![image](https://user-images.githubusercontent.com/114360108/202835292-50b0b3c0-3704-4e3e-b134-5c54bf4649dc.png)
 
 
-## **Lucky 38 Suite Revolutions (TTW)**
-
-A replacement for the Lucky 38 suite which greatly expands and enhances it for use with TTW. Includes dynamic Weapon Displays, Automated Sorting, and more! 
-
-[Link to Nexus page](https://www.nexusmods.com/newvegas/mods/78597)
-
-Location(s): Lucky 38
-
-![image](https://user-images.githubusercontent.com/114360108/202835789-1a2225ee-1b32-488d-ad83-5f8298ca5df4.png)
-
-
 ## **Little Apocalypse** 
 
 Quaint little Adobe home for Followers Of The Apocalypse players with a green thumb.
