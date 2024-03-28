@@ -79,6 +79,9 @@ sidebar_position: 3
 - Lucky 38 Suite Revolutions
 - Masters of the Madre + Patches
 - Sierra Madre Grand Entrance
+- Lime's Faction Safehouse Overhaul
+- Lime's Fort Overhaul
+- Lime's Old Mormon Fort Overhaul
 
 **Updated**
 - Console Paste Support
