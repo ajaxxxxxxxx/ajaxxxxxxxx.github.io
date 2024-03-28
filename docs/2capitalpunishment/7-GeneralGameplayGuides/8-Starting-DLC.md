@@ -4,8 +4,6 @@ sidebar_position: 8
 
 # Starting DLC's
 
-## Starting the DLC for Fallout: New Vegas
-
 |DLC|How to Start|
 |--|--|
 |**Dead Money**|The radio broadcast reaches to about Helios One and needs to be listened to for the quest to start|
