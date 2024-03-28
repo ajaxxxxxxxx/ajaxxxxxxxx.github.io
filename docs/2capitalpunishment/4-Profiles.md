@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-### Last Updated - 03/28/2024 for Release 1.5.7.0
+### Last Updated - 03/28/2024 for Update 1.5.7.0 (Pending Release)
 
 # **Capital Punishment - Hardcore Profile - High**
 
