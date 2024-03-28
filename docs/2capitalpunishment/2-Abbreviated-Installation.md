@@ -31,7 +31,7 @@ sidebar_position: 2
 
 2.) Set your resolution and other settings to your liking and close the launcher after
 
-## Wabbajack Setup
+## ![WabbaIcon](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/70759b7b-3ab5-4a6c-8043-51ea6211bf44) Wabbajack Setup
 
 1.) Launch your installed Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here
 
