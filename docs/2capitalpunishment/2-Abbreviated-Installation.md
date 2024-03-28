@@ -57,7 +57,7 @@ sidebar_position: 2
 
 6.) On the right hand side, sort by Filetime until you see your `[NoDelete] Tale of Two Wastelands.7z` at the top. Drag and drop this to the top of the lefthand separator `PUT TALE OF TWO WASTELANDS HERE`
 
-## Preconfigured Save Setup 
+## ![image_2024-03-28_115438611](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/b82eeb7e-aefc-4ee2-80b7-11956054f964) Preconfigured Save Setup 
 
 1.) Go to Capital Punishment/Game Folder Files, copy the two appropriate Save Files for the profile you plan to use (Casual or Hardcore), then paste them into the appropriate profile folder you plan to use **(HC = Hardcore)**
 
