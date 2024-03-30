@@ -207,7 +207,8 @@ sidebar_position: 3
 > 5.05 to 5.16
 - Simple Diseases
 > 1.61 to 1.63
-- Immunoboosters Recipe for Simple Diseases 
+- B42 Inspect
+> 1.01-hotfix to 1.02
 
 ## Release 1.5.6.0 - 01/16/2024
 
