@@ -39,6 +39,7 @@ sidebar_position: 3
 - [Strip Lights Region Fix](https://www.nexusmods.com/newvegas/mods/73596?tab=files)
 - [TTW Casual Creatures](https://www.nexusmods.com/newvegas/mods/76014)
 - [TTW Casual Point Lookout](https://www.nexusmods.com/newvegas/mods/76215)
+- [CAR & Our Friends](https://www.nexusmods.com/newvegas/mods/84363)
 
 **Want to Add**
 
@@ -87,6 +88,7 @@ sidebar_position: 3
 - Lime's Fort Overhaul
 - Lime's Old Mormon Fort Overhaul
 - B42 Inject & It's Animation Files/Patches
+- AWO Norinco Replacer
 
 **Updated**
 - Console Paste Support
