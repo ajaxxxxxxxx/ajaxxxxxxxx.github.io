@@ -84,6 +84,7 @@ sidebar_position: 3
 - Lime's Faction Safehouse Overhaul
 - Lime's Fort Overhaul
 - Lime's Old Mormon Fort Overhaul
+- B42 Inject & It's Animation Files/Patches
 
 **Updated**
 - Console Paste Support
