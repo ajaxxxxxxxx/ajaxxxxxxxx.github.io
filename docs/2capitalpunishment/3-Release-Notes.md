@@ -37,6 +37,8 @@ sidebar_position: 3
 - [Home & Safehouse Tweaks](https://www.nexusmods.com/newvegas/mods/74391?tab=files)
 - [Lucky 38 Exterior Remastered](https://www.nexusmods.com/newvegas/mods/81005?tab=files)
 - [Strip Lights Region Fix](https://www.nexusmods.com/newvegas/mods/73596?tab=files)
+- [TTW Casual Creatures](https://www.nexusmods.com/newvegas/mods/76014)
+- [TTW Casual Point Lookout](https://www.nexusmods.com/newvegas/mods/76215)
 
 **Want to Add**
 
