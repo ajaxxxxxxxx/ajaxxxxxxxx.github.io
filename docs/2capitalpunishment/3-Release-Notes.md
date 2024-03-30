@@ -89,6 +89,8 @@ sidebar_position: 3
 - Lime's Old Mormon Fort Overhaul
 - B42 Inject & It's Animation Files/Patches
 - AWO Norinco Replacer
+- 3rd Person Movement Animations Overhaul Alt Run
+- 360 Movement Patch for 3rd Person Movement Animations Overhaul
 
 **Updated**
 - Console Paste Support
