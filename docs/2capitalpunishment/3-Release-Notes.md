@@ -40,6 +40,7 @@ sidebar_position: 3
 - [TTW Casual Creatures](https://www.nexusmods.com/newvegas/mods/76014)
 - [TTW Casual Point Lookout](https://www.nexusmods.com/newvegas/mods/76215)
 - [CAR & Our Friends](https://www.nexusmods.com/newvegas/mods/84363)
+- [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459?tab=files)
 
 **Want to Add**
 
