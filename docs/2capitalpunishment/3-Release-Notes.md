@@ -92,6 +92,7 @@ sidebar_position: 3
 - AWO Norinco Replacer
 - 3rd Person Movement Animations Overhaul Alt Run
 - 360 Movement Patch for 3rd Person Movement Animations Overhaul
+- B42 Bows
 
 **Updated**
 - Console Paste Support
