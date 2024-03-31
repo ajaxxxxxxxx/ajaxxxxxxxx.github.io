@@ -13,6 +13,8 @@ sidebar_position: 2
 >
 > A Nexus Account (Preferably Premium)
 >
+> A Mod Pub Account (For TTW) 
+>
 > A Newly Installed, Global Steam Installation of Fallout NV w/ All DLC (This will change in 1.5.7.0)
 >
 > A Newly Installed Copy of Fallout 3 With All DLC (GOG, Steam, Or Epic Games Copy).
@@ -52,7 +54,7 @@ sidebar_position: 2
 
 ## ![](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/40470e33-c3f1-4276-a905-30a02d6084e0) Installing TTW
 
-1.) Download and unzip the [TTW 3.3.2 Installer](https://taleoftwowastelands.com/dl). Then create a new folder called `[NoDelete] Tale of Two Wastelands`
+1.) Download and unzip the [TTW 3.3.2 Installer](https://mod.pub/ttw/133-tale-of-two-wastelands). Then create a new folder called `[NoDelete] Tale of Two Wastelands`
 
 > The `[No Delete]` tag has recently been having issues. PLEASE BACK UP YOUR TALE OF TWO WASTELANDS OUTSIDE OF YOUR CAPITAL PUNISHMENT FOLDER
 
