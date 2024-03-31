@@ -93,6 +93,11 @@ sidebar_position: 3
 - 3rd Person Movement Animations Overhaul Alt Run
 - 360 Movement Patch for 3rd Person Movement Animations Overhaul
 - B42 Bows
+- B42 Notify
+- B42 Dropmag + Patches
+- B42 Melee Bash
+- B42 Interact
+- B42 Firemode
 
 **Updated**
 - Console Paste Support
