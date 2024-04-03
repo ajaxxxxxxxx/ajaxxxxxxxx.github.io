@@ -42,6 +42,11 @@ sidebar_position: 3
 - [CAR & Our Friends](https://www.nexusmods.com/newvegas/mods/84363)
 - [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459?tab=files)
 - [DXVK](https://www.nexusmods.com/newvegas/mods/79299?tab=files)
+- [LOD Additions - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945?tab=files)
+- [More LOD Additions & Fixes](https://www.nexusmods.com/newvegas/mods/81751?tab=files)
+- [Different LOD Mods Little Tweaks...](https://www.nexusmods.com/newvegas/mods/81981?tab=files)
+- [Much Needed LOD Clean](https://www.nexusmods.com/newvegas/mods/81831?tab=files)
+- [LODIFY](https://www.nexusmods.com/newvegas/mods/84165?tab=files)
 
 **Want to Add**
 
