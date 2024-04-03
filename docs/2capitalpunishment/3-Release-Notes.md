@@ -43,7 +43,6 @@ sidebar_position: 3
 - [Enhanced Movement](https://www.nexusmods.com/newvegas/mods/85459?tab=files)
 - [DXVK](https://www.nexusmods.com/newvegas/mods/79299?tab=files)
 - [LOD Additions - TTW Patch](https://www.nexusmods.com/newvegas/mods/77945?tab=files)
-- [More LOD Additions & Fixes](https://www.nexusmods.com/newvegas/mods/81751?tab=files)
 - [Different LOD Mods Little Tweaks...](https://www.nexusmods.com/newvegas/mods/81981?tab=files)
 - [Much Needed LOD Clean](https://www.nexusmods.com/newvegas/mods/81831?tab=files)
 - [LODIFY](https://www.nexusmods.com/newvegas/mods/84165?tab=files)
@@ -228,6 +227,8 @@ sidebar_position: 3
 > 1.61 to 1.63
 - B42 Inspect
 > 1.01-hotfix to 1.02
+- More LOD Additions & Fixes
+> 1.23 to 1.4
 
 ## Release 1.5.6.0 - 01/16/2024
 
