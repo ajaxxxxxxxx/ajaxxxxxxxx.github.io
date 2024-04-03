@@ -98,6 +98,8 @@ sidebar_position: 3
 - B42 Melee Bash
 - B42 Interact
 - B42 Firemode
+- Base Object Swapper
+- Kaleidoscope
 
 **Updated**
 - Console Paste Support
