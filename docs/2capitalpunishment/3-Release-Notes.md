@@ -111,6 +111,7 @@ sidebar_position: 3
 - Base Object Swapper
 - Kaleidoscope
 - No Sleep Til Goodsprings
+- Zelda BOTW Quick Select
 
 **Updated**
 - Console Paste Support
