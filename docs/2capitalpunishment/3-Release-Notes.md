@@ -112,6 +112,8 @@ sidebar_position: 3
 - Kaleidoscope
 - No Sleep Til Goodsprings
 - Zelda BOTW Quick Select
+- Simple Open Lightbright
+- Lightbright Afterglow Tweaks
 
 **Updated**
 - Console Paste Support
