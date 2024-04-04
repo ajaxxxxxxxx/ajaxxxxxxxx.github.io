@@ -110,6 +110,7 @@ sidebar_position: 3
 - B42 Firemode
 - Base Object Swapper
 - Kaleidoscope
+- No Sleep Til Goodsprings
 
 **Updated**
 - Console Paste Support
