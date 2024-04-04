@@ -51,6 +51,7 @@ sidebar_position: 3
 - [Clothes HD - Brotherhood](https://www.nexusmods.com/newvegas/mods/85789)
 - [Clothes HD - Unique](https://www.nexusmods.com/newvegas/mods/85646)
 - [Flags HD](https://www.nexusmods.com/newvegas/mods/85595)
+- [Lucky 38 Lights Redone](https://www.nexusmods.com/newvegas/mods/73273?tab=files)
 
 **Want to Add**
 
