@@ -46,6 +46,11 @@ sidebar_position: 3
 - [Different LOD Mods Little Tweaks...](https://www.nexusmods.com/newvegas/mods/81981?tab=files)
 - [Much Needed LOD Clean](https://www.nexusmods.com/newvegas/mods/81831?tab=files)
 - [LODIFY](https://www.nexusmods.com/newvegas/mods/84165?tab=files)
+- [VICE](https://www.nexusmods.com/newvegas/mods/83282?tab=files)
+- [Sleep, Wait, Hardcore Needs](https://www.nexusmods.com/newvegas/mods/85148)
+- [Clothes HD - Brotherhood](https://www.nexusmods.com/newvegas/mods/85789)
+- [Clothes HD - Unique](https://www.nexusmods.com/newvegas/mods/85646)
+- [Flags HD](https://www.nexusmods.com/newvegas/mods/85595)
 
 **Want to Add**
 
