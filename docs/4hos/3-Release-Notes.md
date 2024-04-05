@@ -2,6 +2,38 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 1.1.1 (Unreleased)
+Save Safe? YES
+
+**Added** 
+
+**Removed**
+
+**Updated**
+
+* Photo Mode
+  > 1.3 to 1.4
+* Crash Logger SSE AE VR - PDB support
+  > 1.12.1 to 1.13
+* SkyPatcher
+  > 2.4.6.1 to 2.4.11.1
+* Community Shaders
+  > 0.8.4 to 0.8.7
+* Wetness Effects
+  > 1.0 to 1.0.1
+* NPCs Take Cover - Smarter Anti-Cheese AI
+  > 1.0 to 1.01
+* Time Flies SE
+  > 7.3.17 to 7.3.18
+* Simple Hunting Overhaul
+  > 1.08 to 1.09
+* Immersive Hunting Animations
+  > 2.1.1 to 2.1.2
+* The Great City Of Winterhold SSE Edition
+  > 4.1 to 4.1.1
+* JK's Solitude Outskirts
+  > 1.1 to 1.2
+
 # Release 1.1
 Save Safe?: NO
 
