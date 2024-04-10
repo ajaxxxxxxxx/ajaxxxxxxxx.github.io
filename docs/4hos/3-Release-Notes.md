@@ -7,7 +7,27 @@ Save Safe? YES
 
 **Added** 
 
+* [GoT Dragons 16K-8K - Cleaned and Upscaled Textures (Game of Thrones)](https://www.nexusmods.com/skyrimspecialedition/mods/79411)
+* [GoT Dragons (A Game of Thrones)](https://www.nexusmods.com/skyrimspecialedition/mods/79252)
+* [GoT HotD - Diverse Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/83718)
+* [HotD Dragons - Conquest Trio](https://www.nexusmods.com/skyrimspecialedition/mods/81345)
+* [Even More Undead GoT Durnehviir - Retexture and Remesh](https://www.nexusmods.com/skyrimspecialedition/mods/79730)
+* [HotD Dragons - Meleys as Odahviing](https://www.nexusmods.com/skyrimspecialedition/mods/80668)
+* [GoT HotD - Skeletal Dragon and Underskin](https://www.nexusmods.com/skyrimspecialedition/mods/82677)
+* [Northern Vanilla Farmhouses](https://www.nexusmods.com/skyrimspecialedition/mods/91311)
+* [Comprehensive First Person Animation Overhaul - CFPAO](https://www.nexusmods.com/skyrimspecialedition/mods/87169)
+* [PrivateProfileRedirector SE - Faster game start (INI file cacher)](https://www.nexusmods.com/skyrimspecialedition/mods/18860)
+* [Take a Nap - Sleep on Chairs](https://www.nexusmods.com/skyrimspecialedition/mods/113255)
+* [ImGui Icons](https://www.nexusmods.com/skyrimspecialedition/mods/114790)
+* [Dialogue History](https://www.nexusmods.com/skyrimspecialedition/mods/114238)
+* [Disk Cache Enabler](https://www.nexusmods.com/skyrimspecialedition/mods/100975)
+* [Requiem - Auto NPC Patcher - Balance Any Mod for Requiem - Synthesis - SPID](https://www.nexusmods.com/skyrimspecialedition/mods/115746)
+* [Dynamic Looting and Harvesting Animations](https://www.nexusmods.com/skyrimspecialedition/mods/114547)
+
 **Removed**
+
+* [First Person Combat Animations Overhaul 2.0 -SIZE MATTERS](https://www.nexusmods.com/skyrimspecialedition/mods/45177)
+* [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257)
 
 **Updated**
 
