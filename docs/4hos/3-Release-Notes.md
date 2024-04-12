@@ -34,13 +34,13 @@ Save Safe? YES
 * Photo Mode
   > 1.3 to 1.4
 * Crash Logger SSE AE VR - PDB support
-  > 1.12.1 to 1.13
+  > 1.12.1 to 1.13.1
 * SkyPatcher
   > 2.4.6.1 to 2.4.11.1
 * Community Shaders
   > 0.8.4 to 0.8.7
 * Wetness Effects
-  > 1.0 to 1.0.1
+  > 1.0 to 1.0.2
 * NPCs Take Cover - Smarter Anti-Cheese AI
   > 1.0 to 1.01
 * Time Flies SE
@@ -53,6 +53,48 @@ Save Safe? YES
   > 4.1 to 4.1.1
 * JK's Solitude Outskirts
   > 1.1 to 1.2
+* Honed Metal Additional Materials UPDATED
+  > 1.2 to 1.3
+* Guard Dialogue Overhaul MCM
+  > 1.2.2 to 1.3.1
+* Guard Dialogue Overhaul SE
+  > 2.18 to 2.19
+* The Whispering Door - Quest Expansion
+  > 1.10 to 1.11
+* Ebony Armors and Weapons Retexture SE
+  > 1.21 to 2.0.1
+* Fluffy Wall Mounted Dead Animals
+  > 1.2 to 1.3
+* Fluffy Beds and Bedrolls
+  > 1.0 to 1.1
+* Chooey's Modular SMP Hairstyles Edit
+  > 1.1.1 to 2.0
+* Simplest Roads
+  > 1.0 to 1.1
+* Terrain Parallax Blending Fix
+  > 2.0.5 to 2.0.8
+* Spell Perk Item Distributor (SPID)
+  > 6.8.2 to 7.1
+* Native EditorID Fix
+  > 1.2 to 1.2.2
+* DynDOLOD Resources SE 3
+  > Alpha-47 to Alpha-49
+* Description Framework
+  > 1.3 to 1.4
+* Skyrim Unbound Reborn (Alternate Start)
+  > 2.1.9 to 2.1.10
+* Skyrim Realistic Conquering - All In One
+  > 0.73 to 0.74
+* Cathedral - 3D Grass Library
+  > 12 to 13
+* Atlantean Landscape -Complete- Complex Terrain Parallax
+  > 1.7.3 to 1.7.4
+* Glass Armors and Weapons Retexture SE
+  > 2.1 to 2.1.1
+* Vanilla hair remake
+  > 0.19 to 0.33
+* Modular SMP Hairstyles
+  > 1.02 to 1.031
 
 # Release 1.1
 Save Safe?: NO
