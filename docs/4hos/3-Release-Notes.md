@@ -92,9 +92,37 @@ Save Safe? YES
 * Glass Armors and Weapons Retexture SE
   > 2.1 to 2.1.1
 * Vanilla hair remake
-  > 0.19 to 0.33
+  > 0.19 to 0.34
 * Modular SMP Hairstyles
   > 1.02 to 1.031
+* Interesting NPCs (3DNPC) Script Fixes
+  > 2.0 to 2.1
+* Missives - Worldspace Additions
+  > 2.03 to 2.08
+* Object Categorization Framework
+  > 5.3 to 5.4
+* B.O.O.B.I.E.S (aka Immersive Icons)
+  > 2.0 to 2.1.2
+* Aura's Inventory Tweaks (More SkyUI Icons Sorting Options and Columns)
+  > 4.4.1 to 4.4.2
+* Lux Orbis
+  > 4.0 to 4.2.1
+* Embers XD
+  > 2.9.6 to 2.9.7
+* Lux
+  > 6.5.2 to 6.5.5
+* Fluffy Hanging and Floor Pelts
+  > 1.0 to 1.1
+* Skyrim Reputation Patches for Vanilla Quest Expansions
+  > 1.3 to 1.4
+* Animated Ships Patches
+  > 4.2 to 4.3
+* JK's Interiors Patch Collection
+  > 5.18.1 to 5.19.1
+* JK's Solitude Outskirts Patch Collection
+  > 1.4 to 1.5.2
+* Dawnfire ENB - NAT3 Weathers - EVLAS - LUX -
+  > 1.5.2 to 1.7
 
 # Release 1.1
 Save Safe?: NO
