@@ -120,11 +120,11 @@ sidebar_position: 3
 - Console Paste Support
 > 2.2 to 2.3
 - Johnny Guitar NVSE
-> 4.98c to 5.00a to to 5.01
+> 4.98c to 5.00a to to 5.01 to 5.01e
 - NVTF INI Preset
 > 10.2.2.3 to 10.2.2.3a
 - Stewies Tweaks
-> 8.95 to 9.01 to 9.05 to 9.06
+> 8.95 to 9.01 to 9.05 to 9.06 to 9.11
 - Yvile's Crash Logger
 > 4.5.3 to 4.5.4
 - Kaleidoscope
@@ -239,6 +239,29 @@ sidebar_position: 3
 > 1.01-hotfix to 1.02
 - More LOD Additions & Fixes
 > 1.23 to 1.4
+- A Bunch of B42 Descriptions
+> 1.2 to 2.01 (Now an AIO Mod versus Multiple Separate)
+- Vanilla Fonts Revisisted
+> 6.0F2B to 6.0F3B
+- Charisma Tweaks
+> 0.4b to 0.5
+- YSI Pickup Prompts
+> 1.4 to 1.7
+- Supplemental Ammo Crafting
+> 1.1 to 1.3
+- Iron SightS Alligned
+> 3.5 to 3.6
+- Enhanced Movement
+> 1.15f to 1.15g
+- CKR TTW Facegen
+> 1.0 to 2.0
+- JSRS Sound Mod 2.0
+> 2.11 to 2.2 (Now AIO)
+- LOD Fixes & Improvements
+> 1.2.6 to 1.2.8
+- More LOD Additions & Fixes
+> 1.4 to 1.7
+
 
 ## Release 1.5.6.0 - 01/16/2024
 
