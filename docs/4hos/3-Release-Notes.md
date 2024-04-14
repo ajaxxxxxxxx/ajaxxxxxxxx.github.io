@@ -28,6 +28,7 @@ Save Safe? YES
 
 * [First Person Combat Animations Overhaul 2.0 -SIZE MATTERS](https://www.nexusmods.com/skyrimspecialedition/mods/45177)
 * [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257)
+* [Immersive Dragons](https://www.nexusmods.com/skyrimspecialedition/mods/18957)
 
 **Updated**
 
