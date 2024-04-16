@@ -2,6 +2,17 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 1.1.3 (Unreleased)
+
+**Added**
+
+**Removed**
+
+**Updated**
+
+* Requiem_VampireCollection
+  > 2.2 to 2.4
+
 # Release 1.1.2
 Save Safe? YES
 
