@@ -10,21 +10,21 @@ description: Listonomicon
 ## **Requirements**
 - ~ 20 GB of Space For the Modlist, 150 GB of Space for Baldur's Gate 3
 - A Legally Obtained Copy of Baldur's Gate 3 (While a Steam Global Copy is Safest, Any Copy Should Do)
+- [Wabbajack](https://www.wabbajack.org/)
+- A Nexus Account (Premium Recommended; Drastically Increases Install Speed)
 :::
 
 ### 1.) Reinstall Baldur's Gate 3
 
 - Nuke BG3. I would recommend uninstalling the game completely, deleting anything left of the install folder, and deleting the contents of %appdata%\Local\Larian Studios. This is to ensure no errant files are leftover from previous playthroughs. Without Mod Organizer 2 (MO2), the BG3 mod manager and modding process makes edits to your install folder and adds files in places that won’t be caught in an uninstall. Nuking everything improves the odds that Listo works as expected.
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/95ab41d6-b3e8-471c-bebb-3528a29a1a7c)
+### 2.) Manually Downloading the List
 
-### 2.) After it has installed, launch the game and let it generate new INI's. Once it has, press play. After reaching the main menu, exit the game.
+- You can manually grab a copy of Listonomicon [here](https://github.com/Listonomicon-Team/Listonomicon) (under “Releases” on the right side) and use Wabba’s “Install from disk,” or you can search the unofficial gallery for Listonomicon and download that way.
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/e7bc0205-4a92-4bc3-953e-bdcbe7f09149)
+### 3.) Downloading the list from the Gallery
 
-### 3.) Now go to [The OpenMW Website](https://openmw.org/downloads/). At the bottom of the page, find Development Builds, then Windows Builds. Click this to download the latest nightly dev build of OpenMW.
-
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/51b209bc-df1d-475b-8514-1ce41e421b17)
+- If you do not want to download manually, install Listonomicon through Wabbajack as normal. The download icon will be replaced with a play icon, on the next page you can choose an install location. Make sure to install the list to somewhere that is not in a protected folder (such as Downloads) and not inside your Baldur’s Gate 3 install. For example, I install to H:\Games\Listonomicon, with mods downloaded to H:\Games\Listonomicon\downloads. If you want to install manually from a Github distro, navigate back to the landing page of Wabbajack and choose “Install From Disk.” 
 
 ### 4A.) (Wabbajack Gallery Users) After this has finished downloading, leave it be. Search for Path of the Incarnate on Wabbajack. Make sure you have checked "Unofficial Lists". Open the list and set the correct modlist path that you wish Path of the Incarnate to install to.
 
