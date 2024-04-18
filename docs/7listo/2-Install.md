@@ -43,6 +43,24 @@ description: Listonomicon
 BG3 is still receiving Patches (major updates) and Hotfixes (small updates). These updates tend to introduce new bugs and issues to the game that may be difficult to distinguish from issues caused by mods (either with the list, or mods broken by updates). Major updates can also break Script Extender functionality, etc etc.
 :::
 
+### 7.) Launching MO2
+
+- Your portable instance of Mod Organizer 2 should be ready as soon as Wabbajack is done. However, you can verify that everything is working by ensuring that it has defaulted to the correct profile at the top-left, which should be Listonomicon.
+- Your total number of active mods should be 245. The colored separator at the top of your mod list should say Listonomicon v#.
+- At the top-right, you should be able to switch the program to launch to the BG3 Mod Manager (BG3MM).
+
+### 8.) Deploying Mod Configuration Files
+
+- You will need to navigate to wherever you instructed Wabbajack to download your mod files (such as H:\Games\Listonomicon\downloads) and find “zzz_ListonomiconModSettings.7z” (should be at the bottom). Inside should be all of the configuration files you need for various Listonomicon mods.
+- Navigate to “%AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender” and place the contents of the zip file here. If you have already run the game, mod settings may have already been generated - hit “Yes” to overwrite anything here. If you cannot find the mod settings file in your MO2 downloads, you can download them manually.
+
+### 9.) Verifying in BG3MM
+
+- You may be able to launch the game and begin playing without further steps being necessary. However, if that is not the case…
+- First, navigate to the top right of MO2 where you select the exe to launch. In the drop down, select Baldur’s Gate 3 Mod Manager (BG3MM). There should not be any pop-ups or errors in BG3MM stating missing files. - There should be a large number of mods active on the left side, and the only items on the right side should be a module for dice and a module for Honour Mode. 
+- If this is not correct, and instead you have a whole whack ton of mods on the right side of BG3MM, then you need to navigate to wherever you instructed Wabbajack to download your mod files (such as H:\Games\Listonomicon\downloads) and find “zzz_Listonomicon_BG3MM_json.zip.” Inside is a .json file. Place this somewhere you can find it easily. In BG3MM, you will want to import this .json as a mod load order.
+- Navigate to the “Export” section of the top row in BG3MM and click “Export Order to Game.” Then close BG3MM. - In MO2, switch the top-right drop down back to your choice of BG3 exe’s (dx11 or vulkan). You should be able to launch the game from MO2 without error.
+- If you cannot find zzz_Listonomicon_BG3MM_json.zip in your MO2 downloads, you can download it manually.
 
 
 
