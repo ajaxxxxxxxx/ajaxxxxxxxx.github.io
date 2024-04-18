@@ -27,13 +27,14 @@ Listonomicon aims to achieve a seamless feel from a vanilla first playthrough, t
 
 - A list to play in “Honour Mode.” The features of Honour Mode (such as enhanced bosses, smarter enemies, and tweaked game mechanics) are enabled in this list, without asking players to restrict themselves to a single save in a heavily modded environment.
 :::
-## **What is OpenMW?**
-OpenMW is a free and open-source game engine recreation that reimplements the one powering Bethesda Softworks' 2002 open-world role-playing game The Elder Scrolls III: Morrowind. For more info visit the [OpenMW Website](https://openmw.org/en/)
+
+## **Customizing the List**
+No support is offered or guaranteed for anyone who modifies the behavior or contents of Listonomicon. It is already difficult to keep up with new mods daily on the Nexus; updates and changes to mods in the list; changes in the script extender; new and changed features in the community compatibility frameworks; as well as game patches and hotfixes; vanilla game bugs; and the consequences of (seemingly) minor mod setting tweaks on gameplay. Further modify the list at your own peril. We hope that you are able to customize a fun, stable, great experience tailored to your specific tastes using Listonomicon as a stepping stone - but will not offer troubleshooting or technical support.
 
 ## **How do I Get Help?**
 1.) Make sure to look at the installation guide and follow in order.
 
-2.) The next step would be to check our FAQ (Coming Soon)
+2.) The next step would be to check our FAQ
 
 3.) If your issue is not in the FAQ or Installation Guide, take the time to look around the Wiki (Especially if it's a gameplay related questions)
 
@@ -41,7 +42,8 @@ OpenMW is a free and open-source game engine recreation that reimplements the on
 
 5.) If after your searches you still cannot find your issue, make a help post in #poti-help on our discord and we will get to it as soon as possible!
 :::danger
-## DO NOT ASK THE OPENMW OR OTHER DISCORDS FOR HELP
 
-Please source all help to our discord alone. Even if you think that your question relates to your installation of OpenMW itself, please bring it into our discord.
+## DO NOT ASK USERS IN THE BALDUR'S GATE 3 OR OTHER DISCORDS FOR HELP
+
+Please source all help to our discord alone. Even if you think that your question relates to your installation of Baldur's Gate 3 itself, please bring it into our discord.
 :::
