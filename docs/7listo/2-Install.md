@@ -2,19 +2,19 @@
 layout: default
 title: Installation Guide
 nav_order: 2
-description: Path of the Incarnate
+description: Listonomicon
 ---
 
 # **Installation Guide**
 :::info
 ## **Requirements**
-- ~ 40 GB of Space (13.6 GB of this can optionally be removed after install by deleting the contents of the downloads folder)
-- A Legal Game of the Year Copy of Morrowind on CD Rom, Steam, Or GOG (These are the only platforms we know are functional and working, other platforms may work but we do not guarantee this)
+- ~ 20 GB of Space For the Modlist, 150 GB of Space for Baldur's Gate 3
+- A Legally Obtained Copy of Baldur's Gate 3 (While a Steam Global Copy is Safest, Any Copy Should Do)
 :::
 
-### 1.) Install a fresh, legal copy of Morrowind Game of the Year Edition
+### 1.) Reinstall Baldur's Gate 3
 
-- If you have a previous copy of this or a copy of OpenMW with preset .INI files, you will need to delete or backup these folders/files. The ini's can be found in User/Documents/My Games/OpenMW or /Morrowind. Your OpenMW folder will be where you installed it last, and your Morrowind game folder will be in your Steamapps directory.
+- Nuke BG3. I would recommend uninstalling the game completely, deleting anything left of the install folder, and deleting the contents of %appdata%\Local\Larian Studios. This is to ensure no errant files are leftover from previous playthroughs. Without Mod Organizer 2 (MO2), the BG3 mod manager and modding process makes edits to your install folder and adds files in places that won’t be caught in an uninstall. Nuking everything improves the odds that Listo works as expected.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/95ab41d6-b3e8-471c-bebb-3528a29a1a7c)
 
