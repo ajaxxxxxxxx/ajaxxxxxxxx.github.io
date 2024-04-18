@@ -74,7 +74,10 @@ You must change Animation Level of Detail to High in your Visual Settings. Other
 
 - You should begin a new game on Tactician Difficulty to have the same experience Listonomicon was play tested for. Mods have already enabled many Honour Mode mechanics, without restricting you to a single save. You may wish to customize your experience to increase the amount of food required to Long Rest among other tweaks for an additional challenge, if you feel exceptionally brave!
 
-### 12.) [Better Hotbar 2](https://www.nexusmods.com/baldursgate3/mods/2417?tab=description) can sometimes suffer from hiding the final panel! [Follow the author’s pinned instruction at the top of the comments section](https://www.nexusmods.com/baldursgate3/mods/2417?tab=posts) to ensure that you have access to all of your hotbar panels, otherwise temporary effects (such as flying after casting spells for storm sorcerers) may be hidden from you. You should only need to do this once, unless your hotbar is changed due to a polymorph or similar effect.
+### 12.) [Better Hotbar 2](https://www.nexusmods.com/baldursgate3/mods/2417?tab=description) 
+
+- Better Hotbar 2 can sometimes suffer from hiding the final panel!
+- [Follow the author’s pinned instruction at the top of the comments section](https://www.nexusmods.com/baldursgate3/mods/2417?tab=posts) to ensure that you have access to all of your hotbar panels, otherwise temporary effects (such as flying after casting spells for storm sorcerers) may be hidden from you. You should only need to do this once, unless your hotbar is changed due to a polymorph or similar effect.
 
 
 
