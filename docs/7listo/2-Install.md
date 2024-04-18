@@ -62,6 +62,19 @@ BG3 is still receiving Patches (major updates) and Hotfixes (small updates). The
 - Navigate to the “Export” section of the top row in BG3MM and click “Export Order to Game.” Then close BG3MM. - In MO2, switch the top-right drop down back to your choice of BG3 exe’s (dx11 or vulkan). You should be able to launch the game from MO2 without error.
 - If you cannot find zzz_Listonomicon_BG3MM_json.zip in your MO2 downloads, you can download it manually.
 
+### 10.) Playing the List
+
+- Launch the game via MO2. Using the drop-down at the top right, switch the program to be launched to either the Vulkan or DX version of the game, depending on which has better performance/compatibility with your system. Everything else should work like normal! Always launch the game this way to prevent Steam from forcing updates.
+
+### 11.) In Game Settings
+
+:::caution
+You must change Animation Level of Detail to High in your Visual Settings. Otherwise, any heads added or changed by mods will suffer from visual bugs and animation issues.
+:::
+
+- You should begin a new game on Tactician Difficulty to have the same experience Listonomicon was play tested for. Mods have already enabled many Honour Mode mechanics, without restricting you to a single save. You may wish to customize your experience to increase the amount of food required to Long Rest among other tweaks for an additional challenge, if you feel exceptionally brave!
+
+### 12.) [Better Hotbar 2](https://www.nexusmods.com/baldursgate3/mods/2417?tab=description) can sometimes suffer from hiding the final panel! [Follow the author’s pinned instruction at the top of the comments section](https://www.nexusmods.com/baldursgate3/mods/2417?tab=posts) to ensure that you have access to all of your hotbar panels, otherwise temporary effects (such as flying after casting spells for storm sorcerers) may be hidden from you. You should only need to do this once, unless your hotbar is changed due to a polymorph or similar effect.
 
 
 
