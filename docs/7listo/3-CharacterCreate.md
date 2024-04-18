@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Character Creation
+title: Character Creation & Leveling 
 nav_order: 3
 description: Listonomicon
 ---
