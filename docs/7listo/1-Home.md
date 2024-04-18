@@ -37,9 +37,9 @@ No support is offered or guaranteed for anyone who modifies the behavior or cont
 
 3.) If your issue is not in the FAQ or Installation Guide, take the time to look around the Wiki (Especially if it's a gameplay related questions)
 
-4.) If your question is unanswered in our documentation, join our [Discord](https://discord.gg/43EhRjU). Some fixes that we have included there are not integrated to the wiki yet. Please look through our #poti-help, #fixes, #poti-bug-reports, in addition to looking through pins, announcements, and using the search function
+4.) If your question is unanswered in our documentation, join our [Discord](https://discord.gg/43EhRjU). Some fixes that we have included there are not integrated to the wiki yet. Please look through #listo-help and #listo-bug-reports, in addition to looking through pins, announcements, and using the search function
 
-5.) If after your searches you still cannot find your issue, make a help post in #poti-help on our discord and we will get to it as soon as possible!
+5.) If after your searches you still cannot find your issue, make a help post in #listo-help on our discord and we will get to it as soon as possible!
 :::danger
 
 ## DO NOT ASK USERS IN THE BALDUR'S GATE 3 OR OTHER DISCORDS FOR HELP
