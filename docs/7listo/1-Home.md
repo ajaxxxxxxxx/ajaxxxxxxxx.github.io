@@ -4,7 +4,6 @@ title: Home
 nav_order: 1
 description: Listonomicon
 ---
-# Listonomicon
 ![Listonom](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/79d370ba-80b8-40ce-b610-b901cb0b5ae3)
 
 ## **[Donations + Social Links](https://linktr.ee/lillybird69)**
