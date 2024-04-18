@@ -27,7 +27,9 @@ description: Listonomicon
 
 - If you do not want to download manually, install Listonomicon through Wabbajack as normal. The download icon will be replaced with a play icon, on the next page you can choose an install location. Make sure to install the list to somewhere that is not in a protected folder (such as Downloads) and not inside your Baldur’s Gate 3 install. For example, I install to H:\Games\Listonomicon, with mods downloaded to H:\Games\Listonomicon\downloads. If you want to install manually from a Github distro, navigate back to the landing page of Wabbajack and choose “Install From Disk.” 
 
-### 4.) Download the [Script Extender](https://github.com/Norbyte/bg3se/releases) and install to [game install path]\Baldurs Gate 3\bin.
+### 4.) Script Extender
+
+- Download the [Script Extender](https://github.com/Norbyte/bg3se/releases) and install to [game install path]\Baldurs Gate 3\bin.
 
 ### 5.) Finalizing Mod List Settings
 
