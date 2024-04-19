@@ -15,3 +15,6 @@ sidebar_position: 4
 - This version of Capital Punishment removes all of the hardcore aspects included in the list, allowing for users to enjoy both the other gamplay & graphical changes without being impeded by the survival and difficulty changes. This list includes all original graphic affecting mods at the highest setting they were added to the list in.
 - For a consistently updated visual of our modlist/load order, you may also check out our load order library page [here](https://loadorderlibrary.com/lists/capital-punishment-casual-list)
 
+:::caution
+This profile has been temporarily removed from the 2.0.0.0 release of Capital Punishment. This is due to bug testing being undertaken during its release, allowing for us to release a smoother, more cohesive Casual experience in the near future. 
+:::
