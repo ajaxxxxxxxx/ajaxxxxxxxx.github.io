@@ -33,7 +33,8 @@ sidebar_position: 3
 - Alternative Repairing
 
 **Updated**
-
+- Charisma Tweaks
+> 0.5b to 0.5c
 
 ## Release 2.0.0.0 - 04/19/2024
 
