@@ -30,6 +30,8 @@ sidebar_position: 3
 - [Clean JAM](https://www.nexusmods.com/newvegas/mods/82724?tab=files)
 
 **Want to Add**
+- https://www.nexusmods.com/newvegas/mods/73590
+- https://www.nexusmods.com/newvegas/mods/81293
 
 **Removed**
 - Alternative Repairing
