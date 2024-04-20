@@ -103,6 +103,8 @@ sidebar_position: 2
 
 3.) You can now select "Capital Punishment TTW" from the right hand dropdown and press play.
 
+3a.) **FOR GOG USERS ONLY** - Make sure that after setting all of your paths to point at your GOG copy of FalloutNV, you click the Puzzle Icon, go to rootbuilder, then click the "Build" button.
+
 4.) For each profile you open, a dialog box will popup saying that your fallout.ini & falloutprefs.ini are missing and that it will take them from your Vanilla game folder press okay. Another box will pop up after this regarding the read only flag. **ALWAYS** select 'Clear the Read Only Flag'
 
 ## ![](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/62ffbb65-1612-4fe6-acd0-6927a741d152) Switching to Casual or Another Profile
