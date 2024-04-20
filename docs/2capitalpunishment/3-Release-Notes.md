@@ -19,6 +19,7 @@ sidebar_position: 3
 **Want to Add**
 
 **Removed**
+- Alternative Repairing
 
 **Updated**
 
