@@ -15,6 +15,14 @@ sidebar_position: 3
 ### Save Safe?: NO 
 
 **Added**
+- [Clean Vanilla HUD](https://www.nexusmods.com/newvegas/mods/70001?tab=files)
+- [Clean AP & Health Bars](https://www.nexusmods.com/newvegas/mods/81662?tab=files)
+- [Clean Repair Meter Pips](https://www.nexusmods.com/newvegas/mods/82726?tab=files)
+- [Alternate Holo Panel](https://www.nexusmods.com/newvegas/mods/82636)
+- [Clean Companion Wheel](https://www.nexusmods.com/newvegas/mods/70486)
+- [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966?tab=files)
+- [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516?tab=files)
+- [Classic Karma Images](https://www.nexusmods.com/newvegas/mods/82692/?tab=files)
 
 **Want to Add**
 
