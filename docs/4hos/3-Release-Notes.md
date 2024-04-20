@@ -6,12 +6,15 @@
 
 **Added**
 
+* [Humanoid Vampires SE - Vampires use normal faces and Serana's eyes variant](https://www.nexusmods.com/skyrimspecialedition/mods/2708)
+* [Caves UV tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/117003)
+
 **Removed**
 
 **Updated**
 
 * Requiem_VampireCollection
-  > 2.2 to 2.4
+  > 2.2 to 2.5-test
 
 # Release 1.1.2
 Save Safe? YES
