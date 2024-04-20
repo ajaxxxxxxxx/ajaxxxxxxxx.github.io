@@ -132,7 +132,7 @@ sidebar_position: 2
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/de8a135e-ff14-48d6-9ee6-59994183ced4)
 
-- Select Directx9 and press next, skip selecting a preset to install. When asked to select effect packages to install, press uncheck all then check all again. Wait for reshade to install then select finish when it is done.
+- Select Vulkan (If you are using the integrated DXVK) or DirectX9 if you are not and press next, skip selecting a preset to install. When asked to select effect packages to install, press uncheck all then check all again. Wait for reshade to install then select finish when it is done.
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/04f39e3f-d9bd-4f07-a86e-6efad4384a9d)
 
@@ -155,7 +155,7 @@ sidebar_position: 2
 - You may now press Home to close the Reshade menu when you are done. You have now completed the installation and should have the ability for some better visuals alongside our controller presets!
 
 :::warning
-Reshade is performance intensive. If you have lag, stuttering, or other performance related issues while using Reshade, this is likely the reason (paired with the sheer number of mods already in the list).
+- Reshade is performance intensive. If you have lag, stuttering, or other performance related issues while using Reshade, this is likely the reason (paired with the sheer number of mods already in the list).
 :::
 
 :::info
