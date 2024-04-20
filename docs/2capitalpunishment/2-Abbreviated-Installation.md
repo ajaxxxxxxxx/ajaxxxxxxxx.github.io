@@ -15,7 +15,7 @@ sidebar_position: 2
 >
 > A Mod Pub Account (For TTW) 
 >
-> A Newly Installed Fallout NV w/ All DLC - A Steam Global Copy is a Safe Bet, but GOG/Steam PCR Should Also Work.
+> A Newly Installed Fallout NV w/ All DLC - A Steam Global Copy is a Safe Bet, but GOG Should Also Work.
 >
 > A Newly Installed Copy of Fallout 3 With All DLC (GOG, Steam, Or Epic Games Copy).
 >
