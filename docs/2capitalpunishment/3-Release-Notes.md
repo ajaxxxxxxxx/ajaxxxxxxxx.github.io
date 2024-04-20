@@ -32,6 +32,8 @@ sidebar_position: 3
 
 **Removed**
 - Alternative Repairing
+- TTW Casual Creatures
+- Casual Point Lookout
 
 **Updated**
 - Charisma Tweaks
