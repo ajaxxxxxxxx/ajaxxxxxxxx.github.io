@@ -23,6 +23,9 @@ sidebar_position: 3
 - [Vault Boy Paper Doll](https://www.nexusmods.com/newvegas/mods/76966?tab=files)
 - [Pop-Up Message Icons](https://www.nexusmods.com/newvegas/mods/76516?tab=files)
 - [Classic Karma Images](https://www.nexusmods.com/newvegas/mods/82692/?tab=files)
+- [Sweet Pain](https://www.nexusmods.com/newvegas/mods/78569?tab=description)
+- [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523)
+- [EDGE TTW](https://www.nexusmods.com/newvegas/mods/74921?tab=files#)
 
 **Want to Add**
 
