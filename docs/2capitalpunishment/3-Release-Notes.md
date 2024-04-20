@@ -27,6 +27,7 @@ sidebar_position: 3
 - [Sweet Pain NV](https://www.nexusmods.com/newvegas/mods/81523)
 - [EDGE TTW](https://www.nexusmods.com/newvegas/mods/74921?tab=files#)
 - [Pipboy UI Tweaks](https://www.nexusmods.com/newvegas/mods/85343?tab=files)
+- [Clean JAM](https://www.nexusmods.com/newvegas/mods/82724?tab=files)
 
 **Want to Add**
 
