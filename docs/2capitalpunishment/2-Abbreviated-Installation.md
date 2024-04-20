@@ -42,6 +42,12 @@ sidebar_position: 2
 
 2.) Set your resolution and other settings to your liking and close the launcher after
 
+3.) Grab the [4GB Patcher Mod](https://www.nexusmods.com/newvegas/mods/62552) (First file, description says does not require VC Redist)
+
+4.) Unzip the 7ZIP file this comes in, then drag and drop the contents (FNVpatch.exe) to your main Fallout NV Directory.
+
+5.) Double click ```FNVpatch.exe``` and your FalloutNV.exe should be patched to work with the list!
+
 :::info
 - This list uses DXVK. If your setup does not support DX-Vulkan, you can disable it at the top of the list under "Optional Installs & Performance"
 > To know if you can, cannot, or must modify your setup to use DXVK, you can read more [here](https://performance.moddinglinked.com/falloutnv.html#DXVK).
