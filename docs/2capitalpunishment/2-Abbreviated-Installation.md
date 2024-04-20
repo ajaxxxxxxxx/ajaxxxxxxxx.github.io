@@ -27,7 +27,7 @@ sidebar_position: 2
 
 > [Directx Runtime Libraries](https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe)
 >
-> [Visual C++ Runtime Libraries](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+> [The Latest Visual C++ Runtime Libraries](https://aka.ms/vs/17/release/vc_redist.x64.exe) (You will need to keep this updated)
 >
 > [.NET Framework 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) **AND** [.NET Framework 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 >
