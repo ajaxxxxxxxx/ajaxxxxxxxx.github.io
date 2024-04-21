@@ -32,6 +32,8 @@ sidebar_position: 3
 **Want to Add**
 - https://www.nexusmods.com/newvegas/mods/73590
 - https://www.nexusmods.com/newvegas/mods/81293
+- https://www.nexusmods.com/newvegas/mods/85883?tab=posts
+- https://www.nexusmods.com/newvegas/mods/71609
 
 **Removed**
 - Alternative Repairing
