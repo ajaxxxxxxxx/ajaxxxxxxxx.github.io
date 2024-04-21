@@ -10,7 +10,7 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
-## Release 2.0.1.0 - UNRELEASED
+## Release 2.0.1.0 - Released
 
 ### Save Safe?: NO 
 
@@ -34,6 +34,7 @@ sidebar_position: 3
 - https://www.nexusmods.com/newvegas/mods/81293
 - https://www.nexusmods.com/newvegas/mods/85883?tab=posts
 - https://www.nexusmods.com/newvegas/mods/71609
+- https://www.nexusmods.com/newvegas/mods/86122
 
 **Removed**
 - Alternative Repairing
