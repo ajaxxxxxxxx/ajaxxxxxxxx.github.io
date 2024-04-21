@@ -35,8 +35,22 @@ Tale of Two Wastelands does not endorse this mod list and in addition, does not 
 
 5.) If after your searches you still cannot find your issue, make a help post in #ttw-help on our discord and we will get to it as soon as possible!
 
-## **Help Guidelines**
+6.) Make sure that when asking for help in the discord, provide staff with the appropriate resources to help ascertain what your issue may be and how we can solve it! Resources may be...
 
+- Detailed write up on your issue
+- Pictures or videos displaying the issue you are having
+- Crash logs if you are having an in game crash
+
+## **How to Get to & Post Crash Logs**
+
+:::note
+1.) Go to the bottom of the left pane in MO2 and look for the label *Overwrite*
+2.) Right click this label, then select *Open in Explorer*
+3.) Inside of this folder, navigate to ```Root/Crashlogger.log```
+4.) Drag this text file from here into your help post
+:::
+
+## **Help Guidelines**
 
 > This list does not include all guidelines. Staff may choose to ignore questions if it does not adhere to the below/under their own discretion.
 
