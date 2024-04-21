@@ -45,8 +45,11 @@ Tale of Two Wastelands does not endorse this mod list and in addition, does not 
 
 :::note
 1.) Go to the bottom of the left pane in MO2 and look for the label *Overwrite*
+
 2.) Right click this label, then select *Open in Explorer*
+
 3.) Inside of this folder, navigate to ```Root/Crashlogger.log```
+
 4.) Drag this text file from here into your help post
 :::
 
