@@ -50,7 +50,7 @@ Tale of Two Wastelands does not endorse this mod list and in addition, does not 
 
 ## **Key Bind Changes**
 
-![KEYBOARD_OVERLAY](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/f3b6c704-bef9-413a-a9bf-0833c46dbf08)
+![Keyboard_Layout_CapPun](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/d6dbb9c6-f732-4c89-9e32-0224c4bd52b0)
 
 ## **Controller Binds**
 
