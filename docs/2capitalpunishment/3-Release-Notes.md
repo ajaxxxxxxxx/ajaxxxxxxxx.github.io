@@ -10,7 +10,41 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
-## Release 2.0.1.0 - Released
+## Release 2.0.1.2 - Unreleased
+
+### Save Safe?: 
+
+**Added**
+
+**Want to Add**
+- https://www.nexusmods.com/newvegas/mods/73590
+- https://www.nexusmods.com/newvegas/mods/81293
+- https://www.nexusmods.com/newvegas/mods/85883?tab=posts
+- https://www.nexusmods.com/newvegas/mods/71609
+- https://www.nexusmods.com/newvegas/mods/86122
+
+**Removed**
+
+**Updated**
+
+**Fixed**
+
+## Release 2.0.1.1 - 04/21/2024
+
+### Save Safe?: YES; With Version 2.0.1.0
+
+**Added**
+
+**Want to Add**
+
+**Removed**
+
+**Updated**
+
+**Fixed**
+- Inability to exit from Main Menu 
+
+## Release 2.0.1.0 - 04/20/2024
 
 ### Save Safe?: NO 
 
@@ -30,11 +64,6 @@ sidebar_position: 3
 - [Clean JAM](https://www.nexusmods.com/newvegas/mods/82724?tab=files)
 
 **Want to Add**
-- https://www.nexusmods.com/newvegas/mods/73590
-- https://www.nexusmods.com/newvegas/mods/81293
-- https://www.nexusmods.com/newvegas/mods/85883?tab=posts
-- https://www.nexusmods.com/newvegas/mods/71609
-- https://www.nexusmods.com/newvegas/mods/86122
 
 **Removed**
 - Alternative Repairing
