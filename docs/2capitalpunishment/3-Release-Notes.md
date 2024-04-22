@@ -26,6 +26,16 @@ sidebar_position: 3
 **Removed**
 
 **Updated**
+- JohnnyGuitarNVSE
+> 5.01e to 5.04c
+- Geck Extender & INI
+> 0.40 to 0.42
+- Consistent Pipboy Icons - V5 - Stats
+> 2.0 to 4.0
+- The Living Desert
+> 2.5 to 2.6
+- Supplemental Ammo Crafting
+> 1.3 to 1.5
 
 **Fixed**
 
