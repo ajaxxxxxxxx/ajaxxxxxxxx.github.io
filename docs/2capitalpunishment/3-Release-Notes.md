@@ -12,7 +12,7 @@ sidebar_position: 3
 
 ## Release 2.0.2.0 - Unreleased
 
-### Save Safe?: 
+### Save Safe?: No
 
 **Added**
 - [F4NV Billboards](https://www.nexusmods.com/newvegas/mods/72164?tab=files)
