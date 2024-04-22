@@ -103,7 +103,7 @@ sidebar_position: 2
 
 3.) You can now select "Capital Punishment TTW" from the right hand dropdown and press play.
 
-3a.) **FOR GOG USERS ONLY** - Make sure that after setting all of your paths to point at your GOG copy of FalloutNV to click the Puzzle Icon at the top of MO2, go to rootbuilder, then click the "Build" button.
+3a.) Make sure that after setting all of your paths to point at your Steam or GOG copy of FalloutNV to click the Puzzle Icon at the top of MO2, go to rootbuilder, then click the "Build" button. It is likely that with each update, you will have to do this again. 
 
 4.) For each profile you open, a dialog box will popup saying that your fallout.ini & falloutprefs.ini are missing and that it will take them from your Vanilla game folder press okay. Another box will pop up after this regarding the read only flag. **ALWAYS** select 'Clear the Read Only Flag'
 
