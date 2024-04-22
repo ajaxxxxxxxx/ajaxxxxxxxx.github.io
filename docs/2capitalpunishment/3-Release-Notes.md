@@ -17,7 +17,6 @@ sidebar_position: 3
 **Added**
 - [F4NV Billboards](https://www.nexusmods.com/newvegas/mods/72164?tab=files)
 - [TTW Billboards](https://www.nexusmods.com/newvegas/mods/85882?tab=description)
-- [Dynamic Combat Styles](https://www.nexusmods.com/newvegas/mods/73590)
 - [Sweet's Dynamic Detection](https://www.nexusmods.com/newvegas/mods/81293)
 - [Wild Wasteland Forever](https://www.nexusmods.com/newvegas/mods/71609)
 - [Consistent Pipboy Icons V5 - Stats (And Some Perks)](https://www.nexusmods.com/newvegas/mods/86122)
