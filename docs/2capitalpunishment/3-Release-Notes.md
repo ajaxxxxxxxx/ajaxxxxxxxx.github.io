@@ -20,6 +20,7 @@ sidebar_position: 3
 - [Sweet's Dynamic Detection](https://www.nexusmods.com/newvegas/mods/81293)
 - [Wild Wasteland Forever](https://www.nexusmods.com/newvegas/mods/71609)
 - [Consistent Pipboy Icons V5 - Stats (And Some Perks)](https://www.nexusmods.com/newvegas/mods/86122)
+- [B42 Optics - NV Patches](https://www.nexusmods.com/newvegas/mods/82136?tab=files)
 
 **Want to Add**
 
