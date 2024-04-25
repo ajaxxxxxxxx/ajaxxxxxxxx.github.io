@@ -49,7 +49,16 @@ sidebar_position: 3
 > 13.43 to 13.45
 - Complete Player Home Upgrade - Home & Safehouse Tweaks Patch
 > 2.0 to 2.03
-- 
+- Home & Safehouse Tweaks + Home & Safehouse Tweaks Configs
+> 13.0 to 14.0
+- VICE
+> 1.3.1 to 1.4
+- VICE TLD Patch
+> 1.0 to 1.02
+- Immserive Sleeping Encounters
+> 1.10 to 1.0.2
+- Flags HD
+> 1.0 to 1.2
 
 **Fixed**
 
