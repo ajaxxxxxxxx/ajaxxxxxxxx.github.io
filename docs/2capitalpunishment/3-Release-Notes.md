@@ -22,6 +22,7 @@ sidebar_position: 3
 - [Consistent Pipboy Icons V5 - Stats (And Some Perks)](https://www.nexusmods.com/newvegas/mods/86122)
 - [B42 Optics - NV Patches](https://www.nexusmods.com/newvegas/mods/82136?tab=files)
 - [ROOG Health Autopatch](https://www.nexusmods.com/newvegas/mods/84574?tab=files)
+- [JIP LN NVSE INI](https://www.nexusmods.com/newvegas/mods/58277?tab=files)
 
 **Want to Add**
 
