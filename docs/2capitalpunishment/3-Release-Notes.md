@@ -32,15 +32,24 @@ sidebar_position: 3
 
 **Updated**
 - JohnnyGuitarNVSE
-> 5.01e to 5.04c
+> 5.01e to 5.04c to 5.04d
 - Geck Extender & INI
-> 0.40 to 0.42
+> 0.40 to 0.42 to 0.43
 - Consistent Pipboy Icons - V5 - Stats
 > 2.0 to 4.0
 - The Living Desert
 > 2.5 to 2.6
 - Supplemental Ammo Crafting
 > 1.3 to 1.5
+- Consistent Pipboy Icons - Stats & Some Perks
+> 4.0 to 6.0
+- Clothes HD - Unique
+> 1.0 to 1.1
+- Aid Addon
+> 13.43 to 13.45
+- Complete Player Home Upgrade - Home & Safehouse Tweaks Patch
+> 2.0 to 2.03
+- 
 
 **Fixed**
 
