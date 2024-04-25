@@ -23,6 +23,8 @@ sidebar_position: 3
 - [B42 Optics - NV Patches](https://www.nexusmods.com/newvegas/mods/82136?tab=files)
 - [ROOG Health Autopatch](https://www.nexusmods.com/newvegas/mods/84574?tab=files)
 - [JIP LN NVSE INI](https://www.nexusmods.com/newvegas/mods/58277?tab=files)
+- [Perfect INI's](https://www.nexusmods.com/newvegas/mods/85586?tab=files)
+> Titans of the New West, JAM, RAD, & YUI Settings
 
 **Want to Add**
 
