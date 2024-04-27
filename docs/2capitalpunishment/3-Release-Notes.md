@@ -42,7 +42,7 @@ sidebar_position: 3
 - Supplemental Ammo Crafting
 > 1.3 to 1.5
 - Consistent Pipboy Icons - Stats & Some Perks
-> 4.0 to 6.0
+> 4.0 to 6.0 to 7
 - Clothes HD - Unique
 > 1.0 to 1.1
 - Aid Addon
@@ -50,7 +50,7 @@ sidebar_position: 3
 - Complete Player Home Upgrade - Home & Safehouse Tweaks Patch
 > 2.0 to 2.03
 - Home & Safehouse Tweaks + Home & Safehouse Tweaks Configs
-> 13.0 to 14.0
+> 13.0 to 14.0 
 - VICE
 > 1.3.1 to 1.4
 - VICE TLD Patch
@@ -59,6 +59,14 @@ sidebar_position: 3
 > 1.10 to 1.0.2
 - Flags HD
 > 1.0 to 1.2
+- Strip Lights Region Fix
+> 1.3.2 to 1.3.3
+> Interior Optimization
+> 1.06 to 1.07
+- More LOD Additions & Fixes
+> 1.7 to 1.8
+- Different LOD mods little tweaks
+> 1.3 to 1.4
 
 **Fixed**
 
