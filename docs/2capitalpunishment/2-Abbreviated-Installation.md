@@ -96,6 +96,8 @@ For each profile you open, a dialog box will popup saying that your fallout.ini 
 
 ![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/96e11e6a-a684-404e-9b10-87476b490de9)
 
+- If you would like to start a new game, you will need to do this process each time. You are *not* able to start a new game independently as of 2.0.2.0
+
 ## ![](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/1d522d2a-b8a7-4451-995a-5e47417329c5) Final Setup
 
 1.) Make sure in MO2 that all of the application directories in the dropdown match the locations on your system. If they do not, change them so that they do.
@@ -112,13 +114,12 @@ For each profile you open, a dialog box will popup saying that your fallout.ini 
 
 1.) In MO2, select the dropdown menu at the top. From there, choose the profile you would like to play.
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/ede43e0d-26b9-477b-bc05-cd628e66a7f3)
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/0234e145-c9c5-4a62-bd78-b4fb3cddcb22)
 
 2.) After doing that, press Run in MO2 with Capital Punishment TTW selected and the list you have chosen should boot up.
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/f5c647a2-f0ed-4e6e-933e-74320d85d4ea)
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/570022e3-fa88-44ac-8485-667f938157c0)
 
-- For a list of what each profile does/is about, you can check out our profiles page on here on the wiki!
 
 
 ## ![](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/1b455b94-9c62-4d3c-b75f-e2ad04f90739) Optional Post Installation Steps
