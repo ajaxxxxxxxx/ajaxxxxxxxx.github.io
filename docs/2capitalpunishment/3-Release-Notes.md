@@ -10,6 +10,23 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 2.0.2.1 - Unreleased
+
+### Save Safe?: No
+
+**Added**
+  
+**Want to Add**
+
+**Removed**
+
+**Updated**
+- MAPMO
+> to latest
+
+**Fixed**
+
+
 ## Release 2.0.2.0 - 04/27/2024
 
 ### Save Safe?: No
