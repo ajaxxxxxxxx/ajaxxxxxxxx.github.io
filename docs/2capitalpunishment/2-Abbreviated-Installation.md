@@ -9,7 +9,7 @@ sidebar_position: 2
 :::info
 ## Requirements
 
-> 170 GB of Free Space
+> 80 GB of Free Space
 >
 > A Nexus Account (Preferably Premium)
 >
