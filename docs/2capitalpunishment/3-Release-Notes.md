@@ -25,7 +25,8 @@ sidebar_position: 3
 > to latest
 
 **Fixed**
-
+- The Custom UI from allowing you to exit to main menu/breaking upon doing so
+- Lowered the main menu theme volume to - 6 DB Courtesy of Forge
 
 ## Release 2.0.2.0 - 04/27/2024
 
