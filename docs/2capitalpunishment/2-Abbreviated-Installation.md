@@ -76,6 +76,10 @@ sidebar_position: 2
 
 3.) After the TTW Launcher successfully completes the installation, use 7Zip, Winrar, or Windows Explorer to zip up the `[NoDelete] Tale of Two Wastelands` folder into an archive. You may now safely delete Fallout 3 from your computer.
 
+:::note
+For each profile you open, a dialog box will popup saying that your fallout.ini & falloutprefs.ini are missing and that it will take them from your Vanilla game folder press okay. Another box will pop up after this regarding the read only flag. **ALWAYS** select 'Clear the Read Only Flag'
+:::
+
 4.) When Wabbajack successfully completes installing the modlist, drag the Zipped Archive you just made into your `Capital Punishment/Downloads` directory. Go back to your main `Capital Punishment directory`, then open up `Mod Organizer 2`
 
 5.) On the right hand side, sort by Filetime until you see your `[NoDelete] Tale of Two Wastelands.7z` at the top. Drag and drop this to the top of the lefthand separator `PUT TALE OF TWO WASTELANDS HERE`
@@ -102,8 +106,6 @@ sidebar_position: 2
 > This will not override your New Vegas installation; We now use Root Builder which allows us to use your vanilla New Vegas directory without modifying it.
 
 3.) You can now select "Capital Punishment TTW" from the right hand dropdown and press play.
-
-4.) For each profile you open, a dialog box will popup saying that your fallout.ini & falloutprefs.ini are missing and that it will take them from your Vanilla game folder press okay. Another box will pop up after this regarding the read only flag. **ALWAYS** select 'Clear the Read Only Flag'
 
 ## ![](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/62ffbb65-1612-4fe6-acd0-6927a741d152) Switching to Casual or Another Profile
 
