@@ -25,7 +25,8 @@ sidebar_position: 3
 - [JIP LN NVSE INI](https://www.nexusmods.com/newvegas/mods/58277?tab=files)
 - [Perfect INI's](https://www.nexusmods.com/newvegas/mods/85586?tab=files)
 > Titans of the New West, JAM, RAD, & YUI Settings
-
+- Casual List
+  
 **Want to Add**
 
 **Removed**
