@@ -110,6 +110,12 @@ For each profile you open, a dialog box will popup saying that your fallout.ini 
 
 ## ![](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/62ffbb65-1612-4fe6-acd0-6927a741d152) Switching to Casual or Another Profile
 
+:::info
+## Notice About Switching Profiles For the First Time
+
+For each profile you open, a dialog box will popup saying that your fallout.ini & falloutprefs.ini are missing and that it will take them from your Vanilla game folder press okay. Another box will pop up after this regarding the read only flag. **ALWAYS** select **'Clear the Read Only Flag'**
+:::
+
 - Depending on the experience you would like, you may want to switch between either Casual or Hardcore.
 
 1.) In MO2, select the dropdown menu at the top. From there, choose the profile you would like to play.
