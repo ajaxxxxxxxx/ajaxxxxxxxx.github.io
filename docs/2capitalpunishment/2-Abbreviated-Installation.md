@@ -79,7 +79,7 @@ sidebar_position: 2
 :::info
 ## Notice About Opening MO2 For the First Time
 
-For each profile you open, a dialog box will popup saying that your fallout.ini & falloutprefs.ini are missing and that it will take them from your Vanilla game folder press okay. Another box will pop up after this regarding the read only flag. **ALWAYS** select 'Clear the Read Only Flag'
+For each profile you open, a dialog box will popup saying that your fallout.ini & falloutprefs.ini are missing and that it will take them from your Vanilla game folder press okay. Another box will pop up after this regarding the read only flag. **ALWAYS** select **'Clear the Read Only Flag'**
 :::
 
 4.) When Wabbajack successfully completes installing the modlist, drag the Zipped Archive you just made into your `Capital Punishment/Downloads` directory. Go back to your main `Capital Punishment directory`, then open up `Mod Organizer 2`
