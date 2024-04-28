@@ -88,16 +88,13 @@ For each profile you open, a dialog box will popup saying that your fallout.ini 
 
 ## ![](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/b82eeb7e-aefc-4ee2-80b7-11956054f964) Preconfigured Save Setup 
 
-1.) Go to Capital Punishment/Game Folder Files, copy the two appropriate Save Files for the profile you plan to use (Casual or Hardcore), then paste them into the appropriate profile folder you plan to use **(HC = Hardcore)**
+1.) Go to Capital Punishment/Game Folder Files
 
-- **At the End Of the Saves Look for the Markers For Casual/Hardcore**
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/2140ddec-1b9e-4832-bbe3-bbfff1f5e879)
 
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/96f62de7-5f55-485d-bb73-4a91dc69a457)
+- **Go to either HC or Casual Preconfigured Saves (Depending on Which List You Are Playing). Copy the Two Saves Which Correlate & Paste Them Into `Capital Punishment/Profiles/[The Profile Of Your Choice]/saves`**
 
-- **Copy the Two Saves Which Correlate & Paste Them Into `Capital Punishment/Profiles/[The Profile Of Your Choice]/saves`**
-
-![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/d4984034-f544-4a58-a447-d4a43eaf122f)
-
+![image](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/96e11e6a-a684-404e-9b10-87476b490de9)
 
 ## ![](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/1d522d2a-b8a7-4451-995a-5e47417329c5) Final Setup
 
