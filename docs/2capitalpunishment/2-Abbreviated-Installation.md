@@ -76,7 +76,7 @@ sidebar_position: 2
 
 3.) After the TTW Launcher successfully completes the installation, use 7Zip, Winrar, or Windows Explorer to zip up the `[NoDelete] Tale of Two Wastelands` folder into an archive. You may now safely delete Fallout 3 from your computer.
 
-:::note
+:::info
 ## Notice About Opening MO2 For the First Time
 
 For each profile you open, a dialog box will popup saying that your fallout.ini & falloutprefs.ini are missing and that it will take them from your Vanilla game folder press okay. Another box will pop up after this regarding the read only flag. **ALWAYS** select 'Clear the Read Only Flag'
