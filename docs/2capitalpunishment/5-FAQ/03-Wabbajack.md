@@ -23,3 +23,11 @@ If this doesn't work, try using the Network Workaround in Wabbajack settings, th
 ## **2.) Why does Wabbajack say it cannot find my Fallout New Vegas install?**
 
 This usually happens when the game is moved to another folder than Wabbajack was originally ran with. Go to C:\Users\YOURUSERNAME\AppData\Local and delete the Wabbajack folder. This will clear the settings and regenerate the next time Wabbajack is ran.
+
+## **3.) Wabbajack is still failing/having issues while downloading**
+
+- Make sure you are logged into Nexus through Wabbajack. After doing so restart Wabbajack and continue the download
+
+- If errors still occur, go to your search bar and type %APPDATA%, then hit enter
+- From here go to Local/Wabbajack and clear out the folder
+- When you relaunch Wabbajack, make sure to login to Nexus, then continue the download process from there
