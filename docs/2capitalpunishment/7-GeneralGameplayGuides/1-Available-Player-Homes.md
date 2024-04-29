@@ -100,16 +100,6 @@ Location(s): Scrapyard in the Capital Wasteland or Gibson Scrap Yard in the Moja
 ![image](https://user-images.githubusercontent.com/114360108/202836538-d0c85e68-f82a-49f0-824d-2c842b3f3ef8.png)
 
 
-## **Big Town Extensions**
-
-This is a small mod that adds more things to do around Big Town in TTW, along with a small player home, and a couple fully voiced vendors. 
-
-[Link to Nexus page](https://www.nexusmods.com/newvegas/mods/74825)
-
-Location(s): Big Town
-
-![20221119095927_1](https://user-images.githubusercontent.com/114360108/202857212-28d539f3-a3b7-49a6-8a14-19a98bc7ebf3.jpg)
-
 ## **Casa de New Vegas**
 
 A large scale adobe mansion in the Mojave with lots to do besides just sitting around and admiring its beauty
