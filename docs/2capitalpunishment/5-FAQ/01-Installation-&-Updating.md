@@ -12,6 +12,7 @@ Due to the jankiness of New Vegas and the variety of conflicts introducing new m
 - New Mod Installations
 - Disabling/Deleting Preexisting Mods
 - Editing INI's of Existing Mods
+- Bethini
 > We do have channels where users may help eachother with unsupported modifications and have an active user base consistently discussing various changes they have made.
 
 ## **2.) I updated my game and ________ file is now gone. Where did it go?**
@@ -20,25 +21,21 @@ If the file did not come with the Wabbajack installation, then it will be delete
 
 > The main file is Tale of Two Wastelands.7zip. Make sure to follow our updating guide to ensure when you update, it doesn't delete out of your mods/downloads folders.
 
-## **3.) I Cannot Launch My Game/I am Getting Cannot Read Arguments**
+## **3.) I Cannot Launch My Game/I Keep Getting Crashes**
 
 - Launch the game with New Vegas, NOT NVSE
 
 - If this doesn't work, try verifying the integrity of FNV in steam
 
-- If this does not work, go to your Fallout New Vegas steam folder (Which should be completely clean of any alterations)
-
-- From there copy all of the files inside and paste them into your Stock Games folder
-
-- Run the 4GB Patcher
+- If this does not work, go to your Fallout New Vegas steam folder and run 4 GB patcher again
 
 - After this is done try to launch your game like normal
 
-~ Thank you to [Afro](https://www.youtube.com/channel/UC0AU8onc8vlBxm3jaqYlM0g) for this fix!
+- If this doesn't work, try disabling DXVK or SpecialK
 
 ## **4.) How do I show the In Game Keybind Interface?**
 
-We have removed Reshade from the list, but still provide the files to allow for users who wish to use it. You can follow our reshade guide to set this up or you can view our keybinds/controls page.
+You can press insert or view them on the Website [here](https://www.modlists.net/docs/2capitalpunishment/Support#key-bind-changes)
 
 
 ## **5.) Where can I find an updated list of mods?**
@@ -53,7 +50,7 @@ With the current version of MO2, it is likely that your load order may be resett
 
 2.) Download the `loadorder.txt`. Copy this file to your clipboard once it is downloaded.
 
-3.) Go to your `Capital Punishment/profiles/Casual_Punishment_Default` folder
+3.) Go to your `Capital Punishment/profiles/Profile of Choice` folder
 
-4.) Paste the copied `loadorder.txt` into your `Capital Punishment/profiles/Casual_Punishment_Default`. When it asks you to overwrite your previous load order, select
+4.) Paste the copied `loadorder.txt` into your `Capital Punishment/profiles/Profile of choice`. When it asks you to overwrite your previous load order, select
 yes
