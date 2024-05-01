@@ -25,6 +25,7 @@ sidebar_position: 3
 
 - PSRO & Associated Patches
 - Quick Mod Menu
+- Animated Ingestibles
 
 **Updated**
 
