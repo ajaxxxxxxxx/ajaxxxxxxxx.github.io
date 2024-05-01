@@ -10,6 +10,23 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 2.0.3.0 - Unreleased
+
+### Save Safe?: ??
+
+**Added**
+  
+**Want to Add**
+
+- [New Vegas Animation Overhaul](https://www.nexusmods.com/newvegas/mods/86354)
+> Waiting for a few more animations to be added/Iron Sights Alligned to update
+
+**Removed**
+
+**Updated**
+
+**Fixed**
+
 ## Release 2.0.2.1 - 04/28/2024
 
 ### Save Safe?: Yes
