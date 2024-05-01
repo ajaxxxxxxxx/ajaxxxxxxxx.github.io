@@ -23,6 +23,8 @@ sidebar_position: 3
 
 **Removed**
 
+- PSRO & Associated Patches
+
 **Updated**
 
 **Fixed**
