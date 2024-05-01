@@ -24,10 +24,14 @@ sidebar_position: 3
 **Removed**
 
 - PSRO & Associated Patches
+- Quick Mod Menu
 
 **Updated**
 
 **Fixed**
+- Sorting of Inventory
+- Weapon Mods Causing Missing Textures (Hopefully)
+- Nuka Cola Overhaul Missing Textures 
 
 ## Release 2.0.2.1 - 04/28/2024
 
