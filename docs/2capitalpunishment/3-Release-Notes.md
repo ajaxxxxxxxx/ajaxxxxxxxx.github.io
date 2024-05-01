@@ -15,11 +15,20 @@ sidebar_position: 3
 ### Save Safe?: No
 
 **Added**
-  
+- [B42 Inject](https://www.nexusmods.com/newvegas/mods/80437?tab=files)
+- [B42 Inject Season 1](https://www.nexusmods.com/newvegas/mods/80531)
+- [B42 Inject Water Animations](https://www.nexusmods.com/newvegas/mods/83812)
+- [B42 Inject Sunset Saparilla Animations](https://www.nexusmods.com/newvegas/mods/83993?tab=files)
+- [B42 Inject Meat Animations](https://www.nexusmods.com/newvegas/mods/83906)
+- [B42 Inject - Liquid Courage](https://www.nexusmods.com/newvegas/mods/85641)
+- [B42 Inject - Hit Assorted Items 1](https://www.nexusmods.com/newvegas/mods/84439)
+- [B42 Inject - Coffee](https://www.nexusmods.com/newvegas/mods/86213?tab=files)
+
 **Want to Add**
 
 - [New Vegas Animation Overhaul](https://www.nexusmods.com/newvegas/mods/86354)
 > Waiting for a few more animations to be added/Iron Sights Alligned to update
+-
 
 **Removed**
 
