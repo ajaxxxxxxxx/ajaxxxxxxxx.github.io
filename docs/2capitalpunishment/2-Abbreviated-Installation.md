@@ -178,6 +178,12 @@ For each profile you open, a dialog box will popup saying that your fallout.ini 
 
 ### NVR
 
+:::warning
+
+- Mods such as B42 Scopes may not function properly with NVR enabled. If you have bugs while using NVR this is likely the case.
+
+:::
+
 1.) For those who want install NVR. You will have to join the [TES Reloaded Discord](https://discord.com/invite/QgN6mR6eTK)
 
 2.) From there, you can check out their [FAQ Channel](https://discord.com/channels/344843935123898369/1030610625426100314) and There [Video Installation Guide](https://youtu.be/dDFTyOfjr84)
