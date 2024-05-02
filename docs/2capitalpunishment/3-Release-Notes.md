@@ -10,6 +10,21 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 2.0.4.0 - Unreleased
+
+### Save Safe?: No
+
+**Added**
+
+**Want to Add**
+- [Pipboy holo panel espless](https://www.nexusmods.com/newvegas/mods/86483?tab=description)
+- 
+**Removed**
+
+**Updated**
+
+**Fixed**
+
 ## Release 2.0.3.2 - 05/02/2024
 
 ### Save Safe?: No
