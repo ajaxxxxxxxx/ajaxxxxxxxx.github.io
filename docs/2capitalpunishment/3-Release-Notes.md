@@ -29,6 +29,33 @@ sidebar_position: 3
 - Animated Ingestibles
 
 **Updated**
+- Clean Vanilla Hud
+> 0.80 to 1.00b
+- Pipboy UI Tweaks
+> 1.6 to 1.7
+- Strip Lights Region Fix
+> 1.3.3 to 1.3.4
+- Weapon Based Hands Clip Distance
+> 2.2 to 2.3
+- DXVK
+> 2.3 to 2.3.1
+- Titans of the New West 2.0
+> 2.1.31 to 2.1.31b
+- The Living Desert
+> 2.6 to 2.61
+- Mojave Merchants and Desert Dealers
+> 1.30.30 to 2.2.0
+- WAP F4NV Laser Pistol & Pew Pew
+> 1.2 to 1.3
+- Iron Sights Alligned
+> to 3.7
+- Enhanced Movement
+> 1.15g to 1.16b
+- Energy Visuals 2.0
+> 1.0 to 2.4
+- Desert Natural Weather
+> 7.6 to 
+
 
 **Fixed**
 - Sorting of Inventory
