@@ -10,6 +10,29 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 2.0.3.2 - Unreleased
+
+### Save Safe?: No
+
+**Added**
+- [New Vegas Animation Overhaul](https://www.nexusmods.com/newvegas/mods/86354)
+- [Butcher Pete Complete](https://www.nexusmods.com/newvegas/mods/79146?tab=files)
+- [Wasteland Warrior Animations](https://www.nexusmods.com/newvegas/mods/80277?tab=files)
+- [FNV Clean Anims - Ripper](https://www.nexusmods.com/newvegas/mods/85887)
+- [Assume the Position - Unarmed Overhaul](https://www.nexusmods.com/newvegas/mods/86055)
+- [FNV Clean Animations - Throwing Weapons](https://www.nexusmods.com/newvegas/mods/81472?tab=files)
+- [Blended Locomotion](https://www.nexusmods.com/newvegas/mods/79295)
+
+**Want to Add**
+
+**Removed**
+- Combined melee animation pack
+
+**Updated**
+
+**Fixed**
+
+
 ## Release 2.0.3.1 - 05/21/2024
 
 ### Save Safe?: No
