@@ -33,7 +33,7 @@ sidebar_position: 3
 > 3.7 to 3.8
 
 **Fixed**
-
+- Lean not having the ALT activator like it should
 
 ## Release 2.0.3.1 - 05/21/2024
 
