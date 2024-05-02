@@ -42,6 +42,7 @@ sidebar_position: 3
 - Sorting of Inventory
 - Weapon Mods Causing Missing Textures (Hopefully)
 - Nuka Cola Overhaul Missing Textures 
+- Deleted unneeded/outdated configs
 
 ## Release 2.0.2.1 - 04/28/2024
 
