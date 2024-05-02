@@ -29,6 +29,9 @@ sidebar_position: 3
 > This includes Assorted Leather Armor Retexture 2k, Vault Suits Retextured, PM HD Legion Overhaul 2k, & PM HD Ranger Outfits 2k
 - Assorted Creatures Changed from BSA to Original Textures/Meshes
 > This includes Horrors of the New West, FriedTurkey 3 Creature Pack, Menace of the New West, & Fried Turkey's Bighorners
+- Better Balanced Backpacks Changed from BSA to Original Textures/Meshes
+- Capital Punishment - WSE Changed from BSA to Original Textures/Meshes
+> This includes NV Translucency Overhaul, Lucky 38 E3 Lights Restored, Simply Upscaled Grass, & Nut Water Overhaul
 
 ## Release 2.0.3.2 - 05/02/2024
 
