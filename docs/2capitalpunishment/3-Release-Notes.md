@@ -10,7 +10,7 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
-## Release 2.0.3.2 - Unreleased
+## Release 2.0.3.2 - 05/02/2024
 
 ### Save Safe?: No
 
