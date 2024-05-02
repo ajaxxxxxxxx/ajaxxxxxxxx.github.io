@@ -43,7 +43,9 @@ sidebar_position: 3
 > This includes Clothes HD Workers, Wasteland, Kings, Gamblers, Prewar, Great Khans, Power Gangers, and Doctors
 - Creatures Textures Changed from BSA to Original Textures/Meshes
 > Its a Dogs World, Decaying Ferals, Eyes of Torment, Lakelurk High-Quality Replacer, Rexs 2k HD Retexture, ~~Molerat Extravaganza~~, Harold Retextured
--
+- Fatigue Overhaul Changed from BSA to Original Textures/Meshes
+- Food & Aid Textures 1 Changed from BSA to Original Textures/Meshes
+> 6ixes Clutter, High Res Vanilla Water Bottle Textures & Meshes, High Resolution Iguana on a Stick, Physically Based Chems, Pinyon Nuts Retexture
 
 ## Release 2.0.3.2 - 05/02/2024
 
