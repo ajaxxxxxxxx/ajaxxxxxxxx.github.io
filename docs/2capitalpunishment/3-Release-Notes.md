@@ -42,7 +42,7 @@ sidebar_position: 3
 - Clothes HD Changed from BSA to Original Textures/Meshes
 > This includes Clothes HD Workers, Wasteland, Kings, Gamblers, Prewar, Great Khans, Power Gangers, and Doctors
 - Creatures Textures Changed from BSA to Original Textures/Meshes
-> Its a Dogs World, Decaying Ferals, Eyes of Torment, Lakelurk High-Quality Replacer, Rexs 2k HD Retexture, Molerat Extravaganza, Harold Retextured
+> Its a Dogs World, Decaying Ferals, Eyes of Torment, Lakelurk High-Quality Replacer, Rexs 2k HD Retexture, ~~Molerat Extravaganza~~, Harold Retextured
 -
 
 ## Release 2.0.3.2 - 05/02/2024
