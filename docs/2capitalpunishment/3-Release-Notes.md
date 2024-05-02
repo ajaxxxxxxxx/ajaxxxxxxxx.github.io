@@ -78,6 +78,8 @@ sidebar_position: 3
 - Weapon BSAs One Changed from BSA to Original Textures & Meshes
 > Weapon Enhancement Pack, Bowie Knife Retexture, Bullet Casings Redone, Enhanced Bullet Impacts, Hatchet Retexture, PM's HD Ammo Boxes 2k1k, Retexture Fallout Ordnance - RFO, WTH 2k, WTH 2k TTW .32 & Hunting Rifle Textures
 - Weapons & Armor BSAs Changed from BSA to Original Textures & Meshes
+> F4NV NCR Combat Ranger/Physically Based Rangers, EXE Effect Textures Enhanced, LAER Retexture, Throwing Melee Weapon Retexture, DKS & Friends
+- Supersledge WJS BSAs Changed to Original Textures & Meshes
 
 ## Release 2.0.3.2 - 05/02/2024
 
