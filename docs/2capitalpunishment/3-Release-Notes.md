@@ -27,6 +27,7 @@ sidebar_position: 3
 
 **Removed**
 - Combined melee animation pack
+- All FNV Clean Animation Mods
 
 **Updated**
 - Iron Sights Alligned
