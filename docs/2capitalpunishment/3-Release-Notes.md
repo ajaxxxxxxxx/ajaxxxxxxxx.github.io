@@ -10,6 +10,25 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 2.0.3.1 - 05/21/2024
+
+### Save Safe?: No
+
+**Added**
+
+**Want to Add**
+
+- [New Vegas Animation Overhaul](https://www.nexusmods.com/newvegas/mods/86354)
+> Waiting for a few more animations to be added/Iron Sights Alligned to update
+
+
+**Removed**
+
+**Updated**
+
+**Fixed**
+- Mojave Merchants was unticked
+
 ## Release 2.0.3.0 - 05/21/2024
 
 ### Save Safe?: No
