@@ -18,7 +18,7 @@ sidebar_position: 3
 
 **Want to Add**
 - [Pipboy holo panel espless](https://www.nexusmods.com/newvegas/mods/86483?tab=description)
-- 
+
 **Removed**
 
 **Updated**
