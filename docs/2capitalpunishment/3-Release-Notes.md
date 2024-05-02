@@ -29,6 +29,8 @@ sidebar_position: 3
 - Combined melee animation pack
 
 **Updated**
+- Iron Sights Alligned
+> 3.7 to 3.8
 
 **Fixed**
 
