@@ -53,6 +53,31 @@ sidebar_position: 3
 > This includes High Res Vanilla Posters & Graffitti, Vanilla Grafitti Redone, Dead Money Graditti Redone, & Great Khans Grafitti Redone
 - General Textures Three Changed from BSA to Original Textures & Meshes
 > This includes Magazines of Unparalleled Aesthetic Quality, Money Higher Quality, Minimod High Res Newspapers, Better Books Fallout3NV, & HiRes Skill Books Retexture
+- General Textures Four Changed from BSA to Original Texutes & Meshes
+> This includes HQ Metal Barrels, Quality Carts, Physically Based Kitchenware, Fractal Crystals
+- Glowing Cazadores and Retexture Changed from BSA to Original Textures & Meshes
+- Hit Crossbow Changed from BSA to Original Textures & Meshes
+- Little Apocalypse Changed from BSA to Original Textures & Meshes
+- Mojave Nights Changed from BSA to Original Textures & Meshes
+- Nightmare Fiends Changed from BSA to Original Textures & Meshes
+- Hit Gila Companion Changed from BSA to Original Textures & Meshes
+- Other Textures Changed from BSA to Original Textures & Meshes
+> This includes Neglected Clutter & Other Things Retex, Neglected Clutter & Other Things Retex ArchitectureFurniture, MG's Neat Clutter Retextures, Prewar Money Retexture, Physically Based Parkware, F4NV Autodoc, 2k Animated Metal Box Replacer, 2k Medkit Replacer, Better Jukebox 1k, New Vegas Palm Trees Enhanced, HD Miscellaneous War Objects
+- Recon Underarmor Uniques Changed from BSA to Original Textures & Meshes
+- Remastered Quarries Changed from BSA to Original Textures & Meshes
+- B42 Retrievables Changed from BSA to Original Textures & Meshes 
+- Skinned Mesh Improvement Mod Changed from BSA to Original Textures & Meshes
+- TallerDC Changed from BSA to Original Textures & Meshes
+- TTW - Wasteland Supplements MTB 3.3 Changed from BSA to Original Texutes & Meshes
+- TTW DC Flora Overhaul Changed from BSA to Original Textures & Meshes
+- TwinRocksAdobe Changed from BSA to Original Textures & Meshes
+- Signs Changed from BSA to Original Textures & Meshes
+> Various Signs HD, Casino Posters & Signs HD, Hoover Dam Signs HD, Casino Rugs HD, Megaton Signs HD (TTW)
+- Signs Two Changed from BSA to Original Textures & Meshes
+> Street Signs HD Overhaul, HD Signs Overhaul Part 2, HD Signs Overhaul Part 3, 2k Animated Hotel Wardrobe
+- Weapon BSAs One Changed from BSA to Original Textures & Meshes
+> Weapon Enhancement Pack, Bowie Knife Retexture, Bullet Casings Redone, Enhanced Bullet Impacts, Hatchet Retexture, PM's HD Ammo Boxes 2k1k, Retexture Fallout Ordnance - RFO, WTH 2k, WTH 2k TTW .32 & Hunting Rifle Textures
+- Weapons & Armor BSAs Changed from BSA to Original Textures & Meshes
 
 ## Release 2.0.3.2 - 05/02/2024
 
