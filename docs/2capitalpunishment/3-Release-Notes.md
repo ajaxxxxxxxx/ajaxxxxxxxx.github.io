@@ -47,8 +47,12 @@ sidebar_position: 3
 - Food & Aid Textures 1 Changed from BSA to Original Textures/Meshes
 > 6ixes Clutter, High Res Vanilla Water Bottle Textures & Meshes, High Resolution Iguana on a Stick, Physically Based Chems, Pinyon Nuts Retexture
 - Freeside Overhaul Episode 1 Changed from BSA to Original Textures & Meshes
-- General One Changed from BSA to Original Textures & Meshes
+- General Textures One Changed from BSA to Original Textures & Meshes
 > This includes Audley's Misc Textures, Retextured Playing Cards, Clipboards Retexture, Shiny Platinum Chip 2k, & Hectrol Tumbleweed Deluxe HighRes Retexture
+- General Textures Two Changed from BSA to Original Textures & Meshes
+> This includes High Res Vanilla Posters & Graffitti, Vanilla Grafitti Redone, Dead Money Graditti Redone, & Great Khans Grafitti Redone
+- General Textures Three Changed from BSA to Original Textures & Meshes
+> This includes Magazines of Unparalleled Aesthetic Quality, Money Higher Quality, Minimod High Res Newspapers, Better Books Fallout3NV, & HiRes Skill Books Retexture
 
 ## Release 2.0.3.2 - 05/02/2024
 
