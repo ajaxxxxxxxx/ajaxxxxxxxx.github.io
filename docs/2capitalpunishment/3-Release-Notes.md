@@ -10,6 +10,22 @@ sidebar_position: 3
 
 # Releases (Newest to Oldest)
 
+## Release 2.0.4.1 - 05/02/2024
+
+### Save Safe?: Yes; 2.0.4.0
+
+**Added**
+
+**Want to Add**
+- [Pipboy holo panel espless](https://www.nexusmods.com/newvegas/mods/86483?tab=description)
+
+**Removed**
+
+**Updated**
+
+**Fixed**
+- Changed Capital Punishment - WSM BSAs into Original Textures/Meshes
+
 ## Release 2.0.4.0 - 05/02/2024
 
 ### Save Safe?: No
