@@ -25,6 +25,7 @@ sidebar_position: 3
 
 **Fixed**
 - Changed Capital Punishment - WSM BSAs into Original Textures/Meshes
+> This should hopefully fix crashing when exiting the vault
 
 ## Release 2.0.4.0 - 05/02/2024
 
