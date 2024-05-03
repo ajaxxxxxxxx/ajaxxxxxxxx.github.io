@@ -22,6 +22,10 @@ sidebar_position: 3
 **Removed**
 
 **Updated**
+- New Vegas Anim Overhaul
+> 1.0.1 to 1.0.2
+- Iron Sights Aligned
+> 3.8 to 3.9
 
 **Fixed**
 - Arcing Arc Welder Changed from BSA to Original Textures/Meshes
