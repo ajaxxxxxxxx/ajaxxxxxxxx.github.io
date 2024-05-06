@@ -37,7 +37,6 @@ sidebar_position: 3
 > 9.11 to 9.15
 - Immersive Sleeping Encounters
 > 1.0.2 to 1.1.0
-- MAPMO
 
   
 **Fixed**
