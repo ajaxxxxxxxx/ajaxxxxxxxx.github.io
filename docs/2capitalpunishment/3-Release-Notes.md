@@ -23,7 +23,23 @@ sidebar_position: 3
 **Removed**
 
 **Updated**
+- New Vegas Animation Overhaul
+> 1.0.2 to 1.0.4
+- Iron Sights Alligned
+> 3.9 to 4.0
+- Titans of the New West 2.0
+> 2.1.31b to 2.1.33
+- Enhanced Movement
+> 1.16b to 1.16d
+- ShowOff NVSE
+> 1.75 to 1.80
+- IStewieAI's Tweaks & Engine Fixes
+> 9.11 to 9.15
+- Immersive Sleeping Encounters
+> 1.0.2 to 1.1.0
+- MAPMO
 
+  
 **Fixed**
 - Changed Capital Punishment - WSM BSAs into Original Textures/Meshes
 > This should hopefully fix crashing when exiting the vault
