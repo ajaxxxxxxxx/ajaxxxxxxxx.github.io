@@ -19,6 +19,7 @@ sidebar_position: 3
 **Want to Add**
 - [Pipboy holo panel espless](https://www.nexusmods.com/newvegas/mods/86483?tab=description)
 - [Simple PA Hud](https://www.nexusmods.com/newvegas/mods/86369?tab=description)
+- [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691)
 
 **Removed**
 
