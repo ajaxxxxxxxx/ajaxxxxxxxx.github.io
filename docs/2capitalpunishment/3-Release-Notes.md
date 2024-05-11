@@ -20,6 +20,7 @@ sidebar_position: 3
 - [Pipboy holo panel espless](https://www.nexusmods.com/newvegas/mods/86483?tab=description)
 - [Simple PA Hud](https://www.nexusmods.com/newvegas/mods/86369?tab=description)
 - [Simple AI Merge](https://www.nexusmods.com/newvegas/mods/86691)
+- [YUI FIXES](https://www.nexusmods.com/newvegas/mods/86715?tab=files)
 
 **Removed**
 
