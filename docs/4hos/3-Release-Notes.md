@@ -2,6 +2,72 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 1.2 (Unreleased)
+Save Safe? NO
+
+**Added**
+
+* [Slightly Better Hagraven Feathers](https://www.nexusmods.com/skyrimspecialedition/mods/117116)
+* [Stress and Fear - A Dynamic Sanity System](https://www.nexusmods.com/skyrimspecialedition/mods/116522)
+* [Persistent Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/118174)
+* [Sconces of Solitude - Unique Solitude Braziers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/118210)
+* [FYX - Windhelm Castle Door](https://www.nexusmods.com/skyrimspecialedition/mods/118120)
+* [Vanilla Hair Remake - High Poly Head - Expressive Facegen Morphs - patches](https://www.nexusmods.com/skyrimspecialedition/mods/117861)
+* [COTN Falkreath Lite](https://www.nexusmods.com/skyrimspecialedition/mods/117844)
+* [Dragon Breath VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/118431)
+* [Requiem - Honed Metal Patch](https://www.nexusmods.com/skyrimspecialedition/mods/118672)
+* [Slightly Better Sabre Cat Eyes](https://www.nexusmods.com/skyrimspecialedition/mods/118269)
+* [Hunters Loot - and skin animals](https://www.nexusmods.com/skyrimspecialedition/mods/119348)
+* [Modern Wait Menu](https://www.nexusmods.com/skyrimspecialedition/mods/117661)
+* [Modern Wait Menu - Dear Diary Dark Mode Reskin](https://www.nexusmods.com/skyrimspecialedition/mods/119240)
+* [Universal (SKSE) Rim Lighting Fix](https://www.nexusmods.com/skyrimspecialedition/mods/119367)
+* [Falskaar](https://www.nexusmods.com/skyrimspecialedition/mods/2057)
+* [Comprehensive Falskaar Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/62819)
+* [Duncan's Paper Maps for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/55025)
+* [Falskaar - Addons and Patches](https://www.nexusmods.com/skyrimspecialedition/mods/19454)
+* [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
+* [Requiem - Wyrmstooth (Updated)](https://www.nexusmods.com/skyrimspecialedition/mods/116468)
+* [Simple Children Wyrmstooth Update Patch](https://www.nexusmods.com/skyrimspecialedition/mods/72404)
+* [Wyrmstooth - Skeleton Replacer HD Consistency Patch](https://www.nexusmods.com/skyrimspecialedition/mods/102304)
+* [Wyrmstooth Animated - ENB Light - Community Shader Light Limit Fix Light](https://www.nexusmods.com/skyrimspecialedition/mods/72668)
+* [Don't Roll In That - NPC Loot Reduction](https://www.nexusmods.com/skyrimspecialedition/mods/39180)
+* [VIGILANT SE](https://www.nexusmods.com/skyrimspecialedition/mods/11849)
+* [VIGILANT Voiced - English Addon](https://www.nexusmods.com/skyrimspecialedition/mods/11894)
+* [VIGILANT SE - Adjustments and Addons](https://www.nexusmods.com/skyrimspecialedition/mods/69400)
+* [Vigilant Armors and Weapons Retexture SE](https://www.nexusmods.com/skyrimspecialedition/mods/45735)
+* [VIGILANT and GLENMORIL - Book Covers](https://www.nexusmods.com/skyrimspecialedition/mods/32940)
+* [Vigilant Glenmoril Gun Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/38039)
+* [Vigilant - Covered Female Robes](https://www.nexusmods.com/skyrimspecialedition/mods/44883)
+* [Vigilant DeadPile Flesh re-texture](https://www.nexusmods.com/skyrimspecialedition/mods/56089)
+* [Assorted 3DNPC Patches - Project AHO - Moon and Star - Vigilant - Hammet - Windhelm Docks Pathways - Treasure Hunter](https://www.nexusmods.com/skyrimspecialedition/mods/72309)
+* [VIGILANT - My patches SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/70958)
+* [Requiem - VIGILANT Patch](https://www.nexusmods.com/skyrimspecialedition/mods/76235)
+* [VIGILANT - Delayed Start](https://www.nexusmods.com/skyrimspecialedition/mods/57961)
+* [Requiem - Vigilant (Updated and Improved)](https://www.nexusmods.com/skyrimspecialedition/mods/92610)
+* [VIGILANT SE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/69353)
+* [Paper Coldharbour Map for VIGILANT (FWMF)](https://www.nexusmods.com/skyrimspecialedition/mods/59967)
+* [Vanilla HDR](https://www.nexusmods.com/skyrimspecialedition/mods/76521)
+* [Old Blood](https://www.nexusmods.com/skyrimspecialedition/mods/89554)
+* [Old Blood Scripts Fix](https://www.nexusmods.com/skyrimspecialedition/mods/92818)
+* [Calling the Watchmaker - Lovecraftian Inspired Quest](https://www.nexusmods.com/skyrimspecialedition/mods/96711)
+* [Hunter's Dream - Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/97408)
+* [Memorable Bounties - Witcher Inspired Quests](https://www.nexusmods.com/skyrimspecialedition/mods/99311)
+* [Lost Heritage - Bloodborne Inspired Quest](https://www.nexusmods.com/skyrimspecialedition/mods/101682)
+* [The Breathing Abyss - Lovecraftian Inspired Quest](https://www.nexusmods.com/skyrimspecialedition/mods/104547)
+* [The Hunt for the Spectre - Elden Ring Inspired Quest](https://www.nexusmods.com/skyrimspecialedition/mods/105044)
+* [The Price of Art - Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/108516)
+* [The Serpent's Covenant - Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/111911)
+* [Painted Torment - Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/113177)
+* [Mysteries of the Dwemer - Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/114863)
+* [Depths of the Soul - Elden Ring Inspired Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/118261)
+* [Nimwraith's World Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/111486)
+
+**Removed**
+
+
+**Updated**
+
+
 # Release 1.1.3
 Save Safe? YES
 
