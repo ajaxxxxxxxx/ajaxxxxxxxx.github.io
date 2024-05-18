@@ -61,11 +61,33 @@ Save Safe? NO
 * [Mysteries of the Dwemer - Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/114863)
 * [Depths of the Soul - Elden Ring Inspired Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/118261)
 * [Nimwraith's World Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/111486)
+* [Honed Metal -NPC Crafting and Enchanting Services-](https://www.nexusmods.com/skyrimspecialedition/mods/61015)
 
 **Removed**
 
+* [Honed Metal Community AE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/80705)
+* [Honed Metal Additional Materials UPDATED](https://www.nexusmods.com/skyrimspecialedition/mods/51254)
+* [NL_MCM - A Modular MCM Framework](https://www.nexusmods.com/skyrimspecialedition/mods/49127)
+
 
 **Updated**
+
+* Spell Perk Item Distributor (SPID)
+  > 7.1 to 7.1.3
+* Base Object Swapper
+  > 2.6.1 to 3.0.2
+* More Informative Console
+  > 1.1 to 1.2
+* Inventory Interface Information Injector
+  > 1.0.2 to 1.1
+* Scripts Carefully Reworked Optimized and Tactfully Enhanced (SCROTE) - Simply Optimized Scripts AIO
+  > 1.0.1 to 1.0.2
+* ENB Input Disabler
+  > 1.0.3 to 1.1.1
+* Dialogue History
+  > 1.1.1 to 1.1.2
+* Subsurface Scattering
+  > 1.0 to 1.0.1
 
 
 # Release 1.1.3
