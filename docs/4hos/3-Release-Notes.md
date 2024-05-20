@@ -62,6 +62,11 @@ Save Safe? NO
 * [Depths of the Soul - Elden Ring Inspired Quest Mod](https://www.nexusmods.com/skyrimspecialedition/mods/118261)
 * [Nimwraith's World Revamp](https://www.nexusmods.com/skyrimspecialedition/mods/111486)
 * [Honed Metal -NPC Crafting and Enchanting Services-](https://www.nexusmods.com/skyrimspecialedition/mods/61015)
+* [Draugr One-handed Animation (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/74685)
+* [WiZkiD Hunter's Camp Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/113558)
+* [Tomato's Complex Landscapes Parallax AIO - 1K 2K 4K](https://www.nexusmods.com/skyrimspecialedition/mods/110981)
+* [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196)
+* [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)
 
 **Removed**
 
@@ -75,7 +80,7 @@ Save Safe? NO
 * Spell Perk Item Distributor (SPID)
   > 7.1 to 7.1.3
 * Base Object Swapper
-  > 2.6.1 to 3.0.2
+  > 2.6.1 to 3.0.3
 * More Informative Console
   > 1.1 to 1.2
 * Inventory Interface Information Injector
@@ -88,6 +93,18 @@ Save Safe? NO
   > 1.1.1 to 1.1.2
 * Subsurface Scattering
   > 1.0 to 1.0.1
+* Crash Logger SSE AE VR - PDB support
+  > 1.13.1 to 1.14.1
+* Heavy Armory - New Weapons
+  > 5.1 to 6.05
+* Requiem - Heavy Armory Patch
+  > 0.3 to 0.4
+* Requiem - Birthsigns Redone
+  > 0.4 to 0.5
+* Requiem - Races Redone
+  > 0.4 to 0.5
+* Requiem - Alchemy Redone
+  > 0.3 to 0.4
 
 
 # Release 1.1.3
