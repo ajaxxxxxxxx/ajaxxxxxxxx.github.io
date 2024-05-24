@@ -67,6 +67,8 @@ Save Safe? NO
 * [Tomato's Complex Landscapes Parallax AIO - 1K 2K 4K](https://www.nexusmods.com/skyrimspecialedition/mods/110981)
 * [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196)
 * [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)
+* [Skeuomorphism of Skyrim - Immersive Plaque Reading Interface](https://www.nexusmods.com/skyrimspecialedition/mods/119849)
+* [Combat Music Fix SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/67015)
 
 **Removed**
 
@@ -105,6 +107,12 @@ Save Safe? NO
   > 0.4 to 0.5
 * Requiem - Alchemy Redone
   > 0.3 to 0.4
+* Read Or Take SKSE
+  > 1.3 to 1.4
+* Open Animation Replacer
+  > 2.2.2 to 2.3
+* SkyPatcher
+  > 2.4.11.1 to 2.4.14
 
 
 # Release 1.1.3
