@@ -69,6 +69,7 @@ Save Safe? NO
 * [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)
 * [Skeuomorphism of Skyrim - Immersive Plaque Reading Interface](https://www.nexusmods.com/skyrimspecialedition/mods/119849)
 * [Precision magic trails](https://www.nexusmods.com/skyrimspecialedition/mods/120445)
+* [Combat Music Fix NG Updated](https://www.nexusmods.com/skyrimspecialedition/mods/110459)
 
 **Removed**
 
@@ -117,6 +118,8 @@ Save Safe? NO
   > 1.0 to 1.0.1
 * Dynamic Activation Key
   > 1.02 to 1.10
+* Precision Creatures
+  > 2.3 to 2.4
 
 
 # Release 1.1.3
