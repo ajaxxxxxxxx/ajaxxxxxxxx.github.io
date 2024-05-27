@@ -68,7 +68,6 @@ Save Safe? NO
 * [ERM - Enhanced Rocks and Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/85196)
 * [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)
 * [Skeuomorphism of Skyrim - Immersive Plaque Reading Interface](https://www.nexusmods.com/skyrimspecialedition/mods/119849)
-* [Combat Music Fix SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/67015)
 * [Precision magic trails](https://www.nexusmods.com/skyrimspecialedition/mods/120445)
 
 **Removed**
