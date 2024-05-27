@@ -69,6 +69,7 @@ Save Safe? NO
 * [ERM - Enhanced Rocks and Mountains - DynDOLOD Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/88754)
 * [Skeuomorphism of Skyrim - Immersive Plaque Reading Interface](https://www.nexusmods.com/skyrimspecialedition/mods/119849)
 * [Combat Music Fix SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/67015)
+* [Precision magic trails](https://www.nexusmods.com/skyrimspecialedition/mods/120445)
 
 **Removed**
 
@@ -110,9 +111,13 @@ Save Safe? NO
 * Read Or Take SKSE
   > 1.3 to 1.4
 * Open Animation Replacer
-  > 2.2.2 to 2.3
+  > 2.2.2 to 2.3.2
 * SkyPatcher
   > 2.4.11.1 to 2.4.14
+* Media Keys Fix SKSE
+  > 1.0 to 1.0.1
+* Dynamic Activation Key
+  > 1.02 to 1.10
 
 
 # Release 1.1.3
