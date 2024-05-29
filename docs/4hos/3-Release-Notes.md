@@ -70,6 +70,9 @@ Save Safe? NO
 * [Skeuomorphism of Skyrim - Immersive Plaque Reading Interface](https://www.nexusmods.com/skyrimspecialedition/mods/119849)
 * [Precision magic trails](https://www.nexusmods.com/skyrimspecialedition/mods/120445)
 * [Combat Music Fix NG Updated](https://www.nexusmods.com/skyrimspecialedition/mods/110459)
+* [Destroy The Dark Brotherhood - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/118229)
+* [JK's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/110645)
+* [JK's Castle Volkihar](https://www.nexusmods.com/skyrimspecialedition/mods/116314)
 
 **Removed**
 
@@ -88,6 +91,7 @@ Save Safe? NO
 * [Icy Mesh Remaster - Ice Glaciers - LOD - other fixes](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
 * [Glacierslab SSE](https://www.nexusmods.com/skyrimspecialedition/mods/24178)
 * [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257)
+* [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157)
 
 **Updated**
 
@@ -122,7 +126,7 @@ Save Safe? NO
 * Read Or Take SKSE
   > 1.3 to 1.4
 * Open Animation Replacer
-  > 2.2.2 to 2.3.2
+  > 2.2.2 to 2.3.3
 * SkyPatcher
   > 2.4.11.1 to 2.4.14
 * Media Keys Fix SKSE
@@ -131,6 +135,22 @@ Save Safe? NO
   > 1.02 to 1.10
 * Precision Creatures
   > 2.3 to 2.4
+* Immersive Patrols SE AE
+  > 3.0Alpha to 3.0B
+* Populated Skyrim Reborn SSE
+  > 1.3Alpha to 1.5
+* SkyTEST - Realistic Animals and Predators SE
+  > 1.65.02 to 1.65.22
+* Description Framework
+  > 1.4 to 2.1.1
+* YOT - Your Own Thoughts SE - First Person Messages
+  > 1.0AE to 1.2AE
+* Improved Camera SE
+  > 1.1-Beta2 to 1.1.1
+* Experience
+  > 3.0 to 3.3
+* Experience - MCM
+  > 1.2 to 1.3
 
 
 # Release 1.1.3
