@@ -151,7 +151,12 @@ Save Safe? NO
   > 3.0 to 3.3
 * Experience - MCM
   > 1.2 to 1.3
-
+* Even Better Quest Objectives SE - EBQO SE
+  > 1.9.2 to 1.10
+* Missives - Worldspace Additions
+  > 2.08 to 2.09
+* Time Flies SE
+  > 7.3.18 to 8.0.2
 
 # Release 1.1.3
 Save Safe? YES
