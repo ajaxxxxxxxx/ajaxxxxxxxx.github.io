@@ -81,6 +81,7 @@ Save Safe? NO
 * [Don't Eat Spell Tomes (API)](https://www.nexusmods.com/skyrimspecialedition/mods/43095)
 * [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
 * [Challenging Spell Learning Alternate Animation](https://www.nexusmods.com/skyrimspecialedition/mods/57574)
+* [Grab And Throw](https://www.nexusmods.com/skyrimspecialedition/mods/120460)
 
 **Removed**
 
