@@ -73,6 +73,14 @@ Save Safe? NO
 * [Destroy The Dark Brotherhood - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/118229)
 * [JK's Fort Dawnguard](https://www.nexusmods.com/skyrimspecialedition/mods/110645)
 * [JK's Castle Volkihar](https://www.nexusmods.com/skyrimspecialedition/mods/116314)
+* [W.I.O. - Wheeler Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/103659)
+* [Sacrosanct - Custom I4 Icons](https://www.nexusmods.com/skyrimspecialedition/mods/105177)
+* [I4 Armor Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/119824)
+* [I4 Weapon Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/106432)
+* [I4 Shout Icons Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/107334)
+* [Don't Eat Spell Tomes (API)](https://www.nexusmods.com/skyrimspecialedition/mods/43095)
+* [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
+* [Challenging Spell Learning Alternate Animation](https://www.nexusmods.com/skyrimspecialedition/mods/57574)
 
 **Removed**
 
@@ -157,6 +165,16 @@ Save Safe? NO
   > 2.08 to 2.09
 * Time Flies SE
   > 7.3.18 to 8.0.2
+* Scared of Shootings - NPCs react to aiming bows
+  > 0.2.1 to 0.3
+* Environs - The Shrines of Talos
+  > 3.01 to 3.02
+* Environs - Hroggar's House
+  > 2.01 to 2.02
+* Favor Jobs Overhaul
+  > 2.7.8 to 2.7.10
+* Immersive Interactions - Animated Actions
+  > 1.75 to 1.76
 
 # Release 1.1.3
 Save Safe? YES
