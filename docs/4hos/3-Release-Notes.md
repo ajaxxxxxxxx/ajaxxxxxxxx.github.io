@@ -193,6 +193,12 @@ Save Safe? NO
   > 1.8.2 to 1.9
 * EVG Animated Traversal
   > 2.0beta to 2.1
+* Lively Children Animations (OAR)
+  > 2.1 to 2.2.1
+* Immersive Better Bow Positioning - IED-OAR
+  > 1.3 to 1.5
+* Immersive Hunting Animations
+  > 2.1.2 to 2.2
 
 # Release 1.1.3
 Save Safe? YES
