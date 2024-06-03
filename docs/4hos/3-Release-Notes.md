@@ -82,6 +82,7 @@ Save Safe? NO
 * [Challenging Spell Learning](https://www.nexusmods.com/skyrimspecialedition/mods/20521)
 * [Challenging Spell Learning Alternate Animation](https://www.nexusmods.com/skyrimspecialedition/mods/57574)
 * [Grab And Throw](https://www.nexusmods.com/skyrimspecialedition/mods/120460)
+* [EVG CLAMBER - Slope Animations](https://www.nexusmods.com/skyrimspecialedition/mods/114753)
 
 **Removed**
 
@@ -135,7 +136,7 @@ Save Safe? NO
 * Read Or Take SKSE
   > 1.3 to 1.4
 * Open Animation Replacer
-  > 2.2.2 to 2.3.3
+  > 2.2.2 to 2.3.4
 * SkyPatcher
   > 2.4.11.1 to 2.4.14
 * Media Keys Fix SKSE
@@ -176,6 +177,18 @@ Save Safe? NO
   > 2.7.8 to 2.7.10
 * Immersive Interactions - Animated Actions
   > 1.75 to 1.76
+* Improved Closefaced Helmets - Fixes
+  > 1.3 to 1.5
+* Better Third Person Selection - BTPS
+  > 0.6 to 0.7
+* Simple Hunting Overhaul
+  > 1.09 to 1.10
+* EVG Conditional Idles
+  > 1.42 to 1.51
+* EVG Conditionals extended (injured-stamina-magicka-nakedness)
+  > 1.3 to 1.41
+* NPC Animation Remix (OAR)
+  > 1.8.2 to 1.9
 
 # Release 1.1.3
 Save Safe? YES
