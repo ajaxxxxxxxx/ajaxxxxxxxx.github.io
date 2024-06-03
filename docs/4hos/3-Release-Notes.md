@@ -199,6 +199,24 @@ Save Safe? NO
   > 1.3 to 1.5
 * Immersive Hunting Animations
   > 2.1.2 to 2.2
+* Dynamic Looting and Harvesting Animations
+  > 1.5 to 1.7
+* Dynamic Crafting Animations
+  > 1.0 to 1.1
+* Cities of the North Optimized Meshes
+  > 1.5 to 1.5.1
+* Cathedral - 3D Grass Library
+  > 13 to 15.2
+* Innocence Lost - Quest Expansion
+  > 1.0 to 1.11
+* Weapons Armor Clothing and Clutter Fixes
+  > 2.9.4 to 2.9.5
+* Armor and Clothing Extension
+  > 1.5.1 to 1.5.2
+* Complete Crafting Overhaul Remastered
+  > 2.5.2 to 2.5.9
+* Requiem - WACCF CCOR ACE Patches
+  > 4.6.1 to 4.7
 
 # Release 1.1.3
 Save Safe? YES
