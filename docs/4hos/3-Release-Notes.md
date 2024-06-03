@@ -102,6 +102,8 @@ Save Safe? NO
 * [Glacierslab SSE](https://www.nexusmods.com/skyrimspecialedition/mods/24178)
 * [Snowy Surfaces Sound Collision and Aesthetics](https://www.nexusmods.com/skyrimspecialedition/mods/76257)
 * [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157)
+* [Animated Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/72849)
+* [Animated Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/72852)
 
 **Updated**
 
@@ -189,6 +191,8 @@ Save Safe? NO
   > 1.3 to 1.41
 * NPC Animation Remix (OAR)
   > 1.8.2 to 1.9
+* EVG Animated Traversal
+  > 2.0beta to 2.1
 
 # Release 1.1.3
 Save Safe? YES
