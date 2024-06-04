@@ -223,6 +223,18 @@ Save Safe? NO
   > 2.5.2 to 2.5.9
 * Requiem - WACCF CCOR ACE Patches
   > 4.6.1 to 4.7
+* Assorted mesh fixes
+  > 0.9 to 0.99
+* Skyrim Landscape and Water Fixes
+  > 8.5.2 to 8.7
+* Sconces of Skyrim - Markarth and Dwemer Braziers Improved
+  > 0.2.2 to 0.3
+* Smaller Cathedral 3D Plants
+  > 1.8 to 1.8.1
+* Scallions of Skyrim - High Polygon Leeks
+  > 0.1 to 0.2
+* Snowy Ships for Snowy Regions
+  > 2.1 to 2.5
 
 # Release 1.1.3
 Save Safe? YES
