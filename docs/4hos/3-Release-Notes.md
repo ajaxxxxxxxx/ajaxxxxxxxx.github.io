@@ -110,6 +110,7 @@ Save Safe? NO
 * [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157)
 * [Animated Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/72849)
 * [Animated Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/72852)
+* [Simple Leather Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/84855)
 
 **Updated**
 
