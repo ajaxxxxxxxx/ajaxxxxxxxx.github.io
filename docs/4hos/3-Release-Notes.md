@@ -83,6 +83,12 @@ Save Safe? NO
 * [Challenging Spell Learning Alternate Animation](https://www.nexusmods.com/skyrimspecialedition/mods/57574)
 * [Grab And Throw](https://www.nexusmods.com/skyrimspecialedition/mods/120460)
 * [EVG CLAMBER - Slope Animations](https://www.nexusmods.com/skyrimspecialedition/mods/114753)
+* [Requiem - The Roleplaying Overhaul - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/63589)
+* [Morthal Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/90737)
+* [Requiem - Morthal Barrow Patch](https://www.nexusmods.com/skyrimspecialedition/mods/120704)
+* [Requiem - Vendor tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/93204)
+* [Wormpie's Hagravens (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/91607)
+* [Requiem - Wormpie's Hagravens Patch](https://www.nexusmods.com/skyrimspecialedition/mods/120528)
 
 **Removed**
 
