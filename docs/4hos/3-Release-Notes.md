@@ -89,6 +89,9 @@ Save Safe? NO
 * [Requiem - Vendor tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/93204)
 * [Wormpie's Hagravens (SE)](https://www.nexusmods.com/skyrimspecialedition/mods/91607)
 * [Requiem - Wormpie's Hagravens Patch](https://www.nexusmods.com/skyrimspecialedition/mods/120528)
+* [Faction - Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513)
+* [Faction - Pit Fighter - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/42340)
+* [No Morthal Snow - Redone](https://www.nexusmods.com/skyrimspecialedition/mods/95749)
 
 **Removed**
 
@@ -111,6 +114,10 @@ Save Safe? NO
 * [Animated Poisons](https://www.nexusmods.com/skyrimspecialedition/mods/72849)
 * [Animated Ingredients](https://www.nexusmods.com/skyrimspecialedition/mods/72852)
 * [Simple Leather Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/84855)
+* [POISE - Stagger Overhaul SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/72653)
+* [POISE - Stagger Overhaul - NG](https://www.nexusmods.com/skyrimspecialedition/mods/72692)
+* [POISE Don't showing Magic Effect](https://www.nexusmods.com/skyrimspecialedition/mods/74101)
+* [Sekiro Combat S - POISE Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/79962)
 
 **Updated**
 
@@ -246,6 +253,20 @@ Save Safe? NO
   > 2.0.8 to 4.2.1
 * Sleeves of Skyrim
   > 1.0 to 1.1
+* Immersive Armors - Asdasfa Tweaks and Fixes
+  > 1.8 to 1.13.1
+* Silver Armor and Weapons Retexture SE
+  > 1.0 to 2.0.1
+* Dragon Priests Retexture SE
+  > 1.0 to 1.1
+* Vanilla hair remake
+  > 0.34 to 1.0.2
+* Additional Dremora faces
+  > 1.3 to 1.3.7
+* Chooey's Modular SMP Hairstyles Edit
+  > 2.0 to 2.0.1
+* Fluffy Beds and Bedrolls
+  > 1.1 to 1.3
 
 # Release 1.1.3
 Save Safe? YES
