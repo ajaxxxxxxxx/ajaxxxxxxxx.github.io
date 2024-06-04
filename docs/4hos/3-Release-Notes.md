@@ -146,7 +146,7 @@ Save Safe? NO
 * Open Animation Replacer
   > 2.2.2 to 2.3.4
 * SkyPatcher
-  > 2.4.11.1 to 2.4.14
+  > 2.4.11.1 to 2.4.15
 * Media Keys Fix SKSE
   > 1.0 to 1.0.1
 * Dynamic Activation Key
@@ -174,7 +174,7 @@ Save Safe? NO
 * Missives - Worldspace Additions
   > 2.08 to 2.09
 * Time Flies SE
-  > 7.3.18 to 8.0.2
+  > 7.3.18 to 8.1
 * Scared of Shootings - NPCs react to aiming bows
   > 0.2.1 to 0.3
 * Environs - The Shrines of Talos
@@ -235,6 +235,16 @@ Save Safe? NO
   > 0.1 to 0.2
 * Snowy Ships for Snowy Regions
   > 2.1 to 2.5
+* Fixed Mesh Lighting
+  > 1.9 to 1.9.1
+* FYX - Candlehearth Hall Chimney
+  > 1.0 to 1.1
+* Shrubbery Symphony - Enhanced Greenery
+  > 2.0.1 to 2.2.1
+* Terrain Parallax Blending Fix
+  > 2.0.8 to 4.2.1
+* Sleeves of Skyrim
+  > 1.0 to 1.1
 
 # Release 1.1.3
 Save Safe? YES
