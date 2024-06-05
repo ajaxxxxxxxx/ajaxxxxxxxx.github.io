@@ -104,7 +104,6 @@ Save Safe? NO
 * [Majestic Mountains Complex Material](https://www.nexusmods.com/skyrimspecialedition/mods/87547)
 * [Lawf - majestic mountain complex material - cascada fix](https://www.nexusmods.com/skyrimspecialedition/mods/90281)
 * [Atlantean Landscape -Complete- Complex Terrain Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/89542)
-* [Rally's Solstheim Landscapes Complex Terrain Parallax Edition](https://www.nexusmods.com/skyrimspecialedition/mods/82383)
 * [Holy Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/56828)
 * [Holy Mountains - More Accurate Collision](https://www.nexusmods.com/skyrimspecialedition/mods/64962)
 * [Icy Mesh Remaster - Ice Glaciers - LOD - other fixes](https://www.nexusmods.com/skyrimspecialedition/mods/73381)
