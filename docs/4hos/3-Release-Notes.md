@@ -89,6 +89,7 @@ Save Safe? NO
 * [Faction - Pit Fighter](https://www.nexusmods.com/skyrimspecialedition/mods/22513)
 * [Faction - Pit Fighter - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/42340)
 * [No Morthal Snow - Redone](https://www.nexusmods.com/skyrimspecialedition/mods/95749)
+* [Tomato's 8K Mountain Textures Compendium - Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/109986)
 
 **Removed**
 
