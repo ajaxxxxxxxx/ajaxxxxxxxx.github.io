@@ -155,7 +155,7 @@ Save Safe? NO
 * Media Keys Fix SKSE
   > 1.0 to 1.0.1
 * Dynamic Activation Key
-  > 1.02 to 1.10
+  > 1.02 to 1.11
 * Precision Creatures
   > 2.3 to 2.4
 * Immersive Patrols SE AE
@@ -264,6 +264,10 @@ Save Safe? NO
   > 2.0 to 2.0.1
 * Fluffy Beds and Bedrolls
   > 1.1 to 1.3
+* powerofthree's Tweaks
+  > 1.9.2 to 1.10
+* The Ferrymen
+  > 1.1 to 2.0
 
 # Release 1.1.3
 Save Safe? YES
