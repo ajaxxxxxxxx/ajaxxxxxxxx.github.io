@@ -184,7 +184,7 @@ Save Safe? NO
 * Open Animation Replacer
   > 2.2.2 to 2.3.4
 * SkyPatcher
-  > 2.4.11.1 to 2.4.15
+  > 2.4.11.1 to 2.4.16
 * Media Keys Fix SKSE
   > 1.0 to 1.0.1
 * Dynamic Activation Key
@@ -280,7 +280,7 @@ Save Safe? NO
 * Shrubbery Symphony - Enhanced Greenery
   > 2.0.1 to 2.2.1
 * Terrain Parallax Blending Fix
-  > 2.0.8 to 4.2.1
+  > 2.0.8 to 4.3
 * Sleeves of Skyrim
   > 1.0 to 1.1
 * Immersive Armors - Asdasfa Tweaks and Fixes
@@ -290,17 +290,29 @@ Save Safe? NO
 * Dragon Priests Retexture SE
   > 1.0 to 1.1
 * Vanilla hair remake
-  > 0.34 to 1.0.2
+  > 0.34 to 1.0.3
 * Additional Dremora faces
   > 1.3 to 1.3.7
 * Chooey's Modular SMP Hairstyles Edit
   > 2.0 to 2.0.1
 * Fluffy Beds and Bedrolls
-  > 1.1 to 1.3
+  > 1.1 to 1.4
 * powerofthree's Tweaks
   > 1.9.2 to 1.10
 * The Ferrymen
   > 1.1 to 2.0
+* TrueHUD - No Enemy Healthbar Fade Delay
+  > 1.0 to 1.1
+* CoMAP - Common Marker Addon Project
+  > 4.0 to 4.1
+* Static Skill Leveling Rewritten
+  > 1.6 to 1.8
+* Constructible Object Custom Keyword System
+  > 1.0.1 to 1.1.1
+* Oblivion Interaction Icons
+  > 2.1 to 2.2
+* Object Categorization Framework
+  > 5.4 to 5.6.1
 
 # Release 1.1.3
 Save Safe? YES
