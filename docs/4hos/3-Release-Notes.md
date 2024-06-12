@@ -134,6 +134,7 @@ Save Safe? NO
 * [Falmer Servant Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/120995)
 * [Xelzaz - Custom Fully Voiced Argonian Telvanni Follower](https://www.nexusmods.com/skyrimspecialedition/mods/62893)
 * [Requiem - Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/90635)
+* [Lux via - Patch Hub](https://www.nexusmods.com/skyrimspecialedition/mods/116722)
 
 **Removed**
 
@@ -288,7 +289,7 @@ Save Safe? NO
 * FYX - Candlehearth Hall Chimney
   > 1.0 to 1.1
 * Shrubbery Symphony - Enhanced Greenery
-  > 2.0.1 to 2.2.1
+  > 2.0.1 to 2.2.2
 * Terrain Parallax Blending Fix
   > 2.0.8 to 4.3
 * Sleeves of Skyrim
@@ -308,7 +309,7 @@ Save Safe? NO
 * Fluffy Beds and Bedrolls
   > 1.1 to 1.4
 * powerofthree's Tweaks
-  > 1.9.2 to 1.10
+  > 1.9.2 to 1.10.1
 * The Ferrymen
   > 1.1 to 2.0
 * TrueHUD - No Enemy Healthbar Fade Delay
@@ -325,6 +326,24 @@ Save Safe? NO
   > 5.4 to 5.6.1
 * Aura's Inventory Tweaks (More SkyUI Icons Sorting Options and Columns)
   > 4.4.2 to 4.5
+* Particle Patch
+  > 1.2.9 to 1.3
+* Lux Via
+  > 2.1 to 2.2
+* Lux Orbis
+  > 4.2.1 to 4.2.2
+* Embers XD
+  > 2.9.7 to 3.0.3
+* Lux
+  > 6.5.4 to 6.7.1
+* Fluffy Hanging and Floor Pelts
+  > 1.1 to 1.2
+* Caves UV tweaks
+  > 1.0 to 1.2
+* Interesting NPCs (3DNPC) - Patch Collection
+  > 1.7 to 1.8.1
+* Lux - Eternal Flames Patch
+  > 5.6 to 6.0
 
 # Release 1.1.3
 Save Safe? YES
