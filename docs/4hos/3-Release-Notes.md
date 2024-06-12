@@ -129,7 +129,6 @@ Save Safe? NO
 * [Honed Metal Community AE Patch](https://www.nexusmods.com/skyrimspecialedition/mods/80705)
 * [Honed Metal Additional Materials UPDATED](https://www.nexusmods.com/skyrimspecialedition/mods/51254)
 * [NL_MCM - A Modular MCM Framework](https://www.nexusmods.com/skyrimspecialedition/mods/49127)
-* [Precision Trail Replacer - Simple](https://www.nexusmods.com/skyrimspecialedition/mods/83544)
 * [Majestic Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/41857)
 * [Majestic Mountains](https://www.nexusmods.com/skyrimspecialedition/mods/11052)
 * [Majestic Mountains Complex Material](https://www.nexusmods.com/skyrimspecialedition/mods/87547)
@@ -313,6 +312,8 @@ Save Safe? NO
   > 2.1 to 2.2
 * Object Categorization Framework
   > 5.4 to 5.6.1
+* Aura's Inventory Tweaks (More SkyUI Icons Sorting Options and Columns)
+  > 4.4.2 to 4.5
 
 # Release 1.1.3
 Save Safe? YES
