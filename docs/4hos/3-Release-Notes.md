@@ -123,6 +123,17 @@ Save Safe? NO
 * [Sell Unusual Gems - Stones of Barenziah](https://www.nexusmods.com/skyrimspecialedition/mods/17605)
 * [Spell Learning Restriction](https://www.nexusmods.com/skyrimspecialedition/mods/72666)
 * [Mephala's Curse - Whispering Door Quest Addon](https://www.nexusmods.com/skyrimspecialedition/mods/120650)
+* [Utenlands Nordic Tents - Replacer and Campfire Addon](https://www.nexusmods.com/skyrimspecialedition/mods/121203)
+* [CFTO Ferry Integration Patches](https://www.nexusmods.com/skyrimspecialedition/mods/69057)
+* [Song of the Green - Auri Replacer - Ella's version](https://www.nexusmods.com/skyrimspecialedition/mods/23782)
+* [Auri Vampirism Fix (ESL)](https://www.nexusmods.com/skyrimspecialedition/mods/72947)
+* [Thistlefoot Is Totally Stable (Actual Auri Mount Fix)](https://www.nexusmods.com/skyrimspecialedition/mods/114146)
+* [Whiterun Has Walls](https://www.nexusmods.com/skyrimspecialedition/mods/101603)
+* [Google's Locked City Gates](https://www.nexusmods.com/skyrimspecialedition/mods/13133)
+* [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753)
+* [Falmer Servant Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/120995)
+* [Xelzaz - Custom Fully Voiced Argonian Telvanni Follower](https://www.nexusmods.com/skyrimspecialedition/mods/62893)
+* [Requiem - Xelzaz](https://www.nexusmods.com/skyrimspecialedition/mods/90635)
 
 **Removed**
 
