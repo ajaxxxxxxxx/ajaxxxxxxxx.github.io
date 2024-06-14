@@ -199,7 +199,7 @@ Save Safe? NO
 * Media Keys Fix SKSE
   > 1.0 to 1.0.1
 * Dynamic Activation Key
-  > 1.02 to 1.11
+  > 1.02 to 1.12
 * Precision Creatures
   > 2.3 to 2.4
 * Immersive Patrols SE AE
@@ -344,6 +344,20 @@ Save Safe? NO
   > 1.7 to 1.8.1
 * Lux - Eternal Flames Patch
   > 5.6 to 6.0
+* Fabled Forests Patch Compendium
+  > 1.4.1 to 1.6
+* Cities of the North - Falkreath Patch Collection
+  > 1.21.3 to 1.22.1
+* Cities of the North - Morthal Patch Collection
+  > 3.1.1 to 3.2.3
+* JK's Guild HQ Interiors Patch Collection
+  > 1.18 to 1.19.2
+* JK's College of Winterhold (Immersive and Obscure) Combo Patches
+  > 2.6.5 to 2.7
+* Whiterun Exteriors Patch Collection (JK - Ryn's - Capital)
+  > 1.2.1 to 1.2.2
+* Lux - Patch Hub
+  > 6.5.2 to 6.6
 
 # Release 1.1.3
 Save Safe? YES
