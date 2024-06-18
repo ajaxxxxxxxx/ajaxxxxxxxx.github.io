@@ -144,8 +144,6 @@ Save Safe? NO
 * [Radiance Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/19720)
 * [Wandering Merchants - Skyrim and Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/64440)
 * [More to Say](https://www.nexusmods.com/skyrimspecialedition/mods/22622)
-* [Animated Carriage](https://www.nexusmods.com/skyrimspecialedition/mods/112397)
-* [Animated Carriage Additional Route](https://www.nexusmods.com/skyrimspecialedition/mods/112548)
 * [Wounds Overlays For RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/38547)
 * [Wounds Overlays Applied](https://www.nexusmods.com/skyrimspecialedition/mods/107246)
 * [Wounds Overlays Applied Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/113266)
