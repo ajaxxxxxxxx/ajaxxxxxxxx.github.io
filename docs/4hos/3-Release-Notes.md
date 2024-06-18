@@ -158,6 +158,7 @@ Save Safe? NO
 * [Skyrim 3D Icefloes](https://www.nexusmods.com/skyrimspecialedition/mods/20101)
 * [Exhaustion - Incremental Fatigue](https://www.nexusmods.com/skyrimspecialedition/mods/94574)
 * [Weary - Displayed Exhaustion](https://www.nexusmods.com/skyrimspecialedition/mods/102027)
+* [Faction - Pit Fighter - Windhelm Sign Fix Tailored by WiZkiD and Rallyeator](https://www.nexusmods.com/skyrimspecialedition/mods/85169)
 
 **Removed**
 
