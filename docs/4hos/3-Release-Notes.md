@@ -382,6 +382,8 @@ Save Safe? NO
   > 1.2.1 to 1.2.2
 * Lux - Patch Hub
   > 6.5.2 to 6.6
+* DynDOLOD Resources SE 3
+  > Alpha-49 to Alpha-50
 
 # Release 1.1.3
 Save Safe? YES
