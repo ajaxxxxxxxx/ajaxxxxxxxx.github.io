@@ -160,6 +160,7 @@ Save Safe? NO
 * [Weary - Displayed Exhaustion](https://www.nexusmods.com/skyrimspecialedition/mods/102027)
 * [Faction - Pit Fighter - Windhelm Sign Fix Tailored by WiZkiD and Rallyeator](https://www.nexusmods.com/skyrimspecialedition/mods/85169)
 * [Batch Plugin Cleaner for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/59598)
+* [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)
 
 **Removed**
 
