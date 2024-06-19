@@ -160,7 +160,6 @@ Save Safe? NO
 * [Weary - Displayed Exhaustion](https://www.nexusmods.com/skyrimspecialedition/mods/102027)
 * [Faction - Pit Fighter - Windhelm Sign Fix Tailored by WiZkiD and Rallyeator](https://www.nexusmods.com/skyrimspecialedition/mods/85169)
 * [Batch Plugin Cleaner for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/59598)
-* [DynDOLOD DLL NG](https://www.nexusmods.com/skyrimspecialedition/mods/97720)
 
 **Removed**
 
@@ -185,6 +184,7 @@ Save Safe? NO
 * [POISE - Stagger Overhaul - NG](https://www.nexusmods.com/skyrimspecialedition/mods/72692)
 * [POISE Don't showing Magic Effect](https://www.nexusmods.com/skyrimspecialedition/mods/74101)
 * [Sekiro Combat S - POISE Compatibility Patch](https://www.nexusmods.com/skyrimspecialedition/mods/79962)
+* [Immersive Interactions for Quick Loot](https://www.nexusmods.com/skyrimspecialedition/mods/96894)
 
 **Updated**
 
