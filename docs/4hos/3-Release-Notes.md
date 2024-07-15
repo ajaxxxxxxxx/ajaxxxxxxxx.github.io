@@ -7,6 +7,20 @@ Save Safe? NO
 
 **Added**
 
+**Removed**
+
+* [FollowerLivePackage SSE Retranslated](https://www.nexusmods.com/skyrimspecialedition/mods/63490)
+* [Animated Carriage](https://www.nexusmods.com/skyrimspecialedition/mods/112397)
+* [Animated Carriage Additional Route](https://www.nexusmods.com/skyrimspecialedition/mods/112548)
+* [Wandering Merchants - Skyrim and Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/64440)
+
+**Updated**
+
+# Release 1.2 Beta
+Save Safe? NO
+
+**Added**
+
 * [Slightly Better Hagraven Feathers](https://www.nexusmods.com/skyrimspecialedition/mods/117116)
 * [Stress and Fear - A Dynamic Sanity System](https://www.nexusmods.com/skyrimspecialedition/mods/116522)
 * [Persistent Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/118174)
