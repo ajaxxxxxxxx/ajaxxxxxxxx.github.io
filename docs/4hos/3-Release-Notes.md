@@ -15,6 +15,7 @@ Save Safe? NO
 * [Wandering Merchants - Skyrim and Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/64440)
 * [XP32 Maximum Skeleton Special Extended - Fixed Scripts](https://www.nexusmods.com/skyrimspecialedition/mods/44252)
 * [XPMSSE - Nemesis - Papyrus Stack Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60363)
+* [More Tavern Idles - SSE Port](https://www.nexusmods.com/skyrimspecialedition/mods/16757)
 
 **Updated**
 
