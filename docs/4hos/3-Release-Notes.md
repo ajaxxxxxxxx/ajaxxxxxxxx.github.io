@@ -13,6 +13,8 @@ Save Safe? NO
 * [Animated Carriage](https://www.nexusmods.com/skyrimspecialedition/mods/112397)
 * [Animated Carriage Additional Route](https://www.nexusmods.com/skyrimspecialedition/mods/112548)
 * [Wandering Merchants - Skyrim and Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/64440)
+* [XP32 Maximum Skeleton Special Extended - Fixed Scripts](https://www.nexusmods.com/skyrimspecialedition/mods/44252)
+* [XPMSSE - Nemesis - Papyrus Stack Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60363)
 
 **Updated**
 
