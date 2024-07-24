@@ -16,6 +16,8 @@ Save Safe? NO
 * [XP32 Maximum Skeleton Special Extended - Fixed Scripts](https://www.nexusmods.com/skyrimspecialedition/mods/44252)
 * [XPMSSE - Nemesis - Papyrus Stack Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60363)
 * [More Tavern Idles - SSE Port](https://www.nexusmods.com/skyrimspecialedition/mods/16757)
+* [Configurable Real Names for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/17827)
+* [Missives with Configurable Real Names SSE](https://www.nexusmods.com/skyrimspecialedition/mods/65648)
 
 **Updated**
 
