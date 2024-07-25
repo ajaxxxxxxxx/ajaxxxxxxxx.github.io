@@ -36,6 +36,18 @@ Save Safe? NO
 * [Frostfall Spell Monitor Optimized](https://www.nexusmods.com/skyrimspecialedition/mods/65700)
 * [ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/76649)
 * [SkyNames - Second Names for Unique NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/122536)
+* [NPCs Names Distributor](https://www.nexusmods.com/skyrimspecialedition/mods/73081)
+* [NPCs Names Distributor NG](https://www.nexusmods.com/skyrimspecialedition/mods/121921)
+* [Ashlander Nomads Names](https://www.nexusmods.com/skyrimspecialedition/mods/73315)
+* [Daedric Names](https://www.nexusmods.com/skyrimspecialedition/mods/74055)
+* [Dovah Names](https://www.nexusmods.com/skyrimspecialedition/mods/74053)
+* [Dovah Names and Wyrmstooth compatibility patch](https://www.nexusmods.com/skyrimspecialedition/mods/110728)
+* [Reachmen Tribes Names](https://www.nexusmods.com/skyrimspecialedition/mods/73312)
+* [Tamrielic Names](https://www.nexusmods.com/skyrimspecialedition/mods/73153)
+* [NPCs Names Distributor - Patches for Various Mods](https://www.nexusmods.com/skyrimspecialedition/mods/119090)
+* [Main Menu Customizer](https://www.nexusmods.com/skyrimspecialedition/mods/103278)
+* [Main Menu Customizer - Alaxouche's Preset](https://www.nexusmods.com/skyrimspecialedition/mods/111270)
+* [Conditional Dog Barking (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/72336)
 
 **Removed**
 
