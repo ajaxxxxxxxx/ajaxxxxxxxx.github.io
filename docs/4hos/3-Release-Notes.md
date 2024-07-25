@@ -7,6 +7,36 @@ Save Safe? NO
 
 **Added**
 
+* [Auto Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/122915)
+* [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/55653)
+* [Follow the Leader - Nether's Follower Framework Add-On](https://www.nexusmods.com/skyrimspecialedition/mods/58839)
+* [SPID - NFF - Add Ignore Token to CustomAI Followers](https://www.nexusmods.com/skyrimspecialedition/mods/82945)
+* [NFF - Hidden Ignore Tokens in Inventory for Custom AI Followers and Automatic SPID Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/110040)
+* [No More Absorb Swirl Effect](https://www.nexusmods.com/skyrimspecialedition/mods/32269)
+* [Thugs Not Assassins](https://www.nexusmods.com/skyrimspecialedition/mods/34028)
+* [Thugs Not Assassins Extended](https://www.nexusmods.com/skyrimspecialedition/mods/87634)
+* [Thugs Not Assassins Confrontation](https://www.nexusmods.com/skyrimspecialedition/mods/95045)
+* [Alchemy Requires Bottles Redux](https://www.nexusmods.com/skyrimspecialedition/mods/44053)
+* [Alchemy Requires Bottles Redux - Patches and SkyPatcher Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/122607)
+* [Addons for 'Alchemy Requires Bottles Redux'](https://www.nexusmods.com/skyrimspecialedition/mods/45336)
+* [Mac's Empty Bottles for Alchemy Requires Bottles Redux - Awesome Potions Simplified Version](https://www.nexusmods.com/skyrimspecialedition/mods/78552)
+* [Dino's Spell Discovery](https://www.nexusmods.com/skyrimspecialedition/mods/43929)
+* [Snazzy Common Wardrobes - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/92809)
+* [Snazzy Upper Wardrobes - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/92752)
+* [Snazzy Noble Wardrobes - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/92493)
+* [Follower Dialogue Expansion - Uthgerd the Unbroken](https://www.nexusmods.com/skyrimspecialedition/mods/122487)
+* [Ascend - Hidden Peaks of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/120802)
+* [Requiem - Immersive Divine Blessings Redone - Experience Patch](https://www.nexusmods.com/skyrimspecialedition/mods/112230)
+* [Draugrs - New models and textures](https://www.nexusmods.com/skyrimspecialedition/mods/123170)
+* [Draugrs - My patches - SE by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/123225)
+* [Draugrs New Model - Dragon Priest](https://www.nexusmods.com/skyrimspecialedition/mods/123902)
+* [Thief Experience (Experience Add-on)](https://www.nexusmods.com/skyrimspecialedition/mods/61857)
+* [Lightning VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/124520)
+* [Castigate - Next gen Magic SFX -](https://www.nexusmods.com/skyrimspecialedition/mods/119239)
+* [Frostfall Spell Monitor Optimized](https://www.nexusmods.com/skyrimspecialedition/mods/65700)
+* [ConsoleUtilSSE NG](https://www.nexusmods.com/skyrimspecialedition/mods/76649)
+* [SkyNames - Second Names for Unique NPCs](https://www.nexusmods.com/skyrimspecialedition/mods/122536)
+
 **Removed**
 
 * [FollowerLivePackage SSE Retranslated](https://www.nexusmods.com/skyrimspecialedition/mods/63490)
@@ -20,6 +50,11 @@ Save Safe? NO
 * [Missives with Configurable Real Names SSE](https://www.nexusmods.com/skyrimspecialedition/mods/65648)
 
 **Updated**
+
+* Experience
+  > 3.3 to 3.4.4
+* Experience - MCM
+  > 1.3 to 1.4
 
 # Release 1.2 Beta
 Save Safe? NO
