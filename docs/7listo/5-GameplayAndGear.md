@@ -22,3 +22,11 @@ description: Listonomicon
 ## Shopping, Merchants, Withers
 
 Withers is now a merchant! Press the trade button at the bottom-left when talking to him. Dyes and camp clothes have been moved off of normal vendors and to Withers, reducing the ridiculous amount of clutter otherwise on each merchant. Withers will also sell food. He has 50,000 gold, making him the most convenient place to dump your trash pile.
+
+## Multiplayer Compatiblity
+
+While somewhat niche, an advantage to using a curated list is easy mod list sharing between players, which should make cooperative play easy. Please note that many mods are not believed to affect multiplayer (such as UI replacers), and some may affect multiplayer in unexpected ways. Maintaining multiplayer compatibility is a tertiary goal of Listonomicon. There may be mods in the future that break COOP, but are so compelling that we sacrifice COOP for the best single player experience. We would like Listonomicon to be a COOP ready package, however, and will include basic instructions for what to enable/disable.
+
+:::warning
+Currently, it appears that custom classes/subclasses cause an issue with multiplayer games being able to start correctly. All players must pick a vanilla class/subclass during the tutorial, and will have to wait until Withers is unlocked to respec. Coop with more than 4 players is not supported.
+:::
