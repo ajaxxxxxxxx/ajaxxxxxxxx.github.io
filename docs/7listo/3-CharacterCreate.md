@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Character Creation & Leveling 
+title: Class, Feats, Features, Leveling, Character Creation and Customization, and other Gameplay Notes 
 nav_order: 3
 description: Listonomicon
 ---
@@ -13,21 +13,20 @@ description: Listonomicon
 Do not hit “Randomize Appearance.” It will result in a CTD :)
 ::: 
 
-- Listonomicon offers many new custom head meshes, makeup options, colors, tones, piercings, and hairstyles. While each of these mods are the hard work of mod makers, they were not all designed to work together - many combinations will suffer from clipping, and other issues.
-- These are not issues that can be fixed by changing Listonomicon, nor are they issues that mod makers are likely to rush to address. Many piercings will not look correct on short races, orcs, or dragonborn; and hair will not be in the correct place.
-- Visual effects, like those for Speak With Dead, are assigned according to a file that is not natively dynamic. This means that for many heads added by mods and vanilla heads to all have working VFX, community framework mod solutions are required.
-- - Listonomicon is testing a patch tool that offers to extend working VFX to all heads in races.lsx, but please report if this is not working for you.
+- Listonomicon offers many new custom head meshes, which can (and many times do) conflict with new piercings and hairstyles. Specifically, piercings and hairstyles that try to apply physics can be wonky - this is not the fault of the cosmetic mod makers, and it is not really within the power of Listo to fix these conflicts.
+- If your Character Creation menu is missing sections, try disabling the “CC Cleaner” mod and try again. It is unknown why this mod breaks character creation for some players.
 
-## Class, Feats, Features, and Leveling Notes
+## Changes to Class Features, Feats, Progression, Challenge and Leveling Notes
 	
-- Listonomicon progression features feats every 3 class levels. This means ASIs and feat selection will happen at class level 3, 6, 9, 12, 15, and 18 (not 4, 8, 12, etc).
-- You will be able to squeeze one additional feat into your career, and multiclass dips can stop at 3 or 6 without missing a feat/ASI.
-- The level scale goes all the way to 20, with all classes and subclasses able to be played 1-20 or mixed with multiclassing. Check [UnlockLevelCurve notes](https://www.nexusmods.com/baldursgate3/mods/377) as not all base game classes have been updated equally, and not all spells are able to take advantage of higher level spell slots.
+Listonomicon progression features feats every 3 class levels. This means ASIs and feat selection will happen at class level 3, 6, 9, 12, 15, and 18 (not 4, 8, 12, etc). You will be able to squeeze one additional feat into your career (6 total), and multiclass dips can stop at 3 or 6 without missing a feat/ASI. Fighters/Rogues do not earn extra feats vs other classes.
 
-- The XP curve of Listonomicon is customized. UnlockLevelCurve, by default, requires about 365,000 XP to achieve level 20, and base BG3 requires 100,000 XP to achieve level 12.
-- Achieving level 20 in Listonomicon requires (total) 273,404 XP. There is much more than 273k XP available in the game for completionist players, but even players who only play the story and major side quests while skipping many optional encounters and small quests can expect to reach level 17+ in Act 3.
-- The leveling scale is not just extended to 20, it is also accelerated - with the goal being a “1.5x speed” experience. In addition, many enemies will be encountered at a higher level; their increased HP, stats, and spells are compensated with increased XP.
+The level scale goes all the way to 20, with all classes and subclasses able to be played 1-20 or mixed with multiclassing.
 
-- Note that levels 1-5 do not follow the semi-linear progression curve; the intent is to leave the Nautiloid and land on the beach already at level 5. This should help avoid some (very) early game suffering, encourage build variety, and enable multiclassing or essential feat selection sooner.
+The XP curve of Listonomicon is customized. Theoretically, by default BG3 requires about 365,000 XP to achieve level 20, and 100,000 XP to achieve level 12. Achieving level 20 in Listonomicon requires (total) 383,917 XP. There is much more than 380k XP available in the game for completionist players, but even players who only play the story and major side quests while skipping many optional encounters and small quests can expect to reach level 16+ in Act 3. 
+Listo’s level curve is a little strange. Levels 1-3 are very fast; so fast in fact, that you should already by level 3 at the end of the tutorial imp fight. The road to level 6 is quick, and will be completed by the time you 100% “The Beach” (Grove storyline, gnolls, zhent, etc - everything before Underdark and before Creche). Progression around level 10 is closer to vanilla, then steadily slows down on the way to level 20. Keep in mind that the overall experience will most likely still be faster than vanilla BG3, due to [Encounters Overhaul adding more Act 1 and Act 2 encounters](https://www.nexusmods.com/baldursgate3/mods/7740?tab=description).
 
-- Totemic barbarians (“Wildheart” in BG3) are now more dynamic, with the [ability to shift between totemic animal benefits](https://www.nexusmods.com/baldursgate3/mods/8274) when they rage or during rages.
+- Totemic barbarians (“Wildheart” in BG3) are now more dynamic, with the ability to [shift between totemic animal benefits when they rage or during rages](https://www.nexusmods.com/baldursgate3/mods/8274?tab=description). In addition, [Reckless Attack is a toggled feature](https://www.nexusmods.com/baldursgate3/mods/10924) rather than something chosen at the time of attacking (or time of missing).
+- Rogues now receive a “[Smart Cunning Action](https://www.nexusmods.com/baldursgate3/mods/8906?tab=description)” that functions much closer to the rulebooks. As a bonus, the improved bonus action is extended to monks and rangers where appropriate.
+- Circle of Spore Druids have [more variety in their, well, spores](https://www.nexusmods.com/baldursgate3/mods/11252?tab=description). In addition, they gain [extra attack at 5th level](https://www.nexusmods.com/baldursgate3/mods/4018?tab=description) (does not stack with extra attack from any other class). All druids benefit from [QoL features reducing the number of incompatibilities between wild shape, and benefiting from magic items or spellcasting](https://www.nexusmods.com/baldursgate3/mods/3214).
+- Illithid Powers are [significantly revamped](https://www.nexusmods.com/baldursgate3/mods/5105?tab=files).
+- Wild Magic Sorcerers have an [incremental chance of triggering a surge](https://www.nexusmods.com/baldursgate3/mods/9603), and the [list of possible wild magic surges](https://www.nexusmods.com/baldursgate3/mods/2967) is much larger.
