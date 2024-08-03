@@ -6,15 +6,17 @@ description: Listonomicon
 ---
 
 # Welcome to Listonomicon
-The goal of the “Listonomicon” is to be an out-of-the-box experience that enhances Baldurs Gate 3’s UI, qualit 
-# [Install instructions](https://www.modlists.net/docs/7listo/Install) and [Listo Game Guide](https://www.modlists.net/docs/7listo/GameBalance)
+The goal of the “Listonomicon” is to be an out-of-the-box experience that enhances Baldurs Gate 3’s UI, quality of life, features, gameplay, and challenge.
+# [Install Instructions](https://www.modlists.net/docs/7listo/Install) and [Listo Game Guide](https://www.modlists.net/docs/7listo/GameBalance)
 
 # Releases (Newest to Oldest)  
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
 # Listonomicon v1.0
+
 That's right baby, 1.0. We did it, Reddit!
+
 Save safe: Hell no homie. I'd nuke your whole setup and start fresh.
 
 1. ADDED an optional mods section. Please read notes on the new website or the old Listo Mod Identification excel sheet for instructions on how to enable and use these. Those of you seeking more of a challenge in Listonomicon, rejoice! Those of you who like summoner gameplay but don't want to micro manage all of your summons, rejoice! Those of you who want to have every character in your party during cutscenes, but not during combat, rejoice!
