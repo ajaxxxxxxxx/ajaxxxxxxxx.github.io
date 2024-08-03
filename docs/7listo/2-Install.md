@@ -29,6 +29,7 @@ If you do not want to download manually, install Listonomicon through Wabbajack 
 
 :::note
 But wait, what if I don't want to download all 390+ Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option! In that case, you can manually download Listonomicon LITE.wabbajack from the [Nexus Page](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description). Refer back to step 2 for manual installation instructions.
+When you launch BG3MM, you will get an error saying hundreds of mods are missing. Hit the option to remove missing mods and clear errors, then save and export the list to game.
 :::
 
 ### 4.) Script Extender
