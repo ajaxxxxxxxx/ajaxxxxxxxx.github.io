@@ -21,23 +21,23 @@ description: Listonomicon
 
 ### 2.) Manually Downloading the List
 
-- You can manually grab a copy of Listonomicon [here](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description) and use Wabba’s “Install from disk,” or you can search the unofficial gallery for Listonomicon and download that way.
+You can grab a copy of Listonomicon.wabbajack [here](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description) and use Wabba’s “Install from disk,” or you can search the unofficial gallery for Listonomicon and download that way.
 
 ### 3.) Downloading the list from the Gallery
 
-- If you do not want to download manually, install Listonomicon through Wabbajack as normal. The download icon will be replaced with a play icon, on the next page you can choose an install location. Make sure to install the list to somewhere that is not in a protected folder (such as Downloads, Documents, etc) and not inside your Baldur’s Gate 3 install. For example, install to H:\Games\Listonomicon, with mods downloaded to H:\Games\Listonomicon\downloads.
+If you do not want to download manually, install Listonomicon through Wabbajack as normal. The download icon will be replaced with a play icon, on the next page you can choose an install location. Make sure to install the list to somewhere that is not in a protected folder (such as Downloads, Documents, etc) and not inside your Baldur’s Gate 3 install. For example, install to H:\Games\Listonomicon, with mods downloaded to H:\Games\Listonomicon\downloads.
 
 :::note
-But wait, what if I don't want to download all 390+ Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option! In that case, you can manually download Listonomicon LITE.wabbajack from the [Nexus Page](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description).
+But wait, what if I don't want to download all 390+ Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option! In that case, you can manually download Listonomicon LITE.wabbajack from the [Nexus Page](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description). Refer back to step 2 for manual installation instructions.
 :::
 
 ### 4.) Script Extender
 
-- Download the [Script Extender](https://github.com/Norbyte/bg3se/releases) and install to [game install path]\Baldurs Gate 3\bin. You can also install Script Extender by launching BG3MM (from Mod Organizer 2) and going to tools -> download Script Extender. Some users can use both options, some users only work when using one or the other, nobody knows why.
+Download the [Script Extender](https://github.com/Norbyte/bg3se/releases) and install to [game install path]\Baldurs Gate 3\bin. You can also install Script Extender by launching BG3MM (from Mod Organizer 2) and going to tools -> download Script Extender. Some users can use both options, some users only work when using one or the other, nobody knows why.
 
 ### 5.) Finalizing Mod List Settings
 
-- Once the modlist download has completed, navigate to where you downloaded your Listonomicon (e.g. H:\Listonomicon\downloads) and find “zzz_Listonomicon Mod Settings.” Open the zip file and copy/paste its contents to %AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender (create the Script Extender folder if it does not exist).
+Once the modlist download has completed, navigate to where you downloaded your Listonomicon (e.g. H:\Listonomicon\downloads) and find “zzz_Listonomicon Mod Settings.” Open the zip file and copy/paste its contents to %AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender (create the Script Extender folder if it does not exist).
 
 ### 6.) Preparing Steam
 
