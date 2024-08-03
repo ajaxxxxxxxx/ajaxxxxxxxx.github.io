@@ -48,7 +48,7 @@ BG3 is still receiving Patches (major updates) and Hotfixes (small updates). The
 ### 7.) Launching MO2
 
 - Your portable instance of Mod Organizer 2 should be ready as soon as Wabbajack is done. However, you can verify that everything is working by ensuring that it has defaulted to the correct profile at the top-left, which should be Listonomicon.
-- Your total number of active mods should be 392. The colored separator at the top of your mod list should say Listonomicon v1.0.
+- **Your total number of active mods should be 390. The colored separator at the top of your mod list should say Listonomicon v1.0.**
 - At the top-right, you should be able to switch the program to launch to the BG3 Mod Manager (BG3MM).
 
 ### 8.) Deploying Mod Configuration Files
