@@ -13,6 +13,76 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v1.0
+That's right baby, 1.0. We did it, Reddit!
+Save safe: Hell no homie. I'd nuke your whole setup and start fresh.
+
+1. ADDED an optional mods section. Please read notes on the new website or the old Listo Mod Identification excel sheet for instructions on how to enable and use these. Those of you seeking more of a challenge in Listonomicon, rejoice! Those of you who like summoner gameplay but don't want to micro manage all of your summons, rejoice! Those of you who want to have every character in your party during cutscenes, but not during combat, rejoice!
+2. ADDED Fix Wall of Fire (which also fixes Wall of Ice), allowing the spell to inherit save DC and damage benefits from the elemental adept feat.
+3. ADDED Megamagic Extended, giving sorcerers a few more options.
+4. ADDED Favored Soul, for divine sorcery.
+5. ADDED College of Eloquence.
+6. ADDED College of Creation.
+7. ADDED Way of the Ascendant.
+8. ADDED Oath of Zeal.
+9. ADDED Shields Revised, changing the features of a small number of magic shields.
+10. ADDED Combat Console Commands. While this is not expected to be used by players, it builds a final brute force option in for fights that are bugged out or causing crashes.
+11. ADDED Sword of the Emperor, so your dream visitor's big reward isn't so bloody lame.
+12. ADDED Better End Game Caster, which improves Robe of the Weave to be better.
+13. ADDED Arcanist Feat. While this may appear niche to many players, it opens a limited caster utility option to all characters.
+14. ADDED Permanent Weapon Bond, allowing Eldritch Knight weapon bonds to persist through long rests.
+15. ADDED Event Auto Save, which will now initiate autosaves when entering the camp, taking short rests, or trading with merchants (you can enable more options in the MCM).
+16. ADDED Circle of Spore Druid Damage Choices and Spore Druid Extra Attack. This means Spore druids are no longer locked to necromancy damage, and gain one extra attack at level 5, overall creating a much more compelling option.
+17. ADDED Spells Enhanced - Shillelagh.
+18. ADDED Heart of Enver Gortash. If you are Durge you will find out what this means.
+19. ADDED Path of the Ancestral Guardian.
+20. ADDED Illithid Powers Overhaul 2.
+21. ADDED Orin's True Bossfight, turning into a 2-phase encounter during Dark Urge playthroughs.
+22. ADDED Warlock Spell List Fixer, improving modded subclass access to spells from mods.
+23. ADDED Valkrana's Undead Encounters, and its prequisites. This adds more undead encounters to Act 1, 2, and 3; and greatly expands the variety of summonable undead.
+24. ADDED Reduce NPC Banter Repetiveness. This is configured to allow NPCs to repeat themselves, but now they will wait much, much longer to do so. You don't have to listen to Jaheria's racist remarks about tiefling children every 5 seconds, or hear the mages outside Lorakan's tower spam their party tricks over and over again. You can further tweak this in the MCM.
+25. ADDED pickpocketing tweaks, making pickpocketing gold and heavy objects more difficult.
+26. ADDED Relative Ability Boost Items. This changes many "set stat to x" items to instead be "increase stat +x" items. This decreases how much stat dumping is possible in Listo, but it also increases the ability to exceed 20 in more stats.
+27. ADDED NPC Visual Overhaul for Aylin, Cazador, and the Druids (yes I know Aaron comes out looking weird and the changes to Kagha might be controversial - give us feedback).
+28. ADDED Poesielibre's Fair Eye Colors.
+29. ADDED Myky's Heads.
+30. ADDED Vlaakith's Chosen.
+31. ADDED Wayward Faces.
+32. ADDED Half Orc Heads.
+33. ADDED Kirby's Hair Pack.
+34. ADDED Pretty Boys.
+35. OPTIONAL MODS: Absolute Wrath, Valkrana's Skeletal Challenge, Sit This One Out 2, Enemy Stats (enabled in Listo by default with features turned off), Smarter AI, Exhaustion, Automated Summons, PF2e Spells, Randomized Equipment Loot, Intelligent Warlock, Loot From Chasms.
+36. REMOVED Scars and Horror Head Presets.
+37. REMOVED Death Domain Cleric.
+38. REMOVED Waypoint Inside Emerald Grove.
+39. REMOVED Fast 3 Quick 20, Fast 3 Quick 6 Slow 20, and any other XP mods. Expansion now does this.
+40. REMOVED More Soul Coins.
+41. REMOVED Valdacil's Half-Illithid Effect Toggle.
+42. REMOVED Achievement Enabler (Script Extender handles this).
+43. REMOVED Medusae's Hairs.
+44. REMOVED Lydia's Heads - Dark Seldarine.
+45. REMOVED Medusae's Muses.
+46. REMOVED Alt M Half-Elf Head 2.
+47. REMOVED REn's Hair Pack.
+48. REMOVED Tepkunset Hair Collection.
+49. REMOVED Long Hairs.
+50. REMOVED P4 NPC and Outfit Inspired Dyes.
+51. REMOVED Maratini's Compendium of Countenances.
+52. REMOVED Extra Game Hairs.
+53. REMOVED Bigger Vanilla Hairs.
+54. REMOVED Faces of Faerun.
+55. REMOVED Yves Hairs.
+56. REMOVED Misc Mods.
+57. REMOVED Elgoth's head and Hair and Scars.
+58. REMOVED Party Limit Begone (now handled by Configurable Party Limit via MCM).
+59. REMOVED Purchaseable Camp Clothes (camp clothes for sale with Withers).
+60. REMOVED JWL Crafting Framework.
+61. REMOVED Sussur Weapons Expanded.
+62. REMOVED Soul Smithing.
+63. REMOVED Thrown and Unarmed Reckless Attack.
+64. RREMOVED Better Hex Icons (redundant with Valdacil's mods).
+65. REMOVED patches and prequisites related to other removed mods.
+
 # Listonomicon v0.9.9.99
 Fixing Stragglers
 Save safe? Kinda from v0.9.9.9
