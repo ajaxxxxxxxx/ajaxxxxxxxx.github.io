@@ -18,6 +18,10 @@ Finally, a big “Thank you!” to the cthnonauts who volunteered to struggle wi
 
 -Ajax
 
+<p align="center">
+  <img width="400" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listonomicon.png" alt="Abandon all hope, ye who enter here!">
+</p>
+
 :::caution
 ## **What is it Not?**
 Listonomicon aims to achieve a seamless feel from a vanilla first playthrough, to an enhanced second playthrough premium experience. This means that Listonomicon will not include:
@@ -56,3 +60,5 @@ No support is offered or guaranteed for anyone who modifies the behavior or cont
 
 Please source all help to our discord alone. Even if you think that your question relates to your installation of Baldur's Gate 3 itself, please bring it into our discord. The authors of the many, many mods of Listonomicon do not want to diagnose problems in a list this large.
 :::
+
+![BirdJax](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/BirdJaxBae.png)
