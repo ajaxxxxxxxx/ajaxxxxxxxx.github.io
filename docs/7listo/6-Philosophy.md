@@ -33,4 +33,4 @@ At the end of the day, Listo's goal is to give you even more BG3. But you may di
 
 ## Have suggestions to make Listonomicon better?
 
-The easiest way to get in touch with us is to join our Discord. Make sure to grab the @Listonomicon role, and then post your suggestions in #listo-suggestions. Familiarize yourself with the list's philosophy before suggesting things that will be categorically denied (such as classes that lack level 20 progression, anime katanas, or mechs).
+The easiest way to get in touch with us is to [join our Discord](https://discord.gg/boneyard-creations-415287319982112768). Make sure to grab the @Listonomicon role, and then post your suggestions in #listo-suggestions. Familiarize yourself with the list's philosophy before suggesting things that will be categorically denied (such as classes that lack level 20 progression, anime katanas, or mechs).
