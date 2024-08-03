@@ -18,9 +18,7 @@ Finally, a big “Thank you!” to the cthnonauts who volunteered to struggle wi
 
 -Ajax
 
-<p align="center">
-  <img width="400" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listonomicon.png" alt="Abandon all hope, ye who enter here!"><img>
-</p>
+<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listonomicon.png">
 
 :::caution
 ## **What is it Not?**
