@@ -18,7 +18,7 @@ Finally, a big “Thank you!” to the cthnonauts who volunteered to struggle wi
 
 -Ajax
 
-<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listonomicon.png"> </img>
+<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listonomicon.png"/>
 
 :::caution
 ## **What is it Not?**
