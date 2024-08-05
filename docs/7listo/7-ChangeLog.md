@@ -14,10 +14,13 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
 # Listonomicon v1.0
-
 That's right baby, 1.0. We did it, Reddit!
 
-Save safe: Hell no homie. I'd nuke your whole setup and start fresh.
+Save safe: Extremely no.
+
+Note: With Expansion 13-20 replacing my own custom XP curve mods, the amount of XP needed to level up is now able to be edited via MCM. While this may seem tempting, please note that editing XP requirements mid-playthrough is liable to break the leveling system completely. If you wish to customize XP, you should make your edits via the config file outside of the game, or make your edits in-game with the MCM on a sacrificial save. THEN START A NEW GAME with your XP curve active. If you do not hit level 3 after fighting the tutorial imps, you probably did you follow install instruction #5 and apply (or update) mod settings.
+
+Compared to the previous version of Listo, about 17k XP was removed from the total journey of level 1-20 making it much more possible to reach level 20 in Listonomicon without chasing optimal max XP gains on every quest/encounter (eg choosing peaceful solutions to quests and thus not getting XP for people you would have killed otherwise, shouldn't lock you out of level 20).
 
 1. ADDED an optional mods section. Please read notes on the new website or the old Listo Mod Identification excel sheet for instructions on how to enable and use these. Those of you seeking more of a challenge in Listonomicon, rejoice! Those of you who like summoner gameplay but don't want to micro manage all of your summons, rejoice! Those of you who want to have every character in your party during cutscenes, but not during combat, rejoice!
 2. ADDED Fix Wall of Fire (which also fixes Wall of Ice), allowing the spell to inherit save DC and damage benefits from the elemental adept feat.
