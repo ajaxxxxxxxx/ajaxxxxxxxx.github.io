@@ -14,6 +14,8 @@ description: Listonomicon
 - A Nexus Account (Premium Recommended; Drastically Increases Install Speed)
 :::
 
+![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/bol.png)
+
 ### 1.) Reinstall Baldur's Gate 3
 
 - **Nuke BG3** (optional but highly recommended): Uninstall the game completely, delete anything left of the install folder, and delete the contents of %appdata%\Local\Larian Studios. This is to ensure no errant files are leftover from previous playthroughs and is especially important for preventing data mismatches preventing multiplayer. Nuking everything improves the odds that Listo works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with Listo.
@@ -29,7 +31,7 @@ If you do not want to download manually, install Listonomicon through Wabbajack 
 
 :::note
 But wait, what if I don't want to download all 390+ Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option! In that case, you can manually download Listonomicon LITE.wabbajack from the [Nexus Page](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description). Refer back to step 2 for manual installation instructions.
-When you launch BG3MM, you will get an error saying hundreds of mods are missing. Hit the option to remove missing mods and clear errors, then save and export the list to game.
+When you launch BG3MM, you will get an error saying hundreds of mods are missing. Hit the option to remove missing mods and clear errors, then save and export the list to game. **The "lite" version of Listo will be periodically updated to match major Listonomicon revisions, but will not be kept 1:1 up to date with Listo on a regular basis.**
 :::
 
 ### 4.) Script Extender
@@ -39,6 +41,10 @@ Download the [Script Extender](https://github.com/Norbyte/bg3se/releases) and in
 ### 5.) Finalizing Mod List Settings
 
 Once the modlist download has completed, navigate to where you downloaded your Listonomicon (e.g. H:\Listonomicon\downloads) and find “zzz_Listonomicon Mod Settings.” Open the zip file and copy/paste its contents to %AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender (create the Script Extender folder if it does not exist).
+
+:::info
+Do not forget to repeat this step when updating Listonomicon! For maximum safety, delete the contents of %AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender and then repeat step 5 when updating the list, to ensure that any old/unneeded mod settings are gone and any new/updated mod settings are added correctly.
+:::
 
 ### 6.) Preparing Steam
 
@@ -70,15 +76,15 @@ BG3 is still receiving Patches (major updates) and Hotfixes (small updates). The
 
 ### 10.) Playing the List
 
-- Launch the game via MO2. Using the drop-down at the top right, switch the program to be launched to either the Vulkan or DX version of the game, depending on which has better performance/compatibility with your system. Everything else should work like normal! Always launch the game this way to prevent Steam from forcing updates. Do not launch the game via Steam or BG3MM.
+Launch the game via MO2. Using the drop-down at the top right, switch the program to be launched to either the Vulkan or DX version of the game, depending on which has better performance/compatibility with your system. Everything else should work like normal! Always launch the game this way to prevent Steam from forcing updates. Do not launch the game via Steam or BG3MM.
 
 ### 11.) In Game Settings
 
 :::caution
-You must change Animation Level of Detail to High in your Visual Settings. Otherwise, any heads added or changed by mods will suffer from visual bugs and animation issues.
+You must change Animation Level of Detail to High in your Visual Settings. Otherwise, any heads added or changed by mods will suffer from visual bugs and animation issues. Any/all other graphics settings can be changed according to your PC specs.
 :::
 
-- You should begin a new game on Custom Difficulty to have the same experience Listonomicon was play tested for. Custom mode has been modified to replace the default settings with the Listo-intended experience.
+You should begin a new game on Custom Difficulty to have the same experience Listonomicon was play tested for. [Custom mode has been modified](https://www.nexusmods.com/baldursgate3/mods/9310) to replace the default settings with the Listo-intended experience.
 
 ### 12.) [Better Hotbar 2](https://www.nexusmods.com/baldursgate3/mods/2417?tab=description) 
 
