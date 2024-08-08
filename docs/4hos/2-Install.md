@@ -32,15 +32,18 @@ description: Halls of Sovngarde Installation Guide
 
 ### 7.) At the top left of MO2, go to Tools/Settings/Paths/Managed Game. Make sure that this is set to your Halls of Sovngarde folder & not your Vanilla Skyrim (IE: C:/HoS/Stock Game/SkyrimSE.exe)
 
+> The following steps will need to be done every time the list is installed/updated
+
 ### 8.) At the top left of MO2, click on the puzzle icon which will open up a dropdown menu for various tools. Choose Set CPU Affinity and first clear if there's anything there, then select the tool again and change the affinity
 
-### 9.) You can now select “Halls of Sovngarde” from the right hand dropdown and press play
+### 9.) If you don't use an Nvidia RTX GPU, disable NVIDIA Reflex Support and both Skyrim Upscaler mods then set "bUseTAA" to 1 in skyrimprefs.ini
+
+### 10.) You can now select “Halls of Sovngarde” from the right hand dropdown and press play
 
 :::tip
 # Optional Post-Install Steps
 
-- If you don't use an Nvidia RTX GPU, disable NVIDIA Reflex Support and both Skyrim Upscaler mods then set "bUseTAA" to 1 in skyrimprefs.ini
-- An optional low profile is now provided with most texture mods removed 
+- [This](https://docs.google.com/document/d/12QomWYtzGeq62f6MZ-gMKf62Go1AhRFo/mobilebasic) guide can be followed to change some of the included ini's to more performance friendly versions  
 - If instead of CS you want to run an ENB, first, enable mods under the separator "Enable for All ENB", then find the appropriate ENB separators and enable all mods under one of them
 - For each plugin, place it where shown, if not shown, place above Embers XD.esp
 
