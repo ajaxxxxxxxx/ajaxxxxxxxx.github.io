@@ -13,6 +13,30 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v1.0.1
+
+Because sometimes you have to fix the 1.0 right away :(
+
+Save safe: Yes* for most players. No for anyone who is playing (or has in their party) a head from [MISSING GODS Head Presets](https://www.nexusmods.com/baldursgate3/mods/10365), or is playing a Shadar-kai from the [Fantastical Multiverse mods](https://www.nexusmods.com/baldursgate3/mods/215).
+
+1. ADDED Unique Gear: Helm of Balduran, to make the semi-hidden encounter reward feel a little less bad.
+2. ADDED Unique Gear: Balduran's Giantslayer, to make a titular legendary worth its name.
+3. ADDED Voice of the Circle Enhanced, to make the back-and-forth with the mushroom folk worth the hassle.
+4. ADDED Dragonborn and Dragonbreath Unleashed - Standalone - Dragonbreath Unleashed - Per Combat (geez what a mouthful). This changes the dragonborn's breath attack into a once-per-combat ability, so you no longer save it for "a cool moment" just to long rest and realize you never touched it.
+5. ADDED Dragonborn Stronger Breath Weapon. This increases the speed with which the dragonborn breath weapon increases to damage, gaining an extra d6 every 4 levels. So by 8th level it's essentially a burning hands on-demand, and by 20th level it's almost as good as a fireball.
+6. ADDED More Mithral Ore. This game adds a handful of extra mithral ore pieces that can be found throughout Act 1/2, allowing players to forge extra adamantium gear. Note that extra ore will not retroactively spawn into an active game, so anyone updating mid act 1 will not find extra ore until they enter act 2.
+7. ADDED Increase Paladin Aura Range. Your paladins are now able to project their divine or profane AoE buffs out to 15m just like in the tabletop. You no longer need to be holding hands with/french kissing/getting a piggyback ride for your paladin to share their buffs (vanilla range is 3m!). Probably applies to enemies too.
+8. ADDED Racial Height Variation. Elves are now slightly shorter, half orcs are slightly larger, halflings are slightly smaller, gith are slightly taller. All of the changes are a 5% or less adjustment so not drastic unto themselves, but a cosmopolitan party certainly looks more distinct now with towering orcs and slender elves!
+9. ADDED Sparrow's Gilded Dragonscales. Dragonborn finally getting love from the mod community :)
+10. ADDED Cryptic Shadows: Playable Shadar-Kai. You can find them as an elf subrace option now.
+11. REMOVED the Shadar-Kai file for Fantastical Multiverse.
+12. REMOVED Missing Gods heads.
+13. OPTIONAL MODS: Appearance Edit Enhanced and Appearance Edit Origins is now included in Listo. This allows you to respec characters for free and change their appearance, both features I have tested and they work very well. There is also a 'Resculpt' option that I believe allows you to alter body types or even the race of your companions, which I have not tested.
+14. UPDATED Listo mod settings. Specifically, I found the file (I think) for auto loot seller that was forcing all of MY personal junk list items onto all of your games (which is why mundane things like scimitars and armor were being marked as junk, instead of just actual junk). You should now be free of my oppression if you delete your old mod settings and update with the new ones.
+15. NUKED some files that I think were being erroneously included in Listo distros, mostly crash logs and similar items generated and stuck in the Overwrite folder. I also tried deleting an erroneous GustavDev folder that was being distributed, which has always been empty but I think may possibly be related to some users experiencing multiplayer connection issues stating that mods are out of date or don't match. Will require more testing.
+16. REPLACED many Listo Wabbajack assets such as the splash, gallery image, etc to new and original art made by me (with AI and Paint.net). Eventually we desire to replace these again with art from the community/friends/etc.
+
+
 # Listonomicon v1.0
 That's right baby, 1.0. We did it, Reddit!
 
