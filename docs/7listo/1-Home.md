@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 description: Listonomicon
 ---
-![Listonom](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/assets/112358568/79d370ba-80b8-40ce-b610-b901cb0b5ae3)
+![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listo%20Banner.png)
 
 ## **[Donations + Social Links](https://linktr.ee/lillybird69)**
 
@@ -18,7 +18,7 @@ Finally, a big “Thank you!” to the cthnonauts who volunteered to struggle wi
 
 -Ajax
 
-<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listonomicon.png"/>
+<img align="right" width="400" height="400" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listo%20book%20transparent.png"/>
 
 :::caution
 ## **What is it Not?**
