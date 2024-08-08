@@ -9,7 +9,9 @@ description: Halls of Sovngarde Installation Guide
 ## **Requirements:**
 - ~200GB of space, 75GB from downloads can be deleted after installation is complete 
 - A legal copy of Skyrim SE from steam updated to the most recent version
-- Skyrim: SE Creation Kit Installed **(It Can be found [Here](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/))**
+- Skyrim: SE Creation Kit Installed **(It can be found [here](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/))**
+- Visual C++ **(It can be found [here](https://aka.ms/vs/16/release/vc_redist.x64.exe))**
+- .NET **(It can be found [here](https://dotnet.microsoft.com/en-us/download))**
 :::
 
 # **Part 1: Installation Guide**
