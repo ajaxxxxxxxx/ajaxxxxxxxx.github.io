@@ -12,7 +12,7 @@ description: Halls of Sovngarde Installation Guide
 - Skyrim: SE Creation Kit installed **(It can be found [here](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/))**
 - Visual C++ **(It can be found [here](https://aka.ms/vs/16/release/vc_redist.x64.exe))**
 - .NET **(It can be found [here](https://dotnet.microsoft.com/en-us/download))**
-- Page File Size of Skyrim increased to 20-40GB
+- Page File Size of Skyrim increased to 20-40GB  
 :::
 
 # **Part 1: Installation Guide**
