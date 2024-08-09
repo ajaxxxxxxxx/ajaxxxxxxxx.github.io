@@ -46,7 +46,8 @@ description: Halls of Sovngarde Installation Guide
 :::tip
 # Optional Post-Install Steps
 
-- [This](https://docs.google.com/document/d/12QomWYtzGeq62f6MZ-gMKf62Go1AhRFo/mobilebasic) guide can be followed to change some of the included ini's to more performance friendly versions  
+- [This](https://docs.google.com/document/d/12QomWYtzGeq62f6MZ-gMKf62Go1AhRFo/mobilebasic) guide can be followed to change some of the included ini's to more performance friendly versions
+- For lower end machines, all grass mods can be disabled and the Ugly Skyrim mod can be activated
 - If instead of CS you want to run an ENB, first, enable mods under the separator "Enable for All ENB", then find the appropriate ENB separators and enable all mods under one of them
 - For each plugin, place it where shown, if not shown, place above Embers XD.esp
 
