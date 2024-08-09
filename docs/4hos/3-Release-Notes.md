@@ -2,6 +2,23 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 1.2.2 (Unreleased)
+Save Safe? YES
+
+**Added**
+
+* [Take Notes - Journal of the Dragonborn SSE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/95298)
+* [Hotkey Reminder](https://www.nexusmods.com/skyrimspecialedition/mods/115853)
+
+**Removed**
+
+* [Auto Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/122915)
+
+**Updated**
+
+* Thief Experience (Experience Add-on)
+  > 0.2 to 0.3
+
 # Release 1.2 
 Save Safe? NO
 
