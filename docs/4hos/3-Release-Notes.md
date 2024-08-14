@@ -9,8 +9,6 @@ Save Safe? YES
 
 * [Take Notes - Journal of the Dragonborn SSE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/95298)
 * [Hotkey Reminder](https://www.nexusmods.com/skyrimspecialedition/mods/115853)
-* [BnP - Female Skin](https://www.nexusmods.com/skyrimspecialedition/mods/65274)
-* [BnP - Male Skin](https://www.nexusmods.com/skyrimspecialedition/mods/65402)
 * [BnP - Child Skin](https://www.nexusmods.com/skyrimspecialedition/mods/78536)
 * [Requiem - Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/51916)
 * [Dismembering Framework](https://www.nexusmods.com/skyrimspecialedition/mods/126203)
@@ -31,6 +29,8 @@ Save Safe? YES
 * [Dismembering Framework - Creature Asset Pack - My patches by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/126608)
 * [Container Distribution Framework - 1.6.640 1.6.659 Backport](https://www.nexusmods.com/skyrimspecialedition/mods/92415)
 * [Males Of Skyrim by zzjay - with Better Male Feet and High poly hands - SE](https://www.nexusmods.com/skyrimspecialedition/mods/37485)
+* [Tempered Skins for Males - Vanilla and SOS versions](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
+* [Tempered Skins for Females - UNP CBBE and Vanilla](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
 
 **Removed**
 
