@@ -9,15 +9,65 @@ Save Safe? YES
 
 * [Take Notes - Journal of the Dragonborn SSE - Settings Loader](https://www.nexusmods.com/skyrimspecialedition/mods/95298)
 * [Hotkey Reminder](https://www.nexusmods.com/skyrimspecialedition/mods/115853)
+* [BnP - Female Skin](https://www.nexusmods.com/skyrimspecialedition/mods/65274)
+* [BnP - Male Skin](https://www.nexusmods.com/skyrimspecialedition/mods/65402)
+* [BnP - Child Skin](https://www.nexusmods.com/skyrimspecialedition/mods/78536)
+* [Requiem - Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/51916)
+* [Dismembering Framework](https://www.nexusmods.com/skyrimspecialedition/mods/126203)
+* [DF - Official Humanoid Asset Pack](https://www.nexusmods.com/skyrimspecialedition/mods/126327)
+* [Poisoned Arrows](https://www.nexusmods.com/skyrimspecialedition/mods/123585)
+* [Alchemy Plus](https://www.nexusmods.com/skyrimspecialedition/mods/80882)
+* [Alchemical Appraisal Services](https://www.nexusmods.com/skyrimspecialedition/mods/107344)
+* [Requiem - Remember Lockpick Angle](https://www.nexusmods.com/skyrimspecialedition/mods/70383)
+* [Andrealphus' Papyrus Functions](https://www.nexusmods.com/skyrimspecialedition/mods/85252)
+* [DPF - Dynamic Persistent Forms](https://www.nexusmods.com/skyrimspecialedition/mods/116001)
+* [Dylbills Papyrus Functions](https://www.nexusmods.com/skyrimspecialedition/mods/65410)
+* [Requiem-Missives_extended_patch](https://www.nexusmods.com/skyrimspecialedition/mods/62742)
+* [The Clever Prisoner](https://www.nexusmods.com/skyrimspecialedition/mods/84348)
+* [Paper and Ink Crafting](https://www.nexusmods.com/skyrimspecialedition/mods/61301)
+* [Immersive Death Cycle](https://www.nexusmods.com/skyrimspecialedition/mods/97048)
+* [Immersive Death Cycle - Configurable MCM](https://www.nexusmods.com/skyrimspecialedition/mods/97269)
+* [DF - Official Creature Asset Pack](https://www.nexusmods.com/skyrimspecialedition/mods/126328)
+* [Dismembering Framework - Creature Asset Pack - My patches by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/126608)
+* [Container Distribution Framework - 1.6.640 1.6.659 Backport](https://www.nexusmods.com/skyrimspecialedition/mods/92415)
 
 **Removed**
 
 * [Auto Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/122915)
+* [Simplicity of Snow - Cities of The North](https://www.nexusmods.com/skyrimspecialedition/mods/58559)
+* [HD Skins for old female faces](https://www.nexusmods.com/skyrimspecialedition/mods/30236)
+* [True Daughters of Skyrim](https://www.nexusmods.com/skyrim/mods/45453)
+* [Respect Your Elders - Proper Old Females For UNP](https://www.nexusmods.com/skyrimspecialedition/mods/50448)
+* [SkySight Skins - Ultra HD 4K 2K Male Textures and Real Feet Meshes](https://www.nexusmods.com/skyrimspecialedition/mods/6580)
 
 **Updated**
 
 * Thief Experience (Experience Add-on)
   > 0.2 to 0.3
+* Open Animation Replacer
+  > 2.3.4 to 2.3.6
+* powerofthree's Tweaks
+  > 1.10.1 to 1.11
+* powerofthree's Papyrus Extender
+  > 5.6.1 to 5.8
+* Base Object Swapper
+  > 3.0.3 to 3.3
+* More Informative Console
+  > 1.2 to 1.2.1
+* Photo Mode
+  > 1.4 to 1.6
+* SRC - Exclude from Radiant System Options
+  > 1.1.2 to 1.1.3
+* PrivateProfileRedirector SE - Faster game start (INI file cacher)
+  > 0.5.3 to 0.6.1
+* Persistent Favorites
+  > 0.3 to 0.3.1
+* Grab And Throw
+  > 1.1.3 to 2.0
+* Container Distribution Framework
+  > 1.6 to 2.0
+* Cities of the North Optimized Meshes
+  > 1.5.1 to 2.1
 
 # Release 1.2 
 Save Safe? NO
