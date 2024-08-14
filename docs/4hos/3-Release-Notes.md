@@ -30,6 +30,7 @@ Save Safe? YES
 * [DF - Official Creature Asset Pack](https://www.nexusmods.com/skyrimspecialedition/mods/126328)
 * [Dismembering Framework - Creature Asset Pack - My patches by Xtudo](https://www.nexusmods.com/skyrimspecialedition/mods/126608)
 * [Container Distribution Framework - 1.6.640 1.6.659 Backport](https://www.nexusmods.com/skyrimspecialedition/mods/92415)
+* [Males Of Skyrim by zzjay - with Better Male Feet and High poly hands - SE](https://www.nexusmods.com/skyrimspecialedition/mods/37485)
 
 **Removed**
 
