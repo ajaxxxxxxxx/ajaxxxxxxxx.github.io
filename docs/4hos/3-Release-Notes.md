@@ -2,7 +2,7 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 1.2.2 (Unreleased)
+# Release 1.2.2
 Save Safe? YES
 
 **Added**
