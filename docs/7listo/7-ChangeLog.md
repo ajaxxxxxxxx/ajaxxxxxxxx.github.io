@@ -13,6 +13,22 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v1.0.2
+
+Save Safe: Yes*. If your current campaign is using Automated Summons, DISABLE the toggle in-game and save, then update. You can safely ignore the missing mod error in BG3MM (swapped the old automated summon for a Script Extender version) and import the new load order .json, and safely ignore the missing mod error when loading your save. Everyone else should be able to update without complication.
+
+1. ADDED Blessing of the Trickster Buff. For those of you dedicated to keeping Shadowheart in her lore-accurate subclass, BotT now acts a lot like Guidance but applies to a variety of skills/situations.
+2. ADDED More Wild Magic Effects. Now wild sorcerers AND wild magic barbarians can enjoy a whackier experience! Stacks with d100 random magic effects to make sorcerers ~whacky~
+3. ADDED Tides of Chaos Recharge. When a Wild Magic Sorcerer triggers a surge, their ToC is recharged. The subclass is now very risk-reward gambler and not for the feint of heart.
+4. ADDED Topple the Weave. If Volothamp "Volo" Geddarm somehow dies during your adventures, **all** magic becomes wild magic.
+5. ADDED Katie's Head Preset.
+6. ADDED Heads of Plenty vol 2.
+7. ADDED Pearl Seadragon - we are finally seeing female dragonborn cosmetic mods!
+8. REPLACED Mari's makeup mod with Viour's Medieval Makeup Pack.
+9. OPTIONAL MODS: Added Enemy Cloning with a prospective preconfigured setting file that will give you more enemies, but not a ton. Tweak further as you desire. Added Many More Monsters, which in my estimation is not a great mod (compared to Valkrana's Skeletal Encounters and Additional Enemy Encounters), but if you just really love BG3 combat and want to see what happens when two mods adds wildly different encounters to the same location, here you go.
+10. UPDATED tons and tons and tons of mods.
+11. UPDATED several mod configs. Notably there is an attempt with CX now to address the Myrkul fight, shift the source of difficulty in the Grymforge fight away from whacky imps, and other such things. Furthermore the CX config now relies less on artificial +X bonuses to enemy rolls, saving throws, and attacks. Instead the bonuses should actually be seen in their attributes, and translate logically into enhancing corresponding rolls.
+
 # Listonomicon v1.0.1
 
 Because sometimes you have to fix the 1.0 right away :(
