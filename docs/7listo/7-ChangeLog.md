@@ -13,6 +13,27 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v1.1.1
+
+Save Safe: **No.**
+
+**This update brings Listo to Patch 7. It is not backwards compatible with anything previous. Start a new game.**
+
+1. ADDED Way of the Kensai.
+2. ADDED Start with Oathbreaker (Paladins can begin the game as Oathbreakers).
+3. ADDED Beast and Bow, ranger-focused equipment.
+4. REPLACED Zero Weight Gold with Gold Weights Nothing.
+5. REPLACED Longstrider AoE with Longstrider AoE (patch 7 compat version)
+6. REPLACED CXAI with Smarter AI. CXAI is now considered the "Optional" AI mod due to stability/CTD concerns.
+7. ADDED Yogurt Heads, for half orc and elven women.
+8. ADDED P4 Draconic Bloodline, for dragonborn and draconic sorcerers.
+9. REMOVED Honour Features Unlocker (no longer needed yay!)
+10. REMOVED Baldur's Gate 3 Mod Fixer (no longer needed yay!)
+11. REMOVED Highlight North (broken with P7)
+12. REMOVED Compatibility Framework Random Requests, Less Annoying Series (broken with P7)
+13. REMOVED War Caster 5e (broken with P7)
+14. UPDATED over 100 mods, somewhere between 15-30% of the list.
+
 # Listonomicon v1.0.2
 
 Save Safe: Yes*. If your current campaign is using Automated Summons, DISABLE the toggle in-game and save, then update. You can safely ignore the missing mod error in BG3MM (swapped the old automated summon for a Script Extender version) and import the new load order .json, and safely ignore the missing mod error when loading your save. Everyone else should be able to update without complication.
