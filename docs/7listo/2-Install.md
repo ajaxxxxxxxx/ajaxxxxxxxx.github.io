@@ -81,6 +81,8 @@ BG3 is still receiving Patches (major updates) and Hotfixes (small updates). The
 - When you launch BG3MM, make sure to switch the order to "Listo Mod Order" and hit "Export to game." **You need to update your load order in BG3MM and export it to your game any time you add or remove mods in MO2. Otherwise your game will detect your mod settings are different from your exported mod order and disable all mods.**
 - You can find a backup copy of the Listo mod order for BG3MM in [Listo install location]/mods/zzz_Listo Mod Order for BG3MM.
 
+![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/BG3MM%20example.png)
+
 ### 9.) Playing the List
 
 Launch the game via MO2. Using the drop-down at the top right, switch the program to be launched to either the Vulkan or DX version of the game, depending on which has better performance/compatibility with your system. Everything else should work like normal! Always launch the game this way to prevent Steam from forcing updates. Do not launch the game via Steam or BG3MM.
