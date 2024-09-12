@@ -13,6 +13,15 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v1.1.2
+
+Save Safe: Yes (and highly encouraged for v1.1.1)
+
+1. FIXED OCO. I did not realize that when I tried to add the international language version of Overexplained Interactions, I ONLY added the international language. My fellow English speakers have this mod restored. Sorry.
+2. Updated Artificer and a few UI mods.
+3. REMOVED THE MOD MANAGER FROM LISTO'S DOWNLOAD. You now need to MANUALLY grab the latest copy of BG3MM (for fresh Listo installs). Listo's install instructions have been updated to reflect this change. Anyone updating a current Listo install should not need to worry about this, however if you have been using the same Listo folder since before Patch 7 please update your BG3MM to the latest version (1.0.11.1) to ensure Patch 7 compatibility.
+4. UPDATED Listo Lite to Listonomicon v1.1.2 for those of you who want all the gameplay changes, classes, and other thrills without the cosmetic mod frills. The .wabbajack file must be downloaded manually from the Listo Nexus page. When loading Listo's mod order in BG3MM it is going to yell at you that hundreds of mods are missing, hit "Remove from order," close the error, and export the list to your game.
+
 # Listonomicon v1.1.1
 
 Save Safe: **No.**
