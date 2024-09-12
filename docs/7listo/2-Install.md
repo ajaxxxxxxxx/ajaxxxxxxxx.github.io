@@ -23,32 +23,46 @@ description: Listonomicon
 - Launch the game (vanilla) once to regenerate all of the folders/paths that MO2 and BG3MM need.
 - You may need to click on the new official mod manager in the main menu and accept Larian's ToS, then enable/disable a random mod. If BG3MM is not able to send a working mod settings.lsx (mod load order) to your game, this work around may force BG3 to generate a working mod settings.lsx that BG3MM can then replace.
 
-### 2.) Manually Downloading the List
+### 2.) Preparing Your Listonomicon Folder
 
-You can grab a copy of Listonomicon.wabbajack [here](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description) and use Wabba’s “Install from disk" if you prefer a manual install or if you want to install an older version of the list for some reason. Otherwise, search the unofficial Wabbajack gallery for Listonomicon and download that way.
+- Create a folder named Listonomicon somewhere on your PC, the closer to the root of the drive the better. For example, D:/Games/Listonomicon, or just D:/Listonomicon.
+- Inside your Listonomicon folder, create a folder named "BG3ModManager_Latest."
+- Download the latest [Baldur's Gate 3 Mod Manager by LaughingLeader](https://github.com/LaughingLeader/BG3ModManager/releases).
+- Extract the contents of the BG3MM to the Listonomicon/BG3ModManager_Latest folder.
+- In Listonomicon/BG3ModManager, create a folder named "Orders."
+- Manually download "[zzz_Listo Mod Order for BG3MM](https://www.nexusmods.com/baldursgate3/mods/8976?tab=files)" and extract the .json file inside the zip to Listonomicon/BG3ModManager_Latest/Orders. (You can also download Listo's mod settings at this juncture, and place the contents of the zip in %appdata%/local/larian studios/baldurs gate 3/script extender, but this instruction is repeated later!)
+- After installing the list (Step 3 or 4), when you launch Mod Organizer 2, you should be able to launch BG3MM. If not, in the drop down click "Manage" and set the BG3MM exe's location to where the EXE is located in Listonomicon/BG3ModManager_Latest. In BG3MM, along the top bar the second option is "Mod Order." In the drop down, select "Listo Mod Order for BG3MM." Along the same row, hit "Export Order to Game."
 
-### 3.) Downloading the list from the Gallery
+### 3.) Manually Downloading the List
 
-If you do not want to download manually, install Listonomicon through Wabbajack as normal. The download icon will be replaced with a play icon, on the next page you can choose an install location. Make sure to install the list to somewhere that is not in a protected folder (such as Downloads, Documents, etc) and not inside your Baldur’s Gate 3 install. For example, install to H:\Games\Listonomicon, with mods downloaded to H:\Games\Listonomicon\downloads.
+You can grab a copy of Listonomicon.wabbajack [here](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description) and use Wabba’s “Install from disk" if you prefer a manual install or if you want to install an older version of the list for some reason. Otherwise, ignore step 3 and follow step 4's install instructions instead. Manual installation is needed for the "Lite" (no cosmetic mods) version of Listo.
+
+### 4.) Downloading the list from the Gallery
+
+If you do not want to download manually, install Listonomicon through Wabbajack as normal. Launch Wabbajack and choose "Download from gallery." At the top, click "Show Unofficial Lists" and change the game filter to Baldur's Gate 3. At the time of writing, Listonomicon will be the only search result. Hit the download icon at the bottom right, which will turn into a play button. Click the play button. On the next screen, set the Modlist Installation Location to the Listonomicon folder you made in Step 2. "Resource Download Location" should automatically fill with "[Listo folder location]\downloads."
 
 :::note
-But wait, what if I don't want to download all 413+ Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option! In that case, you can manually download Listonomicon LITE.wabbajack from the [Nexus Page](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description). Refer back to step 2 for manual installation instructions.
+But wait, what if I don't want to download all 413+ Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option! In that case, you can manually download Listonomicon LITE.wabbajack from the [Nexus Page](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description). Refer back to step 3 for manual installation instructions.
 When you launch BG3MM, you will get an error saying hundreds of mods are missing. Hit the option to remove missing mods and clear errors, then save and export the list to game. **The "lite" version of Listo will be periodically updated to match major Listonomicon revisions, but will not be kept 1:1 up to date with Listo on a regular basis. Listo Lite is not updated for Patch 7.**
 :::
 
-### 4.) Script Extender
+### 5.) Script Extender
 
-Download the [Script Extender](https://github.com/Norbyte/bg3se/releases) and install to [game install path]\Baldurs Gate 3\bin. You can also install Script Extender by launching BG3MM (from Mod Organizer 2) and going to tools -> download Script Extender. Some users can use both options, some users only work when using one or the other, nobody knows why.
+You have two options for installing the script extender:
 
-### 5.) Finalizing Mod List Settings
+- Manual: Download the [Script Extender](https://github.com/Norbyte/bg3se/releases) and install to [game install path]\Baldurs Gate 3\bin.
+- Semi-Automatic: You can launch the Baldur's Gate 3 Mod Manager through Mod Organizer 2, and under "Tools" select download and extract the script extender.
+- For some users, both methods work. For other users, only one method or the other seems to work. Nobody knows why.
+
+### 6.) Finalizing Mod List Settings
 
 Once the modlist download has completed, navigate to where you downloaded your Listonomicon (e.g. H:\Games\Listonomicon) and open the "Mods" folder. Find “zzz_Listo Mod Settings.” Copy/paste the contents of the folder to %AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender (create the Script Extender folder if it does not exist).
 
 :::info
-Do not forget to repeat this step when updating Listonomicon! For maximum safety, delete the contents of %AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender and then repeat step 5 when updating the list, to ensure that any old/unneeded mod settings are gone and any new/updated mod settings are added correctly.
+Do not forget to repeat this step when updating Listonomicon! For maximum safety, delete the contents of %AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender and then repeat this step when updating the list, to ensure that any old/unneeded mod settings are gone and any new/updated mod settings are added correctly.
 :::
 
-### 6.) Preparing Steam
+### 7.) Preparing Steam
 
 - Navigate to Steam -> Right click BG3 -> Properties -> Updates and change “Automatic Updates” to “Only Update This Game When I Launch It.”
 - Never launch the game via Steam, always launch it through Mod Organizer, to prevent updates from breaking the list and ending your playthrough. You may need to launch the game from Steam ONCE after a reinstall to make BG3MM work.
@@ -58,29 +72,20 @@ Do not forget to repeat this step when updating Listonomicon! For maximum safety
 BG3 is still receiving Patches (major updates) and Hotfixes (small updates). These updates tend to introduce new bugs and issues to the game that may be difficult to distinguish from issues caused by mods (either with the list, or mods broken by updates). Major updates can also break Script Extender functionality, etc etc. This is why it is highly, highly recommended to disable automated updates.
 :::
 
-### 7.) Launching MO2
+### 8.) Launching MO2
 
 - Your portable instance of Mod Organizer 2 should be ready as soon as Wabbajack is done. However, you can verify that everything is working by ensuring that it has defaulted to the correct profile at the top-left, which should be Listonomicon.
-- **Your total number of active mods should be 413. The colored separator at the top of your mod list should say Listonomicon v1.1.1.**
+- **Your total number of active mods should be 415. The colored separator at the top of your mod list should say Listonomicon v1.1.2.**
 - At the top-right, you should be able to switch the program to launch to the BG3 Mod Manager (BG3MM).
+- If MO2 is not able to launch BG3ModManager, open the drop-down and hit "Edit." As long as you placed the mod manager in the right folder in Step 2, you can set the "Binary" field to "BG3ModManager_Latest\BG3ModManager.exe" Make sure to hit apply at the bottom-right.
+- When you launch BG3MM, make sure to switch the order to "Listo Mod Order" and hit "Export to game." **You need to update your load order in BG3MM and export it to your game any time you add or remove mods in MO2. Otherwise your game will detect your mod settings are different from your exported mod order and disable all mods.**
+- You can find a backup copy of the Listo mod order for BG3MM in [Listo install location]/mods/zzz_Listo Mod Order for BG3MM.
 
-### 8.) Deploying Mod Configuration Files
-
-- You will need to navigate to wherever you instructed Wabbajack to download your mod files (such as H:\Games\Listonomicon\downloads) and find “zzz_Listonomicon Mod Settings.zip” (should be at the bottom). Inside should be all of the configuration files you need for various Listonomicon mods. We handled this in step 5.
-- Navigate to “%AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender” and place the contents of the zip file here. If you have already run the game, mod settings may have already been generated - hit “Yes” to overwrite anything here. If you cannot find the mod settings file in your MO2 downloads, you can download them manually.
-
-### 9.) Verifying in BG3MM
-
-- You may be able to launch the game and begin playing without further steps being necessary. However, if that is not the case…
-- First, navigate to the top right of MO2 where you select the exe to launch. In the drop down, select Baldur’s Gate 3 Mod Manager (BG3MM). There should not be any pop-ups or errors in BG3MM stating missing files. - There should be a large number of mods active on the left side, and the only items on the right side should be a module for dice and a module for Honour Mode. 
-- If this is not correct, and instead you have a whole whack ton of mods on the right side of BG3MM, then you need to navigate to wherever you instructed Wabbajack to download your mod files (such as H:\Games\Listonomicon\downloads) and find “zzz_Listo Mod Order for BG3MM.zip.” Inside is a .json file. Place this somewhere you can find it easily. In BG3MM, you will want to import this .json as a mod load order by clicking file -> import order from file (top left).
-- Navigate to the “Export” section of the top row in BG3MM and click “Export Order to Game.” Then close BG3MM. - In MO2, switch the top-right drop down back to your choice of BG3 exe’s (dx11 or vulkan). You should be able to launch the game from MO2 without error.
-
-### 10.) Playing the List
+### 9.) Playing the List
 
 Launch the game via MO2. Using the drop-down at the top right, switch the program to be launched to either the Vulkan or DX version of the game, depending on which has better performance/compatibility with your system. Everything else should work like normal! Always launch the game this way to prevent Steam from forcing updates. Do not launch the game via Steam or BG3MM.
 
-### 11.) In Game Settings
+### 10.) In Game Settings
 
 :::caution
 You must change Animation Level of Detail to High in your Visual Settings. Otherwise, any heads added or changed by mods will suffer from visual bugs and animation issues. Any/all other graphics settings can be changed according to your PC specs.
@@ -93,23 +98,23 @@ You should begin a new game on Custom Difficulty to have the same experience Lis
 Per the image above, set your difficulty settings as follows:
 
 - Ruleset: Honour
-- Enemy Aggression, Character Power, Enemy Loadouts, Additional Combat Mechanics: Technician
+- Enemy Aggression, Character Power, Enemy Loadouts, Additional Combat Mechanics: Tactician
 - Camp Cost Multiplier: 3
 - Trader Price Modificer: 4
 - Everything else should default to the right values.
 
-### 12.) [Better Hotbar 2](https://www.nexusmods.com/baldursgate3/mods/2417?tab=description) 
+### 11.) [Better Hotbar 2](https://www.nexusmods.com/baldursgate3/mods/2417?tab=description) 
 
 - Better Hotbar 2 can sometimes suffer from hiding the final panel!
 - [Follow the author’s pinned instruction at the top of the comments section](https://www.nexusmods.com/baldursgate3/mods/2417?tab=posts) to ensure that you have access to all of your hotbar panels, otherwise temporary effects (such as flying after casting spells for storm sorcerers) may be hidden from you. You should only need to do this once, unless your hotbar is changed due to a polymorph or similar effect.
 
-### 13.) Customizing Listonomicon
+### 12.) Customizing Listonomicon
 **No support is offered or guaranteed for anyone who modifies the behavior or contents of Listonomicon.** It is already difficult to keep up with new mods daily on the Nexus; updates and changes to mods in the list; changes in the script extender; new and changed features in the community compatibility frameworks; as well as game patches and hotfixes; vanilla game bugs; and the consequences of (seemingly) minor mod setting tweaks on gameplay. Further modify the list at your own peril. We hope that you are able to customize a fun, stable, great experience tailored to your specific tastes using Listonomicon as a stepping stone - but will not promise troubleshooting or technical support.
 
-### 14.) 16:9 vs 21:9 UI
+### 13.) 16:9 vs 21:9 UI
 
 There is an Ultrawide UI section in MO2. If you have a normal 16x9 resolution monitor (e.g. 1920x1080 or 2560x1440), make sure the two ultrawide UI mods are DISABLED in this section, and all UI mods are ENABLED in the User Interface section of MO2. If you have an ultrawide 21x9 monitor (e.g. 3440x1440), make sure the two ultrawide UI mods are ENABLED, and disable the top 2 mods in the User Interface section (i.e. disable the 16x9 version of Better Hotbar and Party Panel).
 
-### 15.) Optional Mods
+### 14.) Optional Mods
 
 There are several optional mods packaged with Listonomicon to enable even more QoL or challenge features. [Please read the comments on the Optional Mods tab of this excel](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing) for instructions on enabling these mods, if you wish to. No official support is offered for adding any other mods to Listonomicon.
