@@ -78,7 +78,7 @@ BG3 is still receiving Patches (major updates) and Hotfixes (small updates). The
 ### 8.) Launching MO2
 
 - Your portable instance of Mod Organizer 2 should be ready as soon as Wabbajack is done. However, you can verify that everything is working by ensuring that it has defaulted to the correct profile at the top-left, which should be Listonomicon.
-- **Your total number of active mods should be 415. The colored separator at the top of your mod list should say Listonomicon v1.1.2.**
+- **Your total number of active mods should be 421. The colored separator at the top of your mod list should say Listonomicon v1.1.3.**
 - At the top-right, you should be able to switch the program to launch to the BG3 Mod Manager (BG3MM).
 - If MO2 is not able to launch BG3ModManager, open the drop-down and hit "Edit." As long as you placed the mod manager in the right folder in Step 2, you can set the "Binary" field to "BG3ModManager_Latest\BG3ModManager.exe" Make sure to hit apply at the bottom-right.
 - When you launch BG3MM, make sure to switch the order to "Listo Mod Order" and hit "Export to game." **You need to update your load order in BG3MM and export it to your game any time you add or remove mods in MO2. Otherwise your game will detect your mod settings are different from your exported mod order and disable all mods.**
