@@ -15,6 +15,22 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 # Listonomicon v1.1.2
 
+Save Safe: Yes (and highly encouraged for v1.1.2)
+
+1. FIXED mod settings vs mod load order files.
+2. UPDATED install instructions to place mod manager steps after the gallery download.
+3. ADDED Solidarity Domain.
+4. ADDED Ambition Domain.
+5. ADDED Strength Domain.
+6. ADDED Zeal Domain.
+7. ADDED Hierophant.
+8. ADDED Celestial Warlock.
+9. UPDATED Divine Soul Sorcerer.
+10. ADDED Spells Extra DND 5e Library (required for the above new mods).
+11. UPDATED Pavelk UI mods.
+
+# Listonomicon v1.1.2
+
 Save Safe: Yes (and highly encouraged for v1.1.1)
 
 1. FIXED OCO. I did not realize that when I tried to add the international language version of Overexplained Interactions, I ONLY added the international language. My fellow English speakers have this mod restored. Sorry.
