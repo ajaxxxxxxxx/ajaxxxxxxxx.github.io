@@ -25,15 +25,9 @@ description: Listonomicon
 
 ### 2.) Preparing Your Listonomicon Folder
 
-- Create a folder named Listonomicon somewhere on your PC, the closer to the root of the drive the better. For example, D:/Games/Listonomicon, or just D:/Listonomicon.
-- Inside your Listonomicon folder, create a folder named "BG3ModManager_Latest."
-- Download the latest [Baldur's Gate 3 Mod Manager by LaughingLeader](https://github.com/LaughingLeader/BG3ModManager/releases).
-- Extract the contents of the BG3MM to the Listonomicon/BG3ModManager_Latest folder.
-- In Listonomicon/BG3ModManager, create a folder named "Orders."
-- Manually download "[zzz_Listo Mod Order for BG3MM](https://www.nexusmods.com/baldursgate3/mods/8976?tab=files)" and extract the .json file inside the zip to Listonomicon/BG3ModManager_Latest/Orders. (You can also download Listo's mod settings at this juncture, and place the contents of the zip in %appdata%/local/larian studios/baldurs gate 3/script extender, but this instruction is repeated later!)
-- After installing the list (Step 3 or 4), when you launch Mod Organizer 2, you should be able to launch BG3MM. If not, in the drop down click "Manage" and set the BG3MM exe's location to where the EXE is located in Listonomicon/BG3ModManager_Latest. In BG3MM, along the top bar the second option is "Mod Order." In the drop down, select "Listo Mod Order for BG3MM." Along the same row, hit "Export Order to Game."
+Create a folder named Listonomicon somewhere on your PC, the closer to the root of the drive the better. For example, D:/Games/Listonomicon, or just D:/Listonomicon. When we discuss "Downloads" or "Mods" folders in the future, we mean [the drive with this folder]/Listonomicon/Downloads or [the drive with this folder]/Listonomicon/Mods.
 
-### 3.) Manually Downloading the List
+### 3.) Manually Downloading the List - OPTIONAL
 
 You can grab a copy of Listonomicon.wabbajack [here](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description) and use Wabba’s “Install from disk" if you prefer a manual install or if you want to install an older version of the list for some reason. Otherwise, ignore step 3 and follow step 4's install instructions instead. Manual installation is needed for the "Lite" (no cosmetic mods) version of Listo.
 
@@ -46,17 +40,26 @@ But wait, what if I don't want to download all 413+ Listonomicon mods? I want th
 When you launch BG3MM, you will get an error saying hundreds of mods are missing. Hit the option to remove missing mods and clear errors, then save and export the list to game. **The "lite" version of Listo will be periodically updated to match major Listonomicon revisions, but will not be kept 1:1 up to date with Listo on a regular basis. Listo Lite is not updated for Patch 7.**
 :::
 
-### 5.) Script Extender
+### 5.) Preparing the BG3 Mod Manager and Script Extender
 
-You have two options for installing the script extender:
+- Inside your Listonomicon folder, create a folder named "BG3ModManager_Latest."
+- Download the latest [Baldur's Gate 3 Mod Manager by LaughingLeader](https://github.com/LaughingLeader/BG3ModManager/releases).
+- Extract the contents of the BG3MM to the Listonomicon/BG3ModManager_Latest folder.
+- In Listonomicon/BG3ModManager_Latest, create a folder named "Orders."
+- In your Listonomicon/Mods, you can find zzz_Listo Mod Order. The .json file inside "Listo Mod Order for BG3MM.json" can be cut/paste to the nwe orders folder at Listonomicon/BG3ModManager_Latest/Orders. If you cannot find zzz_Listo Mod Order, you can always manually download "[zzz_Listo Mod Order for BG3MM](https://www.nexusmods.com/baldursgate3/mods/8976?tab=files)." (You can also download Listo's mod settings from this page)
+- After installing the list (Step 3 or 4), when you launch Mod Organizer 2, you should be able to launch BG3MM as one of the options at the top-right. If not, in the drop down click "Manage" and set the BG3MM exe's location to where the EXE is located in Listonomicon/BG3ModManager_Latest.
+- In BG3MM, along the top bar the second option is "Mod Order." In the drop down, select "Listo Mod Order for BG3MM." Along the same row, hit "Export Order to Game."
 
+![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/BG3MM%20example.png)
+
+- Next we need to prepare the BG3 Script Extender. You have two options:
 - Manual: Download the [Script Extender](https://github.com/Norbyte/bg3se/releases) and install to [game install path]\Baldurs Gate 3\bin.
 - Semi-Automatic: You can launch the Baldur's Gate 3 Mod Manager through Mod Organizer 2, and under "Tools" select download and extract the script extender.
 - For some users, both methods work. For other users, only one method or the other seems to work. Nobody knows why.
 
 ### 6.) Finalizing Mod List Settings
 
-Once the modlist download has completed, navigate to where you downloaded your Listonomicon (e.g. H:\Games\Listonomicon) and open the "Mods" folder. Find “zzz_Listo Mod Settings.” Copy/paste the contents of the folder to %AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender (create the Script Extender folder if it does not exist).
+Once the modlist download has completed, navigate to where you downloaded your Listonomicon (e.g. H:\Games\Listonomicon) and open the "Mods" folder just like we did for the BG3MM mod order. Find “zzz_Listo Mod Settings.” Copy/paste the contents of the folder to %AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender (create the Script Extender folder if it does not exist).
 
 :::info
 Do not forget to repeat this step when updating Listonomicon! For maximum safety, delete the contents of %AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender and then repeat this step when updating the list, to ensure that any old/unneeded mod settings are gone and any new/updated mod settings are added correctly.
@@ -79,9 +82,7 @@ BG3 is still receiving Patches (major updates) and Hotfixes (small updates). The
 - At the top-right, you should be able to switch the program to launch to the BG3 Mod Manager (BG3MM).
 - If MO2 is not able to launch BG3ModManager, open the drop-down and hit "Edit." As long as you placed the mod manager in the right folder in Step 2, you can set the "Binary" field to "BG3ModManager_Latest\BG3ModManager.exe" Make sure to hit apply at the bottom-right.
 - When you launch BG3MM, make sure to switch the order to "Listo Mod Order" and hit "Export to game." **You need to update your load order in BG3MM and export it to your game any time you add or remove mods in MO2. Otherwise your game will detect your mod settings are different from your exported mod order and disable all mods.**
-- You can find a backup copy of the Listo mod order for BG3MM in [Listo install location]/mods/zzz_Listo Mod Order for BG3MM.
-
-![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/BG3MM%20example.png)
+- You can find a backup copy of the Listo mod order for BG3MM in [Listo install location]/mods/zzz_Listo Mod Order for BG3MM or download a fresh copy from Listonomicon's Nexus page.
 
 ### 9.) Playing the List
 
