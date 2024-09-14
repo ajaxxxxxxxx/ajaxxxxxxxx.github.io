@@ -13,7 +13,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-# Listonomicon v1.1.2
+# Listonomicon v1.1.3
 
 Save Safe: Yes (and highly encouraged for v1.1.2)
 
