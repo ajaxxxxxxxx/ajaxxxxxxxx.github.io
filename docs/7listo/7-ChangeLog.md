@@ -28,6 +28,7 @@ Save Safe: Yes (and highly encouraged for v1.1.2)
 9. UPDATED Divine Soul Sorcerer.
 10. ADDED Spells Extra DND 5e Library (required for the above new mods).
 11. UPDATED Pavelk UI mods.
+12. REMOVED (for real this time) Honour Features Unlocker, since P7 now has a native solution.
 
 # Listonomicon v1.1.2
 
