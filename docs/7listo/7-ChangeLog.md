@@ -13,6 +13,12 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v1.1.4
+
+Save Safe: Yes (and highly encouraged for v1.1.3)
+
+Hotfix to fix problems that aren't my fault (Expansion 13-20 author broke their own mod in a way that isn't detected without starting a new game). Quick level 3 / Listo XP curve is fixed. Various cosmetic mods also caught updates. Updated Listo Lite to v1.1.4.
+
 # Listonomicon v1.1.3
 
 Save Safe: Yes (and highly encouraged for v1.1.2)
