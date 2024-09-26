@@ -9,7 +9,7 @@ description: Listonomicon
 :::info
 ## **Requirements**
 - ~ 33 GB of Space For the Modlist
-- A Legally Obtained Copy of Baldur's Gate 3 (While a Steam Global Copy is Safest, Any Copy Should Do), installed and launched vanilla from Steam at least once
+- A Legally Obtained Copy of Baldur's Gate 3 (While a Steam Global Copy is Safest, Any Copy Should Do), **installed and launched vanilla from Steam at least once**
 - [Wabbajack](https://www.wabbajack.org/)
 - A Nexus Account (Premium recommended; drastically increases install speed)
 :::
@@ -18,7 +18,7 @@ description: Listonomicon
 
 ### 1.) Reinstall Baldur's Gate 3
 
-- **Nuke BG3** (optional but highly recommended): Uninstall the game _completely_, delete anything left of the install folder (e.g. d:/SteamLibrary/steamapps/common/Baldurs Gate 3), and delete the folder at %appdata%\Local\Larian Studios. This is to ensure no errant files are leftover from previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Nuking everything improves the odds that Listo works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with Listo. This is especially true now with Mod.io integration and Larian's official mod manager services.
+- **Nuke BG3** (optional but _highly recommended_): Uninstall the game _completely_, delete anything left of the install folder (e.g. d:/SteamLibrary/steamapps/common/Baldurs Gate 3), and delete the folder at %appdata%\Local\Larian Studios. This is to ensure no errant files are leftover from previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Nuking everything improves the odds that Listo works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with Listo. This is especially true now with Mod.io integration and Larian's official mod manager services.
 - Also ensure that your new Baldur's Gate 3 is in a steam folder on the base of your drive (IE: C:/Steam/.../BaldursGate3), Wabbajack/MO2 might struggle if it is in a default Steam location like C:/program files(86)/Steam/.../BG3.
 - Launch the game (vanilla) once to regenerate all of the folders/paths that MO2 and BG3MM need.
 - You may need to click on the new official mod manager in the main menu and accept Larian's ToS, then enable/disable a random mod. If BG3MM is not able to send a working mod settings.lsx (mod load order) to your game, this work around may force BG3 to generate a working mod settings.lsx that BG3MM can then replace.
@@ -27,18 +27,18 @@ description: Listonomicon
 
 Create a folder named Listonomicon somewhere on your PC, the closer to the root of the drive the better. For example, D:/Games/Listonomicon, or just D:/Listonomicon. When we discuss "Downloads" or "Mods" folders in the future, we mean [the drive with this folder]/Listonomicon/Downloads or [the drive with this folder]/Listonomicon/Mods.
 
-### 3.) Manually Downloading the List - OPTIONAL
-
-You can grab a copy of Listonomicon.wabbajack [here](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description) and use Wabba’s “Install from disk" if you prefer a manual install or if you want to install an older version of the list for some reason. Otherwise, ignore step 3 and follow step 4's install instructions instead. Manual installation is needed for the "Lite" (no cosmetic mods) version of Listo.
-
-### 4.) Downloading the list from the Gallery
+### 3.) Downloading the list from the Gallery
 
 If you do not want to download manually, install Listonomicon through Wabbajack as normal. Launch Wabbajack and choose "Download from gallery." At the top, click "Show Unofficial Lists" and change the game filter to Baldur's Gate 3. At the time of writing, Listonomicon will be the only search result. Hit the download icon at the bottom right, which will turn into a play button. Click the play button. On the next screen, set the Modlist Installation Location to the Listonomicon folder you made in Step 2. "Resource Download Location" should automatically fill with "[Listo folder location]\downloads."
 
 :::note
-But wait, what if I don't want to download all 413+ Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option! In that case, you can manually download Listonomicon LITE.wabbajack from the [Nexus Page](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description). Refer back to step 3 for manual installation instructions.
-When you launch BG3MM, you will get an error saying hundreds of mods are missing. Hit the option to remove missing mods and clear errors, then save and export the list to game. **The "lite" version of Listo will be periodically updated to match major Listonomicon revisions, but will not be kept 1:1 up to date with Listo on a regular basis. Listo Lite is not updated for Patch 7.**
+But wait, what if I don't want to download all 413+ Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option! In that case, you can manually download Listonomicon LITE.wabbajack. Manual install instructions are Step #4.
+When you launch BG3MM, you will get an error saying hundreds of mods are missing. Hit the option to remove missing mods and clear errors, then save and export the list to game. **The "lite" version of Listo will be periodically updated to match major Listonomicon revisions, but will not be kept 1:1 up to date with Listo on a regular basis.**
 :::
+
+### 4.) Manually Downloading the List - OPTIONAL
+
+You can grab a copy of Listonomicon.wabbajack [here](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description) and use Wabba’s “Install from disk" if you prefer a manual install or if you want to install an older version of the list for some reason. Otherwise, ignore step 3 and follow step 4's install instructions instead.
 
 ### 5.) Preparing the BG3 Mod Manager and Script Extender
 
