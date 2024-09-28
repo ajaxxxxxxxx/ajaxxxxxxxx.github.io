@@ -18,7 +18,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 Save Safe: Kinda - recommend a new game, as many classes/subclasses will require a respec to update features and level progression.
 
 1. REPLACED Better Hotbar 2 with Better Hotbar 2 (Volva's Edition). It is no longer necessary to prep your hotbar at the start of a new game for every companion. Ultrawide UI users unaffected by this change.
-2. UPDATED 39 mods. Many of these include subclasses that now require a respec to clear and replace changed/updated class features.
+2. UPDATED 39 mods. Many of these include subclasses that now require a respec to clear and replace changed/updated class features. Some of these updates also effect Playable Undead and other race/subrace mods.
 3. ADDED Cavalier, a Fighter subclass.
 4. ADDED Poisoner's Robe Increases All -- this previously niche robe now improves ALL poison damage.
 5. ADDED Father's Gift Improved. Any evil Durge who commits to the bit deserves an end game reward actually worth their time.
