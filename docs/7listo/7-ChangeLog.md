@@ -15,7 +15,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 # Listonomicon v1.2.0
 
-Save Safe: Kinda - recommend a new game, as many classes/subclasses will require a respec to update features and level progression.
+Save Safe: Recommend a new game, as many classes/subclasses will require a respec to update features and level progression.
 
 1. REPLACED Better Hotbar 2 with Better Hotbar 2 (Volva's Edition). It is no longer necessary to prep your hotbar at the start of a new game for every companion. Ultrawide UI users unaffected by this change.
 2. UPDATED 39 mods. Many of these include subclasses that now require a respec to clear and replace changed/updated class features. Some of these updates also effect Playable Undead and other race/subrace mods.
@@ -34,7 +34,7 @@ Save Safe: Kinda - recommend a new game, as many classes/subclasses will require
 15. ADDED Rox's Vivid Aquarelle Eyes.
 16. ADDED Lolth's Revered.
 17. OPTIONAL MODS: ADDED A Devil You Gnome.
-18. OPTIONAL MODS: ADDED Trash Mobs. <-- please let me know how this + Many More Monsters makes Act 1 feel/run.
+18. OPTIONAL MODS: ADDED Trash Mobs. Please let me know how this + Many More Monsters makes Act 1 feel/run.
 
 # Listonomicon v1.1.4
 
