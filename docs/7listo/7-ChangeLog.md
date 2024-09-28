@@ -13,6 +13,29 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v1.2.0
+
+Save Safe: Kinda - recommend a new game, as many classes/subclasses will require a respec to update features and level progression.
+
+1. REPLACED Better Hotbar 2 with Better Hotbar 2 (Volva's Edition). It is no longer necessary to prep your hotbar at the start of a new game for every companion. Ultrawide UI users unaffected by this change.
+2. UPDATED 39 mods. Many of these include subclasses that now require a respec to clear and replace changed/updated class features.
+3. ADDED Cavalier, a Fighter subclass.
+4. ADDED Poisoner's Robe Increases All -- this previously niche robe now improves ALL poison damage.
+5. ADDED Father's Gift Improved. Any evil Durge who commits to the bit deserves an end game reward actually worth their time.
+6. ADDED Displacer Beast as a Ranger, giving rangers a new animal companion option.
+7. ADDED Fang of Boitata. This is expected to be an end-of-Act-1-beach reward to players who pinch their gold pieces, please tell me if this is too cheap/easy to acquire even with Listo's recommended difficulty settings.
+8. ADDED Corellon's Grace Unarmed. This staff is now slightly less annoying for open hand monks to use.
+9. ADDED Path of the Juggernot, a Barbarian subclass.
+10. ADDED Foe Bane, a powerful reward for the conclusion of the Grove storyline (which can be upgraded further deep in Act 3, so don't throw it away!).
+11. ADDED Rune Knight QoL tweak: Inscriptions do not need to be repeated after every short/long rest.
+12. ADDED Vexa, a female dragonborn head.
+13. ADDED Yet More Scales, adding even more dragonborn colors.
+14. ADDED Minharpy Hair.
+15. ADDED Rox's Vivid Aquarelle Eyes.
+16. ADDED Lolth's Revered.
+17. OPTIONAL MODS: ADDED A Devil You Gnome.
+18. OPTIONAL MODS: ADDED Trash Mobs. <-- please let me know how this + Many More Monsters makes Act 1 feel/run.
+
 # Listonomicon v1.1.4
 
 Save Safe: Yes (and highly encouraged for v1.1.3)
