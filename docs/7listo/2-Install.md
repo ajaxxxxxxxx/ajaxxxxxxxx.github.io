@@ -63,6 +63,7 @@ Once the modlist download has completed, navigate to where you downloaded your L
 
 :::info
 Do not forget to repeat this step when updating Listonomicon! For maximum safety, delete the contents of %AppData%\Local\Larian Studios\Baldur's Gate 3\Script Extender and then repeat this step when updating the list, to ensure that any old/unneeded mod settings are gone and any new/updated mod settings are added correctly.
+Don't like Listo's mod settings? Hit "1" on your numrow to open the Mod Configuration Menu and tweak as you see fit. Just don't cry if you break something.
 :::
 
 ### 7.) Preparing Steam
@@ -106,18 +107,13 @@ Per the image above, set your difficulty settings as follows:
 - Trader Price Modificer: 4
 - Everything else should default to the right values.
 
-### 11.) [Better Hotbar 2](https://www.nexusmods.com/baldursgate3/mods/2417?tab=description) 
-
-- Better Hotbar 2 can sometimes suffer from hiding the final panel!
-- [Follow the author’s pinned instruction at the top of the comments section](https://www.nexusmods.com/baldursgate3/mods/2417?tab=posts) to ensure that you have access to all of your hotbar panels, otherwise temporary effects (such as flying after casting spells for storm sorcerers) may be hidden from you. You should only need to do this once, unless your hotbar is changed due to a polymorph or similar effect.
-
-### 12.) Customizing Listonomicon
+### 11.) Customizing Listonomicon
 **No support is offered or guaranteed for anyone who modifies the behavior or contents of Listonomicon.** It is already difficult to keep up with new mods daily on the Nexus; updates and changes to mods in the list; changes in the script extender; new and changed features in the community compatibility frameworks; as well as game patches and hotfixes; vanilla game bugs; and the consequences of (seemingly) minor mod setting tweaks on gameplay. Further modify the list at your own peril. We hope that you are able to customize a fun, stable, great experience tailored to your specific tastes using Listonomicon as a stepping stone - but will not promise troubleshooting or technical support.
 
-### 13.) 16:9 vs 21:9 UI
+### 12.) 16:9 vs 21:9 UI
 
 There is an Ultrawide UI section in MO2. If you have a normal 16x9 resolution monitor (e.g. 1920x1080 or 2560x1440), make sure the two ultrawide UI mods are DISABLED in this section, and all UI mods are ENABLED in the User Interface section of MO2. If you have an ultrawide 21x9 monitor (e.g. 3440x1440), make sure the two ultrawide UI mods are ENABLED, and disable the top 2 mods in the User Interface section (i.e. disable the 16x9 version of Better Hotbar and Party Panel).
 
-### 14.) Optional Mods
+### 13.) Optional Mods
 
 There are several optional mods packaged with Listonomicon to enable even more QoL or challenge features. [Please read the comments on the Optional Mods tab of this excel](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing) for instructions on enabling these mods, if you wish to. No official support is offered for adding any other mods to Listonomicon.
