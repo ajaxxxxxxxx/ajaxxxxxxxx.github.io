@@ -57,7 +57,9 @@ NOTE: The distribution of "Optional" Listo mods is no longer a big convenient li
 23. Many mod updates, as always.
 24. Re-organized everything in MO2. MO2 is now THE load order of mods for the game.
 25. UPDATED the extra encounters mod to grant more XP (less than base but no longer using the borderline zero XP config).
-26. UPDATED Combat Extender's config to reduce the amount of enemies with access to Heat Metal in Grymforge, to nerf Grym's movement speed slightly, and to open an additional avenue for dealing damage to Grym.
+26. UPDATED Combat Extender's config to reduce the amount of enemies with access to Heat Metal in Grymforge, to nerf Grym's movement speed slightly, and to open an additional avenue for dealing damage to Grym. Added fire resistance to the Fists of Bane.
+27. REMOVED Oath of Conquest. It's out of date, and the up-to-date versions block other Paladin subclasses from working.
+28. REMOVED Minharpy hair.
 
 # Listonomicon v1.2.0
 
