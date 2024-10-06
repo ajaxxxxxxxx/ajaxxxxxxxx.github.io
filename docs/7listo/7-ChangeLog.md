@@ -37,7 +37,6 @@ NOTE: The distribution of "Optional" Listo mods is no longer a big convenient li
 13. MOVED Combat Extender AI and Smarter Enemies AI to "Optional" status. Both mods are great and I recommend all players use one or the other, however there are a handful of consistent crashes that requires disabling the AI mods to get through certain encounters for many players.
 14. ADDED Yoesph's Listo Patch. HUGE THANK YOU to Yoesph volunteering his time and talent to making a bunch of balance tweaks and patches just for Listo!
 - Patches several mods for Listo-oriented balance.
-- Moves Foe Bane's location to a semi-secret Act 2 encounter.
 - Limits Shadar-Kai's misty step ability to be [proficiency bonus]-per-Long-Rest instead of unlimited.
 - Re-balances the Mobility Feat.
 - Changes the Belt of Frost Giant Strength to be a +str item rather than a set strength item.
