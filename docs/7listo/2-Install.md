@@ -71,11 +71,11 @@ You should begin a new game on **Custom Difficulty** to have the same experience
 
 Per the image above, set your difficulty settings as follows:
 
-**- Ruleset: Honour
+- Ruleset: Honour
 - Enemy Aggression, Character Power, Enemy Loadouts, Additional Combat Mechanics: Tactician
 - Camp Cost Multiplier: 3
 - Trader Price Modificer: 4
-- Everything else should default to the right values.**
+- Everything else should default to the right values.
 
 ### 8.) Customizing Listonomicon
 
