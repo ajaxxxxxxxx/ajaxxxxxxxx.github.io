@@ -8,6 +8,8 @@ description: Listonomicon
 
 ## **[Donations + Social Links](https://linktr.ee/lillybird69)**
 
+# join our [Discord](https://discord.gg/43EhRjU)
+
 ## **What is Listonomicon?**
 The goal of the “Listonomicon” is to be an out-of-the-box experience that enhances Baldurs Gate 3’s UI, quality of life, and replay value; introduces beloved aspects of the tabletop game’s past and present; and widens and deepens the game mechanics while respecting Larian’s vision for adapting DnD5e to an enjoyable cRPG.
 
@@ -41,10 +43,10 @@ Listonomicon aims to achieve a seamless feel from a vanilla first playthrough, t
 :::
 
 ## **Customizing the List**
-No support is offered or guaranteed for anyone who modifies the behavior or contents of Listonomicon. It is already difficult to keep up with new mods daily on the Nexus; updates and changes to mods in the list; changes in the script extender; new and changed features in the community compatibility frameworks; as well as game patches and hotfixes; vanilla game bugs; and the consequences of (seemingly) minor mod setting tweaks on gameplay. Further modify the list at your own peril. We hope that you are able to customize a fun, stable, great experience tailored to your specific tastes using Listonomicon as a stepping stone - but will not offer troubleshooting or technical support. There is a number of "Optional" mods included in Listo for players who want certain QoL or challenge features where we will try to help with install, but do not endorse that the end result will be balanced or fun or sane! If you are customizing the list and trying to play multiplayer, please familiarize yourself with saving and exporting a mod load order .json from BG3MM to send to your COOP friends so that they can import the same exact list in the same exact order. Otherwise MP will break.
+No support is offered or guaranteed for anyone who modifies the behavior or contents of Listonomicon. It is already difficult to keep up with new mods daily on the Nexus; updates and changes to mods in the list; changes in the script extender; new and changed features in the community compatibility frameworks; as well as game patches and hotfixes; vanilla game bugs; and the consequences of (seemingly) minor mod setting tweaks on gameplay. Further modify the list at your own peril. We hope that you are able to customize a fun, stable, great experience tailored to your specific tastes using Listonomicon as a stepping stone - but will not offer troubleshooting or technical support. There is a number of "Optional" mods included in Listo for players who want certain QoL or challenge features where we will try to help, but do not endorse that the end result will be balanced or fun or sane! If you are customizing the list and trying to play multiplayer, please be aware that your mod list, including the exact order mods are in, MUST be the same as all COOP friends. Otherwise MP will break. In fact many things break BG3 MP so you will need to do a lot of troubleshooting.
 
 ## **How do I Get Help?**
-1.) Make sure to look at the installation guide and **follow in order**. Make sure you copied the contents of the mod settings .zip and pasted them in %appdata%/local/larian studios/script extender. Make sure you have launched the game vanilla via Steam at least once to establish the files/paths MO2 and BG3MM need to apply mods. Make sure you have imported the mod load order .json in BG3MM and have Listo's mods applied correctly, and hit export order to game, then launched the game via MO2. Try using the dx11 and the Vulkan version of the game.
+1.) Make sure to look at the installation guide and **follow in order**. Make sure you have a fresh install of Baldur's Gate 3, launched vanilla via Steam at least once, and nuked %appdata%/local/larian studios to wipe out any non-Listo mod files you may have. Try using the dx11 and the Vulkan version of the game.
 
 2.) The next step would be to check our FAQ
 
