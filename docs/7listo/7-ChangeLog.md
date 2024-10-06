@@ -57,6 +57,8 @@ NOTE: The distribution of "Optional" Listo mods is no longer a big convenient li
 - Titan's Grip
 23. Many mod updates, as always.
 24. Re-organized everything in MO2. MO2 is now THE load order of mods for the game.
+25. UPDATED the extra encounters mod to grant more XP (less than base but no longer using the borderline zero XP config).
+26. UPDATED Combat Extender's config to reduce the amount of enemies with access to Heat Metal in Grymforge, to nerf Grym's movement speed slightly, and to open an additional avenue for dealing damage to Grym.
 
 # Listonomicon v1.2.0
 
