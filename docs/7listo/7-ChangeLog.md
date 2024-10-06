@@ -13,6 +13,51 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v2.0
+
+Save Safe: No.
+
+FRESH INSTALL REQUIRED.
+
+The most significant aspect of this update is that BG3MM and manual Script Extender installation is no longer required, and manual mod settings file installation in %appdatalocal%/larian/etc is no longer required. However the new and improved system will conflict with any files in these locations. It is highly recommended that you nuke/reinstall BG3, delete %AppData%\Local\Larian Studios, then launch the game vanilla via Steam once to rebuild all the files/paths needed for MO2.
+NOTE: The distribution of "Optional" Listo mods is no longer a big convenient list at the bottom of MO2. The order of mods in MO2 will be the order of your mods in game -- these means optional mods had to be placed where they need to be for the game to work with them enabled. You are encouraged to look through MO2 to find the optional mods you want, or might like to try. You can quickly look just for files that have a notepad icon which means there's special notes/instructions included.
+
+1. ADDED College of Dance.
+2. ADDED Harmony Habiliment.
+3. ADDED Show me My Dream Guardian.
+4. ADDED Better Matis Gear.
+5. ADDED a fix for the toggle tooltip mod.
+6. ADDED BlocknMiss Differentiation.
+7. ADDED Dark urge Banter Dialogue Fixes.
+8. ADDED The Burning Earth.
+9. ADDED Way of the Drunken Master.
+10. ADDED Casamir and Sedrick - Crawling Hand Pets.
+11. ADDED Goon's Passive Library (in the future this will enable even more Combat Extender magic).
+12. ADDED DnD 2024 Fighting Styles.
+13. MOVED Combat Extender AI and Smarter Enemies AI to "Optional" status. Both mods are great and I recommend all players use one or the other, however there are a handful of consistent crashes that requires disabling the AI mods to get through certain encounters for many players.
+14. ADDED Yoesph's Listo Patch. HUGE THANK YOU to Yoesph volunteering his time and talent to making a bunch of balance tweaks and patches just for Listo!
+- Patches several mods for Listo-oriented balance.
+- Moves Foe Bane's location to a semi-secret Act 2 encounter.
+- Limits Shadar-Kai's misty step ability to be [proficiency bonus]-per-Long-Rest instead of unlimited.
+- Re-balances the Mobility Feat.
+- Changes the Belt of Frost Giant Strength to be a +str item rather than a set strength item.
+- Removes a feat unwanted in Listo but needed as a mod library.
+- Nerfs Deadly Alacrity to not provide a stat increase.
+- Increases the base price of Fang of Boitata slightly.
+15. ADDED PK Hair Collection.
+16. ADDED Funky Froge Skintones.
+17. ADDED P4 NPC Heads for Tav.
+18. REMOVED Play With Me.
+19. REMOVED Perform With Your Party. PWM/PWYP are fun mods, however the use of JWL Discordant Instruments means very few parties these days even have an instrument equipped, so this became unnecessary bloat.
+20. REMOVED Cloaks of Faerun (broken with Patch 7 / Listo 2.0 / new MO2 plugin).
+21. REMOVED Spectacular Ensemble (broken with Patch 7 / Listo 2.0 / new MO2 plugin).
+22. OPTIONAL MODS: ADDED
+- Eye of Vecna
+- Hand of Vecna
+- Titan's Grip
+23. Many mod updates, as always.
+24. Re-organized everything in MO2. MO2 is now THE load order of mods for the game.
+
 # Listonomicon v1.2.0
 
 Save Safe: Recommend a new game, as many classes/subclasses will require a respec to update features and level progression.
