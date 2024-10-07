@@ -13,6 +13,19 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v2.1
+
+Save Safe: Yes from v2.0.
+
+1. UPDATED the MO2-BG3 plugin to improve compatability with some mods, thanks to Zino.
+   - RESTORED Spectactular Ensemble
+   - RESTORED Cloaks of Faerun
+   - RESTORED Mintharpy Hair
+2. ADDED OPTIONAL mod Better Mattis Gear.
+3. CHANGED Rootbuilder settings. I was unaware that the old settings prevented users from launching the game if Listo and BG3 were not installed on the same storage device. This should be fixed.
+4. UPDATED 7 mods.
+5. UPDATED Combat Extender based on new Goon's Passive Library features. Specifically replaced a hackneyed solution for the Phase Spider Matriarch to give her a more direct fall damage resistance buff.
+
 # Listonomicon v2.0
 
 Save Safe: No.
