@@ -32,7 +32,7 @@ Save Safe: No.
 
 FRESH INSTALL REQUIRED.
 
-The most significant aspect of this update is that BG3MM and manual Script Extender installation is no longer required, and manual mod settings file installation in %appdatalocal%/larian/etc is no longer required. However the new and improved system will conflict with any files in these locations. It is highly recommended that you nuke/reinstall BG3, delete %AppData%\Local\Larian Studios, then launch the game vanilla via Steam once to rebuild all the files/paths needed for MO2.
+The most significant aspect of this update is that BG3MM and manual Script Extender installation is no longer required, and manual mod settings file installation in %appdatalocal%/larian/etc is no longer required. However the new and improved system will conflict with any files in these locations. It is highly recommended that you nuke/reinstall BG3, delete %appdatalocal%/Larian Studios, then launch the game vanilla via Steam once to rebuild all the files/paths needed for MO2.
 NOTE: The distribution of "Optional" Listo mods is no longer a big convenient list at the bottom of MO2. The order of mods in MO2 will be the order of your mods in game -- these means optional mods had to be placed where they need to be for the game to work with them enabled. You are encouraged to look through MO2 to find the optional mods you want, or might like to try. You can quickly look just for files that have a notepad icon which means there's special notes/instructions included.
 
 1. ADDED College of Dance.
@@ -399,7 +399,7 @@ Save safe? No.
 7. ADDED around 8 new gameplay mods - but some of these are optional. Read below.
 8. ADDED Homebrew Spells, to help make up for the loss of PF2e. RIP.
 9. ADDED alternate options for UI mods to better suit ultrawide 21:9 players.
-10. UPDATED Listo mod settings, please re-do this install step as always. It may be safest to nuke the contents of %appdata%/local/larian studios/script extender first to get rid of anything old and no longer needed.
+10. UPDATED Listo mod settings, please re-do this install step as always. It may be safest to nuke the contents of %appdatalocal%/larian studios/script extender first to get rid of anything old and no longer needed.
 11. UPDATED Yuuko Shionji's Listonomicon Patch to address a magic item economy inflation issue in AEE.
 
 Listonomicon Now Has "Optional" Mods
