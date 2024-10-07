@@ -27,7 +27,7 @@ NOTE: The distribution of "Optional" Listo mods is no longer a big convenient li
 3. ADDED Show me My Dream Guardian.
 4. ADDED Better Matis Gear.
 5. ADDED a fix for the toggle tooltip mod.
-6. ADDED BlocknMiss Differentiation.
+6. REMOVED Githyanki HD Body Spot Textures, and related Gith cosmetic mods.
 7. ADDED Dark urge Banter Dialogue Fixes.
 8. ADDED The Burning Earth.
 9. ADDED Way of the Drunken Master.
@@ -44,7 +44,7 @@ NOTE: The distribution of "Optional" Listo mods is no longer a big convenient li
 - Nerfs Deadly Alacrity to not provide a stat increase.
 - Increases the base price of Fang of Boitata slightly.
 15. ADDED PK Hair Collection.
-16. ADDED Funky Froge Skintones.
+16. Thanks for actually reading change logs :)
 17. ADDED P4 NPC Heads for Tav.
 18. REMOVED Play With Me.
 19. REMOVED Perform With Your Party. PWM/PWYP are fun mods, however the use of JWL Discordant Instruments means very few parties these days even have an instrument equipped, so this became unnecessary bloat.
@@ -54,12 +54,20 @@ NOTE: The distribution of "Optional" Listo mods is no longer a big convenient li
 - Eye of Vecna
 - Hand of Vecna
 - Titan's Grip
+- Moved all AI mods (Smart AI, CXAI) to "Optional" status
 23. Many mod updates, as always.
 24. Re-organized everything in MO2. MO2 is now THE load order of mods for the game.
 25. UPDATED the extra encounters mod to grant more XP (less than base but no longer using the borderline zero XP config).
 26. UPDATED Combat Extender's config to reduce the amount of enemies with access to Heat Metal in Grymforge, to nerf Grym's movement speed slightly, and to open an additional avenue for dealing damage to Grym. Added fire resistance to the Fists of Bane.
 27. REMOVED Oath of Conquest. It's out of date, and the up-to-date versions block other Paladin subclasses from working.
 28. REMOVED Minharpy hair.
+29. REMOVED Lokelani's Lovely Lassies.
+30. REMOVED Frosty Faces.
+31. REMOVED New CC Head Presets Vol 2.
+32. REMOVED BLossom's Presets.
+33. REMOVED Poesilibre's Heads.
+34. REMOVED Jun's Head Pack.
+35. REMOVED Wayward Faces.
 
 # Listonomicon v1.2.0
 
