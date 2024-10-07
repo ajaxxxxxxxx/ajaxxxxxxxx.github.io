@@ -9,10 +9,6 @@ description: Listonomicon
 
 ## Tav, Durge, and Dream Visitor Customization Notes
 
-:::warning 
-Do not hit “Randomize Appearance.” It will result in a CTD :)
-::: 
-
 - Listonomicon offers many new custom head meshes, which can (and many times do) conflict with new piercings and hairstyles. Specifically, piercings and hairstyles that try to apply physics can be wonky - this is not the fault of the cosmetic mod makers, and it is not really within the power of Listo to fix these conflicts.
 - If your Character Creation menu is missing sections, try disabling the “CC Cleaner” mod and try again. It is unknown why this mod breaks character creation for some players.
 
