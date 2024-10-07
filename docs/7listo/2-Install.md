@@ -83,6 +83,6 @@ Per the image above, set your difficulty settings as follows:
 
 ### 9.) Optional Mods
 
-There are several optional mods packaged with Listonomicon to enable even more fun, whacky, QoL, random, or challenge features. [Please read the comments on the Optional Mods tab of this excel](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing) for a description/overview of optional mods, if you wish to. No official support is offered for adding any other mods to Listonomicon. You can find optional mods in MO2 by looking for the notepad image. Hover over the notepad to read any notes relevant to enabling that mod, such as other mods that need to be enabled or disabled with it.
+There are several optional mods packaged with Listonomicon to enable even more fun, whacky, QoL, random, or challenge features. [Please read the comments on the Optional Mods tab of this excel](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing) for a description/overview of optional mods, if you wish to. No official support is offered for adding any other mods to Listonomicon. You can find optional mods in MO2 by typing OPTIONAL into the search bar at the bottom-right of your mod list. Hover over the notepad icon to the right of the mod's name to read any notes relevant to enabling that mod, such as other mods that need to be enabled or disabled with it.
 
 ![Optional Mod Example](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/optional%20mods.png)
