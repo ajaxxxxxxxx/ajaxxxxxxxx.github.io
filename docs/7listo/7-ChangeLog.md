@@ -13,6 +13,18 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v2.2.1
+
+Save Safe: Yes from v2.2.
+
+1. UPDATED BG3-MO2 Plugin to version 2.4.0.
+   - If you are STILL struggling to enable optional mods, or custom added mods: CLOSE MO2, then go to [install path]\Listonomicon\profiles\Listonomicon and delete modsCache.json.
+   - This update should further resolve edge cases, bugs, and issues with certain mods not working with the plugin.
+   - This update should further resolve edge cases, bugs, and issues with the modsCache failing to receive updates from MO2 and sending them to modsettings.lsx.
+2. UPDATED 13 mods. Including fixing an issue with Foe Bane and Burning Earth not being equipable.
+3. ADDED No Free NPC Heals (NPCs will not magically, infinitely heal themselves if damaged out of combat, meaning stealthy assassins can actually play the game without needing a 1-hit-kill to do their role).
+4. REORGANIZED MO2 based on further feedback to hide categories/selections that don't matter, and show the notes column so it is easier to understand how to use OPTIONAL mods.
+
 # Listonomicon v2.2
 
 Save Safe: Yes from v2.1.
