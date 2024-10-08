@@ -21,6 +21,7 @@ Save Safe: Yes from v2.2.
    - If you are STILL struggling to enable optional mods, or custom added mods: CLOSE MO2, then go to [install path]\Listonomicon\profiles\Listonomicon and delete modsCache.json.
    - This update should further resolve edge cases, bugs, and issues with certain mods not working with the plugin.
    - This update should further resolve edge cases, bugs, and issues with the modsCache failing to receive updates from MO2 and sending them to modsettings.lsx.
+   - Another big THANK YOU to Zino for all of his bugfixing over the last 96 hours. His hard work alone is pushing the whole BG3 mod scene forward by eliminating the awkward MO2-BG3MM nonsense we used to deal with. Everybody say thank you Zino.
 2. UPDATED 13 mods. Including fixing an issue with Foe Bane and Burning Earth not being equipable.
 3. ADDED No Free NPC Heals (NPCs will not magically, infinitely heal themselves if damaged out of combat, meaning stealthy assassins can actually play the game without needing a 1-hit-kill to do their role).
 4. REORGANIZED MO2 based on further feedback to hide categories/selections that don't matter, and show the notes column so it is easier to understand how to use OPTIONAL mods.
