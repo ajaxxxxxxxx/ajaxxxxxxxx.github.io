@@ -13,6 +13,21 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v2.2.2
+
+Save Safe: Yes* from v2.2.1. If you chose any of the new fighting styles, respec affected characters before updating.
+
+1. REMOVED DnD 2024 Fighting Styles, which included changes to feats and game mechanics not described on the mod page / updates have taken it in the direction of making more 2024 edition game changes than desired for Listonomicon.
+2. ADDED Tomes and Manuals. This mod adds classic D&D artefacts like the Manual of Quickness of Action. The book is consumed upon reading and confers a permanent +1 to the relevant stat. Combined with the hag hair this can add up to a +2 in one stat (potentially helping you reach 22 Charisma or Intelligence for example), and/or can mix with the Act 2 alchemist special potion and/or the Creche strength belt to help characters secure a superhuman stat.
+3. UPDATED mods
+   - Goon's Passive Library
+   - Valkrana's Skeleton Crew
+   - Drunken Master
+   - No Free NPC Heals
+   - Yoesph's Listo Patch
+4. ADDED Ajax Better Hints.
+   - Do you want to write custom hints and loading screen tips for Listonomicon? We have a channel for you to contribute!
+
 # Listonomicon v2.2.1
 
 Save Safe: Yes from v2.2.
