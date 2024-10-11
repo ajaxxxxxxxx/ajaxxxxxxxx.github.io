@@ -21,6 +21,7 @@ Save Safe: Yes* from v2.2.2.
 2. UPDATED Way of the Astral Self, Drunken Master, College of Dance, and Illithid Powers Overhaul 2.
 3. UPDATED Listo Lite to match the current state of Listonomicon Prime.
 4. REPLACED Better Hotbar 2. You no longer need a seperate version for Ultrawide vs Normal monitors (and Ultra-chads no longer need to use Normal for multiplayer comaptibility). They have been combined into ONE mod that DYNMICALLY adjusts the hotbar to match your screen resolution!
+5. Secret Combat Extender update hehe :)
 
 # Listonomicon v2.2.2
 
