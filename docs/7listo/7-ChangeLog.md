@@ -13,6 +13,15 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v2.2.3
+
+Save Safe: Yes* from v2.2.2.
+
+1. UPDATED Ajax Better Hints (thanks everyone for your contributions).
+2. UPDATED Way of the Astral Self, Drunken Master, College of Dance, and Illithid Powers Overhaul 2.
+3. UPDATED Listo Lite to match the current state of Listonomicon Prime.
+4. REPLACED Better Hotbar 2. You no longer need a seperate version for Ultrawide vs Normal monitors (and Ultra-chads no longer need to use Normal for multiplayer comaptibility). They have been combined into ONE mod that DYNMICALLY adjusts the hotbar to match your screen resolution!
+
 # Listonomicon v2.2.2
 
 Save Safe: Yes* from v2.2.1. If you chose any of the new fighting styles, respec affected characters before updating.
