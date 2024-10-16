@@ -78,18 +78,6 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
-			docId: '2capitalpunishment/Home',
-            label: 'Capital Punishment',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
-			docId: '3dnd/dnd',
-            label: 'Dungeons & Daedra',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
 			docId: '4hos/Home',
             label: 'Halls of Sovngarde',
           },
