@@ -13,6 +13,21 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v2.2.5
+
+Save Safe? Yes.
+
+1. UPDATED Listo's install instructions for users struggling with custom lists/enabling optional mods.
+2. UPDATED 13 mods.
+3. ADDED Mourning Frost AOE Fixer.
+4. ADDED Luma's latest and greatest, Oath of Conquest paladin subclass.
+5. ADDED Namaer'as Curseborn Heads.
+6. ADDED A Gith Can Change Their Spots.
+
+# Listonomicon v2.2.4
+
+Internal testing.
+
 # Listonomicon v2.2.3
 
 Save Safe: Yes* from v2.2.2.
