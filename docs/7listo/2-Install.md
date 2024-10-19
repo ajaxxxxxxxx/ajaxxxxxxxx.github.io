@@ -14,6 +14,13 @@ description: Listonomicon
 - A Nexus Account (Premium recommended; drastically increases install speed)
 :::
 
+ 
+#### Installing Microsoft Visual C++ and .NET
+This is necessary for players who want to customize Listo (including enabling optional mods or changing UI)
+1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
+2. Install [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
+3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer). 
+
 ![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/bol.png)
 
 ### 1.) Reinstall Baldur's Gate 3
