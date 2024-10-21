@@ -13,6 +13,28 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v2.3
+
+Save Safe? No. (technically yes if you are not using the removed cosmetic and are okay with respec'ing every character to clear outdated class progression/Expansion 13-20 issues, but please either start a new game or stay on the current update to finish an ongoing campaign)
+
+1. REMOVED Better Mattis Gear optional mod.
+2. UPDATED 6 mods.
+3. REPLACED Casamir and Sedrick - Crawling Hand Pets with the "Immersive Placement" version and changed the mod from optional, to default. ghouls0rules continues to be GOATed.
+4. REMOVED Minharpy hair, because woops another mod in Listo already did that.
+5. ADDED and UPDATED dragonborn CC options, especially for women. Yes I am aware some of the features for the Vexa head are untextured, there's a mishmash of update status across all the dragonborn CC mods while one currently breaks the MO2 plugin, requiring me to ductape everything else together as best as I can.
+6. ADDED, by popular request for a very long time now, Echo Knight.
+7. ADDED Mystic Class. This Intelligence-based psionics class can, through its various subclasses, act like a sorcerer, a monk, or an INT paladin; mix with wizard and Eldritch Knight; and generally opens a whole new dimension to the game. Think about all the synergies and options are added by Artificer, times 10. Please provide your feedback on this class, its subclasses, and how it fits into Listo - this is too big for me to thoroughly test myself!
+8. ADDED Monster Slayer, the Ranger subclass.
+9. ADDED Swarmkeeper, the Ranger subclass.
+10. ADDED Already Inspected, a mod that should leave looted containers in their visually looted state.
+11. ADDED Owlbear Cub Permanent Hostility Fix, to hopefully fix one of the intended ways of recruiting the owlbear cub without forcing everyone to use the Goblin Camp method.
+12. ADDED Way of Mercy, a monk subclass.
+13. ADDED Invocations Expanded, which implements many of the tabletop game eldritch invocations for warlocks.
+14. ADDED Psi Warrior, a fighter subclass.
+15. ADDED Path of the Giant, a barbarian subclass.
+16. ADDED Path of the Storm Herald, a barbarian subclass.
+17. ADDED Listo custom loading screen. Thanks Reyqune for help.
+
 # Listonomicon v2.2.5
 
 Save Safe? Yes.
