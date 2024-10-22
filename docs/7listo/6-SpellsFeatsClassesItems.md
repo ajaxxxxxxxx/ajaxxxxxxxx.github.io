@@ -85,7 +85,6 @@ New subclasses:
 * College of Creation
 * College of Eloquence
 * College of Dance
-* College of Dance lvl 20 patch
 
 ## Cleric
 
