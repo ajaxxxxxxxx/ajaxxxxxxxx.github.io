@@ -11,7 +11,7 @@ description: Listonomicon
 
 [Valdacil's Spell Adjustments](https://www.nexusmods.com/baldursgate3/mods/4426) makes a number of critical changes to various vanilla BG3 spells. Namely:
 
-* Hex is now something you cast at the start of the day. It does not cost an action or any slots to prepare - but once it is prepared, you will gain a new hex spell on your hotbar that you use to actually apply the effect to a target. The spell applies disadvantage on all ability checks (you don't pick one), and you get the extra 1d6 necrotic damage. Re-casting the spell to target new creatures costs a bonus action but no more spell slots. Cast the Hex spell, and then use Hex Target to actually hex your target.
+* Hex is now something you cast at the start of the day. It costs 1 slot to cast the first time - but once it is prepared, you will gain a _new_ hex spell on your hotbar called "Hex Target." This is what you use to actually apply the hex to an enemy. The spell applies disadvantage on all ability checks (you don't pick one), otherwise it works as normal. Re-casting the spell to target new creatures costs a bonus action but not more spell slots. Cast Hex at the start of the day to prepare the spell, and then use Hex Target to actually hex enemies during encounters.
 * Hunter's Mark works the same way. Cast Hunter's Mark, then use Mark Target to apply the effect to targets.
 * Shield of Faith lasts until long rest and does not require Concentration.
 * Many spells can be upcasted to have multiple targets and will scale to 9th level.
@@ -37,7 +37,7 @@ The [Arcanist Feat](https://www.nexusmods.com/baldursgate3/mods/1087) allows you
 
 The [Caustic Feat](https://www.nexusmods.com/baldursgate3/mods/10031) adds a Poison version of the Elemental Adept feat. It also reduces poison immunity to poison resistance, meaning poison builds are not _completely_ useless in Act 2.
 
-[Essential Feats](https://www.nexusmods.com/baldursgate3/mods/5623) adds a great variety of feats. For multiclass melee-caster builds, War Magic allows you to combine casting with weapon swinging. Deadly Alacrity reduces the number needed to roll a crit and restroes mobility for hits and kills, though Listo removes the +1 stat bonus. Alchemist turns anyone into a potion throwing utility character. And various Initiate, Touched, and Adept feats give limited access to the features of other classes such as a fighting maneuver, eldritch invocation, or metamagic.
+[Essential Feats](https://www.nexusmods.com/baldursgate3/mods/5623) adds a great variety of feats. For multiclass melee-caster builds, War Magic allows you to combine casting with weapon swinging. Deadly Alacrity reduces the number needed to roll a crit and restores mobility for hits and kills, though Listo removes the +1 stat bonus. Alchemist turns anyone into a potion throwing utility character. And various Initiate, Touched, and Adept feats give limited access to the features of other classes such as a fighting maneuver, eldritch invocation, or metamagic.
 
 [Rebalance Feats](https://www.nexusmods.com/baldursgate3/mods/5614) changes a few feats in BG3 to be more or less powerful. Specifically, Great Weapon Master and Sharpshooter are seperately rebalanced by [this mod](https://www.nexusmods.com/baldursgate3/mods/3315).
 
@@ -61,10 +61,11 @@ Changes the Rogue (Thief) double bonus action to instead be a toggle ability all
 
 These mods effect wild magic sorcerers, wild magic barbarians, and/or other situations where the wild magic effects table is rolled such as certain wild magic enemies. Sorcerers should only accrue wild magic surge chances during combat and the chance starts low and grows as you cast with Tides of Chaos active, creating a whacky risk-reward gameplay experience.
 
-*More Wild Magic effects
-*Wild Magic D100 Table
-*Increasingly Likely Wild Magic Surge
-*Increasingly Likely Wild Magic Surge - Combat Only
+* More Wild Magic effects
+* Wild Magic D100 Table
+* Increasingly Likely Wild Magic Surge (Combat Only)
+
+If Volo dies for any reason, the Weave will begin unraveling and _all magic becomes wild magic_.
 
 ## Barbarian
 
