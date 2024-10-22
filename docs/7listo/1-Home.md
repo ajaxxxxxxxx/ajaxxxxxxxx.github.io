@@ -65,7 +65,7 @@ Please source all help to our discord alone. Even if you think that your questio
 
 ![BirdJax](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/BirdJaxBae.png)
 
-List Philosophy aka "Why make Listonomicon? Why play Listonomicon"
+# List Philosophy aka "Why make Listonomicon? Why play Listonomicon"
 
 This self-aggrandizing page summarizes the mission statement, purpose, goals, and intent of Listonomicon. The tl;dr is that we really enjoyed playing BG3, and wanted to add more on top of it, fix bugs, and make QoL tweaks. LillyBird and I do not see a reason to dramatically change the game or add scoops of foreign content. We just want more BG3.
 
