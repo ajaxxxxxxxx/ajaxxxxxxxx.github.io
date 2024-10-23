@@ -18,18 +18,19 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 Save Safe? Yes*. Anyone playing a Shadow Sorcerer should be prepared to respec after updating due to a big update to that subclass mod.
 
 1. UPDATED Astral Self, Zealot, Shadow Sorcerery, Goon's Passive Library, Expansion 13-20, Tomes and Manuals.
-2. ADDED Dye Support for Shields. All (vanilla) shield models should support applying dyes.
-3. ADDED Enweaved (thank you Yoesph and Goon for working all night/morning on this). This adds a new feat that allows any player to get +2 INT/WIS/CHA, to a limit of 22, but the price is dire (and hilarious). This is mostly intended to be a joke/challenge inclusion for Listo players too dumb or too brave.
-4. ADDED Mage Armor Quality of Life. Mage Armor should no longer be disabled by putting armor on, it will only be temporarily suppressed. So you no longer need to fear accidentally equipping boots or gloves that are actually light armor or whatever, and wasting that spell slot.
-5. ADDED Mantle of Holy Light, a magic cloak hidden in Act 2.
-6. ADDED Lydia's Head Patch for Genasi, increasing the variety of heads available for our favorite demi-elementals.
-7. ADDED Alternative Prone Rules. Being knocked prone no longer ends your turn! It just costs half your movement to stand up, and a Concentration check.
-8. ADDED Experimental Alchemy as a Feat. This is an alternative way to get access to Experimental Alchemy, in addition to the similar Alchemist feat, being a wizard, or being an artificer. All of these sources of Exp Alch do NOT stack.
-9. ADDED Vampiric Touch for Oathbreakers, Warden of Vitality for Druids and Clerics, Upcastable Elemental Weapon For Druids and Rangers, and More Spore Druid Circle Spells. This spreads a couple under loved spells to subclasses that either gained access as part of TCoE, or deserve access to more thematically appropriate spells.
-10. ADDED Druid Wild Companion, giving druids access to find familiar and flock of familiars.
-11. ADDED Druids Speak With Animals. Druids will now always have Speak With Animals prepared.
-12. ADDED Actually GOODberry, which makes the goodberry spell less bad.
-13. Updated Listo's wiki heavily. The old "Why play Listo?" philosophy page has been repurposed to talk about information pertaining to builds, such as links to mods for feats and a list of subclasses added in Listo. The wiki is going to be heavily WIP for a long time to catalog and detail everything Listo changes and what build varieties people should explore. Do you think you could contribute? [Make a pull request on this Github page with your additions](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/blob/main/docs/7listo/6-SpellsFeatsClassesItems.md).
+   * Because of the update to Goon's library, my silly ha ha le funi imp combat extender edits now actually work as intended. Sorry.
+3. ADDED Dye Support for Shields. All (vanilla) shield models should support applying dyes.
+4. ADDED Enweaved (thank you Yoesph and Goon for working all night/morning on this). This adds a new feat that allows any player to get +2 INT/WIS/CHA, to a limit of 22, but the price is dire (and hilarious). This is mostly intended to be a joke/challenge inclusion for Listo players too dumb or too brave.
+5. ADDED Mage Armor Quality of Life. Mage Armor should no longer be disabled by putting armor on, it will only be temporarily suppressed. So you no longer need to fear accidentally equipping boots or gloves that are actually light armor or whatever, and wasting that spell slot.
+6. ADDED Mantle of Holy Light, a magic cloak hidden in Act 2.
+7. ADDED Lydia's Head Patch for Genasi, increasing the variety of heads available for our favorite demi-elementals.
+8. ADDED Alternative Prone Rules. Being knocked prone no longer ends your turn! It just costs half your movement to stand up, and a Concentration check.
+9. ADDED Experimental Alchemy as a Feat. This is an alternative way to get access to Experimental Alchemy, in addition to the similar Alchemist feat, being a wizard, or being an artificer. All of these sources of Exp Alch do NOT stack.
+10. ADDED Vampiric Touch for Oathbreakers, Warden of Vitality for Druids and Clerics, Upcastable Elemental Weapon For Druids and Rangers, and More Spore Druid Circle Spells. This spreads a couple under loved spells to subclasses that either gained access as part of TCoE, or deserve access to more thematically appropriate spells.
+11. ADDED Druid Wild Companion, giving druids access to find familiar and flock of familiars.
+12. ADDED Druids Speak With Animals. Druids will now always have Speak With Animals prepared.
+13. ADDED Actually GOODberry, which makes the goodberry spell less bad.
+14. Updated Listo's wiki heavily. The old "Why play Listo?" philosophy page has been repurposed to talk about information pertaining to builds, such as links to mods for feats and a list of subclasses added in Listo. The wiki is going to be heavily WIP for a long time to catalog and detail everything Listo changes and what build varieties people should explore. Do you think you could contribute? [Make a pull request on this Github page with your additions](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/blob/main/docs/7listo/6-SpellsFeatsClassesItems.md).
 
 Again big thanks to Yoesph/Goonsack continuing to make content just because I ask them to. Thanks Chizfreak and Sumdra for joining the Discord and helping explain your mods to me, many of them could (and should) have been incorporated a long time ago. Thanks Reyqune for making me your Enhanced Edition tester so I could steal notes on QoL mods you found and I didn't. :)
 
