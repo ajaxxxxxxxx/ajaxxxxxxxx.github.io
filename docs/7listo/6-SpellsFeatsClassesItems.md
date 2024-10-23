@@ -31,7 +31,7 @@ Speak with Animals and Longstrider are AoE casts that last until long rest, dram
 
 As an _optional mod_, [PF2e Spells](https://www.nexusmods.com/baldursgate3/mods/2460) is included in Listonomicon. It adds a very large variety of spells, however it also adds several spells that overlap with BG3/5e, uses different scaling math per spell slot level, and has other features that are not explained well in tooltips and spell descriptions (if at all). It also introduces Action -> Bonus Action conversion, which is a whole host of balance issues. Enable the mod if you love having a ton of variety in your spell options, leave it disabled if you don't want to deal with the wonk.
 
-# New and Changed Feats
+## New and Changed Feats
 
 The [Arcanist Feat](https://www.nexusmods.com/baldursgate3/mods/1087) allows you to gain +1 INT, gain expertise in Arcana, and learn any level 1 spell which can be casted once per short rest. Consider how various level 1 spells (such as Shield of Faith) have been rebalanced. That's basically a free +2 AC for anyone who would not otherwise have access to the spell, such as an Eldritch Knight.
 
