@@ -13,6 +13,18 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v2.3.2
+
+Save Safe? Yes* unless you are dragonborn then it might struggle, I honestly don't know.
+
+1. UPDATED, STANDARDIZED, REORGANIZED, MOVED dragonborn cosmetics mods. Mostly fixes issues created in the last update, now there is only 1 set of horns/jaws that don't work. Simply don't select the cosmetic option that says "Not Found" :) Setting them aside in their own little section will hopefully prevent future problems from having them installed in the wrong order.
+2. UPDATED Goon's Passive Library.
+3. UPDATED Enweaved.
+4. UPDATED Yoesph's Listo Custom Patches. Thank you Yoesph!
+  * This update specifically addresses the [Harmony Habiliment](https://www.nexusmods.com/baldursgate3/mods/12650) mod. The contents of the mod have been updated with prices that reflect their relative value to other magic items. The amazing magic shirt has been moved to a vendor close to the start of Act 3. The whole set is no longer sold for a measly 100 gp available on multiple vendors. The rest of the items are distributed across multiple Act 1 vendors.
+5. ADDED Horizon Walker, a Ranger subclass.
+6. ADDED Hats of Power, meaning more +2 stat hats are for sale in Sorcerous Sundries.
+
 # Listonomicon v2.3.1
 
 Save Safe? Yes*. Anyone playing a Shadow Sorcerer should be prepared to respec after updating due to a big update to that subclass mod.
