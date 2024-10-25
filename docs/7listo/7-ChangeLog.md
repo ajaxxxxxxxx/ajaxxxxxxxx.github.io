@@ -19,7 +19,7 @@ Save Safe? Yes* unless you are dragonborn then it might struggle, I honestly don
 
 1. UPDATED, STANDARDIZED, REORGANIZED, MOVED dragonborn cosmetics mods. Mostly fixes issues created in the last update, now there is only 1 set of horns/jaws that don't work. Simply don't select the cosmetic option that says "Not Found" :) Setting them aside in their own little section will hopefully prevent future problems from having them installed in the wrong order.
 2. UPDATED Goon's Passive Library.
-3. UPDATED Enweaved.
+3. UPDATED Enweaved. If you were trying to use this in your playthrough, it may be worth doing a respec to get rid of and then get the feat back to make sure it is properly working.
 4. UPDATED Yoesph's Listo Custom Patches. Thank you Yoesph!
   * This update specifically addresses the [Harmony Habiliment](https://www.nexusmods.com/baldursgate3/mods/12650) mod. The contents of the mod have been updated with prices that reflect their relative value to other magic items. The amazing magic shirt has been moved to a vendor close to the start of Act 3. The whole set is no longer sold for a measly 100 gp available on multiple vendors. The rest of the items are distributed across multiple Act 1 vendors.
 5. ADDED Horizon Walker, a Ranger subclass.
