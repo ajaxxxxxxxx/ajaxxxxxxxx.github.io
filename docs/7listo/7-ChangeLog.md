@@ -24,6 +24,7 @@ Save Safe? Yes* unless you are dragonborn then it might struggle, I honestly don
   * This update specifically addresses the [Harmony Habiliment](https://www.nexusmods.com/baldursgate3/mods/12650) mod. The contents of the mod have been updated with prices that reflect their relative value to other magic items. The amazing magic shirt has been moved to a vendor close to the start of Act 3. The whole set is no longer sold for a measly 100 gp available on multiple vendors. The rest of the items are distributed across multiple Act 1 vendors.
 5. ADDED Horizon Walker, a Ranger subclass.
 6. ADDED Hats of Power, meaning more +2 stat hats are for sale in Sorcerous Sundries.
+7. WIPED Modscache. So it turns out Goon's library wasn't loading in the last update at all. Which probably broke a lot of custom CX encounters. Woops. In my defense I'm learning new update workflows with the new MO2 plugin!
 
 # Listonomicon v2.3.1
 
