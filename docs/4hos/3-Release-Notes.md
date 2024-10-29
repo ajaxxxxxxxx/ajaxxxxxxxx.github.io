@@ -52,6 +52,7 @@ Save Safe? NO
 
 * [UpscalerBasePlugin](https://www.nexusmods.com/site/mods/502)
 * [Skyrim Upscaler - DLSS FSR2 XeSS](https://www.nexusmods.com/skyrimspecialedition/mods/80343)
+* [HD LODs Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/3333?tab=posts)
 
 # Release 1.2.2
 Save Safe? YES
