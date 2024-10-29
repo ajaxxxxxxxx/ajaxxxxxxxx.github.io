@@ -18,6 +18,7 @@ Save Safe? NO
 * [Ascend - Hidden Peaks of Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/124169)
 * [Horse Save Load Fix](https://www.nexusmods.com/skyrimspecialedition/mods/132110)
 * [JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813)
+* [No Edge Glow - Magic and Transformations UPDATED ESL](https://www.nexusmods.com/skyrimspecialedition/mods/53681)
 
 **Updated**
 
