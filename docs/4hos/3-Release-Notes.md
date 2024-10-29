@@ -2,6 +2,47 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 1.3 (Unreleased)
+Save Safe? NO
+
+**Added**
+
+* [ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA](https://www.nexusmods.com/skyrimspecialedition/mods/130669)
+
+**Updated**
+
+* powerofthree's Tweaks
+  > 1.11 to 1.12.2
+* powerofthree's Papyrus Extender
+  > 5.8 to 5.9
+* Simple Activate SKSE
+  > 1.4.1 to 1.4.2
+* Base Object Swapper
+  > 3.3 to 3.3.1
+* Hide Quest Items in Container Menu
+  > 0.8 to 0.9
+* LOD Unloading Bug Fix
+  > 0.1 to 0.2
+* More Informative Console
+  > 1.2.1 to 1.2.2
+* Papyrus Ini Manipulator
+  > 1.9.6 to 1.9.7
+* Dynamic Gamma SKSE
+  > 1.0.12 to 2.0
+* Simplicity of Seeding - Better Hearthfires and Farming CC Planter Scripts
+  > 0.4 to 0.5
+* FormList Manipulator - FLM
+  > 1.7.1 to 1.8.1
+* Crash Logger SSE AE VR - PDB support
+  > 1.14.1 to 1.15
+* SkyPatcher
+  > 2.4.16 to 3.2
+
+**Removed**
+
+* [UpscalerBasePlugin](https://www.nexusmods.com/site/mods/502)
+* [Skyrim Upscaler - DLSS FSR2 XeSS](https://www.nexusmods.com/skyrimspecialedition/mods/80343)
+
 # Release 1.2.2
 Save Safe? YES
 
