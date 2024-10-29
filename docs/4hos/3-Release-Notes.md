@@ -8,6 +8,16 @@ Save Safe? NO
 **Added**
 
 * [ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA](https://www.nexusmods.com/skyrimspecialedition/mods/130669)
+* [Requiem - Divines and Daedra](https://www.nexusmods.com/skyrimspecialedition/mods/61207)
+* [Defeat the Dragon Cult](https://www.nexusmods.com/skyrimspecialedition/mods/86625)
+* [Cult of the World Eater - Dragon Priests Buff Alduin](https://www.nexusmods.com/skyrimspecialedition/mods/83274)
+* [Cult of the True Dragonborn - Immersive Miraak Difficulty](https://www.nexusmods.com/skyrimspecialedition/mods/83458)
+* [Whiterun Has Walls Redone](https://www.nexusmods.com/skyrimspecialedition/mods/119229)
+* [JK's Dark Brotherhood Sanctuaries](https://www.nexusmods.com/skyrimspecialedition/mods/121950)
+* [JK's Nightingale Hall](https://www.nexusmods.com/skyrimspecialedition/mods/128116)
+* [Ascend - Hidden Peaks of Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/124169)
+* [Horse Save Load Fix](https://www.nexusmods.com/skyrimspecialedition/mods/132110)
+* [JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813)
 
 **Updated**
 
