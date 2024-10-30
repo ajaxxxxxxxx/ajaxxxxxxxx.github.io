@@ -21,6 +21,15 @@ Save Safe? NO
 * [No Edge Glow - Magic and Transformations UPDATED ESL](https://www.nexusmods.com/skyrimspecialedition/mods/53681)
 * [B612 - my little asteroid of useful UI components](https://www.nexusmods.com/skyrimspecialedition/mods/127701)
 
+**Removed**
+
+* [UpscalerBasePlugin](https://www.nexusmods.com/site/mods/502)
+* [Skyrim Upscaler - DLSS FSR2 XeSS](https://www.nexusmods.com/skyrimspecialedition/mods/80343)
+* [HD LODs Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/3333?tab=posts)
+* [Improved Camera SE](https://www.nexusmods.com/skyrimspecialedition/mods/93962)
+* [Improved Camera SE - INI Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/95027)
+* [Improved Camera - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/94096)
+
 **Updated**
 
 * powerofthree's Tweaks
@@ -159,15 +168,6 @@ Save Safe? NO
   > 2.10 to 2.13
 * Simple Hunting Overhaul
   > 1.10 to 1.13
-
-**Removed**
-
-* [UpscalerBasePlugin](https://www.nexusmods.com/site/mods/502)
-* [Skyrim Upscaler - DLSS FSR2 XeSS](https://www.nexusmods.com/skyrimspecialedition/mods/80343)
-* [HD LODs Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/3333?tab=posts)
-* [Improved Camera SE](https://www.nexusmods.com/skyrimspecialedition/mods/93962)
-* [Improved Camera SE - INI Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/95027)
-* [Improved Camera - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/94096)
 
 # Release 1.2.2
 Save Safe? YES
