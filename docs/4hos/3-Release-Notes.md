@@ -133,6 +133,32 @@ Save Safe? NO
   > 2.1.3.2 to 3.1.5
 * C.O.I.N. - Merchant Exchange
   > 2.0 to 2.1.1
+* After the Civil War - Siege Damage Repairs
+  > 2.6 to 2.6.1
+* Kynareth Replaces Talos - Civil War Consequence
+  > 2.0 to 2.1
+* DVA - Dynamic Vampire Appearance
+  > 1.1 to 1.2
+* Environs - The Ruined Tundra Farmhouse
+  > 3.0.1 to 3.0.2
+* Environs - Kolskeggr
+  > 3.0.2 to 3.0.3
+* Environs - Hroggar's House
+  > 2.0.2 to 2.0.3
+* Skyrim Realistic Conquering - All In One
+  > 0.74 to 0.75
+* Favor Jobs Overhaul
+  > 2.7.10 to 2.7.12
+* Producers of Skyrim - Farmers Miners Fishermen Are Vendors
+  > 1.10 to 1.15
+* Take a Nap - Sleep on Chairs
+  > 1.01 to 1.02
+* Extended Encounters
+  > 1.6.7 to 1.6.8
+* Skills of the Wild - New Campfire Survival Skill Trees
+  > 2.10 to 2.13
+* Simple Hunting Overhaul
+  > 1.10 to 1.13
 
 **Removed**
 
