@@ -115,6 +115,24 @@ Save Safe? NO
   > 2.1.2 to 2.1.3
 * Stress and Fear - A Dynamic Sanity System
   > 1.03 to 1.05
+* Headhunter - Bounties Redone
+  > 1.52 to 1.56
+* Time Flies SE
+  > 8.1 to 8.1.4
+* Dynamic Things Alternative - Base Object Swapper
+  > 0.2.2 to 0.3
+* Taunt Your Enemies - Taunting Matters
+  > 1.01 to 1.03
+* Skyrim's Got Talent - Improve As a Bard
+  > 1.7 to 1.76
+* Skyrim's Got Talent - Player Reactions Addon
+  > 1.05 to 1.07
+* NPCs React To Invisibility
+  > 1.03 to 1.11
+* C.O.I.N. - Coins of Interesting Natures
+  > 2.1.3.2 to 3.1.5
+* C.O.I.N. - Merchant Exchange
+  > 2.0 to 2.1.1
 
 **Removed**
 
