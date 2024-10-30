@@ -20,6 +20,10 @@ Save Safe? NO
 * [JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813)
 * [No Edge Glow - Magic and Transformations UPDATED ESL](https://www.nexusmods.com/skyrimspecialedition/mods/53681)
 * [B612 - my little asteroid of useful UI components](https://www.nexusmods.com/skyrimspecialedition/mods/127701)
+* [Offset Movement Animation - Nemesis - Modders Resource](https://www.nexusmods.com/skyrimspecialedition/mods/110408)
+* [First Person Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/123129)
+* [Spider Egg and Sacs Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/48802)
+* [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
 
 **Removed**
 
