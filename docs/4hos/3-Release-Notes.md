@@ -19,6 +19,7 @@ Save Safe? NO
 * [Horse Save Load Fix](https://www.nexusmods.com/skyrimspecialedition/mods/132110)
 * [JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813)
 * [No Edge Glow - Magic and Transformations UPDATED ESL](https://www.nexusmods.com/skyrimspecialedition/mods/53681)
+* [B612 - my little asteroid of useful UI components](https://www.nexusmods.com/skyrimspecialedition/mods/127701)
 
 **Updated**
 
@@ -48,6 +49,72 @@ Save Safe? NO
   > 1.14.1 to 1.15
 * SkyPatcher
   > 2.4.16 to 3.2
+* PrivateProfileRedirector SE - Faster game start (INI file cacher)
+  > 0.6.1 to 0.6.2
+* Dialogue History
+  > 1.1.2 to 2.0.1
+* Container Distribution Framework
+  > 2.0 to 2.2.1
+* Container Distribution Framework - 1.6.640 1.6.659 Backport
+  > 2.0 to 2.2.1
+* Dylbills Papyrus Functions
+  > 6.9 to 7.4
+* DynDOLOD Resources SE 3
+  > Alpha-50 to Alpha-53.1
+* Heavy Armory - New Weapons
+  > 6.0.5 to 6.1.2
+* Civil War Lines Expansion
+  > 1.09 to 1.1
+* Populated Skyrim Reborn SSE
+  > 1.5.1 to 2.5.1
+* Run For Your Lives
+  > 4.0.3 to 4.0.6
+* A Dog's Life
+  > 1.1 to 1.2
+* Face Sculptor Expanded
+  > 1.0 to 1.02
+* Follower Dialogue Expansion - Brelyna Maryon
+  > 2.0 to 2.2.1
+* Follower Dialogue Expansion - Aela the Huntress
+  > 1.0.1 to 3.0.2
+* Follower Dialogue Expansion - Erik the Slayer
+  > 1.0 to 2.0
+* Follower Dialogue Expansion - Jordis the Sword-Maiden
+  > 1.1.2 to 1.1.3
+* Follower Dialogue Expansion - Lydia
+  > 1.0.1 to 1.3
+* Follower Dialogue Expansion - Jenassa
+  > 1.0.3 to 3.0
+* Remiel-Custom Voiced Dwemer Specialist and Companion
+  > 1.7.1 to 1.7.4
+* Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+  > 1.11.2 to 1.12.1
+* SkyNames - Second Names for Unique NPCs
+  > 1.05alpha to 1.07
+* NPCs Names Distributor
+  > 2.5.1 to 2.5.3
+* Tamrielic Names
+  > 1.1 to 1.2.1
+* Smart NPC Potions - Enemies Use Potions and Poisons
+  > 1.11 to 1.2
+* Dismembering Framework
+  > 1.0.1 to 1.0.5
+* DF - Official Creature Asset Pack
+  > 1.0 to 1.0.2
+* Poisoned Arrows and Bolts
+  > 1.0.7 to 1.0.11
+* Alchemical Appraisal Services
+  > 1.2 to 1.6
+* Skyrim Unbound Reborn (Alternate Start)
+  > 2.1.10 to 2.1.14
+* Better Third Person Selection - BTPS
+  > 0.7 to 0.7.1
+* Experience
+  > 3.4.4 to 3.5
+* Pronouns
+  > 2.1.2 to 2.1.3
+* Stress and Fear - A Dynamic Sanity System
+  > 1.03 to 1.05
 
 **Removed**
 
