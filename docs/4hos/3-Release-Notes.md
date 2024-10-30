@@ -168,6 +168,28 @@ Save Safe? NO
   > 2.10 to 2.13
 * Simple Hunting Overhaul
   > 1.10 to 1.13
+* Splashes of Storms
+  > 1.3 to 1.3.1
+* Andrealphus' Exploit Fixes
+  > 1.2.7 to 1.2.12
+* Alchemy Requires Bottles Redux - Patches and SkyPatcher Distribution
+  > 1.0 to 1.1
+* Immersive Interactions - Animated Actions
+  > 1.76 to 1.78
+* NPC Animation Remix (OAR)
+  > 1.9 to 2.0
+* Draugr Spear Animation (AMR)
+  > 1.1 to 1.2
+* Arm Movement Animations (OAR)
+  > 1.6.1 to 2.2
+* Igniting Animation for Campfire
+  > 1.04 to 1.1
+* Organic Player Animations (OAR)
+  > 1.2.1 to 2.0
+* Immersive Hunting Animations
+  > 2.2 to 2.3.1
+* Campfire Animations
+  > 1.2 to 1.3
 
 # Release 1.2.2
 Save Safe? YES
