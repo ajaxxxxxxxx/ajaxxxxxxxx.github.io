@@ -33,6 +33,11 @@ Save Safe? NO
 * [Improved Camera SE](https://www.nexusmods.com/skyrimspecialedition/mods/93962)
 * [Improved Camera SE - INI Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/95027)
 * [Improved Camera - Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/94096)
+* [Rally's Solstheim Landscapes](https://www.nexusmods.com/skyrimspecialedition/mods/35590)
+* [Rally's Solstheim Landscapes Complex Terrain Parallax Edition](https://www.nexusmods.com/skyrimspecialedition/mods/82383)
+* [RVX Dirt 02 Terrain Parallax 1k-2k-4k](https://www.nexusmods.com/skyrimspecialedition/mods/105577)
+* [HD Remastered Blended Roads - 8k 4k 2k 1k](https://www.nexusmods.com/skyrimspecialedition/mods/63674)
+* [Simplest Roads](https://www.nexusmods.com/skyrimspecialedition/mods/111255)
 
 **Updated**
 
@@ -236,6 +241,38 @@ Save Safe? NO
   > 1.0 to 1.01
 * Sounds of Skyrim Complete SE
   > 2.1 to 3.0
+* Requiem - Growl
+  > 1.02 to 1.03
+* Requiem - C.O.I.N Patch
+  > 2.0 to 3.0
+* Requiem - Vigilant (Updated and Improved)
+  > 1.3 to 1.5
+* Requiem - Vendor tweaks
+  > 0.1 to 1.2
+* Requiem - Wormpie's Hagravens Patch
+  > 1.0 to 1.1
+* Stairs of Skyrim - Windhelm Bridge Stairs
+  > 0.5.1 to 0.7
+* Skyrim Landscape and Water Fixes
+  > 8.7 to 9.2
+* Cathedral 3D Mountain Flowers - Base Object Swapper
+  > 0.1.22 to 0.2
+* Gildergreen Regrown
+  > 2.0.1 to 2.0.3
+* Security Overhaul SKSE - Lock Variations
+  > 3.2 to 4.0
+* Skyland Bits and Bobs - A Clutter Overhaul
+  > 1.9 to 1.91
+* Diverse Catches - Base Object Swapper Fish Racks
+  > 1.8 to 1.9
+* Snowy Ships for Snowy Regions
+  > 2.5 to 2.6
+* Sconces of Solitude - Unique Solitude Braziers - Base Object Swapper
+  > 0.5 to 0.6
+* 3D Dwemer Sun - Subterranean Object SMIMed - Blackreach - Forgotten Seasons - Myrwatch
+  > 0.1 to 0.3.1
+* Tomato's Complex Parallax Material Landscapes AIO - With DLCs
+  > 2.6 to 4.0
 
 # Release 1.2.2
 Save Safe? YES
