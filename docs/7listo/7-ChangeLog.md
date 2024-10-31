@@ -13,6 +13,55 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v2.4
+
+Save Safe? No.
+
+1. ADDED MODS
+   * Valdacil's Rebalance for Mystic
+   * Approval Rate Adjuster. You now only gain 0.66x (66%) of the approval points you used to. You now lose 1.33x (133%) of the approval points you used to. This slows down the rate of how quickly every companion wants to share their entire backstory and let Durge smooch them.
+   * Reorganized and added more Akelka dragonborn cosmetics.
+   * Steel Watch Armaments adds new magic items to find in Act 3.
+   * Inquisition Domain, a Cleric subclass. Please provide feedback on how this feels balance wise, I expect it to be top tier with Life Cleric but if it goes beyond Life Cleric or Tempest Cleric let me know.
+   * Universal Armour Fixer. This is an invisible mod that helps prevent situations with some mod armors and AC sources not applying correctly on loading a save.
+   * Order Domain, a Cleric subclass.
+   * Warlords of the Coast. We got mothafuggin playable Hobgoblins y'all.
+   * Cosmetic patches specific to WotC.
+   * Critfisher Ring, a very expensive Act 3 ring that makes critfishing builds crazier.
+   * Conjure Animals and Summon Beasts, which increases the variety of animal summons and gives the spell behavior when upcasted similar to how Listo changes summon undead.
+   * Poor Adventurer. A lot of pure loot items are worth less gold, a lot of garbage items are worth less gold, you'll loot less gold, you'll get less gold from quests, overall you will be more poor. Keep in mind Listo adds a lot more magic items throughout the game including free ones found while adventuring, and ones looted from enemies.
+   * Stop Pickpocketing Volo and Withers.
+   * Alfira Joins the Party.
+   * Save Alfira.
+3. REMOVED MODS
+   * Intelligent Warlock (Optional)
+   * Event Autosave
+   * Remove Debris
+   * With the exception of Intelligent Warlock, it is safe to remove these mods yourself if you don't like them but don't want to update Listo on a current playthrough.
+4. UPDATED MODS
+   * New Character Creation Presets WIP
+   * Tav's Hair Salon
+   * Homebrew Spells
+   * Favored Soul
+   * Hierophant
+   * Ascendant Dragon
+   * Alt Hairs
+   * Drunken Master
+   * Many More Monsters (Optional)
+   * Eye of Vecna (Optional)
+   * Hand of Vecna (Optional)
+   * Way of the Long Death
+   * Dragonborn Extra Cosmetic Tabs
+   * Psi Warrior
+   * Storm Herald
+   * Enweaved
+   * Goon's Library
+5. OTHER CHANGES
+   * THE COMMAND TO OPEN MCM IS SEMI-COLON ";" NOT THE NUMBER 1.
+   * Combat Extender config update: Father Carrion and the Mindflayer brain have been given access to health regen. Several enemies have been given Goon passive library changes. Commander Zhalk is now immune to being disarmed, however he also has some new weaknesses and nerfed HP. If you want his sword, you'll have to kill him - but he's been turned into a reasonable early game challenge for a handful of Level 3 heroes. Sarevok has been made a little more dangerous. Enemy Paladins and Barbarians (as templates) now gain improved extra attack in act 3. Enemy Clerics and Rogues gain Improved Attack in act 3. Some Act 1 and 2 enemy healers have the Life Domain improved healing ability, and all enemy Clerics in Act 3 have Disciple of Life.
+   * Re-ordered several mods in Listo to correct load order based issues. If you do not want to update Listo, move "Dynamic Sidebar" to the #2 spot under the User Interface section (below ImpUI Patch7Ready).
+   * Yoesph's updated patch addresses more balance issues with Listo, like where the new titanstring bows are found and how good they are.
+
 # Listonomicon v2.3.2
 
 Save Safe? Yes* unless you are dragonborn then it might struggle, I honestly don't know.
