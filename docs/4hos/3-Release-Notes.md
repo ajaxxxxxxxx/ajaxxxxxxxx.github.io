@@ -24,6 +24,7 @@ Save Safe? NO
 * [First Person Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/123129)
 * [Spider Egg and Sacs Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/48802)
 * [First Person Camera Height Fix](https://www.nexusmods.com/skyrimspecialedition/mods/28091)
+* [Last Seed - Craftable Cure Potions Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/57998)
 
 **Removed**
 
@@ -273,8 +274,6 @@ Save Safe? NO
   > 0.1 to 0.3.1
 * Tomato's Complex Parallax Material Landscapes AIO - With DLCs
   > 2.6 to 4.0
-* Last Seed - Craftable Cure Potions Add-on
-  > 1.1 to 3
 
 # Release 1.2.2
 Save Safe? YES
