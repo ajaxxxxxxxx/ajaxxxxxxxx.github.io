@@ -273,6 +273,8 @@ Save Safe? NO
   > 0.1 to 0.3.1
 * Tomato's Complex Parallax Material Landscapes AIO - With DLCs
   > 2.6 to 4.0
+* Last Seed - Craftable Cure Potions Add-on
+  > 1.1 to 3
 
 # Release 1.2.2
 Save Safe? YES
