@@ -194,6 +194,48 @@ Save Safe? NO
   > 2.2 to 2.3.1
 * Campfire Animations
   > 1.2 to 1.3
+* Flute Animation Fix
+  > 1.1 to 1.3
+* JK's Radiant Raiment
+  > 1.0.1 to 1.0.2
+* JK's Blue Palace
+  > 1.4.1 to 2.0
+* JK's Silver-Blood Inn
+  > 1.0 to 1.0.1
+* JK's High Hrothgar
+  > 1.0.1 to 1.0.2
+* JK's Sky Haven Temple
+  > 1.0 to 1.0.1
+* JK's Castle Dour
+  > 1.2 to 1.3
+* JK's Whiterun Outskirts
+  > 1.5 to 1.6
+* JK's Solitude Outskirts
+  > 1.2 to 1.2.1
+* GG's Thieves Guild Headquarters
+  > 1.3 to 1.3.1
+* Flying Crows SSE
+  > 1.3 to 2.02
+* House of Horrors - Quest Expansion
+  > 1.12 to 1.13
+* The Only Cure - Quest Expansion
+  > 1.02 to 1.04
+* Caught Red Handed - Quest Expansion
+  > 1.04 to 1.06
+* Belethor's Sister - Quest
+  > 0.3 to 0.3.1
+* The Heart of Dibella - Quest Expansion
+  > 1.03 to 1.04
+* Infiltration - Quest Expansion
+  > 1.01 to 1.02
+* Destroy The Dark Brotherhood - Quest Expansion
+  > 1.02 to 1.03
+* Mephala's Curse - Whispering Door Quest Addon
+  > 2.2 to 2.6
+* Ascend - Hidden Peaks of Skyrim
+  > 1.0 to 1.01
+* Sounds of Skyrim Complete SE
+  > 2.1 to 3.0
 
 # Release 1.2.2
 Save Safe? YES
