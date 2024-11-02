@@ -33,11 +33,12 @@ Save Safe? No.
    * Stop Pickpocketing Volo and Withers.
    * Alfira Joins the Party.
    * Save Alfira.
+   * Draconic Bloodline Expanded, adding more draconic sorcerer options (including new routes to min/max psychic, radiant, necrotic, and force damage builds).
 3. REMOVED MODS
    * Intelligent Warlock (Optional)
    * Event Autosave
    * Remove Debris
-   * With the exception of Intelligent Warlock, it is safe to remove these mods yourself if you don't like them but don't want to update Listo on a current playthrough.
+   * More Mithral Ore
 4. UPDATED MODS
    * New Character Creation Presets WIP
    * Tav's Hair Salon
