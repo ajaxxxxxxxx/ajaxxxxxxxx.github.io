@@ -13,7 +13,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-# Listonomicon v2.4
+# Listonomicon v2.4 [NEXT RELEASE, aka NOT RELEASED YET]
 
 Save Safe? No.
 
@@ -34,11 +34,13 @@ Save Safe? No.
    * Alfira Joins the Party.
    * Save Alfira.
    * Draconic Bloodline Expanded, adding more draconic sorcerer options (including new routes to min/max psychic, radiant, necrotic, and force damage builds).
+   * Luma's excellent "Encounters Enhanced." This reimagines a few enemies in BG3 as if Conquest Paladin and Hierophant Wizard were vanilla game features, in a much more elegant (and play tested) way than slamming random features and passives onto enemies via Combat Extender. Expect Anders (Karlach's foe) to be a revamped challenge, among others :)
 3. REMOVED MODS
    * Intelligent Warlock (Optional)
    * Event Autosave
    * Remove Debris
    * More Mithral Ore
+   * UI mods have been consolidated where possible where having a dedicated 21x9 and 16x9 version did not add a ton of difference.
 4. UPDATED MODS
    * New Character Creation Presets WIP
    * Tav's Hair Salon
@@ -62,6 +64,9 @@ Save Safe? No.
    * Randomized Equipment Loot (Optional)
    * Illithid Powers Overhaul
    * Valkrana's Skeletal Encounters
+   * Randomized Equipment Loot (Optional). There is now a specific Lite fork designed to interact better with the Random Starting Gear (Optional) mod (which, in Listo, provides a few random low level magic items and one random medium level magic item on the mindflayer body at the start of the game). If you use REL, you should probably also use RSG to help offset the unpredictable loot progression experience + Poor Adventurer making it harder to collect gold now.
+   * BG3-MO2 plugin to fix more weird situations, thanks Zino!
+   * Druid Wild Companion (thanks Chizz for exploring and fixing bugs).
 5. OTHER CHANGES
    * THE COMMAND TO OPEN MCM IS SEMI-COLON ";" NOT THE NUMBER 1.
    * Combat Extender config update: Father Carrion and the Mindflayer brain have been given access to health regen. Several enemies have been given Goon passive library changes. Commander Zhalk is now immune to being disarmed, however he also has some new weaknesses and nerfed HP. If you want his sword, you'll have to kill him - but he's been turned into a reasonable early game challenge for a handful of Level 3 heroes. Sarevok has been made a little more dangerous. Enemy Paladins and Barbarians (as templates) now gain improved extra attack in act 3. Enemy Clerics and Rogues gain Improved Attack in act 3. Some Act 1 and 2 enemy healers have the Life Domain improved healing ability, and all enemy Clerics in Act 3 have Disciple of Life. Experimenmt with giving Act 3 fighters access to the 20th level extra attack feature. Moved Hail of Thorns to later in enemy Ranger progression. Changed the size of a few enemies ;)
