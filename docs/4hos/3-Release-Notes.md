@@ -61,6 +61,7 @@ Save Safe? NO
 * [RVX Dirt 02 Terrain Parallax 1k-2k-4k](https://www.nexusmods.com/skyrimspecialedition/mods/105577)
 * [HD Remastered Blended Roads - 8k 4k 2k 1k](https://www.nexusmods.com/skyrimspecialedition/mods/63674)
 * [Simplest Roads](https://www.nexusmods.com/skyrimspecialedition/mods/111255)
+* [Whiterun Has Walls](https://www.nexusmods.com/skyrimspecialedition/mods/101603)
 
 **Updated**
 
