@@ -58,6 +58,10 @@ Save Safe? No.
    * Enweaved
    * Goon's Library
    * Mystic
+   * Many More Monsters (there's now many more mimics) (optional)
+   * Randomized Equipment Loot (Optional)
+   * Illithid Powers Overhaul
+   * Valkrana's Skeletal Encounters
 5. OTHER CHANGES
    * THE COMMAND TO OPEN MCM IS SEMI-COLON ";" NOT THE NUMBER 1.
    * Combat Extender config update: Father Carrion and the Mindflayer brain have been given access to health regen. Several enemies have been given Goon passive library changes. Commander Zhalk is now immune to being disarmed, however he also has some new weaknesses and nerfed HP. If you want his sword, you'll have to kill him - but he's been turned into a reasonable early game challenge for a handful of Level 3 heroes. Sarevok has been made a little more dangerous. Enemy Paladins and Barbarians (as templates) now gain improved extra attack in act 3. Enemy Clerics and Rogues gain Improved Attack in act 3. Some Act 1 and 2 enemy healers have the Life Domain improved healing ability, and all enemy Clerics in Act 3 have Disciple of Life. Experimenmt with giving Act 3 fighters access to the 20th level extra attack feature. Moved Hail of Thorns to later in enemy Ranger progression. Changed the size of a few enemies ;)
