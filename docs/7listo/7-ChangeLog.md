@@ -19,7 +19,7 @@ Save Safe? No.
 
 1. ADDED MODS
    * Valdacil's Rebalance for Mystic
-   * Approval Rate Adjuster. You now only gain 0.66x (66%) of the approval points you used to. You now lose 1.33x (133%) of the approval points you used to. This slows down the rate of how quickly every companion wants to share their entire backstory and let Durge smooch them.
+   * Approval Rate Adjuster. You now only gain 0.5x (50%) of the approval points you used to. You now lose 2x (200%) of the approval points you used to. This slows down the rate of how quickly every companion wants to share their entire backstory and let Durge smooch them. Your companions have more personal agency and actually dislike the things you do to upset them.
    * Reorganized and added more Akelka dragonborn cosmetics.
    * Steel Watch Armaments adds new magic items to find in Act 3.
    * Inquisition Domain, a Cleric subclass. Please provide feedback on how this feels balance wise, I expect it to be top tier with Life Cleric but if it goes beyond Life Cleric or Tempest Cleric let me know.
