@@ -29,9 +29,13 @@ Speak with Animals and Longstrider are AoE casts that last until long rest, dram
 
 [Spells Extra](https://www.nexusmods.com/baldursgate3/mods/11291) is used to cover any missing spells needed by Luma's various subclass mods.
 
+[Valdacil's Mystic Rebalance](https://www.nexusmods.com/baldursgate3/mods/4426) changes how some Mystic features/abilities/psionic foci/spells work compared to the mod page descriptions.
+
 As an _optional mod_, [PF2e Spells](https://www.nexusmods.com/baldursgate3/mods/2460) is included in Listonomicon. It adds a very large variety of spells, however it also adds several spells that overlap with BG3/5e, uses different scaling math per spell slot level, and has other features that are not explained well in tooltips and spell descriptions (if at all). It also introduces Action -> Bonus Action conversion, which is a whole host of balance issues. Enable the mod if you love having a ton of variety in your spell options, leave it disabled if you don't want to deal with the wonk.
 
 ## New and Changed Feats
+
+In Listonomicon, all classes earn a feat at a rate of one per 3 levels. Fighters and Rogues earn an additional feat at level 11. So all classes get a feat at 3, 6, 9, 12, 15, and 18; Fighters and Rogues get a feat at 3, 6, 9, 11, 12, 15, and 18.
 
 The [Arcanist Feat](https://www.nexusmods.com/baldursgate3/mods/1087) allows you to gain +1 INT, gain expertise in Arcana, and learn any level 1 spell which can be casted once per short rest. Consider how various level 1 spells (such as Shield of Faith) have been rebalanced. That's basically a free +2 AC for anyone who would not otherwise have access to the spell, such as an Eldritch Knight.
 
@@ -41,6 +45,10 @@ The [Caustic Feat](https://www.nexusmods.com/baldursgate3/mods/10031) adds a Poi
 
 [Rebalance Feats](https://www.nexusmods.com/baldursgate3/mods/5614) changes a few feats in BG3 to be more or less powerful. Specifically, Great Weapon Master and Sharpshooter are seperately rebalanced by [this mod](https://www.nexusmods.com/baldursgate3/mods/3315).
 
+[Enweaved](https://www.nexusmods.com/baldursgate3/mods/13310) adds a way to get +2 in INT, WIS, or CHA - but be warned, it comes with wild magic and _wild magic allergy_. This can help a caster reach 22 in their casting stat (and get to 24 with Hag's Hair + the relevant Tome) but it will make being around magical effects dangerous!
+
+[Experimental Alchemy as a Feat](https://www.nexusmods.com/baldursgate3/mods/12446) provides another way to get access to Experimental Alchemy, which potentially causes two potions to be brewed instead of one when using alchemy. Note that multiple ExpAlch sources do not stack.
+
 As an _optional mod_, [Titan's Grip](https://www.nexusmods.com/baldursgate3/mods/12712) is included in Listonomicon. This feat allows dual wielders to ignore normal game restrictions and use two-handed weapons. It is very unbalanced but provided as an option.
 
 # New and Changed Classes and Subclasses
@@ -49,11 +57,11 @@ It's going to take a while to write up what each these changes does to the game.
 
 ## General Changes and Additions
 
-Expansion Level 13-20
+[Expansion Level 13-20](https://www.nexusmods.com/baldursgate3/mods/279)
 
 Adds level scaling up to level 20. Also implements several changes/optional rules introduced with Tasha's Cauldron of Everything and other publications.
 
-Smart Cunning Action
+[Smart Cunning Action](https://www.nexusmods.com/baldursgate3/mods/8906)
 
 Changes the Rogue (Thief) double bonus action to instead be a toggle ability allowing rogues to choose to use their action or bonus action for cunning actions. Also grants this benefit to monks.
 
@@ -61,17 +69,17 @@ Changes the Rogue (Thief) double bonus action to instead be a toggle ability all
 
 These mods effect wild magic sorcerers, wild magic barbarians, and/or other situations where the wild magic effects table is rolled such as certain wild magic enemies. Sorcerers should only accrue wild magic surge chances during combat and the chance starts low and grows as you cast with Tides of Chaos active, creating a whacky risk-reward gameplay experience.
 
-* More Wild Magic effects
-* Wild Magic D100 Table
-* Increasingly Likely Wild Magic Surge (Combat Only)
+* [More Wild Magic effects](https://www.nexusmods.com/baldursgate3/mods/2022)
+* [Wild Magic D100 Table](https://www.nexusmods.com/baldursgate3/mods/2967)
+* [Increasingly Likely Wild Magic Surge](https://www.nexusmods.com/baldursgate3/mods/9603) (Combat Only)
 
-If Volo dies for any reason, the Weave will begin unraveling and _all magic becomes wild magic_.
+[If Volo dies for any reason](https://www.nexusmods.com/baldursgate3/mods/4030), the Weave will begin unraveling and _all magic becomes wild magic_.
 
 ## Barbarian
 
-Dynamic Wildheart Barbarian changes wildheart barbarians (aka "Totem") to be able to change which animal aspect is called upon when raging, which makes the subclass easier to adapt to different situations.
+[Dynamic Wildheart Barbarian](https://www.nexusmods.com/baldursgate3/mods/8274) changes wildheart barbarians (aka "Totem") to be able to change which animal aspect is called upon when raging, which makes the subclass easier to adapt to different situations.
 
-5e Reckless Attack Toggle changes the Reckless Attack feature from a reaction, to a toggled status.
+[5e Reckless Attack Toggle](https://www.nexusmods.com/baldursgate3/mods/10924) changes the Reckless Attack feature from a reaction, to a toggled status.
 
 New subclasses:
 
@@ -89,18 +97,22 @@ New subclasses:
 
 ## Cleric
 
-Blessing of the Trickster is buffed to apply to more skills, and can be activated during dialogue similar to the Guidance spell. Trickery Clerics are a little less bad.
+[Blessing of the Trickster](https://www.nexusmods.com/baldursgate3/mods/11566) is buffed to apply to more skills, and can be activated during dialogue similar to the Guidance spell. Trickery Clerics are a little less bad.
 
 * Zeal Domain
 * Strength Domain
 * Ambition Domain
 * Solidarity Domain
+* Order Domain
+* Inquisition Domain
 
 ## Druid
 
 [Druid Quality of Life](https://www.nexusmods.com/baldursgate3/mods/3214) is a QoL mod (duh) that changes many spells, effects, and magic items to interact with wildshape among other fixes.
 
 [Circle of the Spores Druid Damage Choice](https://www.nexusmods.com/baldursgate3/mods/11252) gives Spore druids the choice of dealing extra necrotic, acid, or poison damage with their class abilities, reducing how much this class suffers in Act 2 and creating new paths for synergy. [Combined with Spore Druid Extra Attack](https://www.nexusmods.com/baldursgate3/mods/4018) and the improved Shillelagh spell, Spore Druids are a very respectable frontline combat/utility cast/healer and a good choice for players who want a Druid but do not want to use Wildshape.
+
+Druids always have Speak With Animals prepared. They gain find familiar and flock of familiar at the appropriate levels. The Goodberry spell is buffed, and Shilelagh is more powerful and applies to a wider variety of weapons.
 
 ## Fighter
 
@@ -148,14 +160,15 @@ New Subclasses:
 
 * Swarmkeeper
 * Monster Slayer
+* Horizon Walker
 
 ## Rogue
 
-Thief - Second-Story Work Dexterity Jump. This mod changes the benefit of Second-Story Work to allow your jump to scale based on your Dexterity, instead of Strength.
+[Second-Story Work Dexterity Jump](https://www.nexusmods.com/baldursgate3/mods/6331) changes the benefit of Second-Story Work to allow your jump to scale based on your Dexterity, instead of Strength.
 
 ## Sorcerer
 
-Tides of Chaos Recharge changes ToC to reset after a wild magic surge is caused, allowing you to use it multiple times per long rest (and risk multiple surges throughout the day as a result). Metamagic Extended implements more metamagic options from the tabletop game.
+[Tides of Chaos Recharge](https://www.nexusmods.com/baldursgate3/mods/11625) changes ToC to reset after a wild magic surge is caused, allowing you to use it multiple times per long rest (and risk multiple surges throughout the day as a result). [Metamagic Extended](https://www.nexusmods.com/baldursgate3/mods/405) implements more metamagic options from the tabletop game. The metamagic to change the damage type of your spell requires activating the metamagic, and then selecting an element out of the new pop-up options. Expand the section of your hotbar that has metamagic in it to see the new options. [Draconic bloodline sorcerers](https://www.nexusmods.com/baldursgate3/mods/13563) have significantly more options now.
 
 New Subclasses:
 
@@ -167,7 +180,7 @@ New Subclasses:
 
 As an _optional mod_, Warlocks Use INT is included in Listo. This mod changes Warlock to be an Intelligence-based caster and allows it to better synergize with other Intelligence classes/subclasses (Eldritch Knight, Wizard, Mystic, Artificer, etc) however it does not comprehensively replace everything Warlocks use Charisma for, such as Agonizing Blast.
 
-Invocations Expanded adds more invocation options from the published books.
+[Invocations Expanded](https://www.nexusmods.com/baldursgate3/mods/13234) adds more invocation options from the published books.
 
 New Subclasses: 
 
