@@ -18,7 +18,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 Save Safe? No.
 
 1. ADDED MODS
-   * REPLACED Feat Every X Levels with Universal Feat Every X Levels MCM. This fixes the Mystic level 9 missing a feat issue. It also restores the advantage of Fighters and Rogues: They gain a unique, extra feat at level 7 each (ignore what the book says). So every gets 3, 6, 9, 12, 15, 18; rogues and fighters get 3, 6, 7, 9, 12, 15, and 18.
+   * REPLACED Feat Every X Levels with Universal Feat Every X Levels MCM. This fixes the Mystic level 9 missing a feat issue. It also restores the advantage of Fighters and Rogues: They gain a unique, extra feat at level 11 each (ignore what the book says). **So every class gets 3, 6, 9, 12, 15, 18; rogues and fighters get 3, 6, 9, 11, 12, 15, and 18**.
    * Valdacil's Rebalance for Mystic
    * Approval Rate Adjuster. You now only gain 0.5x (50%) of the approval points you used to. You now lose 2x (200%) of the approval points you used to. This slows down the rate of how quickly every companion wants to share their entire backstory and let Durge smooch them. Your companions have more personal agency and actually dislike the things you do to upset them.
    * Reorganized and added more Akelka dragonborn cosmetics.
@@ -43,6 +43,8 @@ Save Safe? No.
    * Remove Debris
    * More Mithral Ore
    * UI mods have been consolidated where possible where having a dedicated 21x9 and 16x9 version did not add a ton of difference.
+   * CC Cleaner. In hindsight this mod probably could have gone away a long time ago (as soon as a majority of hair/race/cosmetic patch mods became purpose built instead of giant all-in-one patches). I tried to spot check random races and their hair menu, but if you notice a bunch of "NOT FOUND" entries (except the Vexa head dragonborn, that is a different issue) and hair "options" that result in being bald, please let me know the race, body type, and haircut.
+   * Patches related to "half-tiefs" letting more races pick horns and tails.
 4. UPDATED MODS
    * New Character Creation Presets WIP
    * Tav's Hair Salon
@@ -63,7 +65,6 @@ Save Safe? No.
    * Goon's Library
    * Mystic
    * Many More Monsters (there's now many more mimics) (optional)
-   * Randomized Equipment Loot (Optional)
    * Illithid Powers Overhaul
    * Valkrana's Skeletal Encounters
    * Randomized Equipment Loot (Optional). There is now a specific Lite fork designed to interact better with the Random Starting Gear (Optional) mod (which, in Listo, provides a few random low level magic items and one random medium level magic item on the mindflayer body at the start of the game). If you use REL, you should probably also use RSG to help offset the unpredictable loot progression experience + Poor Adventurer making it harder to collect gold now.
@@ -71,9 +72,10 @@ Save Safe? No.
    * Druid Wild Companion (thanks Chizz for exploring and fixing bugs).
 5. OTHER CHANGES
    * THE COMMAND TO OPEN MCM IS SEMI-COLON ";" NOT THE NUMBER 1.
-   * Combat Extender config update: Father Carrion and the Mindflayer brain have been given access to health regen. Several enemies have been given Goon passive library changes. Commander Zhalk is now immune to being disarmed, however he also has some new weaknesses and nerfed HP. If you want his sword, you'll have to kill him - but he's been turned into a reasonable early game challenge for a handful of Level 3 heroes. Sarevok has been made a little more dangerous. Enemy Paladins and Barbarians (as templates) now gain improved extra attack in act 3. Enemy Clerics and Rogues gain Improved Attack in act 3. Some Act 1 and 2 enemy healers have the Life Domain improved healing ability, and all enemy Clerics in Act 3 have Disciple of Life. Experimenmt with giving Act 3 fighters access to the 20th level extra attack feature. Moved Hail of Thorns to later in enemy Ranger progression. Changed the size of a few enemies ;) Enemy and boss health reduced slightly, especially in the Health Per Level bonus (meaning reaching a high player level will not result in Act 3 enemies breaking 1k HP, except the ones that are supposed to, probably). Slightly more enemies (mostly late game) get +1 AC. Enemies no longer have a static boost to stats but will get one at 4/8/12 (enemy level).
+   * Combat Extender config update: Father Carrion and the Mindflayer brain have been given access to health regen. Several enemies have been given Goon passive library changes, mostly Banites in Act 3. **Commander Zhalk is now immune to being disarmed, however he also has some new weaknesses and nerfed HP.** If you want his sword, you'll have to kill him - but he's been turned into a reasonable early game challenge for a handful of Level 3 heroes. Sarevok has been made a little more dangerous, and a little harder to kill. Enemy Paladins and Barbarians (as templates) now gain improved extra attack in act 3. Enemy Clerics and Rogues gain Improved Attack in act 3. Some Act 1 and 2 enemy healers have the Life Domain improved healing ability, and all enemy Clerics in Act 3 have Disciple of Life. Experimenmt with giving Act 3 fighters access to the 20th level extra attack feature. Moved Hail of Thorns to later in enemy Ranger progression. Changed the size of a few enemies ;) Enemy and boss health reduced slightly, especially in the Health Per Level bonus (meaning reaching a high player level will not result in Act 3 enemies breaking 1k HP, except the ones that are supposed to, probably). Slightly more enemies (mostly late game) get +1 AC. Enemies no longer have a static boost to stats but will get one at 4/8/12 (enemy level).
    * Re-ordered several mods in Listo to correct load order based issues. If you do not want to update Listo, move "Dynamic Sidebar" to the #2 spot under the User Interface section (below ImpUI Patch7Ready).
    * Yoesph's updated patch addresses more balance issues with Listo. There is no longer a free titanstring bow in the owlbear cave (but it can be found in Act 1), there is no longer a Sussur titanstring bow found for free (it's for sale in the Underdark), and the final legendary titanstring bow is now _much_ more special to find. It's also slightly less powerful. The Corrosive Ring (Mouth of the Abyss) is now a unique magic item (no collecting duplicates), Aaron has learned that he needs to charge much better prices for his wares, and the acid effect accumulation is slower. It is now more of a dedicated anti-AC item to theorycraft a build around, rather than something that is cheap, plentiful, and overly easy to exploit on any monk or two-weapon fighter.
+   * Updated Listo's wiki heavily. Do you think you could contribute? [Make a pull request on this Github page with your additions](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/blob/main/docs/7listo/6-SpellsFeatsClassesItems.md).
      
 # Listonomicon v2.3.2
 
