@@ -18,6 +18,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 Save Safe? No.
 
 1. ADDED MODS
+   * REPLACED Feat Every X Levels with Universal Feat Every X Levels MCM. This fixes the Mystic level 9 missing a feat issue. It also restores the advantage of Fighters and Rogues: They gain a unique, extra feat at level 7 each (ignore what the book says). So every gets 3, 6, 9, 12, 15, 18; rogues and fighters get 3, 6, 7, 9, 12, 15, and 18.
    * Valdacil's Rebalance for Mystic
    * Approval Rate Adjuster. You now only gain 0.5x (50%) of the approval points you used to. You now lose 2x (200%) of the approval points you used to. This slows down the rate of how quickly every companion wants to share their entire backstory and let Durge smooch them. Your companions have more personal agency and actually dislike the things you do to upset them.
    * Reorganized and added more Akelka dragonborn cosmetics.
