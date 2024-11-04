@@ -62,6 +62,8 @@ Save Safe? NO
 * [HD Remastered Blended Roads - 8k 4k 2k 1k](https://www.nexusmods.com/skyrimspecialedition/mods/63674)
 * [Simplest Roads](https://www.nexusmods.com/skyrimspecialedition/mods/111255)
 * [Whiterun Has Walls](https://www.nexusmods.com/skyrimspecialedition/mods/101603)
+* [College of Winterhold Entry Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/24749)
+* [Thieves Guild Requirements SE](https://www.nexusmods.com/skyrimspecialedition/mods/33256)
 
 **Updated**
 
