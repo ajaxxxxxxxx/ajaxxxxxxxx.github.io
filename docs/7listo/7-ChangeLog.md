@@ -32,8 +32,9 @@ Save Safe? No.
    * Conjure Animals and Summon Beasts, which increases the variety of animal summons and gives the spell behavior when upcasted similar to how Listo changes summon undead.
    * Poor Adventurer. A lot of pure loot items are worth less gold, a lot of garbage items are worth less gold, you'll loot less gold, you'll get less gold from quests, overall you will be more poor. Keep in mind Listo adds a lot more magic items throughout the game including free ones found while adventuring, and ones looted from enemies.
    * Stop Pickpocketing Volo and Withers.
-   * Alfira Joins the Party.
-   * Save Alfira.
+   * Alfira Joins the Party (optional).
+   * Save Alfira (optional, use if you are Durge and want Alfira to join the party.
+   * NOTE: The reason Save Alfira/Alfira Joins the Party is "Optional" is a polish issue: Her appearance cannot be edited, meaning changing her clothes/armor will not make a difference. She also obviously isn't as fleshed out as a real companion, has no companion quest or meaningful approval system, etc. But she can level up and do everything one of Wither's companions can do.
    * Draconic Bloodline Expanded, adding more draconic sorcerer options (including new routes to min/max psychic, radiant, necrotic, and force damage builds).
    * Luma's excellent "Encounters Enhanced." This reimagines a few enemies in BG3 as if Conquest Paladin and Hierophant Wizard were vanilla game features, in a much more elegant (and play tested) way than slamming random features and passives onto enemies via Combat Extender. Expect Anders (Karlach's foe) to be a revamped challenge, among others :)
    * Encounters Enhanced, the latest of Luma's mods. Expect Anders and his friends (the paladins looking for Karlach) to be a very stiff challenge.
