@@ -47,6 +47,9 @@ Save Safe? NO
 * [Skyrim Souls RE - Updated](https://www.nexusmods.com/skyrimspecialedition/mods/27859)
 * [Humanoid Dragon Priests](https://www.nexusmods.com/skyrimspecialedition/mods/122320)
 * [Bleak Falls Barrow Boss - Keeper of the Dragonstone](https://www.nexusmods.com/skyrimspecialedition/mods/131819)
+* [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
+* [Listen - Dark Brotherhood Radiant Quests](https://www.nexusmods.com/skyrimspecialedition/mods/59659)
+* [ArteFakes Remeshed. Believable Proportions](https://www.nexusmods.com/skyrimspecialedition/mods/107925)
 
 **Removed**
 
