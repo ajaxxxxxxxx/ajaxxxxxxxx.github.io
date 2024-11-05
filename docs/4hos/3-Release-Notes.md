@@ -67,6 +67,10 @@ Save Safe? NO
 * [Whiterun Has Walls](https://www.nexusmods.com/skyrimspecialedition/mods/101603)
 * [College of Winterhold Entry Requirements](https://www.nexusmods.com/skyrimspecialedition/mods/24749)
 * [Thieves Guild Requirements SE](https://www.nexusmods.com/skyrimspecialedition/mods/33256)
+* [Requiem - Immersive Divine Blessings Redone](https://www.nexusmods.com/skyrimspecialedition/mods/61297)
+* [Requiem - Immersive Divine Blessings Redone - Experience Patch](https://www.nexusmods.com/skyrimspecialedition/mods/112230)
+* [Requiem - IDB-R No Blessing Aura Visuals Patch](https://www.nexusmods.com/skyrimspecialedition/mods/78036)
+* [Book Of Shadows - Behaviour Based Stealth Additions](https://www.nexusmods.com/skyrimspecialedition/mods/76086)
 
 **Updated**
 
