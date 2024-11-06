@@ -45,6 +45,8 @@ Save Safe? No.
    * UI mods have been consolidated where possible where having a dedicated 21x9 and 16x9 version did not add a ton of difference.
    * CC Cleaner. In hindsight this mod probably could have gone away a long time ago (as soon as a majority of hair/race/cosmetic patch mods became purpose built instead of giant all-in-one patches). I tried to spot check random races and their hair menu, but if you notice a bunch of "NOT FOUND" entries (except the Vexa head dragonborn, that is a different issue) and hair "options" that result in being bald, please let me know the race, body type, and haircut.
    * Patches related to "half-tiefs" letting more races pick horns and tails (patches no longer necessary, half-tiefs still works for the races it did before).
+   * Mage Armor Reworked.
+   * Heart of Enver Gortash (pulled down by the author and has issues).
 3. UPDATED MODS
    * New Character Creation Presets WIP
    * Tav's Hair Salon
@@ -71,6 +73,7 @@ Save Safe? No.
    * BG3-MO2 plugin to fix more weird situations, thanks Zino!
    * Druid Wild Companion (thanks Chizz for exploring and fixing bugs).
    * I lost track but a lot more subclasses and dragonborn cosmetics.
+   * REPLACED Soul Coin Tweaks (everyone can use them) with Soul Coin Tweaks (everyone can use them, and the damage bonus is +1d8 fire). So everyone can use Soul Coins (not just Karlach), and the bonus is a little more significant. Or you can continue to just sell them.
 4. OTHER CHANGES
    * THE COMMAND TO OPEN MCM IS SEMI-COLON ";" NOT THE NUMBER 1.
    * Re-ordered several mods in Listo to correct load order based issues. If you do not want to update Listo, move "Dynamic Sidebar" to the #2 spot under the User Interface section (right below ImpUI Patch7Ready).
@@ -79,6 +82,7 @@ Save Safe? No.
        * The Corrosive Ring (Mouth of the Abyss) is now a unique magic item (no collecting duplicates), Aaron has learned that he needs to charge much better prices for his wares, and the acid effect accumulation is slower. It is now more of a dedicated anti-AC item to theorycraft a build around, rather than something that is cheap, plentiful, and overly easy to exploit on any monk or two-weapon fighter.
        * Many of JWL's Trinkets now respect the Honor Mode limitations on what are called "[Damage Riders](https://bg3.wiki/wiki/Damage_mechanics)." Their original code allowed things like +damage effects to inappropriately apply multiple times in situations where they shouldn't. There were also some items that were just broken. The good news is that Baldurs_Goonsack not only made a ton of fixes for his own Nexus Collection, he shared all of his fixes with us for free. The Yoesph-Goonsack team up is one of the best things possible to happen to Listo.
    * Updated Listo's wiki heavily. Do you think you could contribute? [Make a pull request on this Github page with your additions](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/blob/main/docs/7listo/6-SpellsFeatsClassesItems.md).
+   * Updated mark read books to be more obvious. Books will be renamed to "[already read] BOOK NAME x" after they have been read at least once in your current campaign.
 5. COMBAT EXTENDER CHANGES
    * Father Carrion and the end boss have minor health regen. Removed health regen that didn't work/wasn't applicable/didn't make sense where used on other enemies.
    * Several enemies have been updated thanks to new Goon passive library features. This is especially true of Black Hand of Bane soldiers in Act 3.
