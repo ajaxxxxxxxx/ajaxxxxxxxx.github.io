@@ -37,6 +37,7 @@ Save Safe? No.
    * NOTE: The reason Save Alfira/Alfira Joins the Party is "Optional" is a polish issue: Her appearance cannot be edited, meaning changing her clothes/armor will not make a difference. She also obviously isn't as fleshed out as a real companion, has no companion quest or meaningful approval system, etc. But she can level up and do everything one of Wither's companions can do.
    * Draconic Bloodline Expanded, adding more draconic sorcerer options (including new routes to min/max psychic, radiant, necrotic, and force damage builds).
    * Luma's excellent "Encounters Enhanced." This reimagines a few enemies in BG3 as if Conquest Paladin and Hierophant Wizard were vanilla game features, in a much more elegant (and play tested) way than slamming random features and passives onto enemies via Combat Extender. Expect Anders (Karlach's foe) to be a revamped challenge, among others :)
+   * Destructive Wrath Adjustment. This should make Tempest Clerics ability more reliable and less annoying with AOE casts. Similarly, Luma has updated Zeal cleric to enjoy the same kind of fixes, hopefully meaning something like fireball won't spam you with 500 confirmations to use your ability for every target caught in the blast.
 2. REMOVED MODS
    * Intelligent Warlock (Optional)
    * Event Autosave
