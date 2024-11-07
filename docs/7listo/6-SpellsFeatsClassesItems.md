@@ -178,8 +178,6 @@ New Subclasses:
 
 ## Warlock
 
-As an _optional mod_, Warlocks Use INT is included in Listo. This mod changes Warlock to be an Intelligence-based caster and allows it to better synergize with other Intelligence classes/subclasses (Eldritch Knight, Wizard, Mystic, Artificer, etc) however it does not comprehensively replace everything Warlocks use Charisma for, such as Agonizing Blast.
-
 [Invocations Expanded](https://www.nexusmods.com/baldursgate3/mods/13234) adds more invocation options from the published books.
 
 New Subclasses: 
@@ -196,3 +194,19 @@ New Subclasses:
 
 * [Artificer](https://www.nexusmods.com/baldursgate3/mods/1779), and all subclasses
 * [Mystic](https://www.nexusmods.com/baldursgate3/mods/2786), and Mystic Expansion
+
+# Inspiration For Builds and Fun Ideas
+
+The heavy caveat to this section is that Baldur's Gate 3, like any game, can be optimized to the point that you have optimized the fun out of the game. Generally you should follow basic common sense decision making (don't dump Intelligence as a wizard, for example), but Listonomicon is not designed around the expectation that players will make perfectly optimized parties and carefully pour over all of the math to determine the most powerful gear combination they can assemble. Listonomicon is designed around being a more rewarding challenge than vanilla Tactician so that veteran RPG players can have a refreshing experience. If you want to break Listonomicon, you will. If you want to focus on having fun, you can.
+
+## General Notes
+
+1-level dips and 3-level dips into many classes are an easy way to get essential hybrid synergies. Because Listo grants feats every 3 levels, there is no sacrifice for dipping 3 and not continuing to 4.
+
+1 level of Life Domain Cleric will instantly make anyone a better healer. Starting as a Life Domain Cleric will come with medium armor and a shield proficiency. A Celestial Warlock, Bard, Hierophant Wizard, or Divine Soul Sorcerer that wants powerful utility healing in a pinch can take their first level as a Life Domain Cleric for a healing boost and dump dexterity.
+
+1 Level of Tempest Domain or Zeal Domain Cleric will make you better at lightning damage, or fire and thunder damage, a limited number of times per short rest. Again, starting in Cleric grants medium armor and a shield. By activing Tempetous Wrath or the equivalent Zeal ability, you can cause one spell dealing the associated damage type to deal maximum damage. This is great for a single-target spell if you really want to keep a nuke in your back pocket, but it also applies to AOE, cone, and line spells. A Zeal Cleric 1 / Sorcerer 19 could drop a 9th level fireball and guarantee everyone hit is making their dex save against a max damage roll.
+
+Warlocks pick invocations at level 3. Options include Agonizing Blast, which turns Eldritch Blast into the most consistent source of DPS available in the game. They also choose a pact feature, of which Pact Weapon is a choice. This allows you to transform any 1 melee weapon into a Pact Weapon, which retains its own stats except that it uses your Charisma to attack, and you are always considered proficient. This has great synergy with Sorcerer, Bard, and Paladin, who also rely on Charisma as a primary stat. You can dump Strength and Dexterity, and attack with your Pact Weapon or Eldritch Blast when you run out of spell slots or uses for your other class(es).
+
+At level 3, Artificers can become Battlesmiths. Battlesmiths use their Intelligence when attacking with any magical weapon (melee or ranged). They do not gain universal proficiency like a Pact Weapon, but otherwise any magical weapon they are proficient in becomes deadly. Artificers can therefor focus on maximizing Intelligence, while dumping Strength and Dexterity, and still be reliable in combat. This provides great synergy with Eldritch Knight or Psionic Fighters, all Wizards, and the Mystic class, as it combines your weapon attacks and your spellcasting under one stat. Artificers are also the only class natively proficient in firearms, and can use their artificing powers to transform a musket into a double-shot weapon that deals 1d12+ force damage. This also turns it into a magical weapon, using Intelligence instead of Dexterity. This will synergize with anything that makes ranged combat better, such as the Sharpshooter feat, or archery fighting style. An Artificer 3 could pivot into Rogue, and would have two attacks a round with their magic musket, giving two opportunities to trigger a sneak attack. An Artificer Battlesmith could pivot into Ranger, and succeed in two-weapon fighting and ranged combat, using Intelligence for both.
