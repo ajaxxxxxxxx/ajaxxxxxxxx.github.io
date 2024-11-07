@@ -32,9 +32,9 @@ Save Safe? No.
    * Conjure Animals and Summon Beasts, which increases the variety of animal summons and gives the spell behavior when upcasted similar to how Listo changes summon undead.
    * Poor Adventurer. A lot of pure loot items are worth less gold, a lot of garbage items are worth less gold, you'll loot less gold, you'll get less gold from quests, overall you will be more poor. Keep in mind Listo adds a lot more magic items throughout the game including free ones found while adventuring, and ones looted from enemies.
    * Stop Pickpocketing Volo and Withers.
-   * Alfira Joins the Party (optional).
-   * Save Alfira (optional, use if you are Durge and want Alfira to join the party.
-   * NOTE: The reason Save Alfira/Alfira Joins the Party is "Optional" is a polish issue: Her appearance cannot be edited, meaning changing her clothes/armor will not make a difference. She also obviously isn't as fleshed out as a real companion, has no companion quest or meaningful approval system, etc. But she can level up and do everything one of Wither's companions can do.
+   * Alfira Joins the Party.
+   * Save Alfira.
+     * NOTE: Alfira isn't as fleshed out as a real companion, has no companion quest or meaningful approval system, etc. But she can level up and do everything one of Wither's companions can do.
    * Draconic Bloodline Expanded, adding more draconic sorcerer options (including new routes to min/max psychic, radiant, necrotic, and force damage builds).
    * Luma's excellent "Encounters Enhanced." This reimagines a few enemies in BG3 as if Conquest Paladin and Hierophant Wizard were vanilla game features, in a much more elegant (and play tested) way than slamming random features and passives onto enemies via Combat Extender. Expect Anders (Karlach's foe) to be a revamped challenge, among others :)
    * Destructive Wrath Adjustment. This should make Tempest Clerics ability more reliable and less annoying with AOE casts. Similarly, Luma has updated Zeal cleric to enjoy the same kind of fixes, hopefully meaning something like fireball won't spam you with 500 confirmations to use your ability for every target caught in the blast.
@@ -66,7 +66,7 @@ Save Safe? No.
    * Storm Herald
    * Enweaved
    * Goon's Library
-   * Mystic (now nerfed, now has working feats every 3 levels like the other classes)
+   * Mystic (now nerfed and changed to better fit Larian's cRPG-5e adaptation philosophy, now has working feats every 3 levels like the other classes)
    * Many More Monsters (there's now many more mimics) (optional)
    * Illithid Powers Overhaul
    * Valkrana's Skeletal Encounters
@@ -77,9 +77,9 @@ Save Safe? No.
    * REPLACED Soul Coin Tweaks (everyone can use them) with Soul Coin Tweaks (everyone can use them, and the damage bonus is +1d8 fire). So everyone can use Soul Coins (not just Karlach), and the bonus is a little more significant. Or you can continue to just sell them.
 4. OTHER CHANGES
    * THE COMMAND TO OPEN MCM IS SEMI-COLON ";" NOT THE NUMBER 1.
-   * Re-ordered several mods in Listo to correct load order based issues. If you do not want to update Listo, move "Dynamic Sidebar" to the #2 spot under the User Interface section (right below ImpUI Patch7Ready).
+   * Re-ordered several mods in Listo to correct load order based issues. If you do not want to update Listo, move "Dynamic Sidebar" to the #2 spot under the User Interface section (right below ImpUI Patch7Ready). Thank you everyone involved in helping identifying mistakes that were made.
    * Yoesph's updated patch addresses more balance issues with Listo.
-       * Unique Gear: Titanstring Bow Changes: There is no longer a free titanstring bow in the owlbear cave (but it can be found in Act 1), there is no longer a Sussur titanstring bow found for free (it's for sale in the Underdark), and the final legendary titanstring bow is now _much_ more special to find. It's also slightly less powerful.
+       * Unique Gear: Titanstring Bow Changes: There is no longer a free titanstring bow in the owlbear cave (but one can be found in Act 1), there is no longer a Sussur titanstring bow found for free (it's for sale in the Underdark), and the final legendary titanstring bow is now _much_ more special to find. It's also slightly less powerful.
        * The Corrosive Ring (Mouth of the Abyss) is now a unique magic item (no collecting duplicates), Aaron has learned that he needs to charge much better prices for his wares, and the acid effect accumulation is slower. It is now more of a dedicated anti-AC item to theorycraft a build around, rather than something that is cheap, plentiful, and overly easy to exploit on any monk or two-weapon fighter.
        * Many of JWL's Trinkets now respect the Honor Mode limitations on what are called "[Damage Riders](https://bg3.wiki/wiki/Damage_mechanics)." Their original code allowed things like +damage effects to inappropriately apply multiple times in situations where they shouldn't. There were also some items that were just broken. The good news is that Baldurs_Goonsack not only made a ton of fixes for his own Nexus Collection, he shared all of his fixes with us for free. The Yoesph-Goonsack team up is one of the best things possible to happen to Listo.
    * Updated Listo's wiki heavily. Do you think you could contribute? [Make a pull request on this Github page with your additions](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/blob/main/docs/7listo/6-SpellsFeatsClassesItems.md).
@@ -99,6 +99,7 @@ Save Safe? No.
    * There has been an attempt to give most wild magic casters access to Tides of Chaos.
    * Lorroakan has been made more dangerous. Not only does he have limited health regen, but he can recklessly cast AOE without risk to his allies. He can also force YOU to risk a wild magic surge rather than risk one himself. :)
    * Enemy Paladins and Barbarians (as a template) now get better Extra Attack access in Act 3. Enemy Clerics and Rogues gain basikc Extra Attack in Act 3. Some Act 1 and Act 2 healers have the Life Domain Cleric improved healing ability. All Act 3 Clerics have it. Rogues have more class features or substitute class features in Act 2 and 3 to make them sneakier, more mobile, and better in ambushes. Rangers and monks have been made more mobile in Act 3 and given better access to their relevant class features. Paladins smite more and smite harder. Fighters fight harder. Monks and Paladins resist your spells better. Clerics and Paladins both gain war magic (cast and attack) by Act 3. Barbarians move faster, crit better, and dex save better by Act 3. **Keep in mind** that enemy NPCs with pseudo-class levels pretty much only applies to humanoids and most enemies - like animals, monstrosities, abberations, outsiders, golems, etc - are not affected by these changes. The biggest difference should be felt with the Murder Tribunal cultists who should pose more of a threat than just being annoying with their Sanctuary spam.
+   * I have realized that I can share the power of the abyss mouth ring (the one that reduces a target's AC when you hit them with acid damage) with your enemies. Be on the lookout for enemies that deal acid damage, some of them can now (temporarily) melt your armor!
      
 # Listonomicon v2.3.2
 
