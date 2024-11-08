@@ -18,27 +18,32 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 Save Safe? No.
 
 1. ADDED MODS
-   * REPLACED Feat Every X Levels with Universal Feat Every X Levels MCM. This fixes the Mystic level 9 missing a feat issue. It also restores the advantage of Fighters and Rogues: They gain a unique, extra feat at level 11 each (ignore what the book says). **So every class gets 3, 6, 9, 12, 15, 18; rogues and fighters get 3, 6, 9, 11, 12, 15, and 18**.
-   * Valdacil's Rebalance for Mystic
-   * Approval Rate Adjuster. You now only gain 0.5x (50%) of the approval points you used to. You now lose 2x (200%) of the approval points you used to. This slows down the rate of how quickly every companion wants to share their entire backstory and let Durge smooch them. Your companions have more personal agency and actually dislike the things you do to upset them.
-   * Reorganized and added more Akelka dragonborn cosmetics.
-   * Steel Watch Armaments adds new magic items to find in Act 3.
-   * Inquisition Domain, a Cleric subclass. Please provide feedback on how this feels balance wise, I expect it to be top tier with Life Cleric but if it goes beyond Life Cleric or Tempest Cleric let me know.
-   * Universal Armour Fixer. This is an invisible mod that helps prevent situations with some mod armors and AC sources not applying correctly on loading a save.
-   * Order Domain, a Cleric subclass.
-   * Warlords of the Coast. We got mothafuggin playable Hobgoblins y'all.
-   * Cosmetic patches specific to WotC.
-   * Critfisher Ring, a very expensive Act 3 ring that makes critfishing builds crazier.
-   * Conjure Animals and Summon Beasts, which increases the variety of animal summons and gives the spell behavior when upcasted similar to how Listo changes summon undead.
-   * Poor Adventurer. A lot of pure loot items are worth less gold, a lot of garbage items are worth less gold, you'll loot less gold, you'll get less gold from quests, overall you will be more poor. Keep in mind Listo adds a lot more magic items throughout the game including free ones found while adventuring, and ones looted from enemies.
-   * Stop Pickpocketing Volo and Withers.
-   * Alfira Joins the Party.
-   * Save Alfira.
-     * NOTE: Alfira isn't as fleshed out as a real companion, has no companion quest or meaningful approval system, etc. But she can level up and do everything one of Wither's companions can do.
-   * Draconic Bloodline Expanded, adding more draconic sorcerer options (including new routes to min/max psychic, radiant, necrotic, and force damage builds).
-   * Luma's excellent "Encounters Enhanced." This reimagines a few enemies in BG3 as if Conquest Paladin and Hierophant Wizard were vanilla game features, in a much more elegant (and play tested) way than slamming random features and passives onto enemies via Combat Extender. Expect Anders (Karlach's foe) to be a revamped challenge, among others :)
-   * Destructive Wrath Adjustment. This should make Tempest Clerics ability more reliable and less annoying with AOE casts. Similarly, Luma has updated Zeal cleric to enjoy the same kind of fixes, hopefully meaning something like fireball won't spam you with 500 confirmations to use your ability for every target caught in the blast.
-2. REMOVED MODS
+    * New and Changed Classes and Character Creation
+      * Inquisition Domain, a Cleric subclass. Please provide feedback on how this feels balance wise, I expect it to be top tier with Life Cleric but if it goes beyond Life Cleric or Tempest Cleric let me know.
+      * Valdacil's Rebalance for Mystic
+      * Order Domain, a Cleric subclass.
+      * Draconic Bloodline Expanded, adding more draconic sorcerer options (including new routes to min/max psychic, radiant, necrotic, and force damage builds).
+      * Conjure Animals and Summon Beasts, which increases the variety of animal summons and gives the spell behavior when upcasted similar to how Listo changes summon undead.
+      * Warlords of the Coast. (Playable hobgoblins)
+      * Cosmetic patches specific to WotC.
+      * Destructive Wrath Adjustment. This should make Tempest Clerics ability more reliable and less annoying with AOE casts. Similarly, Luma has updated Zeal cleric to enjoy the same kind of fixes, hopefully meaning something like fireball won't spam you with 500 confirmations to use your ability for every target caught in the blast.
+    * New and Changed Mechanics
+      * REPLACED Feat Every X Levels with Universal Feat Every X Levels MCM. This fixes the Mystic level 9 missing a feat issue. It also restores the advantage of Fighters and Rogues: They gain a unique, extra feat at level 11 each (ignore what the book says). **So every class gets 3, 6, 9, 12, 15, 18; rogues and fighters get 3, 6, 9, 11, 12, 15, and 18**.
+      * Approval Rate Adjuster. You now only gain 0.5x (50%) of the approval points you used to. You now lose 2x (200%) of the approval points you used to. This slows down the rate of how quickly every companion wants to share their entire backstory and let Durge smooch them. Your companions have more personal agency and actually dislike the things you do to upset them.
+      * Poor Adventurer. A lot of pure loot items are worth less gold, a lot of garbage items are worth less gold, you'll loot less gold, you'll get less gold from quests, overall you will be more poor. Keep in mind Listo adds a lot more magic items throughout the game including free ones found while adventuring, and ones looted from enemies.
+      * Stop Pickpocketing Volo and Withers.
+      * **Alfira Joins the Party**.
+      * **Save Alfira**.
+      * NOTE: Alfira isn't as fleshed out as a real companion, has no companion quest or meaningful approval system, etc. But she can level up and do everything one of Wither's companions can do.
+      * Luma's excellent "Encounters Enhanced." This reimagines a few enemies in BG3 as if Conquest Paladin and Hierophant Wizard were vanilla game features, in a much more elegant (and play tested) way than slamming random features and passives onto enemies via Combat Extender. Expect Anders (Karlach's foe) to be a revamped challenge, among others :)
+    * New and Changed Cosmetics
+       * Reorganized and added more Akelka dragonborn cosmetics.
+       * Removed CC cleaner. Please let Ajax know if you find any race, head, hair combinations that are invisible or untextured.
+    * New and Changed Gear and Equipment
+       * Steel Watch Armaments adds new magic items to find in Act 3.
+       * Universal Armour Fixer. This is an invisible mod that helps prevent situations with some mod armors and AC sources not applying correctly on loading a save.
+       * Critfisher Ring, a very expensive Act 3 ring that makes critfishing builds crazier.
+3. REMOVED MODS
    * Intelligent Warlock (Optional)
    * Event Autosave
    * Remove Debris
@@ -46,24 +51,21 @@ Save Safe? No.
    * UI mods have been consolidated where possible where having a dedicated 21x9 and 16x9 version did not add a ton of difference.
    * CC Cleaner. In hindsight this mod probably could have gone away a long time ago (as soon as a majority of hair/race/cosmetic patch mods became purpose built instead of giant all-in-one patches). I tried to spot check random races and their hair menu, but if you notice a bunch of "NOT FOUND" entries (except the Vexa head dragonborn, that is a different issue) and hair "options" that result in being bald, please let me know the race, body type, and haircut.
    * Patches related to "half-tiefs" letting more races pick horns and tails (patches no longer necessary, half-tiefs still works for the races it did before).
-   * Mage Armor Reworked.
+   * Mage Armor Reworked. Mage Armor is returned (mostly) to its normal behavior.
    * Heart of Enver Gortash (pulled down by the author and has issues).
-3. UPDATED MODS
+4. UPDATED MODS
    * New Character Creation Presets WIP
    * Tav's Hair Salon
    * Homebrew Spells
    * Favored Soul
    * Hierophant
-   * Ascendant Dragon
+   * Every Sumra class mod
    * Alt Hairs
-   * Drunken Master
    * Many More Monsters (Optional)
    * Eye of Vecna (Optional)
    * Hand of Vecna (Optional)
    * Way of the Long Death
    * Dragonborn Extra Cosmetic Tabs
-   * Psi Warrior
-   * Storm Herald
    * Enweaved
    * Goon's Library
    * Mystic (now nerfed and changed to better fit Larian's cRPG-5e adaptation philosophy, now has working feats every 3 levels like the other classes)
@@ -75,16 +77,16 @@ Save Safe? No.
    * Druid Wild Companion (thanks Chizz for exploring and fixing bugs).
    * I lost track but a lot more subclasses and dragonborn cosmetics.
    * REPLACED Soul Coin Tweaks (everyone can use them) with Soul Coin Tweaks (everyone can use them, and the damage bonus is +1d8 fire). So everyone can use Soul Coins (not just Karlach), and the bonus is a little more significant. Or you can continue to just sell them.
-4. OTHER CHANGES
-   * THE COMMAND TO OPEN MCM IS SEMI-COLON ";" NOT THE NUMBER 1.
+5. OTHER CHANGES
+   * **THE COMMAND TO OPEN MCM IS SEMI-COLON ";" NOT THE NUMBER 1**.
    * Re-ordered several mods in Listo to correct load order based issues. If you do not want to update Listo, move "Dynamic Sidebar" to the #2 spot under the User Interface section (right below ImpUI Patch7Ready). Thank you everyone involved in helping identifying mistakes that were made.
    * Yoesph's updated patch addresses more balance issues with Listo.
-       * Unique Gear: Titanstring Bow Changes: There is no longer a free titanstring bow in the owlbear cave (but one can be found in Act 1), there is no longer a Sussur titanstring bow found for free (it's for sale in the Underdark), and the final legendary titanstring bow is now _much_ more special to find. It's also slightly less powerful.
+       * Unique Gear: Titanstring Bow Changes: There is no longer a free titanstring bow in the owlbear cave (but one can be found in Act 1), there is no longer a Sussur titanstring bow found for free (it's for sale in the Underdark), and the final legendary titanstring bow has been nerfed as not to completely out-class rangers.
        * The Corrosive Ring (Mouth of the Abyss) is now a unique magic item (no collecting duplicates), Aaron has learned that he needs to charge much better prices for his wares, and the acid effect accumulation is slower. It is now more of a dedicated anti-AC item to theorycraft a build around, rather than something that is cheap, plentiful, and overly easy to exploit on any monk or two-weapon fighter.
        * Many of JWL's Trinkets now respect the Honor Mode limitations on what are called "[Damage Riders](https://bg3.wiki/wiki/Damage_mechanics)." Their original code allowed things like +damage effects to inappropriately apply multiple times in situations where they shouldn't. There were also some items that were just broken. The good news is that Baldurs_Goonsack not only made a ton of fixes for his own Nexus Collection, he shared all of his fixes with us for free. The Yoesph-Goonsack team up is one of the best things possible to happen to Listo.
    * Updated Listo's wiki heavily. Do you think you could contribute? [Make a pull request on this Github page with your additions](https://github.com/TheMrNewVegas/TheMrNewVegas.github.io/blob/main/docs/7listo/6-SpellsFeatsClassesItems.md).
    * Updated mark read books to be more obvious. Books will be renamed to "[already read] BOOK NAME x" after they have been read at least once in your current campaign.
-5. COMBAT EXTENDER CHANGES
+6. COMBAT EXTENDER CHANGES
    * Father Carrion and the end boss have minor health regen. Removed health regen that didn't work/wasn't applicable/didn't make sense where used on other enemies.
    * Several enemies have been updated thanks to new Goon passive library features. This is especially true of Black Hand of Bane soldiers in Act 3.
    * Commander Zhalk is now immune to being disarmed. However, he has much less HP and several key weaknesses. If you want his sword, you will have to kill him - but he's been made an appropriate challenge for a team of 3 heroes.
@@ -100,6 +102,9 @@ Save Safe? No.
    * Lorroakan has been made more dangerous. Not only does he have limited health regen, but he can recklessly cast AOE without risk to his allies. He can also force YOU to risk a wild magic surge rather than risk one himself. :)
    * Enemy Paladins and Barbarians (as a template) now get better Extra Attack access in Act 3. Enemy Clerics and Rogues gain basikc Extra Attack in Act 3. Some Act 1 and Act 2 healers have the Life Domain Cleric improved healing ability. All Act 3 Clerics have it. Rogues have more class features or substitute class features in Act 2 and 3 to make them sneakier, more mobile, and better in ambushes. Rangers and monks have been made more mobile in Act 3 and given better access to their relevant class features. Paladins smite more and smite harder. Fighters fight harder. Monks and Paladins resist your spells better. Clerics and Paladins both gain war magic (cast and attack) by Act 3. Barbarians move faster, crit better, and dex save better by Act 3. **Keep in mind** that enemy NPCs with pseudo-class levels pretty much only applies to humanoids and most enemies - like animals, monstrosities, abberations, outsiders, golems, etc - are not affected by these changes. The biggest difference should be felt with the Murder Tribunal cultists who should pose more of a threat than just being annoying with their Sanctuary spam.
    * I have realized that I can share the power of the abyss mouth ring (the one that reduces a target's AC when you hit them with acid damage) with your enemies. Be on the lookout for enemies that deal acid damage, some of them can now (temporarily) melt your armor!
+   * YOU THOUGHT THE POWER TO SPAM AND ABUSE THE ABYSS MOUTH RING WAS YOURS ALONE, TAV? HA HA HA HA HA (a similar AC melting acid debuff is now available to a small number of enemies)
+   * Slimes, oozes, jellies, and cubes made more dangerous.
+   * Massive shout-out (again) to Yoesph, Baldurs, and Lumaterian for giving me ideas or literally building the tools and passives I needed. Or helping me look up passives to re-use from mods in Listo. Thanks Larian discord users for scrutinizing my file and giving me good critical feedback/sanity checks.
      
 # Listonomicon v2.3.2
 
