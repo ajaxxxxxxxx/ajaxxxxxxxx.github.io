@@ -50,6 +50,15 @@ Save Safe? NO
 * [At Your Own Pace](https://www.nexusmods.com/skyrimspecialedition/mods/52704)
 * [Listen - Dark Brotherhood Radiant Quests](https://www.nexusmods.com/skyrimspecialedition/mods/59659)
 * [ArteFakes Remeshed. Believable Proportions](https://www.nexusmods.com/skyrimspecialedition/mods/107925)
+* [Requiem - Unofficial Reqtificator Lite - Synthesis - SPID - KID](https://www.nexusmods.com/skyrimspecialedition/mods/132162)
+* [Dynamic Lowered Hoods](https://www.nexusmods.com/skyrimspecialedition/mods/65964)
+* [Helmet Toggle 2](https://www.nexusmods.com/skyrimspecialedition/mods/100617)
+* [SD's Seamless Sneak Transition and Idles OAR](https://www.nexusmods.com/skyrimspecialedition/mods/133022)
+* [Eating Animations and Sounds - First Person Patch](https://www.nexusmods.com/skyrimspecialedition/mods/133246)
+* [Glorious Giant Clutter and fixes](https://www.nexusmods.com/skyrimspecialedition/mods/133028)
+* [Nirn Necessities - SMP Accessories](https://www.nexusmods.com/skyrimspecialedition/mods/112481)
+* [Nirn Necessities - Requiem Rebalance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/133330)
+* [Nirn Necessities - Generic Distribution Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/133430)
 
 **Removed**
 
