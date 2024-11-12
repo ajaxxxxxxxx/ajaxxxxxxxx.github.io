@@ -317,6 +317,8 @@ Save Safe? NO
   > 2.6 to 4.0
 * Draugrs New Model - Dragon Priest
   > 1.0 to 1.1
+* Diverse Foods - Base Object Swapper
+  > 1.5 to 1.6
 
 # Release 1.2.2
 Save Safe? YES
