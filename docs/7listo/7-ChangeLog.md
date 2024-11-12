@@ -40,6 +40,12 @@ Save Safe? Yes.
 19. In Act 3, paladins are more resilient with their saving throws and put out better healing.
 20. In Act 3, rangers and rogues wielding only 1 weapon get a better duelling ability.
 
+### Other Changes
+
+1. Added Skill Actions. This mod gives new in-combat abilities that correspond with various skills, making some previously "why would I ever have a companion take this?" options make a lot more sense. Most importantly the Perception skill can be used to detect hidden and invisible enemies, or at least try to detect them, which is important now that some fights include enemies with no invisibility powers!
+2. Added Vow of Poverty, a Cleric subclass.
+3. Updated various mods.
+
 # Listonomicon v2.4
 
 Save Safe? No.
