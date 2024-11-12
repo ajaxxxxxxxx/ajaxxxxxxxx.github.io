@@ -39,7 +39,6 @@ Save Safe? NO
 * [Vilkas Spar Skip](https://www.nexusmods.com/skyrimspecialedition/mods/127292)
 * [Sanctified Stolen Goods](https://www.nexusmods.com/skyrimspecialedition/mods/128597)
 * [Skills Of The Wild Trainers](https://www.nexusmods.com/skyrimspecialedition/mods/128127)
-* [Voiced Narrative - Fishing](https://www.nexusmods.com/skyrimspecialedition/mods/67053)
 * [Swift Potion NG](https://www.nexusmods.com/skyrimspecialedition/mods/78272)
 * [Requiem Potion Weight Variety](https://www.nexusmods.com/skyrimspecialedition/mods/132746)
 * [Dovahnique's High Poly Inigo Replacer - ESPFE](https://www.nexusmods.com/skyrimspecialedition/mods/70673)
