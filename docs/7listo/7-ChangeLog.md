@@ -13,6 +13,33 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+# Listonomicon v2.4.1 [NOT RELEASED YET]
+
+Save Safe? Yes.
+
+### Big Changes to Combat Extender
+
+1. Priestess Gut has received a quality pass similar to Dror Raglin, making her less pathetic and easy to cheese with barrels while still a much smaller threat than her boss. She has new damage resistances, access to 3rd level spells, can runaway, can go invisible, has a spider friend she can summon, and an extra action + bonus action.
+2. The hobgoblin leader of kobolds near the Grove has been nerfed. He has less health overall, and a weakness to several damage types.
+3. The extra owlbear added to the owlbear cave is much weaker, but has some surprise fun mechanics. The momma owlbear has been made slightly weaker. Overall the fight should be much more doable for a level 3 or 4 party with 5-6 members rather than something that should be cheesed or save for late into Act 1.
+4. The skeletons that appear outside of Wither's crypt after the adventurers are killed and a long rest has passed are now vulnerable to radiant damage and move slower, but otherwise remain very dangerous.
+5. The ghoul encountered in Wither's ruins is vulnerable to radiant damage, and smaller than other ghouls.
+6. The cambions that spawn if you take too long during the tutorial helm fight are now much better at chasing you and applying pressure to the escape, to help offset how much easier it is to kill Zhalk.
+7. Swamp redcaps are more dangerous.
+8. Grym has more attacks related to knocking you into lava.
+9. Kuo Toa wild magic shenanigans are _much_ worse. However players are not expected to fight them. Shadowcursed kuo toa have much weaker wild magic abilities. In exchange for not getting Controlled Chaos, however, SCL KT have Rip and Shred, an attack that reduces the victim's AC.
+10. The bugbear assassin inside the Grove has lost the ability to infinitely spam invisibility.
+11. Mud mephits have more powers related to throwing mud at you, shooting mud at you, hitting you with mud, etc. They can also pinch you like a crab.
+12. The magma mephits that attack during the Grym fight have Rip and Shred, Crippling Pinch, are allergic to magic, and have more HP. They also move much faster. Other mephits in Grymforge do not have wild magic allergy.
+13. Korilla has further been made more dangerous, and will need to be eliminated quickly for your spell casting to be safe.
+14. The ghoul medics protecting Balthazar are better healers, and combatants.
+15. Raphael's cambions are more dangerous. They are bigger, stronger, have more attacks, have many special attacks, and each one has a unique ability or twist or archetype. But their HP is unchanged.
+16. Removed wild magic from Banites. I don't remember why I ever gave it to them.
+17. In act 3, barbarians gain reckless leap, a goading shout, and the ability to Rip and Shred.
+18. In Act 2, clerics gain another AOE healing effect.
+19. In Act 3, paladins are more resilient with their saving throws and put out better healing.
+20. In Act 3, rangers and rogues wielding only 1 weapon get a better duelling ability.
+
 # Listonomicon v2.4
 
 Save Safe? No.
