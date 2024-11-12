@@ -40,6 +40,7 @@ Save Safe? Yes.
 19. In Act 3, paladins are more resilient with their saving throws and put out better healing.
 20. In Act 3, rangers and rogues wielding only 1 weapon get a better duelling ability.
 21. The 2 mindflayers added by EO and the 3 Intellect Devourers in the illithid crash are all nerfed, with less HP and big weaknesses.
+22. Altered EO kuo toa beach fight to reflect the same kind of design/changes as what has happened to other kuo toa. But more limited due to being an earlier encounter.
 
 ### Other Changes
 
