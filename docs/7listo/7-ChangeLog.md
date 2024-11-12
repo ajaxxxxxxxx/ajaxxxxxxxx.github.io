@@ -20,9 +20,9 @@ Save Safe? Yes.
 ### Big Changes to Combat Extender
 
 1. Priestess Gut has received a quality pass similar to Dror Raglin, making her less pathetic and easy to cheese with barrels while still a much smaller threat than her boss. She has new damage resistances, access to 3rd level spells, can runaway, can go invisible, has a spider friend she can summon, and an extra action + bonus action.
-2. The hobgoblin leader of kobolds near the Grove has been nerfed. He has less health overall, and a weakness to several damage types.
+2. The hobgoblin leader of kobolds near the Grove has been nerfed. He has less health overall, and a weakness to several damage types. The kobolds have less HP across the board, however they all have pack tactics. They also all have daylight sensitivity. Normally these two factors will cancel each other out, but if you can split up/isolate kobolds they will be much less effective in combat.
 3. The extra owlbear added to the owlbear cave is much weaker, but has some surprise fun mechanics. The momma owlbear has been made slightly weaker. Overall the fight should be much more doable for a level 3 or 4 party with 5-6 members rather than something that should be cheesed or save for late into Act 1.
-4. The skeletons that appear outside of Wither's crypt after the adventurers are killed and a long rest has passed are now vulnerable to radiant damage and move slower, but otherwise remain very dangerous.
+4. The skeletons that appear outside of Wither's crypt after the adventurers are killed and a long rest has passed are now vulnerable to radiant damage and move slower, but otherwise remain very dangerous. Similar nerfs have been made to the other Act 1 skeleton fight, making everyone radiant damage and bludgeoning vulnerable.
 5. The ghoul encountered in Wither's ruins is vulnerable to radiant damage, and smaller than other ghouls.
 6. The cambions that spawn if you take too long during the tutorial helm fight are now much better at chasing you and applying pressure to the escape, to help offset how much easier it is to kill Zhalk.
 7. Swamp redcaps are more dangerous.
@@ -40,7 +40,7 @@ Save Safe? Yes.
 19. In Act 3, paladins are more resilient with their saving throws and put out better healing.
 20. In Act 3, rangers and rogues wielding only 1 weapon get a better duelling ability.
 21. The 2 mindflayers added by EO and the 3 Intellect Devourers in the illithid crash are all nerfed, with less HP and big weaknesses.
-22. Altered EO kuo toa beach fight to reflect the same kind of design/changes as what has happened to other kuo toa. But more limited due to being an earlier encounter.
+22. Altered EO kuo toa beach fight to reflect the same kind of design/changes as what has happened to other kuo toa. But more limited due to being an earlier encounter. FINALLY FIXED HOW USELESS THESE IDIOTS ARE, they can actually teleport and kick your ass now instead of being stuck on the beach and completely unable to fight back.
 
 ### Other Changes
 
