@@ -37,11 +37,11 @@ What Listonomicon absolutely is not:
 
 - Classes, subclasses, races, feats, spells, magic items, or other options that are out of place. You should only see content that feels like something you might find in BG3 normally - or, at most, something that is within the realm of a creative Dungeon Master who loves buying Kobold Press, Pathfinder, OSR, and other high-quality, setting-agnostic books.
 
-- Cheats, tutorial chests full of goodies, or an easier game. If anything, Listonomicon should feel more difficult and harder to predict than the vanilla game, if you play according to the guide (customized difficulty on Listonomicon settings, 6 party limit or smaller).
+- Cheats, tutorial chests full of goodies, or an easier game. If anything, Listonomicon should feel more challenging and harder to predict than the vanilla game, if you play according to the guide (customized difficulty on Listonomicon settings, 6 party limit or smaller). Note that "More challenging" is not the same thing as "More difficult" - Listo is probably overall harder than vanilla, but the goal is to challenge you to flex your RPG and problem solving muscles and feel like critical thinking is applied in a rewarding way to encounters. We do not want you to autopilot through an easy game, and we don't want you pulling your hair out at a frustrating one.
 
 - The intention to please everyone. This list is assembled according to our taste and vision. Fortunately, adding or removing mods from MO2 is pretty easy - feel free to use Listonomicon as a baseline, and then void any support on our Discord if you decide to customize!
 
-- A list to play in “Honour Mode.” The features of Honour Mode (such as enhanced bosses, smarter enemies, and tweaked game mechanics) are enabled in this list, without asking players to restrict themselves to a single save in a heavily modded environment.
+- A list to play in “Honour Mode.” The features of Honour Mode (such as enhanced bosses, smarter enemies, and tweaked game mechanics) can be enabled in custom game rules, without being limited to a single save. It is not a good idea to mix ironman restrictions with heavily modded games.
 
 - An intentionally punishing, grueling, unfair, unfun experience. Listonomicon should feel fresh, exciting, and challenging with many unexpected, changed, or completely new encounters - but it should not feel like an angry DM is dumping an impossible stat block on you at every turn and denying the fun of sword and sorcery fantasy.
 :::
