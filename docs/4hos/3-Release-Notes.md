@@ -79,6 +79,8 @@ Save Safe? NO
 * [Requiem - Immersive Divine Blessings Redone - Experience Patch](https://www.nexusmods.com/skyrimspecialedition/mods/112230)
 * [Requiem - IDB-R No Blessing Aura Visuals Patch](https://www.nexusmods.com/skyrimspecialedition/mods/78036)
 * [Book Of Shadows - Behaviour Based Stealth Additions](https://www.nexusmods.com/skyrimspecialedition/mods/76086)
+* [Read the Room - Immersive and Animated Helmet Management](https://www.nexusmods.com/skyrimspecialedition/mods/77605)
+* [Optimised Scripts for Read the Room](https://www.nexusmods.com/skyrimspecialedition/mods/96309)
 
 **Updated**
 
