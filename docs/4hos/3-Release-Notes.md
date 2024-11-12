@@ -319,6 +319,8 @@ Save Safe? NO
   > 1.0 to 1.1
 * Diverse Foods - Base Object Swapper
   > 1.5 to 1.6
+* Diverse Foods - BOS - Requiem Patch
+  > 2.0 to 3.0
 
 # Release 1.2.2
 Save Safe? YES
