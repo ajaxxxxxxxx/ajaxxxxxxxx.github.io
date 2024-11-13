@@ -21,8 +21,8 @@ Save Safe? Yes.
 
 1. Priestess Gut has received a quality pass similar to Dror Raglin, making her less pathetic and easy to cheese with barrels while still a much smaller threat than her boss. She has new damage resistances, access to 3rd level spells, can runaway, can go invisible, has a spider friend she can summon, and an extra action + bonus action.
 2. The hobgoblin leader of kobolds near the Grove has been nerfed. He has less health overall, and a weakness to several damage types. The kobolds have less HP across the board, however they all have pack tactics. They also all have daylight sensitivity. Normally these two factors will cancel each other out, but if you can split up/isolate kobolds they will be much less effective in combat.
-3. The extra owlbear added to the owlbear cave is much weaker, but has some surprise fun mechanics. The momma owlbear has been made slightly weaker. Overall the fight should be much more doable for a level 3 or 4 party with 5-6 members rather than something that should be cheesed or save for late into Act 1.
-4. The skeletons that appear outside of Wither's crypt after the adventurers are killed and a long rest has passed are now vulnerable to radiant damage and move slower, but otherwise remain very dangerous. Similar nerfs have been made to the other Act 1 skeleton fight, making everyone radiant damage and bludgeoning vulnerable.
+3. The extra owlbear added to the owlbear cave is much weaker, but has some surprise fun mechanics. The momma owlbear has been made slightly weaker. Overall the fight should be much more doable for a level 3 or 4 party with 5-6 members rather than something that should be cheesed or save for late into Act 1. The extra owlbear makes up for its weak stats by using the weaker version of the Path of the Giant rage.
+4. The skeletons that appear outside of Wither's crypt after the adventurers are killed and a long rest has passed are now vulnerable to radiant damage and move slower, but otherwise remain very dangerous. Similar nerfs have been made to the other Act 1 skeleton fight, making everyone radiant damage and bludgeoning vulnerable. SCL kuo toa undead are radiant vulnerable as well.
 5. The ghoul encountered in Wither's ruins is vulnerable to radiant damage, and smaller than other ghouls.
 6. The cambions that spawn if you take too long during the tutorial helm fight are now much better at chasing you and applying pressure to the escape, to help offset how much easier it is to kill Zhalk.
 7. Swamp redcaps are more dangerous.
@@ -31,9 +31,9 @@ Save Safe? Yes.
 10. The bugbear assassin inside the Grove has lost the ability to infinitely spam invisibility.
 11. Mud mephits have more powers related to throwing mud at you, shooting mud at you, hitting you with mud, etc. They can also pinch you like a crab.
 12. The magma mephits that attack during the Grym fight have Rip and Shred, Crippling Pinch, are allergic to magic, and have more HP. They also move much faster. Other mephits in Grymforge do not have wild magic allergy.
-13. Korilla has further been made more dangerous, and will need to be eliminated quickly for your spell casting to be safe.
+13. Korilla has further been made more dangerous, and will need to be eliminated quickly for your spell casting to be safe. She will interfere with your casters and has health regen.
 14. The ghoul medics protecting Balthazar are better healers, and combatants.
-15. Raphael's cambions are more dangerous. They are bigger, stronger, have more attacks, have many special attacks, and each one has a unique ability or twist or archetype. But their HP is unchanged.
+15. Raphael's cambions are more dangerous. They are bigger, stronger, have more attacks, have many special attacks, and each one has a unique ability or twist or archetype. But their HP is unchanged. One of them uses the Path of the Giant improved giant rage.
 16. Removed wild magic from Banites. I don't remember why I ever gave it to them.
 17. In act 3, barbarians gain reckless leap, a goading shout, and the ability to Rip and Shred.
 18. In Act 2, clerics gain another AOE healing effect.
@@ -44,9 +44,24 @@ Save Safe? Yes.
 
 ### Other Changes
 
-1. Added Skill Actions. This mod gives new in-combat abilities that correspond with various skills, making some previously "why would I ever have a companion take this?" options make a lot more sense. Most importantly the Perception skill can be used to detect hidden and invisible enemies, or at least try to detect them, which is important now that some fights include enemies with no invisibility powers!
+1. Added Skill Actions. This mod gives new in-combat abilities that correspond with various skills, making some previously "why would I ever have a companion take this?" options make a lot more sense. Most importantly the Perception skill can be used to detect hidden and invisible enemies, or at least try to detect them, which is important now that some fights include enemies with no invisibility powers! Please provide feedback on whether this seems like it is adding more depth/options/fun to Listo, or does this just add a bunch of extra buttons you don't care about?
 2. Added Vow of Poverty, a Cleric subclass.
-3. Updated various mods.
+3. Added Soul Knife Equipment -- please provide feedback on the balance (how strong is it compared to the price, how early/late it is found in game, etc)
+4. Added Vest of Investiture -- please provide feedback on the balance (how strong is it compared to the price, how early/late it is found in game, etc)
+5. Updated various mods.
+  * Neon's Assorted Faces
+  * Poesilibre's Fair Eye Colors
+  * Oath of Zeal
+  * Rune Knight
+  * Reckless Attack Toggle
+  * Expansion 13-20
+  * Celestial Warlock
+  * Shadow Magic -- author recommends any active shadow sorcerers respec before updating!
+  * Dragonborn cosmetics
+  * Mystic Class
+  * Many More Monsters
+  * Feat Every X Levels
+  * Juggernaut
 
 # Listonomicon v2.4
 
