@@ -58,6 +58,7 @@ Save Safe? NO
 * [Nirn Necessities - SMP Accessories](https://www.nexusmods.com/skyrimspecialedition/mods/112481)
 * [Nirn Necessities - Requiem Rebalance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/133330)
 * [Nirn Necessities - Generic Distribution Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/133430)
+* [Considerate Followers - Followers are Silent During Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/133659)
 
 **Removed**
 
