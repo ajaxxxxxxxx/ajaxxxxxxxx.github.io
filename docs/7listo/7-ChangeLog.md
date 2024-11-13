@@ -5,15 +5,15 @@ nav_order: 7
 description: Listonomicon
 ---
 
-# Welcome to Listonomicon
+## Welcome to Listonomicon
 The goal of the “Listonomicon” is to be an out-of-the-box experience that enhances Baldurs Gate 3’s UI, quality of life, features, gameplay, and challenge.
 # [Install Instructions](https://www.modlists.net/docs/7listo/Install) and [Listo Game Guide](https://www.modlists.net/docs/7listo/GameBalance)
 
-# Releases (Newest to Oldest)  
+## Releases (Newest to Oldest)  
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-# Listonomicon v2.4.1
+## Listonomicon v2.4.1
 
 Save Safe? Yes.
 
@@ -63,7 +63,7 @@ Save Safe? Yes.
   * Feat Every X Levels
   * Juggernaut
 
-# Listonomicon v2.4
+## Listonomicon v2.4
 
 Save Safe? No.
 
@@ -156,7 +156,7 @@ Save Safe? No.
    * Slimes, oozes, jellies, and cubes made more dangerous.
    * Massive shout-out (again) to Yoesph, Baldurs, and Lumaterian for giving me ideas or literally building the tools and passives I needed. Or helping me look up passives to re-use from mods in Listo. Thanks Larian discord users for scrutinizing my file and giving me good critical feedback/sanity checks.
      
-# Listonomicon v2.3.2
+## Listonomicon v2.3.2
 
 Save Safe? Yes* unless you are dragonborn then it might struggle, I honestly don't know.
 
@@ -169,7 +169,7 @@ Save Safe? Yes* unless you are dragonborn then it might struggle, I honestly don
 6. ADDED Hats of Power, meaning more +2 stat hats are for sale in Sorcerous Sundries.
 7. WIPED Modscache. So it turns out Goon's library wasn't loading in the last update at all. Which probably broke a lot of custom CX encounters. Woops. In my defense I'm learning new update workflows with the new MO2 plugin!
 
-# Listonomicon v2.3.1
+## Listonomicon v2.3.1
 
 Save Safe? Yes*. Anyone playing a Shadow Sorcerer should be prepared to respec after updating due to a big update to that subclass mod.
 
@@ -190,7 +190,7 @@ Save Safe? Yes*. Anyone playing a Shadow Sorcerer should be prepared to respec a
 
 Again big thanks to Yoesph/Goonsack continuing to make content just because I ask them to. Thanks Chizfreak and Sumdra for joining the Discord and helping explain your mods to me, many of them could (and should) have been incorporated a long time ago. Thanks Reyqune for making me your Enhanced Edition tester so I could steal notes on QoL mods you found and I didn't. :)
 
-# Listonomicon v2.3
+## Listonomicon v2.3
 
 Save Safe? No. (technically yes if you are not using the removed cosmetic and are okay with respec'ing every character to clear outdated class progression/Expansion 13-20 issues, but please either start a new game or stay on the current update to finish an ongoing campaign)
 
@@ -212,7 +212,7 @@ Save Safe? No. (technically yes if you are not using the removed cosmetic and ar
 16. ADDED Path of the Storm Herald, a barbarian subclass.
 17. ADDED Listo custom loading screen. Thanks Reyqune for help.
 
-# Listonomicon v2.2.5
+## Listonomicon v2.2.5
 
 Save Safe? Yes.
 
@@ -223,11 +223,11 @@ Save Safe? Yes.
 5. ADDED Namaer'as Curseborn Heads.
 6. ADDED A Gith Can Change Their Spots.
 
-# Listonomicon v2.2.4
+## Listonomicon v2.2.4
 
 Internal testing.
 
-# Listonomicon v2.2.3
+## Listonomicon v2.2.3
 
 Save Safe: Yes* from v2.2.2.
 
@@ -237,7 +237,7 @@ Save Safe: Yes* from v2.2.2.
 4. REPLACED Better Hotbar 2. You no longer need a seperate version for Ultrawide vs Normal monitors (and Ultra-chads no longer need to use Normal for multiplayer comaptibility). They have been combined into ONE mod that DYNMICALLY adjusts the hotbar to match your screen resolution!
 5. Secret Combat Extender update hehe :)
 
-# Listonomicon v2.2.2
+## Listonomicon v2.2.2
 
 Save Safe: Yes* from v2.2.1. If you chose any of the new fighting styles, respec affected characters before updating.
 
@@ -252,7 +252,7 @@ Save Safe: Yes* from v2.2.1. If you chose any of the new fighting styles, respec
 4. ADDED Ajax Better Hints.
    - Do you want to write custom hints and loading screen tips for Listonomicon? We have a channel for you to contribute!
 
-# Listonomicon v2.2.1
+## Listonomicon v2.2.1
 
 Save Safe: Yes from v2.2.
 
@@ -265,7 +265,7 @@ Save Safe: Yes from v2.2.
 3. ADDED No Free NPC Heals (NPCs will not magically, infinitely heal themselves if damaged out of combat, meaning stealthy assassins can actually play the game without needing a 1-hit-kill to do their role).
 4. REORGANIZED MO2 based on further feedback to hide categories/selections that don't matter, and show the notes column so it is easier to understand how to use OPTIONAL mods.
 
-# Listonomicon v2.2
+## Listonomicon v2.2
 
 Save Safe: Yes from v2.1.
 
@@ -284,7 +284,7 @@ Save Safe: Yes from v2.0.
 4. UPDATED 7 mods.
 5. UPDATED Combat Extender based on new Goon's Passive Library features. Specifically replaced a hackneyed solution for the Phase Spider Matriarch to give her a more direct fall damage resistance buff.
 
-# Listonomicon v2.0
+## Listonomicon v2.0
 
 Save Safe: No.
 
@@ -340,7 +340,7 @@ NOTE: The distribution of "Optional" Listo mods is no longer a big convenient li
 34. REMOVED Jun's Head Pack.
 35. REMOVED Wayward Faces.
 
-# Listonomicon v1.2.0
+## Listonomicon v1.2.0
 
 Save Safe: Recommend a new game, as many classes/subclasses will require a respec to update features and level progression.
 
@@ -363,13 +363,13 @@ Save Safe: Recommend a new game, as many classes/subclasses will require a respe
 17. OPTIONAL MODS: ADDED A Devil You Gnome.
 18. OPTIONAL MODS: ADDED Trash Mobs. Please let me know how this + Many More Monsters makes Act 1 feel/run.
 
-# Listonomicon v1.1.4
+## Listonomicon v1.1.4
 
 Save Safe: Yes (and highly encouraged for v1.1.3)
 
 Hotfix to fix problems that aren't my fault (Expansion 13-20 author broke their own mod in a way that isn't detected without starting a new game). Quick level 3 / Listo XP curve is fixed. Various cosmetic mods also caught updates. Updated Listo Lite to v1.1.4.
 
-# Listonomicon v1.1.3
+## Listonomicon v1.1.3
 
 Save Safe: Yes (and highly encouraged for v1.1.2)
 
@@ -386,7 +386,7 @@ Save Safe: Yes (and highly encouraged for v1.1.2)
 11. UPDATED Pavelk UI mods.
 12. REMOVED (for real this time) Honour Features Unlocker, since P7 now has a native solution.
 
-# Listonomicon v1.1.2
+## Listonomicon v1.1.2
 
 Save Safe: Yes (and highly encouraged for v1.1.1)
 
@@ -395,7 +395,7 @@ Save Safe: Yes (and highly encouraged for v1.1.1)
 3. REMOVED THE MOD MANAGER FROM LISTO'S DOWNLOAD. You now need to MANUALLY grab the latest copy of BG3MM (for fresh Listo installs). Listo's install instructions have been updated to reflect this change. Anyone updating a current Listo install should not need to worry about this, however if you have been using the same Listo folder since before Patch 7 please update your BG3MM to the latest version (1.0.11.1) to ensure Patch 7 compatibility.
 4. UPDATED Listo Lite to Listonomicon v1.1.2 for those of you who want all the gameplay changes, classes, and other thrills without the cosmetic mod frills. The .wabbajack file must be downloaded manually from the Listo Nexus page. When loading Listo's mod order in BG3MM it is going to yell at you that hundreds of mods are missing, hit "Remove from order," close the error, and export the list to your game.
 
-# Listonomicon v1.1.1
+## Listonomicon v1.1.1
 
 Save Safe: **No.**
 
@@ -416,7 +416,7 @@ Save Safe: **No.**
 13. REMOVED War Caster 5e (broken with P7)
 14. UPDATED over 100 mods, somewhere between 15-30% of the list.
 
-# Listonomicon v1.0.2
+## Listonomicon v1.0.2
 
 Save Safe: Yes*. If your current campaign is using Automated Summons, DISABLE the toggle in-game and save, then update. You can safely ignore the missing mod error in BG3MM (swapped the old automated summon for a Script Extender version) and import the new load order .json, and safely ignore the missing mod error when loading your save. Everyone else should be able to update without complication.
 
@@ -432,7 +432,7 @@ Save Safe: Yes*. If your current campaign is using Automated Summons, DISABLE th
 10. UPDATED tons and tons and tons of mods.
 11. UPDATED several mod configs. Notably there is an attempt with CX now to address the Myrkul fight, shift the source of difficulty in the Grymforge fight away from whacky imps, and other such things. Furthermore the CX config now relies less on artificial +X bonuses to enemy rolls, saving throws, and attacks. Instead the bonuses should actually be seen in their attributes, and translate logically into enhancing corresponding rolls.
 
-# Listonomicon v1.0.1
+## Listonomicon v1.0.1
 
 Because sometimes you have to fix the 1.0 right away :(
 
@@ -456,7 +456,7 @@ Save safe: Yes* for most players. No for anyone who is playing (or has in their 
 16. REPLACED many Listo Wabbajack assets such as the splash, gallery image, etc to new and original art made by me (with AI and Paint.net). Eventually we desire to replace these again with art from the community/friends/etc.
 
 
-# Listonomicon v1.0
+## Listonomicon v1.0
 That's right baby, 1.0. We did it, Reddit!
 
 Save safe: Extremely no.
@@ -531,7 +531,7 @@ Compared to the previous version of Listo, about 17k XP was removed from the tot
 64. RREMOVED Better Hex Icons (redundant with Valdacil's mods).
 65. REMOVED patches and prequisites related to other removed mods.
 
-# Listonomicon v0.9.9.99
+## Listonomicon v0.9.9.99
 Fixing Stragglers
 Save safe? Kinda from v0.9.9.9
 
@@ -553,7 +553,7 @@ Save safe? Kinda from v0.9.9.9
 16. ADDED Scars and Horror Head Presets.
 17. TWEAKED mod settings, especially as some mods have updated to use MCM instead of their old config system. Make sure to update your mod settings when you update Listo!
 
-# Listonomicon v0.9.9.9
+## Listonomicon v0.9.9.9
 The QoL also No More Scaling Update
 Save safe? Yes from v0.9.9.8
 
@@ -572,7 +572,7 @@ Save safe? Yes from v0.9.9.8
 11. ADDED an optional section. If you feel strongly that leveling up faster is more fun, enable Fast 3 Quick 20 - Faster XP (and then make sure to disable Fast 3 Quick 6 Slow 20). The actual mod .pak name is the same so you do not have to touch anything in BG3MM.
 12. REMOVED Valdacil's buff hider mod. Positive buffs (including "lasts until long rest" ones) will appear next to your party member icons again.
 
-# Listonomicon v0.9.9.8
+## Listonomicon v0.9.9.8
 The [Witty Title] Update
 Save safe? No. No. No. Absolutely not.
 
@@ -592,7 +592,7 @@ Save safe? No. No. No. Absolutely not.
 14. FIXED (hopefully) the distribution of the BG3MM .json and mod settings files and did not uber-goof that stuff again.
 15. TWEAKED Combat Extender further. Regard changes in the Listo instructions document regarded recommended party size, which is now 4 in Act 1; 5 in Act 2; and 6 in Act 3 (the old recommendation was 6 in all acts). Enemies have been made tougher again, in line with or above the CX "Harder Enemies and Bosses" config, in addition to various direct edits made to many Act 1 and some Act 2/3 bosses and encounters. I hope that, combined with the changes to XP, players feel challenged to consider their equipment, options, class features, and game mechanics with more critical thinking that ever before in BG3; but no one feels punished by an anti-fun, overly difficult, slow and excruciating experience. There is no shame in making the game easier for yourself by using more party members (why not bring the whole camp when fighting an entire goblin army?), the game is in your hands and Listonomicon wants to empower YOUR fun. Change stuff, turn mods off, add new ones, make the game even harder if you want to, just make sure when providing feedback and reporting bugs that you let us know what you have changed, or else it is a lot harder to help!
 
-# Listonomicon v0.9.9.7
+## Listonomicon v0.9.9.7
 The Deities & Demigods Update 2
 Save safe from v0.9.9.6? Maybe - no if you are playing a lich.
 
@@ -606,14 +606,14 @@ Save safe from v0.9.9.6? Maybe - no if you are playing a lich.
 8. The updates to Ghouls Playable Undeads will break in-progress Lich playthroughs. All other undead should be* fine to update mid playthrough. But in general, mid-playthrough updated is not recommended to most people.
 9. Further tweaked Combat Extender
 
-# Listonomicon v0.9.9.6
+## Listonomicon v0.9.9.6
 The Deities & Demigods Update
 
 1. ADDED Gods Extra, and specific 6 deities from OddCoward which restore cut dialogue and RP opportunities for Bhaal, Jergal, Myrkul, Shar, Silvanus, and Bane's faithful. NOTE this will default all controllable characters to a deity that does not reflect their lore, however you can respec at Withers to an appropriate faith or an appropriate lack of faith.
 2. TWEAKED Combat Extender further, based on actual play testing/running multiple fights against the Phase Spider Matriarch and goblin camp NPCs to ensure that they only have features that their AI and the game can handle and will function as expected. Act 1 enemy Rangers have less access to spells. If you only want these tweaks without updating, check the pinned file in the #cx-xxx-xperimental channel.
 3. ADDED more cosmetics: Ponytail hair styles, Lara Croft-style hair, and a surprise change to everyone's favorite Selunite in Act 3.
 
-# Listonomicon v0.9.9.5
+## Listonomicon v0.9.9.5
 The Encounters Gone Wild Magic Update (aka the CXXX Update)
 
 1. ADDED "Action Resource Passives." This utility mod changes nothing in your game directly, but it is a library of effects that can be used with Combat Extender to further customize enemies.
@@ -622,7 +622,7 @@ The Encounters Gone Wild Magic Update (aka the CXXX Update)
 4. REMOVED the 5e-spells specific portions of the "5e Spells Duration Fixes" mod due to its age and lack of updates/compatibility with the current state of 5e spells.
 5. ADDED Valdacil's Spell Adjustments Vanilla, 5e, and VFX to preserve most of the spell rebalancing ideas. NOTE that this makes several key changes to spells you have be used to behaving a certain way in older Listo versions; make sure to read tooltips carefully!
 
-# Listonomicon v0.9.9.4
+## Listonomicon v0.9.9.4
 Safe safe? Very no.
 
 1. ADDED "Automatically Hide Summons" as a QoL feature.
@@ -641,10 +641,10 @@ Safe safe? Very no.
 14. REPLACED an older spell list sorter mod with a newer spell list sorter mod (which should be more compatible with non-English languages and break less often)
 15. Got my head out of my ass and figured out how to actually include optional mods. All of the old attempt optional mods are gone, what you have now are ultrawide 21:9 UI options. Make sure to disable the corresponding 16:9 mod.
 
-# Listonomicon v0.9.9.3
+## Listonomicon v0.9.9.3
 Skipped, all internal testing.
 
-# Listonomicon v0.9.9.2
+## Listonomicon v0.9.9.2
 The Big Community Feedback, Cleaning Up Legacy Issues, Changing Outdated Decisions, and Optional Mods Update
 Save safe? No.
 
@@ -672,7 +672,7 @@ Support is not explicitly offered for enabling these mods. Anyone trying to play
 
 Optional files _should_ be able to be placed anywhere in your BG3MM load order, with the exception of PF2e spells which must be below Unlock Level Curve and 5e Spells.
 
-# Listonomicon v0.9.9.1
+## Listonomicon v0.9.9.1
 Safe safe? No
 
 1. REMOVED Script Extender as a download in MO2. Please continue to install it manually as per gdoc instructions. Uncomfirmed if this was the problem.
@@ -682,7 +682,7 @@ Safe safe? No
 5. DISABLED the monk-specific parts of Level 13-20 Extended, as the relatively comprehensive monk class mod combined with other Listo mods serve most of the same purpose.
 6. Added a new bard-oriented outfit, better hex icons, and shadow sorcerers.
 
-# Listonomicon v0.9.9
+## Listonomicon v0.9.9
 Save safe? Ehh I wouldn't recommend it
 
 The Big Yuuko Update
@@ -694,7 +694,7 @@ The Big Yuuko Update
 5. Shove, and other attacks that move enemies, now has a slightly adjustable targeting angle! Read about it here https://www.nexusmods.com/baldursgate3/mods/9371. We have been waiting for this!! 
 6. Took another swing at adjusting enemy HP via Combat Extender. Bosses slightly more, normals the same. Enemy scaling has been altered slightly, please read the updated Listo google doc.
 
-# Listonomicon v0.9.8
+## Listonomicon v0.9.8
 Save safe? Yes
 1. Used Yuuko's better auto junk list to save sponges and cleaning supplies (thanks @yuuko_shionji again).
 2. Removed sell_list.json and replaced with blank one.
@@ -702,7 +702,7 @@ Save safe? Yes
 4. Added Undead Warlock, a class I have had my eye on for a long time but was waiting to receive more updates. Thank you @mattwiththegat for bringing it back to our attention to look at again.
 5. Adjusted the mod order in BG3MM *slightly* to move the compatibility framework back to the bottom, just in case other changes knocked it into a position where it no longer did its job.
 
-# Release 0.9.7
+## Release 0.9.7
 Save safe?: No.
 1. Enemy HP bonuses are reigned in to be ideally half of what they were before.
 2. Removed the acceleration bonus to movement speed (but kept the increased movement speed itself) done
@@ -712,7 +712,7 @@ Save safe?: No.
 6. Thanks to @yuuko_shionji I have added tweaks to Dynamic Sidebar to reduce the size of statuses, and to let them wrap into two rows.
 7. Added Faith and Fortitude (Act 1), introducing new Cleric-centric gear throughout Act 1.
 
-# Release 0.9.6
+## Release 0.9.6
 Save safe?: No.
 1. Briny Bolt has been moved off of regular casters and is now exclusive to boss fights. I'm sorry for everyone who was blinded trying to find Withers.
 2. Mod settings and the BG3MM are now 1 download. The manual install instructions are still the same (drag and drop to the right places for mod settings, load the .json in BG3MM and hit deploy to game) but there's less places to hunt down files.
@@ -722,28 +722,25 @@ Save safe?: No.
 6. Added 1 new gameplay mod (JWL Discordant Instruments), added an achievement enabler, 2 more sets of eyes and 1 hair pack.
 7. We removed all mods by Aether at their request. We thank the many mod authors who have shown support to Listonomicon :)
 
-# Release 0.9.5
+## Release 0.9.5
 Save safe?: Probably safe with 0.9.4
 Updated 8 mods.
 BIG WITHERS MONEY UPDATE: Withers is now a trader. He has taken several dyes and other clutter out of the inventory of his fellow shopkeepers, and has become the exclusive dealer of some comsetic mods. Three cheers for less cluttered shopping experiences everywhere else.
 
-# Release 0.9.4
+## Release 0.9.4
 Save safe?: Probably safe with 0.9.3
 Updated 7 mods.
 Added several new races from Fantastic Multiverses. Updating mod settings due to the related mods adding new features. Added smart cunning action and invisibility movement fix. More cosmetics.
 
-# Release 0.9.3  
+## Release 0.9.3  
 Save Safe?: ABSOLUTELY NOT
 Updated 15 mods.
 Updated mod settings to now properly apply CX level scaling for enemies, helping Listo achieve the advertised and intended difficulty curve!
 Absolutely not save safe due to removing Aether's Obliterate. Trying to load a save that references now missing data (gear, equipment, spells, etc) will bork your game.
 
-# Release 0.9.1 and 0.9.2  
+## Release 0.9.1 and 0.9.2  
 Save Safe?: NO
 Apologies for lack of notes but these version numbers were used for internal testing only.
 
-# Release 0.9  
+## Release 0.9  
 Save Safe?: NO
-
-### This is the initial, beta release candidate for Listonomicon. 
-It is not considered a final product, but it is ready for playtesting in a larger group than just the two authors. If you are interested in providing feedback and helping us on the road to 1.0, we believe Listo is already an envigorating experience! **The list currently has Aether's Obliterate enabled** as a dev testing speed tool as well as a final solution if you run into any hard progress errors (such as fights causing a game crash). We recommend you remove the two spells automatically added to your hotbar, or disable the mod in Mod Organizer if you cannot resist the temptation to cheat. Once a game starts with the mod enabled, however, it must be left enabled and you will just have to ignore the temptation of power.
