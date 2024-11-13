@@ -13,6 +13,14 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v2.4.2 [not yet released]
+
+Save Safe? Unknown
+
+**Combat Extender**
+
+1. Several supporting/buff/helper type enemies have been given potions of speed or better healing potions to throw. Minotaurs lost their durability feat.
+
 ## Listonomicon v2.4.1
 
 Save Safe? Yes.
