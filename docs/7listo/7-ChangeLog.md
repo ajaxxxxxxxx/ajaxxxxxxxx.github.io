@@ -21,6 +21,12 @@ Save Safe? Unknown
 
 1. Several supporting/buff/helper type enemies have been given potions of speed or better healing potions to throw. Minotaurs lost their durability feat.
 
+**Other Changes**
+
+1. Replaced Save Alfira with Alweays Save Alfira.
+2. Added Bonk Improved - more reliable non-lethal damage toggle.
+3. Replaced d8 Initiative with an initiative mod that can be configured with MCM. By default Listo still has this on d8 but you can change it.
+
 ## Listonomicon v2.4.1
 
 Save Safe? Yes.
