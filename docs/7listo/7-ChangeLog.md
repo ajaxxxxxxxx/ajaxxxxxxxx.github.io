@@ -17,7 +17,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 Save Safe? Yes.
 
-### Big Changes to Combat Extender
+**Big Changes to Combat Extender**
 
 1. Priestess Gut has received a quality pass similar to Dror Raglin, making her less pathetic and easy to cheese with barrels while still a much smaller threat than her boss. She has new damage resistances, access to 3rd level spells, can runaway, can go invisible, has a spider friend she can summon, and an extra action + bonus action.
 2. The hobgoblin leader of kobolds near the Grove has been nerfed. He has less health overall, and a weakness to several damage types. The kobolds have less HP across the board, however they all have pack tactics. They also all have daylight sensitivity. Normally these two factors will cancel each other out, but if you can split up/isolate kobolds they will be much less effective in combat.
@@ -42,7 +42,7 @@ Save Safe? Yes.
 21. The 2 mindflayers added by EO and the 3 Intellect Devourers in the illithid crash are all nerfed, with less HP and big weaknesses.
 22. Altered EO kuo toa beach fight to reflect the same kind of design/changes as what has happened to other kuo toa. But more limited due to being an earlier encounter. FINALLY FIXED HOW USELESS THESE IDIOTS ARE, they can actually teleport and kick your ass now instead of being stuck on the beach and completely unable to fight back.
 
-### Other Changes
+**Other Changes**
 
 1. Added Skill Actions. This mod gives new in-combat abilities that correspond with various skills, making some previously "why would I ever have a companion take this?" options make a lot more sense. Most importantly the Perception skill can be used to detect hidden and invisible enemies, or at least try to detect them, which is important now that some fights include enemies with no invisibility powers! Please provide feedback on whether this seems like it is adding more depth/options/fun to Listo, or does this just add a bunch of extra buttons you don't care about?
 2. Added Vow of Poverty, a Cleric subclass.
