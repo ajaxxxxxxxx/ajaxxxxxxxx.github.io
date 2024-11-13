@@ -20,6 +20,7 @@ Save Safe? Unknown
 **Combat Extender**
 
 1. Several supporting/buff/helper type enemies have been given potions of speed or better healing potions to throw. Minotaurs lost their durability feat.
+2. Harpies at the Grove are vulnerable to piercing and lightning damage, making this an easier early game fight for prepared parties rather than something to awkwardly put off.
 
 **Other Changes**
 
