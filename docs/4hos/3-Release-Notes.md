@@ -18,7 +18,6 @@ Save Safe? NO
 * [Ascend - Hidden Peaks of Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/124169)
 * [Horse Save Load Fix](https://www.nexusmods.com/skyrimspecialedition/mods/132110)
 * [JS Vanilla Circlets SE](https://www.nexusmods.com/skyrimspecialedition/mods/131813)
-* [No Edge Glow - Magic and Transformations UPDATED ESL](https://www.nexusmods.com/skyrimspecialedition/mods/53681)
 * [B612 - my little asteroid of useful UI components](https://www.nexusmods.com/skyrimspecialedition/mods/127701)
 * [Offset Movement Animation - Nemesis - Modders Resource](https://www.nexusmods.com/skyrimspecialedition/mods/110408)
 * [First Person Interactions](https://www.nexusmods.com/skyrimspecialedition/mods/123129)
@@ -58,7 +57,6 @@ Save Safe? NO
 * [Nirn Necessities - SMP Accessories](https://www.nexusmods.com/skyrimspecialedition/mods/112481)
 * [Nirn Necessities - Requiem Rebalance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/133330)
 * [Nirn Necessities - Generic Distribution Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/133430)
-* [Considerate Followers - Followers are Silent During Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/133659)
 
 **Removed**
 
