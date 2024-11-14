@@ -39,15 +39,15 @@ In Listonomicon, all classes earn a feat at a rate of one per 3 levels. Fighters
 
 The [Arcanist Feat](https://www.nexusmods.com/baldursgate3/mods/1087) allows you to gain +1 INT, gain expertise in Arcana, and learn any level 1 spell which can be casted once per short rest. Consider how various level 1 spells (such as Shield of Faith) have been rebalanced. That's basically a free +2 AC for anyone who would not otherwise have access to the spell, such as an Eldritch Knight.
 
-The [Caustic Feat](https://www.nexusmods.com/baldursgate3/mods/10031) adds a Poison version of the Elemental Adept feat. It also reduces poison immunity to poison resistance, meaning poison builds are not _completely_ useless in Act 2.
+The [Caustic Feat](https://www.nexusmods.com/baldursgate3/mods/10031) adds a Poison version of the Elemental Adept feat. It also reduces poison immunity to poison resistance, meaning poison builds are not _completely_ useless in Act 2. The Poisoner's Robe (looted from the Phase Spider Matriarch) adds extra damage to all sources of poison damage. For example, a Green Dragonborn Circle of Spores Druid who takes Caustic and wears the robe would get the benefits of the feat (reroll 1's, reduce immunity to resistance, ignore resistance) and the +1d4 damage to their breath weapon, spore attack, and poison damage spells.
 
-[Essential Feats](https://www.nexusmods.com/baldursgate3/mods/5623) adds a great variety of feats. For multiclass melee-caster builds, War Magic allows you to combine casting with weapon swinging. Deadly Alacrity reduces the number needed to roll a crit and restores mobility for hits and kills, though Listo removes the +1 stat bonus. Alchemist turns anyone into a potion throwing utility character. And various Initiate, Touched, and Adept feats give limited access to the features of other classes such as a fighting maneuver, eldritch invocation, or metamagic.
+[Essential Feats](https://www.nexusmods.com/baldursgate3/mods/5623) adds a great variety of feats. For multiclass melee-caster builds, War Magic allows you to combine casting with weapon swinging. This is especially great for Clerics who otherwise do not get access to extra attack or war priest extra attack, as you can combine a cast and a swing every turn. Deadly Alacrity reduces the number needed to roll a crit (stacks with any/other crit chance increase effects) and restores mobility for hits and kills, though Listo removes the +1 stat bonus. Alchemist turns anyone into a potion throwing utility character. And various Initiate, Touched, and Adept feats give limited access to the features of other classes such as a fighting maneuver, eldritch invocation, or metamagic. Using these feats is an alternative to Arcanist, and the user gains 2 cantrips and 1 spell of 1st level. A great use of these feats is to get Shillelagh as a non-Nature Cleric or Monk, without needing to dip into Druid. A Sorcerer or Bard could pick up eldritch blast, another Warlock cantrip, and mage armor.
 
 [Rebalance Feats](https://www.nexusmods.com/baldursgate3/mods/5614) changes a few feats in BG3 to be more or less powerful. Specifically, Great Weapon Master and Sharpshooter are seperately rebalanced by [this mod](https://www.nexusmods.com/baldursgate3/mods/3315).
 
-[Enweaved](https://www.nexusmods.com/baldursgate3/mods/13310) adds a way to get +2 in INT, WIS, or CHA - but be warned, it comes with wild magic and _wild magic allergy_. This can help a caster reach 22 in their casting stat (and get to 24 with Hag's Hair + the relevant Tome) but it will make being around magical effects dangerous!
+[Enweaved](https://www.nexusmods.com/baldursgate3/mods/13310) adds a way to get +2 in INT, WIS, or CHA - but be warned, it comes with wild magic and _wild magic allergy_! This can help a caster reach 22 in their casting stat (and get to 24 with Hag's Hair + the relevant Tome) but it will make casting spells, and being around spellcasting, a dangerous gabmit.
 
-[Experimental Alchemy as a Feat](https://www.nexusmods.com/baldursgate3/mods/12446) provides another way to get access to Experimental Alchemy, which potentially causes two potions to be brewed instead of one when using alchemy. Note that multiple ExpAlch sources do not stack.
+[Experimental Alchemy as a Feat](https://www.nexusmods.com/baldursgate3/mods/12446) provides another way to get access to Experimental Alchemy, which potentially causes two potions to be brewed instead of one when using alchemy. Note that multiple ExpAlch sources do not stack (eg Wizard + Artificer + this feat would still only produce 2 potions).
 
 As an _optional mod_, [Titan's Grip](https://www.nexusmods.com/baldursgate3/mods/12712) is included in Listonomicon. This feat allows dual wielders to ignore normal game restrictions and use two-handed weapons. It is very unbalanced but provided as an option.
 
@@ -67,7 +67,7 @@ Changes the Rogue (Thief) double bonus action to instead be a toggle ability all
 
 ## Wild Magic
 
-These mods effect wild magic sorcerers, wild magic barbarians, and/or other situations where the wild magic effects table is rolled such as certain wild magic enemies. Sorcerers should only accrue wild magic surge chances during combat and the chance starts low and grows as you cast with Tides of Chaos active, creating a whacky risk-reward gameplay experience.
+These mods effect wild magic sorcerers, wild magic barbarians, and/or other situations where the wild magic effects table is rolled such as certain wild magic enemies, controlled chaos, or having the Enweaved feat. Sorcerers and creatures with wild magic should only accrue surge risk during combat, with the chance increasing 5% per spell casted until a surge is triggered. For player sorcerers, you can avoid starting the wild magic risk slide by avoiding using Tides of Chaos, but that would be boring. Wild magic surges will restore Tides of Chaos, allowing you to keep it going multiple times throughout an adventuring day. Wild Magic Sorcerers in Listonomicon are a whacky risk-reward gameplay experience.
 
 * [More Wild Magic effects](https://www.nexusmods.com/baldursgate3/mods/2022)
 * [Wild Magic D100 Table](https://www.nexusmods.com/baldursgate3/mods/2967)
@@ -83,36 +83,36 @@ These mods effect wild magic sorcerers, wild magic barbarians, and/or other situ
 
 New subclasses:
 
-* Path of the Zealot
-* Path of the Ancestral Guardian
+* Path of the Zealot - Your fervor inspires you to fight beyond death, and even if you die, your allies can revivify you for free.
+* Path of the Ancestral Guardian - You channel the spirits of your clan, bloodline, or faith. When you rage, spectral warriors swarm around you to slay your foes.
 * Path of the Juggernaut
-* Path of the Storm Herald
-* Path of the Giant
+* Path of the Storm Herald - Your rage is that of thunderstorms, sandstorms, blizzards, and worse. When you rage, you surround yourself with elemental damage.
+* Path of the Giant - Your rage allows you to fight like a creature twice your size. As your Barbarian level increases, your rages become bigger and their bonuses to your strength, attacks, thrown weapons, and shoves increases with it.
 
 ## Bard
 
-* College of Creation
+* College of Creation - Creation Bards are able to spawn pillars that help allies or hinder enemies, and focus on the caster and support aspects of Bard.
 * College of Eloquence
-* College of Dance
+* College of Dance - Dance Bards enjoy a hybrid playstyle that is part healer/support caster, and part monk.
 
 ## Cleric
 
 [Blessing of the Trickster](https://www.nexusmods.com/baldursgate3/mods/11566) is buffed to apply to more skills, and can be activated during dialogue similar to the Guidance spell. Trickery Clerics are a little less bad.
 
-* Zeal Domain
+* Zeal Domain - Zeal Clerics have similar benefits to Tempest Clerics, but use their Channel Divinity to maximize the damage of thunder and fire spells.
 * Strength Domain
 * Ambition Domain
 * Solidarity Domain
 * Order Domain
-* Inquisition Domain
+* Inquisition Domain - Inquisition Clerics focus on being frontline melee combatants specialized in shutting down enemy spellcasters. Their class features include similar benefits to the Mageslayer feat, they deal extra damage to enemies concentrating on spells, and they can apply protective boons to their companions to resist enemy spells.
 
 ## Druid
 
 [Druid Quality of Life](https://www.nexusmods.com/baldursgate3/mods/3214) is a QoL mod (duh) that changes many spells, effects, and magic items to interact with wildshape among other fixes.
 
-[Circle of the Spores Druid Damage Choice](https://www.nexusmods.com/baldursgate3/mods/11252) gives Spore druids the choice of dealing extra necrotic, acid, or poison damage with their class abilities, reducing how much this class suffers in Act 2 and creating new paths for synergy. [Combined with Spore Druid Extra Attack](https://www.nexusmods.com/baldursgate3/mods/4018) and the improved Shillelagh spell, Spore Druids are a very respectable frontline combat/utility cast/healer and a good choice for players who want a Druid but do not want to use Wildshape.
+[Circle of the Spores Druid Damage Choice](https://www.nexusmods.com/baldursgate3/mods/11252) gives Spore druids the choice of dealing extra necrotic, acid, or poison damage with their class abilities, reducing how much this class suffers in Act 2 and creating new paths for synergy. [Combined with Spore Druid Extra Attack](https://www.nexusmods.com/baldursgate3/mods/4018) and the improved Shillelagh spell, Spore Druids are a very respectable frontline melee combat/utility cast/healer and a good choice for players who want to play a Druid but do not want to use Wildshape.
 
-Druids always have Speak With Animals prepared. They gain find familiar and flock of familiar at the appropriate levels. The Goodberry spell is buffed, and Shilelagh is more powerful and applies to a wider variety of weapons.
+Druids always have Speak With Animals prepared. They gain find familiar and flock of familiar at the appropriate levels. The Goodberry spell is buffed. Shilelagh is more powerful, is a permanent effect, and applies to a wider variety of weapons.
 
 ## Fighter
 
@@ -120,13 +120,13 @@ Eldritch Knight weapon bonds are permanent, similar to Warlock Pact of the Blade
 
 New Subclasses:
 
-* Banneret (Purple Dragon Knight)
-* Arcane Archer
-* Rune Knight (with Inscribe Once QoL optional file)
-* Samurai
-* Cavalier
-* Echo Knight (with RAW Progression optional file)
-* Psi Warrior
+* Banneret (Purple Dragon Knight) - The Banneret is focused on being a battlefield commander. Their abilities include directing their allies to make extra attacks and improving the potential of other melee allies around them.
+* Arcane Archer - The Arcane Archer uses Intelligence to imbue their ranged attacks with magical effects. These can increase damage, temporarily banish targets, bind foes, and other abilities.
+* Rune Knight (with Inscribe Once QoL optional file) - The Rune Knight uses the power of magic runes to improve their potential. Their options and number of benefits increase with their level. They choose a number of runes to inscribe, which come with benefits in and out of combat such as advantage on certain skills, or triggers to deal extra damage. They can also make themselves (temporarily) bigger.
+* Samurai - Samurai are focused on being relentless combatants. They have a limited number of charges per day to grant themselves advantage on all attacks for a turn, plus temporary HP. They can forego advantage to make additional attacks, having the highest potential attacks-per-turn of any fighter.
+* Cavalier - While mounts, and therefore mounted combat, does not exist in BG3, the Cavalier is able to fight with the spirit of a knightly heavy cavalry. The Cavalier has boosts to their speed and attacks that allow them to charge across great distances to smack foes. They can also inspire greater mobility among teammates.
+* Echo Knight (with RAW Progression optional file) - Echno Knight is a weird class. You make a shadowy copy of yourself, and can attack using your own body or using your doppleganger.
+* Psi Warrior - like the Eldritch Knight and Arcane Archer, the Psi Warrior uses Intelligence as a hybrid combat caster. The Psi Warrior focuses on empowering their attacks with extra psychic damage and psi abilities.
 
 ## Monk
 
@@ -134,12 +134,12 @@ New Subclasses:
 
 New Subclasses:
 
-* Way of the Long Death
+* Way of the Long Death - These monks empower their ki-attacks with extra necrotic damage.
 * Way of the Astral Self
 * Way of the Sun Soul
 * Way of the Ascendant Dragon
-* Way of the Kensei
-* Way of the Drunken Master
+* Way of the Kensei - The Kensei is a Monk focused on the expert use of melee weapons and bows, and can use their ki to empower traditional Monk weapons as well as unusual choices like longswords.
+* Way of the Drunken Master - The Drunken Master offers a combination of defensive and offensive abilities to the Monk, using the faux appearance of intoxication to mask their agility and deft strikes.
 * Way of Mercy
 
 ## Paladin
@@ -149,8 +149,8 @@ Start with Othbreaker Unlocked allows players to begin the game as an Oathbreake
 New Subclasses:
 
 * Oath of Redemption
-* Oath of Zeal
-* Oath of Conquest
+* Oath of Zeal - Zeal Paladins use their fervor to increase their own speed as well as to inspire allies.
+* Oath of Conquest - Conquest Paladins focus on overwhelming their enemies and crushing their spirit. They use fear and terror, and react to missed attacks with furious retribution.
 
 ## Ranger
 
@@ -172,9 +172,9 @@ New Subclasses:
 
 New Subclasses:
 
-* Aberrant Mind
-* Shadow Sorcery
-* Favored Soul
+* Aberrant Mind - These Sorcerers overlap with GOO Warlocks in many ways. They cause fear on spell attack crits, and at higher levels can use their sorcery points to cast a number of great Warlock spells.
+* Shadow Sorcery - Shadow Sorcerers are immune to the Shadowcurse, can see in magical darkness, and can use their sorcery points for necromancy spells.
+* Favored Soul - Favored Souls are a hybrid Cleric-Sorcerer. They pick a Cleric domain and gain a number of bonus spells from that domain, and are the only sorcerers with access to healing spells.
 
 ## Warlock
 
@@ -182,22 +182,22 @@ New Subclasses:
 
 New Subclasses: 
 
-* The Undead
-* The Celestial
+* The Undead - The Undead is able to adopt the visage of their undead patron (such as a vampire or mummy) for temporary HP and limited powers.
+* The Celestial - The Celestial is a Warlock with access to healing spells, and charges that can be spent on a unique healing ability.
 
 ## Wizard
 
-* Hierophant
-* Bladesinger
+* Hierophant - Hierophants are Wizards with limited imitation of Cleric abilities, including healing spells and the ability to shelter those they heal from further harm.
+* Bladesinger - Bladesingers are melee wizards.
 
 ## Brand New Classes
 
-* [Artificer](https://www.nexusmods.com/baldursgate3/mods/1779), and all subclasses
-* [Mystic](https://www.nexusmods.com/baldursgate3/mods/2786), and Mystic Expansion
+* [Artificer](https://www.nexusmods.com/baldursgate3/mods/1779), and all subclasses.
+* [Mystic](https://www.nexusmods.com/baldursgate3/mods/2786), and Mystic Expansion.
 
 # Inspiration For Builds and Fun Ideas
 
-The heavy caveat to this section is that Baldur's Gate 3, like any game, can be optimized to the point that you have optimized the fun out of the game. Generally you should follow basic common sense decision making (don't dump Intelligence as a wizard, for example), but Listonomicon is not designed around the expectation that players will make perfectly optimized parties and carefully pour over all of the math to determine the most powerful gear combination they can assemble. Listonomicon is designed around being a more rewarding challenge than vanilla Tactician so that veteran RPG players can have a refreshing experience. If you want to break Listonomicon, you will. If you want to focus on having fun, you can.
+The heavy caveat to this section is that Baldur's Gate 3, like any game, can be optimized to the point that you have optimized the fun out of the experience. Generally you should follow basic common sense decision making (don't dump Intelligence as a wizard, for example), but Listonomicon is not designed around the expectation that players will make perfectly optimized parties and carefully pour over all of the math to determine the most powerful gear combination they can assemble. Listonomicon is designed around being a more rewarding challenge than vanilla Tactician so that veteran RPG players can have a refreshing experience. If you want to break Listonomicon, you will. If you want to focus on having fun, you can.
 
 ## General Notes
 
@@ -207,6 +207,6 @@ The heavy caveat to this section is that Baldur's Gate 3, like any game, can be 
 
 1 Level of Tempest Domain or Zeal Domain Cleric will make you better at lightning damage, or fire and thunder damage, a limited number of times per short rest. Again, starting in Cleric grants medium armor and a shield. By activing Tempetous Wrath or the equivalent Zeal ability, you can cause one spell dealing the associated damage type to deal maximum damage. This is great for a single-target spell if you really want to keep a nuke in your back pocket, but it also applies to AOE, cone, and line spells. A Zeal Cleric 1 / Sorcerer 19 could drop a 9th level fireball and guarantee everyone hit is making their dex save against a max damage roll.
 
-Warlocks pick invocations at level 3. Options include Agonizing Blast, which turns Eldritch Blast into the most consistent source of DPS available in the game. They also choose a pact feature, of which Pact Weapon is a choice. This allows you to transform any 1 melee weapon into a Pact Weapon, which retains its own stats except that it uses your Charisma to attack, and you are always considered proficient. This has great synergy with Sorcerer, Bard, and Paladin, who also rely on Charisma as a primary stat. You can dump Strength and Dexterity, and attack with your Pact Weapon or Eldritch Blast when you run out of spell slots or uses for your other class(es).
+Warlocks pick invocations at level 3. Options include Agonizing Blast, which turns Eldritch Blast into the most consistent source of DPS available in the game. They also choose a pact feature, of which Pact of the Blade is a choice. This allows you to transform any 1 melee weapon into a Pact Weapon, which retains its own stats except that it uses your Charisma to attack, and you are always considered proficient. This has great synergy with Sorcerer, Bard, and Paladin, who also rely on Charisma as a primary stat. You can dump Strength and Dexterity, and attack with your Pact Weapon or Eldritch Blast when you run out of spell slots or uses for your other class(es) abilities.
 
 At level 3, Artificers can become Battlesmiths. Battlesmiths use their Intelligence when attacking with any magical weapon (melee or ranged). They do not gain universal proficiency like a Pact Weapon, but otherwise any magical weapon they are proficient in becomes deadly. Artificers can therefor focus on maximizing Intelligence, while dumping Strength and Dexterity, and still be reliable in combat. This provides great synergy with Eldritch Knight or Psionic Fighters, all Wizards, and the Mystic class, as it combines your weapon attacks and your spellcasting under one stat. Artificers are also the only class natively proficient in firearms, and can use their artificing powers to transform a musket into a double-shot weapon that deals 1d12+ force damage. This also turns it into a magical weapon, using Intelligence instead of Dexterity. This will synergize with anything that makes ranged combat better, such as the Sharpshooter feat, or archery fighting style. An Artificer 3 could pivot into Rogue, and would have two attacks a round with their magic musket, giving two opportunities to trigger a sneak attack. An Artificer Battlesmith could pivot into Ranger, and succeed in two-weapon fighting and ranged combat, using Intelligence for both.
