@@ -21,10 +21,17 @@ Save Safe? Unknown
 
 1. Several supporting/buff/helper type enemies have been given potions of speed or better healing potions to throw. Minotaurs lost their durability feat.
 2. Harpies at the Grove are vulnerable to piercing and lightning damage, making this an easier early game fight for prepared parties rather than something to awkwardly put off.
+3. More Absolute Wrath abilities have been handed out throughout the game. So if AW is enabled, both its random effects, and now many not-random effects, will be experienced.
+4. The defenders of the grove have been variously improved with ranger or fighter abilities (and one caster). Specifically these CX edits are for 4-5 of the tieflings found defending the wall if you choose the Attack The Grove route to deal with Minthara, so they are more powerful allies when fighting with you and they are more dangerous enemies when fighting against you.
+5. The attackers of the grove have been variously improved in different ways to make the fight more interesting. This mostly includes giving them more mobility (as raw movement speed, new movement abilities, or ranged attacks).
+6. Now that a broad CX nerf/rebalance patch has hit several early game encounters to make them easier to tackle in a vanilla (or at least not intentionally optimized) order, the overall CX health settings have been restored to higher values. So all enemies have more HP across the board, which increases with the player's level, but several act 1 fights have either been made directly easier or have had winning strategies enabled (eg bringing bludgeoning and radiant damage to fight undead, bringing lightning to fight harpies, etc).
+7. The Shar cultist fight at the goblin camp shadowdark entrance has been altered. The two bigger Living Shadow enemies are now more like lesser, knock off, weaker counterparts to the defenders of Shar's temple in Act 2. They are sunlight sensitive, sunlight hyper sensitive, and vulnerable to radiant damage. However this fight remains an example of "Look before you leap" - inspect the enemies and their features, and think critically about how you can prepare the battlefield before starting the fight to set the conditions in your favor!
+8. More changes to Priestess Gut, and her ogre room guard.
+9. Various creatures have been made vulnerable to psychic damage in Act 1 to reflect their weakened mental defenses due to plot events, proximity to a crashed nautiloid, or other reasons.
 
 **Other Changes**
 
-1. Replaced Save Alfira with Alweays Save Alfira.
+1. Replaced Save Alfira with Always Save Alfira.
 2. Added Bonk Improved - more reliable non-lethal damage toggle.
 3. Replaced d8 Initiative with an initiative mod that can be configured with MCM. By default Listo still has this on d8 but you can change it.
 
