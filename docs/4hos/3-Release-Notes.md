@@ -59,6 +59,7 @@ Save Safe? NO
 * [Nirn Necessities - Generic Distribution Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/133430)
 * [Follower Dialogue Expansion - Faendal](https://www.nexusmods.com/skyrimspecialedition/mods/130418)
 * [Follower Dialogue Expansion - Borgakh the Steel Heart](https://www.nexusmods.com/skyrimspecialedition/mods/133571)
+* [Destroy the Thieves Guild Fewer Prompts](https://www.nexusmods.com/skyrimspecialedition/mods/125360)
 
 **Removed**
 
