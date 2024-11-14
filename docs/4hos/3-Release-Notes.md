@@ -57,6 +57,8 @@ Save Safe? NO
 * [Nirn Necessities - SMP Accessories](https://www.nexusmods.com/skyrimspecialedition/mods/112481)
 * [Nirn Necessities - Requiem Rebalance Patch](https://www.nexusmods.com/skyrimspecialedition/mods/133330)
 * [Nirn Necessities - Generic Distribution Add-on](https://www.nexusmods.com/skyrimspecialedition/mods/133430)
+* [Follower Dialogue Expansion - Faendal](https://www.nexusmods.com/skyrimspecialedition/mods/130418)
+* [Follower Dialogue Expansion - Borgakh the Steel Heart](https://www.nexusmods.com/skyrimspecialedition/mods/133571)
 
 **Removed**
 
