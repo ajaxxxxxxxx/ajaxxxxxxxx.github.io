@@ -108,7 +108,7 @@ Save Safe? NO
 * Crash Logger SSE AE VR - PDB support
   > 1.14.1 to 1.15
 * SkyPatcher
-  > 2.4.16 to 3.2
+  > 2.4.16 to 3.3.1
 * PrivateProfileRedirector SE - Faster game start (INI file cacher)
   > 0.6.1 to 0.6.2
 * Dialogue History
@@ -166,7 +166,7 @@ Save Safe? NO
 * Alchemical Appraisal Services
   > 1.2 to 1.6
 * Skyrim Unbound Reborn (Alternate Start)
-  > 2.1.10 to 2.1.14
+  > 2.1.10 to 2.1.15
 * Better Third Person Selection - BTPS
   > 0.7 to 0.7.1
 * Experience
@@ -266,11 +266,11 @@ Save Safe? NO
 * House of Horrors - Quest Expansion
   > 1.12 to 1.13
 * The Only Cure - Quest Expansion
-  > 1.02 to 1.04
+  > 1.02 to 1.05
 * Caught Red Handed - Quest Expansion
   > 1.04 to 1.06
 * Belethor's Sister - Quest
-  > 0.3 to 0.3.1
+  > 0.3 to 0.3.2
 * The Heart of Dibella - Quest Expansion
   > 1.03 to 1.04
 * Infiltration - Quest Expansion
@@ -321,6 +321,24 @@ Save Safe? NO
   > 1.5 to 1.6
 * Diverse Foods - BOS - Requiem Patch
   > 2.0 to 3.0
+* Photo Mode
+  > 1.6 to 1.7.1
+* Follower Dialogue Expansion - Uthgerd the Unbroken
+  > 1.0 to 2.0
+* Smart NPC Potions - Enemies Use Potions and Poisons
+  > 1.20 to 1.22
+* Camera Noise
+  > 1.2.1 to 1.2.4
+* Honed Metal Revoiced
+  > 1.8 to 2.0
+* Last Seed - Survival Needs and Diseases
+  > 5.2.1 to 5.3
+* Lively cart driver animation replacer or OAR
+  > 1.0 to 2.0.1
+* No Morthal Snow - Redone
+  > 2.8 to 2.9
+* Requiem - Headhunter Patch (with Missives Optional)
+  > 1.2 to 1.3
 
 # Release 1.2.2
 Save Safe? YES
