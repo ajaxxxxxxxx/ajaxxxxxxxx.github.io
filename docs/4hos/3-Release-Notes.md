@@ -148,7 +148,7 @@ Save Safe? NO
 * Remiel-Custom Voiced Dwemer Specialist and Companion
   > 1.7.1 to 1.7.4
 * Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
-  > 1.11.2 to 1.12.1
+  > 1.11.2 to 1.12.2
 * SkyNames - Second Names for Unique NPCs
   > 1.05alpha to 1.07
 * NPCs Names Distributor
@@ -339,6 +339,18 @@ Save Safe? NO
   > 2.8 to 2.9
 * Requiem - Headhunter Patch (with Missives Optional)
   > 1.2 to 1.3
+* ERM - Enhanced Rocks and Mountains
+  > 1.11 to 1.2
+* ERM - Complex Material
+  > 1.7 to 2.2
+* Fabled Forests - Floating Trees fix BOS version
+  > 3.1 to 3.5
+* FYX - 3D Whiterun Guard Towers
+  > 1.0.1 to 1.0.2
+* YAR - Yuril's Additional Resources
+  > 1.0.3 to 1.0.4
+* Water for ENB
+  > 1.9 to 1.98
 
 # Release 1.2.2
 Save Safe? YES
