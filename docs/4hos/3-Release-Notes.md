@@ -351,6 +351,18 @@ Save Safe? NO
   > 1.0.3 to 1.0.4
 * Water for ENB
   > 1.9 to 1.98
+* Immersive Armors - Asdasfa Tweaks and Fixes
+  > 1.13.1 to 1.15
+* Iron Armors and Weapons Retexture SE
+  > 1.1 to 2.0.1
+* Daedric Armors and Weapons Retexture SE
+  > 1.2 to 2.0
+* Orcish Armors and Weapons Retexture SE
+  > 1.1 to 2.0.1
+* Wolf Armors and Weapons Retexture SE
+  > 1.0.1 to 1.1
+* Forsworn Armors and Weapons Retexture SE
+  > 1.0 to 1.0.1
 
 # Release 1.2.2
 Save Safe? YES
