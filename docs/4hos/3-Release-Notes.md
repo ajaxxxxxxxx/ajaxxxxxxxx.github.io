@@ -401,6 +401,24 @@ Save Safe? NO
   > 4.1 to 4.2.1
 * Oblivion Interaction Icons
   > 2.2 to 2.55a
+* Particle Patch
+  > 1.3 to 1.3.4
+* Lux Orbis
+  > 4.2.2 to 4.3
+* Embers XD
+  > 3.0.3 to 3.0.7
+* Lux
+  > 6.7.1 to 6.8
+* Animated Forge Water
+  > 0.8 to 0.9
+* FYX - Campfire Reacts to the Wind - EmbersXD Edition
+  > 1.0.2 to 1.0.3
+* Lightning VFX Edit
+  > 1.03 to 1.21
+* GG's Complex Silverware
+  > 1.1 to 1.5
+* True Directional Movement - Modernized Third Person Gameplay
+  > 2.2.5 to 2.2.6
 
 # Release 1.2.2
 Save Safe? YES
