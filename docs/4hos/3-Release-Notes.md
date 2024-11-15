@@ -419,6 +419,40 @@ Save Safe? NO
   > 1.1 to 1.5
 * True Directional Movement - Modernized Third Person Gameplay
   > 2.2.5 to 2.2.6
+* Flat World Map Framework (FWMF)
+  > 1.8 to 1.9.3
+* A Cat's Life - JK's Skyrim Patch
+  > 1.0 to 2.0
+* Dear Diary C.O.C.K.S. Mode
+  > 2.0 to 3.0
+* Fluffworks - Tweaks and Expansion
+  > 1.0 to 2.0
+* NPCs Names Distributor - Patches for Various Mods
+  > 1.2 to 1.4
+* Vanilla Hair Remake Unlocked - Extended character options - High Poly Head - Expressive Facegen Morphs - patches
+  > 1.5.4 to 3.2
+* Song of the Green - Cities of the North
+  > 1.0 to 1.1
+* Dismembering Framework - Creature Asset Pack - My patches by Xtudo - Hulking Falmer Overhaul Plague of the Dead Zombies Blue God Bone Wolf Simply Better Wolves Cyrodiil Trolls Ogrims
+  > 1.0 to 1.3
+* The Great Village of Kynesgrove Patch Collection
+  > 1.8 to 1.9.1
+* The Great City of Winterhold Patch Collection
+  > 2.4.1 to 2.7.2
+* JK's Interiors Patch Collection
+  > 5.19.1 to 5.23
+* JK's Guild HQ Interiors Patch Collection
+  > 1.19.2 to 1.25
+* Whiterun Exteriors Patch Collection (JK - Ryn's - Capital)
+  > 1.2.2 to 1.3.1
+* JK's Riften Outskirts Patch Collection
+  > 1.4.2 to 1.6
+* JK's Solitude Outskirts Patch Collection
+  > 1.5.2 to 1.8.1
+* Lux Orbis - Patch Hub
+  > 4.2 to 4.4
+* Lux - Patch Hub
+  > 6.6 to 6.8
 
 # Release 1.2.2
 Save Safe? YES
