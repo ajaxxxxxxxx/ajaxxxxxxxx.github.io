@@ -60,6 +60,9 @@ Save Safe? NO
 * [Follower Dialogue Expansion - Faendal](https://www.nexusmods.com/skyrimspecialedition/mods/130418)
 * [Follower Dialogue Expansion - Borgakh the Steel Heart](https://www.nexusmods.com/skyrimspecialedition/mods/133571)
 * [Destroy the Thieves Guild Fewer Prompts](https://www.nexusmods.com/skyrimspecialedition/mods/125360)
+* [Dynamic String Distributor (DSD)](https://www.nexusmods.com/skyrimspecialedition/mods/107676)
+* [Just Knock - Dynamic Activation Key Patch for Knocking Mods](https://www.nexusmods.com/skyrimspecialedition/mods/103004)
+* [Just Bite - Dynamic Activation Key Patch For Vampire Mods](https://www.nexusmods.com/skyrimspecialedition/mods/122597)
 
 **Removed**
 
