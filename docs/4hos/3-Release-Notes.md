@@ -368,6 +368,36 @@ Save Safe? NO
   > 1.0.1 to 1.1
 * Forsworn Armors and Weapons Retexture SE
   > 1.0 to 1.0.1
+* Bosmer NPCs have antlers
+  > 0.7 to 0.9
+* Bosmer NPCs have Antlers - Texture Patch
+  > 1.0 to 2.0
+* Chooey's Modular SMP Hairstyles Edit
+  > 2.0.1 to 3.0
+* Simplicity of Snow
+  > 0.19 to 0.22
+* Utenlands Nordic Tents - Replacer and Campfire Addon
+  > 1.02 to 1.08
+* Fluffy Beds and Bedrolls
+  > 1.4 to 1.5
+* JS Barenziah SE
+  > 1.3 to 1.4
+* JS Essence and Ash Extractors SE
+  > 1.1 to 1.3
+* JS Dwarven Oil SE
+  > 1.0 to 1.1
+* Deadly Spell Impacts
+  > 1.7 to 1.9
+* Parallax Spell Impacts
+  > 1.5 to 2.1
+* ENB Lights For Effect Shaders
+  > 2.1 to 2.2
+* Snazzy Diverse Carriages - Base Object Swapper
+  > 1.1 to 1.2
+* CoMAP - Common Marker Addon Project
+  > 4.1 to 4.2.1
+* Oblivion Interaction Icons
+  > 2.2 to 2.55a
 
 # Release 1.2.2
 Save Safe? YES
