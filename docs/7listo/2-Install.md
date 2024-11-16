@@ -45,7 +45,7 @@ If you do not want to download manually, install Listonomicon through Wabbajack 
 
 ### 4.) Manually Downloading the List - OPTIONAL
 
-You can grab a copy of Listonomicon.wabbajack [here](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description) and use Wabba’s “Install from disk" if you prefer a manual install or if you want to install an older version of the list for some reason. Otherwise, ignore step 3 and follow step 4's install instructions instead.
+You can grab a copy of Listonomicon.wabbajack [here](https://www.nexusmods.com/baldursgate3/mods/8976?tab=description) and use Wabba’s “Install from disk" if you prefer a manual install or if you want to install an older version of the list for some reason. Otherwise, ignore step 3 and follow step 4's install instructions instead. The version on Nexus is frequently out of date, the latest and most up to date Listo is always on the Wabbajack gallery.
 
 ### 5.) Preparing Steam
 
