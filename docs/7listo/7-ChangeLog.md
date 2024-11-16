@@ -41,6 +41,7 @@ Save Safe? Unknown
 6. Please read the revamped [Listo challenge design page](https://www.modlists.net/docs/7listo/GameBalance) to familiarize yourself with how the pre-Underdark Act 1 game flow has changed from the last time you played Listo.
 7. Updated several mods.
 8. Other changes probably. I'm very sleepy.
+9. Removed AI mods from the optional mod list and the list entirely. Doesn't improve gameplay enough to be worth the crashes.
 
 ## Listonomicon v2.4.1
 
