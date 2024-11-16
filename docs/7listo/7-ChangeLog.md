@@ -13,7 +13,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v2.4.2 [not yet released]
+## Listonomicon v2.5
 
 Save Safe? Unknown
 
@@ -28,12 +28,19 @@ Save Safe? Unknown
 7. The Shar cultist fight at the goblin camp shadowdark entrance has been altered. The two bigger Living Shadow enemies are now more like lesser, knock off, weaker counterparts to the defenders of Shar's temple in Act 2. They are sunlight sensitive, sunlight hyper sensitive, and vulnerable to radiant damage. However this fight remains an example of "Look before you leap" - inspect the enemies and their features, and think critically about how you can prepare the battlefield before starting the fight to set the conditions in your favor!
 8. More changes to Priestess Gut, and her ogre room guard.
 9. Various creatures have been made vulnerable to psychic damage in Act 1 to reflect their weakened mental defenses due to plot events, proximity to a crashed nautiloid, or other reasons.
+10. Several other quality passes to (IMO) questionable EO and MMM encounters, especially EO under dark encounters.
+11. Now if you enable Absolute Wrath, it will both enable randomized enemy buffs and enable several intentional enemy buffs.
 
 **Other Changes**
 
 1. Replaced Save Alfira with Always Save Alfira.
 2. Added Bonk Improved - more reliable non-lethal damage toggle.
 3. Replaced d8 Initiative with an initiative mod that can be configured with MCM. By default Listo still has this on d8 but you can change it.
+4. **Many More Monsters (Listo patched edition) is now a permanent part of the list**, not an optional mod. The patch removes several encounters that I think hurt the game flow, renames/redesigns other encounters to make more sense in context if they overlap with EO/VUE, and adds a few jokes/surprises.
+5. More Trash Monsters remains an OPTIONAL mod. A very small number of MTM encounters have been altered with CX. These encounters will awkwardly overlap with and disrupt the flow of the game, only enable the mod if you just love combat.
+6. Please read the revamped [Listo challenge design page](https://www.modlists.net/docs/7listo/GameBalance) to familiarize yourself with how the pre-Underdark Act 1 game flow has changed from the last time you played Listo.
+7. Updated several mods.
+8. Other changes probably. I'm very sleepy.
 
 ## Listonomicon v2.4.1
 
