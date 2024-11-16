@@ -7,6 +7,10 @@ description: Listonomicon
 
 # New and Changed Spells
 
+## Skill Actions
+
+These aren't really "Spells" per say, but [Skill Actions](https://www.nexusmods.com/baldursgate3/mods/13705) adds new abilities to all characters based on their skill proficiencies. One of the very important skills added is using Perception to search for invisible enemies.
+
 ## Rebalanced Spells
 
 [Valdacil's Spell Adjustments](https://www.nexusmods.com/baldursgate3/mods/4426) makes a number of critical changes to various vanilla BG3 spells. Namely:
