@@ -42,6 +42,7 @@ Save Safe? Unknown
 7. Updated several mods.
 8. Other changes probably. I'm very sleepy.
 9. Removed AI mods from the optional mod list and the list entirely. Doesn't improve gameplay enough to be worth the crashes.
+10. Removed Randomized Equipment Loot. It is no longer directly compatible with too many Listo mods. (Also removed associated alt file downloads for the REL version of some mods)
 
 ## Listonomicon v2.4.1
 
