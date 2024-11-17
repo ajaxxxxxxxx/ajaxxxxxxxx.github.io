@@ -26,6 +26,7 @@ Save Safe? Maybe
 1. Fixed a big mistake in the mod load order. 5e spells needs to load BEFORE Encounters Overhaul for the EO 5e spells patch to work.
 2. Added No Size Effects, which removes the glowing VFX from size changing spells and elixirs.
 3. Added Valdacil's 5e Adjustments Update, which covers new spells in the 5e mod that Valdacil hasn't covered.
+4. Updated Absolute Wrath.
 
 ## Listonomicon v2.5.1
 
