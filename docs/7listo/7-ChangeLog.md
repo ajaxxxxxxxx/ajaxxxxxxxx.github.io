@@ -22,8 +22,6 @@ Save Safe? Yes
 3. Added a Akelka dragonborn cosmetic for Vexa heads.
 4. Updated Listo LITE to v2.5.1.
 
-**Combat Extender**
-
 ## Listonomicon v2.5
 
 Save Safe? No.
