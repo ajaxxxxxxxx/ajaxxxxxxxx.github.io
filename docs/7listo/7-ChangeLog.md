@@ -13,6 +13,17 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v2.5.1
+
+Save Safe? Yes
+
+1. Fixed some goober mistakes/issues with Combat Extender.
+2. Fixed the ModsCache/ModsList that comes with Listo.
+3. Added a Akelka dragonborn cosmetic for Vexa heads.
+4. Updated Listo LITE to v2.5.1.
+
+**Combat Extender**
+
 ## Listonomicon v2.5
 
 Save Safe? No.
