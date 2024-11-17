@@ -13,6 +13,20 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v2.x (WIP not released)
+
+Save Safe? Maybe
+
+**Combat Extender**
+
+1. More entries/additions to CX config for EO, VUE, MMM, and MTM encounters. MTM slowly getting closer to not disrupting early Act 1 flow.
+
+**Other**
+
+1. Fixed a big mistake in the mod load order. 5e spells needs to load BEFORE Encounters Overhaul for the EO 5e spells patch to work.
+2. Added No Size Effects, which removes the glowing VFX from size changing spells and elixirs.
+3. Added Valdacil's 5e Adjustments Update, which covers new spells in the 5e mod that Valdacil hasn't covered.
+
 ## Listonomicon v2.5.1
 
 Save Safe? Yes
