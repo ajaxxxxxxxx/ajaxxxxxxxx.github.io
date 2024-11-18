@@ -20,6 +20,9 @@ Save Safe? Maybe
 **Combat Extender**
 
 1. More entries/additions to CX config for EO, VUE, MMM, and MTM encounters. MTM slowly getting closer to not disrupting early Act 1 flow.
+2. Reduced enemy HP across the board. Bosses reduced slightly, mooks most effected.
+3. Early experimentation has begun with using CX's "Cloning" features. This will be used very selectively to a small number of fights where I think extra mooks or one extra brute will be a more effective balance factor than obsessive override edits.
+4. Experiments with giving enemies Goon damage bonuses. These are (generally) an extra d4 damage to their attacks, spells, and/or spell attacks, especially to help Act 3 enemies compete with players. Please provide feedback if the way this is implemented has unexpected consequences other than you taking more damage. For example, do enemies having more access to multi-damage-phase attacks disrupt certain playstyles/metas?
 
 **Other**
 
