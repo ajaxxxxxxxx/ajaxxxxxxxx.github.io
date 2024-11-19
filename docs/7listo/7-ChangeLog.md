@@ -23,6 +23,32 @@ Save Safe? Maybe
 2. Reduced enemy HP across the board. Bosses reduced slightly, mooks most effected.
 3. Early experimentation has begun with using CX's "Cloning" features. This will be used very selectively to a small number of fights where I think extra mooks or one extra brute will be a more effective balance factor than obsessive override edits.
 4. Experiments with giving enemies Goon damage bonuses. These are (generally) an extra d4 damage to their attacks, spells, and/or spell attacks, especially to help Act 3 enemies compete with players. Please provide feedback if the way this is implemented has unexpected consequences other than you taking more damage. For example, do enemies having more access to multi-damage-phase attacks disrupt certain playstyles/metas?
+5. Actually implemented the secret Vulkrana boss fight I talked about before.
+6. Removed "harper nest" encounters from MMM-Listo. Substituted the same effect by adding surprises to EO in that area.
+7. Removed last vestiges of "Grym 2.0" and the dragon encounter from MMM-Listo.
+8. Replaced instances where enemies received "Repelling Blast" with "Grasp of Hadar" instead.
+9. Auntie Ethel has now invested in the safety and wellbeing of Mayrina, somewhat. She will still set her cage on fire and try to kill her tho.
+10. Added crawling hands to the ghoul fight in the withers crypt.
+11. Added an extra minotaur to the underdark.
+12. Added Young Gregg, Commander Zhalk, Priestess Spleen, the Phase Spider Matriachix, and Disciple L'rrr to the courtyard battle at the end of the game.
+13. Added crawling hands in the SCL abbatoir, and a Death Shephard to the Necromancer's lab.
+14. Added crawling hands to the Oubliette in two locations.
+15. Added additional Cloaker encounters in Act 3.
+16. Improved the Myrkul fight through the inclusion of a mindflayer and powerful cultist.
+17. Added extra threats to the Silent Library.
+18. Added kobolds to the sewer in Act 3.
+19. Added a new undead semi-secret boss fight in the semi-secret cursed treasure room.
+20. Added Gremishkas where I think would be funny.
+21. Improved the performance of the gnolls, ogre, and Absolute cultist near the Paladins of Tyr.
+22. Added new guardians to intercept your search for the Blood of Lathander.
+23. Added extra undead enemies to enhance the MMM encounter in Cazador's dungeon.
+24. Added a hereasy to destroy in the Shar temple.
+25. Added kobold explorers to the Shar temple.
+26. Undead in the Shar temple?
+27. Added a minor colony of cranium rats to the Oubliette.
+28. Added a new encounter to punish intruders to Auntie Ethel's privacy.
+29. Added pirates to the cursed ship in Act 3.
+30. Added an extra challenge to Ansur's puzzles.
 
 **Other**
 
@@ -30,6 +56,9 @@ Save Safe? Maybe
 2. Added No Size Effects, which removes the glowing VFX from size changing spells and elixirs.
 3. Added Valdacil's 5e Adjustments Update, which covers new spells in the 5e mod that Valdacil hasn't covered.
 4. Updated Absolute Wrath.
+5. Added Extra Scars For Everyone.
+6. Added Immersive Gear. Please provide feedback on balance.
+7. Added Hexcraft, a Warlock-y Wizard subclass.
 
 ## Listonomicon v2.5.1
 
