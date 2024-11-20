@@ -63,6 +63,9 @@ Save Safe? NO
 * [Dynamic String Distributor (DSD)](https://www.nexusmods.com/skyrimspecialedition/mods/107676)
 * [Just Knock - Dynamic Activation Key Patch for Knocking Mods](https://www.nexusmods.com/skyrimspecialedition/mods/103004)
 * [Just Bite - Dynamic Activation Key Patch For Vampire Mods](https://www.nexusmods.com/skyrimspecialedition/mods/122597)
+* [Healing VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/133774)
+* [KittyVFX - ENBHands](https://www.nexusmods.com/skyrimspecialedition/mods/133936)
+* [Glow Be Gone SKSE Updated](https://www.nexusmods.com/skyrimspecialedition/mods/34148)
 
 **Removed**
 
