@@ -2,7 +2,21 @@
 
 # Releases (Newest to Oldest)  
 
-# Release 1.3 (Unreleased)
+# Release 1.3.1
+Save Safe? YES (But I would recommend starting a new one just in case)
+
+**Added**
+
+**Removed**
+
+* [Dialogue History](https://www.nexusmods.com/skyrimspecialedition/mods/114238)
+* [Pumping Iron - Dynamic Muscle Growth](https://www.nexusmods.com/skyrimspecialedition/mods/13434)
+* [A Closer Look NG](https://www.nexusmods.com/skyrimspecialedition/mods/76067)
+* [Hotkey Reminder](https://www.nexusmods.com/skyrimspecialedition/mods/115853)
+
+**Updated**
+
+# Release 1.3 
 Save Safe? NO
 
 **Added**
