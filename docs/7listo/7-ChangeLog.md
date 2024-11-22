@@ -46,10 +46,19 @@ Save Safe? Maybe
 1. Fixed a big mistake in the mod load order. 5e spells needs to load BEFORE Encounters Overhaul for the EO 5e spells patch to work.
 2. Added No Size Effects, which removes the glowing VFX from size changing spells and elixirs.
 3. Added Valdacil's 5e Adjustments Update, which covers new spells in the 5e mod that Valdacil hasn't covered.
-4. Updated Absolute Wrath.
-5. Added Extra Scars For Everyone.
-6. Added Immersive Gear. Please provide feedback on balance.
-7. Added Hexcraft, a Warlock-y Wizard subclass.
+4. Updated Absolute Wrath. This update excludes the bulette from the list of enemies that can be assigned random powers, even AW knows the Patch 7 bulette is too big.
+5. Updated Automated Summons, which now excludes The Emperor and certain other creatures/companions/NPCs that really need to stay under player control.
+6. Added Extra Scars For Everyone.
+7. Added Immersive Gear. Please provide feedback on balance.
+8. Added Hexcraft, a Warlock-y Wizard subclass.
+9. Fixed the "Transmute Spell" metamagic in Metamagic Extended, thanks to a community patch.
+10. Added Barbarian of Our Hearts, which adds barbarian-centric end game gear to different vendors in Act 3.
+11. Added Githyanki Psionics, which changes Githyanki innate powers (jump, mage hand, etc) to not be blocked by Silence. Because psionic powers don't require verbal components!
+12. Added multiplayer instructions.
+13. REMOVED No Intro, which various users reported as the root of their problems with MP games failing.
+14. Added Features from Planescape.
+15. Added Features from Spelljammer. This adds a new short adventure to Act 3, accessible after buying a deed off Popper in the Circus of Last Days. Yes it's intentionally expensive.
+16. Added Boo Dice.
 
 ## Listonomicon v2.5.1
 
