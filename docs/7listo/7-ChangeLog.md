@@ -52,7 +52,7 @@ Save Safe? Maybe
 7. Added Immersive Gear. Please provide feedback on balance.
 8. Added Hexcraft, a Warlock-y Wizard subclass.
 9. Fixed the "Transmute Spell" metamagic in Metamagic Extended, thanks to a community patch.
-10. Added Barbarian of Our Hearts, which adds barbarian-centric end game gear to different vendors in Act 3.
+10. Added Barbarian of Our Hearts, which adds barbarian-centric end game gear to different vendors in Act 3 (thank Cordelliia for graciously altering this mod for Listo).
 11. Added Githyanki Psionics, which changes Githyanki innate powers (jump, mage hand, etc) to not be blocked by Silence. Because psionic powers don't require verbal components!
 12. Added multiplayer instructions.
 13. REMOVED No Intro, which various users reported as the root of their problems with MP games failing.
