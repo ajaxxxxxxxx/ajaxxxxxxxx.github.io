@@ -90,6 +90,16 @@ Per the image above, set your difficulty settings as follows:
 
 ### 9.) Optional Mods
 
-There are several optional mods packaged with Listonomicon to enable even more fun, whacky, QoL, random, or challenge features. [Please read the comments on the Optional Mods tab of this excel](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing) for a description/overview of optional mods, if you wish to. No official support is offered for adding any other mods to Listonomicon. You can find optional mods in MO2 by typing OPTIONAL into the search bar at the bottom-right of your mod list. Hover over the notepad icon to the right of the mod's name to read any notes relevant to enabling that mod, such as other mods that need to be enabled or disabled with it. If enabling/disabling optional mods does not seem to do anything, try closing MO2 and going to [listo install location]/profiles/listonomicon. Delete the ModsCache file. Next time you launch the game it will take a long time to load as it rebuilds your mod list, and then should work as normal.
+There are several optional mods packaged with Listonomicon to enable even more fun, whacky, QoL, random, or challenge features. [Please read the comments on the Optional Mods tab of this excel](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing) for a description/overview of optional mods, if you wish to. No official support is offered for adding any other mods to Listonomicon. You can find optional mods in MO2 by typing OPTIONAL into the search bar at the bottom-right of your mod list. Hover over the notepad icon to the right of the mod's name to read any notes relevant to enabling that mod, such as other mods that need to be enabled or disabled with it. If enabling/disabling optional mods does not seem to do anything, try closing MO2 and going to [listo install location]/profiles/listonomicon. Delete the ModsCache file and modsettings.lsx. Next time you launch the game it will take a long time to load as it rebuilds your mod list, and then should work as normal.
 
 ![Optional Mod Example](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/optional%20mods2.png)
+
+### 10.) Multiplayer
+
+(written by Kmnder, edited by Ajax)
+
+1. After installing Listonomicon, if enabling custom or optional mods, the host should generate a fresh ModsCache/ModSettings.lsx and share it with all other players to guarantee BG3 loads the same mods, in the same order. Have **all players start a new game** ([with the same custom game rules as what is in Listo's install instructions](https://www.modlists.net/docs/7listo/Install#7-in-game-settings)). 
+2. Once that is done, have all the players that are going to join finish their dummy characters so they start on the ship (click through character creation, don't bother making any choices, you just need to get to the start of the game). **Save**. The host should make the real character they intend to play.
+3. The Host then invites all players. When joining, players will be able to make their real characters they intend to play.
+4. **Every time** you want to continue COOP, everyone should load their dummy save. Once everyone has loaded in, the Host invites everyone to the same game.
+5. Kmnder: I’ve invited through clicking multiplayer+ and then steam inviting. But it’s worked 100% of the time so far.
