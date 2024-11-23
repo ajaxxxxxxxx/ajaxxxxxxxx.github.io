@@ -15,7 +15,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 ## Listonomicon v2.x (WIP not released)
 
-Save Safe? No - but you can use OLD_Listo MMM Patch to keep a current save going.
+Save Safe? No - but you can use OLD_Listo MMM Patch to keep a current save going. Everyone else should use NEW_Listo MMM Patch.
 
 **Combat Extender**
 
@@ -32,13 +32,16 @@ Save Safe? No - but you can use OLD_Listo MMM Patch to keep a current save going
 11. Reduced the number of enemies with access to Rip and Shred and Sticky Paws.
 12. Altered the progression of enemy rangers/rogues. Rangers get their rogue-like abilities later; rogues get their ranger-like abilities later.
 13. More intentional Absolute Wrath powers have been distributed, continuing to make AW-enabled a tougher experience overall. In fact, Absolute Wrath is getting closer to being Listo's "Challenge Mode."
-14. Implemented (kinda) a secret, useless encounter worth 3 xp and 1 salami near Wuakeen's Rest.
+14. I have been forced to abandon CX-based edits to any of Valkrana's encounters. The skeletons are implemented via Script Extender, meaning their data changes on every save game, which means CX is incapable of defining them and applying changes to them.
+15. Apparently Myrkul's boss fight and Ketheric himself share the same name/UUID (according to the game, they're the same thing/person). So I was applying changes to completely not the right things at all.
 
 Early experimentation has begun with using CX's "Cloning" features. This will be used very selectively to a small number of fights where I think extra mooks or one extra brute will be a more effective balance factor than obsessive override edits. Cloning is unfortunately limited to duplicating things that already exist within the same Act, so I can't bring encounters from future/past acts to new situations. Clones are also oblivious and sometimes don't join the fight with their friends.
 
 1. Removed "harper nest" encounters from MMM-Listo. Substituted the same effect by adding surprises to EO in that area.
 2. Cloned rats in Act 3.
 3. There are 2 extra minotaurs in the Underdark, near the regular encounter, who have reduced stats based on the bridge guardian.
+4. Added Z'Rall, Flesh Golem, Ghoul Medic, and Mindflenser to the Myrkul showdown room.
+5. Added an extra mummy, mindflayer-wizard, and spectator to the final courtyard battle. You have been warned. :)
 
 Future Plans:
 * Squad of goblin assassins in the Waukeen ambush.
@@ -75,6 +78,7 @@ Future Plans:
 20. REL is back. I freaked out over nothing.
 21. Added Lathander's Armory.
 22. Added Avernus Weaponry. This mod adds new unique "Cursed" weapons.
+23. Added community-supplied multiplayer instructions (thank you Kmnder!).
 
 ## Listonomicon v2.5.1
 
