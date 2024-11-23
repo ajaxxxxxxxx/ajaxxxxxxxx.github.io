@@ -13,13 +13,13 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v2.x (WIP not released)
+## Listonomicon v2.6 (WIP not released)
 
 Save Safe? No - but you can use OLD_Listo MMM Patch to keep a current save going. Everyone else should use NEW_Listo MMM Patch.
 
 **Combat Extender**
 
-1. More entries/additions to CX config for EO, VUE, MMM, and MTM encounters. MTM slowly getting closer to not disrupting early Act 1 flow.
+1. More entries/additions to CX config for EO, MMM, and MTM encounters. MTM slowly getting closer to not disrupting early Act 1 flow. Listo is designed for EO, MMM, and VUE to work together very well; MTM is an OPTIONAL MOD, that can and will create awkward situations where it overlaps other mods. But if you love combat, it's an option.
 2. Reduced enemy HP across the board. Bosses reduced slightly, mooks most effected.
 3. Auntie Ethel is now a more daunting foe.
 4. Auntie Ethel has invested in the safety and wellbeing of Mayrina. And her suffering.
@@ -33,7 +33,7 @@ Save Safe? No - but you can use OLD_Listo MMM Patch to keep a current save going
 12. Altered the progression of enemy rangers/rogues. Rangers get their rogue-like abilities later; rogues get their ranger-like abilities later.
 13. More intentional Absolute Wrath powers have been distributed, continuing to make AW-enabled a tougher experience overall. In fact, Absolute Wrath is getting closer to being Listo's "Challenge Mode."
 14. I have been forced to abandon CX-based edits to any of Valkrana's encounters. The skeletons are implemented via Script Extender, meaning their data changes on every save game, which means CX is incapable of defining them and applying changes to them.
-15. Apparently Myrkul's boss fight and Ketheric himself share the same name/UUID (according to the game, they're the same thing/person). So I was applying changes to completely not the right things at all.
+15. Apparently Myrkul's boss fight and Ketheric himself share the same name/UUID (according to the game, they're the same thing/person). So I was applying changes to completely not the right things at all. This has been fixed, and Ketheric + Myrkul are now correctly tougher. See cloning for other changes to the Myrkul fight.
 
 Early experimentation has begun with using CX's "Cloning" features. This will be used very selectively to a small number of fights where I think extra mooks or one extra brute will be a more effective balance factor than obsessive override edits. Cloning is unfortunately limited to duplicating things that already exist within the same Act, so I can't bring encounters from future/past acts to new situations. Clones are also oblivious and sometimes don't join the fight with their friends.
 
@@ -44,10 +44,7 @@ Early experimentation has begun with using CX's "Cloning" features. This will be
 5. Added an extra mummy, mindflayer-wizard, and spectator to the final courtyard battle. You have been warned. :)
 
 Future Plans:
-* Squad of goblin assassins in the Waukeen ambush.
-* Experiments with adding Sarevok's ghost and a reformed Carrion to the courtyard during the journey to the final battle.
 * Death Shephard add to the Necromancer's lab.
-* Improve the Myrkul fight through the inclusion of an extra mindflayer. Experiment with a Z'Rell echo fight + ghoul medics and flesh golem.
 * Extra guardians blocking the theft of Lathanders goods.
 * crawling claws, undead, oozes added to MMM-Cazador fight.
 * More undead in Shar temple.
