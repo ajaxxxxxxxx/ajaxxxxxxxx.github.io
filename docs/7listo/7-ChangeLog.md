@@ -26,17 +26,22 @@ Save Safe? No - but you can use OLD_Listo MMM Patch to keep a current save going
 5. Elfsong Tavern has a bigger rat problem than ever.
 6. Experiments with giving enemies Goon damage bonuses. These are (generally) an extra d4 damage to their attacks, spells, and/or spell attacks, especially to help Act 3 enemies compete with players. Please provide feedback if the way this is implemented has unexpected consequences other than you taking more damage. For example, do enemies having more access to multi-damage-phase attacks disrupt certain playstyles/metas?
 7. Replaced instances where enemies received "Repelling Blast" with "Grasp of Hadar" instead.
-8. Improved the performance of the gnolls, ogre, and Absolute cultist near the Paladins of Tyr.
+8. Improved the performance of the gnolls, ogre, and Absolute cultist near the Paladins of Tyr. They have much better ability to close the distance or make ranged attacks.
+9. A general CX pass has hit the exterior of the Goblin Camp, making its defenders better.
+10. Made rangers, as a general CX enemy category, less annoying.
+11. Reduced the number of enemies with access to Rip and Shred and Sticky Paws.
+12. Altered the progression of enemy rangers/rogues. Rangers get their rogue-like abilities later; rogues get their ranger-like abilities later.
+13. More intentional Absolute Wrath powers have been distributed, continuing to make AW-enabled a tougher experience overall. In fact, Absolute Wrath is getting closer to being Listo's "Challenge Mode."
+14. Implemented (kinda) a secret, useless encounter worth 3 xp and 1 salami near Wuakeen's Rest.
 
 Early experimentation has begun with using CX's "Cloning" features. This will be used very selectively to a small number of fights where I think extra mooks or one extra brute will be a more effective balance factor than obsessive override edits. Cloning is unfortunately limited to duplicating things that already exist within the same Act, so I can't bring encounters from future/past acts to new situations. Clones are also oblivious and sometimes don't join the fight with their friends.
 
 1. Removed "harper nest" encounters from MMM-Listo. Substituted the same effect by adding surprises to EO in that area.
 2. Cloned rats in Act 3.
+3. There are 2 extra minotaurs in the Underdark, near the regular encounter, who have reduced stats based on the bridge guardian.
 
 Future Plans:
-* Actually implemented the secret Vulkrana boss fight I talked about before.
 * Squad of goblin assassins in the Waukeen ambush.
-* extra minotaur to the underdark
 * Experiments with adding Sarevok's ghost and a reformed Carrion to the courtyard during the journey to the final battle.
 * Death Shephard add to the Necromancer's lab.
 * Improve the Myrkul fight through the inclusion of an extra mindflayer. Experiment with a Z'Rell echo fight + ghoul medics and flesh golem.
@@ -68,6 +73,8 @@ Future Plans:
 18. Fixed the names of creatures in MMM-Listo.
 19. Removed additional unwanted MMM content.
 20. REL is back. I freaked out over nothing.
+21. Added Lathander's Armory.
+22. Added Avernus Weaponry. This mod adds new unique "Cursed" weapons.
 
 ## Listonomicon v2.5.1
 
