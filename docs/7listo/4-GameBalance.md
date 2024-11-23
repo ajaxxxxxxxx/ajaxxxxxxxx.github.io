@@ -5,6 +5,10 @@ nav_order: 4
 description: Listonomicon
 ---
 
+## Exhaustion
+
+Characters will accumulate stacks of "Exhaustion" if they are downed, killed and revived, or spend a (cumulative) 16 turns in combat. They gain multiple stacks if they flee from combat. Characters remove 2 stacks of exhaustion by short resting, and 3 stacks by long resting.
+
 ## New Encounters, Old Encounters, New-Old Encounters, and Old-New Encounters
 
 Listonomicon combines Encounters Overhaul (EO, formerly AEE), Vulkrana's Undead Encounters (VUE), Many More Monsters (MMM), and More Trash Monsters (MTM) with Combat Extender (CX) and, optionally, Absolute Wrath (AW).
@@ -52,15 +56,20 @@ Now, with all of that context, note that the following fights are especially twe
 1. Several of the fights listed below have additional complications if Absolute Wrath is enabled.
 2. The Phase Spider Matriarch is immune to fall damage, is big, is bad, can cast spells, and loves to go invisible. A 4th or 5th level party can absolutely beat her, but you need to bring some combination of faerie fire, and spells or potions that let you see invisible creatures. Poison resistance is not a bad idea.
 3. The Paladins of Tyr (where you recruit Karlach) are much more dangerous. Anders is now an Oath of Conquest Paladin and can lock down your party with an AOE fear effect among other new abilities. Despite Karlach's complaints, you can recruit her and save this fight for later.
-4. Grym has been variously made more dangerous with abilities related to knocking you into lava or controlling the shape of the battlefield and limiting your mobility. More significantly, the magma mephits that spawn during the Grym fight are bigger, meaner versions of other magma mephits. When they spawn, you should adjust your focus to eliminate them as quickly as possible - or you may find them counterspelling you, casting heat metal, and generally being a nuisance. The only good news is that Grym has new elemental weaknesses, even without being superheated, giving you more ways to fight him than just bludgeoning damage and the forge hammer.
+4. Grym has been variously made more dangerous with abilities related to knocking you into lava or controlling the shape of the battlefield and limiting your mobility. More significantly, the magma mephits that spawn during the Grym fight are bigger, meaner versions of other magma mephits. When they spawn, you should adjust your focus to eliminate them as quickly as possible - or you may find them counterspelling you, casting heat metal, and generally being a nuisance. The only good news is that Grym has new elemental weaknesses, even without being superheated, giving you more ways to fight him than just bludgeoning damage and the forge hammer. Grym has ranged attacks to punish staircase cheese.
 5. There is a semi-secret VUE encounter near Wuakeen's Rest that has been turned into an optional boss fight. There's no point to the fight except bragging rights.
-6.  The final Grove fight should be more challenging. If the players decide to team up with Minthara, they will find that several of the Grove's defender tieflings are now fighters, rangers, or barbarians (if, albeit, weak ones). If the players decide to team up against Minthara, they will find that her Grove attack force is much stronger with improved mobility, flammable explosive blood, some damage resistances, and new abilities. I have playtested this fight with a semi-optimized 5th level party and can reliably survive. Listo considers this the "right" way to fight Minthara, as knocking her out in the goblin camp is much easier but much, much less exciting. The fight has been play tested/balanced around a 6-member party, 5th level.
+6. The final Grove fight should be more challenging. If the players decide to team up with Minthara, they will find that several of the Grove's defender tieflings are now fighters, rangers, or barbarians (if, albeit, weak ones). If the players decide to team up against Minthara, they will find that her Grove attack force is much stronger with improved mobility, flammable explosive blood, some damage resistances, and new abilities. I have playtested this fight with a semi-optimized 5th level party and can reliably survive. Listo considers this the "right" way to fight Minthara, as knocking her out in the goblin camp is much easier but much, much less exciting. The fight has been play tested/balanced around a 6-member party, 5th level.
 7. Balthazar, if the player chooses to fight him right away, should be a more forbidable encounter. His "Ghoul Medics" are now powerful healers, and Balthazar will always be healed with a maximized roll. Balthazar also generally has more spells at his disposal. Balthazar has AOE buffs for his allies, and his allies have AOE buffs for him and each-other.
 9. Carrion is a much more powerful necromancer than ever before.
 10. Lorroakan is _actually_ a master wizard now (or at least much closer). He has several Elemental Adept feats, can recklessly cast AOE spells without harming his allies, has a better spell selection, and can cause a wild magic surge on anyone who casts a spell near him. He has more HP, and is generally less of a disappointment than his vanilla stats.
 11. Sarevok is much more dangerous and able to go toe-to-toe with multiple enemies even while outnumbered. He has a minor health regen, dishes out multiple attacks per turn, and even when he dies he might not be dead without a crit or radiant damage.
 12. Ansur has a big heap of HP, Elemental Adept (Lightning), and generally much better survivability even when outnumbered by a 6-man party.
 13. Raphael himself has no direct buffs. But everyone else in the confrontation with him is much more dangerous! Each of his cambions are bigger and badder, and do something different. One is a wild magic barbarian, one is a giant barbarian, one is allergic to magic, one will smite you, etc. Korilla is now the chosen warlock of Raphael, and has the magical skills to back it up - including a spell list designed to be maximum annoying. She will silence, counterspell, and debuff your team while buffing, protecting, and healing her own. You may want to leave Hope outside.
+14. Ketheric and Myrkul are variously stronger. The final confrontation has a clone of Z'Rell (her sister, Z'Rall), a flesh golem, a mindflayer, and a ghoul added.
+15. The final courtyard fight has an additional mummy, mindflayer, and spectator.
+16. Auntie Ethel is now even more dangerous to cast spells around.
+17. Starting in Act 3, many enemy archetypes have flat increases to outgoing damage.
+18. The EO gnoll fight near the Paladins of Tyr are a lot more difficult to cheese from range/height.
 
 ## Party Size, Game Balance, and Performance
 
