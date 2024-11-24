@@ -13,6 +13,21 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v2.x [WIP not released]
+
+Save Safe? Maybe.
+
+**Combat Extender**
+
+1. Made Z'Rell tougher and made Z'Rell's outgoing damage more serious.
+2. Replaced the Z'Rell clone in the Myrkul fight with a clone of Radija.
+3. Made the EO Oubliette beholder fight tougher.
+4. Made the Oubliette hook horrors tougher.
+5. Made the Act 2 Stone Mason shadow/wraith fight a little tougher.
+6. The portal githyanki (end of act 2/transition to act 3) are now more dangerous and difficult to run past.
+7. Several instances in Act 1 where enemies were given Alert has been replaced with the slightly less powerful Feral Instinct.
+8. Made Lorroakan better.
+
 ## Listonomicon v2.7
 
 Save Safe? No. Grab v2.6 from Nexus _+ OLD_LISTO MMM Patch if are currently on v3.5-v2.5.1 and want an update.
