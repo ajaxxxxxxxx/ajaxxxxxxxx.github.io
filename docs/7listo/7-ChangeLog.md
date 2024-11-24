@@ -13,6 +13,20 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v2.7
+
+Save Safe? No. Grab v2.6 from Nexus _+ OLD_LISTO MMM Patch if are currently on v3.5-v2.5.1 and want an update.
+
+1. ADDED Fresh Loot for testing/feedback. This adds a few new items, rebalances a few items, adds a purpose to a few items.
+2. REMOVED A Gith Can Change Their Spots.
+3. REMOVED P4 NPC Heads for Tav.
+4. REMOVED P4 NPC Hairs for Tav.
+5. REMOVED Subtle Nature Eyes.
+6. REMOVED Extra Eye Colors.
+   * The purpose of these removals is periodic clean up/culling of excessive bloat. These cosmetic mods either have issues, are broken/taken down from Nexus, or overlap with other mods in Listo without being compelling enough on their own.
+8. REORGANIZED dragonborn cosmetic mods, again. No more "your mod is out of date" error.
+9. REORGANIZED equipment mods to make REL a better experience, for players who prefer randomized loot.
+
 ## Listonomicon v2.6
 
 Save Safe? No - but you can use OLD_Listo MMM Patch to keep a current save going. Everyone else should use NEW_Listo MMM Patch.
