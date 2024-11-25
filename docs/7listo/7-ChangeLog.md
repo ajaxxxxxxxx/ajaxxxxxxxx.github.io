@@ -30,7 +30,7 @@ Save Safe? Maybe.
 
 **Other Changes**
 
-1. Moved Enemy Stats to the optional list, renamed it "OPTIONAL_Listo Hard Mode," and included pre-configured MCM settings. This will make all enemies arbitrarily more difficult. <-- needs feedback/testing. The goal of "Hard Mode" is NOT to make Listonomicon into a difficult game. It is to give people an option to make Listonomicon more difficult. At player level 5, 10, 15, and 20, enemes will receive a +1 bonus to their stats, rolls, and saving throws. At PL 3, 6, 9, 12, 15, and 18 enemies will receive 5% extra HP, and a +2 damage bonus. At PL 6, 12, and 18, enemies will receive +1 AC.
+1. Moved Enemy Stats to the optional list, renamed it "OPTIONAL_Listo Hard Mode," and included pre-configured MCM settings. This will make all enemies arbitrarily more difficult. This needs feedback/testing. The goal of "Hard Mode" is NOT to make Listonomicon into a difficult game. It is to give people an option to make Listonomicon more difficult. At player level 5, 10, 15, and 20, enemes will receive a +1 bonus to their stats, rolls, and saving throws. At PL 3, 6, 9, 12, 15, and 18 enemies will receive 5% extra HP, and a +2 damage bonus. At PL 6, 12, and 18, enemies will receive +1 AC.
 2. Moved Savage Enemy Doubler from optional to a core mod, with a small % chance of any enemy being duplicated.
 3. Added Muscular Passive (feat).
 4. Added Fey Wanderer, a Ranger subclass.
