@@ -30,7 +30,7 @@ Save Safe? Maybe.
 
 ## Listonomicon v2.7
 
-Save Safe? No. Grab v2.6 from Nexus _+ OLD_LISTO MMM Patch if are currently on v3.5-v2.5.1 and want an update.
+Save Safe? No. Grab v2.6 from Nexus + OLD_LISTO MMM Patch if are currently on v2.5-v2.5.1 and want an update.
 
 1. ADDED Fresh Loot for testing/feedback. This adds a few new items, rebalances a few items, adds a purpose to a few items.
 2. REMOVED A Gith Can Change Their Spots.
