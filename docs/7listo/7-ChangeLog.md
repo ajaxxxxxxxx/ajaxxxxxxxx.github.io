@@ -28,6 +28,19 @@ Save Safe? Maybe.
 7. Several instances in Act 1 where enemies were given Alert has been replaced with the slightly less powerful Feral Instinct.
 8. Made Lorroakan better.
 
+**Other Changes**
+
+1. Moved Enemy Stats to the optional list, renamed it "OPTIONAL_Listo Hard Mode," and included pre-configured MCM settings. This will make all enemies arbitrarily more difficult.
+2. Moved Savage Enemy Doubler from optional to a core mod, with a small % chance of any enemy being duplicated.
+3. Added Muscular Passive (feat).
+4. Added Fey Wanderer, a Ranger subclass.
+5. Added Dispel Magic, a new spell.
+6. Added Monkey's Paw Sweater, an Ethel reward that you may regret using!
+7. Added FROG and Followers of Zerthimon. Removed Fantastical Multiverse's version of Githzerai. This new set up consolidates Githyanki/Githzerai into one race with yanki/zerai as sub-races.
+8. Added Less Crowd Characters (50%), which reduces the # of meaningless NPCs in Act 3. This also reduces the number of NPCs that Combat Extender checks/tests which should reduce Act 3 performance issues hopefully.
+9. Added Half-Light Voice, which makes Durge Voice 5 (default male voice) scarier.
+10. Reorganized equipment mods, again, to optimize the REL experience.
+
 ## Listonomicon v2.7
 
 Save Safe? No. Grab v2.6 from Nexus + OLD_LISTO MMM Patch if are currently on v2.5-v2.5.1 and want an update.
