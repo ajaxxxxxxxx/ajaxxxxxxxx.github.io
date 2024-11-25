@@ -40,6 +40,7 @@ Save Safe? Maybe.
 8. Added Less Crowd Characters (50%), which reduces the # of meaningless NPCs in Act 3. This also reduces the number of NPCs that Combat Extender checks/tests which should reduce Act 3 performance issues hopefully.
 9. Added Half-Light Voice, which makes Durge Voice 5 (default male voice) scarier.
 10. Reorganized equipment mods, again, to optimize the REL experience.
+11. Slightly reduced the amount of XP needed to reach levels 6 and 9. Increased the amount of XP needed to reach levels 13-16.
 
 ## Listonomicon v2.7
 
