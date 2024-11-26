@@ -10,7 +10,7 @@ description: Listonomicon
 ## Tav, Durge, and Dream Visitor Customization Notes
 
 - Listonomicon offers many new custom head meshes, which can (and many times do) conflict with new piercings and hairstyles. Specifically, piercings and hairstyles that try to apply physics can be wonky - this is not the fault of the cosmetic mod makers, and it is not really within the power of Listo to fix these conflicts.
-- If your Character Creation menu has several entries that say "Not Found" and result in invisible or un-textured body parts and hair, please let Ajax know. He is aware of some Vexa dragonborn head issues already but at this time there are no known issues for any other race.
+- If your Character Creation menu has several entries that say "Not Found" and result in invisible or un-textured body parts and hair, please let Ajax know.
 - The "Randomize" button works again in Listo. However if you are going to rely on a random appearance, please still do a Q/C check of your character! Make sure randomize did not give your character nails if they should not have any, otherwise you will get in game and find out you have claws floating 2 feet off your body. Double check if you were assigned a tail if that is not something you want. Etc. Randomize is fun but it can result in a lot of wonky choices!
 
 ## Changes to Class Features, Feats, Progression, Challenge and Leveling Notes
