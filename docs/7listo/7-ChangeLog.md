@@ -13,7 +13,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v2.x [WIP not released]
+## Listonomicon v2.8
 
 Save Safe? Maybe.
 
@@ -42,6 +42,12 @@ Save Safe? Maybe.
 9. Added Half-Light Voice, which makes Durge Voice 5 (default male voice) scarier.
 10. Reorganized equipment mods, again, to optimize the REL experience.
 11. Slightly reduced the amount of XP needed to reach levels 6 and 9. Increased the amount of XP needed to reach levels 13-16.
+12. Removed Auto Loot Seller.
+13. Removed More Reaction Companions. It will return if/when it gets a patch 7 update.
+14. Removed OPTIONAL PF2e spells. Hoping we will see a newer, better implementation of this idea in the future :)
+15. Added Healing Bardic Inspiration. Let me know if any mod subclasses seem to not work with this.
+16. Added Guardian, a fighter subclass.
+17. Added Various NPCs redesigned. Mol gets a face lift in Act 3 along with a few more NPCs :)
 
 ## Listonomicon v2.7
 
