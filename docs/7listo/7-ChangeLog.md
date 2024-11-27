@@ -28,6 +28,11 @@ Save Safe? Maybe.
 7. Several instances in Act 1 where enemies were given Alert has been replaced with the slightly less powerful Feral Instinct.
 8. Made Lorroakan better.
 9. Nerfed Dror Raglin slightly by removing Tough. In general, reduced the number of creatures with access to Tough pre-Underdark/Creche. Dror Raglin's power, now, is in his giant's rage ability. In addition to increasing strength and damage, he activates several buffs upon raging - magic mirror, temp HP, damage reduction, etc. The Calm Emotions spell is a way to shut him down and instantly remove his rage-related buffs, and enemy barbarians in general. Other conditions that end rage early will work until enemy barbarians get later game rage buffs in later acts.
+10. Split up paladin passive boosts from act 1 to happening in act 1 and 2. Some of their more powerful CX additions (like war magic, and setting your speed to 0 on an Attack of Opportunity) are delayed. Moved the defensive fighting style bonus to act 3.
+11. Split up enemy monk passive boosts. They do not gain savage attacker or tavern brawler until act 2.
+12. Many enemies, by category, have access to health potions.
+13. Made the bulette both stronger and weaker.
+14. Made the harpers who join the moonrise assault suck a little less (but that also means they're tougher if you side against them!)
 
 **Other Changes**
 
