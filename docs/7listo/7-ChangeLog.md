@@ -15,7 +15,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 ## Listonomicon v2.8
 
-Save Safe? Maybe.
+Save Safe? No.
 
 **Combat Extender**
 
