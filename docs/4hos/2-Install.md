@@ -39,9 +39,7 @@ description: Halls of Sovngarde Installation Guide
 
 ### 8.) At the top left of MO2, click on the puzzle icon which will open up a dropdown menu for various tools. Choose Set CPU Affinity and first clear if there's anything there, then select the tool again and change the affinity
 
-### 9.) If you don't use an Nvidia RTX GPU, disable NVIDIA Reflex Support and both Skyrim Upscaler mods then set "bUseTAA" to 1 in skyrimprefs.ini
-
-### 10.) You can now select “Halls of Sovngarde” from the right hand dropdown and press play
+### 9.) You can now select “Halls of Sovngarde” from the right hand dropdown and press play
 
 :::tip
 # Optional Post-Install Steps
