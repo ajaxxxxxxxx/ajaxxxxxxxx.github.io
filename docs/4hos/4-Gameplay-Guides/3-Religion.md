@@ -26,7 +26,7 @@ description: Halls of Sovngarde Installation Guide
 - [Last Seed](https://www.nexusmods.com/skyrimspecialedition/mods/56393)
 :::
 *** 
-## General Divine Restrictions
+## General Divine Restrictions  
 
 * Cannot join the Dark Brotherhood
 * Cannot steal more than 9 things
@@ -36,7 +36,7 @@ description: Halls of Sovngarde Installation Guide
 * Cannot join the Thieves Guild (once you steal Madesi's ring)
 * Cannot bite more than 3 necks if a vampire
 
-## Akatosh
+## Akatosh  
 **Boons**
 
 * Increases elemental damage by 15%
@@ -44,7 +44,7 @@ description: Halls of Sovngarde Installation Guide
 * For each 3 main quests completed, increases magicka regeneration by 20%, up to 100% at 15 main quests completed
 * If Alduin is killed, increases health, magicka and stamina by 50
 
-## Arkay
+## Arkay  
 **Boons**
 
 * Increases frost resistance by 15%
@@ -60,7 +60,7 @@ description: Halls of Sovngarde Installation Guide
 * Cannot complete The Taste of Death
 * Cannot wear Necromancer's Amulet
 
-## Auriel
+## Auriel  
 **Boons**
 
 * Increases magicka by 25
@@ -72,7 +72,7 @@ description: Halls of Sovngarde Installation Guide
 
 * No vampirism 
 
-##Dibella
+##Dibella  
 **Boons**
 
 * Increases armor rating by 100
@@ -87,7 +87,7 @@ description: Halls of Sovngarde Installation Guide
 * Cannot become a Nightingale
 * Cannot get caught (accumulating 3000 lifetime bounty)
 
-## Kynareth
+## Kynareth  
 **Boons**
 
 * Increases stamina by 25
@@ -95,7 +95,7 @@ description: Halls of Sovngarde Installation Guide
 * Increases movement speed by 2/4/6/8/10% at 25/50/75/125/175 locations discovered
 * If you return Gildegreen Sapling to Danica, stamina regeneration by 50%
 
-##Julianos
+##Julianos  
 **Boons**
 
 * Increases damage dealt with battlestaves by 15%
@@ -103,7 +103,7 @@ description: Halls of Sovngarde Installation Guide
 * Increases magicka by 20/40/60/80/100 at 25/65/150/250/385 books read
 * After becoming the Archmage, reduces the cost of all spells by 15%
 
-##Mara
+##Mara  
 **Boons**
 
 * Reduces the cost of restoration spells by 15%
@@ -117,7 +117,7 @@ description: Halls of Sovngarde Installation Guide
 * Cannot murder Erandur
 * No skooma or alcohol usage (the blessing "turns off" while under the influence)
 
-##Stendarr
+##Stendarr  
 **Boons**
 
 * Increases health by 25
@@ -131,7 +131,7 @@ description: Halls of Sovngarde Installation Guide
 * No vampirism
 * No conjuration
 
-##Syrabane
+##Syrabane  
 **Boons**
 
 * Increases shock resistance by 15%
@@ -143,7 +143,7 @@ description: Halls of Sovngarde Installation Guide
 
 * Secret! There are about 4 of them placed.
 
-##Talos
+##Talos  
 **Boons**
 
 * Increases health by 25
@@ -159,7 +159,7 @@ description: Halls of Sovngarde Installation Guide
 * Looks down upon theft and requires you to pay off your current bounties to receive a blessing
 
 
-##Zenithar
+##Zenithar  
 **Boons**
 
 * Increases the damage with maces by 15% and hammers by 10%
