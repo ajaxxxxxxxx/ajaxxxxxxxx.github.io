@@ -159,7 +159,7 @@ description: Halls of Sovngarde Installation Guide
 * Looks down upon theft and requires you to pay off your current bounties to receive a blessing
 
 
-Zenithar
+##Zenithar
 **Boons**
 
 * Increases the damage with maces by 15% and hammers by 10%
