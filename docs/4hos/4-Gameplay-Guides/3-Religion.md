@@ -72,7 +72,7 @@ description: Halls of Sovngarde Installation Guide
 
 * No vampirism 
 
-##Dibella  
+## Dibella  
 **Boons**
 
 * Increases armor rating by 100
@@ -95,7 +95,7 @@ description: Halls of Sovngarde Installation Guide
 * Increases movement speed by 2/4/6/8/10% at 25/50/75/125/175 locations discovered
 * If you return Gildegreen Sapling to Danica, stamina regeneration by 50%
 
-##Julianos  
+## Julianos  
 **Boons**
 
 * Increases damage dealt with battlestaves by 15%
@@ -103,7 +103,7 @@ description: Halls of Sovngarde Installation Guide
 * Increases magicka by 20/40/60/80/100 at 25/65/150/250/385 books read
 * After becoming the Archmage, reduces the cost of all spells by 15%
 
-##Mara  
+## Mara  
 **Boons**
 
 * Reduces the cost of restoration spells by 15%
@@ -117,7 +117,7 @@ description: Halls of Sovngarde Installation Guide
 * Cannot murder Erandur
 * No skooma or alcohol usage (the blessing "turns off" while under the influence)
 
-##Stendarr  
+## Stendarr  
 **Boons**
 
 * Increases health by 25
@@ -131,7 +131,7 @@ description: Halls of Sovngarde Installation Guide
 * No vampirism
 * No conjuration
 
-##Syrabane  
+## Syrabane  
 **Boons**
 
 * Increases shock resistance by 15%
@@ -143,7 +143,7 @@ description: Halls of Sovngarde Installation Guide
 
 * Secret! There are about 4 of them placed.
 
-##Talos  
+## Talos  
 **Boons**
 
 * Increases health by 25
@@ -159,7 +159,7 @@ description: Halls of Sovngarde Installation Guide
 * Looks down upon theft and requires you to pay off your current bounties to receive a blessing
 
 
-##Zenithar  
+## Zenithar  
 **Boons**
 
 * Increases the damage with maces by 15% and hammers by 10%
