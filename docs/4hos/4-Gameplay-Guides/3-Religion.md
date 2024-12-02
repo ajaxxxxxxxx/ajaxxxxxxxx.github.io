@@ -193,7 +193,7 @@ description: Halls of Sovngarde Installation Guide
 
 **Shrine location**
 
-* Ravenrock
+* Raven Rock
 * Shrine of Azura
 
 
@@ -212,7 +212,7 @@ description: Halls of Sovngarde Installation Guide
 
 **Shrine location**
 
-* Ravenrock
+* Raven Rock
 * Sacellum of Boethia
 
 ## Clavicus Vile
@@ -369,7 +369,7 @@ description: Halls of Sovngarde Installation Guide
 
 **Shrine location**
 
-* Ravenrock
+* Raven Rock
 * Behind the Whispering Door. 
 
 ## Meridia
