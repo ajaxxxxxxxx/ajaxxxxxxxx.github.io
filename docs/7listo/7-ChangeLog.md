@@ -13,6 +13,28 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v2.x [WIP]
+
+Save Safe? No.
+
+**Combat Extender**
+1. Rebalanced rangers, removed blanket Colossus Slayer.
+2. Heightened the tension of the Last Light fight, regardless of which side you pick.
+3. Significantly increased the challenge of the final Act 2 fight, compensated with the ability of the Nightsong to protect her allies.
+4. Made allies in general better with more HP.
+5. Reduced how ridiculous some barbarians were made.
+
+**Other Changes**
+1. Added Gear REvised Rings
+2. Added Best Boy Can Dig (scratch is like a shovel)
+3. Added Better Poison Equipment
+4. Added Dirty Fighting Feat
+5. Added Huge Your Companions
+6. Added Song and Steel Bard Equipment
+7. Added Necromancy Heals Undead
+8. Removed Caustic Feat (Better Poison Equipment includes a replacement)
+9. Removed Poisoner's Robe Increases All Poison Damage (BPE does similar)
+
 ## Listonomicon v2.8
 
 Save Safe? No.
