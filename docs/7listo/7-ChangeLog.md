@@ -25,7 +25,7 @@ Save Safe? No.
 5. Reduced how ridiculous some barbarians were made.
 
 **Other Changes**
-1. Added Gear REvised Rings
+1. Added Gear Revised Rings
 2. Added Best Boy Can Dig (scratch is like a shovel)
 3. Added Better Poison Equipment
 4. Added Dirty Fighting Feat
