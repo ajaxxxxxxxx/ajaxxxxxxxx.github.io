@@ -23,6 +23,8 @@ Save Safe? No.
 3. Significantly increased the challenge of the final Act 2 fight, compensated with the ability of the Nightsong to protect her allies.
 4. Made allies in general better with more HP.
 5. Reduced how ridiculous some barbarians were made.
+6. Added Dirty Fighting or Drunken Master to several enemies.
+7. The addition of Feat Rebalance Pack overriding Rebalance - Feats means that in many cases where CX added feats to various enemies (especially Tough and Durable), that enemy is now more or less dangerous depending on whether the feat replacement is more or less powerful. Most importantly, every enemy with Tough no longer gets a damage reduction with it. Now that Durable includes a damage reduction, it has been taken off of several enemies.
 
 **Other Changes**
 1. Added Gear Revised Rings
@@ -31,9 +33,17 @@ Save Safe? No.
 4. Added Dirty Fighting Feat
 5. Added Huge Your Companions
 6. Added Song and Steel Bard Equipment
-7. Added Necromancy Heals Undead
+7. Added Necromancy Heals Undead (Cause Wounds, Harm, Negative Energy Flood can now be used by Necromancers to heal their summons)
 8. Removed Caustic Feat (Better Poison Equipment includes a replacement)
 9. Removed Poisoner's Robe Increases All Poison Damage (BPE does similar)
+10. Added Homebrew - Over 100 Wild Magic Effects (this is on top of More Wild Magic Effects and d100 Wild Magic Table, bringing Listo over 220+)
+11. Added d100 Wild Magic Table for Barbarians (finally Wild Magic Barbs can hang out with the rest of us)
+12. Added Elixirs Rebalanced, which changes the Giant's Strength potions into +X items instead of Set X items (you cannot dump STR and abuse potions)
+13. Added Reaction Points on Hotbar (so you can see if you have a Reaction or not, or use the very small number of abilities that cost it)
+14. Removed Feats Revised - GWM and Sharpshooter
+15. Added Feat Rebalance Pack (which has its own rebalance to great weapon master/sharpshooter). Please read feat tool tips, this shake-up is expected to alter a lot of builds that were viable in older versions of Listo, and open new ones.
+16. Added Shane's Unique Heads
+17. Re-organized MO2 with a more realistic definition of what is an "Optional" mod, with 3 controversal UI changes now in an optional mods section.
 
 ## Listonomicon v2.8
 
