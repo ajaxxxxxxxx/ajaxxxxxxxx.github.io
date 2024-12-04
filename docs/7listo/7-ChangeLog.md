@@ -37,33 +37,34 @@ Save Safe? No.
 13. Improved the Shadow Druids slightly.
 14. Improved certain underdark duergar assassins.
 15. Baneites in Act 3 are more worthy of their jobs.
+16. All ogres and Grym's imps are better.
+17. Redcaps are more dangerous.
+18. Removed Controlled Chaos from the goblin priestess.
+19. Lorroakan, Balthazar, and Carrion received several passives similar to those that a wizard or sorcerer would get from competitive magic item choices.
 
 **Other Changes**
-1. Added Gear Revised Rings
-2. Added Best Boy Can Dig (scratch is like a shovel)
-3. Added Better Poison Equipment
-4. Added Dirty Fighting Feat
-5. Added Huge Your Companions
-6. Added Song and Steel Bard Equipment
-7. Added Necromancy Heals Undead (Cause Wounds, Harm, Negative Energy Flood can now be used by Necromancers to heal their summons)
-8. Removed Caustic Feat (Better Poison Equipment includes a replacement)
-9. Removed Poisoner's Robe Increases All Poison Damage (BPE does similar)
-10. Added Homebrew - Over 100 Wild Magic Effects (this is on top of More Wild Magic Effects and d100 Wild Magic Table, bringing Listo over 220+)
-11. Added d100 Wild Magic Table for Barbarians (finally Wild Magic Barbs can hang out with the rest of us)
-12. Added Elixirs Rebalanced, which changes the Giant's Strength potions into +X items instead of Set X items (you cannot dump STR and abuse potions)
-13. Added Reaction Points on Hotbar (so you can see if you have a Reaction or not, or use the very small number of abilities that cost it)
-14. Removed Feats Revised - GWM and Sharpshooter
-15. Added Feat Rebalance Pack (which has its own rebalance to great weapon master/sharpshooter). Please read feat tool tips, this shake-up is expected to alter a lot of builds that were viable in older versions of Listo, and open new ones.
-16. Added Shane's Unique Heads
-17. Re-organized MO2 with a more realistic definition of what is an "Optional" mod, with 3 controversal UI changes now in an optional mods section
-18. Skill actions are reorganized under a single container, significantly reducing hotbar bloat. With this, several skill actions have been changed to 1/combat, 1/short rest, or 1/long rest to balance their relative power
-19. All ogres and Grym's imps are better
-20. Redcaps are more dangerous
-21. Removed Controlled Chaos from the goblin priestess
-22. Lorroakan, Balthazar, and Carrion received several passives similar to those that a wizard or sorcerer would get from competitive magic item choices
-23. Removed unintended global changes to NPCs from Many More Monsters (thanks Chizfreak!)
-24. **Added (as optional mods) Deadly Honor Mode: New Bosses and Enemies (and Even More Bosses) for testing**. A lot of the bosses appear to be tucked away or placed in brand new dungeons which - should - make DMH easy to include in Listo permanently, but it needs testing/feedback. **The portals to these dungeons/bosses are not for the feint of heart**, for example the one on the beach has several level 8 paladins waiting to blast your ass off. If you want to help test DHM's new encounters, I would recommend you wait until clearing as much of Act 1 as you can before jumping into these encounters and come ready to rumble.
-25. Updated the MO2-BG3 plugin to Zino's latest version. It is MUCH faster at compiling a new modsCache if you need to wipe yours for whatever reason, reducing the time to sub 2 minutes on my PC instead of 5+ minutes.
+1. Added Gear Revised Rings.
+2. Added Best Boy Can Dig (scratch is like a shovel).
+3. Added Better Poison Equipment.
+4. Added Dirty Fighting Feat.
+5. Added Huge Your Companions.
+6. Added Song and Steel Bard Equipment.
+7. Added Necromancy Heals Undead (Cause Wounds, Harm, Negative Energy Flood can now be used by Necromancers to heal their summons).
+8. Removed Caustic Feat (Better Poison Equipment includes a replacement).
+9. Removed Poisoner's Robe Increases All Poison Damage (BPE does similar).
+10. Added Homebrew - Over 100 Wild Magic Effects (this is on top of More Wild Magic Effects and d100 Wild Magic Table, bringing Listo over 220+).
+11. Added d100 Wild Magic Table for Barbarians (finally Wild Magic Barbs can hang out with the rest of us).
+  * Thanks Goon for providing a patch to keep all the wild magics working together across sorc and barb.
+12. Added Elixirs Rebalanced, which changes the Giant's Strength potions into +X items instead of Set X items (you cannot dump STR and abuse potions).
+13. Added Reaction Points on Hotbar (so you can see if you have a Reaction or not, or use the very small number of abilities that cost it).
+14. Removed Feats Revised - GWM and Sharpshooter.
+15. Added Feat Rebalance Pack (which has its own rebalance to great weapon master/sharpshooter). Please read feat tool tips, this shake-up is expected to alter a lot of builds that were viable in older versions of Listo, and open new ones. Barbarians, Fighters, and other front line damage-soaking tanks can build towards stacking Durable, Heavy Armor Master, and certain magic items to become quite difficult to kill!
+16. Added Shane's Unique Heads.
+17. Re-organized MO2 with a more realistic definition of what is an "Optional" mod, with 3 controversal UI changes now in an optional mods section.
+18. Skill actions are reorganized under a single container, significantly reducing hotbar bloat. With this, several skill actions have been changed to 1/combat, 1/short rest, or 1/long rest to balance their relative power.
+19. Removed unintended global changes to NPCs from Many More Monsters (thanks Chizfreak!)
+20. **Added (as optional mods) Deadly Honor Mode: New Bosses and Enemies (and Even More Bosses) for testing**. A lot of the bosses appear to be tucked away or placed in brand new dungeons which - should - make DMH easy to include in Listo permanently, but it needs testing/feedback. **The portals to these dungeons/bosses are not for the feint of heart**, for example the one on the beach has several level 8 paladins waiting to blast your ass off. If you want to help test DHM's new encounters, I would recommend you wait until clearing as much of Act 1 as you can before jumping into these encounters and come ready to rumble.
+21. Updated the MO2-BG3 plugin to Zino's latest version. It is MUCH faster at compiling a new modsCache if you need to wipe yours for whatever reason, reducing the time to sub 2 minutes on my PC instead of 5+ minutes. Behind the scenes Zino continues to improve the user experience and help me bug hunt (and doesn't even get mad when the bugs are because me and Goon did our mods wrong).
 
 ## Listonomicon v2.8
 
