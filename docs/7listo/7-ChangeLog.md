@@ -44,17 +44,18 @@ Save Safe? No.
 20. Refactored who has what passives from the Mage Slayer feat, now that it works much differently.
 
 **Other Changes**
-1. Added Gear Revised Rings.
-2. Added Best Boy Can Dig (scratch is like a shovel).
-3. Added Better Poison Equipment.
-4. Added Dirty Fighting Feat.
-5. Added Huge Your Companions.
-6. Added Song and Steel Bard Equipment.
-7. Added Necromancy Heals Undead (Cause Wounds, Harm, Negative Energy Flood can now be used by Necromancers to heal their summons).
-8. Removed Caustic Feat (Better Poison Equipment includes a replacement).
-9. Removed Poisoner's Robe Increases All Poison Damage (BPE does similar).
-10. Added Homebrew - Over 100 Wild Magic Effects (this is on top of More Wild Magic Effects and d100 Wild Magic Table, bringing Listo over 220+).
-11. Added d100 Wild Magic Table for Barbarians (finally Wild Magic Barbs can hang out with the rest of us).
+1. Updated so, so, so many mods.
+2. Added Gear Revised Rings.
+3. Added Best Boy Can Dig (scratch is like a shovel).
+4. Added Better Poison Equipment.
+5. Added Dirty Fighting Feat.
+6. Added Hug Your Companions.
+7. Added Song and Steel Bard Equipment.
+8. Added Necromancy Heals Undead (Cause Wounds, Harm, Negative Energy Flood can now be used by Necromancers to heal their summons).
+9. Removed Caustic Feat (Better Poison Equipment includes a replacement).
+10. Removed Poisoner's Robe Increases All Poison Damage (BPE does similar).
+11. Added Homebrew - Over 100 Wild Magic Effects (this is on top of More Wild Magic Effects and d100 Wild Magic Table, bringing Listo over 220+).
+12. Added d100 Wild Magic Table for Barbarians (finally Wild Magic Barbs can hang out with the rest of us).
   * Thanks Goon for providing a patch to keep all the wild magics working together across sorc and barb.
 12. Added Elixirs Rebalanced, which changes the Giant's Strength potions into +X items instead of Set X items (you cannot dump STR and abuse potions).
 13. Added Reaction Points on Hotbar (so you can see if you have a Reaction or not, or use the very small number of abilities that cost it).
