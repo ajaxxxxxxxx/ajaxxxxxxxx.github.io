@@ -26,12 +26,17 @@ Save Safe? No.
   * This "scaling" does not do very much in and of itself. However it changes the number CX calculates to determine how many extra stats, extra AC, extra everything, to give. e.g. if CX is configured to give +1 AC for every 5 levels, a level 5 boss will get +1 AC. However a boss scaled up to level 10 would have +2. A boss scaled up to 15 would have +3, etc.
 3. Rebalanced rangers, removed blanket Colossus Slayer.
 4. Heightened the tension of the Last Light fight, regardless of which side you pick.
-5. Significantly increased the challenge of the final Act 2 fight, compensated with the ability of the Nightsong to protect her allies.
+5. Significantly increased the challenge of the final Act 2 fight, compensated with the ability of the Nightsong to protect her allies. The Nightsong is also more powerful in general to help keep up with where parties are expected to be in Listo, however keep in mind that if you side against her in Act 3 you are in for a tougher fight than before!
 6. Made allies in general better with more HP.
 7. Reduced how ridiculous some barbarians were made.
 8. Added Dirty Fighting or Drunken Master to several enemies.
-9. The addition of Feat Rebalance Pack overriding Rebalance - Feats means that in many cases where CX added feats to various enemies (especially Tough and Durable), that enemy is now more or less dangerous depending on whether the feat replacement is more or less powerful. Most importantly, every enemy with Tough no longer gets a damage reduction with it. Now that Durable includes a damage reduction, it has been taken off of several enemies.
+9. The addition of Feat Rebalance Pack overriding Rebalance - Feats means that in many cases where CX added feats to various enemies (especially Tough and Durable), that enemy is now more or less dangerous depending on whether the feat replacement is more or less powerful. Most importantly, every enemy with Tough no longer gets a damage reduction with it. Now that Durable includes a damage reduction, it has been taken off of several enemies and given to others.
 10. Heavily edited Balthazar and his cronies to remove powers that did not work and refactor Balthazar's skillset to make more sense in 5e.
+11. Gave "Skill Actions" to NPCs (mostly via class templates in Act 3, with limited Act 2 additions).
+12. Significantly increased the number of variables in Nere's fight. He has more outgoing effects (namely poison and psychic damage), heals himself in various ways, and generally will be harder than ever to put down.
+13. Improved the Shadow Druids slightly.
+14. Improved certain underdark duergar assassins.
+15. Baneites in Act 3 are more worthy of their jobs.
 
 **Other Changes**
 1. Added Gear Revised Rings
@@ -50,7 +55,12 @@ Save Safe? No.
 14. Removed Feats Revised - GWM and Sharpshooter
 15. Added Feat Rebalance Pack (which has its own rebalance to great weapon master/sharpshooter). Please read feat tool tips, this shake-up is expected to alter a lot of builds that were viable in older versions of Listo, and open new ones.
 16. Added Shane's Unique Heads
-17. Re-organized MO2 with a more realistic definition of what is an "Optional" mod, with 3 controversal UI changes now in an optional mods section.
+17. Re-organized MO2 with a more realistic definition of what is an "Optional" mod, with 3 controversal UI changes now in an optional mods section
+18. Skill actions are reorganized under a single container, significantly reducing hotbar bloat. With this, several skill actions have been changed to 1/combat, 1/short rest, or 1/long rest to balance their relative power
+19. All ogres and Grym's imps are better
+20. Redcaps are more dangerous
+21. Removed Controlled Chaos from the goblin priestess
+22. Lorroakan, Balthazar, and Carrion received several passives similar to those that a wizard or sorcerer would get from competitive magic item choices
 
 ## Listonomicon v2.8
 
