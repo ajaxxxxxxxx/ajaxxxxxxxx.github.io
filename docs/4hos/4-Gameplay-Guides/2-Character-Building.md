@@ -29,7 +29,7 @@ description: Halls of Sovngarde Installation Guide
 ## Stats and Skills
 
 **Racial Derived Attributes**
-* Health Regen (%) = 0.2 + Health_Offset / 200 (Exception: Argonian 0.3)
+* Health Regen (%) = 0.2 + Health_Offset / 200
 * Magicka Regen (%) = 1.1 + Magicka_Offset / 200
 * Stamina Regen (%) = 1.6 + Stamina_Offset / 200
 * Power Attack Cost (%) = 100 - Health_Offset - Stamina_Offset (max 100%)
@@ -38,7 +38,6 @@ description: Halls of Sovngarde Installation Guide
 * Unarmed Damage = 8 + Health_Offset / 100 (Exception: Argonian 10, Khajiit 10)
 
 **Mechanics**
-* Skill bonuses give skill gain bonus by same in %. +10 in Alteration will give you +10% skill gain in Alteration.
 * Khajiit Lockpicking is changed to lockpicking proficiency, shared with Argonians. Gives +10 Lockpicking Expertise when Lockpicking perk is not taken, instead of stacking bonus.
 * You still don't regenerate Health by default. The racial Health Regen (HealRate) is another multiplier applied for health regeneration, not the health regeneration value that Requiem sets to 0 by default. You still need other Health Regeneration effects to passive regenerate health.
 * Racial attribute for power attack cost and spell costs are capped at 100%. Nords for example won't have increased spell costs, although they have minus offset to Magicka.
@@ -79,7 +78,7 @@ The Altmer of Summerset Isle are called "High" Elves in the Empire, describing b
 * +5: Conjuration, Destruction, Enchanting, Illusion, Restoration
 
 *Abilities*
-* Highborn: Magicka +30, Magicka Regeneration +50%, spell power +5%, Disease Resist +50%
+* Highborn: Magicka +30, Magicka Regeneration +30%, spell power +5%, Disease Resist +50%
 * Weakness to Elements: Elemental Weakness 25%
   
 **Argonian**  
@@ -110,7 +109,7 @@ Argonians are the reptilian denizens of Black Marsh. Years of defending their bo
 * Histskin: Health Regeneration +1, Potion effect/duration +10%
 * Claws: Unarmed damage +5 without heavy gauntlets
 * Resist Poison and Disease: Poison Resist +75%, Disease Resist +75%
-* Waterbreathing: Waterbreathing
+* Waterbreathing: Waterbreathing, Swimming Speed +20%, Swimming Exertion -75%
 * Strong Stomach: Can eat raw food
 
 **Bosmer**  
@@ -139,7 +138,7 @@ The Bosmer, or Wood Elves, originate from the sacred forest of Valenwood. Their 
 
 *Abilities*
 * Green Pact Feast: (Food) Magicka Regeneration +2, Stamina Regeration +2, 300 sec
-* Eye of the Hunt: Ranged Armor Penetration +5
+* Eye of the Hunt: Marksman Armor Penetration +5
 * Resist Poison and Disease: Poison Resist +25%, Disease Resist +50%
 * Strong Stomach: Can eat raw food
 * Command Animal: (Lesser Power) Command Animal up to level 25, area 50, cost 75 magicka
@@ -169,7 +168,7 @@ Bretons, the inhabitants of the province of High Rock, are the human descendants
 * +5: Enchanting, Illusion, Restoration, Alchemy, Speech
 
 *Abilities*
-* Dragonskin: Avoid elemental damage by 10% chance
+* Dragonskin: Magic Absorb +10%
 * Magic Resistance: Magic Resist +20%  
 
 **Dunmer**  
@@ -197,7 +196,7 @@ The Dunmer, or Dark Elves, are the ash-skinned, red-eyed, Elven people of Vvarde
 * +5: One-handed, Conjuration, Illusion, Evasion, Sneak
 
 *Abilities*
-* Ashlander: Destruction spells are 10% stronger
+* Ashlander: Destruction Power +10%, Conjuration Power +10%
 * Resist Fire: Fire Resist +50%  
 
 **Imperial**  
@@ -225,8 +224,8 @@ The cosmopolitan citizens of Cyrodiil are descended from the founders of the glo
 * +5: Block, Heavy Armor, One-handed, Destruction, Restoration
 
 *Abilities*
-* Voice of the Emperor: Speech +15, Stamina/Magicka +30 for nearby followers
-* Imperial Diversity: Health/Magicka/Stamina +10, skill rate +5%  
+* Voice of the Emperor: Speech +15, Barter +15%, Magicka/Stamina +30 for nearby allies
+* Imperial Diversity: Health/Magicka/Stamina +10, Health/Magicka/Stamina Regeneration +10%
 
 **Khajiit**  
 The Khajiit are a race of feline humanoids hailing from the province of Elsweyr, well-known as great merchants but also as smugglers and thieves. They are very fast and outrun all other races which, combined with a high stamina reserve, makes them fearsome skirmishers. However, they are seldom gifted with the skill to harness magical forces. All Khajiit can see in the dark at will and eat raw meat, and their sharp claws are as lethal as knives.
@@ -253,9 +252,9 @@ The Khajiit are a race of feline humanoids hailing from the province of Elsweyr,
 * +5: One-handed, Alchemy, Evasion, Lockpicking, Pickpocket
 
 *Abilities*
-* Feline Agility: Speed +10%, Fall damage reduced by 75%
-* Fingersmith: Lockpicking Expertise +2, Fortify Pickpocket +20%
-* Claws: Unarmed damage +5 without heavy gauntlets
+* Feline Agility: Speed +10%, Sneaking Speed +10%, Fall Damage -75%
+* Fingersmith: Lockpicking Expertise +2, Fortify Lockpicking/Pickpocket/Sneak +20%
+* Claws: Unarmed damage +5
 * Strong Stomach: Can eat raw food
 * Night Eye: (Lesser Power) Night Eye  
 
@@ -285,8 +284,8 @@ Skyrim's Nords are tall and fair, with a culture which values honor, glory, and 
 
 *Abilities*
 * Ancient Tongues: Shout power +10%, Shout cooldown -10%
-* Barbaric Strength: Melee Damage +5%
-* Resist Frost and Shock: Frost Resist +50%, Shock Resist +25%
+* Barbaric Strength: Fortify Melee +5%
+* Resist Frost and Shock: Resist Frost +50%, Resist Shock +25%
   
 **Orsimer**  
 The Orsimer or "Pariah Folk", commonly called Orcs, come from Orsinium in the west. Their savage appearance and customs sometimes cause fear, but they have won acceptance for their distinguished service in the Legion. Orcs' superior strength makes them formidable warriors, though use of magic requires extensive training. Their incredible endurance grants them resistance to both magical and physical harm.
@@ -313,7 +312,7 @@ The Orsimer or "Pariah Folk", commonly called Orcs, come from Orsinium in the we
 * +5: Block, One-handed, Smithing, Two-handed, Destruction
 
 *Abilities*
-* Bulwark: Health +30, Magic Resist +10, Armor Rating +100
+* Bulwark: Health +30, Armor Rating +100, Resist Magic +10%
 * Strong Stomach: Can eat raw food
   
 **Redguard**  
@@ -343,7 +342,7 @@ The dark-skinned, wiry-haired Redguards of Hammerfell seem born for battle, thou
 *Abilities*
 * Adrenaline Rush: Stamina +30, Sprinting stamina cost -1
 * Martial Prowess: Melee Armor Penetration +5
-* Resist Poison and Disease: Poison Resist +50%, Disease Resist +50%
+* Resist Poison and Disease: Resist Poison +50%, Resist Disease +50%
 
 ***
 ## Standing Stones
