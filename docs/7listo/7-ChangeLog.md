@@ -18,13 +18,20 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 Save Safe? No.
 
 **Combat Extender**
-1. Rebalanced rangers, removed blanket Colossus Slayer.
-2. Heightened the tension of the Last Light fight, regardless of which side you pick.
-3. Significantly increased the challenge of the final Act 2 fight, compensated with the ability of the Nightsong to protect her allies.
-4. Made allies in general better with more HP.
-5. Reduced how ridiculous some barbarians were made.
-6. Added Dirty Fighting or Drunken Master to several enemies.
-7. The addition of Feat Rebalance Pack overriding Rebalance - Feats means that in many cases where CX added feats to various enemies (especially Tough and Durable), that enemy is now more or less dangerous depending on whether the feat replacement is more or less powerful. Most importantly, every enemy with Tough no longer gets a damage reduction with it. Now that Durable includes a damage reduction, it has been taken off of several enemies.
+1. LEVEL SCALING IS BACK* BABY! Kinda.
+  * Normal enemies should not change in level and will not be affected by this change.
+  * Bosses will match the player's level, up to level 10, in Act 1.
+  * Bosses will match the player's level + 2, up to level 16, in Act 2.
+  * Bosses will match the player's level + 4, up to 24, in Act 3.
+  * This "scaling" does not do very much in and of itself. However it changes the number CX calculates to determine how many extra stats, extra AC, extra everything, to give. e.g. if CX is configured to give +1 AC for every 5 levels, a level 5 boss will get +1 AC. However a boss scaled up to level 10 would have +2. A boss scaled up to 15 would have +3, etc.
+3. Rebalanced rangers, removed blanket Colossus Slayer.
+4. Heightened the tension of the Last Light fight, regardless of which side you pick.
+5. Significantly increased the challenge of the final Act 2 fight, compensated with the ability of the Nightsong to protect her allies.
+6. Made allies in general better with more HP.
+7. Reduced how ridiculous some barbarians were made.
+8. Added Dirty Fighting or Drunken Master to several enemies.
+9. The addition of Feat Rebalance Pack overriding Rebalance - Feats means that in many cases where CX added feats to various enemies (especially Tough and Durable), that enemy is now more or less dangerous depending on whether the feat replacement is more or less powerful. Most importantly, every enemy with Tough no longer gets a damage reduction with it. Now that Durable includes a damage reduction, it has been taken off of several enemies.
+10. Heavily edited Balthazar and his cronies to remove powers that did not work and refactor Balthazar's skillset to make more sense in 5e.
 
 **Other Changes**
 1. Added Gear Revised Rings
