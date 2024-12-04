@@ -61,6 +61,9 @@ Save Safe? No.
 20. Redcaps are more dangerous
 21. Removed Controlled Chaos from the goblin priestess
 22. Lorroakan, Balthazar, and Carrion received several passives similar to those that a wizard or sorcerer would get from competitive magic item choices
+23. Removed unintended global changes to NPCs from Many More Monsters (thanks Chizfreak!)
+24. **Added (as optional mods) Deadly Honor Mode: New Bosses and Enemies (and Even More Bosses) for testing**. A lot of the bosses appear to be tucked away or placed in brand new dungeons which - should - make DMH easy to include in Listo permanently, but it needs testing/feedback. **The portals to these dungeons/bosses are not for the feint of heart**, for example the one on the beach has several level 8 paladins waiting to blast your ass off. If you want to help test DHM's new encounters, I would recommend you wait until clearing as much of Act 1 as you can before jumping into these encounters and come ready to rumble.
+25. Updated the MO2-BG3 plugin to Zino's latest version. It is MUCH faster at compiling a new modsCache if you need to wipe yours for whatever reason, reducing the time to <2 minutes on my PC instead of ~5+ minutes.
 
 ## Listonomicon v2.8
 
