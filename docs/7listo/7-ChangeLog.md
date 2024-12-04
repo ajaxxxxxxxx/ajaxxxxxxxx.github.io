@@ -13,7 +13,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v2.x [WIP]
+## Listonomicon v3.x [WIP]
 
 Save Safe? No.
 
@@ -41,6 +41,7 @@ Save Safe? No.
 17. Redcaps are more dangerous.
 18. Removed Controlled Chaos from the goblin priestess.
 19. Lorroakan, Balthazar, and Carrion received several passives similar to those that a wizard or sorcerer would get from competitive magic item choices.
+20. Refactored who has what passives from the Mage Slayer feat, now that it works much differently.
 
 **Other Changes**
 1. Added Gear Revised Rings.
@@ -65,6 +66,11 @@ Save Safe? No.
 19. Removed unintended global changes to NPCs from Many More Monsters (thanks Chizfreak!)
 20. **Added (as optional mods) Deadly Honor Mode: New Bosses and Enemies (and Even More Bosses) for testing**. A lot of the bosses appear to be tucked away or placed in brand new dungeons which - should - make DMH easy to include in Listo permanently, but it needs testing/feedback. **The portals to these dungeons/bosses are not for the feint of heart**, for example the one on the beach has several level 8 paladins waiting to blast your ass off. If you want to help test DHM's new encounters, I would recommend you wait until clearing as much of Act 1 as you can before jumping into these encounters and come ready to rumble.
 21. Updated the MO2-BG3 plugin to Zino's latest version. It is MUCH faster at compiling a new modsCache if you need to wipe yours for whatever reason, reducing the time to sub 2 minutes on my PC instead of 5+ minutes. Behind the scenes Zino continues to improve the user experience and help me bug hunt (and doesn't even get mad when the bugs are because me and Goon did our mods wrong).
+22. Added Sensible Ambushing (beta). This mod significantly revamps stealth gameplay/mechanics and rebalances aspects of the game related to when and how stealth is activated or removed, when hide checks are used, and what causes (or doesn't cause) turn based mode/joining combat to trigger.
+23. Added Half-Scro, a subrace to Half-Orc who begins with firearm proficiency.
+24. Added Firearms and ATF. This fundamentally alters how firearms work (including muskets from the Artificer mod) by requiring reloading to balance their better stats. However, Artificer infusions can overcome this limitation :)
+25. Removed cosmetic mods related to adding heads for half-orcs, as the half-scro mod breaks compatability.
+26. Added Radiant Retort Reimagined.
 
 ## Listonomicon v2.8
 
