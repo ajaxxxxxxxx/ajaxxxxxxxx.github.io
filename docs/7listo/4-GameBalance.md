@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Combat Extender and Game Mechanics and Balance Changes
-nav_order: 4
+title: Combat Extender, Game Mechanics, and Balance Changes
+nav_order: 3
 description: Listonomicon
 ---
 
