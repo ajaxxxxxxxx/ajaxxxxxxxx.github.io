@@ -25,6 +25,8 @@ These aren't really "Spells" per say, but [Skill Actions](https://www.nexusmods.
 
 Speak with Animals and Longstrider are AoE casts that last until long rest, dramatically decreasing the management necessary to prepare your adventuring party each morning. Shillelagh lasts until long rest [and can be applied to a wider variety of weapons](https://www.nexusmods.com/baldursgate3/mods/4932).
 
+Illithid Powers are [significantly revamped](https://www.nexusmods.com/baldursgate3/mods/5105?tab=files). If you choose to use the astral tadpole, Illithid Powers are very powerful in Act 3.
+
 ## 5e, Homebrew, and Spells Extra
 
 [5e Spells](https://www.nexusmods.com/baldursgate3/mods/125) adds a variety of tabletop spells missing from BG3. [Valdacil's adjustment mod](https://www.nexusmods.com/baldursgate3/mods/4426?tab=description) rebalances several of the spells based on the philosophy Larian applied with the spells they included in the game. So expect the spells you love from D&D but don't expect all of them to work exactly like they do in the book.
