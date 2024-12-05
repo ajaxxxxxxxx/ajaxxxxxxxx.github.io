@@ -97,7 +97,7 @@ If you want more fights, enable More Trash Monsters. If that still isn't enough 
 
 If Listo is too hard, and you'd actually have more fun if it was a little easier, you can make two changes.
 1. In Custom Difficulty settings, reduce the trade price penalty to 3x and reduce the long rest camp supply cost to a lower number. If you reduce the cost multiplier to lower than 3, earning money from selling loot becomes too fast/powerful.
-2. Navigate to [listo install location]/mods/zzz_ListonomiconModSettings/SE_CONFIG. Rename **Combat Extender.json** to something else (like Combat Extender.json.backup). Then, rename **Easy Combat Extender.json** to **Combat Extender.json.** This will cause the game to load an alternate CX configuration. The alt file will still be more difficult than vanilla BG3 and include new, tweaked, and changed enemies - but the size of the tweaks is much less dramatic with lower health, AC, attack rolls, and saving throw DC for enemies.
+2. Navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Easy CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate CX configuration. The alt file will still be more difficult than vanilla BG3 and include new, tweaked, and changed enemies - but the size of the tweaks is much less dramatic with lower health, AC, attack rolls, and saving throw DC for enemies.
 
 ### 9.) Multiplayer
 
