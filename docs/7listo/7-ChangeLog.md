@@ -24,6 +24,7 @@ Save Safe? No.
   * Bosses will match the player's level + 2, up to level 16, in Act 2.
   * Bosses will match the player's level + 4, up to 24, in Act 3.
   * This "scaling" does not do very much in and of itself. However it changes the number CX calculates to determine how many extra stats, extra AC, extra everything, to give. e.g. if CX is configured to give +1 AC for every 5 levels, a level 5 boss will get +1 AC. However a boss scaled up to level 10 would have +2. A boss scaled up to 15 would have +3, etc.
+  * This "scaling" should only apply to vanilla encounters CX has marked as bosses, and will not apply to bosses from encounters added by mods.
 3. Rebalanced rangers, removed blanket Colossus Slayer.
 4. Heightened the tension of the Last Light fight, regardless of which side you pick.
 5. Significantly increased the challenge of the final Act 2 fight, compensated with the ability of the Nightsong to protect her allies. The Nightsong is also more powerful in general to help keep up with where parties are expected to be in Listo, however keep in mind that if you side against her in Act 3 you are in for a tougher fight than before!
@@ -42,6 +43,8 @@ Save Safe? No.
 18. Removed Controlled Chaos from the goblin priestess.
 19. Lorroakan, Balthazar, and Carrion received several passives similar to those that a wizard or sorcerer would get from competitive magic item choices.
 20. Refactored who has what passives from the Mage Slayer feat, now that it works much differently.
+21. Lorroakan's animated armor has received some upgrades, based on designs copied from animated armor found near the Underdark mage tower (both encounters now feature lightning charge based mechanics added to Animated Armor). Lorroakan's dwarf servant has been handed a backpack full of potions, some scrolls of counter spell, and find familiar. So he's still mostly harmless as a combatant, but he will try to protect Lorroakan while you are distracted from the bigger enemies.
+22. Hundreds of other tweaks across Act 1, 2, and 3, pulling levers and pressing buttons to make annoying enemies less annoying and underwhelming encounters more formidable.
 
 **Other Changes**
 1. Updated so, so, so many mods.
@@ -63,14 +66,14 @@ Save Safe? No.
 15. Added Feat Rebalance Pack (which has its own rebalance to great weapon master/sharpshooter). Please read feat tool tips, this shake-up is expected to alter a lot of builds that were viable in older versions of Listo, and open new ones. Barbarians, Fighters, and other front line damage-soaking tanks can build towards stacking Durable, Heavy Armor Master, and certain magic items to become quite difficult to kill!
 16. Added Shane's Unique Heads.
 17. Re-organized MO2 with a more realistic definition of what is an "Optional" mod, with 3 controversal UI changes now in an optional mods section.
-18. Skill actions are reorganized under a single container, significantly reducing hotbar bloat. With this, several skill actions have been changed to 1/combat, 1/short rest, or 1/long rest to balance their relative power.
+18. Skill actions are reorganized under a single container, significantly reducing hotbar bloat. With this, several skill actions have been changed to 1/combat, 1/short rest, or 1/long rest to balance their relative power (thanks Goonsack!)
 19. Removed unintended global changes to NPCs from Many More Monsters (thanks Chizfreak!)
-20. **Added (as optional mods) Deadly Honor Mode: New Bosses and Enemies (and Even More Bosses) for testing**. A lot of the bosses appear to be tucked away or placed in brand new dungeons which - should - make DMH easy to include in Listo permanently, but it needs testing/feedback. **The portals to these dungeons/bosses are not for the feint of heart**, for example the one on the beach has several level 8 paladins waiting to blast your ass off. If you want to help test DHM's new encounters, I would recommend you wait until clearing as much of Act 1 as you can before jumping into these encounters and come ready to rumble.
+20. **Added (as optional mods) Deadlie Honour Mode: New Bosses and Enemies (and Even More Bosses) for testing**. A lot of the bosses appear to be tucked away or placed in brand new dungeons which - should - make DMH easy to include in Listo permanently, but it needs testing/feedback. **The portals to these dungeons/bosses are not for the feint of heart**, for example the one on the beach has several level 8 paladins waiting to blast your ass off. If you want to help test DHM's new encounters, I would recommend you wait until clearing as much of Act 1 as you can before jumping into these encounters and come ready to rumble. **I must emphasize as much as I can that DMH encounters do not care what level you are or where in the game you find them - they are level 8+ enemies and Dark Souls-esque boss fights waiting to f you up.**
 21. Updated the MO2-BG3 plugin to Zino's latest version. It is MUCH faster at compiling a new modsCache if you need to wipe yours for whatever reason, reducing the time to sub 2 minutes on my PC instead of 5+ minutes. Behind the scenes Zino continues to improve the user experience and help me bug hunt (and doesn't even get mad when the bugs are because me and Goon did our mods wrong).
 22. Added Sensible Ambushing (beta). This mod significantly revamps stealth gameplay/mechanics and rebalances aspects of the game related to when and how stealth is activated or removed, when hide checks are used, and what causes (or doesn't cause) turn based mode/joining combat to trigger.
 23. Added Half-Scro, a subrace to Half-Orc who begins with firearm proficiency.
 24. Added Firearms and ATF. This fundamentally alters how firearms work (including muskets from the Artificer mod) by requiring reloading to balance their better stats. However, Artificer infusions can overcome this limitation :)
-25. Removed cosmetic mods related to adding heads for half-orcs, as the half-scro mod breaks compatability.
+25. Removed cosmetic mods related to adding heads for half-orcs, as the half-scro mod breaks compatability. Half-Orc cosmetics will return if/when compat patches are available.
 26. Added Radiant Retort Reimagined.
 
 ## Listonomicon v2.8
