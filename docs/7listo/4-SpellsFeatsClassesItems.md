@@ -79,7 +79,7 @@ These mods affect wild magic sorcerers, wild magic barbarians, and/or other situ
 
 * [More Wild Magic effects](https://www.nexusmods.com/baldursgate3/mods/2022)
 * [Wild Magic D100 Table](https://www.nexusmods.com/baldursgate3/mods/2967)
-* add the other d100 table
+* [Wild Magic D100 Table Barbarians](https://www.nexusmods.com/baldursgate3/mods/9361) makes sure that Wild Barbs can join the fun!
 * [Increasingly Likely Wild Magic Surge](https://www.nexusmods.com/baldursgate3/mods/9603) (Combat Only)
 
 [If Volo dies for any reason](https://www.nexusmods.com/baldursgate3/mods/4030), the Weave will begin unraveling and _all magic becomes wild magic_.
