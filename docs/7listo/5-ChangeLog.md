@@ -45,6 +45,37 @@ Save Safe? No.
 20. Refactored who has what passives from the Mage Slayer feat, now that it works much differently.
 21. Lorroakan's animated armor has received some upgrades, based on designs copied from animated armor found near the Underdark mage tower (both encounters now feature lightning charge based mechanics added to Animated Armor). Lorroakan's dwarf servant has been handed a backpack full of potions, some scrolls of counter spell, and find familiar. So he's still mostly harmless as a combatant, but he will try to protect Lorroakan while you are distracted from the bigger enemies.
 22. Hundreds of other tweaks across Act 1, 2, and 3, pulling levers and pressing buttons to make annoying enemies less annoying and underwhelming encounters more formidable.
+23. Removed Controlled Chaos from Kuo Toa, and many other enemies.
+24. Removed HP changes to Grym.
+24. Added a Listo "Easy Mode." To activate this, navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Easy CombatExtender.json to CombatExtender.json.
+    * Allies health static boost is increased from 20% to 25%
+    * Boss health static boost is reduced from 15.5% to 12%. Health Per Level boost is reduced from 6.25% to 4%.
+    * Normal enemy health static boost is reduced from 12.5% to 10%. The Health Per Level boost is reduced from 6.25% to 4%.
+    * These reductions are not massive unto themselves, but it means enemies will scale significantly less as the player levels so Act 3 bosses will not gain hundreds of extra HP.
+    * Static boosts to all boss and enemy stats are removed. The level increment for all boosts is increased by 1, causing bosses/enemies to scale less and scale slower.
+    * Several class based global boosts removed from enemies.
+    * All instances of Tough or Durable on enemies removed.
+    * Enemy Cleric spell lists are weaker.
+    * Enemy Monks are less powerful.
+    * Enemy Paladins won't learn new smites until Act 2, and lose Sentinal (reduce enemy movement speed to 0 on Attack of Opportunity).
+    * Enemy Rangers and Rogues lose crit bonuses, extra damage, or multiattack defense.
+    * Several spells moved from the general caster lists, to the boss-only caster lists.
+    * Boss level scaling is Player Level in Act 1, Player Level +1 in Act 2, Player Level +2 in Act 3.
+    * Nere much less powerful.
+    * Removed all Controlled Chaos.
+    * Removed any buffs to the bulette.
+    * Removed any +action point or +bonus action point for any enemies except the Elder Brain.
+    * Removed Gloom Weaver invisibility from enemies.
+    * Removed level 7+ spells on Lorroakan. Removed several of his buffs. Lowered his HP.
+    * Removed extra HP from final fight enemies.
+    * Dror Raglin very nerfed.
+    * Balthazar very nerfed.
+    * Carrion very nerfed.
+    * Korilla (Raphael fight) has all of her abilities and spells. However, she has been reduced to vanilla health.
+    * Ghoul Medics now don't do anything medical.
+    * Sarevok greatly nerfed.
+    * Last Light surprise fight bad guys nerfed.
+    * Removed all clones.
 
 **Other Changes**
 1. Updated so, so, so many mods.
