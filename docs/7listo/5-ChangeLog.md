@@ -106,6 +106,12 @@ Save Safe? No.
 24. Added Firearms and ATF. This fundamentally alters how firearms work (including muskets from the Artificer mod) by requiring reloading to balance their better stats. However, Artificer infusions can overcome this limitation :)
 25. Removed cosmetic mods related to adding heads for half-orcs, as the half-scro mod breaks compatability. Half-Orc cosmetics will return if/when compat patches are available.
 26. Added Radiant Retort Reimagined.
+27. Added Ketheric Drops His Armor.
+28. Removed Rebalance - Feats.
+29. Removed Mystic - Expansion.
+30. Removed Better Dual Wielding (and 3 associated patches).
+31. Replaced with Dual Wielding Master. Now you can choose to do a normal dual wield attack (using your action + bonus action), or toggle swinging both weapons without using your bonus action at the cost of -3 to both attack rolls. So dual wield is now similar-ish to Great Weapon Master.
+32. Sadly had to remove half orc cosmetics as Half-Scro/Orc Tribes breaks them. Hopefully we get patches eventually.
 
 ## Listonomicon v2.8
 
