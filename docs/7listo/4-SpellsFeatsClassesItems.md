@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Subclasses, Feats, Build, Gear, More
-nav_order: 6
+title: Subclasses, Feats, Build, Gear, and Characters
+nav_order: 4
 description: Listonomicon
 ---
 
