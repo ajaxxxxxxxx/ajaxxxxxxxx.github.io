@@ -9,7 +9,7 @@
 
 
 <link rel="search" type="application/opensearchdescription+xml" title="Boneyard Creations" href="/opensearch.xml"><link rel="stylesheet" href="/assets/css/styles.5774f636.css">
-<script src="/assets/js/runtime~main.b899e489.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.44283ded.js" defer="defer"></script>
 <script src="/assets/js/main.c7f6fc7b.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -30,6 +30,7 @@
 <li>Bosses will match the player&#x27;s level + 2, up to level 16, in Act 2.</li>
 <li>Bosses will match the player&#x27;s level + 4, up to 24, in Act 3.</li>
 <li>This &quot;scaling&quot; does not do very much in and of itself. However it changes the number CX calculates to determine how many extra stats, extra AC, extra everything, to give. e.g. if CX is configured to give +1 AC for every 5 levels, a level 5 boss will get +1 AC. However a boss scaled up to level 10 would have +2. A boss scaled up to 15 would have +3, etc.</li>
+<li>This &quot;scaling&quot; should only apply to vanilla encounters CX has marked as bosses, and will not apply to bosses from encounters added by mods.</li>
 </ul>
 <ol start="3">
 <li>Rebalanced rangers, removed blanket Colossus Slayer.</li>
@@ -50,6 +51,8 @@
 <li>Removed Controlled Chaos from the goblin priestess.</li>
 <li>Lorroakan, Balthazar, and Carrion received several passives similar to those that a wizard or sorcerer would get from competitive magic item choices.</li>
 <li>Refactored who has what passives from the Mage Slayer feat, now that it works much differently.</li>
+<li>Lorroakan&#x27;s animated armor has received some upgrades, based on designs copied from animated armor found near the Underdark mage tower (both encounters now feature lightning charge based mechanics added to Animated Armor). Lorroakan&#x27;s dwarf servant has been handed a backpack full of potions, some scrolls of counter spell, and find familiar. So he&#x27;s still mostly harmless as a combatant, but he will try to protect Lorroakan while you are distracted from the bigger enemies.</li>
+<li>Hundreds of other tweaks across Act 1, 2, and 3, pulling levers and pressing buttons to make annoying enemies less annoying and underwhelming encounters more formidable.</li>
 </ol>
 <p><strong>Other Changes</strong></p>
 <ol>
@@ -76,14 +79,14 @@
 <li>Added Feat Rebalance Pack (which has its own rebalance to great weapon master/sharpshooter). Please read feat tool tips, this shake-up is expected to alter a lot of builds that were viable in older versions of Listo, and open new ones. Barbarians, Fighters, and other front line damage-soaking tanks can build towards stacking Durable, Heavy Armor Master, and certain magic items to become quite difficult to kill!</li>
 <li>Added Shane&#x27;s Unique Heads.</li>
 <li>Re-organized MO2 with a more realistic definition of what is an &quot;Optional&quot; mod, with 3 controversal UI changes now in an optional mods section.</li>
-<li>Skill actions are reorganized under a single container, significantly reducing hotbar bloat. With this, several skill actions have been changed to 1/combat, 1/short rest, or 1/long rest to balance their relative power.</li>
+<li>Skill actions are reorganized under a single container, significantly reducing hotbar bloat. With this, several skill actions have been changed to 1/combat, 1/short rest, or 1/long rest to balance their relative power (thanks Goonsack!)</li>
 <li>Removed unintended global changes to NPCs from Many More Monsters (thanks Chizfreak!)</li>
-<li><strong>Added (as optional mods) Deadly Honor Mode: New Bosses and Enemies (and Even More Bosses) for testing</strong>. A lot of the bosses appear to be tucked away or placed in brand new dungeons which - should - make DMH easy to include in Listo permanently, but it needs testing/feedback. <strong>The portals to these dungeons/bosses are not for the feint of heart</strong>, for example the one on the beach has several level 8 paladins waiting to blast your ass off. If you want to help test DHM&#x27;s new encounters, I would recommend you wait until clearing as much of Act 1 as you can before jumping into these encounters and come ready to rumble.</li>
+<li><strong>Added (as optional mods) Deadlie Honour Mode: New Bosses and Enemies (and Even More Bosses) for testing</strong>. A lot of the bosses appear to be tucked away or placed in brand new dungeons which - should - make DMH easy to include in Listo permanently, but it needs testing/feedback. <strong>The portals to these dungeons/bosses are not for the feint of heart</strong>, for example the one on the beach has several level 8 paladins waiting to blast your ass off. If you want to help test DHM&#x27;s new encounters, I would recommend you wait until clearing as much of Act 1 as you can before jumping into these encounters and come ready to rumble. <strong>I must emphasize as much as I can that DMH encounters do not care what level you are or where in the game you find them - they are level 8+ enemies and Dark Souls-esque boss fights waiting to f you up.</strong></li>
 <li>Updated the MO2-BG3 plugin to Zino&#x27;s latest version. It is MUCH faster at compiling a new modsCache if you need to wipe yours for whatever reason, reducing the time to sub 2 minutes on my PC instead of 5+ minutes. Behind the scenes Zino continues to improve the user experience and help me bug hunt (and doesn&#x27;t even get mad when the bugs are because me and Goon did our mods wrong).</li>
 <li>Added Sensible Ambushing (beta). This mod significantly revamps stealth gameplay/mechanics and rebalances aspects of the game related to when and how stealth is activated or removed, when hide checks are used, and what causes (or doesn&#x27;t cause) turn based mode/joining combat to trigger.</li>
 <li>Added Half-Scro, a subrace to Half-Orc who begins with firearm proficiency.</li>
 <li>Added Firearms and ATF. This fundamentally alters how firearms work (including muskets from the Artificer mod) by requiring reloading to balance their better stats. However, Artificer infusions can overcome this limitation :)</li>
-<li>Removed cosmetic mods related to adding heads for half-orcs, as the half-scro mod breaks compatability.</li>
+<li>Removed cosmetic mods related to adding heads for half-orcs, as the half-scro mod breaks compatability. Half-Orc cosmetics will return if/when compat patches are available.</li>
 <li>Added Radiant Retort Reimagined.</li>
 </ol>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="listonomicon-v28">Listonomicon v2.8<a href="#listonomicon-v28" class="hash-link" aria-label="Direct link to Listonomicon v2.8" title="Direct link to Listonomicon v2.8">​</a></h2>
