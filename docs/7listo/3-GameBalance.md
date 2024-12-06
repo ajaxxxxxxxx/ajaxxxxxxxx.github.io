@@ -111,4 +111,4 @@ Initiative in Listonomicon is calculated using a roll of d8+dex+bonuses. The van
 
 Deadlier Honour Mode (DHM) Bosses and Encounters: This optional mod adds boss fights, dungeons, and encounters throughout BG3 designed to challenge experienced players who know how to exploit game features and truly want to flex their tactical genius. It is not recommended to enable DHM unless you truly love BG3/Listo combat, want more of it, and want to brag about clearing bosses and dungeons.
 
-Other difficulty enhancing mods can be found under "I Wish The Game Was Harder." Note some optional mods will require you to fine tune settings to your liking via the MCM menu.
+Other difficulty enhancing mods can be found under "I Wish The Game Was Harder." Note some optional mods will require you to fine tune settings to your liking via the MCM menu. Some mods should not be edited with MCM and should never be edited mid-campaign, including Combat Extender and Expansion 13-20.
