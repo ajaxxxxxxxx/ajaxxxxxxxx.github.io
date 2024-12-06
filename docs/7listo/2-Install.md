@@ -85,21 +85,23 @@ Per the image above, your difficulty settings should be as follows:
 
 **No support is offered or guaranteed for anyone who modifies the behavior or contents of Listonomicon.** It is already difficult to keep up with new mods daily on the Nexus; updates and changes to mods in the list; changes in the script extender; new and changed features in the community compatibility frameworks; as well as game patches and hotfixes; vanilla game bugs; and the consequences of (seemingly) minor mod setting tweaks on gameplay. Further modify the list at your own peril. We hope that you are able to customize a fun, stable, great experience tailored to your specific tastes using Listonomicon as a stepping stone - but will not promise troubleshooting or technical support. If adding mods to MO2 (or enabling optional mods from Listo) appears not to work in game, try closing MO2 and going to [listo install location]/profiles/listonomicon and delete the ModsCache file. Next time you launch the game it will take a long time to load as it rebuilds your mod list, and then should work as normal.
 
-### 8.) Optional Mods and Difficulty Tweaks
+### 8.) Optional Mods
 
 There are several optional mods packaged with Listonomicon to enable even more fun, whacky, QoL, random, or challenge features. [Please read the comments on the Optional Mods tab of this excel](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing) for a description/overview of optional mods, if you wish to. No official support is offered for adding any other mods to Listonomicon. You can find optional mods in MO2 by typing OPTIONAL into the search bar at the bottom-right of your mod list. Hover over the notepad icon to the right of the mod's name to read any notes relevant to enabling that mod, such as other mods that need to be enabled or disabled with it. If enabling/disabling optional mods does not seem to do anything, try closing MO2 and going to [listo install location]/profiles/listonomicon. Delete the ModsCache file and modsettings.lsx. Next time you launch the game it will take a long time to load as it rebuilds your mod list, and then should work as normal.
 
 ![Optional Mod Example](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/optional%20mods2.png)
 
-If Listo is not hard enough, enable Absolute Wrath. If that still isn't hard enough, enable OPTIONAL_Listo Hard Mode.
+### 9.) Optional Difficulty Tweaks
 
-If you want more fights, enable More Trash Monsters. If that still isn't enough fights, enable Deadlier Honour Mode Bosses and Encounters. Note DHM is extreme mode.
+If Listo is too hard, and you'd actually have more fun if it was a little easier, you can make two changes:
+1. In Custom Difficulty settings, reduce the trade price penalty to x3-x3.5. If you reduce it too much, buying prices become too low and the economy really falls apart. You can reduce the long rest camp supply cost to a lower number, whatever you want.
+2. Navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Easy CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, relaxed CX configuration. The alt file will still be more difficult than vanilla BG3 and include new, tweaked, and changed enemies - but the size of the tweaks is much less dramatic with lower health, AC, attack rolls, and saving throw DC for enemies across the board. Some of the over tuned encounters and bosses are reduced to being much closer to vanilla. The semi-specifics can be read in the Listo v3.0 update changelog.
 
-If Listo is too hard, and you'd actually have more fun if it was a little easier, you can make two changes.
-1. In Custom Difficulty settings, reduce the trade price penalty to 3x and reduce the long rest camp supply cost to a lower number. If you reduce the cost multiplier to lower than 3, earning money from selling loot becomes too fast/powerful.
-2. Navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Easy CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate CX configuration. The alt file will still be more difficult than vanilla BG3 and include new, tweaked, and changed enemies - but the size of the tweaks is much less dramatic with lower health, AC, attack rolls, and saving throw DC for enemies.
+If Listo is not hard enough, enable Absolute Wrath (search "OPTIONAL_Absolute Wrath" or look in the "Not Hard Enough" section of MO2). If that still isn't hard enough, enable OPTIONAL_Listo Hard Mode. Absolute Wrath will enable random buffs to random enemies. It is fun, but not exactly "Immersive" unless your suspension of disbelief includes The Absolute strapping powder kegs to rats and similar crazy situations you might find). OPTIONAL_Listo Hard Mode uses the Enemy Stats mod to increase enemy attributes and HP for every 5 character levels, on top of the tweaks from Combat Extender.
 
-### 9.) Multiplayer
+If you want more fights, enable More Trash Monsters. If that still isn't enough fights, enable Deadlier Honour Mode Bosses and Encounters. Note DHM is extreme mode for the bravest of True Souls.
+
+### 10.) Multiplayer
 
 (written by Kmnder, edited by Ajax)
 
@@ -108,3 +110,7 @@ If Listo is too hard, and you'd actually have more fun if it was a little easier
 3. The Host then invites all players. When joining, players will be able to make their real characters they intend to play.
 4. **Every time** you want to continue COOP, everyone should load their dummy save. Once everyone has loaded in, the Host invites everyone to the same game.
 5. Kmnder: I’ve invited through clicking multiplayer+ and then steam inviting. But it’s worked 100% of the time so far.
+
+### 11.) Cleanup (Optional)
+
+If you are desperate to restore some space on your hard drive after installing Listo, you can go to [Listo Install Location]/downloads and delete everything to cut Listo's size roughly in half. Note, however, that if you ever want to update Listo that Wabbajack will re-download _everything_ again rather than just updated and new mods.
