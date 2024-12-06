@@ -9,7 +9,7 @@ description: Listonomicon
 
 ## Skill Actions
 
-These aren't really "Spells" per say, but [Skill Actions](https://www.nexusmods.com/baldursgate3/mods/13705) adds new abilities to all characters based on their skill proficiencies. One of the very important skills added is using Perception to search for invisible enemies.
+These aren't really "Spells" per say, but [Skill Actions](https://www.nexusmods.com/baldursgate3/mods/13705) adds new abilities to all characters based on their skill proficiencies. One of the very important skills added is using Perception to search for invisible enemies. Most Skill Actions are contained under a single button added to your hotbar and can be used in combat a limited number of times per Long Rest to get an edge over your enemy at the cost of your bonus action. The exception is using the Perception skill to look for invisible enemies - this is its own button, and can be used every turn. Several enemies in Listo have access to invisibility, so investing in Perception on multiple characters is a good idea (and once an invisible enemy is found, Faerie Fire, Dispel Magic, and other methods can be used to stop their shenanigans).
 
 ## Rebalanced Spells
 
@@ -43,21 +43,21 @@ In Listonomicon, all classes earn a feat at a rate of one per 3 levels. Fighters
 
 The [Arcanist Feat](https://www.nexusmods.com/baldursgate3/mods/1087) allows you to gain +1 INT, gain expertise in Arcana, and learn any level 1 spell which can be casted once per short rest. Consider how various level 1 spells (such as Shield of Faith) have been rebalanced. That's basically a free +2 AC for anyone who would not otherwise have access to the spell, such as an Eldritch Knight. Clerics or Monks may want to use it for access to Shillelagh.
 
-The Improved Poison Equipment mod adds a Poison version of the Elemental Adept feat. If you stack two sources of the ability (such as taking the feat while wearing The Poisoner's Robe), poison immunity will be downgraded to poison resistance. A Green Dragonborn Circle of Spores Druid who takes the feat and wears the Poisoner's Robe would get the benefits of the feat (reroll 1's, ignore resistance) for their breath weapon, spore attack, and poison damage spells.
+The Improved Poison Equipment mod adds a Poison version of the Elemental Adept feat. If you stack two sources of the ability (such as taking the feat while wearing The Poisoner's Robe), enemy poison immunity will be downgraded to poison resistance. A Green Dragonborn Circle of Spores Druid who takes the feat and wears the Poisoner's Robe would get the benefits of the feat (reroll 1's, ignore resistance) for their breath weapon, spore attack, and poison damage spells.
 
 [Essential Feats](https://www.nexusmods.com/baldursgate3/mods/5623) adds a great variety of feats. For multiclass melee-caster builds, War Magic allows you to combine casting with weapon swinging. Specifically, after casting a spell or cantrip you can make 1 attack as a bonus action. This is different from, and does not stack with, Eldritch Knight's similar feature that allows cantrips to be used with multiattack. This is especially great for Clerics who otherwise do not get access to extra attack or war priest extra attack, as you can combine a cast and a swing every turn. Deadly Alacrity reduces the number needed to roll a crit (stacks with any/other crit chance increase effects) and restores mobility for hits and kills, though Listo removes the +1 stat bonus. Alchemist turns anyone into a potion throwing utility character and makes it possible to brew 2 potions instead of 1. Various Initiate, Touched, and Adept feats give limited access to the features of other classes such as a fighting maneuvers, eldritch invocations, or metamagic. Using these feats is an alternative to Arcanist, and the user gains 2 cantrips and 1 spell of 1st level. A great use of these feats is to get Shillelagh as a non-Nature Cleric or Monk, without needing to dip into Druid. A Sorcerer or Bard could pick up eldritch blast, another Warlock cantrip, and mage armor.
 
-Vanilla feats are heavily altered by the **[fill in the name later]** mod. These rebalances include altering Great Weapon Master and Sharpshooter. You effectively sacrifice getting a proficiency bonus on your attack roll, to instead get a proficiency bonus on your damage roll. Other important changes include Tough (which comes with +1 CON) and Durable (which comes with a proficiency bonus scaling damage resistance). A Durable + Mageslayer Cleric, Paladin, Barbarian, or Fighter is very formidable and can form an essential anchor and tank for your team! Tavern Brawler is significantly less powerful.
+Vanilla feats are heavily altered by the **[fill in the name later]** mod. These rebalances include altering Great Weapon Master and Sharpshooter. You effectively sacrifice getting a proficiency bonus on your attack roll, to instead get a proficiency bonus on your damage roll. Other important changes include Tough (which comes with +1 CON) and Durable (which comes with a proficiency bonus scaling damage resistance). A Durable + Mageslayer Cleric, Paladin, Barbarian, or Fighter is very formidable and can form an essential anchor and tank for your team! Tavern Brawler is significantly less powerful. Dual Wielder is altered by **[mod name]**. You can make a normal attack with two weapons using your action and bonus action, or you can toggle swinging both weapons with a single action. If using both weapons in a single action, you receive a -3 penalty to attack rolls, but this allows you to combine multiattack with dual wielding and compete with the relative power of Great Weapon Master, or using a dueling fighting style and shield.
 
 [Enweaved](https://www.nexusmods.com/baldursgate3/mods/13310) adds a way to get +2 in INT, WIS, or CHA - but be warned, it comes with wild magic and _wild magic allergy_! This can help a caster reach 22 in their casting stat (and get to 24 with Hag's Hair + the relevant Tome) but it will make casting spells, and being around spellcasting, a dangerous gambit.
 
 [Experimental Alchemy as a Feat](https://www.nexusmods.com/baldursgate3/mods/12446) provides another way to get access to Experimental Alchemy, which potentially causes two potions to be brewed instead of one when using alchemy. Note that multiple ExpAlch sources do not stack (eg Wizard + Artificer + this feat would still only produce 2 potions).
 
-Drunken Master allows players to treat alcohol as emergency health potions and buffs, increasing unarmed damage.
+[Drunken Master]**link** allows players to treat alcohol as emergency health potions and buffs, increasing unarmed damage.
 
-Dirty Fighting grants players a bonus action attack that, if successful, will knock an opponent "Off Balance" - granting advantage for melee attacks. This is a great choice for sword-and-shield Fighters who otherwise may not use their bonus action very often, as well as melee Rogues who want a reliable setup for Sneak Attack. Beware, enemy Fighters and Rogues will be using this when you reach Baldur's Gate!
+[Dirty Fighting]**link** grants players a bonus action attack that, if successful, will knock an opponent "Off Balance" - granting advantage for melee attacks. This is a great choice for sword-and-shield Fighters who otherwise may not use their bonus action very often, as well as melee Rogues who want a reliable setup for Sneak Attack. Beware, enemy Fighters and Rogues will be using this when you reach Baldur's Gate!
 
-As an _optional mod_, [Titan's Grip](https://www.nexusmods.com/baldursgate3/mods/12712) is included in Listonomicon. This feat allows dual wielders to ignore normal game restrictions and use two-handed weapons. It is very unbalanced but provided as an option.
+As an _optional mod_, [Titan's Grip](https://www.nexusmods.com/baldursgate3/mods/12712) is included in Listonomicon. This feat allows dual wielders to ignore normal game restrictions and use two-handed weapons, or combining a two-handed weapon with using a shield. It is very unbalanced but provided as an option.
 
 # New and Changed Classes and Subclasses
 
@@ -71,11 +71,11 @@ Adds level scaling up to level 20. Also implements several changes/optional rule
 
 [Smart Cunning Action](https://www.nexusmods.com/baldursgate3/mods/8906)
 
-Changes the Rogue (Thief) double bonus action to instead be a toggle ability allowing rogues to choose to use their action or bonus action for cunning actions. Also grants this benefit to Monks, and gloomstalker Rangers.
+Changes the Rogue (Thief) double bonus action to instead be a toggle ability allowing rogues to choose to use their action or bonus action for cunning actions. Also grants this benefit to Monks, and Gloomstalker Rangers.
 
 ## Wild Magic
 
-These mods affect wild magic sorcerers, wild magic barbarians, and/or other situations where the wild magic effects table is rolled such as certain wild magic enemies, controlled chaos, or having the Enweaved feat. Sorcerers and creatures with wild magic should only accrue surge risk during combat, with the chance increasing 5% per spell casted until a surge is triggered. For player Sorcerers, you can avoid starting the wild magic risk slide by avoiding using Tides of Chaos, but that would be boring. Wild magic surges will restore Tides of Chaos, allowing you to keep it going multiple times throughout an adventuring day. Wild Magic Sorcerers in Listonomicon are a whacky risk-reward gameplay experience.
+These mods affect wild magic sorcerers, wild magic barbarians, and/or other situations where the wild magic effects table is rolled such as certain wild magic enemies, enemies with Controlled Chaos, or having the Enweaved feat. Sorcerers and creatures with wild magic should only accrue surge risk during combat, meaning out-of-combat uses of spells like Healing Word or Longstrider or Feather Fall will not increase the surge risk. In combat, the risk increases by 5% per spell casted until a surge is triggered. For player Sorcerers, you can avoid starting the wild magic risk slide by avoiding using Tides of Chaos, but that would be boring. Wild magic surges will restore Tides of Chaos, allowing you to keep it going multiple times throughout an adventuring day. Wild Magic Sorcerers in Listonomicon are a whacky risk-reward gameplay experience.
 
 * [More Wild Magic effects](https://www.nexusmods.com/baldursgate3/mods/2022)
 * [Wild Magic D100 Table](https://www.nexusmods.com/baldursgate3/mods/2967)
@@ -86,14 +86,14 @@ These mods affect wild magic sorcerers, wild magic barbarians, and/or other situ
 
 ## Barbarian
 
-[Dynamic Wildheart Barbarian](https://www.nexusmods.com/baldursgate3/mods/8274) changes wildheart barbarians (aka "Totem") to be able to change which animal aspect is called upon when raging, which makes the subclass easier to adapt to different situations.
+[Dynamic Wildheart Barbarian](https://www.nexusmods.com/baldursgate3/mods/8274) changes Wildheart Barbarians (aka "Totem") to be able to change which animal aspect is called upon when raging, which makes the subclass easier to adapt to different situations. Bear remains the most immediately powerful option (try combining the Durable feat with a Bear rage and Mageslayer, and laugh as enemies struggle to damage you!) but you can experiment more with situations where the other totems might be useful.
 
 [5e Reckless Attack Toggle](https://www.nexusmods.com/baldursgate3/mods/10924) changes the Reckless Attack feature from a reaction, to a toggled status.
 
 New subclasses:
 
 * Path of the Zealot - Your fervor inspires you to fight beyond death, and even if you die, your allies can revivify you for free.
-* Path of the Ancestral Guardian - You channel the spirits of your clan, bloodline, or faith. When you rage, spectral warriors swarm around you to slay your foes.
+* Path of the Ancestral Guardian - You channel the spirits of your clan, bloodline, or faith. When you rage, spectral warriors swarm around you to slay your foes and harass anyone who tries to target your allies.
 * Path of the Juggernaut
 * Path of the Storm Herald - Your rage is that of thunderstorms, sandstorms, blizzards, and worse. When you rage, you surround yourself with elemental damage.
 * Path of the Giant - Your rage allows you to fight like a creature twice your size. As your Barbarian level increases, your rages become bigger and their bonuses to your strength, attacks, thrown weapons, and shoves increases with it.
