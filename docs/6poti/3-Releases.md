@@ -9,7 +9,7 @@ description: Release Notes
 
 ## Releases (Newest to Oldest)  
 
-### Release 2.0 - Upcoming
+## POTI 2.0 - Upcoming
 
 Save Safe?: NO 
 
