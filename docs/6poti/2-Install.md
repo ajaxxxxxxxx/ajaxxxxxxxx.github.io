@@ -17,5 +17,3 @@ description: Path of the Incarnate
 #### Installing Microsoft Visual C++
 **This is required.**
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
-
-
