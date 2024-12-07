@@ -11,11 +11,11 @@ description: Release Notes
 
 ### Release 2.0 - Upcoming
 
-### Save Safe?: NO 
+Save Safe?: NO 
 
-### Added
+**Added**
 
-### Removed
+**Updated**
 
-### Updated
+**Removed**
 
