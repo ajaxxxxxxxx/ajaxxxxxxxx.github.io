@@ -11,7 +11,7 @@ description: Release Notes
 
 ## POTI 2.0 - Upcoming
 
-Save Safe?: NO 
+Save Safe? No 
 
 **Added**
 
