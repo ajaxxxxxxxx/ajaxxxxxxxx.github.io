@@ -2,11 +2,11 @@
 layout: default
 title: Installation Guide
 nav_order: 2
-description: Path of the Incarnate
+description: Path of the Incarnate Installation Guide
 ---
 
 :::info
-## **Requirements**
+## **Requirements:**
 - ~ 60 GB of space for the modlist
 - A legally obtained copy of TES3: Morrowind Game of the Year Edition (while a Steam global copy is safest, any copy should do), **installed and launched vanilla at least once**
 - [Wabbajack](https://www.wabbajack.org/)
