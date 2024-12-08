@@ -13,7 +13,7 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Experimental CX Config v3.0.2
+Experimental CX Config v3.0.2
 
 1. Reduced or removed static boosts to enemy stats, rolls, and abilities.
 2. Reduced static and scaling health boosts to enemies slightly (like 0.005)
