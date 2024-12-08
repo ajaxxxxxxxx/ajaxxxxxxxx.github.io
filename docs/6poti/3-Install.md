@@ -5,7 +5,6 @@ nav_order: 2
 description: Path of the Incarnate
 ---
 
-# **[Installation Guide](https://www.modlists.net/docs/6poti/Install)**
 :::info
 ## **Requirements**
 - ~ 60 GB of space for the modlist
