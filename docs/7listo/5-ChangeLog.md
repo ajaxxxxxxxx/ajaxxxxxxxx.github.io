@@ -5,9 +5,9 @@ nav_order: 5
 description: Listonomicon
 ---
 
-## Welcome to Listonomicon
-The goal of the “Listonomicon” is to be an out-of-the-box experience that enhances Baldurs Gate 3’s UI, quality of life, features, gameplay, and challenge.
-# [Install Instructions](https://www.modlists.net/docs/7listo/Install) and [Listo Game Guide](https://www.modlists.net/docs/7listo/GameBalance)
+# Welcome to Listonomicon's Changelog
+
+## [Install Instructions](https://www.modlists.net/docs/7listo/Install) and [Listo Game Guide](https://www.modlists.net/docs/7listo/GameBalance)
 
 ## Releases (Newest to Oldest)  
 
