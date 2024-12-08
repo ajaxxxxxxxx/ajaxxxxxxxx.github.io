@@ -23,6 +23,10 @@ Experimental CX Config v3.0.2
 6. Dhourn (needs testing) and Filro now provide a preview of what their magic staff does :)
 7. Aylin and Isobel hand out radiating orbs like candy.
 8. Lots of other little tweaks to balance enemies around a different set of passives similar to what players get access to via magic items.
+9. Moved Defensive Fighting Style for enemy Fighters and Paladins to Act 3.
+
+Easy Config:
+1. Removed multiattack defense.
 
 ## Listonomicon v3.0.1
 
