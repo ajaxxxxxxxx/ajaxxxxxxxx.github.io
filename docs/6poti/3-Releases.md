@@ -18,4 +18,5 @@ Save Safe? No
 **Updated**
 
 **Removed**
-
+1. Restocking
+   - Seemingly behind merchant NPCs not wanting to talk to the player.
