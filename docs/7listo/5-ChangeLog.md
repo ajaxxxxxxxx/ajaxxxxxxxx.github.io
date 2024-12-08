@@ -13,6 +13,17 @@ The goal of the “Listonomicon” is to be an out-of-the-box experience that en
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Experimental CX Config v3.0.2
+
+1. Reduced or removed static boosts to enemy stats, rolls, and abilities.
+2. Reduced static and scaling health boosts to enemies slightly (like 0.005)
+3. Redid all Branded enemies (Nere, Z'Rell, Priestess Gut, Dror, etc based on giving them a shared Absolute feat)
+4. Nerfed Oubliette Beholder (no multiattack defense, no alert feat)
+5. Grym is more focused on applying burning and fire damage, and punishing you for burning and taking fire damage.
+6. Dhourn (needs testing) and Filro now provide a preview of what their magic staff does :)
+7. Aylin and Isobel hand out radiating orbs like candy.
+8. Lots of other little tweaks to balance enemies around a different set of passives similar to what players get access to via magic items.
+
 ## Listonomicon v3.0.1
 
 Hotfix for compilation/hash issues. INSTALL ALL REQUIRED .NET/C++!
