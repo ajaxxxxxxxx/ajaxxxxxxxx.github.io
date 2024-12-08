@@ -5,7 +5,7 @@ nav_order: 3
 description: Release Notes
 ---
 ## Welcome to Path of the Incarnate!
-# [Install Instructions](https://www.modlists.net/docs/6poti/Install) and [POTI Game Guide]()
+# [Install Instructions](https://www.modlists.net/docs/6poti/Install) and
 
 ## Releases (Newest to Oldest)  
 
