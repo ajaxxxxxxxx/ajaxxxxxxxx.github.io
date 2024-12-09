@@ -45,8 +45,8 @@ description: Path of the Incarnate Installation Guide
 # Optional Post-Install Steps
 
 ### 1.) N/A
+:::
 
-:::tip
 # **Updating POTI**
 
 ### 1.) Updating Path of the Incarnate is about as simple as repeating steps 4.) through 6.) of the Installation Guide using the same install paths you chose before.
