@@ -9,7 +9,7 @@ description: Path of the Incarnate
 
 ## **[Donations](https://ko-fi.com/clayby)**
 
-## Join our [Discord](https://discord.gg/43EhRjU)
+## **Join our [Discord](https://discord.gg/43EhRjU)**
 
 ## **What is Path of the Incarnate?**
 Path of the Incarnate is an original mod list for OpenMW, aiming to offer a fresh, stable, and immersive Morrowind experience. This is all accomplished while preserving the alien charm the vanilla game exuded. From new quests, landmass overhauls & additions, hundreds of new items & NPCs, enhanced combat & leveling, graphical improvements, and much more, you'll be able to experience this Bethesda classic with 20+ years of community love, all in an easy-to-install package.
@@ -32,7 +32,7 @@ OpenMW is a free and open-source game engine recreation that reimplements the on
 
 5.) If after your searches you still cannot find your issue, make a help post in #poti-help on our discord and we will get to it as soon as possible!
 :::danger
-## DO NOT ASK THE OPENMW OR OTHER DISCORDS FOR HELP
+## **DO NOT ASK THE OPENMW OR OTHER DISCORDS FOR HELP**
 
 Please source all help to our discord alone. Even if you think that your question relates to your installation of OpenMW itself, please bring it into our discord.
 :::
