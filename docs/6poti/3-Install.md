@@ -23,7 +23,7 @@ description: Path of the Incarnate Installation Guide
 
 ### 2.) Unzip the OpenMW Development Build into the folder you would like it installed (I.E. C:/Games/OpenMW .49)
 
-> Inside the folder, launch openmw-wizard.exe and follow the steps, **unchecking Import Bitmap Fonts Setup from Morrowind** at the Import Settings stage. 
+> Inside the folder, launch openmw-wizard.exe and follow the steps, **unchecking "Import Bitmap Fonts Setup from Morrowind"** at the Import Settings stage. 
 
 ### 3.) Launch your installed Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here.
 
