@@ -15,15 +15,17 @@ description: Path of the Incarnate Installation Guide
 - A Nexus account **(Premium recommended; drastically increases install speed)**
 :::
 
-# **Part 1: Installation Guide**
+# **Installation Guide**
 
-### 1.) Install a fresh copy of Morrowind GOTY
+### 1.) Install or Reinstall Morrowind GOTY
 
-> If a copy has already been installed, the game can be uninstalled, ini's deleted in User/Documents/My Games/Morrowind, and then reinstalled like normal through Steam or GOG.
+- If a copy has already been installed, the game can be uninstalled, ini's deleted in User/Documents/My Games/Morrowind, and then reinstalled like normal through Steam or GOG.
 
-> Run the game at least once to the main menu to generate the required fresh ini's.
+- Run the game at least once to the main menu to generate the required fresh ini's.
 
-### 2.) Unzip the OpenMW Development Build into the folder you would like it installed (I.E. C:/Games/OpenMW .49)
+### 2.) Install OpenMW Development Build 
+
+- Unzip the OpenMW Development Build file into the folder you would like it to be installed (I.E. C:/Games/OpenMW .49)
 
 > Inside the folder, launch openmw-wizard.exe and follow the steps, **unchecking "Import Bitmap Fonts Setup from Morrowind"** at the Import Settings stage. 
 
