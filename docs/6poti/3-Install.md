@@ -42,12 +42,12 @@ description: Path of the Incarnate Installation Guide
 ### 7.) You can now select “Path of the Incarnate” from the right hand dropdown in MO2 and press play.
 
 :::tip
-# Optional Post-Install Steps
+## Optional Post-Install Steps
 
 ### 1.) TBD
 :::
 
-# **Updating POTI**
+# **Updating POTI:**
 
 ### 1.) Updating Path of the Incarnate is about as simple as repeating steps 4.) through 6.) of the Installation Guide using the same install paths you chose before.
 :::danger
