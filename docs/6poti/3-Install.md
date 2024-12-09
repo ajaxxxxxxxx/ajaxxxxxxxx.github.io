@@ -44,7 +44,7 @@ description: Path of the Incarnate Installation Guide
 :::tip
 # Optional Post-Install Steps
 
-### 1.) N/A
+### 1.) TBD
 :::
 
 # **Updating POTI**
