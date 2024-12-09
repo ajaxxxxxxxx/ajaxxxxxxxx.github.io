@@ -13,20 +13,33 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-Experimental CX Config v3.0.2
+## Listonomicon v3.0.2 (WIP not released)
+
+Save Safe? Yeah for most people.
+
+**Combat Extender**
 
 1. Reduced or removed static boosts to enemy stats, rolls, and abilities.
-2. Reduced static and scaling health boosts to enemies slightly (like 0.005)
-3. Redid all Branded enemies (Nere, Z'Rell, Priestess Gut, Dror, etc based on giving them a shared Absolute feat)
-4. Nerfed Oubliette Beholder (no multiattack defense, no alert feat)
+2. Reduced static and scaling health boosts to enemies slightly (like 0.005).
+3. Redid all Branded enemies (Nere, Z'Rell, Priestess Gut, Dror, etc based on giving them a shared Absolute feat).
+4. Nerfed Oubliette Beholder (no multiattack defense, no alert feat).
 5. Grym is more focused on applying burning and fire damage, and punishing you for burning and taking fire damage.
 6. Dhourn (needs testing) and Filro now provide a preview of what their magic staff does :)
 7. Aylin and Isobel hand out radiating orbs like candy.
 8. Lots of other little tweaks to balance enemies around a different set of passives similar to what players get access to via magic items.
 9. Moved Defensive Fighting Style for enemy Fighters and Paladins to Act 3.
+10. Added an entry for The Warden.
 
-Easy Config:
+Easy Config Specific:
 1. Removed multiattack defense.
+
+**Other Changes**
+
+1. Added Ajax's Degreaser.
+2. Added Superior Spell Thief.
+3. Added Halsin and Minthara Tents Seperated. If you are already in act 2/3 and updating Listo, disable this mod.
+4. Added Dark Urges T2/T4 Heads. This mod replaces Dissidia Heads (replaced). If your Tav/Durge is a male tiefling, human, elf, or half-elf using one of Dissidia's Heads, this update is not save safe (unless you re-add it manually).
+5. Added Frostborn, Lightbringer, Shadowbound, Sprinter-Momentum, True Soul - Branded, and Infernal Heart feats. These feats replicate a combination of minor magic items.
 
 ## Listonomicon v3.0.1
 
