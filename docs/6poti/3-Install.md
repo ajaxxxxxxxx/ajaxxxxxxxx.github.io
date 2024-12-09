@@ -9,8 +9,10 @@ description: Path of the Incarnate Installation Guide
 ## **Requirements:**
 - ~60GB of space, 20GB from downloads can be deleted after installation is complete 
 - A legal copy of Morrowind GOTY from Steam or GOG
+- Wabbajack **(It can be found [here](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe))**
 - Visual C++ **(It can be found [here](https://aka.ms/vs/17/release/vc_redist.x64.exe))**
-- OpenMW Development Build **(It can be found [here](https://gitlab.com/OpenMW/openmw/-/jobs/artifacts/master/raw/OpenMW_MSVC2022_64_RelWithDebInfo_master.zip?job=Windows_MSBuild_RelWithDebInfo))**  
+- OpenMW Development Build **(It can be found [here](https://gitlab.com/OpenMW/openmw/-/jobs/artifacts/master/raw/OpenMW_MSVC2022_64_RelWithDebInfo_master.zip?job=Windows_MSBuild_RelWithDebInfo))**
+- A Nexus account **(Premium recommended; drastically increases install speed)**
 :::
 
 # **Part 1: Installation Guide**
