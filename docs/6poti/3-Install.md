@@ -19,6 +19,8 @@ description: Path of the Incarnate Installation Guide
 
 > If a copy has already been installed, the game can be uninstalled, ini's deleted in User/Documents/My Games/Morrowind, and then reinstalled like normal through Steam or GOG.
 
+> Run the game at least once to the main menu to generate the required fresh ini's.
+
 ### 2.) Unzip the OpenMW Development Build into the folder you would like it installed (I.E. C:/Games/OpenMW .49)
 
 > Inside the folder, launch openmw-wizard.exe and follow the steps, **unchecking Import Bitmap Fonts Setup from Morrowind** at the Import Settings stage. 
@@ -26,5 +28,7 @@ description: Path of the Incarnate Installation Guide
 ### 3.) Launch your installed Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here.
 
 ### 4.) If you are installing the list through Wabbajack’s Gallery, go to “Browse Modlists” then search Path of the Incarnate. Click the download icon.
+
+> If you are installing the list using a downloaded .wabba file, then click on "Install from Disk" and set the Target Modlist path to your file.
 
 ### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/POTI) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin.
