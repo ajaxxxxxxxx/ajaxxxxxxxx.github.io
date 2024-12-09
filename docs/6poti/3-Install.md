@@ -25,7 +25,9 @@ description: Path of the Incarnate Installation Guide
 
 ### 2.) Install OpenMW Development Build 
 
-- Unzip the OpenMW Development Build file into the folder you would like it to be installed (I.E. C:/Games/OpenMW .49)
+- If you haven't yet, download the required OpenMW Development Build [here](https://gitlab.com/OpenMW/openmw/-/jobs/artifacts/master/raw/OpenMW_MSVC2022_64_RelWithDebInfo_master.zip?job=Windows_MSBuild_RelWithDebInfo).
+
+- Unzip the OpenMW Development Build into the folder you would like it to be installed (I.E. C:/Games/OpenMW .49)
 
 - Inside the folder, launch openmw-wizard.exe and follow the steps, **unchecking "Import Bitmap Fonts Setup from Morrowind"** at the Import Settings stage. 
 
