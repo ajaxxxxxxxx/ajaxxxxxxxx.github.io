@@ -13,13 +13,15 @@ description: Path of the Incarnate Installation Guide
 - OpenMW Development Build **(It can be found [here](https://gitlab.com/OpenMW/openmw/-/jobs/artifacts/master/raw/OpenMW_MSVC2022_64_RelWithDebInfo_master.zip?job=Windows_MSBuild_RelWithDebInfo))**  
 :::
 
-# **Part 1: Installation Guide**
+# **Part 1: Installation Guide:**
 
 ### 1.) Install a fresh copy of Morrowind GOTY
 
-> If a copy has already been installed the game can be uninstalled, ini's deleted in User/Documents/My Games/Morrowind, and then reinstalled like normal through Steam or GOG.
+> If a copy has already been installed, the game can be uninstalled, ini's deleted in User/Documents/My Games/Morrowind, and then reinstalled like normal through Steam or GOG.
 
-### 2.) Make sure the game has been run at least once to the main menu to generate the required fresh ini's.
+### 2.) Unzip the OpenMW Development Build into the folder you would like it installed (I.E. C:/Games/OpenMW .49)
+
+> Inside the folder, launch openmw-wizard.exe and follow the steps, **unchecking Import Bitmap Fonts Setup from Morrowind** at the Import Settings stage. 
 
 ### 3.) Launch your installed Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here.
 
