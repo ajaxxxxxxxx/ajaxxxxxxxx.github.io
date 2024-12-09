@@ -32,3 +32,14 @@ description: Path of the Incarnate Installation Guide
 > If you are installing the list using a downloaded .wabba file, then click on "Install from Disk" and set the Target Modlist path to your file.
 
 ### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/POTI) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin.
+
+### 6.) After Wabbajack installation is done, make sure in Mod Organizer that the OpenMW application directories in the dropdown menu match the locations on your system. If they do not, change them so that they do.
+
+> Launch ModOrganizer.exe from your POTI folder, navigate to the dropdown menu at the top right, select it, then select "<Edit...>".
+
+> Set the binary path for "Path of the Incarnate" to openmw.exe, and OpenMW Launcher to OpenMW-Launcher.exe, both of which can be found in your chosen OpenMW Development Build installation folder. 
+
+### 8.) You can now select “Halls of Sovngarde” from the right hand dropdown and press play
+
+:::tip
+# Optional Post-Install Steps
