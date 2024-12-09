@@ -39,7 +39,7 @@ description: Path of the Incarnate Installation Guide
 
 > Set the binary path for "Path of the Incarnate" to openmw.exe, and OpenMW Launcher to OpenMW-Launcher.exe, both of which can be found in your chosen OpenMW Development Build installation folder. 
 
-### 8.) You can now select “Path of the Incarnate” from the right hand dropdown in MO2 and press play.
+### 7.) You can now select “Path of the Incarnate” from the right hand dropdown in MO2 and press play.
 
 :::tip
 # Optional Post-Install Steps
