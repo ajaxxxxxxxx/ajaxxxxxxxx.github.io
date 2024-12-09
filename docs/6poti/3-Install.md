@@ -35,7 +35,7 @@ description: Path of the Incarnate Installation Guide
 
 ### 6.) After Wabbajack installation is done, make sure in Mod Organizer that the OpenMW application directories in the dropdown menu match the locations on your system. If they do not, change them so that they do.
 
-> Launch ModOrganizer.exe from your POTI folder, navigate to the dropdown menu at the top right, select it, then select "<Edit...>".
+> Launch ModOrganizer.exe from your POTI folder, navigate to the dropdown menu at the top right, select it, then select "Edit".
 
 > Set the binary path for "Path of the Incarnate" to openmw.exe, and OpenMW Launcher to OpenMW-Launcher.exe, both of which can be found in your chosen OpenMW Development Build installation folder. 
 
