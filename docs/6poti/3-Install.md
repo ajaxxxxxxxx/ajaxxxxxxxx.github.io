@@ -13,7 +13,7 @@ description: Path of the Incarnate Installation Guide
 - OpenMW Development Build **(It can be found [here](https://gitlab.com/OpenMW/openmw/-/jobs/artifacts/master/raw/OpenMW_MSVC2022_64_RelWithDebInfo_master.zip?job=Windows_MSBuild_RelWithDebInfo))**  
 :::
 
-# **Part 1: Installation Guide:**
+# **Part 1: Installation Guide**
 
 ### 1.) Install a fresh copy of Morrowind GOTY
 
