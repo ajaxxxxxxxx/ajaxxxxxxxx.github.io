@@ -30,12 +30,21 @@ Save Safe? Yeah for most people.
 9. Moved Defensive Fighting Style for enemy Fighters and Paladins to Act 3.
 10. Added an entry for The Warden.
 
+The following was enabled by the hard work of Cahoot and his willingness to share with Listo:
+
+11. Added Cazador entry in CX, he's now a powerful caster on the same tier as Lorroakan, Carrion, etc.
+12. Viconia, and Viconia's cronies, now have CX entries.
+13. All of the Act 3 dopplegangers, assassins, murder tribunal people, etc are rangers or rogues (with a handful of casters and barbarians).
+14. In total, 30 Act 3 enemies have been improved thanks to Cahoot.
+15. 4 Act 2 enemies have CX entries now. Several Act 1 and Act 2 entries are improved.
+
 Easy Config Specific:
 1. Removed multiattack defense.
+2. Added the 34 new entries and some of the changes while lowering the size of the boost to enemies.
 
 **Other Changes**
 
-1. Added Ajax's Degreaser.
+1. Added Ajax's Degreaser. Let me know if these weapons and armor improve, harm, or do nothing to your experience.
 2. Added Superior Spell Thief.
 3. Added Halsin and Minthara Tents Seperated. If you are already in act 2/3 and updating Listo, disable this mod.
 4. Added Dark Urges T2/T4 Heads. This mod replaces Dissidia Heads (replaced). If your Tav/Durge is a male tiefling, human, elf, or half-elf using one of Dissidia's Heads, this update is not save safe (unless you re-add it manually).
