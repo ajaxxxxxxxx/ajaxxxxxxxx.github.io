@@ -13,9 +13,9 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.0.2 (WIP not released)
+## Listonomicon v3.1.0 (WIP not released)
 
-Save Safe? Yeah for most people.
+Save Safe? Yeah for most people. You may want/need to respec some characters based on changes and updates.
 
 **Combat Extender**
 
@@ -50,6 +50,18 @@ Easy Config Specific:
 3. Added Halsin and Minthara Tents Seperated. If you are already in act 2/3 and updating Listo, disable this mod.
 4. Added Dark Urges T2/T4 Heads. This mod replaces Dissidia Heads (replaced). If your Tav/Durge is a male tiefling, human, elf, or half-elf using one of Dissidia's Heads, this update is not save safe (unless you re-add it manually).
 5. Added Frostborn, Lightbringer, Shadowbound, Sprinter-Momentum, True Soul - Branded, and Infernal Heart feats. These feats replicate a combination of minor magic items.
+6. Added Zerd's Rules as Written (ZRAW) - with very specifically chosen enabled/disabled features to fit the rest of Listo.
+   * Attunement Enabled, and players are now limited to 5 attuned magic items. Not all magic items require attunement. This is going to disrupt a lot of magic item stacks and meta, but it will also hopefully bring down the overall power ceiling in Listo.
+   * Barbarian wild magic fixes enabled.
+   * Free Weapon Equip enabled (you can equip a new weapon once per turn without spending your action)
+   * Instant Death enabled. If you are absolutely nuked by an attack that does more damage that your maximum HP, you just die. For example if you have 50 HP and a single attack does 51 damage, you are killed instantly. Let me know if this ever actually happens.
+   * Invisibility changes enabled. The "Sense Hidden Presence" action added by ZRAW is a way to ensure everyone has a means to try to detect invisible enemies. The searching for invisible enemies bonus action added by Skill Actions is a reward for characters with the perception proficiency, because they can choose to use a bonus action instead and can make 2 attempts in one turn to search.
+   * Changes to Spells enabled.
+   * Changes to spells to match tabletop's bonus action rules enabled (you cannot combine a spell that takes a bonus action with a leveled spell cast, unless you have Quickened Metamagic or another mechanic that overcomes the book rules).
+   * Spells On Apply and On Turn enabled. Essentially this changes spells like Spirit Guardians to trigger when an enemy starts in them or enters them. Not when a player uses haste and dash to run in and out of range over and over again to trigger spirit guardians damage 50 times in 1 turn.
+   * Every ZRAW feature not mentioned is disabled.
+8. Added True Darkness, which changes how the Darkness spell and Arrows of Darkness work. This also makes shadow sorcerers and warlocks much more powerful by enabling the recreation of tabletop darkness cheese.
+9. Added Syrc's Rebalance for Class Spells, which makes some vanilla class features better unless already improved by another mod.
 
 ## Listonomicon v3.0.1
 
