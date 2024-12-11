@@ -37,6 +37,7 @@ The following was enabled by the hard work of Cahoot and his willingness to shar
 13. All of the Act 3 dopplegangers, assassins, murder tribunal people, etc are rangers or rogues (with a handful of casters and barbarians).
 14. In total, 30 Act 3 enemies have been improved thanks to Cahoot.
 15. 4 Act 2 enemies have CX entries now. Several Act 1 and Act 2 entries are improved.
+16. Inspired by Cahoot, I've also added passives, spells, and abilities to hopefully revamp the Silent Library fight in the Temple of Shar. Furthermore, Viconia's chief guards are now worthy paladins who will punish any players unprepared to counterattack their darkness!
 
 Easy Config Specific:
 1. Removed multiattack defense.
