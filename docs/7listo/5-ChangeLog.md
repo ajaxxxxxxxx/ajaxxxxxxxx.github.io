@@ -59,6 +59,7 @@ Easy Config Specific:
    * Changes to Spells enabled.
    * Changes to spells to match tabletop's bonus action rules enabled (you cannot combine a spell that takes a bonus action with a leveled spell cast, unless you have Quickened Metamagic or another mechanic that overcomes the book rules).
    * Spells On Apply and On Turn enabled. Essentially this changes spells like Spirit Guardians to trigger when an enemy starts in them or enters them. Not when a player uses haste and dash to run in and out of range over and over again to trigger spirit guardians damage 50 times in 1 turn.
+   * You can cast spells/maintain concentration and mix it with wildshape!
    * Every ZRAW feature not mentioned is disabled.
 8. Added True Darkness, which changes how the Darkness spell and Arrows of Darkness work. This also makes shadow sorcerers and warlocks much more powerful by enabling the recreation of tabletop darkness cheese.
 9. Added Syrc's Rebalance for Class Spells, which makes some vanilla class features better unless already improved by another mod.
