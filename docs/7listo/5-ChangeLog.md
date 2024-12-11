@@ -62,6 +62,14 @@ Easy Config Specific:
    * Every ZRAW feature not mentioned is disabled.
 8. Added True Darkness, which changes how the Darkness spell and Arrows of Darkness work. This also makes shadow sorcerers and warlocks much more powerful by enabling the recreation of tabletop darkness cheese.
 9. Added Syrc's Rebalance for Class Spells, which makes some vanilla class features better unless already improved by another mod.
+10. Incorporated a massive number of Goon's DIQ fixes. Kind of a weird full circle from April, DIQ's original "dye treasure table fixes" was how we met and became aware of each-other's lists, and then we left and did our own things, then Goon started asking ME for help/ideas, and here I am stealing from him again.
+    * Fixes to the Tomes mod
+    * Fixes to JWL Discordant Instruments, removing a lot of damage riders, abuse, and unintended power creep
+    * Consolidation of a lot of misc trade items to Withers (dyes, clothes, etc)
+    * The "Adjustable Shove-Pull Target" mod effect has inspired similar improvements to repelling blast and any/all other effects with knockback, granting players more granular precision with how and where they push or pull targets.
+    * Fixes to various tooltips.
+    * Fixes to various spells, equipment, and items across a dozen mods.
+    * Cannot overstate how thorough Goon has been in fixinig/improving/normalizing across DIQ, and how generous he is letting me copy his homework for Listo.
 
 ## Listonomicon v3.0.1
 
