@@ -33,7 +33,7 @@ A large problem with Skyrim, modded or not, is that it is party to a host of iss
 
 ### Disclaimer to the Above: 
 
-As for performance improvements, most of the testing that was done was done on a mid-end PC and performance was very manageable in most areas, with only large cities providing any issues. However, performance may very and further steps will be taken if possible to improve this.
+As for performance improvements, most of the testing that was done was done on a mid-end PC and performance was very manageable in most areas, with only large cities providing any issues. However, performance may vary and further steps will be taken if possible to improve this.
 
 ## And Much More!
 
