@@ -18,7 +18,7 @@ The passion for compiling this list is born of the unexpected love that BG3 reig
 
 We ask anyone who enjoys Listonomicon to, at a minimum, use MO2’s endorsement feature to show their appreciation to mod makers. We appreciate everyone involved in bringing new content to the game, as well as the facilitators of patches, community frameworks, script extenders, native mod loaders, and the hundred other things that are never seen in game but make the magic happen. We also ask that you report issues, crashes, or compatibility problems to us first! Individual mod makers do not want a flood of bug reports that may or may not be related to their mod, when there are hundreds of variables caused by the big list of Listonomicon.
 
-Finally, a big “Thank you!” again to the cthnonauts who volunteered to struggle with us through the many updates, hotfixes, community polls, tests, and revisions to reach Listonomicon 1.0. You helped us with everything from improving this documentation, to how we present Listo info, mod configurations, difficulty tweaks, new mods to include, and a better path to 1.0 and beyond than we would have found without you. Some of you spent hours diagnosing multiplayer issues, or figuring out why heads were missing in character creation, and gave us the confidence to keep going after an exhausted v0.9 release. 1.0 would not be released with confidence without the help, support, fun, memes, screenshots, complaints, suggestions, testing, and love of the BYC community. Listo 2.0, the big move to no longer require BG3MM (and to reduce the install process by 4 steps!), was made possible by the hard work and testing of Zino, who published the newer better faster smarter MO2-BG3 plugin.
+Finally, a big “Thank you!” again to the cthnonauts who volunteered to struggle with us through the many updates, hotfixes, community polls, tests, and revisions to reach Listonomicon 1.0. You helped us with everything from improving this documentation, to how we present Listo info, mod configurations, difficulty tweaks, new mods to include, and a better path to 1.0 and beyond than we would have found without you. Some of you spent hours diagnosing multiplayer issues, or figuring out why heads were missing in character creation, and gave us the confidence to keep going after an exhausted v0.9 release. 1.0 would not be released with confidence without the help, support, fun, memes, screenshots, complaints, suggestions, testing, and love of the BYC community. Listo 2.0, the big move to no longer require BG3MM (and to reduce the install process by 4 steps!), was made possible by the hard work and testing of Zino, who published the newer better faster smarter MO2-BG3 plugin. Listo 3.0 was built on the feedback, help, and involvement of the community across polls and good conversations.
 
 -Ajax
 
@@ -63,7 +63,7 @@ No support is offered or guaranteed for anyone who modifies the behavior or cont
 
 ## DO NOT ASK USERS IN THE BALDUR'S GATE 3 OR OTHER DISCORDS FOR HELP
 
-Please source all help to our discord alone. Even if you think that your question relates to your installation of Baldur's Gate 3 itself, please bring it into our discord. The authors of the many, many mods of Listonomicon do not want to diagnose problems in a list this large.
+Please source all help to our discord alone. Even if you think that your question relates to your installation of Baldur's Gate 3 itself, please bring it into our discord. The authors of the many, many mods of Listonomicon do not want to diagnose problems in a list this large. Give us the first chance to make sure any issues you face are not Listo-specific, before asking for help elsewhere.
 :::
 
 ![BirdJax](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/BirdJaxBae.png)
@@ -90,7 +90,7 @@ Enemy casters should have access to 5e spells and Homebrew spells. The list enab
 
 ## Multiplayer Compatibility
 
-There is no promise that coop will never be sacrificed due to a future mod being incompatible, but too compelling to leave out of Listo. But for the time being, Listo remains functional for a full, fun, multiplayer experience.
+There is no promise that coop will never be sacrificed due to a future mod being incompatible, but too compelling to leave out of Listo. However, for the time being, Listo remains functional for a full, fun, multiplayer experience (with a handful of vanilla MP bugs).
 
 ## A Platform to Enable Your Fun
 
