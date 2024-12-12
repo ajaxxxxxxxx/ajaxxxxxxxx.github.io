@@ -13,7 +13,7 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.1.0 (WIP not released)
+## Listonomicon v3.1.0
 
 Save Safe? Yes-ish for most people. You may want/need to respec some characters based on changes and updates. Please read patch notes, anyone continuing a game from v3.0.1 will need to enable OPTIONAL_Many More Monsters.
 
@@ -23,7 +23,7 @@ Save Safe? Yes-ish for most people. You may want/need to respec some characters 
 2. Reduced static and scaling health boosts to enemies slightly (like 0.005).
 3. Redid all Branded enemies (Nere, Z'Rell, Priestess Gut, Dror, etc based on giving them a shared Absolute feat).
 4. Nerfed Oubliette Beholder (no multiattack defense, no alert feat).
-5. Grym is more focused on applying burning and fire damage, and punishing you for burning and taking fire damage.
+5. Grym is more focused on applying burning and fire damage, and punishing you for burning and taking fire damage. Features that didn't work/changes that didn't work were removed to reduce clutter when previewing his stats page.
 6. Dhourn (needs testing) and Filro now provide a preview of what their magic staff does :)
 7. Aylin and Isobel hand out radiating orbs like candy.
 8. Lots of other little tweaks to balance enemies around a different set of passives similar to what players get access to via magic items.
@@ -38,7 +38,7 @@ The following was enabled by the hard work of Cahoot and his willingness to shar
 14. In total, 30 Act 3 enemies have been improved thanks to Cahoot.
 15. 4 Act 2 enemies have CX entries now. Several Act 1 and Act 2 entries are improved.
 16. Inspired by Cahoot, I've also added passives, spells, and abilities to hopefully revamp the Silent Library fight in the Temple of Shar. Furthermore, Viconia's chief guards are now worthy paladins who will punish any players unprepared to counterattack their darkness!
-17. Incorporated Mystic "spells" (psionic attacks) to CX.
+17. Incorporated Mystic "spells" (psionic attacks) to CX. In the future I will have to figure out how to give selected AI the necessary Psi Point resources to actually use anything above cantrips.
 
 Easy Config Specific:
 1. Removed multiattack defense.
