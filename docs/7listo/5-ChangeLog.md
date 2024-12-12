@@ -51,7 +51,7 @@ Easy Config Specific:
 4. Added Dark Urges T2/T4 Heads. This mod replaces Dissidia Heads (replaced). If your Tav/Durge is a male tiefling, human, elf, or half-elf using one of Dissidia's Heads, this update is not save safe (unless you re-add it manually).
 5. Added Frostborn, Lightbringer, Shadowbound, Sprinter-Momentum, True Soul - Branded, and Infernal Heart feats. These feats replicate a combination of minor magic items.
 6. Added Zerd's Rules as Written (ZRAW) - with very specifically chosen enabled/disabled features to fit the rest of Listo.
-   * Attunement Enabled, and players are now limited to 5 attuned magic items. Not all magic items require attunement. This is going to disrupt a lot of magic item stacks and meta, but it will also hopefully bring down the overall power ceiling in Listo.
+   * Attunement Enabled, and **players are now limited to 5 attuned magic items**. Not all magic items require attunement. This is going to disrupt a lot of magic item stacks and meta, but it will also hopefully bring down the overall power ceiling in Listo in a sensible way. Most of Zerd's vanilla attunement changes are kept, minus 16 items. Across all of Listo's mods, 323 items will now require attunement. "Ajax how will I make my builds now?" There are so many possible combinations of _just the items requiring attunement_ (not counting every magic item unaffected by this change) that calculating the total caused the first 4 online calculators I tried to error out. There are 2.840029438 E+10 possible combinations of just the items manually added to the attune list.
    * Barbarian wild magic fixes enabled.
    * Free Weapon Equip enabled (you can equip a new weapon once per turn without spending your action)
    * Instant Death enabled. If you are absolutely nuked by an attack that does more damage that your maximum HP, you just die. For example if you have 50 HP and a single attack does 51 damage, you are killed instantly. Let me know if this ever actually happens.
@@ -71,6 +71,7 @@ Easy Config Specific:
     * Fixes to various tooltips.
     * Fixes to various spells, equipment, and items across a dozen mods.
     * Cannot overstate how thorough Goon has been in fixinig/improving/normalizing across DIQ, and how generous he is letting me copy his homework for Listo.
+11. Replaced old Corellon's Fist QoL quarterstaff fix mod with Chiz's new Corellon's Fist QoL quarterstaff fix mod. Thanks Chiz.
 
 ## Listonomicon v3.0.1
 
