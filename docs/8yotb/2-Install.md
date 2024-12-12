@@ -25,10 +25,10 @@ description: Year of the Blight Installation Guide
 
 ### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/YotB) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
 
-## 6.) In MO2, install DAZIPs by selecting "DAUpdater" in the top right dropdown menu, then point it to the DAZIPs folder located in your installation folder, select all of the DAZIPs within DAUpdater, and choose Install Selected, then close the program
+### 6.) In MO2, install DAZIPs by selecting "DAUpdater" in the top right dropdown menu, then point it to the DAZIPs folder located in your installation folder, select all of the DAZIPs within DAUpdater, and choose Install Selected, then close the program
 
-## 7.) In the same dropdown menu, select "FIX_DLC", it will open a command prompt, then press any button to continue
+### 7.) In the same dropdown menu, select "FIX_DLC", it will open a command prompt, then press any button to continue
 
-## 8.) Find the folder titled "Move to Game Folder" in your installation folder, and copy any files to your base game directory, overwriting any conflicting files
+### 8.) Find the folder titled "Move to Game Folder" in your installation folder, and copy any files to your base game directory, overwriting any conflicting files
 
 ### 9.) You can now select “Year of the Blight” from the right hand dropdown and press play  
