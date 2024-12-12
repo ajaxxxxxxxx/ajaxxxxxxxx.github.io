@@ -15,7 +15,7 @@ description: Listonomicon
 
 ## Listonomicon v3.1.0 (WIP not released)
 
-Save Safe? Yeah for most people. You may want/need to respec some characters based on changes and updates.
+Save Safe? Yes-ish for most people. You may want/need to respec some characters based on changes and updates. Please read patch notes, anyone continuing a game from v3.0.1 will need to enable OPTIONAL_Many More Monsters.
 
 **Combat Extender**
 
@@ -38,6 +38,7 @@ The following was enabled by the hard work of Cahoot and his willingness to shar
 14. In total, 30 Act 3 enemies have been improved thanks to Cahoot.
 15. 4 Act 2 enemies have CX entries now. Several Act 1 and Act 2 entries are improved.
 16. Inspired by Cahoot, I've also added passives, spells, and abilities to hopefully revamp the Silent Library fight in the Temple of Shar. Furthermore, Viconia's chief guards are now worthy paladins who will punish any players unprepared to counterattack their darkness!
+17. Incorporated Mystic "spells" (psionic attacks) to CX.
 
 Easy Config Specific:
 1. Removed multiattack defense.
@@ -72,6 +73,7 @@ Easy Config Specific:
     * Fixes to various spells, equipment, and items across a dozen mods.
     * Cannot overstate how thorough Goon has been in fixinig/improving/normalizing across DIQ, and how generous he is letting me copy his homework for Listo.
 11. Replaced old Corellon's Fist QoL quarterstaff fix mod with Chiz's new Corellon's Fist QoL quarterstaff fix mod. Thanks Chiz.
+12. Many More Monsters (MMM) is back to being an optional mod, and is included in Listo in its full glory. Turns out my patch is what causes Grym to be unable to spawn, and I have zero idea how to fix it. If you are continuing a game from v3.0.1 enable OPTIONAL_Many More Monsters.
 
 ## Listonomicon v3.0.1
 
