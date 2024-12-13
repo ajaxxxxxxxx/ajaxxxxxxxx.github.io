@@ -23,7 +23,7 @@ description: Year of the Blight Installation Guide
 
 ### 3.) Launch your installed Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here
 
-### 4.) Select Install From Disk and locate the YotB Wabbajack file
+### 4.) Download the file from the [GitHub](https://github.com/CamIce2002/YearoftheBlight), select Install From Disk in Wabbajack, and locate the YotB Wabbajack file
 
 ### 5.) Set your modlist installation location to wherever your would like it (IE: C:/Modlists/YotB) & it will automatically create the downloads directory for you. Press the play button when you are done and installation will begin
 
