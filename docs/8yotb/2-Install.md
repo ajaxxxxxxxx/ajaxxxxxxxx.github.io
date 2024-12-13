@@ -8,7 +8,7 @@ description: Year of the Blight Installation Guide
 :::info
 ## **Requirements:**
 - ~8GB of space, 2GB from downloads can be deleted after installation is complete 
-- A legal copy of Dragon Age Origins Ultimate Edition from steam updated to the most recent version  
+- A legal copy of Dragon Age Origins Ultimate Edition updated to the most recent version  
 :::
 
 # **Part 1: Installation Guide**
