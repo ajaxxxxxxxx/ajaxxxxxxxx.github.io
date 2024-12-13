@@ -19,6 +19,8 @@ description: Year of the Blight Installation Guide
 
 ### 2.) Make sure the game has been ran at least once and your video settings have been configured
 
+> If the "other campaigns" button is darkened or doesn't include all DLCs, exit the game and navigate to Steam/steamapps/common/Dragon Age Ultimate Edition/redist, and run "DAOU_UpdateAddinsXML_Steam.exe".
+
 ### 3.) Launch your installed Wabbajack & go to the Cogwheel at the top right. Log into your Nexus account through here
 
 ### 4.) Select Install From Disk and locate the YotB Wabbajack file
