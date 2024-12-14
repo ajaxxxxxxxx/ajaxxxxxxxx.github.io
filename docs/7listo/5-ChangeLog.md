@@ -30,7 +30,8 @@ Save Safe? Yes.
 10. Fixed the load order (hopefully) on Soul Coin Tweaks, so that everyone - not just Karlach - can pop them for a DPS bonus if needed.
 11. Added Jack of all Trades Affects Initiative.
 12. Updated Ajax's Degreaser to include an Act 1 item for sale that grants immunity to being disarmed. Also adds another cool cloak to Act 3. Nerfs Mantle of Ajax, Necrotic Conduit, and Radiant Conduit.
-13. Lathander's Blood's defenders are more competent than ever.
+13. Lathander's Blood's defenders are more competent than ever (they will not be cheesed by being blasted off their platform, have Lathander-type abilities and effects, and bring fighter/cleric/paladin boons).
+14. Listo "Easy" CX config updated to reflect big changes to main CX.
 
 **PF2e Spells Is Back! (Kinda)**
 I've tried my hand at patching PF2e spells to include the great ones, fix the good ones, remove the bad ones, balance everything the way 5e is designed, and fix typos/errors. All references to "2e" have been removed from spell names. Spells that scaled by adding +2 dice per spell level instead of +1 have been reduced to +1/slot. This also means PF2e spells are back for many of your enemies!
