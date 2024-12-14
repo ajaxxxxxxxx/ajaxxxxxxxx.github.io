@@ -32,6 +32,175 @@ Save Safe? Yes.
 12. Updated Ajax's Degreaser to include an Act 1 item for sale that grants immunity to being disarmed. Also adds another cool cloak to Act 3. Nerfs Mantle of Ajax, Necrotic Conduit, and Radiant Conduit.
 13. Lathander's Blood's defenders are more competent than ever.
 
+**PF2e Spells Is Back! (Kinda)**
+I've tried my hand at patching PF2e spells to include the great ones, fix the good ones, remove the bad ones, balance everything the way 5e is designed, and fix typos/errors. All references to "2e" have been removed from spell names. Spells that scaled by adding +2 dice per spell level instead of +1 have been reduced to +1/slot. This also means PF2e spells are back for many of your enemies!
+
+The following spells are re-added to Listo:
+
+* Admonishing Ray 2e
+* Aerial Form 2e
+* Angel Form 2e
+* Ant Haul 2e
+* Blazing Fissure
+* Blood Feast 2e - base damage is reduced to 6d6
+* Chilling Darkness
+* Cloak of Light 2e
+* Conductive Weapon 2e
+* Cosmic Form 2e
+* Crushing Despair 2e
+* Devil Form 2e
+* Dinosaur Form 2e
+* Discern Lies 2e
+* Eclipse Burst 2e - base damage is reduced to 8d8
+* Elemental Confluence 2e
+* Elemental Form 2e
+* Envenom Companion 2e
+* Fey Form 2e
+* Firework Blast 2e
+* Focusing Hum 2e
+* Ghostly Weapon 2e
+* Girzanje's March 2e
+* Hydraulic Push 2e
+* Hydraulic Torrent 2e
+* Mercurial Stride 2e - base damage reduced to 3d6
+* Monstrosity Form 2e
+* Moonburst 2e - base damage reduced to 8d8
+* Moonlight Ray
+* Percussive Impact 2e
+* Phase Bolt 2e - base damage no longer adds the user's spell casting modifier. The penalty to target armor class is only -1.
+* Polar Ray 2e - enemies receive a CON save vs spellcaster DC to try to avoid being Drained.
+* Radiant Beam 2e - not actually useable by the player, but it's an action unlocked by Angel Form.
+* Scouring Pulse 2e
+* Searing Light 2e
+* Snowball 2e
+* Sound Burst 2e
+* Summon Archmage 2e
+* Summon Fey
+* Telekinetic Maneuver 2e
+* Wall of Shrubs 2e
+* Warp Step 2e
+* Warrior's Regret 2e
+* Aberrant Form 2e
+* Agonizing Despair
+* Divine Lance 2e - damage reduced, no longer adds spellcaster modifier to damage.
+* Final Sacrifice 2e - damage reduced significantly.
+* Fists of Fire
+* Forceful Hand 2e
+* Hyponetic Terror 2e
+* Mimic Undead 2e - now lasts until long rest.
+* Motivational Speech
+* Repelling Pulse 2e - base damage reduced to 6d8.
+* Summon Irii - typo fixes, hopefully.
+
+The following PF2e spells are removed in Listo:
+
+* Anticipate Peril
+* Biting Words 2e
+* Blanket of Stars 2e
+* Blazing Armory 2e
+* Blink Charge 2e
+* Blistering Invective 2e
+* Breath of Life 2e
+* Briny Bolt 2e
+* Clawsong 2e
+* Agitate 2e
+* Color Spray 2e
+* Draw Ire 2e
+* Endure 2e
+* Mage Armor 2e
+* Magic Missile 2e
+* Sleep 2e
+* Concordant Choir 2e
+* Remove Fear 2e
+* Remove Paralysis 2e
+* Resist Energy 2e
+* Restore Senses 2e
+* Loose Time's Arrow 2e
+* Impart Empathy 2e
+* Feast of Ashes 2e
+* Death Knell 2e
+* Blood Vendetta 2e
+* Chill Touch 2e
+* Daze 2e
+* Guidance 2e
+* Haunting Hymn 2e
+* Vampiric Touch 2e
+* Organsight 2e
+* Moth's Supper 2e
+* Invisibility Sphere 2e
+* Heroism 2e
+* Haste 2e
+* Bracing Tendril 2e
+* Bind Undead 2e
+* Time Jump 2e
+* Winning Streak 2e
+* Bloodspray Curse 2e
+* Blink 2e
+* Flame Dancer
+* Death Ward 2e
+* Belittling Boast 2e
+* Spellwrack 2e
+* Repulsion 2e
+* Phantom Orchestra 2e
+* Cast Into Time 2e
+* True Target 2e
+* Shock to the System 2e
+* Regenerate 2e
+* Prismatic Armor 2e
+* Energy Aegis 2e
+* Maze 2e
+* Disrupt Undead
+* Summon Deific Herald 2e
+* Moment of Renewal 2e
+* Righteous Might 2e
+* Necrotize 2e
+* Vital Beacon 2e
+* Consecrated Flesh
+* Positive Attunement 2e
+* Create Food 2e
+* Impeccable Flow 2e
+* Boneshaker 2e
+* Harm 2e
+* Heal 2e
+* Airburst 2e
+* Acid Splash 2e
+* Electric Arc 2e
+* Elemental Counter 2e
+* Firebolt HB
+* Gale Blast 2e
+* Glass Shield 2e
+* Magic Stone
+* Ray of Frost HB
+* Puff of Poison 2e
+* Mud Pit 2e
+* Shocking Grasp 2e
+* Burning Hands 2e
+* Fleet Step 2e
+* Jump 2e
+* Extract Poison 2e
+* Brine Dragon Bile 2e
+* Scorching Ray 2e
+* Acid Arrow 2e
+* Flame Wips 2e
+* Barksin 2e
+* Blazing Dive 2e
+* Lightning Bolt 2e
+* Stoneskin 2e
+* Zephyr Slip 2e
+* Weapon Storm 2e
+* Fire Shield 2e
+* Draw the Lightning 2e
+* Chain Lightning 2e
+* Corrosive Body 2e
+* Befuddle 2e
+* Horizon Thunder Sphere 2e
+* Fireball 2e
+* Cone of Cold 2e
+* Fireproof 2e
+* Ooze Form 2e
+* Shadow Projectile 2e
+* Waterproof 2e
+
 ## Listonomicon v3.1.0
 
 Save Safe? Yes-ish for most people. You may want/need to respec some characters based on changes and updates. Please read patch notes, anyone continuing a game from v3.0.1 will need to enable OPTIONAL_Many More Monsters.
