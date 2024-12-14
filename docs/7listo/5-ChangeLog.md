@@ -52,7 +52,7 @@ The following spells are re-added to Listo:
 * Dinosaur Form 2e
 * Discern Lies 2e
 * Eclipse Burst 2e - base damage is reduced to 8d8
-* Elemental Confluence 2e
+* Elemental Confluence 2e - broken tooltip
 * Elemental Form 2e
 * Envenom Companion 2e
 * Fey Form 2e
@@ -64,11 +64,11 @@ The following spells are re-added to Listo:
 * Hydraulic Torrent 2e
 * Mercurial Stride 2e - base damage reduced to 3d6
 * Monstrosity Form 2e
-* Moonburst 2e - base damage reduced to 8d8
+* Moonburst 2e - base damage reduced to 8d8. The name appears as "Not Found" because I broke it :(
 * Moonlight Ray
 * Percussive Impact 2e
-* Phase Bolt 2e - base damage no longer adds the user's spell casting modifier. The penalty to target armor class is only -1.
-* Polar Ray 2e - enemies receive a CON save vs spellcaster DC to try to avoid being Drained.
+* Phase Bolt 2e - base damage no longer adds the user's spell casting modifier. The penalty to target armor class is only -1. The tooltip for this is not super accurate :( sorry I don't know how to fix it.
+* Polar Ray 2e - enemies receive a CON save vs spellcaster DC to try to avoid being Drained. Tooltip is very broken.
 * Radiant Beam 2e - not actually useable by the player, but it's an action unlocked by Angel Form.
 * Scouring Pulse 2e
 * Searing Light 2e
