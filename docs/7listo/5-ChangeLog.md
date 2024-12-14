@@ -13,6 +13,22 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.1.1 (WIP)
+
+Save Safe? Yes.
+
+1. Disabled Zerd RAW's changes to invisibility.
+2. Re-added (See) Invisibility.
+3. Reordered mods so that Sensible Ambushing is below Zerd.
+   * Ideally this restores the state of stealth/invisibility/ambushes/QOL/mechanics from before v3.1.0 broke this stuff. Sorry, experiment was a fail :)
+4. Small tweaks to fix some cheese/exploit of several enemies by giving them the ability to jump.
+5. Removed Holy Rebuke from 3 enemies. I had this passive mixed up with *Radiant Retort* which is very, very different.
+6. Removed Lifedrinker from several enemies because it doesn't do anything. Giving people abilities that affect pact weapons requires them to have pact weapons, and that needs its own mod not CX tweaks.
+7. Added Sarevok's 3 ghost guards to CX.
+8. Orin finally has her own CX entry. She should now be a proper end-of-the-start-of-the-end-game fight, especially if you fight her as not Durge (and therefor have to fight her entire room of goons with her).
+9. Many enemies given the two weapon fighting style are now also given part of the Dual Wielder feat.
+10. Fixed the load order (hopefully) on Soul Coin Tweaks, so that everyone - not just Karlach - can pop them for a DPS bonus if needed.
+
 ## Listonomicon v3.1.0
 
 Save Safe? Yes-ish for most people. You may want/need to respec some characters based on changes and updates. Please read patch notes, anyone continuing a game from v3.0.1 will need to enable OPTIONAL_Many More Monsters.
