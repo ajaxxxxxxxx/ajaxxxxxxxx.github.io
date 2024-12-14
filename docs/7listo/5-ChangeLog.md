@@ -28,6 +28,9 @@ Save Safe? Yes.
 8. Orin finally has her own CX entry. She should now be a proper end-of-the-start-of-the-end-game fight, especially if you fight her as not Durge (and therefor have to fight her entire room of goons with her).
 9. Many enemies given the two weapon fighting style are now also given part of the Dual Wielder feat.
 10. Fixed the load order (hopefully) on Soul Coin Tweaks, so that everyone - not just Karlach - can pop them for a DPS bonus if needed.
+11. Added Jack of all Trades Affects Initiative.
+12. Updated Ajax's Degreaser to include an Act 1 item for sale that grants immunity to being disarmed. Also adds another cool cloak to Act 3. Nerfs Mantle of Ajax, Necrotic Conduit, and Radiant Conduit.
+13. Lathander's Blood's defenders are more competent than ever.
 
 ## Listonomicon v3.1.0
 
