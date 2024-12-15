@@ -13,6 +13,12 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.x (WIP not released)
+
+Save Safe? Yes.
+
+Added 151 items to the "does not require attunement" list. This includes vanilla items that are generic +1 or +2, niche, gimmick, not very powerful, sussur weapons, and adamantium weapons.
+
 ## Listonomicon v3.1.1
 
 Save Safe? Yes.
