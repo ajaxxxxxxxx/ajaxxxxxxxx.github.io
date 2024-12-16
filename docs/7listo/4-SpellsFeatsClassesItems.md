@@ -27,7 +27,7 @@ Speak with Animals and Longstrider are AoE casts that last until long rest, dram
 
 Illithid Powers are [significantly revamped](https://www.nexusmods.com/baldursgate3/mods/5105?tab=files). If you choose to use the astral tadpole, Illithid Powers are very powerful in Act 3.
 
-## 5e, Homebrew, and Spells Extra
+## 5e, Homebrew, Spells Extra, and Pathfinder
 
 [5e Spells](https://www.nexusmods.com/baldursgate3/mods/125) adds a variety of tabletop spells missing from BG3. [Valdacil's adjustment mod](https://www.nexusmods.com/baldursgate3/mods/4426?tab=description) rebalances several of the spells based on the philosophy Larian applied with the spells they included in the game. So expect the spells you love from D&D but don't expect all of them to work exactly like they do in the book.
 
@@ -36,6 +36,8 @@ Illithid Powers are [significantly revamped](https://www.nexusmods.com/baldursga
 [Spells Extra](https://www.nexusmods.com/baldursgate3/mods/11291) is used to cover any missing spells needed by Luma's various subclass mods.
 
 [Valdacil's Mystic Rebalance](https://www.nexusmods.com/baldursgate3/mods/4426) changes how some Mystic features/abilities/psionic foci/spells work compared to the mod page descriptions.
+
+PF2e Spells has been patched for Listo. The patch removes something like 131 spells that don't fit 5e from the spell lists of each class, as well as the Action -> Bonus Action conversion and other idiosyncrasies caused by the difference in rule systems between DnD5e and Pathfinder 2nd Edition. Of the 50-something spells remaining, many have been rebalanced, the mechanics have been changed slightly, and/or the tooltips have been cleaned up where possible. Specifically, many of the cantrips added start at only 1d4 damage, but they improve slightly faster than 5e cantrips (gains an extra die at level 3 instead of waiting until level 5). Overall the damage is lower, but it adds a reliable spell attack cantrip for Clerics and it adds Phase Bolt, which is unto itself a weak cantrip in terms of dice but it can go around corners like Magic Missile, and applies a -1 AC debuff to targets. Other spells include many alternates to polymorph/shapeshifting, powerful AoEs specialized in combatting particular types of enemies, new summons, buffs for allies and debuffs for enemies, and all variety of new attacks. Beware your enemies have access to many of these new spells as well!
 
 ## New and Changed Feats
 
