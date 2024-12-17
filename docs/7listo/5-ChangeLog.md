@@ -15,7 +15,7 @@ description: Listonomicon
 
 ## Listonomicon v3.x (WIP not released)
 
-Save Safe? Yes.
+Save Safe? Yes-ish. Before updating, load your save and in the SE Console use the command !UniqueGearTitanStringUninstall, then make a new save, then update. OR update, and then manually re-add [Unique Gear - Titanstring - B](https://www.nexusmods.com/baldursgate3/mods/1261).
 
 1. Added 151 items to the "does not require attunement" list. This includes vanilla items that are generic +1 or +2, niche, gimmick, not very powerful, sussur weapons, and adamantium weapons.
 2. Changed Exhaustion to trigger after 21 turns of combat rather than 15 (the primary source of Exhaustion is being downed, being killed, or running away from combat).
@@ -23,6 +23,9 @@ Save Safe? Yes.
 4. Added several ettercap attendants and their pet oozes to the Spider Matriarch's boss room.
 5. Added ettercaps to infest part of "Ketheric City"
 6. Added more magma elementals.
+7. Added Heads for Body Type 1 by CobraChai.
+8. REPLACED Unique Gear: Titanstring with Ajax's titanstring bows (part of DeGreaser because apparently if I try to make a new mod I completely forget what I'm doing and it doesn't work).
+9. Removed not working scars. You may need to hit the magic mirror and go to "No Scars" before updating.
 
 ## Listonomicon v3.1.1
 
