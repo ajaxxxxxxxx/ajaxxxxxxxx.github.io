@@ -17,7 +17,12 @@ description: Listonomicon
 
 Save Safe? Yes.
 
-Added 151 items to the "does not require attunement" list. This includes vanilla items that are generic +1 or +2, niche, gimmick, not very powerful, sussur weapons, and adamantium weapons. Changed Exhaustion to trigger after 21 turns of combat rather than 15 (the primary source of Exhaustion is being downed, being killed, or running away from combat). Updated Listo's PF2e patch to align the distribution of spells according to [this document](https://docs.google.com/spreadsheets/d/1p4GxQNi678ug7-I_-wUau9Pr7YQ5GW-EuHbfeSolNh4/edit?usp=sharing), which means many classes have lost access to pathfinder spells. This redistribution is intended to more closely match the class identity differences of 5e to help keep each class distinct and meaningful.
+1. Added 151 items to the "does not require attunement" list. This includes vanilla items that are generic +1 or +2, niche, gimmick, not very powerful, sussur weapons, and adamantium weapons.
+2. Changed Exhaustion to trigger after 21 turns of combat rather than 15 (the primary source of Exhaustion is being downed, being killed, or running away from combat).
+3. Doubled the number of enemies (via CX cloning) defending the Blood of Lathander + improved the original 3 guards.
+4. Added several ettercap attendants and their pet oozes to the Spider Matriarch's boss room.
+5. Added ettercaps to infest part of "Ketheric City"
+6. Added more magma elementals.
 
 ## Listonomicon v3.1.1
 
