@@ -36,6 +36,7 @@ Save Safe? Yes-ish. Before updating, load your save and in the SE Console use th
 17. Improved the danger of Carrion's servants. Both the mummys in the house around him, as well as the ones guarding the Ancient Lair, are more dangerous.
 18. Using CX cloning, added an additional undead fight to the Ancient Lair.
 19. Further easy-ify'd the Listo Easy config.
+20. Gave the Phase Spider Matriarch vulnerability to fire (in a way), but she also gained infestation.
 
 ## Listonomicon v3.1.1
 
