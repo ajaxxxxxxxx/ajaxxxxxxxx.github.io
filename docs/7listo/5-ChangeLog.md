@@ -17,6 +17,8 @@ description: Listonomicon
 
 Save Safe? Yes-ish. Before updating, load your save and in the SE Console use the command !UniqueGearTitanStringUninstall, then make a new save, then update. OR update, and then manually re-add [Unique Gear - Titanstring - B](https://www.nexusmods.com/baldursgate3/mods/1261).
 
+This update is going to experiment with NOT including the ModsCache with the Wabba download. Anyone updating a current game should delete theirs in [Listo install location]/Profiles/Listonomicon, anyone starting a brand new game hopefully this is more reliable with having the correct mods loaded and enabled in-game on your first launch.
+
 1. Added 151 items to the "does not require attunement" list. This includes vanilla items that are generic +1 or +2, niche, gimmick, not very powerful, sussur weapons, and adamantium weapons.
 2. Changed Exhaustion to trigger after 21 turns of combat rather than 15 (the primary source of Exhaustion is being downed, being killed, or running away from combat).
 3. Doubled the number of enemies (via CX cloning) defending the Blood of Lathander + improved the original 3 guards.
