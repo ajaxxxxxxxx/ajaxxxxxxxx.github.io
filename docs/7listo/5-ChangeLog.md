@@ -13,7 +13,7 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.x (WIP not released)
+## Listonomicon v3.2
 
 Save Safe? Yes-ish. Before updating, load your save and in the SE Console use the command !UniqueGearTitanStringUninstall, then make a new save, then update. OR update, and then manually re-add [Unique Gear - Titanstring - B](https://www.nexusmods.com/baldursgate3/mods/1261).
 
@@ -32,9 +32,10 @@ Save Safe? Yes-ish. Before updating, load your save and in the SE Console use th
 13. Added, on top of 3 new magic bows, a magic halberd and a magic dagger sold by the Society of Brilliance rep near the Creche.
 14. Other CX tweaks. Other CX cloning.
 15. Added Pact and Power, a mod for Warlock gear.
-16. Integrated PP in the attunement item list and integrated some of its passives and features into CX.
+16. Integrated PP in the attunement item list and integrated some of its passives and features into CX. The total attunement file is now 345 items, across 31 different mods.
 17. Improved the danger of Carrion's servants. Both the mummys in the house around him, as well as the ones guarding the Ancient Lair, are more dangerous.
 18. Using CX cloning, added an additional undead fight to the Ancient Lair.
+19. Further easy-ify'd the Listo Easy config.
 
 ## Listonomicon v3.1.1
 
