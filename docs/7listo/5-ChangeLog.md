@@ -31,6 +31,10 @@ Save Safe? Yes-ish. Before updating, load your save and in the SE Console use th
 12. Malus Thorm and his assistants are more respectable combatants.
 13. Added, on top of 3 new magic bows, a magic halberd and a magic dagger sold by the Society of Brilliance rep near the Creche.
 14. Other CX tweaks. Other CX cloning.
+15. Added Pact and Power, a mod for Warlock gear.
+16. Integrated PP in the attunement item list and integrated some of its passives and features into CX.
+17. Improved the danger of Carrion's servants. Both the mummys in the house around him, as well as the ones guarding the Ancient Lair, are more dangerous.
+18. Using CX cloning, added an additional undead fight to the Ancient Lair.
 
 ## Listonomicon v3.1.1
 
