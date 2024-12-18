@@ -21,11 +21,16 @@ Save Safe? Yes-ish. Before updating, load your save and in the SE Console use th
 2. Changed Exhaustion to trigger after 21 turns of combat rather than 15 (the primary source of Exhaustion is being downed, being killed, or running away from combat).
 3. Doubled the number of enemies (via CX cloning) defending the Blood of Lathander + improved the original 3 guards.
 4. Added several ettercap attendants and their pet oozes to the Spider Matriarch's boss room.
-5. Added ettercaps to infest part of "Ketheric City"
-6. Added more magma elementals.
+5. Added ettercaps to infest part of Grymforge.
+6. Added more magma elementals. There are now 5 to fight throughout the lava section of Grymforge.
 7. Added Heads for Body Type 1 by CobraChai.
 8. REPLACED Unique Gear: Titanstring with Ajax's titanstring bows (part of DeGreaser because apparently if I try to make a new mod I completely forget what I'm doing and it doesn't work).
 9. Removed not working scars. You may need to hit the magic mirror and go to "No Scars" before updating.
+10. The defenders of The Burning Earth are now prepared to fight a lot harder for it. The "back half" of Grymforge (e.g. everything around or involving the Adamantium Forge) should be saved for the last thing done in Act 1 before moving on to the Creche.
+11. A handful of enemies have been given access to fireworks. ;) Why? Funny
+12. Malus Thorm and his assistants are more respectable combatants.
+13. Added, on top of 3 new magic bows, a magic halberd and a magic dagger sold by the Society of Brilliance rep near the Creche.
+14. Other CX tweaks. Other CX cloning.
 
 ## Listonomicon v3.1.1
 
