@@ -13,6 +13,10 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.2.1 (WIP unreleased)
+
+1. Added about 50 new entries to Combat Extender to extensively cover Act 3. This includes all (or most) members of the Murder Tribunal, including the "Test" to impress the Tribunal; more members of the order of Bane, including firework shop guards, Steelwatch Foundry guards, Gortash's bodyguards, Gortash's office guards, and Gortash himself (Gortash is especially nasty now); and various murderers, cultists, and enemies encountered throughout the Lower City such as the ambush in the park.
+
 ## Listonomicon v3.2
 
 Save Safe? Yes-ish. Before updating, load your save and in the SE Console use the command !UniqueGearTitanStringUninstall, then make a new save, then update. OR update, and then manually re-add [Unique Gear - Titanstring - B](https://www.nexusmods.com/baldursgate3/mods/1261).
