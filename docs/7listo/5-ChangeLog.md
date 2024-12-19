@@ -16,6 +16,7 @@ description: Listonomicon
 ## Listonomicon v3.2.1 (WIP unreleased)
 
 1. Added about 50 new entries to Combat Extender to extensively cover Act 3. This includes all (or most) members of the Murder Tribunal, including the "Test" to impress the Tribunal; more members of the order of Bane, including firework shop guards, Steelwatch Foundry guards, Gortash's bodyguards, Gortash's office guards, and Gortash himself (Gortash is especially nasty now); and various murderers, cultists, and enemies encountered throughout the Lower City such as the ambush in the park.
+2. Rebalance and typo fix for Ajax's Degreaser.
 
 ## Listonomicon v3.2
 
