@@ -17,6 +17,11 @@ description: Listonomicon
 
 1. Added about 50 new entries to Combat Extender to extensively cover Act 3. This includes all (or most) members of the Murder Tribunal, including the "Test" to impress the Tribunal; more members of the order of Bane, including firework shop guards, Steelwatch Foundry guards, Gortash's bodyguards, Gortash's office guards, and Gortash himself (Gortash is especially nasty now); and various murderers, cultists, and enemies encountered throughout the Lower City such as the ambush in the park.
 2. Rebalance and typo fix for Ajax's Degreaser.
+3. Gave Lathander's Blood's guards various shoving attacks.
+4. Ensured all enemies with CX - Class boosts have access to shove. Clerics and Paladins in Act 3 will have shield shove (if they have a shield), Fighters in Act 3 will have a rush shove attack.
+5. A handful of enemies gain +1d4 force damage to spells when their health drops below 50%.
+6. Several enemy Animated Armor sets have Lightning Absorption.
+7. Other various CX tweaks/fixes/improvements.
 
 ## Listonomicon v3.2
 
