@@ -15,9 +15,9 @@ description: Listonomicon
 
 ## Listonomicon v3.2.1 (WIP unreleased)
 
-1. Added about 50 new entries to Combat Extender to extensively cover Act 3. This includes all (or most) members of the Murder Tribunal, including the "Test" to impress the Tribunal; more members of the order of Bane, including firework shop guards, Steelwatch Foundry guards, Gortash's bodyguards, Gortash's office guards, and Gortash himself (Gortash is especially nasty now); and various murderers, cultists, and enemies encountered throughout the Lower City such as the ambush in the park. The murder tribunal test should now seriously kick the ass off anyone who goes in unprepared.
+1. Added about 50 new entries to Combat Extender just to extensively cover Act 3. This is in addition to the +30ish entries added with the help of Cahoot in the previous update. CX now includes all (or most) members of the Murder Tribunal, including the "Test" to impress the Tribunal; more members of the order of Bane, including firework shop guards, Steelwatch Foundry guards, Gortash's bodyguards, Gortash's office guards, and Gortash himself (Gortash is especially nasty now); and various murderers, cultists, and enemies encountered throughout the Lower City such as the ambush in the park. The murder tribunal test should now seriously kick the ass off anyone who goes in unprepared. In my limited testing (teleporting to the fight and just trying to cross the bridge), my invincible level 1 test Tav still lost due to all of the knockback and similar effects disrupting the ability to move. But it is still concievably possible for a prepared party.
 2. Rebalance and typo fix for Ajax's Degreaser.
-3. Gave Lathander's Blood's guards various shoving attacks.
+3. Gave Lathander's Blood's guards various shoving attacks. The goal is to make Lathander's Blood something you _earn_, not something you just get incidentally on your way through the Creche.
 4. Ensured all enemies with CX - Class boosts have access to shove. Clerics and Paladins in Act 3 will have shield shove (if they have a shield), Fighters in Act 3 will have a rush shove attack.
 5. A handful of enemies gain +1d4 force damage to spells when their health drops below 50%.
 6. Several enemy Animated Armor sets have Lightning Absorption.
@@ -37,6 +37,8 @@ description: Listonomicon
 17. Enhanced the Death Shephard in the Necromancer's Laboratory (Act 2).
 18. Ensured enemy monks actually have access to flurry of blows and unarmed attacks as an option.
 19. Several fights that used to be easy to cheese with Globe of Invulnerability now feature enemies with a better ability to push you out of safety. You big nerd.
+20. The following spells have received once-per-long-rest (no spell slot) versions so it's easier to give them to NPCs without having to give NPCs a bunch of spell slots they might use to upcast something else: Blazing Fissure, Blood Feast, Chilling Darkness, Cosmic Form, Devil Form, Dinosaur Form, Eclipse Burst, Monstrosity Form, Moonburst, Moonlight Ray, Polar Ray, Scouring Pulse, Summon Archmage, Summon Fey, Repelling Pulse, Darkness, Hunger of Hadar.
+21. Made Balthazar, and his cronies, immune to necrotic + cold damage so they can safely fill the room with Chilling Darkness/Hunger of Hadar.
 
 ## Listonomicon v3.2
 
