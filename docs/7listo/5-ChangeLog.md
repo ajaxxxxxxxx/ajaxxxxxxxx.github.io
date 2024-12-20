@@ -15,13 +15,28 @@ description: Listonomicon
 
 ## Listonomicon v3.2.1 (WIP unreleased)
 
-1. Added about 50 new entries to Combat Extender to extensively cover Act 3. This includes all (or most) members of the Murder Tribunal, including the "Test" to impress the Tribunal; more members of the order of Bane, including firework shop guards, Steelwatch Foundry guards, Gortash's bodyguards, Gortash's office guards, and Gortash himself (Gortash is especially nasty now); and various murderers, cultists, and enemies encountered throughout the Lower City such as the ambush in the park.
+1. Added about 50 new entries to Combat Extender to extensively cover Act 3. This includes all (or most) members of the Murder Tribunal, including the "Test" to impress the Tribunal; more members of the order of Bane, including firework shop guards, Steelwatch Foundry guards, Gortash's bodyguards, Gortash's office guards, and Gortash himself (Gortash is especially nasty now); and various murderers, cultists, and enemies encountered throughout the Lower City such as the ambush in the park. The murder tribunal test should now seriously kick the ass off anyone who goes in unprepared.
 2. Rebalance and typo fix for Ajax's Degreaser.
 3. Gave Lathander's Blood's guards various shoving attacks.
 4. Ensured all enemies with CX - Class boosts have access to shove. Clerics and Paladins in Act 3 will have shield shove (if they have a shield), Fighters in Act 3 will have a rush shove attack.
 5. A handful of enemies gain +1d4 force damage to spells when their health drops below 50%.
 6. Several enemy Animated Armor sets have Lightning Absorption.
 7. Other various CX tweaks/fixes/improvements.
+8. Reduced/delayed enemy AC gain again.
+9. Delayed enemy stat increase gain again.
+10. Changed the health curve, again. Now the static boost to health is smaller (10% for bosses, 7.6% for regular enemies), but the _curve_ is more aggresive (10%/level for bosses, 7.1%/level for regular enemies).
+    * CX calculates enemy health (roughly) on this formula: **[Base Health] x (1 + [staticBoost] + ([healthPerLevel] x [playerLevel])**. So if a boss has 100 HP and the player is level 10, the new HP is 100 x (1 + (0.1 + (0.1x10))). Which can be simplified to 100 x 2.1. So at player level 10, an boss that would normally have 100 HP will instead of (100x2.1) or 210 HP. Compared to the previous version, the starting amount of HP added to bosses and enemies is overall lower, but the maximum amount of HP given to bosses is 310% at level 20. The maximum bonus HP to regular enemies is 250% at level 20. Bear in mind that the final calculation will be increased by things like increased Constitution, the Tough feat, and other possible HP-inflating variables.
+    * For reference, the previous CX version had a 0.2 (20%) static boost for bosses and a 0.062 (6.2%) factor for the level curve. So the base boost to boss HP was twice the size, but the increase per level was slightly more than half it is now. By flipping these numbers, bosses should feel less like inflated HP bags in Act 1 but will still be able to become big HP bags as necessary for Act 3.
+    * The previous CX version used 0.12 (12%) and 0.062 (6.2%) for enemies. So their base boost is lower by 0.046 (4.6%), but their rate of gaining HP to keep up with the party is faster (0.05 or 5% per level faster). Again, same idea, less HP inflation in Act 1 while keeping big HP pools in Act 3, hopefully.
+11. Removed the flat +damage bonus to enemies after they pass level 13 again. I don't know where I stand on this as a mechanic.
+12. Significantly delayed the point at which any enemy receives a magical +1 to their rolls.
+13. Many of your enemies (especially in Act 3) have decided to use their "Cloak" equipment slot, even if you can't see it. This distributes mostly minor +1's or minor effects that the player would have available by the end of Act 1.
+14. Further improved the performance of Lightning Charge-using animated armor.
+15. Further distributed various abilities, spells, and effects from mods to enemies.
+16. Added more clones to the Oubliette (they are inconsistent).
+17. Enhanced the Death Shephard in the Necromancer's Laboratory (Act 2).
+18. Ensured enemy monks actually have access to flurry of blows and unarmed attacks as an option.
+19. Several fights that used to be easy to cheese with Globe of Invulnerability now feature enemies with a better ability to push you out of safety. You big nerd.
 
 ## Listonomicon v3.2
 
