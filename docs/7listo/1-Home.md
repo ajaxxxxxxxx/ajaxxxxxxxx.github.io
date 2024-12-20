@@ -86,7 +86,7 @@ New gear should reasonably exist in the Forgotten Realms. The design philosophy 
 
 ## Engaging Combat and Difficulty Curve
 
-Enemy casters should have access to 5e spells and Homebrew spells. The list enables Honour Mode mechanics, including legendary actions added to boss fights. And with Combat Extender, many enemies and bosses have been given direct upgrades to enhance the challenge.
+Enemy casters should have access to 5e, PF2e, and Homebrew spells. The list enables Honour Mode mechanics, including legendary actions added to boss fights. And with Combat Extender, many enemies and bosses have been given direct upgrades to enhance the challenge. CX is further used to distribute many of the new feats, abilities, magic item effects, and options given to players across various enemies. In other words, changes to the world are not exclusively in the player's favor - just as you have access to a wider variety of tools, so do your foes!
 
 ## Multiplayer Compatibility
 
