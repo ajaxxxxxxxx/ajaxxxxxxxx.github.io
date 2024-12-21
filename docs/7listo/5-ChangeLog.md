@@ -15,6 +15,8 @@ description: Listonomicon
 
 ## Listonomicon v3.2.1 (WIP unreleased)
 
+Save Safe? Yes. Any enemies already loaded in your save might act funky until CX's debugger kicks in to restore their stats to baseline and then apply the new math.
+
 1. Added about 50 new entries to Combat Extender just to extensively cover Act 3. This is in addition to the +30ish entries added with the help of Cahoot in the previous update. CX now includes all (or most) members of the Murder Tribunal, including the "Test" to impress the Tribunal; more members of the order of Bane, including firework shop guards, Steelwatch Foundry guards, Gortash's bodyguards, Gortash's office guards, and Gortash himself (Gortash is especially nasty now); and various murderers, cultists, and enemies encountered throughout the Lower City such as the ambush in the park. The murder tribunal test should now seriously kick the ass off anyone who goes in unprepared. In my limited testing (teleporting to the fight and just trying to cross the bridge), my invincible level 1 test Tav still lost due to all of the knockback and similar effects disrupting the ability to move. But it is still concievably possible for a prepared party.
 2. Rebalance and typo fix for Ajax's Degreaser.
 3. Gave Lathander's Blood's guards various shoving attacks. The goal is to make Lathander's Blood something you _earn_, not something you just get incidentally on your way through the Creche.
@@ -37,9 +39,12 @@ description: Listonomicon
 17. Enhanced the Death Shephard in the Necromancer's Laboratory (Act 2).
 18. Ensured enemy monks actually have access to flurry of blows and unarmed attacks as an option.
 19. Several fights that used to be easy to cheese with Globe of Invulnerability now feature enemies with a better ability to push you out of safety. You big nerd.
-20. Created 42 "Clone" versions of existing spells just for special NPC use.
+20. Created 42 "NPC" versions of existing spells just for special NPC use.
 21. Made Balthazar, and his cronies, immune to necrotic + cold damage so they can safely fill the room with Chilling Darkness/Hunger of Hadar.
 22. More spells to get an NPC 1-cast version: Summon Gilded Hellsboar (requires corpse). Promise of Wealth. Possession (give this to secret SCL fight?). Hellfire Orb (who to even put this on?). Tyrant's Bindings. Flesh to Gold (give to someone/enemies in the Counting House?). Paralyzing Ray. Howl of the Dead. Divine Revelry (goblins? rats?). Circle of Death. Eyebite (might have to use one of the specific contained spells). Blade Barrier. Flesh to Stone. Harm. Heal. Otto's Irresistible Dance. Planar Ally. Blight. Guardian of Faith. Lightning Bolt. Mass Healing Word.
+23. Added Actually Infernal Rapier, a more powerful and thematic replacement for the Infernal Rapier.
+24. Updated several mods.
+25. There is now a way to get access to Rolan's unique spells. Search the first floor of Sorcerous Sundries thoroughly!
 
 ## Listonomicon v3.2
 
