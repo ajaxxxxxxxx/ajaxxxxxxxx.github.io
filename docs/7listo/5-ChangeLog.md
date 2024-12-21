@@ -37,7 +37,7 @@ description: Listonomicon
 17. Enhanced the Death Shephard in the Necromancer's Laboratory (Act 2).
 18. Ensured enemy monks actually have access to flurry of blows and unarmed attacks as an option.
 19. Several fights that used to be easy to cheese with Globe of Invulnerability now feature enemies with a better ability to push you out of safety. You big nerd.
-20. The following spells have received once-per-long-rest (no spell slot) versions so it's easier to give them to NPCs without having to give NPCs a bunch of spell slots they might use to upcast something else: Blazing Fissure, Blood Feast, Chilling Darkness, Cosmic Form, Devil Form, Dinosaur Form, Eclipse Burst, Monstrosity Form, Moonburst, Moonlight Ray, Polar Ray, Scouring Pulse, Summon Archmage, Summon Fey, Repelling Pulse, Darkness, Hunger of Hadar.
+20. Created 42 "Clone" versions of existing spells just for special NPC use.
 21. Made Balthazar, and his cronies, immune to necrotic + cold damage so they can safely fill the room with Chilling Darkness/Hunger of Hadar.
 22. More spells to get an NPC 1-cast version: Summon Gilded Hellsboar (requires corpse). Promise of Wealth. Possession (give this to secret SCL fight?). Hellfire Orb (who to even put this on?). Tyrant's Bindings. Flesh to Gold (give to someone/enemies in the Counting House?). Paralyzing Ray. Howl of the Dead. Divine Revelry (goblins? rats?). Circle of Death. Eyebite (might have to use one of the specific contained spells). Blade Barrier. Flesh to Stone. Harm. Heal. Otto's Irresistible Dance. Planar Ally. Blight. Guardian of Faith. Lightning Bolt. Mass Healing Word.
 
