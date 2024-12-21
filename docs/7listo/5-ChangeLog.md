@@ -52,6 +52,8 @@ Save Safe? Yes. Any enemies already loaded in your save might act funky until CX
 30. Removed Deadly Alacrity and Savage Attacker from a lot of people/global boosts.
 31. Removed some not-strictly-spell methods of healing from the global cleric buffs, now that so many enemies have access to something like Mass Healing Word or healing potions.
 32. Significantly revamped Priestess Gut and the Spider Matriarch. Weakened Carrion's ability to regenerate health now that his cronies are a more respectable threat.
+33. Restored Rebalance - Feats, which is loaded before the other feat rebalancing mod, so that its improvements to Elemental Adept and some other feats not touched by other rebalances can be enjoyed.
+34. Added Dark Urge Dice.
 
 **There is now a Listo "easy mode" CX config and a Listo "hard mode" CX config**. The any config can be mixed with "Listo Hard Mode" (the option in Mod Organizer 2), or any other mods in Listo. The default file + Absolute Wrath is what I use and consider "balanced+" skewing towards challenge. Easy Mode is for people who want to stress less about preparing for fights, juggling inventory and damage resistance elixirs, and dealing with status conditions. Hard Mode is for people who pretty much like Listo but wish enemies took every optimized choice for feats and spells plus have more health and really challenge them.
 
