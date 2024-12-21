@@ -45,6 +45,7 @@ Save Safe? Yes. Any enemies already loaded in your save might act funky until CX
 23. Added Actually Infernal Rapier, a more powerful and thematic replacement for the Infernal Rapier.
 24. Updated several mods.
 25. There is now a way to get access to Rolan's unique spells. Search the first floor of Sorcerous Sundries thoroughly!
+26. Removed Mobile, and Mobility-related feat effects, from many enemies.
 
 ## Listonomicon v3.2
 
