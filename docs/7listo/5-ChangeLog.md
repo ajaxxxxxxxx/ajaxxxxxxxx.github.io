@@ -46,6 +46,53 @@ Save Safe? Yes. Any enemies already loaded in your save might act funky until CX
 24. Updated several mods.
 25. There is now a way to get access to Rolan's unique spells. Search the first floor of Sorcerous Sundries thoroughly!
 26. Removed Mobile, and Mobility-related feat effects, from many enemies.
+27. Removed assassination-based ambush/initiative bonuses from the global Rogue boosts list, and instead selectively gave it to specific Act 3 enemies.
+28. Delayed enemy rogue global Uncanny Dodge to Act 2. Delayed global enemy rogue Evasion to Act 3.
+29. Removed most global instances of extra attacks and magical extra damage.
+30. Removed Deadly Alacrity and Savage Attacker from a lot of people/global boosts.
+31. Removed some not-strictly-spell methods of healing from the global cleric buffs, now that so many enemies have access to something like Mass Healing Word or healing potions.
+32. Significantly revamped Priestess Gut and the Spider Matriarch. Weakened Carrion's ability to regenerate health now that his cronies are a more respectable threat.
+
+**There is now a Listo "easy mode" CX config and a Listo "hard mode" CX config**. The any config can be mixed with "Listo Hard Mode" (the option in Mod Organizer 2), or any other mods in Listo. The default file + Absolute Wrath is what I use and consider "balanced+" skewing towards challenge. Easy Mode is for people who want to stress less about preparing for fights, juggling inventory and damage resistance elixirs, and dealing with status conditions. Hard Mode is for people who pretty much like Listo but wish enemies took every optimized choice for feats and spells plus have more health and really challenge them.
+
+**Easy Mode**
+
+1. Boss static HP boost is 8% + 8%/level.
+2. Enemy static HP boost is 5% + 5%/level.
+3. Bosses and enemies have no flat, static, automatic boosts. The level at which they receive their boosts is delayed by 1 mostly.
+4. Most bonuses to crit chance are removed from enemies.
+5. Durable removed from enemies.
+6. Feral Instinct removed from enemies.
+7. Darkness spells removed from some enemies.
+8. Savage Attacker removed from enemies.
+9. Enemy spell selection is smaller.
+10. Enemy access to summoning spells reduced.
+11. Boss level scaling is player level + 0 in Act 1, player level + 1 in Act 2, and player level + 2 in Act 3.
+11. Removed the 3m pushback on hit effect from all enemies.
+12. Removed Ghoul Touch from enemies.
+13. Removed Controlled Chaos from all enemies.
+14. Many specific nerfs to various creatures/bosses.
+15. Removed 25 instances of enemies receiving benefits/boosts/boons from being in darkness.
+16. Removed Shadar-Kai Gloomweaver invisibility from all enemies.
+17. Removed assassinate and assassination related boons from enemies across Act 3.
+18. Removed a lot of instances of status immunities from various enemies.
+19. Brought the entire Murder Tribunal Test back to normal.
+20. Removed Act 2B portal ambush Githyanki from CX.
+21. Removed several clones.
+22. Static Health Overrides mostly removed.
+
+**Hard Mode**
+1. Rogues, Rangers, Paladins all receive access to Improved Critical by Act 3.
+2. Almost everyone applicable rocks Deadly Alacrity and/or Spell Sniper.
+3. Enemy Bosses are Player Level + 1 (max 11) in Act 1. Player Level + 3 (max 17) in Act 2. Player Level + 5 (max 25) in Act 3.
+4. Boss static HP boost is 20% + 15%/level.
+5. Enemy static HP boost is 10% + 10%/level.
+6. Bosses have a static damage boost of +2. Enemies have a static damage boost of +1. That sounds insignificant, but that boost will apply to every instance of damage. For example, 3 magic missiles from a boss would get a total +6 damage added. 3 magic missiles + Lightning Charges would get +12. It quickly increases.
+7. Bosses have an extra bonus action across the board (and thus 3 bonus actions in some cases).
+8. Boss and Enemy stats, saving throws, and save DCs have a flat bonus plus improve slightly faster.
+9. Enemy Rogues and Paladins receive Action Shout.
+10. Lots of people get Fighting Style Protection.
+11. Static Health Overrides mostly increased.
 
 ## Listonomicon v3.2
 
