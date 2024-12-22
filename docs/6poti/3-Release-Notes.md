@@ -13,7 +13,9 @@ description: Release Notes
 Save Safe? No 
 
 **Added**
-
+1. [More Alien Bitter Coast](https://www.nexusmods.com/morrowind/mods/55585)
+2. [Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/44922)
+3. 
 **Updated**
 1. [Remove Negative Lights for OpenMW](https://www.nexusmods.com/morrowind/mods/52487)
    * 1.0 to 1.0ALT
@@ -29,6 +31,9 @@ Save Safe? No
    * 2.9.2 to 2.9.3
 7. [Morag Tong Polished](https://www.nexusmods.com/morrowind/mods/47041)
    * 1.59.0 to 1.61.0
+8. [Tamriel Rebuilt](
+
 **Removed**
 1. [Restocking](https://www.nexusmods.com/morrowind/mods/54952)
 2. [Not Another Class Mod](https://www.nexusmods.com/morrowind/mods/52642)
+3. [No More Indiferent Actors to Combat](https://www.nexusmods.com/morrowind/mods/54711)
