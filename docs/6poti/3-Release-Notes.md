@@ -31,7 +31,8 @@ Save Safe? No
    * 2.9.2 to 2.9.3
 7. [Morag Tong Polished](https://www.nexusmods.com/morrowind/mods/47041)
    * 1.59.0 to 1.61.0
-8. [Tamriel Rebuilt](
+8. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
+   * 23.10 to 24.12
 
 **Removed**
 1. [Restocking](https://www.nexusmods.com/morrowind/mods/54952)
