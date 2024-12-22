@@ -8,14 +8,15 @@ description: Release Notes
 
 ## Releases (Newest to Oldest)  
 
-## POTI 2.0 - Upcoming
+## POTI 2.0 RC3 - Upcoming
 
 Save Safe? No 
 
 **Added**
 
 **Updated**
-
+1. [Remove Negative Lights for OpenMW](https://www.nexusmods.com/morrowind/mods/52487)
+   * 1.0 to 1.0Alt
 **Removed**
-1. Restocking
-   - Seemingly behind merchant NPCs not wanting to talk to the player.
+1. [Restocking](https://www.nexusmods.com/morrowind/mods/54952)
+2. 
