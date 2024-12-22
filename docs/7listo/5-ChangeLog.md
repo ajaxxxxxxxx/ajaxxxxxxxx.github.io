@@ -13,7 +13,7 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.2.1 (WIP unreleased)
+## Listonomicon v3.2.1
 
 Save Safe? Yes. Any enemies already loaded in your save might act funky until CX's debugger kicks in to restore their stats to baseline and then apply the new math.
 
