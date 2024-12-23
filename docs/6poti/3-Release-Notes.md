@@ -15,7 +15,9 @@ Save Safe? No
 **Added**
 1. [More Alien Bitter Coast](https://www.nexusmods.com/morrowind/mods/55585)
 2. [Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/44922)
-3. 
+3. [Project Cyrodiil Grass](https://www.nexusmods.com/morrowind/mods/55612)
+4. [Quests in Balmora Waterworks](https://www.nexusmods.com/morrowind/mods/52758)
+
 **Updated**
 1. [Remove Negative Lights for OpenMW](https://www.nexusmods.com/morrowind/mods/52487)
    * 1.0 to 1.0ALT
@@ -33,6 +35,8 @@ Save Safe? No
    * 1.59.0 to 1.61.0
 8. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145)
    * 23.10 to 24.12
+9. [Grass for Tamriel Rebuilt (Remiros)](https://www.nexusmods.com/morrowind/mods/54362)
+   * 1.0 to 3.0
 
 **Removed**
 1. [Restocking](https://www.nexusmods.com/morrowind/mods/54952)
