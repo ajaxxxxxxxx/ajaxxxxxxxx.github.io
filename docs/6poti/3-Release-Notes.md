@@ -17,6 +17,8 @@ Save Safe? No
 2. [Project Cyrodiil](https://www.nexusmods.com/morrowind/mods/44922)
 3. [Project Cyrodiil Grass](https://www.nexusmods.com/morrowind/mods/55612)
 4. [Quests in Balmora Waterworks](https://www.nexusmods.com/morrowind/mods/52758)
+5. [Web of Mephala Morag Tong Headquarters](https://www.nexusmods.com/morrowind/mods/55163)
+6. [Stormrider Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/53736)
 
 **Updated**
 1. [Remove Negative Lights for OpenMW](https://www.nexusmods.com/morrowind/mods/52487)
