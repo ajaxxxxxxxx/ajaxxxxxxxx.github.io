@@ -20,6 +20,7 @@ Save Safe? No
 5. [Web of Mephala Morag Tong Headquarters](https://www.nexusmods.com/morrowind/mods/55163)
 6. [Stormrider Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/53736)
 7. [Transmog Menu](https://modding-openmw.gitlab.io/s3ctors-s3cret-st4sh/transmog/)
+   * Check this page out for important info
 8. [Logs on Fire - Cyrodiil](https://www.nexusmods.com/morrowind/mods/55647)
 
 **Updated**
