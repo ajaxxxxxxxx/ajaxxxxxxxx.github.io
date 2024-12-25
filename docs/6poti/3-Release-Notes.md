@@ -8,7 +8,7 @@ description: Release Notes
 
 ## Releases (Newest to Oldest)  
 
-## POTI 2.0 RC3 - Upcoming
+## POTI 2.0 RC3 - 12/25/2024
 
 Save Safe? No 
 
