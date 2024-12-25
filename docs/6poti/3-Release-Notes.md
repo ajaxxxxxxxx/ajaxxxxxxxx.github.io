@@ -55,3 +55,4 @@ Save Safe? No
 3. [No More Indiferent Actors to Combat](https://www.nexusmods.com/morrowind/mods/54711)
 4. [Tamriel Rebuilt Soundtrack](https://www.nexusmods.com/morrowind/mods/47254)
 5. [Caves and Caverns for Dynamic Music (OpenMW)](https://www.nexusmods.com/morrowind/mods/55282)
+6. [Inns and Taverns for Dynamic Music (OpenMW)](https://www.nexusmods.com/morrowind/mods/55294)
