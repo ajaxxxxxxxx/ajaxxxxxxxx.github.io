@@ -13,6 +13,16 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.3.1
+
+Save Safe? Yes
+
+1. Fixed the order of things in MO2 (no harm items were just under the wrong section)
+2. Updated Degreaser with 2 more weapons in Act 3. Nerfed blunderbusses.
+3. Added random misc unloved enemies to the CX config.
+4. Added Hope to the CX config, hopefully she will live longer compared to the increased challenge of Listo :)
+5. Added an extra beholder, and made the beholders much much worse, for the base and hard CX configs >:)
+
 ## Listonomicon v3.3
 
 Save Safe? Yes-ish* but you will have to re-add any optional mods that have been removed, if you have them active in your game. And you will need to reenable the Debug Book (very very bottom of MO2)
