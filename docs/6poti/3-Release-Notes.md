@@ -6,6 +6,8 @@ description: Release Notes
 ---
 ## Welcome to Path of the Incarnate!
 
+## [Load Order Library](https://loadorderlibrary.com/lists/path-of-the-incarnate)
+
 ## Releases (Newest to Oldest)  
 
 ## POTI 2.0 RC3 - 12/25/2024
