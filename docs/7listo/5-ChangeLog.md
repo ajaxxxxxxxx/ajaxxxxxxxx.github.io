@@ -30,6 +30,10 @@ Save Safe? Yes-ish* but you will have to re-add any optional mods that have been
 11. Removed Hide Notifications, made Approval Rate Customizer an optional mod. If it's enabled it will cause you to receive double approval gain/loss notifications.
 12. Half-Orcs/Scro finally have (limited) custom heads again after Jerenski added support.
 13. Updated various FED mods, cosmetics, More Mimics, and Bonk Enhanced.
+14. Removed Soul Coin Tweaks, in favor of implementing Soul Exchange: A Soul Coin Economy Mod.
+15. Titan's Grip moved from "Optional" to core. With a Degreaser patch that means Titan Grip requires 20 Strength and 13 Dexterity.
+16. Reverted changes to the Mobility feat.
+17. Incorporated DIQ's many fixes from the generous Mr Goonsack into Degreaser to reduce the number of downloads. This is *at least* as many lines of .json changes, treasure table clean ups, fixes, and improvements as the size of Listo's Combat Extender config so us Listo players don't have to feel too bad lifting DIQ's work right back :)
 
 **Combat Extender Tweaks**
 
