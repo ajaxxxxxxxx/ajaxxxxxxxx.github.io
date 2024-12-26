@@ -15,7 +15,7 @@ description: Listonomicon
 
 ## Listonomicon v3.3 (WIP not released)
 
-Save Safe? No.
+Save Safe? Yes-ish* but you will have to re-add any optional mods that have been removed, if you have them active in your game.
 
 1. Rebalanced the prices and effects of firearms, to the best of my ability. Firearms from the ATF/Firearms mod, and from Artificer, should now feel like they were designed together instead of having weird arbitrary stat differences. Firearms in general are a little less powerful with this patch, but they are more consistent than bows and crossbows. For example, the blunderbus does 4d4 damage (4-16) instead of 2d8+2 (2-18). The maximum damage is slightly smaller but the average roll is much better. Speaking of the blunderbus, its range has also been increased by about half. 
 2. Removed any "AI party members" type optional mods due to them not working or causing game instability.
@@ -27,8 +27,20 @@ Save Safe? No.
 8. Added Goon's Companion Protection.
 9. Added Barrel Tweaks.
 10. Updated to the latest v0.5.6 of Zino's BG3-MO2 plugin. This hopefully fixes issues with mods that it previously failed to load, like cosmetic mods.
-11. Removed Hide Notifications, make Approval Rate Customizer an optional mod. If it's enabled it will cause you to receive double approval gain/loss notifications.
+11. Removed Hide Notifications, made Approval Rate Customizer an optional mod. If it's enabled it will cause you to receive double approval gain/loss notifications.
 12. Half-Orcs/Scro finally have (limited) custom heads again after Jerenski added support.
+13. Updated various FED mods, cosmetics, More Mimics, and Bonk Enhanced.
+
+**Combat Extender Tweaks**
+
+1. Base file: Increased enemy HP a smidge.
+2. Hard mode: For every level of spell caster, they gain 1 extra spell slot a size up (someone with a Level 1 bonus spell list gets 1 2nd level slot, someone who gets a Level 4 bonus spell list gets a 5th level slot, etc).
+3. Removed from spells and features that AI weren't using, or weren't using right.
+4. Base and hard mode: Greater Invisibility is added to the L4C list (boss casters).
+5. Added Iron Throne Sahuagin (initial + Wave 1 and Wave 2) to CX. They are mostly barbarians, with a few rangers. Many have the Sentinel feat feature that reduces a creature's movement speed to 0 if hit with an attack of opportunity.
+6. Hard mode: Iron Throne Sahuagin have extra reactions per turn. Sahuagin rangers are also rogues.
+7. Easy mode: Bulette is vulnerable to bludgeoning damage.
+8. All versions: Gave Isobel and the Nightsong Potent Cantrip.
 
 ## Listonomicon v3.2.1
 
