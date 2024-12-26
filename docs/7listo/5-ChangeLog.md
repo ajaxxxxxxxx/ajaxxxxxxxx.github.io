@@ -15,7 +15,7 @@ description: Listonomicon
 
 ## Listonomicon v3.3 (WIP not released)
 
-Save Safe? Yes-ish* but you will have to re-add any optional mods that have been removed, if you have them active in your game.
+Save Safe? Yes-ish* but you will have to re-add any optional mods that have been removed, if you have them active in your game. And you will need to reenable the Debug Book (very very bottom of MO2)
 
 1. Rebalanced the prices and effects of firearms, to the best of my ability. Firearms from the ATF/Firearms mod, and from Artificer, should now feel like they were designed together instead of having weird arbitrary stat differences. Firearms in general are a little less powerful with this patch, but they are more consistent than bows and crossbows. For example, the blunderbus does 4d4 damage (4-16) instead of 2d8+2 (2-18). The maximum damage is slightly smaller but the average roll is much better. Speaking of the blunderbus, its range has also been increased by about half. 
 2. Removed any "AI party members" type optional mods due to them not working or causing game instability.
