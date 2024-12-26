@@ -22,6 +22,7 @@ Save Safe? Yes
 3. Added random misc unloved enemies to the CX config.
 4. Added Hope to the CX config, hopefully she will live longer compared to the increased challenge of Listo :)
 5. Added an extra beholder, and made the beholders much much worse, for the base and hard CX configs >:)
+6. Added Advanced Tabletop Spells.
 
 ## Listonomicon v3.3
 
