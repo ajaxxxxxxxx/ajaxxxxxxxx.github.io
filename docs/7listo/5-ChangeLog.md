@@ -13,6 +13,20 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.3 (WIP not released)
+
+Save Safe? No.
+
+1. Rebalanced the prices and effects of firearms, to the best of my ability. Firearms from the ATF/Firearms mod, and from Artificer, should now feel like they were designed together instead of having weird arbitrary stat differences. Firearms in general are a little less powerful with this patch, but they are more consistent than bows and crossbows. For example, the blunderbus does 4d4 damage (4-16) instead of 2d8+2 (2-18). The maximum damage is slightly smaller but the average roll is much better. Speaking of the blunderbus, its range has also been increased by about half. 
+2. Removed any "AI party members" type optional mods due to them not working or causing game instability.
+3. Items in "Ajax's Degreaser" should now have proper prices that interract correctly with game systems (charisma, trader opinion of you, etc).
+4. Rebalanced Degreaser items (again).
+5. Degreaser is now also my own catch-all patches file.
+6. Removed other optional mods that were funny/silly, but mostly just inflated the download size for 99.9% of players (like the raphael gnome mod). You can easily add these back yourself if you miss them.
+7. Removed More Trash Monsters. Many More Monsters and DHM remain optional choices included in the list.
+8. Added Goon's Companion Protection.
+9. Added Barrel Tweaks.
+
 ## Listonomicon v3.2.1
 
 Save Safe? Yes. Any enemies already loaded in your save might act funky until CX's debugger kicks in to restore their stats to baseline and then apply the new math.
