@@ -13,7 +13,7 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.3 (WIP not released)
+## Listonomicon v3.3
 
 Save Safe? Yes-ish* but you will have to re-add any optional mods that have been removed, if you have them active in your game. And you will need to reenable the Debug Book (very very bottom of MO2)
 
@@ -31,7 +31,7 @@ Save Safe? Yes-ish* but you will have to re-add any optional mods that have been
 12. Half-Orcs/Scro finally have (limited) custom heads again after Jerenski added support.
 13. Updated various FED mods, cosmetics, More Mimics, and Bonk Enhanced.
 14. Removed Soul Coin Tweaks, in favor of implementing Soul Exchange: A Soul Coin Economy Mod.
-15. Titan's Grip moved from "Optional" to core. With a Degreaser patch that means Titan Grip requires 20 Strength and 13 Dexterity.
+15. Titan's Grip moved from "Optional" to core. With a Degreaser patch that means Titan Grip requires 21+ Strength.
 16. Reverted changes to the Mobility feat.
 17. Incorporated DIQ's many fixes from the generous Mr Goonsack into Degreaser to reduce the number of downloads. This is *at least* as many lines of .json changes, treasure table clean ups, fixes, and improvements as the size of Listo's Combat Extender config so us Listo players don't have to feel too bad lifting DIQ's work right back :)
 
