@@ -26,6 +26,9 @@ Save Safe? No.
 7. Removed More Trash Monsters. Many More Monsters and DHM remain optional choices included in the list.
 8. Added Goon's Companion Protection.
 9. Added Barrel Tweaks.
+10. Updated to the latest v0.5.6 of Zino's BG3-MO2 plugin. This hopefully fixes issues with mods that it previously failed to load, like cosmetic mods.
+11. Removed Hide Notifications, make Approval Rate Customizer an optional mod. If it's enabled it will cause you to receive double approval gain/loss notifications.
+12. Half-Orcs/Scro finally have (limited) custom heads again after Jerenski added support.
 
 ## Listonomicon v3.2.1
 
