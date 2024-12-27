@@ -20,6 +20,7 @@ Save Safe? Probably
 1. Added The Berserker Set - On The Edge of Death.
 2. Used the above mod to add new features in Combat Extender, especially the Hard Mode config.
 3. Updated Degreaser for a working adamantine bow.
+4. Added Gale and his Netherese Orb.
 
 **Combat Extender**
 
