@@ -13,6 +13,48 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.3.2 (WIP in progress)
+
+Save Safe? Probably
+
+1. Added The Berserker Set - On The Edge of Death.
+2. Used the above mod to add new features in Combat Extender, especially the Hard Mode config.
+3. Updated Degreaser for a working adamantine bow.
+
+**Combat Extender**
+
+All configs:
+
+1. Added Haarlep.
+2. Added the House of Hope's flaming boars.
+3. Added the House of Hope's imps as a sort of... Grym mephits 2.0 >;)
+
+Hard config changes:
+
+1. As all enemy barbarians lose health starting in Act 2, they gain a bonus to attack rolls.
+2. As all enemy barbarians lose health starting in Act 3, they gain fire resistance, burning immunity, and immunity to critical hits.
+3. As all enemy fighters lose health starting in Act 2, they gain bonus force damage and heal a small amount.
+4. As enemy barbarians, fighters, paladins, monks, and rangers drop below 25% HP, they gain +2 STR +2 DEX starting in Act 1.
+5. For all enemy class boosts: Regain 50% movement after landing a killing blow.
+6. Starting in Act 2 for Rogues and Act 3 for Clerics, enemy rogues and clerics gain a bonus to saving throws as their HP falls.
+7. Boudoir Imps are real serious jerks.
+8. Orin gains Rogue and Barbarian boosts.
+9. Gave The Emperor several spells.
+
+Normal config changes:
+
+1. "Unstoppable Massacre" (restore 50% movement on a killing blow) is added to rogues in Act 3, Iron Throne Sahuagin, Priestess Gut, Grym, Dror Raglin, Phase Spider Queen, Auntie Ethel, flying ghouls, and the SCL nurses.
+2. Several bosses gain immunity to paralysis, restraint, difficult terrain, and movement reductions after falling below 50% HP.
+3. The Emperor and Dror Raglin get better saving throws as their HPs drop.
+4. Starting in Act 3, enemy Barbarians gain +2 STR and +2 DEX at >25% HP.
+5. Gortash, Orin, and Ketheric gain some bonuses to stats and rolls as their HPs drop.
+6. Gave The Emperor several spells.
+
+Easy config changes:
+
+1. New entries for Haarlep, flaming boars, and boudoir imps are more tame.
+2. Added a limited spell list to The Emperor.
+
 ## Listonomicon v3.3.1
 
 Save Safe? Yes
