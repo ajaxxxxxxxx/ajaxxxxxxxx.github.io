@@ -13,9 +13,9 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.3.2 (WIP in progress)
+## Listonomicon v3.3.2
 
-Save Safe? Probably
+Save Safe? Yes
 
 1. Added The Berserker Set - On The Edge of Death.
 2. Used the above mod to add new features in Combat Extender, especially the Hard Mode config.
@@ -30,6 +30,7 @@ All configs:
 1. Added Haarlep.
 2. Added the House of Hope's flaming boars.
 3. Added the House of Hope's imps as a sort of... Grym mephits 2.0 >;)
+4. Removed fireworks box throwing from enemies in the Grove Fight. I didn't realize this did 8d6 damage!
 
 Hard config changes:
 
@@ -56,6 +57,7 @@ Easy config changes:
 
 1. New entries for Haarlep, flaming boars, and boudoir imps are more tame.
 2. Added a limited spell list to The Emperor.
+3. Removed fireworks box throwing from enemies.
 
 ## Listonomicon v3.3.1
 
