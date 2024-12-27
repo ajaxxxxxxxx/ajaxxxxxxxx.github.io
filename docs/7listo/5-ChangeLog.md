@@ -13,6 +13,14 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.3.3
+
+Save Safe? Yes
+
+1. Updated Zino's MO2-BG3 plugin. Now ALL mods should load correctly (no more mystery cosmetic mods being disabled every time the game launches).
+2. Remembered to update the banner in MO2 this time for the correct version #.
+3. Fixed typo in CX config.
+
 ## Listonomicon v3.3.2
 
 Save Safe? Yes
