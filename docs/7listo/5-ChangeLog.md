@@ -20,7 +20,7 @@ Save Safe? Probably not.
 **Beginning of experimenting with supporting mod.io mods**
 1. Added More Wizard RP Items
 2. Added Half-Azer Dwarf
-3. Added Gortash is a Dragonborn
+3. Added (optional) Gortash is a Dragonborn
 4. Added 60 More Wild Magic Surges
 5. Added Mystra's Homebrew Spells
 6. Added (optional) Extra Encounters and Minibosses
