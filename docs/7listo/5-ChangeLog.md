@@ -13,6 +13,34 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon vx.x.x (WIP unreleased)
+
+Save Safe? Probably not.
+
+**Beginning of experimenting with supporting mod.io mods**
+1. Added More Wizard RP Items
+2. Added Half-Azer Dwarf
+3. Added Gortash is a Dragonborn
+4. Added 60 More Wild Magic Surges
+5. Added Mystra's Homebrew Spells
+6. Added (optional) Extra Encounters and Minibosses
+7. Added (optional) Extra Encounters: More Basic Enemies in Normal Fights
+8. Added Find Gale's Familiar
+
+**Regular additions/removals/changes**
+1. Added Owlin Race Mod
+2. Added Reading List - Useful Books
+   * Integrated into Zerd's RAW Attunement as appropriate
+   * Passives distributed to a small number of creatures via CX as appropriate
+4. etc
+5. etc
+6. Degreaser updates: Added even more wild magic surges, changed the amulet found in Wither's crypt to be more useful than just casting Speak With Dead. Removed the bonus action cost for coatings like poison and coating of weapon accuracy.
+
+**Changes to CX**
+1. The Phase Spider Queen is only resistant to fall damage, not immune.
+2. Removed the ability of enemies in Act 1 to throw entire fireworks boxes.
+3. Nerfed the Shield Spiders in the attack on the Grove fight.
+
 ## Listonomicon v3.3.3
 
 Save Safe? Yes
