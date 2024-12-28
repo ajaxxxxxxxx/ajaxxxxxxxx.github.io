@@ -32,8 +32,7 @@ Save Safe? Probably not.
 2. Added Reading List - Useful Books
    * Integrated into Zerd's RAW Attunement as appropriate
    * Passives distributed to a small number of creatures via CX as appropriate
-4. Added Original Class Unlocker: When starting the game as something other than Tav or Durge, you should be able to change your class and stats.
-5. etc
+4. etc
 6. Degreaser updates: Added even more wild magic surges, changed the amulet found in Wither's crypt to be more useful than just casting Speak With Dead. Removed the bonus action cost for coatings like poison and coating of weapon accuracy.
 
 **Changes to CX**
