@@ -44,7 +44,7 @@ Save Safe? Yes - but you may need to renable mods that have become "Optional" if
 9. Added Enter Maztica: Desert Dwarf.
 10. Added Kaihunga Osse Dwarf.
 11. Added MESMERIST, a brand new class for Listonomicon.
-12. Added Psychic Armory, a gear and equipment breadtrail for Mesmerist synergistic items.
+12. Added Psychic Armory, a gear and equipment breadtrail for Mesmerist synergistic items. If updating an active campaign and you have already left the tutorial, use this command in the script extender: **TemplateAddTo("af22db43-e8be-4fc2-b906-1aaf87f199d7", GetHostCharacter(), 1)**
 13. Degreaser updates: Added even more wild magic surges, changed the amulet found in Wither's crypt to be more useful than just casting Speak With Dead. Removed the bonus action cost for coatings like poison and coating of weapon accuracy. Fixes/nerfs for some of the new mods (thanks to Cahoot).
 
 **Changes to CX**
