@@ -13,27 +13,39 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon vx.x.x (WIP unreleased)
+## Listonomicon v3.4
 
-Save Safe? Probably not.
+Save Safe? Yes - but you may need to renable mods that have become "Optional" if they were active in your campaign.
 
 **Beginning of experimenting with supporting mod.io mods**
-1. Added More Wizard RP Items
-2. Added Half-Azer Dwarf
-3. Added (optional) Gortash is a Dragonborn
-4. Added 60 More Wild Magic Surges
-5. Added Mystra's Homebrew Spells
-6. Added (optional) Extra Encounters and Minibosses
-7. Added (optional) Extra Encounters: More Basic Enemies in Normal Fights
-8. Added Find Gale's Familiar
+1. Added More Wizard RP Items, integrated into attunement.
+2. Added Half-Azer Dwarf.
+3. Added (optional) Gortash is a Dragonborn. I will pay someone money to fix the lipsync in this.
+4. Added 60 More Wild Magic Surges.
+5. Added Mystra's Homebrew Spells.
+6. Added (optional) Extra Encounters and Minibosses.
+7. Added (optional) Extra Encounters: More Basic Enemies in Normal Fights. As always, mixing extra encounter mod with EO, VUE, MMM, and other encounter mods will inevitably result in unintended overlap and weirdness.
+8. Added Find Gale's Familiar.
 
 **Regular additions/removals/changes**
-1. Added Owlin Race Mod
+1. Brand new "SILLY Optional Tweaks" section.
+   * These tweaks work in Listo but fall too far outside the scope to be core inclusions.
+   * Owlin Race Mod
+   * Fully Custom Hirelings (please use the regular "Tav" option and do not try picking an origin character)
+   * A Devil You Gnome
 2. Added Reading List - Useful Books
    * Integrated into Zerd's RAW Attunement as appropriate
    * Passives distributed to a small number of creatures via CX as appropriate
-4. etc
-6. Degreaser updates: Added even more wild magic surges, changed the amulet found in Wither's crypt to be more useful than just casting Speak With Dead. Removed the bonus action cost for coatings like poison and coating of weapon accuracy.
+4. Added Secret Scrolls, to cover spells above 6th level, Homebrew Spells, and 5e Spells.
+5. Added (optional) Gale's Netherese Orb.
+6. Added Berserker Set, integrated into attunement and CX.
+7. Added Tinker Gnomes.
+8. Added Whisper Gnomes.
+9. Added Enter Maztica: Desert Dwarf.
+10. Added Kaihunga Osse Dwarf.
+11. Added MESMERIST, a brand new class for Listonomicon.
+12. Added Psychic Armory, a gear and equipment breadtrail for Mesmerist synergistic items.
+13. Degreaser updates: Added even more wild magic surges, changed the amulet found in Wither's crypt to be more useful than just casting Speak With Dead. Removed the bonus action cost for coatings like poison and coating of weapon accuracy. Fixes/nerfs for some of the new mods (thanks to Cahoot).
 
 **Changes to CX**
 1. The Phase Spider Queen is only resistant to fall damage, not immune.
