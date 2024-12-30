@@ -13,6 +13,12 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.4.x (wip unreleased)
+
+Save Safe? Yes
+
+1. Lot of combat extender tweaks based on feedback/lessons learned. The Elder Brain should now actually be different in Listo vs vanilla for reasons other than a lot of HP. Gloomweaver's unlimited teleport-invisibility was taken off several enemies and replaced with Goon's more sensible limited Greater Invisibility. Goblins that attack the Grove with Minthara have been nerfed (mostly by removing things that I never should have added in the first place, like unlimited spam of the Fireworks spell).
+
 ## Listonomicon v3.4
 
 Save Safe? Yes - but you may need to renable mods that have become "Optional" if they were active in your campaign.
