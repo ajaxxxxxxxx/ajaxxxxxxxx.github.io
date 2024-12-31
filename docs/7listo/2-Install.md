@@ -65,7 +65,7 @@ BG3 is still receiving Patches (major updates) and Hotfixes (small updates). The
 - Hit "run" after selecting the EXE that works best for your system. Always launch the game this way (don't use Steam).
 - You can verify Listo's mods are all loaded correctly after install by clicking on the official mod manager and looking at the installed mods tab. Is there a long list with almost everything enabled? Good. Some mods, like overwrites to text, will not show as "Enabled" but will still be working ifne.
 
-### 6.) In-Game Settings
+### 6.) Game Settings
 
 :::caution
 You must change **Animation Level of Detail** to **High** in your Visual Settings. Otherwise, any heads added or changed by mods will suffer from visual bugs and animation issues. Any/all other graphics settings can be changed according to your PC specs.
