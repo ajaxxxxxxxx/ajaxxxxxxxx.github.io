@@ -20,7 +20,7 @@ Save Safe? Yes
 1. Lot of combat extender tweaks based on feedback/lessons learned. The Elder Brain should now actually be different in Listo vs vanilla for reasons other than a lot of HP. Gloomweaver's unlimited teleport-invisibility was taken off several enemies and replaced with Goon's more sensible limited Greater Invisibility. Goblins that attack the Grove with Minthara have been nerfed (mostly by removing things that I never should have added in the first place, like unlimited spam of the Fireworks spell).
 2. Removed Infernal Robe, Rupturing Blade, and basic Titanstring Bow from Attunement list.
 3. Added a few important Act 1 Zhentarim to CX.
-4. 
+4. Added darts.
 
 ## Listonomicon v3.4
 
