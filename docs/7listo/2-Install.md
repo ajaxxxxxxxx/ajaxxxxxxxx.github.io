@@ -81,10 +81,10 @@ Please remember to hit "Custom Difficulty" **and set the ruleset at the top to H
 
 Per the image above, your difficulty settings should be as follows:
 
-- Ruleset: Honour
-- Enemy Aggression, Character Power, Enemy Loadouts, Additional Combat Mechanics: Tactician
-- Camp Cost Multiplier: 3 <-- I have never found food to be any kind of limit by the time I reach Wuakeen's Rest. With the changes in Listo's economy, you should consider selling expensive food and alcohol; leaving this multiplier on 3 is to prevent you from selling ALL food and should not be reduced even if looking for an easier game.
-- Trader Price Modificer: 4 <-- this heavily influences the buying and sell price of everything. Maxing out the setting is not just about difficulty, it's about fighting against hyperinflation in Faerun's economy caused by all the new loot and magic items in Listo. If adjusting settings for an easier game, do not reduce this further than x3.5 or you will be swimming in so much gold that it completely trivializes the game.
+* Ruleset: Honour
+* Enemy Aggression, Character Power, Enemy Loadouts, Additional Combat Mechanics: Tactician
+* Camp Cost Multiplier: 3. I have never found food to be any kind of limit by the time I reach Wuakeen's Rest. With the changes in Listo's economy, you should consider selling expensive food and alcohol; leaving this multiplier on 3 is to prevent you from selling ALL food and should not be reduced even if looking for an easier game.
+* Trader Price Modificer: 4. This heavily influences the buying and sell price of everything. Maxing out the setting is not just about difficulty, it's about fighting against hyperinflation in Faerun's economy caused by all the new loot and magic items in Listo. If adjusting settings for an easier game, do not reduce this further than x3.5 or you will be swimming in so much gold that it completely trivializes the game.
 
 ### 7.) Customizing Listonomicon
 
