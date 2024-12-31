@@ -22,6 +22,7 @@ Save Safe? Yes
 3. Added a few important Act 1 Zhentarim to CX.
 4. Added darts.
 5. Nerfed the beach duergar slightly (by removing the "Champion's" stacking of multiple damage reduction sources)
+6. Experimenting with giving a handful of enemies access to a copy of the beach duergar AOE Animated Dead spell, especially solo enemies that are encountered around several dead bodies. They will probably only summon duergar zombies until/unless I figure out how to change the summoned creature.
 
 ## Listonomicon v3.4
 
