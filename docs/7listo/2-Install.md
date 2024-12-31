@@ -6,13 +6,13 @@ description: Listonomicon
 ---
 
 # **Installation Guide**
+
 :::info
 ## **Requirements**
 - ~ 38 GB of space for the modlist
 - A legally obtained copy of Baldur's Gate 3 (while a Steam global copy is safest, any copy should do), **installed and launched vanilla from Steam at least once**
 - [Wabbajack](https://www.wabbajack.org/)
-- A Nexus Account (Premium recommended; drastically increases install speed)
-:::
+- A Nexus Account (Premium recommended; drastically increases install speed):::
 
 :::warning
 #### Installing Microsoft Visual C++ and .NET
