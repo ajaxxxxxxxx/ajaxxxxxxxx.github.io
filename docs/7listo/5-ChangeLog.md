@@ -21,6 +21,7 @@ Save Safe? Yes
 2. Removed Infernal Robe, Rupturing Blade, and basic Titanstring Bow from Attunement list.
 3. Added a few important Act 1 Zhentarim to CX.
 4. Added darts.
+5. Nerfed the beach duergar slightly (by removing the "Champion's" stacking of multiple damage reduction sources)
 
 ## Listonomicon v3.4
 
