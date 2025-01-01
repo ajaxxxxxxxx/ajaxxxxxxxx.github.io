@@ -31,6 +31,7 @@ Save Safe? Yes
 12. Attempted to nerf Grym through actual modding instead of just CX edits. He should now be able to be damaged with bludgeoning and acid damage, not just bludgeoning and not only when superheated.
 13. Attempted to make the template for Undead, Zombies, and Skeletons closer to older D&D norms (e.g. skeletons resist piercing and slashing, but are vulnerable to bludgeoning; zombies resist piercing and bludgeoning, but are good to slash), but this method is at the mercy of Larian design and what is or isn't overwritten for individual creature stats.
 14. Attempted to make the template for spiders better and more consistent (poison is weak against them, fire is great against them).
+15. Attempted to make the template for constructs, and animated armor specifically, have sensible immunities/resistances/vulnerabilities.
 
 ## Listonomicon v3.4
 
