@@ -23,6 +23,14 @@ Save Safe? Yes
 4. Added darts.
 5. Nerfed the beach duergar slightly (by removing the "Champion's" stacking of multiple damage reduction sources)
 6. Experimenting with giving a handful of enemies access to a copy of the beach duergar AOE Animated Dead spell, especially solo enemies that are encountered around several dead bodies. They will probably only summon duergar zombies until/unless I figure out how to change the summoned creature.
+7. Added more things to the attunement list (modded items I underestimated, vanilla items that I didn't realize were so significantly buffed).
+8. Nerfed Warped Headband of Intellect to a +2 INT item.
+9. Removed Relative Ability Boost Items, as I can do the same functionality with Degreaser (and, in my opinion, do it better). According to Goon, once 5 different mods start trying to reference/overwrite the same entries, the game freaks out and dies, so going forward I'm going to do my best attempt at recreating good ideas in Degreaser to reduce the number of overlapping mods and to reduce the number of downloads Listo needs.
+10. Made Auntie Ethel's masks actually interesting/niche useful.
+11. Nerfed Thorm's goggles (+3 INT instead of Set INT 20, sorry no more free wizards) (they're also on the naughty list and require Atunement now, as they should have)
+12. Attempted to nerf Grym through actual modding instead of just CX edits. He should now be able to be damaged with bludgeoning and acid damage, not just bludgeoning and not only when superheated.
+13. Attempted to make the template for Undead, Zombies, and Skeletons closer to older D&D norms (e.g. skeletons resist piercing and slashing, but are vulnerable to bludgeoning; zombies resist piercing and bludgeoning, but are good to slash), but this method is at the mercy of Larian design and what is or isn't overwritten for individual creature stats.
+14. Attempted to make the template for spiders better and more consistent (poison is weak against them, fire is great against them).
 
 ## Listonomicon v3.4
 
