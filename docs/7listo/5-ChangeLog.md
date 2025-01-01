@@ -13,7 +13,7 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.4.x (wip unreleased)
+## Listonomicon v3.5
 
 Save Safe? Yes
 
@@ -32,6 +32,8 @@ Save Safe? Yes
 13. Attempted to make the template for Undead, Zombies, and Skeletons closer to older D&D norms (e.g. skeletons resist piercing and slashing, but are vulnerable to bludgeoning; zombies resist piercing and bludgeoning, but are good to slash), but this method is at the mercy of Larian design and what is or isn't overwritten for individual creature stats.
 14. Attempted to make the template for spiders better and more consistent (poison is weak against them, fire is great against them).
 15. Attempted to make the template for constructs, and animated armor specifically, have sensible immunities/resistances/vulnerabilities.
+16. Added (optional) mods to add the Dark Urge storyline to Astarion, Gale, karlach, Lae'zel, Shadowheart, or Wyll. **There can only be one Dark Urge per campaign**. Do not combine these mods together, and if you use one, do not mix one of these mods with also including the original Dark Urge. **If 2 Durges exist your game will crash**.
+17. Moved "More Enemies in Basic Fights" from optional to core.
 
 ## Listonomicon v3.4
 
