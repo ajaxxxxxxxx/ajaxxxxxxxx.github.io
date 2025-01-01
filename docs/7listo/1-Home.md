@@ -68,7 +68,7 @@ Please source all help to our discord alone. Even if you think that your questio
 
 ![BirdJax](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/BirdJaxBae.png)
 
-# Why play Listonomicon"
+# Why play Listonomicon?
 
 ![Features](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/ad.png)
 
