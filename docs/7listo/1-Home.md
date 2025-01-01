@@ -68,9 +68,11 @@ Please source all help to our discord alone. Even if you think that your questio
 
 ![BirdJax](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/BirdJaxBae.png)
 
-# List Philosophy aka "Why make Listonomicon? Why play Listonomicon"
+# Why play Listonomicon"
 
-This self-aggrandizing page summarizes the mission statement, purpose, goals, and intent of Listonomicon. The tl;dr is that we really enjoyed playing BG3, and wanted to add more on top of it, fix bugs, and make QoL tweaks. LillyBird and I do not see a reason to dramatically change the game or add scoops of foreign content. We just want more BG3.
+![Features](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/ad.png)
+
+The tl;dr is that we really enjoyed playing BG3, and wanted to add more on top of it, fix bugs, and make QoL tweaks. LillyBird and I do not see a reason to dramatically change the game or add scoops of foreign content. We just want more BG3. That is why in the philosophy described below, you will hopefully see a mix of exciting new content - and sensible restraint. Per the picture above, Listo is the premier Wabbajack-powered, ModOrganizer 2-using BG3 mod list that includes the best, lore friendly, pro-tabletop mods of Nexus _and_ Mod.io.
 
 ## Classes and Subclasses
 
@@ -78,7 +80,7 @@ This self-aggrandizing page summarizes the mission statement, purpose, goals, an
 
 ## Magic Weapons, Armor, and Items
 
-New gear should reasonably exist in the Forgotten Realms. The design philosophy and distribution (as static loot, or new random loot table entries or shopkeeper inventory) should match Larian’s progression expectations and design sensibility. Vanilla gear that is changed should avoid “over tuning” and changes should focus on making items more interesting, under-used items more compelling, or provide Quality of Life changes to awkward mechanics or descriptions.
+[New gear](https://www.modlists.net/docs/7listo/SpellsFeatsClassesItems#magic-items-economy-and-upgrading) should reasonably exist in the Forgotten Realms. The design philosophy and distribution (as static loot, or new random loot table entries or shopkeeper inventory) should match Larian’s progression expectations and design sensibility. [Vanilla gear that is changed](https://www.modlists.net/docs/7listo/SpellsFeatsClassesItems#magic-items-economy-and-upgrading) should avoid “over tuning” and changes should focus on making items more interesting, under-used items more compelling, or provide Quality of Life changes to awkward mechanics or descriptions.
 
 ## Feats, Class Features, and Progression
 
@@ -86,11 +88,11 @@ New gear should reasonably exist in the Forgotten Realms. The design philosophy 
 
 ## Engaging Combat and Difficulty Curve
 
-Enemy casters should have access to 5e, PF2e, and Homebrew spells. The list enables Honour Mode mechanics, including legendary actions added to boss fights. And with Combat Extender, many enemies and bosses have been given direct upgrades to enhance the challenge. CX is further used to distribute many of the new feats, abilities, magic item effects, and options given to players across various enemies. In other words, changes to the world are not exclusively in the player's favor - just as you have access to a wider variety of tools, so do your foes!
+Enemy casters should have access to 5e, PF2e, and Homebrew spells. The list enables Honour Mode mechanics, including legendary actions added to boss fights. And with [Combat Extender](https://www.modlists.net/docs/7listo/GameBalance#game-balance-and-combat-extender-vs-extended-level-scale), many enemies and bosses have been given direct upgrades to enhance the challenge. CX is further used to distribute many of the new feats, abilities, magic item effects, and options given to players across various enemies. In other words, changes to the world are not exclusively in the player's favor - just as you have access to a wider variety of tools, so do your foes!
 
 ## Multiplayer Compatibility
 
-There is no promise that coop will never be sacrificed due to a future mod being incompatible, but too compelling to leave out of Listo. However, for the time being, Listo remains functional for a full, fun, multiplayer experience (with a handful of vanilla MP bugs).
+There is no promise that coop will never be sacrificed due to a future mod being incompatible, but too compelling to leave out of Listo. However, for the time being, [Listo remains functional for a full, fun, multiplayer experience](https://www.modlists.net/docs/7listo/Install#10-multiplayer) (with a handful of vanilla MP bugs).
 
 ## A Platform to Enable Your Fun
 
