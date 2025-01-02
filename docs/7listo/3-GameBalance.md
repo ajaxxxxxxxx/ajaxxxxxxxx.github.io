@@ -88,7 +88,8 @@ Listonomicon is recommended to play with 6 or less characters in the party. 3 or
 You can enable Sit This One Out 2 in Optional Mods if you want to maintain a large party, but make some companions unable to join combat.
 
 :::warning
-[Do not ride boats with more than 4 party members](https://www.nexusmods.com/baldursgate3/mods/327). At this time, the only known game breaking bug caused by party size is riding the boats to Grymforge. If any characters get stuck, dismiss as many working characters as possible; ride the boat back to the UD; and then ride the boat back to Grymforge, and the missing characters should arrive safely in Grymforge. Sometimes characters will fall off elevators and other moving platforms in the game when you have too many members. The creche elevator has a hard time fitting everyone. Excess party members may fall off the moving platform in Shar's temple. All other level transitions I have tested work, so far.:::
+[Do not ride boats with more than 4 party members](https://www.nexusmods.com/baldursgate3/mods/327). At this time, the only known game breaking bug caused by party size is riding the boats to Grymforge. If any characters get stuck, dismiss as many working characters as possible; ride the boat back to the UD; and then ride the boat back to Grymforge, and the missing characters should arrive safely in Grymforge. Sometimes characters will fall off elevators and other moving platforms in the game when you have too many members. The creche elevator has a hard time fitting everyone. Excess party members may fall off the moving platform in Shar's temple. All other level transitions I have tested work, so far.
+:::
 
 ## Customized Custom Difficulty
 
