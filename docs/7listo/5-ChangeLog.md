@@ -17,9 +17,20 @@ description: Listonomicon
 
 Save Safe? Yes
 
-1. Salvaged old translation files I made in my MMM-Listo patching attempt. So enemies will be renamed if you add MMM, thanks to Degreaser.
+1. Salvaged old translation files I made in my MMM-Listo patching attempt. So enemies will be renamed if you add MMM, thanks to Degreaser. I am hoping that in the future, Goon's CX Library or a new mod is created that enables passive tagging-based dynamic faction relationship setting. Such a mod, in theory, would allow multiple overlapping encounter mods to work together very easily by automagically putting enemies close to each other in the same group, thus allowing them to properly work together, aggro together, and not have 1 mod's encounters ignore you while the other mod's encounter comes to fight.
 2. Made Orin and Ketheric immune to being disarmed.
 3. Made all of the books from the Useful Library mod unique. My mistake assuming they would be, hopefully now you won't get 500 copies of 101 Goblin Jokes.
+4. Added (optional mod) a transmogrification mod so you can swap the appearance of one piece of gear with another piece of gear. Read the Nexus page (right-click the mod in MO2, select "Visit on Nexus") for instructions, limitations, do's, and don't's. Don't do what Donny Don't does.
+5. Removed Supreme Healing potions from enemies. Having them restore 40+ HP mid combat is more annoying than a Pokemon trainer battle spamming Full Restore.
+6. Added "Castigated by Divinity" as a consequence for using the Censor of Orcus or Blackguard's Plate.
+7. Added "Castigated by Divinity" as a possible consequence of fighting Dame Aylin's Moonlight Slivers, Raphael, and Valeria.
+8. Added a Death Knight clone (Stalker Svignee) to the courtyard battle.
+9. Degreaser edits to enemy templates (these changes are overwritten if any specific creature has a more specific stat block from Larian):
+   * Deva: Resists Necrotic, has "Divine Health" and ignores disease and Poison.
+   * Merregon: Vulnerable to Radiant, Fighter tagged.
+   * Ogres: Increased reach, Barbarian tagged, able to rage.
+   * Dopplegangers: Rogue tagged, Assassin subclass features, resists psychic damage, deals extra poison damage.
+   * Deathknights: Paladin tagged.
 
 ## Listonomicon v3.5
 
