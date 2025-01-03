@@ -13,6 +13,14 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.5.1 (WIP unreleased)
+
+Save Safe? Yes
+
+1. Salvaged old translation files I made in my MMM-Listo patching attempt. So enemies will be renamed if you add MMM, thanks to Degreaser.
+2. Made Orin and Ketheric immune to being disarmed.
+3. Made all of the books from the Useful Library mod unique. My mistake assuming they would be, hopefully now you won't get 500 copies of 101 Goblin Jokes.
+
 ## Listonomicon v3.5
 
 Save Safe? Yes
