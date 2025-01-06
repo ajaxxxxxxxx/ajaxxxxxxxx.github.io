@@ -25,7 +25,7 @@ Save Safe? Yes
 6. Added "Castigated by Divinity" as a consequence for using the Censor of Orcus or Blackguard's Plate.
 7. Added "Castigated by Divinity" as a possible consequence of fighting Dame Aylin's Moonlight Slivers, Raphael, and Valeria.
 8. Added a Death Knight clone (Stalker Svignee) to the courtyard battle.
-9. Many More Monsters is back! (the author made his own EO compatability patch).
+9. Many More Monsters is back! Mostly. If you wish to enable OPTIONAL_Many More Monsters, ALSO enable OPTIONAL_MMM EO Patch (the author made his own EO compatability patch that actually works). Combat Extender has been updated based on the EO compat patch to nerf/revise/change everything prior to the Blighted Village similar to the nerfs/changes CX makes for vanilla and EO encounters, but MMM is a baseline more difficult encounter mod and still has problems with overlapping other mods or changing the early game flow in a way that I am keeping it optional. Fun, but not at that vague 95% score system I mentally use to make something a core mod suggestion.
 10. Increased XP requirements across Listo's early levels. Reaching level 12 requires about 12,500 more XP than before. The last 3 levels (18, 19, 20) require about 3000 more total. The total XP requirement to hit level 20 in Listo has increased from about 385k to 400k.
 11. Removed Controlled Chaos from the swamp redcaps. I realize now that making you face 4 enemies that can all trigger wild magic surges on you is kind of mean. (hard mode CX still has it).
 12. Brought the hard CX config up to date with changes in the main config.
@@ -37,6 +37,8 @@ Save Safe? Yes
    * Deathknights: Paladin tagged.
    * Harpy: Vulnerable to piercing, lightning, and cold.
    * Being evil has more consequences: Dame Aylin's Moonlight Slivers, Aylin herself, and Valeria are capable of inflicting the player with "Castigated By Divinity" if you start a fight.
+   * Spiders: Weak to fire, resist poison.
+   * I'm happy to report that the way MMM adds enemies is usually through referencing existing templates, which means Degreaser changes will pretty reliably affect MMM without me having to make CX entries for everything. So MMM should generally be a consistent experience with the rest of Listo. This also means, however, that a lot of MMM enemies inherit CX class tags (like rogue, fighter, etc) because CX itself edits generic enemy templates, so there are some MMM enemies that double dip because the author assigned them abilities that make sense without planning for players to also have Combat Extender add abilities that MMM encounters inherit.
 
 ## Listonomicon v3.5
 
