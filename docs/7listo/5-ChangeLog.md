@@ -13,9 +13,11 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.5.1 (WIP unreleased)
+## Listonomicon v3.5.1
 
 Save Safe? Yes
+
+Listo "Lite" version? Yes.
 
 1. Salvaged old translation files I made in my MMM-Listo patching attempt. So enemies will be renamed if you add MMM, thanks to Degreaser. I am hoping that in the future, Goon's CX Library or a new mod is created that enables passive tagging-based dynamic faction relationship setting. Such a mod, in theory, would allow multiple overlapping encounter mods to work together very easily by automagically putting enemies close to each other in the same group, thus allowing them to properly work together, aggro together, and not have 1 mod's encounters ignore you while the other mod's encounter comes to fight.
 2. Made Orin and Ketheric immune to being disarmed.
