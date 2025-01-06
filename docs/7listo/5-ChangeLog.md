@@ -25,7 +25,9 @@ Save Safe? Yes
 6. Added "Castigated by Divinity" as a consequence for using the Censor of Orcus or Blackguard's Plate.
 7. Added "Castigated by Divinity" as a possible consequence of fighting Dame Aylin's Moonlight Slivers, Raphael, and Valeria.
 8. Added a Death Knight clone (Stalker Svignee) to the courtyard battle.
-9. Degreaser edits to enemy templates (these changes are overwritten if any specific creature has a more specific stat block from Larian):
+9. Many More Monsters is back! (the author made his own EO compatability patch).
+10. Increased XP requirements across Listo's early levels.
+11. Degreaser edits to enemy templates (these changes are overwritten if any specific creature has a more specific stat block from Larian):
    * Deva: Resists Necrotic, has "Divine Health" and ignores disease and Poison.
    * Merregon: Vulnerable to Radiant, Fighter tagged.
    * Ogres: Increased reach, Barbarian tagged, able to rage.
