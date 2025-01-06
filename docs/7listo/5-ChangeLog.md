@@ -26,13 +26,17 @@ Save Safe? Yes
 7. Added "Castigated by Divinity" as a possible consequence of fighting Dame Aylin's Moonlight Slivers, Raphael, and Valeria.
 8. Added a Death Knight clone (Stalker Svignee) to the courtyard battle.
 9. Many More Monsters is back! (the author made his own EO compatability patch).
-10. Increased XP requirements across Listo's early levels.
-11. Degreaser edits to enemy templates (these changes are overwritten if any specific creature has a more specific stat block from Larian):
+10. Increased XP requirements across Listo's early levels. Reaching level 12 requires about 12,500 more XP than before. The last 3 levels (18, 19, 20) require about 3000 more total. The total XP requirement to hit level 20 in Listo has increased from about 385k to 400k.
+11. Removed Controlled Chaos from the swamp redcaps. I realize now that making you face 4 enemies that can all trigger wild magic surges on you is kind of mean. (hard mode CX still has it).
+12. Brought the hard CX config up to date with changes in the main config.
+13. Degreaser edits to enemy templates (these changes are overwritten if any specific creature has a more specific stat block from Larian):
    * Deva: Resists Necrotic, has "Divine Health" and ignores disease and Poison.
    * Merregon: Vulnerable to Radiant, Fighter tagged.
    * Ogres: Increased reach, Barbarian tagged, able to rage.
    * Dopplegangers: Rogue tagged, Assassin subclass features, resists psychic damage, deals extra poison damage.
    * Deathknights: Paladin tagged.
+   * Harpy: Vulnerable to piercing, lightning, and cold.
+   * Being evil has more consequences: Dame Aylin's Moonlight Slivers, Aylin herself, and Valeria are capable of inflicting the player with "Castigated By Divinity" if you start a fight.
 
 ## Listonomicon v3.5
 
