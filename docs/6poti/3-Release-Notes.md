@@ -10,6 +10,34 @@ description: Release Notes
 
 ## Releases (Newest to Oldest)  
 
+## POTI 2.0 RC4 - TBR
+
+**Added**
+
+**Updated**
+1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
+   * 1.2.4 to 1.3.0
+2. [Rafael's Shader Pack](https://www.nexusmods.com/morrowind/mods/53667)
+   * 1.5f to 1.6
+3. [Nocturnal Moths](https://www.nexusmods.com/morrowind/mods/44148)
+   * 1.2.1 to 2.0b
+4. [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
+   * 1.02b to 1.03
+5. [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
+   * 3.2.1 to 3.2.2
+6. [Daedric Shrine Overhaul](https://www.nexusmods.com/morrowind/mods/54679)
+   * 1.1.0 to 1.1.1
+7. [The Stone Halls of Solstheim - Reforged](https://www.nexusmods.com/morrowind/mods/49841)
+   * 1.3 to 1.4
+8. [God of Worms - Succession](https://www.nexusmods.com/morrowind/mods/48028)
+   * 1.07 to 1.10
+10. [Morrowind Redux](https://www.nexusmods.com/morrowind/mods/54060)
+    * 2.2.1 to 2.2.2
+11. [Stormrider Ship - Expanded Lands](https://www.nexusmods.com/morrowind/mods/53736)
+    * 1.2 to 1.3
+
+**Removed**
+
 ## POTI 2.0 RC3 - 12/25/2024
 
 Save Safe? No 
