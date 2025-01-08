@@ -13,6 +13,17 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.5.2 (WIP, unreleased)
+
+Save Safe? Yes
+
+1. Added Veil and Venom (latest GraphicFade equipment mod)
+2. Added Attunement - Rarity and Equip Limits. This replaces the blanket "5 attuned items" limit system with something a little more nuanced, and in a lot more need of fine tuning. Please look at the pictures/updated information in the [Attunement](https://www.modlists.net/docs/7listo/GameBalance#attunement) section of the wiki.
+3. Added Semi-Transparent VFX so True Darkness is less dark.
+4. Updated several mods, including Goon's Passive Library and its changes to giving enemies access to invisibility.
+5. CX tweaks to fix some stuff and incorporate Veil and Venom abilities (mostly on enemy rogues, mostly).
+6. Fixes for the books mod again. Thank you Cahoot.
+
 ## Listonomicon v3.5.1
 
 Save Safe? Yes
