@@ -13,6 +13,13 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.5.3 Hotfix
+
+Save Safe? Yes. Please update from v3.5.2.
+
+1. Updated Listo mod settings to actually include new attunement mechanics.
+2. Updated Degreaser to hopefully make Castigated By Divinity work as intended, and not allow Aylin to spawn infinite hostile devas to murder the party.
+
 ## Listonomicon v3.5.2
 
 Save Safe? Yes
