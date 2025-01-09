@@ -13,7 +13,7 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.5.2 (WIP, unreleased)
+## Listonomicon v3.5.2
 
 Save Safe? Yes
 
@@ -25,6 +25,7 @@ Save Safe? Yes
 6. Fixes for the books mod again. Thank you Cahoot.
 7. Added (optional) "Dark Urge Rebirth" - once per long rest, the first time Durge would die in battle, they instead regain 3d4 HP and make a Wisdom saving throw. On a fail, the Dark Urge takes over for one turn, and allies become indistinguishable from enemies. Testing this in my playthrough to maybe make a core mod in the future.
 8. Added Shovel Evolved and Us Evolved for testing. In theory should allow Shovel and Us to have a little more relevance to the game for players who care about them (especially vs cranked enemies with all their CX changes), but they should still be an auxillary resource that is less powerful than party members.
+9. Updated mods fixes Bladesinger issues and other minor problems with 3.5.1.
 
 ## Listonomicon v3.5.1
 
