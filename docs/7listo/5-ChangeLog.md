@@ -23,6 +23,8 @@ Save Safe? Yes
 4. Updated several mods, including Goon's Passive Library and its changes to giving enemies access to invisibility.
 5. CX tweaks to fix some stuff and incorporate Veil and Venom abilities (mostly on enemy rogues, mostly).
 6. Fixes for the books mod again. Thank you Cahoot.
+7. Added (optional) "Dark Urge Rebirth" - once per long rest, the first time Durge would die in battle, they instead regain 3d4 HP and make a Wisdom saving throw. On a fail, the Dark Urge takes over for one turn, and allies become indistinguishable from enemies. Testing this in my playthrough to maybe make a core mod in the future.
+8. Added Shovel Evolved and Us Evolved for testing. In theory should allow Shovel and Us to have a little more relevance to the game for players who care about them (especially vs cranked enemies with all their CX changes), but they should still be an auxillary resource that is less powerful than party members.
 
 ## Listonomicon v3.5.1
 
