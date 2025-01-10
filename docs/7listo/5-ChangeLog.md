@@ -13,9 +13,37 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.5.3 Hotfix
+## Listonomicon v3.5.4
 
-Save Safe? Yes. Please update from v3.5.2.
+Save Safe? Yes.
+
+Combat Extender:
+
+1. Added broad support for Act 1 DHM Bosses and Encounters and Boss Pack 1. This should appropriately challenge a party that has cleared Grym and is ready to go to the Creche.
+2. More coverage for other mods adding new encounters (MMM, Extra Encounters and Minibosses).
+3. Cleaned up various other CX entries.
+4. Reverted nerfs to the vampire and werewolf encounter for DHM in Act 1. If you are not ready to face level 8 encounters immediately after Blighted Village, reach the goblin camp by going around to the Gith entrance.
+5. If you play with DHM enabled, the beach frog tongue attack has been distributed to a few enemies that I think are thematically appropriate. Note that any character that is downed by the nom attack will die instantly.
+6. Kagha has a CX entry.
+7. Raphael now has his own CX entry. **Raphael is intended to be the most difficult fight before the end game**, show up prepared. Raphael + Korilla + his cambions +/- Yurgir are designed to be a difficult wall of abilities and stats to truly test the ability of your party to handle a large boss fight after the potential resource drain caused by poor performance in the House of Hope. Good luck, True Soul. Remember that you can always side with Raphael instead :)
+8. Some members of The Guild now have entries.
+9. Yurgir now has an entry.
+10. Various Shadow Cursed Land (Act 2), Creche, Githyanki, and end game encounters now have CX entries.
+11. Optional Harder CX config includes the above but worse.
+
+Degreaser:
+1. Nerfed Sid Vix from DHM. These insanely OP handcrossbows are probably still the most powerful hand crossbow combo in Listo, but they don't completely overshadow all other ranged weapons anymore.
+2. Added overwrite stats for Raphael to make him just a little more mean.
+3. Added overwrite stats for the Soul Pillars in the Raphael fight so that they can't easily be nuked in the first turn. They have more HP and shuffled vulnerabilities/resistances/immunities.
+4. Orphic Hammer now has stats worthy of its plot importance.
+5. Fixed a shitload of errors with degreaser. I'm glad Cahoot showed me how to use the BG3 Stats Validator, just wish I used it sooner.
+
+Other Changes:
+
+
+## Listonomicon v3.5.3 
+
+Save Safe? Yes
 
 1. Updated Listo mod settings to actually include new attunement mechanics.
 2. Updated Degreaser to hopefully make Castigated By Divinity work as intended, and not allow Aylin to spawn infinite hostile devas to murder the party.
