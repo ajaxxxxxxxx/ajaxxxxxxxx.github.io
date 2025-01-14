@@ -13,13 +13,21 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.5.5
+
+Save Safe? Yes.
+
+1. Reversed some changes in Degreaser to undead (specifically, removing force resistance from anyone).
+2. Hopefully this time made changes to the Soul Pillars stick (pillars are neutral to force damage instead of vulnerable, thanks Cahoot for helping me understand editing better).
+3. Updated to the latest version of Goon's CX Library. Updated older Sanctuary entries with newer Sanctuary entries (notably Isobel).
+
 ## Listonomicon v3.5.4
 
 Save Safe? Yes.
 
 Combat Extender:
 
-1. Added broad support for Act 1 DHM Bosses and Encounters and Boss Pack 1. This should appropriately challenge a party that has cleared Grym and is ready to go to the Creche.
+1. Added broad support for Act 1 DHM Bosses and Encounters and Boss Pack 1. This should appropriately challenge a party that has cleared Grym and is ready to go to the Creche. Specifically, the dragonborn in the dungeon were buffed.
 2. More coverage for other mods adding new encounters (MMM, Extra Encounters and Minibosses).
 3. Cleaned up various other CX entries.
 4. Reverted nerfs to the vampire and werewolf encounter for DHM in Act 1. If you are not ready to face level 8 encounters immediately after Blighted Village, reach the goblin camp by going around to the Gith entrance.
