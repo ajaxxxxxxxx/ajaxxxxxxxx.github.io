@@ -25,22 +25,26 @@ description: Listonomicon
 
 ![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/bol.png)
 
-### 0.) Basics
+### 1.) Read Requirements
 
-At no point in installing Listo do you need to manually download Mod Organizer 2. A MO2 "portable instance" will come pre-packed in Listo's download from Wabbajack. There will be a Mod Organizer 2.exe in the folder where Listo is installed used to launch the portable instance just for Listo. There is no reason to install MO2 manually and deal with a global instance. You do not need the Baldur's Gate 3 Mod Manager, you do not need to download the BG3 Script Extender, and you do not need Vortex. MO2 does the old Mod Manager's job, script extender is pre-packaged with Listo, and the whole point of Wabbajack is to ditch Vortex.
+Please scroll back up and read the "Installing Microsoft Visual C++ and .NET" warning. These prequisities are required for the MO2 plugin to work correctly.
 
-### 1.) Reinstall Baldur's Gate 3
+### 2.) Basics
+
+At no point in installing Listo do you need to manually download Mod Organizer 2. A MO2 "portable instance" will come pre-packed in Listo's download from Wabbajack. There will be a Mod Organizer 2.exe in the folder where Listo is installed used to launch the portable instance just for Listo. There is no reason to install MO2 manually. You do not need the Baldur's Gate 3 Mod Manager, you do not need to download the BG3 Script Extender, and you do not need Vortex. MO2 does the old Mod Manager's job, script extender is pre-packaged with Listo, and the whole point of Wabbajack is to ditch Vortex.
+
+### 3.) Reinstall Baldur's Gate 3
 
 - **Nuke BG3** (optional but _highly recommended_): Uninstall the game _completely_, delete anything left of the install folder (e.g. D:/SteamLibrary/steamapps/common/Baldurs Gate 3), and delete the folder at %localappdata%\Larian Studios. This is to ensure no errant files are leftover from previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Nuking everything improves the odds that Listo works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with Listo. This is especially true now with Mod.io integration and Larian's official mod manager services.
 - Also ensure that your new Baldur's Gate 3 is in a steam folder on the base of your drive (IE: C:/Steam/.../BaldursGate3) if possible, Wabbajack/MO2 might struggle if it is in a default Steam location like C:/program files(86)/Steam/.../BG3.
 - Remove the BG3 Script Extender if you installed it manually (this should have happened with the nuking).
-- After reinstalling, launch the game (vanilla from Steam) once to regenerate all of the folders/paths that MO2 and BG3MM need. When you reach the main menu, quit and continue to Step 2.
+- After reinstalling, launch the game (vanilla from Steam) once to regenerate all of the folders/paths that MO2 and BG3MM need. When you reach the main menu, quit and continue to Step 3.
 
-### 2.) Preparing Your Listonomicon Folder
+### 3.) Preparing Your Listonomicon Folder
 
 Create a folder named Listonomicon somewhere on your PC, the closer to the root of the drive the better. For example, D:/Games/Listonomicon, or just D:/Listonomicon. When we discuss "Downloads" or "Mods" folders in the future, we mean [the drive with this folder]/Listonomicon/Downloads or [the drive with this folder]/Listonomicon/Mods. This folder is your Listo Install Location.
 
-### 3.) Downloading the List
+### 4.) Downloading the List
 
 You can get a copy of Listonomicon.wabbajack from Nexus if you want/need to play an older version of the list for any reason. However, the correct method is to open Wabbajack and browse the mod gallery. Filter the list at the top to Baldur's Gate 3, look for Listonomicon, and hit the download icon. This will grab a copy of the .wabbajack file, and the download icon will become a play button. Click the play button. On the next screen, set the Modlist Installation Location to the Listonomicon folder you made in Step 2. "Resource Download Location" should automatically fill with "[Listo folder location]\downloads."
 
@@ -48,7 +52,7 @@ You can get a copy of Listonomicon.wabbajack from Nexus if you want/need to play
 "But wait, what if I don't want to download all 550+ Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option!" In that case, you can manually download Listonomicon LITE.wabbajack from Nexus. **The "lite" version of Listo will be periodically updated to match major Listonomicon revisions, but will not be kept 1:1 up to date with Listo on a regular basis.** Use Wabba’s “Install from disk" option and select Listo Lite.wabbajack as your modlist.
 :::
 
-### 4.) Preparing Steam
+### 5.) Preparing Steam
 
 - Navigate to Steam -> Right click BG3 -> Properties -> Updates and change “Automatic Updates” to “Only Update This Game When I Launch It.”
 - Never launch the game via Steam, always launch it through Mod Organizer, to prevent updates from breaking the list and ending your playthrough. You may need to launch the game from Steam ONCE after a reinstall to make MO2 work.
@@ -59,7 +63,7 @@ You can get a copy of Listonomicon.wabbajack from Nexus if you want/need to play
 BG3 is still receiving Patches (major updates) and Hotfixes (small updates). These updates tend to introduce new bugs and issues to the game that may be difficult to distinguish from issues caused by mods (either with the list, or mods broken by updates). Major updates can also break Script Extender functionality, etc etc. This is why it is highly recommended to disable automated updates.
 :::
 
-### 5.) Launching MO2
+### 6.) Launching MO2
 
 - Your portable instance of Mod Organizer 2 should be ready as soon as Wabbajack is done. Look for ModOrganizer.exe in the folder where you installed Listonomicon. You can verify that everything is working by ensuring that MO2 has defaulted to the correct profile at the top-left, which should be Listonomicon.
 - **Your total number of active mods should be 598, and the purple seperator at the top should say Listonomicon v3.5.2. Total active mods should be 410 for Listo Lite, and the seperator should say Listonomicon v3.5.**
@@ -67,13 +71,13 @@ BG3 is still receiving Patches (major updates) and Hotfixes (small updates). The
 - Hit "run" after selecting the EXE that works best for your system. Always launch the game this way (don't use Steam).
 - You can verify Listo's mods are all loaded correctly after install by clicking on the official mod manager and looking at the installed mods tab. Is there a long list with almost everything enabled? Good. Some mods, like overwrites to text, will not show as "Enabled" but will still be working ifne.
 
-### 6.) Game Settings
+### 7.) In-Game Settings
 
 :::caution
 You must change **Animation Level of Detail** to **High** in your Visual Settings. Otherwise, any heads added or changed by mods will suffer from visual bugs and animation issues. Any/all other graphics settings can be changed according to your PC specs.
 :::
 
-You should begin a new game on **Custom Difficulty** to have the same experience Listonomicon was play tested for. Hit "Restore Default" in the Custom Difficulty menu, all options should update to Listo's intended settings. The only exception is that you must manually change the ruleset from Normal to Honour, at the top of Custom Difficulty.
+_You should begin a new game on **Custom Difficulty**_ to have the same experience Listonomicon was play tested for. When starting a new campaign, navigate to the right to select Custom Difficulty (it's after Honour Mode). Hit "Restore Default" at the bottom-right in the Custom Difficulty menu, all options should update to Listo's intended settings. The only exception is that **you must manually change the ruleset from Normal to Honour, at the top of Custom Difficulty**. If you do not enable the Honour Ruleset, you will not be able to change it during your campaign. Many intended features of Listo will not work, and you will be unable to equip magic items.
 
 :::note
 Please remember to hit "Custom Difficulty" **and set the ruleset at the top to Honour Mode**. This is the only difficulty setting that cannot be changed mid-campaign and you will not have the intended experience without HM's changes to enemies, mechanics, and game rules.
@@ -90,11 +94,11 @@ Per the image above, your difficulty settings should be as follows:
 
 **If you do not enable the Honour Ruleset at the top** you will not be able to equip magic items. This is a built-in feature to punish you for not reading the instructions.
 
-### 7.) Customizing Listonomicon
+### 8.) Customizing Listonomicon
 
-**No support is offered or guaranteed for anyone who modifies the behavior or contents of Listonomicon.** It is already difficult to keep up with new mods daily on the Nexus; updates and changes to mods in the list; changes in the script extender; new and changed features in the community compatibility frameworks; as well as game patches and hotfixes; vanilla game bugs; and the consequences of (seemingly) minor mod setting tweaks on gameplay. Further modify the list at your own peril. We hope that you are able to customize a fun, stable, great experience tailored to your specific tastes using Listonomicon as a stepping stone - but will not promise troubleshooting or technical support. If adding mods to MO2 (or enabling optional mods from Listo) appears not to work in game, try closing MO2 and going to [listo install location]/profiles/listonomicon and delete the ModsCache and Mod Settings files. Next time you launch the game it will take a long time to load as it rebuilds your mod list, and then should work as normal.
+**No support is offered or guaranteed for anyone who modifies the behavior or contents of Listonomicon.** But we hope that Listo provides a fun, stable foundation to add your favorite mods to :)
 
-### 8.) Optional Mods
+### 9.) Optional Mods
 
 There are several optional mods packaged with Listonomicon to enable even more fun, whacky, QoL, random, or challenge features. No official support is offered for adding any other mods to Listonomicon. You can find optional mods in MO2 by typing OPTIONAL_ into the search bar at the bottom-right of your mod list. Hover over the notepad icon to the right of the mod's name to read any notes relevant to enabling that mod, such as other mods that need to be enabled or disabled with it. If enabling/disabling optional mods does not seem to do anything, try closing MO2 and going to [listo install location]/profiles/listonomicon. Delete the ModsCache file and modsettings.lsx. Next time you launch the game it will take a long time to load as it rebuilds your mod list, and then should work as normal.
 
@@ -107,7 +111,7 @@ Optional mods are broken out into a few categories:
 **4. SILLY Optional Tweaks** are fun, funny, or whacky mods that work with Listo but are unbalanced, or too goofy, or fall too far outside the scope of the List's goals, or has other glaring issues (like Gortash as a Dragonborn, it's a great mod idea but his lipsync breaks in a very distracting way).
 **5. Other** There are optional mods peppered throughout other sections of MO2, not just organized at the bottom, because in order to work properly they need to be placed in a particular section of your load order. The easiest way to find these (rather than sift through 600+ mods) is to use the search bar at the bottom-right of MO2 and type OPTIONAL_.
 
-### 9.) Optional Difficulty Tweaks
+### 10.) Optional Difficulty Tweaks
 
 If Listo is too hard, and you'd actually have more fun if it was a little easier, you can make two changes:
 1. In Custom Difficulty settings, reduce the trade price penalty to x3-x3.5. If you reduce it too much, buying prices become too low and the economy really falls apart. You can reduce the long rest camp supply cost to a lower number, whatever you want.
@@ -118,7 +122,7 @@ If Listo is not hard enough,
 2. If that isn't hard enough, navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Hard CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, unrelaxed CX configuration. The alt file has more enemy health, more enemy buffs, and more cruel combinations of spells and abilities and features.
 3. If that still isn't hard enough, enable OPTIONAL_Listo Hard Mode in MO2. OPTIONAL_Listo Hard Mode uses the Enemy Stats mod to increase enemy attributes and HP for every 5 character levels, on top of the tweaks from Combat Extender, and/or Absolute Wrath.
 
-### 10.) Multiplayer
+### 11.) Multiplayer
 
 (written by Kmnder, edited by Ajax)
 
@@ -128,6 +132,6 @@ If Listo is not hard enough,
 4. **Every time** you want to continue COOP, everyone should load their dummy save. Once everyone has loaded in, the Host invites everyone to the same game.
 5. Kmnder: I’ve invited through clicking multiplayer+ and then steam inviting. But it’s worked 100% of the time so far.
 
-### 11.) Cleanup (Optional)
+### 12.) Cleanup (Optional)
 
 If you are desperate to restore some space on your hard drive after installing Listo, you can go to [Listo Install Location]/downloads and delete everything to cut Listo's size. Note, however, that if you ever want to update Listo that Wabbajack will have to re-download _everything_ again rather than just updated and new mods.
