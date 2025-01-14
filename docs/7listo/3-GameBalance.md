@@ -74,10 +74,10 @@ Now, with all of that context, note that the following fights are especially twe
 14. Cazador has higher level spell slots (7+).
 15. Sarevok is much more dangerous and able to go toe-to-toe with multiple enemies even while outnumbered. He has health regen, dishes out multiple attacks per turn, and even when he dies he might not be dead without a crit or radiant damage.
 16. Ansur has a big heap of HP, Elemental Adept (Lightning), and generally much better survivability even when outnumbered by a 6-man party.
-17. Raphael himself has no direct buffs. But everyone else in the confrontation with him is much more dangerous! Each of his cambions are bigger and badder, and do something different. Korilla is now the chosen warlock of Raphael, and has the magical skills to back it up - including a spell list designed to be maximum annoying. She will silence, counterspell, and debuff your team while buffing, protecting, and healing her own. You may want to leave Hope outside.
-18. The end game courtyard fight has an additional mummy, mindflayer, and spectator.
-19. Many/most Baneites (the Act 3 enemies who work for Gortash) are more powerful and focused on applying smites, conditions, and psychic damage.
-20. The final fight, and the fight to get to the final fight, are designed to be a serious challenge. The Elder Brain will be a race against time to deplete her healthbar before she destroys all of the platforms in the end fight.
+17. Raphael has stacked many of the buffs you see throughout Listo on the road to fight him. His soul pillars are less laughably trivial to destroy. And everyone else in the confrontation with him is much more dangerous! Each of his cambions are bigger and badder, and do something different. Korilla is now the chosen warlock of Raphael, and has the magical skills to back it up - including a spell list designed to be maximum annoying. She will silence, counterspell, and debuff your team while buffing, protecting, and healing her own. You may want to leave Hope outside. More of your resources will be taxed before you even reach Raphael with a greater number of more dangerous foes in the House of Hope.
+18. The end game courtyard fight has an additional mummy, mindflayer, death knight, and spectator.
+19. Many/most Baneites (the Act 3 enemies who work for Gortash) are more powerful and focused on applying smites, conditions, and psychic damage. Gortash himself and his primary guards are much more powerful. It is definitely advisable to destroy the Steelwatch Foundry before facing him.
+20. The final fight, and the fight to get to the final fight, are designed to be a serious challenge. The Elder Brain will be a race against time to deplete her healthbar before she destroys all of the platforms in the end fight. If you side against the Emperor, he is a respectable challenge in his own right. The dominated Red Dragon will be more dangerous.
 
 ## Party Size, Game Balance, and Performance
 
