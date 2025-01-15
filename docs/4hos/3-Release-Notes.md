@@ -26,6 +26,9 @@ Save Safe? YES
 
 **Updated**
 
+* Eating Animations and Sounds - First Person Patch
+  > 1.0 to 1.2
+
 # Release 1.3.1
 Save Safe? YES (But I would recommend starting a new one just in case)
 
