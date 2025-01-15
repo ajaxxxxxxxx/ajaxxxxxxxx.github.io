@@ -16,7 +16,6 @@ Save Safe? YES
 * [Stuff of Shadows - 3D Nightingale Stone - Nightingale and Twilight Sepulcher Improvements and Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/130481)
 * [Next-Gen Decapitations](https://www.nexusmods.com/skyrimspecialedition/mods/135254)
 * [Summoning Portals VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/135614)
-* [Improved Traps - Nether's Follower Framework Bear Trap Fix](https://www.nexusmods.com/skyrimspecialedition/mods/31868)
 * [Auto Audio Switch](https://www.nexusmods.com/skyrimspecialedition/mods/134404)
 * [Leviathan Animations - Two-Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/48550)
 * [Vanargand Animations - One Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/58326)
