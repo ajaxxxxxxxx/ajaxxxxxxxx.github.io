@@ -20,6 +20,7 @@ Save Safe? YES
 * [Leviathan Animations - Two-Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/48550)
 * [Vanargand Animations - One Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/58326)
 * [Vanargand Animations II - Unarmed Normal And Power Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/117328)
+* [Hotkey Reminder](https://www.nexusmods.com/skyrimspecialedition/mods/115853)
 
 **Removed**
 
