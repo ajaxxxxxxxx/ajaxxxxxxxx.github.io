@@ -2,6 +2,30 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 1.3.2
+Save Safe? YES
+
+**Added**
+
+* [Behavior Data Injector](https://www.nexusmods.com/skyrimspecialedition/mods/78146)
+* [Behavior Data Injector Universal Support](https://www.nexusmods.com/skyrimspecialedition/mods/78159)
+* [Better Pig For Skytest](https://www.nexusmods.com/skyrimspecialedition/mods/134588)
+* [Fluffy Xtudo Sheep for Skytest](https://www.nexusmods.com/skyrimspecialedition/mods/132686)
+* [Better Atronach Forge Offering Box - No More Dwemer Dresser - High Polygon Summoning Circle](https://www.nexusmods.com/skyrimspecialedition/mods/132887)
+* [Mehrunes Dagon Unique Shrine - Shrine Objects Swapped - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/133264)
+* [Stuff of Shadows - 3D Nightingale Stone - Nightingale and Twilight Sepulcher Improvements and Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/130481)
+* [Next-Gen Decapitations](https://www.nexusmods.com/skyrimspecialedition/mods/135254)
+* [Summoning Portals VFX Edit](https://www.nexusmods.com/skyrimspecialedition/mods/135614)
+* [Improved Traps - Nether's Follower Framework Bear Trap Fix](https://www.nexusmods.com/skyrimspecialedition/mods/31868)
+* [Auto Audio Switch](https://www.nexusmods.com/skyrimspecialedition/mods/134404)
+* [Leviathan Animations - Two-Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/48550)
+* [Vanargand Animations - One Handed Normal Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/58326)
+* [Vanargand Animations II - Unarmed Normal And Power Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/117328)
+
+**Removed**
+
+**Updated**
+
 # Release 1.3.1
 Save Safe? YES (But I would recommend starting a new one just in case)
 
