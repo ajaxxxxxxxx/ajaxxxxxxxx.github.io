@@ -24,6 +24,10 @@ Save Safe? YES
 
 **Removed**
 
+* [Read Or Take SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/69588)
+* [moreHUD SE](https://www.nexusmods.com/skyrimspecialedition/mods/12688)
+* [Show Player In Menus](https://www.nexusmods.com/skyrimspecialedition/mods/81291)
+
 **Updated**
 
 * Eating Animations and Sounds - First Person Patch
