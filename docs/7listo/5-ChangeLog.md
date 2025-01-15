@@ -23,6 +23,7 @@ Save Safe? Yes.
 4. Added Chivalry - new knightly themed arms and equipment in Acts 1, 2, and 3.
 5. Removed Goon's fixes/patches/changes from Degreaser and added them separately as their own mods. This bloats the DL for Listo but it makes it easier to keep up to date with his latest fixes/tweaks/changes/improvements. For now this adds a useless spell to your hotbar to summon Basket Full of Equipment, which is not in Listo; if you don't use that mod, throw that off your hotbar and ignore it.
 6. Updated a dozen mods.
+7. Moved the new Dark Urge + Origin mods to below the (optional) mods that enable changing origin appearances.
 
 ## Listonomicon v3.5.4
 
