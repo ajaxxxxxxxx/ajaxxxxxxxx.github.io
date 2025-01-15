@@ -13,13 +13,16 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.5.5 (WIP unreleased)
+## Listonomicon v3.5.5
 
 Save Safe? Yes.
 
 1. Reversed some changes in Degreaser to undead (specifically, removing force resistance from anyone).
 2. Hopefully this time made changes to the Soul Pillars stick (pillars are neutral to force damage instead of vulnerable, thanks Cahoot for helping me understand editing better).
 3. Updated to the latest version of Goon's CX Library. Updated older Sanctuary entries with newer Sanctuary entries (notably Isobel).
+4. Added Chivalry - new knightly themed arms and equipment in Acts 1, 2, and 3.
+5. Removed Goon's fixes/patches/changes from Degreaser and added them separately as their own mods. This bloats the DL for Listo but it makes it easier to keep up to date with his latest fixes/tweaks/changes/improvements. For now this adds a useless spell to your hotbar to summon Basket Full of Equipment, which is not in Listo; if you don't use that mod, throw that off your hotbar and ignore it.
+6. Updated a dozen mods.
 
 ## Listonomicon v3.5.4
 
