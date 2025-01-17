@@ -15,7 +15,7 @@ description: Listonomicon
 - A Nexus Account (Premium recommended; drastically increases install speed)
 :::
 
-:::warning
+:::danger
 #### Installing Microsoft Visual C++ and .NET
 **This is required.**
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
