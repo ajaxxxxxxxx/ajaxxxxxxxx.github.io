@@ -18,11 +18,11 @@ description: Release Notes
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
    * 1.2.4 to 1.3.0
 2. [Rafael's Shader Pack](https://www.nexusmods.com/morrowind/mods/53667)
-   * 1.5f to 1.6
+   * 1.5f to 1.6a
 3. [Nocturnal Moths](https://www.nexusmods.com/morrowind/mods/44148)
    * 1.2.1 to 2.0b
 4. [OpenMW Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
-   * 1.02b to 1.03
+   * 1.02b to 1.04
 5. [Beautiful Cities of Morrowind](https://www.nexusmods.com/morrowind/mods/49231)
    * 3.2.1 to 3.2.2
 6. [Daedric Shrine Overhaul](https://www.nexusmods.com/morrowind/mods/54679)
@@ -34,7 +34,11 @@ description: Release Notes
 10. [Morrowind Redux](https://www.nexusmods.com/morrowind/mods/54060)
     * 2.2.1 to 2.2.2
 11. [Stormrider Ship - Expanded Lands](https://www.nexusmods.com/morrowind/mods/53736)
-    * 1.2 to 1.3
+    * 1.2 to 1.4
+12. [OpenMW Skyrim Style Quest Notifications](https://www.nexusmods.com/morrowind/mods/54148)
+    * 1.26 to 1.28
+13. [Detect All Keys](https://www.nexusmods.com/morrowind/mods/52778)
+    * 1.0.2 to 2.0
 
 **Removed**
 
