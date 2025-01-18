@@ -22,6 +22,8 @@ description: Release Notes
 7. [Logs on Fire - Skyrim](https://www.nexusmods.com/morrowind/mods/55665)
 8. [Project Cyrodiil - SSQN Patch](https://www.nexusmods.com/morrowind/mods/55688)
 9. [Holy Divination (HD) Icons -OpenMW-](https://www.nexusmods.com/morrowind/mods/55273)
+10. [Animated Ectoplasm and Daedra's Heart](https://www.nexusmods.com/morrowind/mods/55386)
+11. [Animated Spriggan's Heartwood](https://www.nexusmods.com/morrowind/mods/55386)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
@@ -52,6 +54,7 @@ description: Release Notes
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
 2. [Dagoth Ur Fleshed Out](https://www.nexusmods.com/morrowind/mods/54070)
+3. [Sign Posts Retextured](https://www.nexusmods.com/morrowind/mods/42126)
    
 ## POTI 2.0 RC3 - 12/25/2024
 
