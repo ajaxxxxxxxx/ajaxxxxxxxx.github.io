@@ -15,6 +15,13 @@ description: Release Notes
 **Added**
 1. [Unholy Trinity - Dagoth Ur - Vemynal - Ordrosal Remade](https://www.nexusmods.com/morrowind/mods/55564)
 2. [Project Cyrodiil - SSQN Patch](https://www.nexusmods.com/morrowind/mods/55688)
+3. [From the Flaming Realm](https://www.nexusmods.com/morrowind/mods/54696)
+4. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957)
+5. [Near Vanilla Road Sign Replacer - Updated](https://www.nexusmods.com/morrowind/mods/55651)
+6. [Diverse Blood for Tamriel Rebuilt and Project Tamriel](https://www.nexusmods.com/morrowind/mods/55687)
+7. [Logs on Fire - Skyrim](https://www.nexusmods.com/morrowind/mods/55665)
+8. [Project Cyrodiil - SSQN Patch](https://www.nexusmods.com/morrowind/mods/55688)
+9. [Holy Divination (HD) Icons -OpenMW-](https://www.nexusmods.com/morrowind/mods/55273)
    
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
