@@ -13,7 +13,9 @@ description: Release Notes
 ## POTI 2.0 RC4 - TBR
 
 **Added**
-
+1. [Unholy Trinity - Dagoth Ur - Vemynal - Ordrosal Remade](https://www.nexusmods.com/morrowind/mods/55564)
+2. [Project Cyrodiil - SSQN Patch](https://www.nexusmods.com/morrowind/mods/55688)
+   
 **Updated**
 1. [Artifacts Reinstated](https://www.nexusmods.com/morrowind/mods/48074)
    * 1.2.4 to 1.3.0
@@ -41,7 +43,9 @@ description: Release Notes
     * 1.0.2 to 2.0
 
 **Removed**
-
+1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
+2. [Dagoth Ur Fleshed Out](https://www.nexusmods.com/morrowind/mods/54070)
+   
 ## POTI 2.0 RC3 - 12/25/2024
 
 Save Safe? No 
