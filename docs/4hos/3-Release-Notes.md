@@ -15,6 +15,13 @@ Save Safe? YES
 
 **Removed**
 
+* [Tree LOD Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86617)
+* [Water Parallax](https://www.nexusmods.com/skyrimspecialedition/mods/112761)
+* [Water Blending](https://www.nexusmods.com/skyrimspecialedition/mods/95145)
+* [Dynamic Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/112763)
+* [Complex Parallax Materials](https://www.nexusmods.com/skyrimspecialedition/mods/95134)
+* [Vanilla HDR](https://www.nexusmods.com/skyrimspecialedition/mods/76521)
+
 **Updated**
 
 * Community Shaders
