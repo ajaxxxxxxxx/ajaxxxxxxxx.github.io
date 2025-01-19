@@ -11,6 +11,7 @@ Save Safe? YES
 * [Cloud Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
 * [Terrain Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/135817)
 * [Screen Space Global Illumination (SSGI)](https://www.nexusmods.com/skyrimspecialedition/mods/130375)
+* [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762)
 
 **Removed**
 
@@ -18,6 +19,18 @@ Save Safe? YES
 
 * Community Shaders
   > 0.8.7 to 1.1.12
+* Wetness Effects
+  > 1.0.2 to 2.0
+* Subsurface Scattering
+  > 1.0.1 to 2.0
+* Light Limit Fix
+  > 1.3 to 2.0.1
+* Screen Space Shadows
+  > 1.2 to 1.2.1
+* Grass Collision
+  > 1.2 to 2.0
+* Grass Lighting
+  > 1.4.1 to 2.0
 
 # Release 1.3.2
 Save Safe? YES
