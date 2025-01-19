@@ -2,6 +2,23 @@
 
 # Releases (Newest to Oldest)  
 
+# Release 1.3.3
+Save Safe? YES
+
+**Added**
+
+* [Skylighting](https://www.nexusmods.com/skyrimspecialedition/mods/139352)
+* [Cloud Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
+* [Terrain Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/135817)
+* [Screen Space Global Illumination (SSGI)](https://www.nexusmods.com/skyrimspecialedition/mods/130375)
+
+**Removed**
+
+**Updated**
+
+* Community Shaders
+  > 0.8.7 to 1.1.12
+
 # Release 1.3.2
 Save Safe? YES
 
