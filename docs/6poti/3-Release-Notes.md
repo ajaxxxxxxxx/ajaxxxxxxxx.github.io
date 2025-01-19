@@ -50,6 +50,10 @@ description: Release Notes
     * 1.26 to 1.28
 13. [Detect All Keys](https://www.nexusmods.com/morrowind/mods/52778)
     * 1.0.2 to 2.0
+14. [The Northern Strongholds](https://www.nexusmods.com/morrowind/mods/53171)
+    * 3.5.1 to 3.6
+15. [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
+    * 2.0 to 2.0.1
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
