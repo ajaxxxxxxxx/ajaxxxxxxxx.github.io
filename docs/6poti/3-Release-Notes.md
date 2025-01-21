@@ -51,9 +51,13 @@ description: Release Notes
 13. [Detect All Keys](https://www.nexusmods.com/morrowind/mods/52778)
     * 1.0.2 to 2.0
 14. [The Northern Strongholds](https://www.nexusmods.com/morrowind/mods/53171)
-    * 3.5.1 to 3.6
+    * 3.5.1 to 3.6.1
 15. [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
     * 2.0 to 2.0.1
+16. [Protective Guards - Factions and NPCs Protections (OpenMW)](https://www.nexusmods.com/morrowind/mods/54858)
+    * 1.1.1 to 1.2
+17. [Facelift for Tamriel Data - BH Fix](https://www.nexusmods.com/morrowind/mods/53935)
+    * 0.15 to 0.17.1
 
 **Removed**
 1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204)
