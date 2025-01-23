@@ -29,6 +29,7 @@ Save Safe? No* (you could manually restore any missing mods to preserve an ongoi
 10. REMOVED a patch that added a lot of Wild Magic Sorcerer effects to Wild Magic Barbarians. While I believe in the supreme whackiness of wild magic, there is a difference between Wild Magic for Sorcerers (a risk/reward mechanic that can be avoided or played around) and Wild Magic for Barbarians (their primary mechanic/something they need to trigger to do their main class features). So the wild randomization for Barbarians, including many negative consequences like being turned into cheese wheels, severely hurts WMB gameplay in a way that is different from wild magic sorcerers. When I initially made these changes to expand barbarian wild magic tables, I had enemy barbarians in mind. After watching Listo's co-author play the Grove Defense Fight several times for play testing and getting every crap wild magic barbarian roll in a row, I get it now.
 11. Updated something like 30 mods.
 12. Moved Vecna's Eye and Vecna's Hand from OPTIONAL to CORE. However, Degreaser has nerfed both items (individually and as a pair). The artifacts are still very powerful, but they're a roleplay choice - are you evil, or morally dubious enough, to harness Vecna's power on your adventure? If I could, I would block Good characters from using it, and I would block any party with a Necromancer from using the Blood of Lathander, but for now it's up to you and the experience you want to have.
+13. Added Ghailskin Knight Armor.
 
 ## Listonomicon v3.5.5
 
