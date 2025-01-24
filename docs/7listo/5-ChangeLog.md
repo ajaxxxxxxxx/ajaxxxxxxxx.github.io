@@ -40,6 +40,8 @@ As always with big updates like this, please delete [Listonomicon install folder
 19. Removed the whole silly optional tweaks section. They're fine mods, but they're list bloat.
 20. Increased XP requirements to hit level 20 again, just a little bit.
 21. REMOVED Titansgrip Feat. It's a neat idea but the mod is too wonky and beyond my ability to fix. If the author ever makes a handful of requested changes we can revisit this mod, I have tried and failed with Degreaser to get it into the shape I hoped it could take when it became a core mod.
+22. Nerfed Foe Bane.
+23. Nerfed Sid Vix, again.
 
 ## Listonomicon v3.5.5
 
