@@ -36,6 +36,8 @@ Save Safe? No* (you could manually restore any missing mods to preserve an ongoi
 17. Removed "Listo Hard Mode." The other optional tweaks can be enabled and the CX config can be swapped. These are better/cleaner ways of doing difficulty than "MORE NUMBERS" and an extra D/L for people.
 18. Renamed "HARDER Optional Tweaks" to "OPTIONAL Challenge Mods." Added the 7-day challenge "Countdown to Ceremorphosis."
 19. Removed the whole silly optional tweaks section. They're fine mods, but they're list bloat.
+20. Increased XP requirements to hit level 20 again, just a little bit.
+21. REMOVED Titansgrip Feat. It's a neat idea but the mod is too wonky and beyond my ability to fix. If the author ever makes a handful of requested changes we can revisit this mod, I have tried and failed with Degreaser to get it into the shape I hoped it could take when it became a core mod.
 
 ## Listonomicon v3.5.5
 
