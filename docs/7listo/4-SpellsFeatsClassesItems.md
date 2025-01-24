@@ -61,8 +61,6 @@ Vanilla feats are heavily altered by the [Feat Rebalance Pack](https://www.nexus
 
 [Frostborn](https://www.nexusmods.com/baldursgate3/mods/6026), [Infernal Heart](https://www.nexusmods.com/baldursgate3/mods/6216), [True Soul Branded](https://www.nexusmods.com/baldursgate3/mods/6189), [Sprinter](https://www.nexusmods.com/baldursgate3/mods/6205), [Shadowbound](https://www.nexusmods.com/baldursgate3/mods/6041), and [Lightbringer](https://www.nexusmods.com/baldursgate3/mods/6033) each add a feat that substitute a combination of magic item set pieces. For example, the Sprinter feat will give you a permanent combination of Momentum-causing gear. Many of your enemies are likewise enhanced. This combination of feats is new and needs feedback.
 
-[Titan's Grip](https://www.nexusmods.com/baldursgate3/mods/12712) allows dual wielders to ignore normal game restrictions and use two-handed weapons, or combine a two-handed weapon with using a shield. It requires substantial investment in Strength to qualify for.
-
 # New and Changed Classes and Subclasses
 
 It's going to take a while to write up what each these changes does to the game.
@@ -83,7 +81,6 @@ These mods affect wild magic sorcerers, wild magic barbarians, and/or other situ
 
 * [More Wild Magic effects](https://www.nexusmods.com/baldursgate3/mods/2022)
 * [Wild Magic D100 Table](https://www.nexusmods.com/baldursgate3/mods/2967)
-* [Wild Magic D100 Table Barbarians](https://www.nexusmods.com/baldursgate3/mods/9361) makes sure that Wild Barbs can join the fun!
 * [Increasingly Likely Wild Magic Surge](https://www.nexusmods.com/baldursgate3/mods/9603) (Combat Only)
 
 [If Volo dies for any reason](https://www.nexusmods.com/baldursgate3/mods/4030), the Weave will begin unraveling and _all magic becomes wild magic_.
@@ -98,7 +95,6 @@ New subclasses:
 
 * Path of the Zealot - Your fervor inspires you to fight beyond death, and even if you die, your allies can revivify you for free.
 * Path of the Ancestral Guardian - You channel the spirits of your clan, bloodline, or faith. When you rage, spectral warriors swarm around you to slay your foes and harass anyone who tries to target your allies.
-* Path of the Juggernaut
 * Path of the Storm Herald - Your rage is that of thunderstorms, sandstorms, blizzards, and worse. When you rage, you surround yourself with elemental damage.
 * Path of the Giant - Your rage allows you to fight like a creature twice your size. As your Barbarian level increases, your rages become bigger and their bonuses to your strength, attacks, thrown weapons, and shoves increases with it.
 
