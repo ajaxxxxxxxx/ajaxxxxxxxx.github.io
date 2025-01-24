@@ -15,7 +15,9 @@ description: Listonomicon
 
 ## Listonomicon v3.6 (WIP, unreleased)
 
-Save Safe? No* (you could manually restore any missing mods to preserve an ongoing campaign)
+Save Safe? No* (you could manually restore any missing mods to preserve an ongoing campaign, but it is recommended that you do not)
+
+As always with big updates like this, please delete [Listonomicon install folder]/profiles/Listonomicon/ "ModsCache" and "ModSettings." This is to ensure that MO2 properly rebuilds the mod list and exports it to BG3, removing anything removed mods and adding any added mods.
 
 1. REMOVED the (OPTIONAL) transmog mod, replaced it with an IMGUI (MCM menu)-powered replacement. This new mod allows you to set outfits and appearances by hitting ";" and navigating to the Armory mod's settings, so those of you who love playing dress up and can't tolerate delayed gratification can now set outfits based on variables to include any Act 1, 2, or 3 gear and gear from mods. It has a ton of features and (should) work more stealthily than the old optional transmog mod adding inventory items to "craft" cosmetic appearance changes. **If you plan to use this feature, please back up your settings in Listonomicon/mods/zzz_Listomodsettings/SE_CONFIG before future updates** otherwise your cosmetic settings will be wiped by updating. You should copy the config for Armory somewhere outside of your Listo folders, update, and then drop the file back where you found it.
 2. REPLACED the companion AI-breaking version of Fey Wanderer with the AI-not-breaking version. This means old optional mods in Listo that allowed you to give companions over to AI control should work again, if you wish to add these mods to your game.
