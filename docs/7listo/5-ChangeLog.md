@@ -30,6 +30,12 @@ Save Safe? No* (you could manually restore any missing mods to preserve an ongoi
 11. Updated something like 30 mods.
 12. Moved Vecna's Eye and Vecna's Hand from OPTIONAL to CORE. However, Degreaser has nerfed both items (individually and as a pair). The artifacts are still very powerful, but they're a roleplay choice - are you evil, or morally dubious enough, to harness Vecna's power on your adventure? They come with great boons, and great drawbacks. (thanks Cahoot and Luma for helping me figure this all out)
 13. Added Ghailskin Knight Armor.
+14. Degreaser: Fixed little issues and balance concerns with Foe Bane and The Burning Earth.
+15. Removed Good Gear for Evil Players and Evil Gear for Good Players. Recreated basically the same functionality in Listo with some of the item moves/distribution (imo) improved. e.g. everything isn't just dumped on the bugbear to sell in Act 2.
+16. Removed Better Volo Vendor Stock. Can recreate the same function with Degreaser.
+17. Removed "Listo Hard Mode." The other optional tweaks can be enabled and the CX config can be swapped. These are better/cleaner ways of doing difficulty than "MORE NUMBERS" and an extra D/L for people.
+18. Renamed "HARDER Optional Tweaks" to "OPTIONAL Challenge Mods." Added the 7-day challenge "Countdown to Ceremorphosis."
+19. Removed the whole silly optional tweaks section. They're fine mods, but they're list bloat.
 
 ## Listonomicon v3.5.5
 
