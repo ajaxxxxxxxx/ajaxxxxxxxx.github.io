@@ -42,6 +42,32 @@ As always with big updates like this, please delete [Listonomicon install folder
 21. REMOVED Titansgrip Feat. It's a neat idea but the mod is too wonky and beyond my ability to fix. If the author ever makes a handful of requested changes we can revisit this mod, I have tried and failed with Degreaser to get it into the shape I hoped it could take when it became a core mod.
 22. Nerfed Foe Bane.
 23. Nerfed Sid Vix, again.
+24. New mods:
+    * Orc Half-Elf Subrace (and patch 7 patch)
+    * Sea Elves
+    * Ghaikskin Armor
+    * Rage and Resilience
+    * PPmeter
+    * Primeval Guardian
+    * Raphael's Bed Story
+    * Actually Infernal Rapier
+    * Armory Auto Transmog
+    * Mantis' Arcane Heads
+26. Removed mods:
+    * Soul Coin Tweaks (has actually been replaced for a while with Dammon's Soul Coin Economy)
+    * Listonomicon Mod Settings and BG3MM json (unneeded download)
+    * Relative Ability Boost Items (done with Degreaser now)
+    * Path of the Juggernot
+    * Facial Animations
+    * Goods for Evil Traders (done with Degreaser)
+    * Elves Sit to Trance
+    * No Press Any Key Menu (has been out for a while due to MP issues)
+    * Evil Gear for Good Players (done with Degreaser now)
+    * Better Vendor Stock with Volo (done with Degreaser now)
+    * Save Alfira (superseded by Always Save Alfira)
+    * Owlin Race (optional mod)
+    * Chivalry
+    * Shovel Evolved (a summon shouldn't 1v1 the Creche like that...)
 
 ## Listonomicon v3.5.5
 
