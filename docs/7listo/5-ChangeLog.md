@@ -44,7 +44,7 @@ As always with big updates like this, please delete [Listonomicon install folder
 23. Nerfed Sid Vix, again.
 24. New mods:
     * Orc Half-Elf Subrace (and patch 7 patch)
-    * Sea Elves
+    * Sea Elves (now as an elf subrace, replacing Fantastical Sea Elves)
     * Ghaikskin Armor
     * Rage and Resilience
     * PPmeter
