@@ -13,6 +13,21 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.6.1 Hotfix
+
+Save Safe? Yes. If you are a LITE player, manually update Ajax's Degreaser, AdvancedTabletopSpells, and zzz_ListoModSettings.
+
+**Combat Extender Fixes**
+1. Added NPC spells for Power Word: Pain; Blade of Disaster; Incendiary Cloud; Mass Polymorph; Prismatic Spray; and Mass Heal.
+2. Distributed these spells. Easy config, only Mass Heal was given out to the Nightsong, Hollyphant, and Hope. In the regular config, PW: Pain is on Deathshead Cultists, and in hard it's also added to Cazador. Blade of Disaster is a new Ansur trick, incindiary cloud is given to a dragon, mass polymorph may make the circus more fun, and prismatic spray is now a reliable tool of Lorroakan.
+
+**Degreaser Fixes**
+1. Changed the way I did merchant inventories. Hopefully after a long rest everyone's list of crap for sale is corrected.
+2. Moved several of the "good gear for evil players"/"evil gear for good players" to slightly-harder-to-find locations. e.g. the bugbear merchant in act 2 hides his goodies in his secret bonus inventory, some merchants you've probably never paid attenion to before now sell some of the Degreaser gear.
+
+**Other**
+Updated some mods. _Actually_ removed Titansgrip this time. _Actually_ increased XP requirements this time (+600 required to reach level 7, +300 required to reach level 10, +100 required to reach level 16, for 1,000 total additional XP required). Deleted a bunch of settings files from zzz_ListoModSettings for mods that aren't in Listo anymore.
+
 ## Listonomicon v3.6
 
 Save Safe? No.
