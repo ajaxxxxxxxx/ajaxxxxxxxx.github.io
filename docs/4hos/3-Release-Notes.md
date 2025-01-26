@@ -12,6 +12,8 @@ Save Safe? YES
 * [Terrain Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/135817)
 * [Screen Space Global Illumination (SSGI)](https://www.nexusmods.com/skyrimspecialedition/mods/130375)
 * [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762)
+* [ENB Terrain Blending Fix](https://www.nexusmods.com/skyrimspecialedition/mods/140041)
+* [NAT.CS III](https://www.nexusmods.com/skyrimspecialedition/mods/139567)
 
 **Removed**
 
@@ -25,7 +27,7 @@ Save Safe? YES
 **Updated**
 
 * Community Shaders
-  > 0.8.7 to 1.1.12
+  > 0.8.7 to 1.1.15
 * Wetness Effects
   > 1.0.2 to 2.0
 * Subsurface Scattering
@@ -38,6 +40,8 @@ Save Safe? YES
   > 1.2 to 2.0
 * Grass Lighting
   > 1.4.1 to 2.0
+* Comprehensive First Person Animation Overhaul - CFPAO
+  > 1.4 Hotfix to 1.5.1
 
 # Release 1.3.2
 Save Safe? YES
