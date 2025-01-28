@@ -93,10 +93,10 @@ These mods affect wild magic sorcerers, wild magic barbarians, and/or other situ
 
 New subclasses:
 
-* Path of the Zealot - Your fervor inspires you to fight beyond death, and even if you die, your allies can revivify you for free.
+* Path of the Zealot - Your fervor inspires you to fight beyond death, and even if you die, your allies can revivify you for free. Your rage adds radiant or necrotic damage to your attacks.
 * Path of the Ancestral Guardian - You channel the spirits of your clan, bloodline, or faith. When you rage, spectral warriors swarm around you to slay your foes and harass anyone who tries to target your allies.
 * Path of the Storm Herald - Your rage is that of thunderstorms, sandstorms, blizzards, and worse. When you rage, you surround yourself with elemental damage.
-* Path of the Giant - Your rage allows you to fight like a creature twice your size. As your Barbarian level increases, your rages become bigger and their bonuses to your strength, attacks, thrown weapons, and shoves increases with it.
+* Path of the Giant - Your rage allows you to fight like a creature twice your size. As your Barbarian level increases, your rages become bigger and their bonuses to your strength, attacks, thrown weapons, and shoves increases with it. You can add elemental damage to your weapons.
 
 ## Bard
 
