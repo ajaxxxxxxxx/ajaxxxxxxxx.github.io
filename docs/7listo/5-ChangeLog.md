@@ -13,6 +13,15 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v3.6.2 Hotfix (WIP)
+
+Save Safe? Yes.
+
+1. The author of the Ghaikskin armor left a mistake in their mod that caused/causes fighter starting armor to be overwritten with the content from their mod. They put out an update to fix it, this update incorporates the fix. Degreaser also nerfs the main armor of the list to count as medium armor, and to have a less impressive base AC.
+2. Incorporated, to a limited extent, Vestments of the Faithful and Arms of the Allegiant. The Listo patch culls content from these mods in a similar way to the PF2e-Listo patch, salvaging everything that works and (hopefully) removing/changing/fixing everything that does not work. For example, items that do not have working models for all body types should be left out of the game, and the tooltips from the mods to inform if you if an item has working models for different body types should be removed as it is no longer necessary. These items are distributed throughout the world in different ways. To a large extent, Vestments of the Faithful are not available until the player reaches the Stormshore Tabernackle, so you will need to use transmog to rep your prefered gods earlier than that; but many items can be found in the world, on monsters, or traders as appropriate to the game story. The author of this mod never intended for the items to have prices assigned so you may have to bear with some tweaking across the next couple of updates to figure out what the items from these mods should cost.
+3. Aitze's Swords and Shields have been added. These do not add anything that can actually be found/looted in-game (yet), rather the models are intended for you to take advantage via transmog.
+4. Attunement mod settings updates to incorporate everything above.
+
 ## Listonomicon v3.6.1 Hotfix
 
 Save Safe? Yes. If you are a LITE player, manually update Ajax's Degreaser, AdvancedTabletopSpells, and zzz_ListoModSettings.
