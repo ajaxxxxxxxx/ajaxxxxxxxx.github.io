@@ -20,6 +20,11 @@ Save Safe? Yes.
 1. The author of the Ghaikskin armor left a mistake in their mod that caused/causes fighter starting armor to be overwritten with the content from their mod. They put out an update to fix it, this update incorporates the fix. Degreaser also nerfs the main armor of the list to count as medium armor, and to have a less impressive base AC.
 2. Tried, and failed, to incorporate, to a limited extent, Vestments of the Faithful and Arms of the Allegiant. The Listo patch would have culled content from these mods in a similar way to the PF2e-Listo patch, salvaging everything that works and (hopefully) removing/changing/fixing everything that does not work. For example, assigning everything an appropriate price, moving the items to vendors/loot around the world, removing items that had broken visuals, etc. Why include this attempted and failed change in the changelog? It has reminded me how much I/we/Listo should appreciate mod makers, and Listo patch making volunteers.
 3. Aitze's Swords and Shields have been added. These do not add anything that can actually be found/looted in-game (yet), rather the models are intended for you to take advantage via transmog.
+4. Updated a handful of mods.
+5. I believe that I may have inadverdently left some Goon patches that were supposed to move to Listo's seperate "Listo Tweaks and Patches" mod inside Degreaser, and I may have even left in some tweaks/changes that was supposed to be removed completely from Listo with v3.6. Fortunately someone on Nexus filed a completely unrelated bug report that caused me to look at Degreaser again and find my goofs.
+6. Fire surfaces now hurt you for being on them in addition to burning you (as the condition "Burning").
+7. Added Veenab Spells, and its dependencies.
+   * Added some, more to come, Veenab Spells to enemies via CX. :)
 
 ## Listonomicon v3.6.1 Hotfix
 
