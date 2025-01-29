@@ -13,8 +13,7 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.6.2 Hotfix (WIP)
-
+## Listonomicon v3.6.2 Hotfix
 Save Safe? Yes.
 
 1. The author of the Ghaikskin armor left a mistake in their mod that caused/causes fighter starting armor to be overwritten with the content from their mod. They put out an update to fix it, this update incorporates the fix. Degreaser also nerfs the main armor of the list to count as medium armor, and to have a less impressive base AC.
