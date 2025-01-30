@@ -27,7 +27,7 @@ Speak with Animals and Longstrider are AoE casts that last until long rest, dram
 
 Illithid Powers are [significantly revamped](https://www.nexusmods.com/baldursgate3/mods/5105?tab=files). If you choose to use the astral tadpole, Illithid Powers are very powerful in Act 3.
 
-## 5e, Homebrew, Spells Extra, and Pathfinder
+## 5e, Homebrew, Spells Extra, Pathfinder, Mystra Spells, and Veenab Spells
 
 [5e Spells](https://www.nexusmods.com/baldursgate3/mods/125) adds a variety of tabletop spells missing from BG3. [Valdacil's adjustment mod](https://www.nexusmods.com/baldursgate3/mods/4426?tab=description) rebalances several of the spells based on the philosophy Larian applied with the spells they included in the game. So expect the spells you love from D&D but don't expect all of them to work exactly like they do in the book.
 
@@ -38,6 +38,10 @@ Illithid Powers are [significantly revamped](https://www.nexusmods.com/baldursga
 [Valdacil's Mystic Rebalance](https://www.nexusmods.com/baldursgate3/mods/4426) changes how some Mystic features/abilities/psionic foci/spells work compared to the mod page descriptions.
 
 [PF2e Spells](https://www.nexusmods.com/baldursgate3/mods/2460) has been patched for Listo. The patch removes something like 131 spells that don't fit 5e from the spell lists of each class, as well as the Action -> Bonus Action conversion and other idiosyncrasies caused by the difference in rule systems between DnD5e and Pathfinder 2nd Edition. Of the 50-something spells remaining, many have been rebalanced, the mechanics have been changed slightly, and/or the tooltips have been cleaned up where possible. Specifically, many of the cantrips added start at only 1d4 damage, but they improve slightly faster than 5e cantrips (gains an extra die at level 3 instead of waiting until level 5). Overall the damage is lower, but it adds a reliable spell attack cantrip for Clerics and it adds Phase Bolt, which is unto itself a weak cantrip in terms of dice but it can go around corners like Magic Missile, and applies a -1 AC debuff to targets. Other spells include many alternates to polymorph/shapeshifting, powerful AoEs specialized in combatting particular types of enemies, new summons, buffs for allies and debuffs for enemies, and all variety of new attacks. Beware your enemies have access to many of these new spells as well! A list of PF2e spells included or removed for Listo can be [reviewed here](https://docs.google.com/spreadsheets/d/1p4GxQNi678ug7-I_-wUau9Pr7YQ5GW-EuHbfeSolNh4/edit?usp=sharing), however note that the documentation is incomplete and the redistribution of the spell lists (as in which classes learn which spells) is an in-process project.
+
+Mystra's Spells from Mod.io is used in Listo. Specifically, a limited selection of the spells that do not already exist in 5e spells.
+
+Veenab's Spells is in Listo. This primarily adds several spells to Warlocks themed invoking more Great Old Ones, but that is not all that is added.
 
 ## New and Changed Feats
 
