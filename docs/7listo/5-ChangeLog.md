@@ -13,7 +13,29 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v3.6.3 (WIP)
+## Listonomicon v3.7
+
+Save Safe? No :(
+
+1. ADDED More Weapons and More Helmets by Guigodead (for transmog purposes only, for now).
+2. ADDED Might and Metal and integrated into attunement system.
+3. ADED Illithid Emporium, and changed item rarity/attunement needs as required.
+4. ADDED Aura of Murder rebalance. Instead of creating piercing vulnerability, it grants extra piercing damage to any damage done.
+5. ADDED Mordenkainen's Tome of Tieflings.
+6. ADDED Returning Weapon QOL, which will allow throwing-and-returning weapons to go back into your backpack instead of your hand if that is where they were thrown from (open hand monks and zerker barbarians rejoice).
+7. UPDATED Illithid Powers Overhaul 2.
+8. UPDATED Galea nd his Netherese Orb.
+9. UPDATED Advanced Tabletop Spells.
+10. REMOVED Veenab's scrolls and 5e scrolls because they were breaking the mod list.
+11. UPDATED Goon's Passive Library.
+12. UPDATED Features from DnD 5e Planescape.
+13. UPDATED Bauldarian Warforged and Aarkocra.
+14. REVERTED Minthara Moves - Halsin/Minthara Tent Seperation to v1.0 to hopefully no longer have act 2/act 3 games crash when trying to save. Sorry to everyone affected by this :( :( :(
+15. REMOVED Zerd's Rules as Written (zRAW) due to also REMOVEing True Darkness 5e, meaning zRAW no longer had enough features being used to be worth keeping in the list.
+16. REMOVED True Darkness 5e and its various patches/compats/etc.
+17. Sword of the Emperor Enhanced should be lower in the load order than Illithid Emporium meaning Luma's superior edits still apply.
+
+## Listonomicon v3.6.3 (didn't get announced)
 
 Save Safe? Yes.
 
@@ -21,7 +43,7 @@ Save Safe? Yes.
 2. ADDED Aarakocra.
 3. ADDED PK Horns 2.
 4. ADDED Bauldarian Warforged (testing to see if this is goofy or not).
-5. ADDED JWL Histories and Occupations Plus - with Listo patches. Thank you Cahoot/Luma/Khovi for help with this.
+5. ADDED JWL Histories and Occupations Plus - with Listo patches. Thank you Cahoot/Luma/Khovi for help with this. And thanks for the author making their own patch on my request that I could copy from to get my patch changes to work.
 
 ## Listonomicon v3.6.2 Hotfix
 
