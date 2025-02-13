@@ -61,7 +61,7 @@ Save Safe? No.
    * All harpies should be consistently nerfed.
    * All kuo-toa should be consistently whacky. Normal kuotoa are not too bad, only casters have controlled chaos or reliable wild magic surges. BOAAAAAAAL's faithful are now a more exciting addition to the final fight, if you manage to recruit such valuable allies ;)
 29. Redid some aspects of Yoesph's Listo Patch, assigning prices to items/updating patch solutions/removing no longer needed patches.
-30. asdfasdf
+30. Added CX tags to Valkrana's Undead Encounters directly so they can join in the fun.
 
 ## Listonomicon v3.7
 
