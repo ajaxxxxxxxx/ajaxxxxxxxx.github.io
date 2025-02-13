@@ -17,9 +17,9 @@ description: Listonomicon
 
 Save Safe? No.
 
-1. ADDED Battlemage's Gloves Fix.
+1. PATCHED Battlemage's Gloves.
 2. ADDED Brazen Bull, Red Confessor, and Beauty in Sin armors. Patched treasure tables so these only appear one time each, on one merchant.
-3. ADDED (optional) Mor's More Tooltips.
+3. ADDED War Caster 5e (this actually used to be in Listo and I didn't realize it was lost in the last big feat mods shakeup). More spells work with War Caster than just Shocking Grasp.
 4. ADDED Visible Shields (may not work for all shields).
 5. UPDATED lots of mods, as per usual.
 6. REMOVED Actual Fire Surface Damage Boost.
@@ -27,15 +27,18 @@ Save Safe? No.
 8. ADDED Permanent Passives.
 9. ADDED Ember's Lute's "Music Perform Work Around." This should fix Alfira constantly stopping and restarting her music in camp, as well as other interruptions to performances.
 10. REPLACED (optional) Hyperlegible GUI/Books with Immersive Reading.
-11. ADDED Immersive Loading Screens.
+11. ADDED Aether's Loading Screens.
 12. ADDED Immservice Dice Roll.
 13. ADDED Better Raphael Outfit.
 14. MOVED all true "Patch" items to Listo Patches and out of "Degreaser." Degreaser is now just new weapons, CX passives, NPC spells, and enemy changes.
 15. Nerfed the Grand Exchange, Moghadam (Degreaser).
 16. Moved Tomes of Power (+1 stat books) exclusively to Act 3.
 17. REMOVED several "feats" that consolidated magic item effects (Lightbringer, Shadowbound, etc).
-18. Implemented PHB2024 logic for War Caster.
-19. REMOVED feat overhaul mods and substituted custom Listo patches for vanilla feats.
+18. REMOVED feat overhaul mods and substituted custom Listo patches for vanilla feats.
+19. REMOVED PPMeter because it causes a bunch of UI issues if you try to disable it mid game and I don't want to help users troubleshoot. Re add it yourself if you care about your DPS stats, nerd.
+20. REMOVED the non-working Ghostly Weapon spell.
+21. asdf
+22. asf
 
 ## Listonomicon v3.7
 
