@@ -49,7 +49,8 @@ Save Safe? No.
 21. REMOVED PPMeter because it causes a bunch of UI issues if you try to disable it mid game and I don't want to help users troubleshoot. Re add it yourself if you care about your DPS stats, nerd.
 22. REMOVED the non-working Ghostly Weapon spell.
 23. RESTORED Zerd's RAW (some of it - no True Darkness stuff, invisibility stuff, spirit guardian breaking stuff, or limiting casting on one turn stuff).
-24. asf
+24. REMOVED Phalar Aluve Once Per Battle (Because I can do the same thing inside the Listo patch, and reduce the overall D/L count for the list).
+25. NERFED Phalar Aluve's upgraded versions. Rather than being able to apply "Off Balance" (giving advantage to hit all enemies), instead the weapon applies "Off Balance" (enemies affected must make a DC 8 Strength saving throw to avoid being knocked prone when hit). In exchange, the size of the Phalar Aluve aura is increased to 8m for the first upgrade, and 9m for the second upgrade.
 
 ## Listonomicon v3.7
 
