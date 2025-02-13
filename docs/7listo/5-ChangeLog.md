@@ -35,10 +35,20 @@ Save Safe? No.
 16. Moved Tomes of Power (+1 stat books) exclusively to Act 3.
 17. REMOVED several "feats" that consolidated magic item effects (Lightbringer, Shadowbound, etc).
 18. REMOVED feat overhaul mods and substituted custom Listo patches for vanilla feats.
-19. REMOVED PPMeter because it causes a bunch of UI issues if you try to disable it mid game and I don't want to help users troubleshoot. Re add it yourself if you care about your DPS stats, nerd.
-20. REMOVED the non-working Ghostly Weapon spell.
-21. asdf
-22. asf
+19. NEW LISTO FEATS CUSTOM PATCH MOD:
+    * As a baseline, changes to feats are substantially the same as what you see [here](https://www.nexusmods.com/baldursgate3/mods/14037).
+    * Martial Adept supplies 3 superiority dice, not 1.
+    * Alert grants an Initiative Bonus equal to your Proficiency Bonus, gives immunity to surprise, and grants Perception proficiency.
+    * Actor grants +1 Charisma and proficiency/expertise in Deception, Persuasion, and Intimidation.
+    * Mage Slayer has been reverted from guaranteed broken concentration to giving enemies disadvantage on their concentration checks. In exchange, advantage on saving throws has been restored.
+    * Ritual Caster is finally a good feat (IMO). It now grants access to ALL ritual spells in Listo (vanilla, 5e spells, and PF2e spells), and grants half price on all scroll copying.
+    * Shield Master has its old effects plus 1 point of damage reduction.
+    * Weapon Master is improved by adding +1 damage to any bludgeoning, slashing, or piercing damage you deal.
+    * Mobile is back to vanilla.
+21. REMOVED PPMeter because it causes a bunch of UI issues if you try to disable it mid game and I don't want to help users troubleshoot. Re add it yourself if you care about your DPS stats, nerd.
+22. REMOVED the non-working Ghostly Weapon spell.
+23. asdf
+24. asf
 
 ## Listonomicon v3.7
 
