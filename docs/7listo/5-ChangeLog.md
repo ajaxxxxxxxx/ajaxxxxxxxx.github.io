@@ -51,6 +51,16 @@ Save Safe? No.
 23. RESTORED Zerd's RAW (some of it - no True Darkness stuff, invisibility stuff, spirit guardian breaking stuff, or limiting casting on one turn stuff).
 24. REMOVED Phalar Aluve Once Per Battle (Because I can do the same thing inside the Listo patch, and reduce the overall D/L count for the list).
 25. NERFED Phalar Aluve's upgraded versions. Rather than being able to apply "Off Balance" (giving advantage to hit all enemies), instead the weapon applies "Off Balance" (enemies affected must make a DC 8 Strength saving throw to avoid being knocked prone when hit). In exchange, the size of the Phalar Aluve aura is increased to 8m for the first upgrade, and 9m for the second upgrade.
+26. Changes and rebalance to Fresh Loot, moving the ruined sword from the tutorial and nerfing the heck out of the free soul coin generators.
+27. Comprehensive Combat Extender revisions.
+   * Created a new custom Act 1/2/3 CX Boost just for warlocks.
+   * Cleaned up lots of entries.
+   * Moved huge chunks of repetitive entries to simple Degreaser template edits.
+   * All sahuagin are more dangerous.
+   * All harpies should be consistently nerfed.
+   * All kuo-toa should be consistently whacky. Normal kuotoa are not too bad, only casters have controlled chaos or reliable wild magic surges. BOAAAAAAAL's faithful are now a more exciting addition to the final fight, if you manage to recruit such valuable allies ;)
+29. asdfasdf
+30. asdfasdf
 
 ## Listonomicon v3.7
 
