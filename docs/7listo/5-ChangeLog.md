@@ -46,6 +46,7 @@ Save Safe? No.
     * Weapon Master is improved by adding +1 damage to any bludgeoning, slashing, or piercing damage you deal.
     * Mobile now gives enemies disadvantage on Attacks of Opportunity and helps you overcome Difficult Terrain.
     * These changes to feats equally apply to any/all enemies who are assigned these features via CX or other mods.
+    * Other changes you'll have to check out in-game. Huge thanks to Cahoot for doing, fixing, redoing, and making translation files.
 21. REMOVED PPMeter because it causes a bunch of UI issues if you try to disable it mid game and I don't want to help users troubleshoot. Re add it yourself if you care about your DPS stats, nerd.
 22. REMOVED the non-working Ghostly Weapon spell.
 23. RESTORED Zerd's RAW (some of it - no True Darkness stuff, invisibility stuff, spirit guardian breaking stuff, or limiting casting on one turn stuff).
@@ -59,7 +60,7 @@ Save Safe? No.
    * All sahuagin are more dangerous.
    * All harpies should be consistently nerfed.
    * All kuo-toa should be consistently whacky. Normal kuotoa are not too bad, only casters have controlled chaos or reliable wild magic surges. BOAAAAAAAL's faithful are now a more exciting addition to the final fight, if you manage to recruit such valuable allies ;)
-29. asdfasdf
+29. Redid some aspects of Yoesph's Listo Patch, assigning prices to items/updating patch solutions/removing no longer needed patches.
 30. asdfasdf
 
 ## Listonomicon v3.7
