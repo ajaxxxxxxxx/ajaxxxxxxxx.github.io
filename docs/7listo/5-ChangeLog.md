@@ -44,10 +44,11 @@ Save Safe? No.
     * Ritual Caster is finally a good feat (IMO). It now grants access to ALL ritual spells in Listo (vanilla, 5e spells, and PF2e spells), and grants half price on all scroll copying.
     * Shield Master has its old effects plus 1 point of damage reduction.
     * Weapon Master is improved by adding +1 damage to any bludgeoning, slashing, or piercing damage you deal.
-    * Mobile is back to vanilla.
+    * Mobile now gives enemies disadvantage on Attacks of Opportunity and helps you overcome Difficult Terrain.
+    * These changes to feats equally apply to any/all enemies who are assigned these features via CX or other mods.
 21. REMOVED PPMeter because it causes a bunch of UI issues if you try to disable it mid game and I don't want to help users troubleshoot. Re add it yourself if you care about your DPS stats, nerd.
 22. REMOVED the non-working Ghostly Weapon spell.
-23. asdf
+23. RESTORED Zerd's RAW (some of it - no True Darkness stuff, invisibility stuff, spirit guardian breaking stuff, or limiting casting on one turn stuff).
 24. asf
 
 ## Listonomicon v3.7
