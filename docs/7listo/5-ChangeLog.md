@@ -19,7 +19,7 @@ Save Safe? No.
 
 1. PATCHED Battlemage's Gloves.
 2. ADDED Brazen Bull, Red Confessor, and Beauty in Sin armors. Patched treasure tables so these only appear one time each, on one merchant.
-3. ------------
+3. Added a better War Caster feat (with Cahoot's patch).
 5. UPDATED lots of mods, as per usual.
 6. REMOVED Actual Fire Surface Damage Boost.
 7. ADDED Barbarian QoL.
