@@ -19,8 +19,7 @@ Save Safe? No.
 
 1. PATCHED Battlemage's Gloves.
 2. ADDED Brazen Bull, Red Confessor, and Beauty in Sin armors. Patched treasure tables so these only appear one time each, on one merchant.
-3. ADDED War Caster 5e (this actually used to be in Listo and I didn't realize it was lost in the last big feat mods shakeup). More spells work with War Caster than just Shocking Grasp.
-4. ADDED Visible Shields (may not work for all shields).
+3. ------------
 5. UPDATED lots of mods, as per usual.
 6. REMOVED Actual Fire Surface Damage Boost.
 7. ADDED Barbarian QoL.
