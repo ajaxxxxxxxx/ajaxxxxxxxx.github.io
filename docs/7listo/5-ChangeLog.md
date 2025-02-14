@@ -62,6 +62,7 @@ Save Safe? No.
 29. Redid some aspects of Yoesph's Listo Patch, assigning prices to items/updating patch solutions/removing no longer needed patches.
 30. Added CX tags to Valkrana's Undead Encounters directly so they can join in the fun.
 31. Smokepowder arrows, bombs, and barrels have been nerfed. Their total damage is not significantly changed, but the damage to enemies has been split across fire, bludgeoning, and slashing (eg explosion + shrapnel). This has some benefits (synergizes with damage riders, probably) and some drawbacks (enemies with damage reduction, or minimum damage effects, are now much harder to hurt with multiple small dice pools). Objects will still take a large amount of force damage, meaning barrel stacking/throwing bombs/shooting arrows is still sufficient for destroying weak walls, pillars, chests, objects, etc. Runepowder and smokepowder satchels (i.e. the inventions of the gnomes) are now the only pure Force damage explosions (to people and to objects) to reflect their unique, magical nature. My brainchild, Cahoot's knowing-how-to-actually-code.
+32. Hopefully found Raphael's brain and gave it back to him + reduced the number of enemies capable of summoning even more cambions to his fight.
 
 ## Listonomicon v3.7
 
