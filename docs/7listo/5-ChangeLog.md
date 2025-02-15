@@ -64,6 +64,7 @@ Save Safe? No.
 31. Smokepowder arrows, bombs, and barrels have been nerfed. Their total damage is not significantly changed, but the damage to enemies has been split across fire, bludgeoning, and slashing (eg explosion + shrapnel). This has some benefits (synergizes with damage riders, probably) and some drawbacks (enemies with damage reduction, or minimum damage effects, are now much harder to hurt with multiple small dice pools). Objects will still take a large amount of force damage, meaning barrel stacking/throwing bombs/shooting arrows is still sufficient for destroying weak walls, pillars, chests, objects, etc. Runepowder and smokepowder satchels (i.e. the inventions of the gnomes) are now the only pure Force damage explosions (to people and to objects) to reflect their unique, magical nature. My brainchild, Cahoot's knowing-how-to-actually-code.
 32. Hopefully found Raphael's brain and gave it back to him + reduced the number of enemies capable of summoning even more cambions to his fight.
 33. Rebalanced Avernus Cursed Weaponry. Rather than require a killing blow, cursed weapons have a "Deal damage" requirement, making them much easier to keep sated. Keep in mind that all the other penalties and risks associated with these weapons remain true!
+34. Nerfed Holy Weapon damage (1d8 radiant, not 2d8).
 
 ## Listonomicon v3.7
 
