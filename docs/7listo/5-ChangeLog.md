@@ -65,6 +65,7 @@ Save Safe? No.
 32. Hopefully found Raphael's brain and gave it back to him + reduced the number of enemies capable of summoning even more cambions to his fight.
 33. Rebalanced Avernus Cursed Weaponry. Rather than require a killing blow, cursed weapons have a "Deal damage" requirement, making them much easier to keep sated. Keep in mind that all the other penalties and risks associated with these weapons remain true!
 34. Nerfed Holy Weapon damage (1d8 radiant, not 2d8).
+35. EASY and HARD CX Configs are now copies of all the changes in the standard CX entries. Only the global effects are altered, with EASY giving less static bonuses and health to enemies and HARD giving more static bonuses and health to enemies. The inverse is true for allies. The overall gap between EASY vs NORMAL vs HARD is generally smaller.
 
 ## Listonomicon v3.7
 
