@@ -13,7 +13,7 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v4 (WIP unreleased)
+## Listonomicon v4.0 (WIP unreleased)
 
 Save Safe? No.
 
@@ -66,6 +66,7 @@ Save Safe? No.
 33. Rebalanced Avernus Cursed Weaponry. Rather than require a killing blow, cursed weapons have a "Deal damage" requirement, making them much easier to keep sated. Keep in mind that all the other penalties and risks associated with these weapons remain true!
 34. Nerfed Holy Weapon damage (1d8 radiant, not 2d8).
 35. EASY and HARD CX Configs are now copies of all the changes in the standard CX entries. Only the global effects are altered, with EASY giving less static bonuses and health to enemies and HARD giving more static bonuses and health to enemies. The inverse is true for allies. The overall gap between EASY vs NORMAL vs HARD is generally smaller.
+36. ADDED Polyamory mod. Date all your companions. Or none of them.
 
 ## Listonomicon v3.7
 
