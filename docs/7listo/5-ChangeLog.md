@@ -67,10 +67,11 @@ Save Safe? No.
 34. Nerfed Holy Weapon damage (1d8 radiant, not 2d8).
 35. EASY and HARD CX Configs were remade fresh by copying the NORMAL CX, to put everything on the same baseline. Only the global effects are altered, with EASY giving less static bonuses and health to enemies, and giving many less passives and spells to each character archetype (fighter, ranger, etc). HARD gives more static bonuses and health to enemies, but does not give them any extra, early, or special access to any abilities or features. The overall gap between EASY vs NORMAL vs HARD is generally smaller and more consistent (with the specific edits to specific enemies matching each other, for the most part), with EASY disabling some obnoxious and disrupting spells/abilities and making the math numbers smaller. EASY gives NPC allies more HP, and HARD gives NPC allies less HP (though in both cases, more than vanilla so they aren't obliterated by CX tuned enemies).
 36. ADDED Polyamory mod. Date all your companions. Or none of them.
-37. ADDED The Sparkstruck Scientist, a new Act 3 merchant.
+37. ADDED Celestial Fury.
 38. The (optional) DHM Act 1 Dungeon has received a difficulty pass to improve the mud puppets, undead boss, and the dragonborn trio. I tried looking at the Act 2 Dungeon but holy shit what the fuck even is that.
 39. Redid Degreaser/Listo Patch 30 times in 2 days. I pray to God they both just work now.
 40. Found Raphael's brain, he can now kill you very much.
+41. ADDED a giant bug fix mod on Cahoot's recommendation from Mod.io.
 
 ## Listonomicon v3.7
 
