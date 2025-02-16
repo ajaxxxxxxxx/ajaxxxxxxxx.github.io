@@ -72,6 +72,8 @@ Save Safe? No.
 39. Redid Degreaser/Listo Patch 30 times in 2 days. I pray to God they both just work now.
 40. Found Raphael's brain, he can now kill you very much.
 41. ADDED a giant bug fix mod on Cahoot's recommendation from Mod.io.
+42. ADDED Extra Gear, which is a transmog-only armor/clothes equipment mod to help your dress up.
+43. ADDED Armoury - Equipment of the Githyanki, which adds items with Gith working unique visuals (and generic gith armor visuals for everyone else), integrated into the Attunement system as per usual.
 
 ## Listonomicon v3.7
 
