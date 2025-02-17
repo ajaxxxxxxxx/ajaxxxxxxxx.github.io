@@ -35,17 +35,10 @@ Save Safe? No.
 17. REMOVED several "feats" that consolidated magic item effects (Lightbringer, Shadowbound, etc).
 18. REMOVED feat overhaul mods and substituted custom Listo patches for vanilla feats.
 19. NEW LISTO FEATS CUSTOM PATCH MOD:
-    * As a baseline, changes to feats are substantially the same as what you see [here](https://www.nexusmods.com/baldursgate3/mods/14037).
-    * Martial Adept supplies 3 superiority dice, not 1.
-    * Alert grants an Initiative Bonus equal to your Proficiency Bonus, gives immunity to surprise, and grants Perception proficiency.
-    * Actor grants +1 Charisma and proficiency/expertise in Deception, Persuasion, and Intimidation.
-    * Mage Slayer has been reverted from guaranteed broken concentration to giving enemies disadvantage on their concentration checks. In exchange, advantage on saving throws has been restored.
-    * Ritual Caster is finally a good feat (IMO). It now grants access to ALL ritual spells in Listo (vanilla, 5e spells, and PF2e spells), and grants half price on all scroll copying.
-    * Shield Master has its old effects plus 1 point of damage reduction.
-    * Weapon Master is improved by adding +1 damage to any bludgeoning, slashing, or piercing damage you deal.
-    * Mobile now gives enemies disadvantage on Attacks of Opportunity and helps you overcome Difficult Terrain.
-    * These changes to feats equally apply to any/all enemies who are assigned these features via CX or other mods.
-    * Other changes you'll have to check out in-game. Huge thanks to Cahoot for doing, fixing, redoing, and making translation files.
+    * As a baseline, changes to feats are substantially the same as what you have experienced before.
+    * Except now every feat is better and innovated and good.
+    * Huge thanks to Cahoot implementing my ideas, and/or implementing his own better ideas.
+    * Feat changes documentation can be read [here](https://docs.google.com/document/d/1l2yhpaMBaue98rkjhEPYIjSmtUwiw1tc8KqhK7FJMak/edit?usp=sharing).
 21. REMOVED PPMeter because it causes a bunch of UI issues if you try to disable it mid game and I don't want to help users troubleshoot. Re add it yourself if you care about your DPS stats, nerd.
 22. REMOVED the non-working Ghostly Weapon spell.
 23. RESTORED Zerd's RAW (some of it - no True Darkness stuff, invisibility stuff, spirit guardian breaking stuff, or limiting casting on one turn stuff).
