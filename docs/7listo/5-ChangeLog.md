@@ -13,9 +13,11 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v4.0 (WIP unreleased)
+## Listonomicon v4.0
 
 Save Safe? No.
+
+PRIME and LITE updated.
 
 1. PATCHED Battlemage's Gloves.
 2. ADDED Brazen Bull, Red Confessor, and Beauty in Sin armors. Patched treasure tables so these only appear one time each, on one merchant.
