@@ -13,6 +13,15 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v4.0.2 (WIP)
+
+Save Safe? Yes!
+
+1. ADDED Genie and Fathomless Warlocks.
+2. ADDED a _very_ special book.
+3. ADDED "Weapons From Summons," though they have been nerfed/sanatized/redistributed compared to the Nexus mod raw.
+4. UPDATED Deadlier Honour Mode, VBT Resources (Warlock spells), and various other mods.
+
 ## Listonomicon v4.0.1
 
 Save Safe? Yes!
