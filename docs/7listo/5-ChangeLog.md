@@ -13,6 +13,17 @@ description: Listonomicon
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
+## Listonomicon v4.0.1
+
+Save Safe? Yes!
+
+1. LISTO HARD: Removed vulnerabilities assigned to enemies, including damage type weaknesses and things like sunlight sensitivity or aversion to fire.
+2. LISTO EASY: Removed poison resistance on enemies, removed references to spells above 6th level for enemies, and removed the supreme knockback effect on several enemies.
+3. Distributed generic community framework magic items to various traders, chests, monsters, loot locations, etc. Should appear on vendors after a long rest, but anything added to loot/enemies already loaded in your campaign unfortunately won't update.
+4. ADDED MORE REACTIVE COMPANIONS (IT'S FINALLY UPDATED).
+5. UPDATED Champion Fighter 2024, Celestial Fury.
+6. Maybe hopefully fixed people getting issues compiling the mod list from MO2 to their game? (the "MCM menu issue")
+
 ## Listonomicon v4.0
 
 Save Safe? No.
