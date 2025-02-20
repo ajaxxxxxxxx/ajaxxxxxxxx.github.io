@@ -18,9 +18,8 @@ description: Listonomicon
 Save Safe? Yes!
 
 1. ADDED Genie and Fathomless Warlocks.
-2. ADDED a _very_ special book.
-3. ADDED "Weapons From Summons," though they have been nerfed/sanatized/redistributed compared to the Nexus mod raw.
-4. UPDATED Deadlier Honour Mode, VBT Resources (Warlock spells), and various other mods.
+2. Did what I should have in the last update: Actually went through the stats of the community library magic items to make sure they have correct prices assigned, functional code, etc. Four thousand+ lines later, every Community Library item is now assigned a rarity, attunement status, correct price, and working effects.
+3. UPDATED Deadlier Honour Mode, VBT Resources (Warlock spells), and various other mods.
 
 ## Listonomicon v4.0.1
 
