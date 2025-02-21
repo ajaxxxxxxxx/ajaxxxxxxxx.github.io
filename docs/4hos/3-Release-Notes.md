@@ -23,7 +23,7 @@ Save Safe? YES
 * [Shame of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/96804)
 * [No Opposite Gender Animations NG](https://www.nexusmods.com/skyrimspecialedition/mods/101357)
 * [VIGILANT Armors - SPID and CID](https://www.nexusmods.com/skyrimspecialedition/mods/121834)
-* [Skin Feature Overlays SE - Freckles Scars Birthmarks Stretch Marks Moles and More for Face and Body RaceMenu Overlays](https://www.nexusmods.com/skyrimspecialedition/mods/20183_
+* [Skin Feature Overlays SE - Freckles Scars Birthmarks Stretch Marks Moles and More for Face and Body RaceMenu Overlays](https://www.nexusmods.com/skyrimspecialedition/mods/20183)
 * [Oxygen Meter 2 - DDDM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/137875)
 * [Casting Bar](https://www.nexusmods.com/skyrimspecialedition/mods/80455)
 * [Casting Bar 3.0 - DDDM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/137919)
