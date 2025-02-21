@@ -43,6 +43,7 @@ Save Safe? YES
 * [Complex Parallax Materials](https://www.nexusmods.com/skyrimspecialedition/mods/95134)
 * [Vanilla HDR](https://www.nexusmods.com/skyrimspecialedition/mods/76521)
 * [All Thieves Guild Jobs Concurrently](https://www.nexusmods.com/skyrimspecialedition/mods/14883)
+* [Shrubbery Symphony - Enhanced Greenery](https://www.nexusmods.com/skyrimspecialedition/mods/108442)
 
 **Updated**
 
