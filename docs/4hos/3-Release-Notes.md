@@ -14,6 +14,22 @@ Save Safe? YES
 * [Water Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112762)
 * [ENB Terrain Blending Fix](https://www.nexusmods.com/skyrimspecialedition/mods/140041)
 * [NAT.CS III](https://www.nexusmods.com/skyrimspecialedition/mods/139567)
+* [Unarmed Block Animation-](https://www.nexusmods.com/skyrimspecialedition/mods/131399)
+* [Gamepad controlmap and config for Halls of Sovngarde (HoS)](https://www.nexusmods.com/skyrimspecialedition/mods/141712)
+* [Immersive Weapon Switch - SKSE plugin](https://www.nexusmods.com/skyrimspecialedition/mods/139762)
+* [Whose Quest Is It Anyway](https://www.nexusmods.com/skyrimspecialedition/mods/23581)
+* [Requiem - Cheaper Horses and Mercenaries SE](https://www.nexusmods.com/skyrimspecialedition/mods/119109)
+* [Frostfall Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/114196)
+* [Shame of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/96804)
+* [No Opposite Gender Animations NG](https://www.nexusmods.com/skyrimspecialedition/mods/101357)
+* [VIGILANT Armors - SPID and CID](https://www.nexusmods.com/skyrimspecialedition/mods/121834)
+* [Skin Feature Overlays SE - Freckles Scars Birthmarks Stretch Marks Moles and More for Face and Body RaceMenu Overlays](https://www.nexusmods.com/skyrimspecialedition/mods/20183_
+* [Oxygen Meter 2 - DDDM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/137875)
+* [Casting Bar](https://www.nexusmods.com/skyrimspecialedition/mods/80455)
+* [Casting Bar 3.0 - DDDM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/137919)
+* [Animated Armoury - Katana Animation Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/121787)
+* [Requiem - Lucien - Immersive Fully Voiced Male Follower patch](https://www.nexusmods.com/skyrimspecialedition/mods/64050)
+* [Sprint Sneak Movement Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/86631)
 
 **Removed**
 
@@ -23,6 +39,7 @@ Save Safe? YES
 * [Dynamic Cubemaps](https://www.nexusmods.com/skyrimspecialedition/mods/112763)
 * [Complex Parallax Materials](https://www.nexusmods.com/skyrimspecialedition/mods/95134)
 * [Vanilla HDR](https://www.nexusmods.com/skyrimspecialedition/mods/76521)
+* [All Thieves Guild Jobs Concurrently](https://www.nexusmods.com/skyrimspecialedition/mods/14883)
 
 **Updated**
 
