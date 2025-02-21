@@ -30,6 +30,9 @@ Save Safe? YES
 * [Animated Armoury - Katana Animation Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/121787)
 * [Requiem - Lucien - Immersive Fully Voiced Male Follower patch](https://www.nexusmods.com/skyrimspecialedition/mods/64050)
 * [Sprint Sneak Movement Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/86631)
+* [Follower Dialogue Expansion - Roggi Knot-Beard](https://www.nexusmods.com/skyrimspecialedition/mods/134694)
+* [Follower Dialogue Expansion - Illia](https://www.nexusmods.com/skyrimspecialedition/mods/137845)
+* [Follower Dialogue Expansion - Aranea Ienith](https://www.nexusmods.com/skyrimspecialedition/mods/141907)
 
 **Removed**
 
