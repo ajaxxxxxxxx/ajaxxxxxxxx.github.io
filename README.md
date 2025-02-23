@@ -1,3 +1,3 @@
-Respository For Boneyard Creations Official Website
+Respository for the Kitchen Sink mods website and wiki.
 
-Check out the official website [here](https://www.modlists.net)
+Check out the official website [here](https://KitchenSink.net)
