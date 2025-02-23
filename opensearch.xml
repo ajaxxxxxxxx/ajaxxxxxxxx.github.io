@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Boneyard Creations</ShortName>
-  <Description>Search Boneyard Creations</Description>
+  <ShortName>Kitchen Sink Mods</ShortName>
+  <Description>Search Kitchen Sink Mods</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://www.modlists.net/img/favicon.png</Image>
-  <Url type="text/html" method="get" template="https://www.modlists.net/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://www.modlists.net/opensearch.xml" />
-  <moz:SearchForm>https://www.modlists.net/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://KitchenSink.net/&lt;KitchenSink.github.io&gt;/img/favicon.png</Image>
+  <Url type="text/html" method="get" template="https://KitchenSink.net/&lt;KitchenSink.github.io&gt;/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://KitchenSink.net/&lt;KitchenSink.github.io&gt;/opensearch.xml" />
+  <moz:SearchForm>https://KitchenSink.net/&lt;KitchenSink.github.io&gt;/</moz:SearchForm>
 </OpenSearchDescription>

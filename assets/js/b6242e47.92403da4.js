@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7235],{3597:e=>{e.exports=JSON.parse('{"permalink":"/<KitchenSink.github.io>/blog/tags/capital-punishment","page":1,"postsPerPage":10,"totalPages":1,"totalCount":9,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
