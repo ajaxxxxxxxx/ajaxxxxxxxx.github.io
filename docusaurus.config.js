@@ -16,7 +16,7 @@ const config = {
   url: 'https://KitchenSink.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/<KitchenSink.github.io>',
+  baseUrl: '/KitchenSink.github.io',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -43,9 +43,6 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
-        blog: {
-          showReadingTime: true,
-        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -69,9 +66,9 @@ const config = {
       },
       image: 'img/bycsocial.png',
       navbar: {
-        title: 'Boneyard Creations',
+        title: 'Kitchen Sink',
         logo: {
-          alt: 'Boneyard Creations',
+          alt: 'Kitchen Sink',
           src: 'img/logo.png',
         },
         items: [
@@ -81,7 +78,6 @@ const config = {
 			docId: '7listo/Home',
             label: 'Listonomicon',
           },
-          {to: '/blog', label: 'News', position: 'left'},
           {
             href: 'https://discord.gg/AmxvjHkQ5v',
             label: 'Discord',
@@ -107,15 +103,19 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.gg/AmxvjHkQ5v',
-              }
+              },
+              {
+                label: 'Twitter',
+                href: 'https://duckduckgo.com/?q=twitter+meme&atb=v415-1&iax=images&ia=images',
+              },
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'News',
-                to: '/blog',
+                label: 'Nexus',
+                to: 'https://www.nexusmods.com/baldursgate3/mods/8976',
               },
             ],
           },
