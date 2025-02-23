@@ -8,20 +8,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Boneyard Creations',
-  tagline: 'Modlists & Servers',
+  title: 'Kitchen Sink Mods',
+  tagline: '',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
-  url: 'https://www.modlists.net',
+  url: 'https://KitchenSink.net',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/<KitchenSink.github.io>',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'TheMrNewVegas', // Usually your GitHub org/user name.
-  projectName: 'themrnewvegas.github.io', // Usually your repo name.
+  organizationName: 'Ajax', // Usually your GitHub org/user name.
+  projectName: 'KitchenSink.github.io', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -78,30 +78,12 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
-			docId: '4hos/Home',
-            label: 'Halls of Sovngarde',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
-			docId: '5oh/Home',
-            label: 'Ordo Hereticus',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
-			docId: '6poti/Home',
-            label: 'Path of the Incarnate',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
 			docId: '7listo/Home',
             label: 'Listonomicon',
           },
           {to: '/blog', label: 'News', position: 'left'},
           {
-            href: 'https://discord.gg/43EhRjU',
+            href: 'https://discord.gg/AmxvjHkQ5v',
             label: 'Discord',
             position: 'right',
           },
@@ -123,17 +105,9 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Subreddit',
-                href: 'https://www.reddit.com/r/boneyardcreations/',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discord.gg/43EhRjU',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/BYCMods',
-              },
+                href: 'https://discord.gg/AmxvjHkQ5v',
+              }
             ],
           },
           {
@@ -146,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Boneyard Creations, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kitchen Sink Productions`,
       },
       prism: {
         theme: prismThemes.github,
