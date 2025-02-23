@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkKitchenSink=self.webpackChunkKitchenSink||[]).push([[5533],{1747:e=>{e.exports=JSON.parse('{"permalink":"/KitchenSink.github.io/blog/tags/update","page":1,"postsPerPage":10,"totalPages":2,"totalCount":11,"nextPage":"/KitchenSink.github.io/blog/tags/update/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

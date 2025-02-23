@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9407],{7851:e=>{e.exports=JSON.parse('{"label":"welcome","permalink":"/<KitchenSink.github.io>/blog/tags/welcome","allTagsPath":"/<KitchenSink.github.io>/blog/tags","count":2,"unlisted":false}')}}]);
