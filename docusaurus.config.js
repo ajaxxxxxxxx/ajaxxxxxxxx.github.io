@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
-  url: 'https://www.modlists.net',
+  url: 'https://KitchenSink.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/KitchenSink.github.io',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'TheMrNewVegas', // Usually your GitHub org/user name.
-  projectName: 'themrnewvegas.github.io', // Usually your repo name.
+  organizationName: 'ajaxxxxxxxx', // Usually your GitHub org/user name.
+  projectName: 'KitchenSink.github.io', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
@@ -60,16 +60,10 @@ const config = {
       defaultMode: 'dark',
       disableSwitch: false,
       respectPrefersColorScheme: false,
-    },
-      algolia: {
-        appId: "YT8MKLXGDB",
-        apiKey: "828568b1a1a24894f73157fe239e85d4",
-        indexName: "modlists",
-        contextualSearch: false,
       },
       image: 'img/bycsocial.png',
       navbar: {
-        title: 'Boneyard Creations',
+        title: 'Kitchen Sink',
         logo: {
           alt: 'Boneyard Creations',
           src: 'img/logo.png',
@@ -78,28 +72,9 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
-			docId: '4hos/Home',
-            label: 'Halls of Sovngarde',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
-			docId: '5oh/Home',
-            label: 'Ordo Hereticus',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
-			docId: '6poti/Home',
-            label: 'Path of the Incarnate',
-          },
-		  {
-			type: 'doc',
-			position: 'left',
-			docId: '7listo/Home',
+			docId: '1listo/Home',
             label: 'Listonomicon',
           },
-          {to: '/blog', label: 'News', position: 'left'},
           {
             href: 'https://discord.gg/43EhRjU',
             label: 'Discord',
@@ -115,7 +90,7 @@ const config = {
             items: [
               {
                 label: 'Wiki',
-                to: '/docs/Home',
+                to: '1listo/Home',
               },
             ],
           },
@@ -123,16 +98,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Subreddit',
-                href: 'https://www.reddit.com/r/boneyardcreations/',
-              },
-              {
                 label: 'Discord',
-                href: 'https://discord.gg/43EhRjU',
+                href: 'https://discord.gg/AmxvjHkQ5v',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/BYCMods',
+                href: 'https://duckduckgo.com/?q=twitter+meme&atb=v415-1&iax=images&ia=images',
               },
             ],
           },
@@ -140,8 +111,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'News',
-                to: '/blog',
+                label: 'Nexus',
+                to: 'https://www.nexusmods.com/baldursgate3/mods/8976',
               },
             ],
           },
