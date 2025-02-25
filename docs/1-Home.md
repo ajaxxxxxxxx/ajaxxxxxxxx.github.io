@@ -1,9 +1,12 @@
----
-layout: default
-title: Home
-nav_order: 1
-description: Listonomicon
----
+{
+  "label": "Home",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Listonomicon Modlist for BG3."
+  }
+}
+
 ![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listo%20Banner.png)
 
 ## **[Donations + Social Links](https://linktr.ee/lillybird69)**
