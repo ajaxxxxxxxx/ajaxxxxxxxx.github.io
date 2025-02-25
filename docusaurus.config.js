@@ -117,7 +117,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Boneyard Creations, Inc.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kitchen Sink, Inc.`,
       },
       prism: {
         theme: prismThemes.github,
