@@ -69,8 +69,8 @@ const config = {
 		  {
 			type: 'doc',
 			position: 'left',
-			docId: '/Home',
-            label: 'Home',
+			docId: '1listo/Home',
+            label: 'Listonomicon',
           },
           {
             href: 'https://discord.gg/AmxvjHkQ5v',
