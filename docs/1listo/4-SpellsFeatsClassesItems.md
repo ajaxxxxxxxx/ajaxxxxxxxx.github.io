@@ -1,10 +1,3 @@
----
-layout: default
-title: Subclasses, Feats, Build, Gear, and Characters
-nav_order: 4
-description: Listonomicon
----
-
 # New and Changed Spells
 
 ## Skill Actions
