@@ -6,13 +6,11 @@ description: Listonomicon
 ---
 ![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listo%20Banner.png)
 
-## **[Donations + Social Links](https://linktr.ee/lillybird69)**
 
-# join our [Discord](https://discord.gg/43EhRjU)
+
+# join our Discord
 
 ## **What is Listonomicon?**
-
-The goal of “Listonomicon” is to be an out-of-the-box experience that enhances Baldurs Gate 3’s UI, quality of life, and replay value; introduces beloved aspects of the tabletop game’s past and present; and widens and deepens the game mechanics while respecting Larian’s vision for adapting DnD5e to an enjoyable cRPG. This includes new classes and subclasses, races, and other character creation options as well as feats, rebalance mods, magic items, encounters, and more. If vanilla BG3 is like playing the D&D Starter Set, Listonomicon is like playing D&D with all of the official books, and the best third-party content available, and just a little homebrew from a creative DM. We take Listonomicon a step further by doing our best to make mods feel cohesively integrated as much as possible - meaning that, with the power of Combat Extender, your enemies will use some of the same new feats, class abilities, spells, and powers that you do! [A list of everything included, being considered for inclusion, rejected, or included as an optional mod can be seen here](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing), if you are too impatient to read this wiki.
 
 The passion for compiling this list is born of the unexpected love that BG3 reignited for _Dungeons and Dragons_ - but Listo would not be possible without the hard work of unpaid fans and mod makers. Lilly and I share sincere respect and appreciation for modders, Wabbajack, MO2 devs, LaughingLeader, MO2-BG3 plugin authors, and everyone else who contributes in small and large ways to enable Listo. Without them, we couldn't take a great game to the grand experience of Listonomicon. True cthonauts of Larian OSIRIS and Script Extender code: We thank you, and everyone who contributes their time and talent to the gaming community for free. [Zehtuka](https://next.nexusmods.com/profile/Zehtuka/mods?gameId=3474) in particular was a big help in configuring and tweaking Combat Extender for Listonomicon, and learning better practices in mod config management in general. [Reyqune](https://next.nexusmods.com/profile/reyqune/mods), the author of BG3 Enhanced Edition, and Baldursgoonsack, author of DIQ, have been huge sources of help on the list development/management side. [BaldursGoonsack](https://next.nexusmods.com/profile/BaldursGoonsack/mods?gameId=3474), [Yoesph](https://next.nexusmods.com/profile/Yoesph/mods?gameId=3474), [Lumaterian](https://next.nexusmods.com/profile/Lumaterian/mods?gameId=3474), [Chizfreak](https://next.nexusmods.com/profile/chizfreak/mods?gameId=3474), Yuuko Shionji, and others have made mods, mod patches, or changes to their mods just to better support Listonomicon, and we are endlessly thankful for their contributions and any future help we get from the mod community. This "thank you!" list is not exhaustive, I'm bad at writing down names and remembering everyone. [Sumradagnoth8](https://next.nexusmods.com/profile/sumradagnoth8/mods?gameId=3474) has made the majority of subclasses in Listo. Lumaterian, BaldursGoonsack, Cahoot, and other players and mod makers have been great resources in teaching me to mod for myself to better custom tune things for Listo, and I can't thank them enough for their patience and help. Over the final months of 2024, Listo truly transformed into a community effort with a great syncretic blend of mod making and knowledge sharing between Listo makers, players, and modders; DIQ makers, players, and modders; and taking help anywhere else we can get it. DI Immortalis designed the great attunement mod based on specific DIQ/Listo feature requests and helped Listo with its implementation.
 
@@ -53,7 +51,7 @@ No support is offered or guaranteed for anyone who modifies the behavior or cont
 
 3.) If your issue is not in the FAQ or Installation Guide, take the time to look around Listo's documentation (Especially if it's a gameplay related questions). Major changes to classes and game mechanics have been explained, including links to the relevant mods.
 
-4.) If your question is unanswered in our documentation, join our [Discord](https://discord.gg/43EhRjU). Please look through #listo-help and #listo-bug-reports, in addition to looking through pins, announcements, and using the search function.
+4.) If your question is unanswered in our documentation, join our Discord. Please look through #listo-help and #listo-bug-reports, in addition to looking through pins, announcements, and using the search function.
 
 5.) If after your searches you still cannot find your issue, make a help post in #listo-help on our discord and we will get to it as soon as possible!
 
@@ -64,8 +62,6 @@ No support is offered or guaranteed for anyone who modifies the behavior or cont
 Please source all help to our discord alone. Even if you think that your question relates to your installation of Baldur's Gate 3 itself, please bring it into our discord. The authors of the many, many mods of Listonomicon do not want to diagnose problems in a list this large. Give us the first chance to make sure any issues you face are not Listo-specific, before asking for help elsewhere.
 :::
 
-![BirdJax](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/BirdJaxBae.png)
-
 ## Why play Listonomicon?
 
 ![Features](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/ad.png)
@@ -74,23 +70,23 @@ The tl;dr is that we really enjoyed playing BG3, and wanted to add more on top o
 
 ### Classes and Subclasses
 
-[Classes and Subclasses](https://www.modlists.net/docs/7listo/SpellsFeatsClassesItems#general-changes-and-additions) should represent something that exists in official D&D material or high-quality, setting-agnostic third party publications, makes sense in the Forgotten Realms (sorry my fellow _DragonMech_ and _Dragonstar_ fans), and compliments Larian’s design. It must work within the Compatibility Framework, and it must have level scaling to 20. Anything that requires unusual deviation or disruption to the regular flow of gameplay, such as a class that introduces an obnoxious number of toggle abilities or changes to the action economy or impacts the basic features of other classes, will most likely not be considered for inclusion. Classes and subclasses should follow their book/tabletop counterparts as closely as practical, with minimal changes to translate to the game.
+Classes and Subclasses should represent something that exists in official D&D material or high-quality, setting-agnostic third party publications, makes sense in the Forgotten Realms (sorry my fellow _DragonMech_ and _Dragonstar_ fans), and compliments Larian’s design. It must work within the Compatibility Framework, and it must have level scaling to 20. Anything that requires unusual deviation or disruption to the regular flow of gameplay, such as a class that introduces an obnoxious number of toggle abilities or changes to the action economy or impacts the basic features of other classes, will most likely not be considered for inclusion. Classes and subclasses should follow their book/tabletop counterparts as closely as practical, with minimal changes to translate to the game.
 
 ### Magic Weapons, Armor, and Items
 
-[New gear](https://www.modlists.net/docs/7listo/SpellsFeatsClassesItems#magic-items-economy-and-upgrading) should reasonably exist in the Forgotten Realms. The design philosophy and distribution (as static loot, or new random loot table entries or shopkeeper inventory) should match Larian’s progression expectations and design sensibility. [Vanilla gear that is changed](https://www.modlists.net/docs/7listo/SpellsFeatsClassesItems#magic-items-economy-and-upgrading) should avoid “over tuning” and changes should focus on making items more interesting, under-used items more compelling, or provide Quality of Life changes to awkward mechanics or descriptions.
+New gear should reasonably exist in the Forgotten Realms. The design philosophy and distribution (as static loot, or new random loot table entries or shopkeeper inventory) should match Larian’s progression expectations and design sensibility. Vanilla gear that is changed should avoid “over tuning” and changes should focus on making items more interesting, under-used items more compelling, or provide Quality of Life changes to awkward mechanics or descriptions.
 
 ### Feats, Class Features, and Progression
 
-[New feats](https://www.modlists.net/docs/7listo/SpellsFeatsClassesItems#new-and-changed-feats) should add interesting options. Revised feats (nerfed or buffed or just tweaked) should prevent any options from feeling mandatory, polarizing, or weak. The progression of feats every 3 levels, instead of 4, allows more feats to be chosen over the course of the game; allows builds to come together sooner (such as polearm/sentinel tanks); and it allows multi-class dips to grab their 3rd level subclass features without having to choose a 4th level or miss a feat. Level progression should be faster than the base game, allowing players who do most content to reach level 15+ and completionists to reach level 18+. Enabling any optional additional content (such as Many More Monsters and/or DHM) will definitely allow thorough players to reach level 20. New classes/subclasses must scale to level 20.
+New feats should add interesting options. Revised feats (nerfed or buffed or just tweaked) should prevent any options from feeling mandatory, polarizing, or weak. The progression of feats every 3 levels, instead of 4, allows more feats to be chosen over the course of the game; allows builds to come together sooner (such as polearm/sentinel tanks); and it allows multi-class dips to grab their 3rd level subclass features without having to choose a 4th level or miss a feat. Level progression should be faster than the base game, allowing players who do most content to reach level 15+ and completionists to reach level 18+. Enabling any optional additional content (such as Many More Monsters and/or DHM) will definitely allow thorough players to reach level 20. New classes/subclasses must scale to level 20.
 
 ### Engaging Combat and Difficulty Curve
 
-Enemy casters should have access to 5e, PF2e, and Homebrew spells, plus most additional spells added to Listo from other mods. The list enables Honour Mode mechanics, including legendary actions added to boss fights. And with [Combat Extender](https://www.modlists.net/docs/7listo/GameBalance#game-balance-and-combat-extender-vs-extended-level-scale), many enemies and bosses have been given direct upgrades to enhance the challenge. CX is further used to distribute many of the new feats, abilities, magic item effects, and options given to players across various enemies. In other words, changes to the world are not exclusively in the player's favor - just as you have access to a wider variety of tools, so do your foes!
+Enemy casters should have access to 5e, PF2e, and Homebrew spells, plus most additional spells added to Listo from other mods. The list enables Honour Mode mechanics, including legendary actions added to boss fights. And with Combat Extender, many enemies and bosses have been given direct upgrades to enhance the challenge. CX is further used to distribute many of the new feats, abilities, magic item effects, and options given to players across various enemies. In other words, changes to the world are not exclusively in the player's favor - just as you have access to a wider variety of tools, so do your foes!
 
 ### Multiplayer Compatibility
 
-There is no promise that coop will never be sacrificed due to a future mod being incompatible, but too compelling to leave out of Listo. However, for the time being, [Listo remains functional for a full, fun, multiplayer experience](https://www.modlists.net/docs/7listo/Install#10-multiplayer) (with a handful of vanilla MP bugs).
+There is no promise that coop will never be sacrificed due to a future mod being incompatible, but too compelling to leave out of Listo. However, for the time being, Listo remains functional for a full, fun, multiplayer experience (with a handful of vanilla MP bugs).
 
 ### A Platform to Enable Your Fun
 
@@ -98,4 +94,4 @@ At the end of the day, Listo's goal is to give you even more BG3. But you may di
 
 ### Have suggestions to make Listonomicon better?
 
-The easiest way to get in touch with us is to [join our Discord](https://discord.gg/boneyard-creations-415287319982112768). Make sure to grab the @Listonomicon role, and then post your suggestions in #listo-suggestions. Familiarize yourself with the list's philosophy before suggesting things that will be categorically denied (such as classes that lack level 20 progression, anime katanas, or mechs).
+The easiest way to get in touch with us is to join our Discord. Make sure to grab the @Listonomicon role, and then post your suggestions in #listo-suggestions. Familiarize yourself with the list's philosophy before suggesting things that will be categorically denied (such as classes that lack level 20 progression, anime katanas, or mechs).
