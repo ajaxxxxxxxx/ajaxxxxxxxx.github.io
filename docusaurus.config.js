@@ -13,15 +13,15 @@ const config = {
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
-  url: 'https://KitchenSink.github.io',
+  url: 'https://ajaxxxxxxxx.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/KitchenSink.github.io/',
+  baseUrl: '/ajaxxxxxxxx.github.io/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ajaxxxxxxxx', // Usually your GitHub org/user name.
-  projectName: 'KitchenSink.github.io', // Usually your repo name.
+  projectName: 'ajaxxxxxxxx.github.io', // Usually your repo name.
   trailingSlash: false,
 
   onBrokenLinks: 'throw',
