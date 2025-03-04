@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: 1-Home
 nav_order: 1
 description: Listonomicon
 ---
