@@ -86,15 +86,6 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Wiki',
-                to: '1listo/Home',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
               {
