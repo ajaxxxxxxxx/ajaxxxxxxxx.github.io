@@ -7,7 +7,7 @@ description: Listonomicon
 
 # Welcome to Listonomicon's Changelog
 
-## [Install Instructions](https://www.modlists.net/docs/7listo/Install) and [Listo Game Guide](https://www.modlists.net/docs/7listo/GameBalance)
+## Install Instructions and Listo Game Guide
 
 ## Releases (Newest to Oldest)  
 
