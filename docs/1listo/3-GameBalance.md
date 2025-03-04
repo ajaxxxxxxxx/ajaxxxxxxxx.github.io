@@ -1,3 +1,5 @@
+# Game Balance
+
 ## Exhaustion
 
 Characters will accumulate stacks of "Exhaustion" if they are downed, killed and revived, or spend 7 turns in combat. They gain three stacks if they flee from combat. Characters remove 2 stacks of exhaustion by short resting, and 3 stacks by long resting. Exhaustion begins as a minor but noticeable debuff to maximum HP and movement speed, but increasing levels of Exhaustion are increasingly debilitating. You do not want to wait until a character is downed in Listo to heal them! Letting characters get down to low HP and then juggling them back up with Mass Cure Wounds is less viable in Listo as they will get rapidly exhausted by being downed and raised multiple times. This also means that Revivify is a less powerful tool, as it costs the spell slot to cast plus you bring back an increasingly exhausted ally.
