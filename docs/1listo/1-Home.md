@@ -1,9 +1,3 @@
----
-layout: default
-title: 1-Home
-nav_order: 1
-description: Listonomicon
----
 ![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/Listo%20Banner.png)
 
 
