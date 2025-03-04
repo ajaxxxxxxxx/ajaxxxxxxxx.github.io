@@ -1,11 +1,4 @@
----
-layout: default
-title: Change Log and Release Notes
-nav_order: 5
-description: Listonomicon
----
-
-# Welcome to Listonomicon's Changelog
+# Listonomicon Changelog
 
 ## Install Instructions and Listo Game Guide
 
