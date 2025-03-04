@@ -5,7 +5,7 @@
 - ~ 42 GB of space for the modlist (~19 GB can be reclaimed by deleting downloaded mod archives after finishing your install)
 - A legally obtained copy of Baldur's Gate 3 (while a Steam global copy is safest, any copy should do), **installed and launched vanilla from Steam at least once**
 - [Wabbajack](https://www.wabbajack.org/)
-- A Nexus Account (Premium recommended; drastically increases install speed)
+- A Nexus account (Premium recommended; _drastically_ increases install speed)
 :::
 
 :::danger
