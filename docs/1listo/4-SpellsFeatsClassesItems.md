@@ -1,9 +1,5 @@
 # Spells, Feats, & Class Items
 
-## Skill Actions
-
-These aren't really "Spells" per say, but [Skill Actions](https://www.nexusmods.com/baldursgate3/mods/13705) adds new abilities to all characters based on their skill proficiencies. One of the very important skills added is using Perception to search for invisible enemies. Most Skill Actions are contained under a single button added to your hotbar and can be used in combat a limited number of times per Long Rest to get an edge over your enemy at the cost of your bonus action. The exception is using the Perception skill to look for invisible enemies - this is its own button, and can be used every turn. Several enemies in Listo have access to invisibility, so investing in Perception on multiple characters is a good idea (and once an invisible enemy is found, Faerie Fire, Dispel Magic, and other methods can be used to stop their shenanigans).
-
 ## Rebalanced Spells
 
 [Valdacil's Spell Adjustments](https://www.nexusmods.com/baldursgate3/mods/4426) makes a number of critical changes to various vanilla BG3 spells. Namely:
