@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Installation Guide
+title: 2-Install
 nav_order: 2
-description: Listonomicon
+description: Installation Guide
 ---
 
 # **Installation Guide**
