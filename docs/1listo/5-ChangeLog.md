@@ -6,7 +6,9 @@
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-## Listonomicon v4.0.2 (WIP)
+More to come.
+
+## Listonomicon v4.0.2
 
 Save Safe? Yes!
 
