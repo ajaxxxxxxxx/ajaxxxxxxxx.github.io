@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Boneyard Creations',
+  title: 'Kitchen Sink Productions',
   tagline: 'Modlists & Servers',
   favicon: 'img/favicon.png',
 
@@ -16,7 +16,7 @@ const config = {
   url: 'https://KitchenSink.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/KitchenSink.github.io',
+  baseUrl: '/KitchenSink.github.io/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
