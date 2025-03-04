@@ -1,4 +1,4 @@
-# New and Changed Spells
+# Spells, Feats, & Class Items
 
 ## Skill Actions
 
