@@ -4,7 +4,7 @@
 
 
 
-# join our Discord
+# Join our [Discord](https://discord.gg/AmxvjHkQ5v)
 
 ## **What is Listonomicon?**
 
