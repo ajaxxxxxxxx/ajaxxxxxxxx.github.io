@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkKitchenSink=self.webpackChunkKitchenSink||[]).push([[527],{4885:i=>{i.exports=JSON.parse('{"title":"Listonomicon","description":"Listonomicon Modlist for BG3.","slug":"/category/listonomicon","permalink":"/KitchenSink/docs/category/listonomicon","navigation":{"next":{"title":"Home","permalink":"/KitchenSink/docs/1listo/Home"}}}')}}]);
