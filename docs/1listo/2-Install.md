@@ -126,7 +126,7 @@ If Listo is not hard enough,
 
 (written by Kmnder, edited by Ajax)
 
-1. After installing Listonomicon, if enabling custom or optional mods, the host should generate a fresh ModsCache/ModSettings.lsx and share it with all other players to guarantee BG3 loads the same mods, in the same order. Have **all players start a new game** ([with the same custom game rules as what is in Listo's install instructions](https://www.modlists.net/docs/7listo/Install#7-in-game-settings)). 
+1. After installing Listonomicon, if enabling custom or optional mods, the host should generate a fresh ModsCache/ModSettings.lsx and share it with all other players to guarantee BG3 loads the same mods, in the same order. Have **all players start a new game** with the same custom game rules as what is in Listo's install instructions. 
 2. Once that is done, have all the players that are going to join finish their dummy characters so they start on the ship (click through character creation, don't bother making any choices, you just need to get to the start of the game). **Save**. The host should make the real character they intend to play.
 3. The Host then invites all players. When joining, players will be able to make their real characters they intend to play.
 4. **Every time** you want to continue COOP, everyone should load their dummy save. Once everyone has loaded in, the Host invites everyone to the same game.
@@ -134,4 +134,4 @@ If Listo is not hard enough,
 
 ### 12.) Cleanup (Optional)
 
-If you are desperate to restore some space on your hard drive after installing Listo, you can go to [Listo Install Location]/downloads and delete everything to cut Listo's size. Note, however, that if you ever want to update Listo that Wabbajack will have to re-download _everything_ again rather than just updated and new mods.
+If you are desperate to restore some space on your hard drive after installing Listo, you can go to "Listo Install Location/downloads" and delete everything to cut Listo's size. Note, however, that if you ever want to update Listo that Wabbajack will have to re-download _everything_ again rather than just updated and new mods.
