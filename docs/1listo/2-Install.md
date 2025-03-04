@@ -1,10 +1,3 @@
----
-layout: default
-title: 2-Install
-nav_order: 2
-description: Installation Guide
----
-
 # **Installation Guide**
 
 :::info
