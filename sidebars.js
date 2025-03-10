@@ -62,11 +62,11 @@ const sidebars = {
   // But you can create a sidebar manually
   
   tutorialSidebar: [
-    '1-Home',
-    '2-Install',
-    '3-GameBalance',
-    '4-SpellsFeatClassesItems',
-    '5-ChangeLog',
+    '1listo/Home',
+    '1listo/Install',
+    '1listo/GameBalance',
+    '1listo/SpellsFeatsClassesItems',
+    '1listo/ChangeLog',
   ],
 };
 
