@@ -1,3 +1,10 @@
+---
+layout: default
+title: Game Balance
+nav_order: 3
+description: Overview of Changes
+---
+
 # Game Balance
 
 ## Exhaustion
