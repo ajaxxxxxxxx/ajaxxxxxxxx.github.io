@@ -13,7 +13,7 @@ function HomepageHeader() {
       <div className="container">
         <div className={styles.buttons}>
           <Link className="button button--primary button--lg" to="/docs/1listo/Home">
-            Click Here to Learn About Uranium Fever
+            Click HERE to learn about Listonomicon
           </Link>
         </div>
       </div>
@@ -26,7 +26,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="A Hardcore Wabbajack Modlist for Tale of Two Wastelands"
+      description="A comprehensive modlist for Baldur's Gate 3"
     >
       <HomepageHeader />
     </Layout>
