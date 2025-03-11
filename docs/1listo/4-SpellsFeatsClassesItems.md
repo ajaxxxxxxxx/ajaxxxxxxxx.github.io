@@ -1,3 +1,10 @@
+---
+layout: default
+title: Spells Feats Classes Items
+nav_order: 4
+description: Listonomicon
+---
+
 # Spells, Feats, & Class Items
 
 ## Rebalanced Spells
