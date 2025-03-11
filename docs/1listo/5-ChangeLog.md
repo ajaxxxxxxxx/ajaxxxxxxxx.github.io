@@ -1,3 +1,10 @@
+---
+layout: default
+title: Changelog
+nav_order: 5
+description: Update info
+---
+
 # Listonomicon Changelog
 
 ## Install Instructions and Listo Game Guide
