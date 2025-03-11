@@ -22,10 +22,10 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ajaxxxxxxxx', // Usually your GitHub org/user name.
   projectName: 'ajaxxxxxxxx.github.io', // Usually your repo name.
-  trailingSlash: false,
+  deploymentBranch: "gh-pages",
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
