@@ -69,7 +69,8 @@ BG3 is still receiving Patches (major updates) and Hotfixes (small updates). The
 - **Your total number of active mods should be 604, and the purple seperator at the top should say Listonomicon v4.1.1. For Listo Lite, your total active mods should be 437 and the seperator should say Listo Lite v4.0.**
 - At the top-right, you should be able to switch the program to launch the Vulkan or dx11 version of the game.
 - Hit "run" after selecting the EXE that works best for your system. Always launch the game this way (don't use Steam).
-- You can verify Listo's mods are all loaded correctly after install by clicking on the official mod manager and looking at the installed mods tab. Is there a long list with almost everything enabled? Good. Some mods, like overwrites to text, will not show as "Enabled" but will still be working ifne.
+- You can verify Listo's mods are all loaded correctly after install by clicking on the official mod manager and looking at the installed mods tab. Is there a long list with almost everything enabled? Good. Some mods, like overwrites to text, will not show as "Enabled" but will still be working fine.
+- If you install Listo to a different storage device than where you installed BG3 itself, and the game fails to launch but does not give you an error explaining why it can't work, go to the puzzle pieces icon at the top of MO2 -> Rootbuilder -> Open Rootbuilder -> On the first page that opens, change from “Link” to “Copy” (if your Listo is working ignore this).
 
 ### 7.) In-Game Settings
 
