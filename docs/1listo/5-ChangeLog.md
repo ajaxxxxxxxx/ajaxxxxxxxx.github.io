@@ -7,13 +7,73 @@ description: Update info
 
 # Listonomicon Changelog
 
-## Install Instructions and Listo Game Guide
+## [**Install Instructions**](https://ajaxxxxxxxx.github.io/docs/1listo/Install), [**Updating Listo Instructions**](https://ajaxxxxxxxx.github.io/docs/1listo/Install/#13-updating-listonomicon), and [**Listo Game Guide**](https://ajaxxxxxxxx.github.io/docs/1listo/GameBalance)
 
 ## Releases (Newest to Oldest)  
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-More to come.
+**Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
+
+## Listonomicon v4.1.1
+Save safe? Yes.
+
+1. RESTORED Skill Actions and Goon’s SAC by popular demand.
+Updated 9 mods.
+2. ADDED Oath and Order, Paladin Equipment. Integrated into Attunement and Random Loot Mode. I don’t know if updates to random equipment is super save safe or not, and any Oath and Order items added to an area where you have already been will not be added to an ongoing campaign.
+3. Updated Listo’s Patches and Tweaks to incorporate fixes, rebalances, and improvements donated by Cahoot.
+4. Updated enemy stats in Degreaser to potentially fix an issue with Valkrana’s mods, and to make golems/constructs/undead immune to more status conditions that should not affect them.
+
+## Listonomicon v4.1
+Save safe? No.
+
+1. REMOVED a significant number of mods. Some cuts were surgical, some were sweeping, to the point that I didn’t keep track of everything. Some things that appear missing have been simplified and rolled into other mods (such as the master Listo patch). The total number of active mods, without enabling anything optional, has been reduced from 626 to 598. “Woah you cut out 28 whole mods?” No. Way more than 28 mods were removed, a lot were just also added. 28 is just the net change :)
+2. Removed “Half-Scro” and the TRIBES framework.
+3. Removed ATF Framework and the firearms mod.
+4. Removed Baldurian Warforged and Aarakocra.
+5. Removed several Sumra mods because Sumra has released all-in-one versions of their subclasses.
+6. Removed Drunken Master feat.
+7. Removed the Guardian fighter subclass.
+8. Removed some mods focused on removing VFX/SFX from various situations in an attempt to fight redundancies.
+9. Removed Vow of Poverty Cleric subclass.
+10. Removed Skill Actions.
+11. Removed Poor Adventurer. Before you celebrate, many of its changes were recreated via Listo patch.
+12. Removed several cosmetic mods, especially ones that added duplicative jewelry or single/small additions, and thus removed associated cosmetic patches for those items.
+13. Removed Already Inspected.
+14. Removed Casamir and Sedrick, Crawling Hand Companions.
+15. Removed JWL Deck of Many Things.
+16. Removed Listo’s silly loading screen tips.
+17. Removed a bunch of vestigial Trade With Withers sub-mods like the Chef Addon. You can still trade with Withers (and should!).
+18. Removed auto use soap.
+19. Removed Weapon Skills While Dual-Wielding.
+20. Removed and simplified a lot of optional mods.
+
+In part, the purpose of removing so many mods is to hopefully reduce the error rate of people facing the “MCM not loaded” menu message and having their mods disabled. I have some suspicion that there are a bunch of (not yet understood) compatibility issues with some mods. Going forward, Listo will test enabling ALL optional mods with all core mods to ensure the game can load without any issues. This issue may have also been caused by me not knowing what I’m doing in the listo patch and having multiple mod settings files confusing the game.
+
+21. Implemented a proper, correct “Randomized Equipment Loot” (REL) solution. This mod is found at almost the very bottom of MO2. If enabled, it will randomize almost 2,000 items including vanilla items (except plot items, relics, and important items) and items from mods. If playing with REL, you may wish to reduce the custom difficulty price setting from 4x to 3.5x, to help offset the unpredictable, less reliable path to loot. You also want to hit the trade menu button (bottom left of the screen in dialogue) with every NPC just in case they have been assigned something you are looking for and want to buy. Shop inventories will change after each long rest.
+22. Hopefully removed the loot duplication issue by switching to the not-Script Extender version of FED.
+23. Changed all firearms from the artificer mod to be “Slings” in the “MartialRangedWeapon” category, and revised the Gunner feat. Now, hopefully, everything will work together better with no more confusing “UNKNOWN PROFICIENCY GROUP” text issues (still haven’t solved this). The Gunner feat should provide proficiency with firearms and correctly remove the point blank shot penalty from them.
+24. Artificer firearms should now receive identical benefits from any feats, abilities, magic items, etc that affect ranged combat.
+25. Artificer firearms can now apply oils and poisons and everything.
+26. Artificer firearms have better damage but reduced range versus the equivalent bow/crossbow weapons.
+27. Significantly redid the order/format/layout of mods in MO2 (again). The OPTIONAL sections are highlighted yellow to get your attention. Everything else you should not mess with unless you know what you are doing.
+Updated 60+ mods.
+28. Revisited a ton of decisions with Degreaser and how enemies are changed. In short, many vulnerabilities (such as blanket undead vulnerability to radiant damage) have been removed. However, other ways of giving enemies a weakness (such as Aversion to Fire on spiders) remains.
+29. ADDED Dark Soar and Skybound Wings for dragonborn.
+30. ADDED VSC/VUE support for CX (Valkrana Undead Encounters will now have CX boosts).
+31. ADDED Cahoot’s Feat Overhaul, Listo Edition.
+32. RE-ADDED some half-orc cosmetic mods that were removed due to TRIBES previously.
+33. ADDED Bhaal-themed and old school JRPG-themed dice.
+34. ADDED Waiting With Style.
+35. ADDED True Criminal (being arrested has consequences now).
+36. ADDED the latest of GraphicFade’s sorcerer gear.
+37. Made Halsin’s portal fight a lot more interesting. The portal itself has more HP and resistance to many sources of damage, but the enemies have a lot more ability to bum rush it. You’ll definitely want at least one person on your team playing goalie rather than relying on a single Wall of Fire to lock down the entire battlefield.
+38. Made JWL Backgrounds and Histories a little bit better.
+39. Updated Degreaser’s creature changes to include a mod-level comprehensive change to ochre jellies, and oozes that use OJ’s as a base such as fetid oozes.
+40. Changed a lot with Combat Extender. Removed a substantial amount of spells and passive effects both from specific enemies, and from the global boosts. Hopefully this will improve the reliability of CX and reduce the frequency of encountering enemies who appear brain dead. Removed a lot of the “NPC_” experimental spells where I was trying to see if I could get enemies to raise the dead, cast weird spells, etc. Trying to be less silly with giving enemies abilities they were never meant to have (like trying to make the Phase Spider Matriarch a caster). Hopefully altogether this means AI will skip less turns/go back to being an adequate challenge and experience.
+41. Created something of a unification in Combat Extender for “Solo Bosses” (or bosses with very lackluster support) to give them a consistent set of survivability tools versus 6-player parties, such as multiattack defense and one action surge. Not present in the “Easy” CX config.
+42. Fixed several Degreaser items and the Listo Patch. Fixed unintended OP exploits with degreaser items.
+43. Added “True 5e Ranges.” The new maximum range limit for ranged weapons is 45m/about 135 feet. Hand crossbows are heavily nerfed by this change, now having less range than shortbows. Firearms are similarly distinct from bows and crossbows now as generally being more powerful, but offering less range.
 
 ## Listonomicon v4.0.2
 
