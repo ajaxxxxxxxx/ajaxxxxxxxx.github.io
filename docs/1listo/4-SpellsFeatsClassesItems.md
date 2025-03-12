@@ -55,8 +55,6 @@ Vanilla feats are heavily altered by the hard work of Cahoot, who helped Ajax im
 
 [Experimental Alchemy as a Feat](https://www.nexusmods.com/baldursgate3/mods/12446) provides another way to get access to Experimental Alchemy, which potentially causes two potions to be brewed instead of one when using alchemy. Note that multiple ExpAlch sources do not stack (eg Wizard + Artificer + this feat would still only produce 2 potions).
 
-[Drunken Master](https://www.nexusmods.com/baldursgate3/mods/6170) allows players to treat alcohol as emergency health potions and buffs, increasing unarmed damage.
-
 [Dirty Fighting](https://www.nexusmods.com/baldursgate3/mods/14049) grants players a bonus action attack that, if successful, will knock an opponent "Off Balance" - granting advantage for melee attacks. This is a great choice for sword-and-shield Fighters who otherwise may not use their bonus action very often, as well as melee Rogues who want a reliable setup for Sneak Attack. Beware, enemy Fighters and Rogues will be using this when you reach Baldur's Gate!
 
 # New and Changed Classes and Subclasses
@@ -68,10 +66,6 @@ It's going to take a while to write up what each these changes does to the game.
 [Expansion Level 13-20](https://www.nexusmods.com/baldursgate3/mods/279)
 
 Adds level scaling up to level 20. Also implements several changes/optional rules introduced with Tasha's Cauldron of Everything and other publications.
-
-[Smart Cunning Action](https://www.nexusmods.com/baldursgate3/mods/8906)
-
-Changes the Rogue (Thief) double bonus action to instead be a toggle ability allowing rogues to choose to use their action or bonus action for cunning actions. Also grants this benefit to Monks, and Gloomstalker Rangers.
 
 ## Wild Magic
 
@@ -112,7 +106,6 @@ New subclasses:
 * Solidarity Domain
 * Order Domain
 * Inquisition Domain - Inquisition Clerics focus on being frontline melee combatants specialized in shutting down enemy spellcasters. Their class features include similar benefits to the Mageslayer feat, they deal extra damage to enemies concentrating on spells, and they can apply protective boons to their companions to resist enemy spells.
-* Poverty Domain
 
 ## Druid
 
@@ -226,13 +219,11 @@ New Subclasses:
 
 ## Shopping, Merchants, Withers
 
-Withers is now a merchant! Press the trade button at the bottom-left when talking to him. Dyes and camp clothes have been moved off of normal vendors and to Withers, reducing the ridiculous amount of clutter otherwise on each merchant. Withers will also sell food. He has 50,000 gold that resets each time you speak to him, making him the most convenient place to dump your trash pile. He cannot be pickpocketed.
+Withers is now a merchant! Press the trade button at the bottom-left when talking to him. Dyes and camp clothes have been moved off of normal vendors and to Withers, reducing the ridiculous amount of clutter otherwise on each merchant. He has 50,000 gold that resets each time you speak to him, making him the most convenient place to dump your trash pile. He cannot be pickpocketed.
 
 ## Bows and Crossbows vs Guns
 
-Artificer and the Firearms mod add muskets, flintlocks, blunderbus, pepperboxes, and similar weapons to the game. They are balanced differently from bows and crossbows. Firearms use the "Slings" proficiency which can be earned by playing an Artificer, playing a Half-Scro (a Half-Orc subrace), or by taking the Gunner feat. Firearms have to be reloaded with a bonus action after being fired. Firearms are more powerful than bows or crossbows and can be a good choice for characters who lack multiattack (such as Rogues). Bows and crossbows, however, do not need to be reloaded and therefore can benefit from multiattack and enable multiple attacks per turn. The exception to this balancing is Artificers, who can use the Repeating Shot infusion to remove the ammo restriction and turn their musket, flintlock, etc into a double-firing force damage weapon.
-
-For high-strength, high-dexterity characters with multiattack, the Titanstring Bow remains the most powerful ranged weapon in terms of damage. The Devilstring Bow (can be acquired somewhere in Grymforge) is like the Titanstring, but for high Dex/high Wisdom characters (like Kensai monks). The Sussurstsring Bow (can be found somewhere you would expect the sussur-obsessed to be) is a Dex/Int bow, great for an Eldritch Knight, Artificer, Mystic, etc. For high-dexterity characters with multiattack, crossbows will generally remain the strongest. For characters who lack multiattack, dual wielding hand crossbows or using firearms is likely to be the best choice.
+Artificer and other mods add firearms. The Listo patch/Degreaser seeks to rebalance firearms as a category of weapons that is generally stronger than the equivalent bow/crossbow, however they have significantly reduced range compared to bows/crossbows.
 
 ## The Hand, and Eye, of Vecna
 
