@@ -66,7 +66,7 @@ BG3 is still receiving Patches (major updates) and Hotfixes (small updates). The
 ### 6.) Launching MO2
 
 - Your portable instance of Mod Organizer 2 should be ready as soon as Wabbajack is done. Look for ModOrganizer.exe in the folder where you installed Listonomicon. You can verify that everything is working by ensuring that MO2 has defaulted to the correct profile at the top-left, which should be Listonomicon.
-- **Your total number of active mods should be 626, and the purple seperator at the top should say Listonomicon v4.0.1. For Listo Lite, your total active mods should be 437 and the seperator should say Listo Lite v4.0.**
+- **Your total number of active mods should be 604, and the purple seperator at the top should say Listonomicon v4.1.1. For Listo Lite, your total active mods should be 437 and the seperator should say Listo Lite v4.0.**
 - At the top-right, you should be able to switch the program to launch the Vulkan or dx11 version of the game.
 - Hit "run" after selecting the EXE that works best for your system. Always launch the game this way (don't use Steam).
 - You can verify Listo's mods are all loaded correctly after install by clicking on the official mod manager and looking at the installed mods tab. Is there a long list with almost everything enabled? Good. Some mods, like overwrites to text, will not show as "Enabled" but will still be working ifne.
@@ -100,16 +100,9 @@ Per the image above, your difficulty settings should be as follows:
 
 ### 9.) Optional Mods
 
-There are several optional mods packaged with Listonomicon to enable even more fun, whacky, QoL, random, or challenge features. No official support is offered for adding any other mods to Listonomicon. You can find optional mods in MO2 by typing OPTIONAL_ into the search bar at the bottom-right of your mod list. Hover over the notepad icon to the right of the mod's name to read any notes relevant to enabling that mod, such as other mods that need to be enabled or disabled with it. If enabling/disabling optional mods does not seem to do anything, try closing MO2 and going to [listo install location]/profiles/listonomicon. Delete the ModsCache file and modsettings.lsx. Next time you launch the game it will take a long time to load as it rebuilds your mod list, and then should work as normal.
+There are several optional mods packaged with Listonomicon to enable even more fun, whacky, QoL, random, or challenge features. You can find optional mods in MO2 by typing OPTIONAL_ into the search bar at the bottom-right of your mod list. Hover over the notepad icon to the right of the mod's name to read any notes relevant to enabling that mod, such as other mods that need to be enabled or disabled with it. If enabling/disabling optional mods does not seem to do anything, try closing MO2 and going to [listo install location]/profiles/listonomicon. Delete the ModsCache file and modsettings.lsx. Next time you launch the game it will take a long time to load as it rebuilds your mod list, and then should work as normal.
 
 ![Optional Mod Example](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/optional%20mods2.png)
-
-Optional mods are broken out into a few categories:
-**1. RECOMMENDED Optional Tweaks** are mostly those that Ajax enables when playing Listo, such as Absolute Wrath.
-**2. TESTED Optional Tweaks and QoL** are mods that are known to work in/with Listo well, but come with minor issues (like new encounter mods that overlap with other encounter mods) or is a QoL fix that not all players need (like Sit This One Out).
-**3. HARDER Optional Tweaks** are focused just on difficulty and challenge. These are solutions for players who find Listo too easy but are not considered when playtesting and tweaking Listo.
-**4. SILLY Optional Tweaks** are fun, funny, or whacky mods that work with Listo but are unbalanced, or too goofy, or fall too far outside the scope of the List's goals, or has other glaring issues (like Gortash as a Dragonborn, it's a great mod idea but his lipsync breaks in a very distracting way).
-**5. Other** There are optional mods peppered throughout other sections of MO2, not just organized at the bottom, because in order to work properly they need to be placed in a particular section of your load order. The easiest way to find these (rather than sift through 600+ mods) is to use the search bar at the bottom-right of MO2 and type OPTIONAL_.
 
 ### 10.) Optional Difficulty Tweaks
 
@@ -120,7 +113,6 @@ If Listo is too hard, and you'd actually have more fun if it was a little easier
 If Listo is not hard enough,
 1. Enable Absolute Wrath (search "OPTIONAL_Absolute Wrath" or look in the optional tweaks section of MO2).
 2. If that isn't hard enough, navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Hard CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, unrelaxed CX configuration. The alt file has more enemy health, more enemy buffs, and more cruel combinations of spells and abilities and features.
-3. If that still isn't hard enough, enable OPTIONAL_Listo Hard Mode in MO2. OPTIONAL_Listo Hard Mode uses the Enemy Stats mod to increase enemy attributes and HP for every 5 character levels, on top of the tweaks from Combat Extender, and/or Absolute Wrath.
 
 ### 11.) Multiplayer
 
@@ -135,3 +127,7 @@ If Listo is not hard enough,
 ### 12.) Cleanup (Optional)
 
 If you are desperate to restore some space on your hard drive after installing Listo, you can go to "Listo Install Location/downloads" and delete everything to cut Listo's size. Note, however, that if you ever want to update Listo that Wabbajack will have to re-download _everything_ again rather than just updated and new mods.
+
+### 13.) Updating Listonomicon
+
+When updating Listo, follow the same install method you are comfortable with (finding the list via the gallery, or downloding an updated .wabba from Nexus). Point Wabbajack at the same install location and overwrite. Any mods that have not changed should not have to be re-downloaded, meaning updating is much faster (unless you deleted your Downloads folder to save hard drive space, then you need to redownload everything). After updating, go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.
