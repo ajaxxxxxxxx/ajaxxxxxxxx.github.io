@@ -75,6 +75,12 @@ presets: [
 			docId: '1listo/Home',
             label: 'Listonomicon',
           },
+		  {
+			  type: 'docSidebar'
+			  sidebarId: 'TutorialSidebar'
+			  position: 'right',
+			  label: 'test'
+		  },
           {
             href: 'https://discord.gg/43EhRjU',
             label: 'Discord',
