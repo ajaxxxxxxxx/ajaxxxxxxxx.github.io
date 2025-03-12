@@ -61,6 +61,11 @@ presets: [
       disableSwitch: false,
       respectPrefersColorScheme: false,
       },
+	  docs: {
+		  sidebar: {
+			  hideable: true
+		  }
+	  },
       image: 'img/bycsocial.png',
       navbar: {
         title: 'Kitchen Sink',
