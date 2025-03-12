@@ -76,8 +76,8 @@ presets: [
             label: 'Listonomicon',
           },
 		  {
-			  type: 'docSidebar'
-			  sidebarId: 'TutorialSidebar'
+			  type: 'docSidebar',
+			  sidebarId: 'TutorialSidebar',
 			  position: 'right',
 			  label: 'test'
 		  },
