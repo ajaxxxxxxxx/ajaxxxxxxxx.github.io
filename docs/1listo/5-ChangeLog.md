@@ -15,6 +15,14 @@ description: Update info
 
 **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
 
+## Listonomicon v4.2
+Save safe? No (but you can roll back the Listo patch to the previous version and probably be OK).
+
+1. Listo patch: Removed about 75% of the Community Library weapons, nerfed what was left, raised prices, and corrected tooltips/descrptions.
+2. Listo patch: Hopefully set correct prices for Cloaks of Faerun items, and marked them all as unique items.
+3. Removed number-of-turns-in-combat exhaustion.
+4. Updated mods.
+
 ## Listonomicon v4.1.1
 Save safe? Yes.
 
