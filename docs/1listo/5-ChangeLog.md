@@ -22,6 +22,8 @@ Save safe? No (but you can roll back the Listo patch to the previous version and
 2. Listo patch: Hopefully set correct prices for Cloaks of Faerun items, and marked them all as unique items.
 3. Removed number-of-turns-in-combat exhaustion.
 4. Updated mods.
+5. Degreaser: Added an entry to improve Lyrthindor, the last Justicar.
+6. Degreaser: Updated prices for various Degreaser items/weapons/armor.
 
 ## Listonomicon v4.1.1
 Save safe? Yes.
