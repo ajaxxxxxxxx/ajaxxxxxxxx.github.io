@@ -24,6 +24,7 @@ Save safe? No (but you can roll back the Listo patch to the previous version and
 4. Updated mods.
 5. Degreaser: Added an entry to improve Lyrthindor, the last Justicar.
 6. Degreaser: Updated prices for various Degreaser items/weapons/armor.
+7. True Range 5e: Reduced maximum range to 36m (from 45m).
 
 ## Listonomicon v4.1.1
 Save safe? Yes.
