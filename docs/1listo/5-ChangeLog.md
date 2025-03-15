@@ -15,7 +15,10 @@ description: Update info
 
 **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
 
-WIP update notes:
+## Listonomicon v4.2.1
+Save safe? Yes.
+
+KNOWN ISSUE: Not all tooltips/descriptions are not correctly updated to fix nerfs to the water spells mod.
 
 1. Expanded Shillelagh compatability to include Warhammers, but removed Halberds.
 2. Arms of Hadar have slightly increased radius (4m from 3m) and slightly better damage (d8 instead of d6).
@@ -43,6 +46,10 @@ WIP update notes:
     * Nerfed hydro resistance (+6 AC for the entire party, really?)
 17. Cleaned up a substantial number of bugs/issues across vanilla, 5e, and Homebrew spells, as well as other modder's patches for those mods.
 18. Hopefully all of this stuff works and I didn't just waste an entire day.
+19. Removed all of the no-longer-needed spell patches that used to hold Listo together. Replaced with the "Listo Master Spells Patch."
+20. Fixed the load order of Druid QoL vs Cahoot's mod to make tavern brawler work again.
+21. Added Twilight Domain cleric.
+22. Updated mods.
 
 ## Listonomicon v4.2
 Save safe? Maybe (very, very limited testing says "yes" but if you run into an issue, you can roll back the Listo Tweaks and Patches file to the previous version and probably be OK).
