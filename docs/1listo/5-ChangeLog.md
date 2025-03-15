@@ -15,6 +15,35 @@ description: Update info
 
 **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
 
+WIP update notes:
+
+1. Expanded Shillelagh compatability to include Warhammers, but removed Halberds.
+2. Arms of Hadar have slightly increased radius (4m from 3m) and slightly better damage (d8 instead of d6).
+3. The False Life spell now provides temporary HP, AND provides damage reduction equal to the spell slot used.
+4. SLEEP and COLOR SPRAY are now able to be casted on any target. Rather than automatically succeeding against low HP enemies (which rarely exist in Listo), low HP enemies instead have disadvantage on the saving throw, and high HP enemies have advantage.
+5. Jump has an AOE cast outside of combat.
+6. Flame Blade and Shadow Blade should last until long rest.
+7. Calm Emotions is now a buff or debuff spell. You can use it to remove rage from enemies and make their performance worse, OR you can use it to protect your own team from fear and charm effects.
+8. Blink now has two options:
+   * Focused Blink: 3 charges, makes you untargetable every other turn until charges are depleted, always activates on the first turn of combat.
+   * Unstable Blink: Until Long Rest, works exactly like the original Blink, 50/50 chance to disappear at the end of each turn.
+   * Changed from Action to Bonus Action.
+10. Flamestrike is now kinda cooler:
+    * Sets most enemies on fire, undead and fiends are afflicted by holy fire
+    * Allows casting Flame Strike Remembrance and Flame Strike Echo as follow-up spells in the following rounds as bonus action
+    * These spells deal lower damage, don't set targets on fire and have a smaller radius (Echo is single target)
+12. Wall of Stone is now a 3rd level spell which receives increased HP when upcasted.
+13. Classes which received Wall of Stone now gain the spell earlier, and at that level have it replaced with another elemental spell like Summon Earth Elemental. More classes have access to Wall of Stone.
+14. Added Syrchalis's Rebalances for 6th level spells.
+15. ADDED "Water Spells"
+    * Nerfed Minor Torrent to have lesser starting damage (d6 cantrip progression)
+    * Added support to upcast up to 9th level
+    * Geyser scales slower on damage (1 extra die per spell level) but increases effect size in exchange
+    * Fixed an issue with Dehydration (Leech) where the 5th and 6th level version of the spell applied opposite effects that did not make any sense. Instead, this spell will CHILL TOUCH victims for 3 turns (preventing healing), and REDUCE victims for 2 turns (reducing their size and therefore, physical damage).
+    * Nerfed hydro resistance (+6 AC for the entire party, really?)
+17. asf
+18. asf
+
 ## Listonomicon v4.2
 Save safe? Maybe (very, very limited testing says "yes" but if you run into an issue, you can roll back the Listo Tweaks and Patches file to the previous version and probably be OK).
 
