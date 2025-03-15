@@ -13,7 +13,13 @@ description: Update info
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-**Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
+### **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
+
+WIP
+
+1. ADDED Unholy Smite for Oathbreakers.
+2. ADDED Improved Unholy Smite for Oathbreakers.
+3. REMOVED Unholy Oathbreakers (above two mods now do this function).
 
 ## Listonomicon v4.2.1
 Save safe? Yes.
