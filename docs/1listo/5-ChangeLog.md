@@ -41,8 +41,8 @@ WIP update notes:
     * Geyser scales slower on damage (1 extra die per spell level) but increases effect size in exchange
     * Fixed an issue with Dehydration (Leech) where the 5th and 6th level version of the spell applied opposite effects that did not make any sense. Instead, this spell will CHILL TOUCH victims for 3 turns (preventing healing), and REDUCE victims for 2 turns (reducing their size and therefore, physical damage).
     * Nerfed hydro resistance (+6 AC for the entire party, really?)
-17. asf
-18. asf
+17. Cleaned up a substantial number of bugs/issues across vanilla, 5e, and Homebrew spells, as well as other modder's patches for those mods.
+18. Hopefully all of this stuff works and I didn't just waste an entire day.
 
 ## Listonomicon v4.2
 Save safe? Maybe (very, very limited testing says "yes" but if you run into an issue, you can roll back the Listo Tweaks and Patches file to the previous version and probably be OK).
