@@ -20,6 +20,20 @@ WIP
 1. ADDED Unholy Smite for Oathbreakers.
 2. ADDED Improved Unholy Smite for Oathbreakers.
 3. REMOVED Unholy Oathbreakers (above two mods now do this function).
+4. ADDED No Divine Smite for Oathbreakers.
+5. ADDED Holy Avenger (Longsword version).
+6. REMOVED Paladin 9m Aura (back to vanilla aura size)
+7. ADDED Visual Auras for Paladins, so you can (toggle the ability to) see the exact aura size.
+8. REMOVED Oath of Redemption (console spam from outdated code plus bugs).
+9. ADDED The Thundergod's Legacy (and hid it somewhere in Act 3)
+10. ADDED AOE Status Fixer.
+11. ADDED Markoheshkir improved by Cahoot.
+12. ADDED Active Subtle Swap, which should make the Dark Displacement gloves suck less.
+13. ADDED Extra Shields. The easiest way to get the new drip is to use transmog because not all shields are actually available in Listo over balance concerns. Unless you play with REL in which case they might all show up or none of them.
+14. ADDED Hardcore Healing Potions and the tweak to treasure tables making them much less common.
+15. ADDED Gortash's Cane (and made a secret bonus cane).
+16. Updated 11 mods.
+17. Further nerfed/patched/fixed up aquatic spells.
 
 ## Listonomicon v4.2.1
 Save safe? Yes.
