@@ -15,7 +15,8 @@ description: Update info
 
 ### **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
 
-WIP
+## Listonomicon v4.3 (WIP)
+Save safe? Maybe. I would only update if you want to start a new game. If you just want to fix bugs currently in Listo, update [this mod](https://www.nexusmods.com/baldursgate3/mods/14885?tab=files) and hopefully you can continue your current campaign without too many issues.
 
 1. ADDED Unholy Smite for Oathbreakers.
 2. ADDED Improved Unholy Smite for Oathbreakers.
@@ -37,7 +38,7 @@ WIP
 18. Fixed the duration of upcasted shadowblade (higher level casts should now last until long rest, just like the level 1 cast).
 19. Nerfed Ego Whip. It now debilitates your target but does not make them completely incapable of fighting back.
 20. Nerfed Pillar of Confidence. It now only affects 3 targets, and provides a bonus action + reaction, not an action.
-21. Updated the Random Loot Mode (REL)
+21. Updated the Random Loot Mode (REL).
 
 ## Listonomicon v4.2.1
 Save safe? Yes.
