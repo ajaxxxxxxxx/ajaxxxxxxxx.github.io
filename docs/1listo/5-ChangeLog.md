@@ -38,7 +38,7 @@ Save safe? Maybe. I would only update if you want to start a new game. If you ju
 18. Fixed the duration of upcasted shadowblade (higher level casts should now last until long rest, just like the level 1 cast).
 19. Nerfed Ego Whip. It now debilitates your target but does not make them completely incapable of fighting back.
 20. Nerfed Pillar of Confidence. It now only affects 3 targets, and provides a bonus action + reaction, not an action.
-21. Updated the Random Loot Mode (REL).
+21. Updated the Random Loot Mode (REL). The new # of randomized items is only 1,233 - more careful thought was put into avoiding things that are frustrating or game-breaking if randomized.
 
 ## Listonomicon v4.2.1
 Save safe? Yes.
