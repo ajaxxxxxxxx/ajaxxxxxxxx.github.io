@@ -32,8 +32,12 @@ WIP
 13. ADDED Extra Shields. The easiest way to get the new drip is to use transmog because not all shields are actually available in Listo over balance concerns. Unless you play with REL in which case they might all show up or none of them. Very, very heavily altered by the Listo patch to be more interesting and less OP.
 14. ADDED Hardcore Healing Potions and the tweak to treasure tables making them much less common.
 15. ADDED Gortash's Cane.
-16. Updated 11 mods.
-17. Further nerfed/patched/fixed up aquatic spells.
+16. Updated 13 mods.
+17. Further nerfed/patched/fixed up aquatic spells. Crushing Bubble damage is reduced by a lot, and the base duration is only 3 turns. However, all of its damage, damage-over-time, and duration increase with upcasting. Rather than making your targets immobile, it reduces their movement speed by 3m.
+18. Fixed the duration of upcasted shadowblade (higher level casts should now last until long rest, just like the level 1 cast).
+19. Nerfed Ego Whip. It now debilitates your target but does not make them completely incapable of fighting back.
+20. Nerfed Pillar of Confidence. It now only affects 3 targets, and provides a bonus action + reaction, not an action.
+21. Updated the Random Loot Mode (REL)
 
 ## Listonomicon v4.2.1
 Save safe? Yes.
