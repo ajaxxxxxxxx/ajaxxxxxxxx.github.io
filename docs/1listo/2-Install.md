@@ -20,7 +20,7 @@ description: Install Info
 **This is required.**
 **YOU MUST INSTALL THE x64 VERSION, the x86 VERSION WILL NOT WORK**
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
-2. Install [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-destkop-8.0.13-windows-x65-installer).
+2. Install [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-destkop-8.0.13-windows-x64-installer).
 3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
 :::
 
