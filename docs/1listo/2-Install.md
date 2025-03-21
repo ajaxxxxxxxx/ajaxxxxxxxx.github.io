@@ -9,8 +9,8 @@ description: Install Info
 
 :::info
 ## **Requirements**
-- ~ 42 GB of space for the modlist (~19 GB can be reclaimed by deleting downloaded mod archives after finishing your install)
-- A legally obtained copy of Baldur's Gate 3 (while a Steam global copy is safest, any copy should do), **installed and launched vanilla from Steam at least once**
+- ~ 45 GB of space for the modlist (~20 GB can be reclaimed by deleting downloaded mod archives after finishing your install)
+- A legally obtained copy of Baldur's Gate 3 (while a Steam global copy is safest, any copy should do), **installed and launched vanilla from Steam/GoG/whatever at least once**
 - [Wabbajack](https://www.wabbajack.org/)
 - A Nexus account (Premium recommended; _drastically_ increases install speed)
 :::
@@ -18,8 +18,9 @@ description: Install Info
 :::danger
 #### Installing Microsoft Visual C++ and .NET
 **This is required.**
+**YOU MUST INSTALL THE x64 VERSION, the x86 VERSION WILL NOT WORK**
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
-2. Install [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
+2. Install [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-destkop-8.0.13-windows-x65-installer).
 3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
 :::
 
