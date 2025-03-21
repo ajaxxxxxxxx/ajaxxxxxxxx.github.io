@@ -7,9 +7,29 @@ description: Listonomicon
 
 # Spells, Feats, & Class Items
 
-## Rebalanced Spells
+## New Spells
 
-[Valdacil's Spell Adjustments](https://www.nexusmods.com/baldursgate3/mods/4426) makes a number of critical changes to various vanilla BG3 spells. Namely:
+**5e, Homebrew, Spells Extra, Pathfinder 2e, Mystra Spells, and Veenab Spells, Water Spells, and More**
+
+[5e Spells](https://www.nexusmods.com/baldursgate3/mods/125) adds a variety of tabletop spells missing from BG3. 
+[Homebrew Spells](https://www.nexusmods.com/baldursgate3/mods/473) adds a small selection of additional 0th - 5th level spells.
+[Spells Extra](https://www.nexusmods.com/baldursgate3/mods/11291) is used to cover any missing spells needed by Luma's various subclass mods.
+[PF2e Spells](https://www.nexusmods.com/baldursgate3/mods/2460) has been patched by myself, adding another ~60 spells to the game based on PF2e spells (but rebalanced to fit BG3).
+Mystra's Spells from Mod.io is used in Listo. Specifically, a limited selection of the spells that do not already exist in 5e spells.
+Veenab's Spells is in Listo. This primarily adds several spells to Warlocks themed around invoking more Great Old Ones, but that is not all that is added.
+Water Spells adds a number of hydro-themed options.
+
+**Many of these spells are available to your enemies**, so be on your toes! Degreaser adds a handful of magic items that use these spells as well.
+
+## Spell Rebalances
+
+**A blend of Valdacil, Syrchalis, Cahoot, myself, and others**
+
+[Valdacil's adjustment mod](https://www.nexusmods.com/baldursgate3/mods/4426) rebalances several of the spells based on the philosophy Larian applied with the spells they included in the game. So expect the spells you love from D&D but don't expect all of them to work exactly like they do in the book (or the way they work in BG3 vanilla). Valdacil is more-or-less the "baseline" for rebalancing vanilla and 5e Spells, and another [rebalance mod is used](https://www.nexusmods.com/baldursgate3/mods/1590?tab=description) to translate Homebrew Spells better to BG3. [Valdacil's Mystic Rebalance](https://www.nexusmods.com/baldursgate3/mods/4426) is the baseline for altering Mystic features/abilities/psionic foci/spells.
+
+But there are many changes in Listo on top of Valdacil's suite, including some selections of Syrchalis spell rebalances/changes where I think Syrchalis has more compelling ideas. Finally, there is a medley of changes I have made on top of/with/thanks to Valdacil/Syrchalis/other modders, and Cahoot.
+
+From Valdacil's changes:
 
 * Hex is now something you cast at the start of the day. It costs 1 slot to cast the first time - but once it is prepared, you will gain a _new_ hex spell on your hotbar called "Hex Target." This is what you use to actually apply the hex to an enemy. The spell applies disadvantage on all ability checks (you don't pick one), otherwise it works as normal. Re-casting the spell to target new creatures costs a bonus action but not more spell slots. Cast Hex at the start of the day to prepare the spell, and then use Hex Target to actually hex enemies during encounters.
 * Hunter's Mark works the same way. Cast Hunter's Mark, then use Mark Target to apply the effect to targets.
@@ -19,25 +39,15 @@ description: Listonomicon
 * Divine Favor's bonus to damage scales with spell level.
 * Ray of Sickness and Ray of Enfeeblement chain to nearby targets, scales with upcasting.
 
-Speak with Animals and Longstrider are AoE casts that last until long rest, dramatically decreasing the management necessary to prepare your adventuring party each morning. Shillelagh lasts until long rest [and can be applied to a wider variety of weapons](https://www.nexusmods.com/baldursgate3/mods/4932).
+Speak with Animals and Longstrider are AoE casts that last until long rest, dramatically decreasing the management necessary to prepare your adventuring party each morning. Shillelagh lasts until long rest and can be applied to a much wider variety of weapons, including spears, javelins, warhammers, tridents, and more. When not in combat, the Jump spell is an AoE ritual that can help your entire party reach high places. Valdacil's change to give wizards access to all ritual spells at level 1 is gone.
 
 Illithid Powers are [significantly revamped](https://www.nexusmods.com/baldursgate3/mods/5105?tab=files). If you choose to use the astral tadpole, Illithid Powers are very powerful in Act 3.
 
-## 5e, Homebrew, Spells Extra, Pathfinder, Mystra Spells, and Veenab Spells
+My fork/patch of the PF2e Spells mod rebalances and fixes several spells. Phase Bolt is less powerful, for example, applying only a -1 AC per effect stack instead of -2. Other features of the mod (such as the action -> bonus action conversion and other PF2e features that are not spells) are removed.
 
-[5e Spells](https://www.nexusmods.com/baldursgate3/mods/125) adds a variety of tabletop spells missing from BG3. [Valdacil's adjustment mod](https://www.nexusmods.com/baldursgate3/mods/4426?tab=description) rebalances several of the spells based on the philosophy Larian applied with the spells they included in the game. So expect the spells you love from D&D but don't expect all of them to work exactly like they do in the book.
+Water Spells is significantly rebalanced by the Listo Master Spells Patch. Most spells should now support upcasting to 9th level, and many spells are less powerful. For example, the original mod includes a 2nd level spell that is capable of completely immobilizing a target, while dealing damage every turn, and giving advantage on all attacks against the target, for 10 rounds. Now, it slows the target; deals less damage; gives the target disadvantage on attacks and attackers have advantage; and it only lasts 3 rounds. But damage, and duration, scale with spell slot. Similar rebalances/fixes/clean up are applied throughout the mod.
 
-[Homebrew Spells](https://www.nexusmods.com/baldursgate3/mods/473) adds a small selection of additional 0th - 5th level spells. Similar to Valdacil, [a rebalance mod is used](https://www.nexusmods.com/baldursgate3/mods/1590?tab=description) to translate the spells better to BG3.
-
-[Spells Extra](https://www.nexusmods.com/baldursgate3/mods/11291) is used to cover any missing spells needed by Luma's various subclass mods.
-
-[Valdacil's Mystic Rebalance](https://www.nexusmods.com/baldursgate3/mods/4426) changes how some Mystic features/abilities/psionic foci/spells work compared to the mod page descriptions.
-
-[PF2e Spells](https://www.nexusmods.com/baldursgate3/mods/2460) has been patched for Listo. The patch removes something like 131 spells that don't fit 5e from the spell lists of each class, as well as the Action -> Bonus Action conversion and other idiosyncrasies caused by the difference in rule systems between DnD5e and Pathfinder 2nd Edition. Of the 50-something spells remaining, many have been rebalanced, the mechanics have been changed slightly, and/or the tooltips have been cleaned up where possible. Specifically, many of the cantrips added start at only 1d4 damage, but they improve slightly faster than 5e cantrips (gains an extra die at level 3 instead of waiting until level 5). Overall the damage is lower, but it adds a reliable spell attack cantrip for Clerics and it adds Phase Bolt, which is unto itself a weak cantrip in terms of dice but it can go around corners like Magic Missile, and applies a -1 AC debuff to targets. Other spells include many alternates to polymorph/shapeshifting, powerful AoEs specialized in combatting particular types of enemies, new summons, buffs for allies and debuffs for enemies, and all variety of new attacks. Beware your enemies have access to many of these new spells as well! A list of PF2e spells included or removed for Listo can be [reviewed here](https://docs.google.com/spreadsheets/d/1p4GxQNi678ug7-I_-wUau9Pr7YQ5GW-EuHbfeSolNh4/edit?usp=sharing), however note that the documentation is incomplete and the redistribution of the spell lists (as in which classes learn which spells) is an in-process project.
-
-Mystra's Spells from Mod.io is used in Listo. Specifically, a limited selection of the spells that do not already exist in 5e spells.
-
-Veenab's Spells is in Listo. This primarily adds several spells to Warlocks themed invoking more Great Old Ones, but that is not all that is added.
+Cahoot has supplied his own rebalance for Color Spray and the Sleep spells, which alters them to saving throws and forcse Sleep to respect sylvan immunity to sleep effects. These spells should no longer be useless vs the higher enemy HP in Listo, without being overpowered.
 
 ## New and Changed Feats
 
@@ -47,7 +57,7 @@ The [Arcanist Feat](https://www.nexusmods.com/baldursgate3/mods/1087) allows you
 
 The Improved Poison Equipment mod adds a Poison version of the Elemental Adept feat. If you stack two sources of the ability (such as taking the feat while wearing The Poisoner's Robe), enemy poison immunity will be downgraded to poison resistance. A Green Dragonborn Circle of Spores Druid who takes the feat and wears the Poisoner's Robe would get the benefits of the feat (reroll 1's, ignore resistance) for their breath weapon, spore attack, and poison damage spells.
 
-[Essential Feats](https://www.nexusmods.com/baldursgate3/mods/5623) adds a great variety of feats. For multiclass melee-caster builds, War Magic allows you to combine casting with weapon swinging. Specifically, after casting a spell or cantrip you can make 1 attack as a bonus action. This is different from, and does not stack with, Eldritch Knight's similar feature that allows cantrips to be used with multiattack. This is especially great for Clerics who otherwise do not get access to extra attack or war priest extra attack, as you can combine a cast and a swing every turn. Deadly Alacrity reduces the number needed to roll a crit (stacks with any/other crit chance increase effects) and restores mobility for hits and kills, though Listo removes the +1 stat bonus. Alchemist turns anyone into a potion throwing utility character and makes it possible to brew 2 potions instead of 1. Various Initiate, Touched, and Adept feats give limited access to the features of other classes such as a fighting maneuvers, eldritch invocations, or metamagic. Using these feats is an alternative to Arcanist, and the user gains 2 cantrips and 1 spell of 1st level. A great use of these feats is to get Shillelagh as a non-Nature Cleric or Monk, without needing to dip into Druid. A Sorcerer or Bard could pick up eldritch blast, another Warlock cantrip, and mage armor.
+[Essential Feats](https://www.nexusmods.com/baldursgate3/mods/5623) adds a great variety of feats. For multiclass melee-caster builds, War Magic allows you to combine casting with weapon swinging. Specifically, after casting a spell or cantrip you can make 1 attack as a bonus action. This is different from, and does not stack with, Eldritch Knight's similar feature that allows cantrips to be used with multiattack. This is especially great for Clerics who otherwise do not get access to extra attack or war priest extra attack, as you can combine a cast and a swing every turn. Deadly Alacrity reduces the number needed to roll a crit (stacks with any/other crit chance increase effects) and restores mobility for hits and kills. Alchemist turns anyone into a potion throwing utility character and makes it possible to brew 2 potions instead of 1. Various Initiate, Touched, and Adept feats give limited access to the features of other classes such as a fighting maneuvers, eldritch invocations, or metamagic. Using these feats is an alternative to Arcanist, and the user gains 2 cantrips and 1 spell of 1st level. A great use of these feats is to get Shillelagh as a non-Nature Cleric or Monk, without needing to dip into Druid. A Sorcerer or Bard could pick up eldritch blast, another Warlock cantrip, and Mage Armor.
 
 Vanilla feats are heavily altered by the hard work of Cahoot, who helped Ajax implement many ideas, improve on other Nexus mods, or straight up designed his own improvements. [You can read about them here](https://docs.google.com/document/d/1l2yhpaMBaue98rkjhEPYIjSmtUwiw1tc8KqhK7FJMak/edit?usp=sharing). These rebalances include altering Great Weapon Master and Sharpshooter. You effectively sacrifice getting a proficiency bonus on your attack roll, to instead get a proficiency bonus on your damage roll. Other important changes include Tough (which comes with +1 CON) and Durable (which comes with a proficiency bonus scaling damage resistance). A Durable + Mageslayer Cleric, Paladin, Barbarian, or Fighter is very formidable and can form an essential anchor and tank for your team! Tavern Brawler is significantly less powerful. Dual Wielder is altered by [Dual Wielding Master](https://www.nexusmods.com/baldursgate3/mods/1304). You can make a normal attack with two weapons using your action and bonus action, or you can toggle swinging both weapons with a single action. If using both weapons in a single action, you receive a -3 penalty to attack rolls, but this allows you to combine multiattack with dual wielding and compete with the relative power of Great Weapon Master, or using a dueling fighting style and shield.
 
@@ -128,7 +138,6 @@ New Subclasses:
 * Cavalier - While mounts, and therefore mounted combat, does not exist in BG3, the Cavalier is able to fight with the spirit of a knightly heavy cavalry. The Cavalier has boosts to their speed and attacks that allow them to charge across great distances to smack foes. They can also inspire greater mobility among teammates.
 * Echo Knight (with RAW Progression optional file) - Echno Knight is a weird class. You make a shadowy copy of yourself, and can attack using your own body or using your doppleganger.
 * Psi Warrior - like the Eldritch Knight and Arcane Archer, the Psi Warrior uses Intelligence as a hybrid combat caster. The Psi Warrior focuses on empowering their attacks with extra psychic damage and psi abilities.
-* Guardian - the Guardian is a Fighter subclass focused on being a tank, drawing aggro, and protecting your allies.
 
 ## Monk
 
@@ -150,7 +159,6 @@ Start with Othbreaker Unlocked allows players to begin the game as an Oathbreake
 
 New Subclasses:
 
-* Oath of Redemption - Redemption Paladins seek to defeat Evil through abjuration rather than destruction. They would prefer to show Ketheric the error of his ways than the sharpness of a sword. They would rather get Lord Soth to repent than be defeated in combat. Their powers protect and heal allies, punish enemies for attacking, and can reduce enemy damage.
 * Oath of Zeal - Zeal Paladins use their fervor to increase their own speed as well as to inspire allies.
 * Oath of Conquest - Conquest Paladins focus on overwhelming their enemies and crushing their spirit. They use fear and terror, and react to missed attacks with furious retribution.
 
@@ -198,19 +206,21 @@ New Subclasses:
 
 * [Artificer](https://www.nexusmods.com/baldursgate3/mods/1779), and all subclasses.
 * [Mystic](https://www.nexusmods.com/baldursgate3/mods/2786).
+* Mesmerist
 
 # New and Changed Equipment
 
 ## Magic Items, Economy, and Upgrading
 
-- Listonomicon incorporates mods that change, rebalance, or improve many vanilla magic items. Many magic items locked to good or evil playthroughs have been redistributed, providing alternate sources or opportunities to get valuable items that might otherwise be missed. An almost-completely-randomized distribution of magic items can be enabled via Random Equipment Loot (look in the optional mods notes).
-- Listonomicon has an attunement and magic item rarity limit, allowing you to equip many but not every piece of magic gear you acquire.
+- Listonomicon incorporates mods that change, rebalance, or improve many vanilla magic items. Many magic items locked to good or evil playthroughs have been redistributed, providing alternate sources or opportunities to get valuable items that might otherwise be missed. An almost-completely-randomized distribution of magic items can be enabled via Random Equipment Loot (look in the optional mods notes, near the bottom of MO2).
+- Listonomicon has an attunement and magic item rarity limit, allowing you to equip many, but not every, piece of magic gear you acquire.
 - Furthermore, [Phalar Aluve](https://www.nexusmods.com/baldursgate3/mods/2987?tab=description) has its own upgrade path. There is a music box hidden in Act 2 and Act 3. You can find the location on the mod’s Nexus page, but it is intended to be a hidden/secret reward! The Titanstring Bow has received multiple variations, which can be found hidden around the game. Foe Bane, available at end of the Grove Storyline, can also be improved if you hold on to it until Act 3.
 - Finally, the list is also full of new magic items. Some items exist as static loot, intentionally placed somewhere in the world; added to a specific chest or quest reward; or will be found on the bodies of bosses.
-- Overall, you should feel encouraged to change your equipment more frequently than the vanilla game, with fewer “best in slot” choices and with fewer magic items that feel like nothing but Gale food.
-- Elixirs have been changed, according to [Elixirs Revised](https://www.nexusmods.com/baldursgate3/mods/10073). Please read the mod page and pay closer attention to the description of elixirs in-game, as many of them now stack or work differently. Elixirs of X Giant's Strength have been changed into +STR items, rather than potions that set your Strength to a specific number. This means that characters cannot dump STR, pop a potion, and be fine. It also means that high-Strength characters can still benefit from drinking these elixirs.
-- The overall economy and raw acquisition of gold in Listo is intentionally made harder. Between Poor Adventurer and the custom difficulty settings, gold is both slower to accumulate and traders have worse prices when buying or selling. Keep in mind that in Listo you are expected to find significantly more magic items during your adventure, and selling anything you don't use will still allow you to afford shiny goodies.
+- Overall, you should feel encouraged to change your equipment more frequently than the vanilla game, with fewer “best in slot” choices and with fewer magic items that feel like glorified Gale food.
+- Elixirs have been changed, according to [Elixirs Revised](https://www.nexusmods.com/baldursgate3/mods/10073). Please read the mod page and pay closer attention to the description of elixirs in-game, as many of them now stack or work differently. Elixirs of X Giant's Strength have been changed into +STR items, rather than potions that set your Strength to a specific number. This means that characters cannot dump STR, pop a potion, and be fine. It also means that high-Strength characters can still benefit from drinking these elixirs. Healing Potions Hardcore changes HPots to provide a limited immediate healing effect, followed by a delayed healing effect, reducing their combat usefulness compared to healing spells.
+- The overall economy and raw acquisition of gold in Listo is intentionally made harder. Between Poor Adventurer-esque changes and the custom difficulty settings, gold is both slower to accumulate and traders have worse prices when buying or selling. Keep in mind that in Listo you are expected to find significantly more magic items during your adventure, and selling anything you don't use will still allow you to afford many shiny goodies.
 - You will want to save up your pennies so that when you reach Act 3, you can afford the ship manifest that allows you to embark on the Spelljammer adventure arc. The deed for a ship (sold by Popper in the circus) is very expensive, but the reward for the quest line is having a floating artillery platform overhead for the rest of Act 3.
+- You are encouraged to hold onto a variety of weapons to ensure that your team has access to various damage types, as some encounters will now punish/reward the right weapon at the right time.
 
 ## Inventory Management & QoL
 
@@ -223,7 +233,7 @@ Withers is now a merchant! Press the trade button at the bottom-left when talkin
 
 ## Bows and Crossbows vs Guns
 
-Artificer and other mods add firearms. The Listo patch/Degreaser seeks to rebalance firearms as a category of weapons that is generally stronger than the equivalent bow/crossbow, however they have significantly reduced range compared to bows/crossbows.
+Artificer and other mods add firearms. The Listo patch/Degreaser plus True Range 5e seeks to rebalance firearms as a category of weapons that is generally stronger than the equivalent bow/crossbow in terms of damage dice, however they have significantly reduced range compared to bows/crossbows. Handcrossbows now have similarly reduced range, meaning they are not able to compete with bows/crossbows for range (but can still be dual wielded).
 
 ## The Hand, and Eye, of Vecna
 
