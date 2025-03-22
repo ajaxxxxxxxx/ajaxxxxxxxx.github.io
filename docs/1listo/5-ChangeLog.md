@@ -46,7 +46,8 @@ Save safe? Maybe. I would only update if you want to start a new game. If you ju
 26. Restored (optional) hyperlegible text.
 27. Restored Veenab scrolls.
 28. Restored (optional) Sit This One Out.
-29. Added the first wave of experimental semi-phased boss fights. hehehe.
+29. Added the first wave of experimental semi-phased boss fights. hehehe. Goonsack helped.
+30. I patched every single goddamned spell in this mod list (not literally but that's what it feels like). Goon and Cahoot helped (Cahoot held my hand delicately through 50 failed attempts to change shadowblade/flame blade).
 
 ## Listonomicon v4.2.1
 Save safe? Yes.
