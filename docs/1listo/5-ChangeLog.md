@@ -15,7 +15,7 @@ description: Update info
 
 ### **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
 
-## Listonomicon v4.3 (WIP)
+## Listonomicon v4.3
 Save safe? No. If you just want to fix bugs currently in Listo, update [this mod](https://www.nexusmods.com/baldursgate3/mods/14885?tab=files) and hopefully you can continue your current campaign without too many issues.
 
 (technically yes, but I would only update if you want to start a new game. If you aren't playing any of the removed classes/content then you COULD update, and then manually downgrade Many More Monsters one version or get Goon's mid-game-update-MMM-fix-patch)
