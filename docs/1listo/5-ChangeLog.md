@@ -33,7 +33,7 @@ Save safe? Maybe. I would only update if you want to start a new game. If you ju
 13. ADDED Extra Shields. The easiest way to get the new drip is to use transmog because not all shields are actually available in Listo over balance concerns. Unless you play with REL in which case they might all show up or none of them. Very, very heavily altered by the Listo patch to be more interesting and less OP.
 14. ADDED Hardcore Healing Potions and the tweak to treasure tables making them much less common.
 15. ADDED Gortash's Cane.
-16. Updated 14 mods.
+16. Updated 17 mods.
 17. Further nerfed/patched/fixed up aquatic spells. Crushing Bubble damage is reduced by a lot, and the base duration is only 3 turns. However, all of its damage, damage-over-time, and duration increase with upcasting. Rather than making your targets immobile, it reduces their movement speed by 3m.
 18. Fixed the duration of upcasted shadowblade (higher level casts should now last until long rest, just like the level 1 cast).
 19. Nerfed Ego Whip. It now debilitates your target but does not make them completely incapable of fighting back.
@@ -46,6 +46,7 @@ Save safe? Maybe. I would only update if you want to start a new game. If you ju
 26. Restored (optional) hyperlegible text.
 27. Restored Veenab scrolls.
 28. Restored (optional) Sit This One Out.
+29. Added the first wave of experimental semi-phased boss fights. hehehe.
 
 ## Listonomicon v4.2.1
 Save safe? Yes.
