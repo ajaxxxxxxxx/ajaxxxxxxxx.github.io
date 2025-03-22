@@ -16,7 +16,9 @@ description: Update info
 ### **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
 
 ## Listonomicon v4.3 (WIP)
-Save safe? Maybe. I would only update if you want to start a new game. If you just want to fix bugs currently in Listo, update [this mod](https://www.nexusmods.com/baldursgate3/mods/14885?tab=files) and hopefully you can continue your current campaign without too many issues.
+Save safe? No. If you just want to fix bugs currently in Listo, update [this mod](https://www.nexusmods.com/baldursgate3/mods/14885?tab=files) and hopefully you can continue your current campaign without too many issues.
+
+(technically yes, but I would only update if you want to start a new game. If you aren't playing any of the removed classes/content then you COULD update, and then manually downgrade Many More Monsters one version or get Goon's mid-game-update-MMM-fix-patch)
 
 1. ADDED Unholy Smite for Oathbreakers.
 2. ADDED Improved Unholy Smite for Oathbreakers.
@@ -48,6 +50,7 @@ Save safe? Maybe. I would only update if you want to start a new game. If you ju
 28. Restored (optional) Sit This One Out.
 29. Added the first wave of experimental semi-phased boss fights. hehehe. Goonsack helped.
 30. I patched every single goddamned spell in this mod list (not literally but that's what it feels like). Goon and Cahoot helped (Cahoot held my hand delicately through 50 failed attempts to change shadowblade/flame blade).
+31. Flame Blade/Shadow Blade are now super viable spells. If you are tired of going Bladelock every playthrough, please try Shillelagh and Flame Blade/Shadow Blade! You can even dual wield with these, so suck on that Pact of the Blade losers!
 
 ## Listonomicon v4.2.1
 Save safe? Yes.
