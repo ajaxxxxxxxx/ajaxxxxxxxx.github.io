@@ -15,6 +15,12 @@ description: Update info
 
 ### **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
 
+## Listonomicon v4.3.1
+Save safe? Yes, this is an important hotfix to v4.3.
+
+1. UPDATED Cahoot's Feat Overhaul to fix a mistake that isn't my fault for once.
+2. ADDED Valeera Daggers, Katen Kyokostu, Tensa Zangetsu, and Battleworn Shield.
+
 ## Listonomicon v4.3
 Save safe? No. If you just want to fix bugs currently in Listo, update [this mod](https://www.nexusmods.com/baldursgate3/mods/14885?tab=files) and hopefully you can continue your current campaign without too many issues.
 
