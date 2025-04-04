@@ -30,7 +30,14 @@ Save safe? No.
    * Ketheric Drops His Armor
    * Reading List
    * Many More Monsters (MMM) (this will return to Listo when the mod author is able to return to modding and updates the project)
-9. n/a
+   * Combat Extender support for VUE (fun experiment, Sailorcat was right that highly curated special enemies don't mix with CX super well)
+9. ADDED Voltstrike Blade, an upgradeable weapon (but redistributed its upgrade materials) (broken blade is on Grym, first upgrade is hidden in the House of Healing Morgue, last upgrade is from Ansur).
+10. ADDED Superius Armour (and significantly redistributed everything).
+11. ADDED Goblin Slayer Sword and Shield (and placed in two Act 1 locations).
+12. ADDED Porcelain Masks (cosmetic transmog options only).
+13. Updated mods :)
+14. ADDED More Makeup and Tattoos.
+15. A HUGE shakeup to Combat Extender, again. For now, there is only 1 CX file being included in Listo because it needs fresh testing (related to change #5).
 
 ## Listonomicon v4.3.1
 Save safe? Yes, this is an important hotfix to v4.3.
