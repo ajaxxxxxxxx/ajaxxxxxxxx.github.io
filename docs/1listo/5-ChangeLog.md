@@ -15,6 +15,23 @@ description: Update info
 
 ### **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
 
+## Listonomicon v4.4 (WIP unreleased)
+Save safe? No.
+
+1. CHANGED some UI mod selections, trying out other Caites/Pavelk mod options (smaller minimap, different world map, different hotbar).
+2. ADDED Advanced Character Sheet, for cleaner tactical analysis of friends and foes resistances/weaknesses/immunities.
+3. ADDED (optional) Champions of Faerun, a randomized challenge mod similar to Absolute Wrath.
+4. ADDED Druid Perfection, and put it and Druid QoL in a different load order placement following Psiionica's suggestions/testing.
+5. ADDED Ultimate NPC Overhaul, a comprehensive undertaking by Goon and Cahoot to normalize, standardize, and bugfix across the entire game. With this comes significant changes to how Combat Extender is and isn't used.
+6. FIXED Listo's spells patch so that flame blade/shadow blade hopefully work as intended now.
+7. UPDATED a bunch of mods.
+8. REMOVED several mods:
+   * Tomes and Manuals
+   * Ketheric Drops His Armor
+   * Reading List
+   * Many More Monsters (MMM) (this will return to Listo when the mod author is able to return to modding and updates the project)
+9. n/a
+
 ## Listonomicon v4.3.1
 Save safe? Yes, this is an important hotfix to v4.3.
 
