@@ -38,6 +38,7 @@ Save safe? No.
 13. Updated mods :)
 14. ADDED More Makeup and Tattoos.
 15. A HUGE shakeup to Combat Extender, again. For now, there is only 1 CX file being included in Listo because it needs fresh testing (related to change #5).
+16. REMOVED Random Equipment Loot/Random Loot Mode (for now - it will return when I figure out what I'm doing and get it to stop randomizing things it isn't supposed to randomize).
 
 ## Listonomicon v4.3.1
 Save safe? Yes, this is an important hotfix to v4.3.
