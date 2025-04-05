@@ -18,6 +18,8 @@ description: Update info
 ## Listonomicon v4.4 (WIP unreleased)
 Save safe? No.
 
+**This update substantially changes creature stats, as such you need to follow the Update Instructions above to clear your levelcache!**
+
 1. CHANGED some UI mod selections, trying out other Caites/Pavelk mod options (smaller minimap, different world map, different hotbar).
 2. ADDED Advanced Character Sheet, for cleaner tactical analysis of friends and foes resistances/weaknesses/immunities.
 3. ADDED (optional) Champions of Faerun, a randomized challenge mod similar to Absolute Wrath.
