@@ -15,7 +15,7 @@ description: Update info
 
 ### **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
 
-## Listonomicon v4.4 (WIP unreleased)
+## Listonomicon v4.4
 Save safe? No.
 
 **This update substantially changes creature stats, as such you need to follow the Update Instructions above to clear your levelcache!**
