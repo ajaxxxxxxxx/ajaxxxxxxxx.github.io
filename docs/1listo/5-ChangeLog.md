@@ -15,6 +15,20 @@ description: Update info
 
 ### **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
 
+## Listonomicon v5.0 (WIP)
+Save safe? No.
+
+**Patch 8 Update**
+
+You should probably expect a flurry of updates (like the OG days of Listo) for the next couple of months. Patch 6 and Patch 7 brought a renewed interest from modders in BG3 and I expect Patch 8 to do the same. What's better, later this year we may start seeing whole new quests added to the game, such as a mod that seeks to expand Act 2 with post-Moonrise Assault content (what I call "Act 2.5") the way the Creche is skippable post-Druid Grove Act 1 content (and is referred to as "Act 1.5"). I hope that we will be spoiled with a fresh list of encounters, equipment, spells, classes, subclasses, quests, and even new explorable areas - we will have to see. Listo will continue to update as long as the BG3 modding community continues to thrive.
+
+1. Listo is now updated to Patch 8.
+2. REMOVED mods that are now redundant or conflict with Patch 8 official fixes, tweaks, and improvements.
+3. REMOVED mods that are now redundant with new Patch 8 content (such as official implementation of subclasses we used mods for).
+4. REMOVED a good number of cosmetic mods, for various reasons, including quality, file size, duplicative content, lack of support between other mods, etc.
+5. ADDED a patch that moves the flight added to dragonborn as a result of the cosmetic wings mod to level 10.
+6. REPLACED an older mod that modified Wild Surge mechanics with an updated version by ChizFreak.
+
 ## Listonomicon v4.4
 Save safe? No.
 
