@@ -30,6 +30,7 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 6. REPLACED an older mod that modified Wild Surge mechanics with an updated version by ChizFreak.
 7. REMOVED subclass mods that now have official subclasses (and which will require their own mods for features past level 12).
 8. CONDENSED several patch/fix/tweaks into Listo's all in one patches file to reduce the overall download count.
+9. ADDED Banshee as a new undead race option.
 
 ## Listonomicon v4.4
 Save safe? No.
