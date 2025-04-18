@@ -31,6 +31,10 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 7. REMOVED subclass mods that now have official subclasses (and which will require their own mods for features past level 12).
 8. CONDENSED several patch/fix/tweaks into Listo's all in one patches file to reduce the overall download count.
 9. ADDED Banshee as a new undead race option.
+10. REMOVED JWL Histories and Occuptations and Listo's related patch.
+11. ADDED Shadow Magic Expanded - Umbral Form.
+12. Corrected some load order issues thanks to Reyqune.
+13. ADDED Improved Reaper to make the new Death Domain subclass better.
 
 ## Listonomicon v4.4
 Save safe? No.
