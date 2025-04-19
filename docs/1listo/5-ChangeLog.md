@@ -42,6 +42,8 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 16. ADDED Circle of Stormcashers Druid Subclass.
 17. ADDED Oath of Bleak Walkers Paladin Subclass.
 18. ADDED Astralities Fluffy Ears.
+19. Reduced the overall amount of XP required to reach level 20.
+20. ADDED Lagardia's Arcane Presets.
 
 ## Listonomicon v4.4
 Save safe? No.
