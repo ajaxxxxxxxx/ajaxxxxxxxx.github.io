@@ -35,6 +35,11 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 11. ADDED Shadow Magic Expanded - Umbral Form.
 12. Corrected some load order issues thanks to Reyqune.
 13. ADDED Improved Reaper to make the new Death Domain subclass better.
+    -everything below this point is not in the unofficial play test-
+15. ADDED Graviturgy Magic Wizard Subclass.
+16. ADDED Circle of Stormcashers Druid Subclass.
+17. ADDED Oath of Bleak Walkers Paladin Subclass.
+18. ADDED Astralities Fluffy Ears.
 
 ## Listonomicon v4.4
 Save safe? No.
