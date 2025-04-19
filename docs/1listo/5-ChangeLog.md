@@ -47,6 +47,7 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 21. ADDED Druid Wildshape Weapons and Gear by Syrchalis.
 22. ADDED Ursa Noctua, Sins of Ambition, Oaken Keeper, and Jeweled Weaver (with custom Listo patches to alter the distribution/balance).
 23. Thorough investigation into files that have been marked "ignore update" in MO2 and actually do need updates, as well as uninstalled/unused mods that MO2 thinks you should still download for fun.
+24. REMOVED 3 mods related to reducing combat log spam for effects that you don't need spamming the log, replaced them with a better solution in the Listo Patch.
 
 ## Listonomicon v4.4
 Save safe? No.
