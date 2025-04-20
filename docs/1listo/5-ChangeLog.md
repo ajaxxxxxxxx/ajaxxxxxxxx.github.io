@@ -52,6 +52,7 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 26. Moved 90% of mephit mods out of CX and into DeGreaser, mephit stats remain elevated and they still have wild magic but they no longer have expanded mod lists. The only exception is the lava mephits who ambush during the Grym fight, who are like mini-boss mephits (and have more spells and HP than normal).
 27. MO2 should now open an error message telling users if they are missing prequisites to play Listonomicon, and refer them to where to download the necessary programs (.NET, etc). Thanks Reyqune.
 28. REMOVED all monk subclasses, and replaced them with Sumra's all-in-one mod.
+29. ADDED Bububull's Monarch Cloak (and repurposed it to add two sweet capes to the game).
 
 ## Listonomicon v4.4
 Save safe? No.
