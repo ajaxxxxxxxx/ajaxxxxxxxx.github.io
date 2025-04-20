@@ -53,6 +53,8 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 27. MO2 should now open an error message telling users if they are missing prequisites to play Listonomicon, and refer them to where to download the necessary programs (.NET, etc). Thanks Reyqune.
 28. REMOVED all monk subclasses, and replaced them with Sumra's all-in-one mod.
 29. ADDED Bububull's Monarch Cloak (and repurposed it to add two sweet capes to the game).
+30. REPLACED one Shadar-Kai race mod with another.
+31. UPDATED Zino's BG3-MO2 plugin which should faster and have less bugs/issues.
 
 ## Listonomicon v4.4
 Save safe? No.
