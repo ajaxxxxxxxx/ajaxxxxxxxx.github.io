@@ -48,6 +48,8 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 22. ADDED Ursa Noctua, Sins of Ambition, Oaken Keeper, and Jeweled Weaver (with custom Listo patches to alter the distribution/balance).
 23. Thorough investigation into files that have been marked "ignore update" in MO2 and actually do need updates, as well as uninstalled/unused mods that MO2 thinks you should still download for fun.
 24. REMOVED 3 mods related to reducing combat log spam for effects that you don't need spamming the log, replaced them with a better solution in the Listo Patch.
+25. Attempted my own take on removing VFX/SFX from spells/buffs that last until long rest, Act 2 shadowcurse protection related VFX, etc. Hopefully this is more broadly compatible + improves late game performance.
+26. Moved 90% of mephit mods out of CX and into DeGreaser, mephit stats remain elevated and they still have wild magic but they no longer have expanded mod lists. The only exception is the lava mephits who ambush during the Grym fight, who are like mini-boss mephits (and have more spells and HP than normal).
 
 ## Listonomicon v4.4
 Save safe? No.
