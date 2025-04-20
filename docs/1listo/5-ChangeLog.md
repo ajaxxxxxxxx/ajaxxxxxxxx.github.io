@@ -50,6 +50,7 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 24. REMOVED 3 mods related to reducing combat log spam for effects that you don't need spamming the log, replaced them with a better solution in the Listo Patch.
 25. Attempted my own take on removing VFX/SFX from spells/buffs that last until long rest, Act 2 shadowcurse protection related VFX, etc. Hopefully this is more broadly compatible + improves late game performance.
 26. Moved 90% of mephit mods out of CX and into DeGreaser, mephit stats remain elevated and they still have wild magic but they no longer have expanded mod lists. The only exception is the lava mephits who ambush during the Grym fight, who are like mini-boss mephits (and have more spells and HP than normal).
+27. MO2 should now open an error message telling users if they are missing prequisites to play Listonomicon, and refer them to where to download the necessary programs (.NET, etc). Thanks Reyqune.
 
 ## Listonomicon v4.4
 Save safe? No.
