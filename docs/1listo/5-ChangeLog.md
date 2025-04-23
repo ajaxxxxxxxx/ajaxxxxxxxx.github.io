@@ -55,6 +55,7 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 29. ADDED Bububull's Monarch Cloak (and repurposed it to add two sweet capes to the game).
 30. REPLACED one Shadar-Kai race mod with another.
 31. UPDATED Zino's BG3-MO2 plugin which should faster and have less bugs/issues.
+32. REPLACED Mod.io Twilight Cleric with Sumra's 5e Cleric Subclasses Combined (which so far only has Twilight Cleric, but more to come).
 
 ## Listonomicon v4.4
 Save safe? No.
