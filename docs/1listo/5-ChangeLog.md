@@ -35,9 +35,7 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 11. ADDED Shadow Magic Expanded - Umbral Form.
 12. Corrected some load order issues thanks to Reyqune.
 13. ADDED Improved Reaper to make the new Death Domain subclass better.
-
-    -everything below this point is not in the unofficial play test-
-
+14. thx for reading the changelog i <3 u
 15. ADDED Graviturgy Magic Wizard Subclass.
 16. ADDED Circle of Stormcashers Druid Subclass.
 17. ADDED Oath of Bleak Walkers Paladin Subclass.
@@ -57,6 +55,18 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 31. UPDATED Zino's BG3-MO2 plugin which should faster and have less bugs/issues.
 32. REPLACED Mod.io Twilight Cleric with Sumra's 5e Cleric Subclasses Combined (which so far only has Twilight Cleric, but more to come).
 33. ADDED Dawnstar's Grimoire (yeah even more spells).
+34. ADDED Hedge Mage Wizard Subclass.
+35. ADDED Grim Surgeon Rogue Subclass.
+36. ADDED HGY Heads.
+37. ADDED Night Domain Cleric Subclass.
+38. ADDED Eldritch Domain Cleric Subclass.
+39. ADDED Misfortune Bringer Rogue Subclass.
+40. ADDED Debonaire Rogue Subclass.
+41. ADDED College of Tragedy Bard Subclass.
+42. ADDED Circle of Winter Druid Subclass.
+43. ADDED Grave Domain Cleric Subclass.
+44. ADDED Justice For Nessa.
+45. RESTORED Hard vs Normal vs Easy Combat Extender options.
 
 ## Listonomicon v4.4
 Save safe? No.
