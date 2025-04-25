@@ -13,7 +13,7 @@ description: Update info
 
 [View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
 
-### **Update Instructions: Go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.**
+### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
 ## Listonomicon v5.0 (WIP)
 Save safe? No.
@@ -51,7 +51,6 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 27. MO2 should now open an error message telling users if they are missing prequisites to play Listonomicon, and refer them to where to download the necessary programs (.NET, etc). Thanks Reyqune.
 28. REMOVED all monk subclasses, and replaced them with Sumra's all-in-one mod.
 29. ADDED Bububull's Monarch Cloak (and repurposed it to add two sweet capes to the game).
-30. REPLACED one Shadar-Kai race mod with another.
 31. UPDATED Zino's BG3-MO2 plugin which should faster and have less bugs/issues.
 32. REPLACED Mod.io Twilight Cleric with Sumra's 5e Cleric Subclasses Combined (which so far only has Twilight Cleric, but more to come).
 33. ADDED Dawnstar's Grimoire (yeah even more spells).
