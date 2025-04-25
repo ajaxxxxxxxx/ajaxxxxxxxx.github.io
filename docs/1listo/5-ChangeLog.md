@@ -15,7 +15,7 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
-## Listonomicon v5.0 (WIP)
+## Listonomicon v5.0
 Save safe? No.
 
 **Patch 8 Update**
