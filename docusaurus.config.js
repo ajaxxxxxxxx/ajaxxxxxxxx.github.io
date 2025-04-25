@@ -87,7 +87,7 @@ presets: [
 			  label: 'test'
 		  },
           {
-            href: 'https://discord.gg/43EhRjU',
+            href: 'https://discord.gg/AmxvjHkQ5v',
             label: 'Discord',
             position: 'right',
           },
