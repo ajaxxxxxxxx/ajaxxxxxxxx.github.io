@@ -35,7 +35,7 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 11. ADDED Shadow Magic Expanded - Umbral Form.
 12. Corrected some load order issues thanks to Reyqune.
 13. ADDED Improved Reaper to make the new Death Domain subclass better.
-14. thx for reading the changelog i <3 u
+14. thx for reading the changelog i luv u
 15. ADDED Graviturgy Magic Wizard Subclass.
 16. ADDED Circle of Stormcashers Druid Subclass.
 17. ADDED Oath of Bleak Walkers Paladin Subclass.
@@ -51,6 +51,7 @@ You should probably expect a flurry of updates (like the OG days of Listo) for t
 27. MO2 should now open an error message telling users if they are missing prequisites to play Listonomicon, and refer them to where to download the necessary programs (.NET, etc). Thanks Reyqune.
 28. REMOVED all monk subclasses, and replaced them with Sumra's all-in-one mod.
 29. ADDED Bububull's Monarch Cloak (and repurposed it to add two sweet capes to the game).
+30. n/a
 31. UPDATED Zino's BG3-MO2 plugin which should faster and have less bugs/issues.
 32. REPLACED Mod.io Twilight Cleric with Sumra's 5e Cleric Subclasses Combined (which so far only has Twilight Cleric, but more to come).
 33. ADDED Dawnstar's Grimoire (yeah even more spells).
