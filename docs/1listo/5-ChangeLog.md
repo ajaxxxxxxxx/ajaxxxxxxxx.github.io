@@ -16,6 +16,14 @@ description: Update info
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
 ## Listonomicon v5.0
+Save safe? Yes, but if you run into an issue from v5.0 try [rolling back Genasi to v2.3](https://www.nexusmods.com/baldursgate3/mods/4741?tab=files).
+
+1. UPDATED the MO2-BG3 plugin to fix a critical bug.
+2. REMOVED a redundant UI issue.
+3. UPDATED a small clutch of mods.
+4. ADDED Recruitable Nessa and the Act 3 cat.
+
+## Listonomicon v5.0
 Save safe? No.
 
 **Patch 8 Update**
