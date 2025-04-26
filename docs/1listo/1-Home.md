@@ -22,6 +22,8 @@ Finally, a big “Thank you!” again to the cthnonauts who volunteered to strug
 
 -Ajax
 
+<img align="center" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/prepformagic.jpg"/>
+
 ## What IS a Listonomicon?
 
 Listonomicon, or "Listo," is a mod list for BG3 intended to add more content, depth, challenge, and variety. It takes the vanilla Tactician Difficulty/Honour Mode Ruleset experience as the baseline, and then adds new encounters, mechanics, and changes. The player is empowered with new choices in race, background, class, subclass, feats, spells, and equipment - but your enemy is likewise enhanced with access to both more vanilla features, and features taken from the very mods used by the player! The Listo world is more magical, with the player and enemies alike seeing an increase in power. Generally, Listo is balanced around the player having a level cap of 20, and using a party of 4-6 heroes. You are expected to already be familiar with the majority of BG3's features, and should come prepared to finally make use of all those scrolls, healing potions, poisons, elixirs, weapon coats, arrows, and other resources you may have previously neglected. The goal is not, however, to be some impossible, hard-as-nails, make-yourself-miserable ultra hardmode slog fest and Listo should never make you feel forced to cheese encounters or abuse mechanics. Listo wants to be a "D&D-first challenge," not a video game-y grind. What does "D&D-first" mean? I try to look at decisions with Listo the way a Dungeon Master would look at their campaign, not the way a developer would look at a video game.
@@ -98,4 +100,4 @@ At the end of the day, Listo's goal is to give you even more BG3. But you may di
 
 The easiest way to get in touch with us is to join our Discord. Make sure to verify that you are a human via #verification, and then post your suggestions in #suggestions. Familiarize yourself with the list's philosophy before suggesting things that will be categorically denied (such as classes that lack level 20 progression, anime katanas, or mechs).
 
-<img align="center" width="900" height="900" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/yourbrain.png"/>
+<img align="center" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/yourbrain.png"/>
