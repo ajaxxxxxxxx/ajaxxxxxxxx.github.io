@@ -9,7 +9,7 @@ description: Install Info
 
 :::info
 ## **Requirements**
-- ~ 45 GB of space for the modlist (~20 GB can be reclaimed by deleting downloaded mod archives after finishing your install)
+- ~ 56 GB of space for the modlist (~half the GB can be reclaimed by deleting downloaded mod archives after finishing your install)
 - A legally obtained copy of Baldur's Gate 3 (while a Steam global copy is safest, any copy should do), **installed and launched vanilla from Steam/GoG/whatever at least once**
 - [Wabbajack](https://www.wabbajack.org/)
 - A Nexus account (Premium recommended; _drastically_ increases install speed)
@@ -21,6 +21,7 @@ description: Install Info
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 2. Install [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.13-windows-x64-installer).
 3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
+4. **If you install Listo to a different storage device than where you installed BG3 itself**, and the game fails to launch but does not give you an error explaining why it can't work, go to the puzzle pieces icon at the top of MO2 -> Rootbuilder -> Open Rootbuilder -> On the first page that opens, change from “Link” to “Copy” (if your Listo is working ignore this).
 :::
 
 ![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/bol.png)
@@ -35,10 +36,10 @@ At no point in installing Listo do you need to manually download Mod Organizer 2
 
 ### 3.) Reinstall Baldur's Gate 3
 
-- **Nuke BG3** (optional but _highly recommended_): Uninstall the game _completely_, delete anything left of the install folder (e.g. D:/SteamLibrary/steamapps/common/Baldurs Gate 3), and delete the folder at %localappdata%\Larian Studios. This is to ensure no errant files are leftover from previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Nuking everything improves the odds that Listo works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or gustavdev could interfere with Listo. This is especially true now with Mod.io integration and Larian's official mod manager services.
+- **Nuke BG3** (optional but _highly recommended_): Uninstall the game _completely_, delete anything left of the install folder (e.g. D:/SteamLibrary/steamapps/common/Baldurs Gate 3), and delete the folder at %localappdata%\Larian Studios. This is to ensure no errant files are leftover from previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Nuking everything improves the odds that Listo works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or Mod.io subscriptions could interfere with Listo.
 - Also ensure that your new Baldur's Gate 3 is in a steam folder on the base of your drive (IE: C:/Steam/.../BaldursGate3) if possible, Wabbajack/MO2 might struggle if it is in a default Steam location like C:/program files(86)/Steam/.../BG3.
 - Remove the BG3 Script Extender if you installed it manually (this should have happened with the nuking).
-- After reinstalling, launch the game (vanilla from Steam) once to regenerate all of the folders/paths that MO2 and BG3MM need. When you reach the main menu, quit and continue to Step 3.
+- After reinstalling, launch the game (vanilla from Steam) and reach the main menu once to regenerate all of the folders/paths that MO2 and BG3MM need. When you reach the main menu, quit and continue to Step 3.
 
 ### 3.) Preparing Your Listonomicon Folder
 
@@ -46,7 +47,7 @@ Create a folder named Listonomicon somewhere on your PC, the closer to the root 
 
 ### 4.) Downloading the List
 
-You can get a copy of Listonomicon.wabbajack from Nexus if you want/need to play an older version of the list for any reason. However, the correct method is to open Wabbajack and browse the mod gallery. Filter the list at the top to Baldur's Gate 3, look for Listonomicon, and hit the download icon. This will grab a copy of the .wabbajack file, and the download icon will become a play button. Click the play button. On the next screen, set the Modlist Installation Location to the Listonomicon folder you made in Step 2. "Resource Download Location" should automatically fill with "[Listo folder location]\downloads."
+You can get a copy of Listonomicon.wabbajack from Nexus if you want/need to play an older version of the list for any reason. However, the correct method is to open Wabbajack and browse the mod gallery. You should be able to find Listonomicon easily as the list of official BG3 lists is pretty small.
 
 :::note
 "But wait, what if I don't want to download all 550+ Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option!" In that case, you can manually download Listonomicon LITE.wabbajack from Nexus. **The "lite" version of Listo will be periodically updated to match major Listonomicon revisions, but will not be kept 1:1 up to date with Listo on a regular basis.** Use Wabba’s “Install from disk" option and select Listo Lite.wabbajack as your modlist.
@@ -57,21 +58,21 @@ You can get a copy of Listonomicon.wabbajack from Nexus if you want/need to play
 - Navigate to Steam -> Right click BG3 -> Properties -> Updates and change “Automatic Updates” to “Only Update This Game When I Launch It.”
 - Never launch the game via Steam, always launch it through Mod Organizer, to prevent updates from breaking the list and ending your playthrough. You may need to launch the game from Steam ONCE after a reinstall to make MO2 work.
 - You may wish to disable cloud backup of save data, as well.
-- **Whichever patch/hotfix you start your playthrough, you should stay on until the end of your playthrough**!
+- **Whichever patch/hotfix you start your playthrough, you should stay on until the end of your playthrough**! Whichever version of Listo you start on you should probably also stay on, unless an update is to solve critical bugs and issues.
 
 :::caution
-BG3 is still receiving Patches (major updates) and Hotfixes (small updates). These updates tend to introduce new bugs and issues to the game that may be difficult to distinguish from issues caused by mods (either with the list, or mods broken by updates). Major updates can also break Script Extender functionality, etc etc. This is why it is highly recommended to disable automated updates.
+BG3 should no longer receive Patches (major updates), but Hotfixes (small updates) remain. These updates tend to introduce new bugs and issues to the game that may be difficult to distinguish from issues caused by mods (either with the list, or mods broken by updates). Major updates can also break Script Extender functionality, etc etc. This is why it is highly recommended to disable automated updates.
 :::
 
 ### 6.) Launching MO2
 
 - Your portable instance of Mod Organizer 2 should be ready as soon as Wabbajack is done. Look for ModOrganizer.exe in the folder where you installed Listonomicon. You can verify that everything is working by ensuring that MO2 has defaulted to the correct profile at the top-left, which should be Listonomicon.
-- **Listonomicon: Your total number of active mods should be 621, and the purple seperator at the top should say Listonomicon Listonomicon v4.3.1**
+- **Listonomicon: Your total number of active mods should be 627, and the purple seperator at the top should say Listonomicon Listonomicon v5.0.1**
 - **Listonomicon Lite: For Listo Lite, your total active mods should be 442, and the seperator should say Listo Lite v4.3.1.**
 - At the top-right, you should be able to switch the program to launch the Vulkan or dx11 version of the game.
 - Hit "run" after selecting the EXE that works best for your system. Always launch the game this way (don't use Steam).
 - You can verify Listo's mods are all loaded correctly after install by clicking on the official mod manager and looking at the installed mods tab. Is there a long list with almost everything enabled? Good. Some mods, like overwrites to text, will not show as "Enabled" but will still be working fine.
-- If you install Listo to a different storage device than where you installed BG3 itself, and the game fails to launch but does not give you an error explaining why it can't work, go to the puzzle pieces icon at the top of MO2 -> Rootbuilder -> Open Rootbuilder -> On the first page that opens, change from “Link” to “Copy” (if your Listo is working ignore this).
+- **If you install Listo to a different storage device than where you installed BG3 itself**, and the game fails to launch but does not give you an error explaining why it can't work, go to the puzzle pieces icon at the top of MO2 -> Rootbuilder -> Open Rootbuilder -> On the first page that opens, change from “Link” to “Copy” (if your Listo is working ignore this).
 - If you want higher audio quality, you can install [Dialogue Voice Quality Restoration](https://www.nexusmods.com/baldursgate3/mods/8224) manually. When prompted to name the install each file in MO2, title them [NoDelete] DVQR Main and [NoDelete] DVQR Audio. Install location shouldn't matter.
 
 ### 7.) In-Game Settings
@@ -111,11 +112,13 @@ There are several optional mods packaged with Listonomicon to enable even more f
 
 If Listo is too hard, and you'd actually have more fun if it was a little easier, you can make two changes:
 1. In Custom Difficulty settings, reduce the trade price penalty to x3-x3.5. If you reduce it too much, buying prices become too low and the economy really falls apart. You can reduce the long rest camp supply cost to a lower number, whatever you want.
-2. Navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Easy CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, relaxed CX configuration. The alt file will still be more difficult than vanilla BG3 and include new, tweaked, and changed enemies - but the size of the tweaks is much less dramatic with lower health, AC, attack rolls, and saving throw DC for enemies across the board.
+2. Navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Easy CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, relaxed CX configuration. The alt file will still be more difficult than vanilla BG3 and include new, tweaked, and changed enemies - but the size of the tweaks is much less dramatic with lower health, AC, attack rolls, and saving throw DC for enemies across the board, bigger increases to allied characters, and many powerful buffs and abilities taken away from bosses.
 
 If Listo is not hard enough,
 1. Enable Absolute Wrath (search "OPTIONAL_Absolute Wrath" or look in the optional tweaks section of MO2).
-2. If that isn't hard enough, navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Hard CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, unrelaxed CX configuration. The alt file has more enemy health, more enemy buffs, and more cruel combinations of spells and abilities and features.
+2. If that still isn't hard enough, enable Champions of Faerun.
+3. If still that isn't hard enough, navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Hard CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, unrelaxed CX configuration. The alt file has more enemy health, more enemy buffs, and more cruel combinations of spells and abilities and features, with intentional enemy nerfs from the normal config removed.
+4. DHM and Extra Encounters and Minibosses exist more for interesting challenge content rather than changing the overall challenge of the whole experience (more like dungeons/raids rather than global modifiers).
 
 ### 11.) Multiplayer
 
@@ -133,4 +136,6 @@ If you are desperate to restore some space on your hard drive after installing L
 
 ### 13.) Updating Listonomicon
 
-When updating Listo, follow the same install method you are comfortable with (finding the list via the gallery, or downloding an updated .wabba from Nexus). Point Wabbajack at the same install location and overwrite. Any mods that have not changed should not have to be re-downloaded, meaning updating is much faster (unless you deleted your Downloads folder to save hard drive space, then you need to redownload everything). After updating, go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder.
+When updating Listo, follow the same install method you are comfortable with (finding the list via the gallery, or downloding an updated .wabba from Nexus). Point Wabbajack at the same install location and overwrite. Any mods that have not changed should not have to be re-downloaded, meaning updating is much faster (unless you deleted your Downloads folder to save hard drive space, then you need to redownload everything). After updating, go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder. You may wish to right-click the red "Overwrite" text at the bottom of MO2 and hit "Clear Overwrite," especially if an update announced big Combat Extender changes.
+
+![Optional Mod Example](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/image-5.png)
