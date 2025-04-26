@@ -97,3 +97,5 @@ At the end of the day, Listo's goal is to give you even more BG3. But you may di
 ### Have suggestions to make Listonomicon better?
 
 The easiest way to get in touch with us is to join our Discord. Make sure to verify that you are a human via #verification, and then post your suggestions in #suggestions. Familiarize yourself with the list's philosophy before suggesting things that will be categorically denied (such as classes that lack level 20 progression, anime katanas, or mechs).
+
+<img align="center" width="900" height="900" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/yourbrain.png"/>
