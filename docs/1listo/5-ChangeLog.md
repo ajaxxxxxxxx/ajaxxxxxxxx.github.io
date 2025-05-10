@@ -34,6 +34,18 @@ Save safe? No.
 14. ADDED Iron Throne Rescue Extended (providing more, but not unlimited, time to the rescue mission - note this means I can make the Sauhuagin a lot worse!)
 15. REDUCED the # of Rare, Very Rare, and Legendary items that can be equipped. Total attunement limit remains at 5.
 16. REPLACED "Radiant Retort Reimagined" with my own rebalance to make Radiant Retort less annoying to deal with.
+17. REMOVED Gale and his Netherese Orb (the mod that makes him whacky if you don't feed him magic items).
+18. ADDED Astralaties's Lifelike Skin Tone Expansion.
+19. REPLACED Invocations Expanded (P7 edition) with Invocations Expanded (P8 edition).
+20. Incorporated (for real this time) Cahoot's fix for the Symbol of Kelemvor.
+21. REPLACED the old Polyamory Mod with a more comprehensive Mod.io soution.
+22. REMOVED College of Creation bards.
+23. Carrion's undead control ability can no longer target player characters.
+24. The NPC version of Otto's Irresistible Dance now only lasts 2 turns, and can be avoided with a DC 13 Wisdom saving throw.
+25. Nerfed the damage in situations where NPCs are given cheat versions of spells (like bonus action Cone of Cold).
+26. The NPC version of Greater Invisibility has had its duration reduced from 10 turns to 4.
+27. Fixed some spell description issues (Shadowblade, etc).
+28. Updated Expansion and other mod settings due to their own updates + dealing with Patch 8.
 
 ## Listonomicon v5.0.1
 Save safe? Yes, but if you run into an issue from v5.0 try [rolling back Genasi to v2.3](https://www.nexusmods.com/baldursgate3/mods/4741?tab=files).
