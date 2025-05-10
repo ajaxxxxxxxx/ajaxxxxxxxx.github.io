@@ -33,6 +33,7 @@ Save safe? No.
 13. UPDATED tons and tons and tons of mods.
 14. ADDED Iron Throne Rescue Extended (providing more, but not unlimited, time to the rescue mission - note this means I can make the Sauhuagin a lot worse!)
 15. REDUCED the # of Rare, Very Rare, and Legendary items that can be equipped. Total attunement limit remains at 5.
+16. REPLACED "Radiant Retort Reimagined" with my own rebalance to make Radiant Retort less annoying to deal with.
 
 ## Listonomicon v5.0.1
 Save safe? Yes, but if you run into an issue from v5.0 try [rolling back Genasi to v2.3](https://www.nexusmods.com/baldursgate3/mods/4741?tab=files).
