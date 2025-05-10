@@ -15,6 +15,23 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v5.1 (WIP)
+Save safe? No.
+
+1. ADDED Sculptor's Dreamcache
+2. ADDED Leathers of the Vagabond
+3. ADDED Shields of the Fallen
+4. ADDED Gifts of the Absolute's optional sub mod, which marks more vanilla items as requiring the Brand to function.
+5. REPLACED GraphicFade's class equipment mods with his all-in-one mod.
+6. ADDED Cordellia's "Misc Act 1 Caster Equipment"
+7. ADDED Cordellia's "Ryujin Jakka Ajax Edition"
+8. ADDED Bladesong Garment
+9. ADDED Better Potion of Everlasting Vigour
+10. RE-ADDED Native Mod Loader and its related mods (WASD movement, better camera)
+11. ADDED DHM Boss Pack 2
+12. ADDED College of Whispers Bard
+13. UPDATED tons and tons and tons of mods.
+
 ## Listonomicon v5.0.1
 Save safe? Yes, but if you run into an issue from v5.0 try [rolling back Genasi to v2.3](https://www.nexusmods.com/baldursgate3/mods/4741?tab=files).
 
