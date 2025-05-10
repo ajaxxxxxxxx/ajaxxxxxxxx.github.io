@@ -46,6 +46,7 @@ Save safe? No.
 26. The NPC version of Greater Invisibility has had its duration reduced from 10 turns to 4.
 27. Fixed some spell description issues (Shadowblade, etc).
 28. Updated Expansion and other mod settings due to their own updates + dealing with Patch 8.
+29. REMOVED no longer necessary DIQ patches for helping AI use barbarian rages.
 
 ## Listonomicon v5.0.1
 Save safe? Yes, but if you run into an issue from v5.0 try [rolling back Genasi to v2.3](https://www.nexusmods.com/baldursgate3/mods/4741?tab=files).
