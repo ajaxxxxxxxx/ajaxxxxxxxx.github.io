@@ -52,6 +52,7 @@ Save safe? No. (in theory if you aren't using anything that was removed and resp
 32. ADDED Slower Rosymorn Monastery Lift (finally you can enjoy the vistas).
 33. ADDED Volitio's Smart Autosaving.
 34. ADDED Better Photo Mode.
+35. NERFED Druids (removed the ability to eat your summons for ridiculous buffs).
 
 ## Listonomicon v5.0.1
 Save safe? Yes, but if you run into an issue from v5.0 try [rolling back Genasi to v2.3](https://www.nexusmods.com/baldursgate3/mods/4741?tab=files).
