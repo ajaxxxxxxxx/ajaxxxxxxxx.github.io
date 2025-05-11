@@ -57,6 +57,8 @@ Save safe? No. (in theory I would recommend manually updating Listo Patches and 
 37. Hopefully fixed issues with Sorcerous Sundries performers nuking everyone's PC.
 38. Hopefully found and fixed every situation where I had loot tables wrong, preventing some items from being accesible.
 39. REMOVED Slightly Better Trade Menu (author is no longer updating this mod/does not work with latest hotfix).
+40. ADDED Arcane Acuity Rework.
+41. ADDED Blood of Lathander is now a Morning Star.
 
 ## Listonomicon v5.0.1
 Save safe? Yes, but if you run into an issue from v5.0 try [rolling back Genasi to v2.3](https://www.nexusmods.com/baldursgate3/mods/4741?tab=files).
