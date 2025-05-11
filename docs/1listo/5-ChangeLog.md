@@ -48,6 +48,10 @@ Save safe? No. (in theory if you aren't using anything that was removed and resp
 28. Updated Expansion and other mod settings due to their own updates + dealing with Patch 8.
 29. REMOVED no longer necessary DIQ patches for helping AI use barbarian rages.
 30. A bunch of small clean ups and fixes.
+31. RESTORED Waypoint Moved Inside Emerald Grove (Volitio says it's fixed now).
+32. ADDED Slower Rosymorn Monastery Lift (finally you can enjoy the vistas).
+33. ADDED Volitio's Smart Autosaving.
+34. ADDED Better Photo Mode.
 
 ## Listonomicon v5.0.1
 Save safe? Yes, but if you run into an issue from v5.0 try [rolling back Genasi to v2.3](https://www.nexusmods.com/baldursgate3/mods/4741?tab=files).
