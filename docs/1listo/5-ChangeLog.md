@@ -16,7 +16,7 @@ description: Update info
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
 ## Listonomicon v5.1
-Save safe? No. (in theory if you aren't using anything that was removed and respec the whole party, your game -might- continue working)
+Save safe? No. (in theory I would recommend manually updating Listo Patches and Tweaks, the Listo Master Spells Patch, zzz_ListoModSettings, and leaving the rest alone)
 
 1. ADDED Sculptor's Dreamcache.
 2. ADDED Leathers of the Vagabond, distributed items via patch.
@@ -56,6 +56,7 @@ Save safe? No. (in theory if you aren't using anything that was removed and resp
 36. NERFED Dryad's Shillelagh to 2d8+WIS damage instead of 4d8+WIS (so twice as good as normal and applies to the same list of weapons as normal shillelagh in Listo).
 37. Hopefully fixed issues with Sorcerous Sundries performers nuking everyone's PC.
 38. Hopefully found and fixed every situation where I had loot tables wrong, preventing some items from being accesible.
+39. REMOVED Slightly Better Trade Menu (author is no longer updating this mod/does not work with latest hotfix).
 
 ## Listonomicon v5.0.1
 Save safe? Yes, but if you run into an issue from v5.0 try [rolling back Genasi to v2.3](https://www.nexusmods.com/baldursgate3/mods/4741?tab=files).
