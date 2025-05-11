@@ -18,20 +18,20 @@ description: Update info
 ## Listonomicon v5.1 (WIP)
 Save safe? No. (in theory if you aren't using anything that was removed and respec the whole party, your game -might- continue working)
 
-1. ADDED Sculptor's Dreamcache
-2. ADDED Leathers of the Vagabond
-3. ADDED Shields of the Fallen
+1. ADDED Sculptor's Dreamcache.
+2. ADDED Leathers of the Vagabond, distributed items via patch.
+3. ADDED Shields of the Fallen, distributed items all over the game via patch.
 4. ADDED Gifts of the Absolute's optional sub mod, which marks more vanilla items as requiring the Brand to function.
 5. REPLACED GraphicFade's class equipment mods with his all-in-one mod.
 6. ADDED Cordellia's "Misc Act 1 Caster Equipment"
 7. ADDED Cordellia's "Ryujin Jakka Ajax Edition"
-8. ADDED Bladesong Garment
-9. ADDED Better Potion of Everlasting Vigour
-10. RE-ADDED Native Mod Loader and its related mods (WASD movement, better camera)
-11. ADDED DHM Boss Pack 2
-12. ADDED College of Whispers Bard
+8. ADDED Bladesong Garment, redistributed via patch.
+9. ADDED Better Potion of Everlasting Vigour.
+10. RE-ADDED Native Mod Loader and its related mods (WASD movement, better camera).
+11. ADDED DHM Boss Pack 2.
+12. ADDED College of Whispers Bard.
 13. UPDATED tons and tons and tons of mods.
-14. ADDED Iron Throne Rescue Extended (providing more, but not unlimited, time to the rescue mission - note this means I can make the Sauhuagin a lot worse!)
+14. ADDED Iron Throne Rescue Extended (providing more, but not unlimited, time to the rescue mission - note this means I can make the Sauhuagin a lot worse!).
 15. REDUCED the # of Rare, Very Rare, and Legendary items that can be equipped. Total attunement limit remains at 5.
 16. REPLACED "Radiant Retort Reimagined" with my own rebalance to make Radiant Retort less annoying to deal with.
 17. REMOVED Gale and his Netherese Orb (the mod that makes him whacky if you don't feed him magic items).
