@@ -53,6 +53,7 @@ Save safe? No. (in theory if you aren't using anything that was removed and resp
 33. ADDED Volitio's Smart Autosaving.
 34. ADDED Better Photo Mode.
 35. NERFED Druids (removed the ability to eat your summons for ridiculous buffs).
+36. NERFED Dryad's Shillelagh to 2d8+WIS damage instead of 4d8+WIS (so twice as good as normal and applies to the same list of weapons as normal shillelagh in Listo).
 
 ## Listonomicon v5.0.1
 Save safe? Yes, but if you run into an issue from v5.0 try [rolling back Genasi to v2.3](https://www.nexusmods.com/baldursgate3/mods/4741?tab=files).
