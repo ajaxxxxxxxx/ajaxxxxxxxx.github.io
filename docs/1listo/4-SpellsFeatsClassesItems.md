@@ -232,8 +232,7 @@ New Subclasses:
 
 * [Artificer](https://www.nexusmods.com/baldursgate3/mods/1779), and all subclasses.
 * [Mystic](https://www.nexusmods.com/baldursgate3/mods/2786).
-* Mesmerist
-* [Mesmerist](https://www.nexusmods.com/baldursgate3/mods/11854)
+* [Mesmerist](https://www.nexusmods.com/baldursgate3/mods/11854).
 
 # New and Changed Equipment
 
