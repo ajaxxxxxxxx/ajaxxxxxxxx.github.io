@@ -51,7 +51,7 @@ Cahoot has supplied his own rebalance for Color Spray and the Sleep spells, whic
 
 ## New and Changed Feats
 
-In Listonomicon, all classes earn a feat at a rate of one per 3 levels. Fighters and Rogues earn an additional feat at level 11. So all classes get a feat at 3, 6, 9, 12, 15, and 18; Fighters and Rogues get a feat at 3, 6, 9, **11**, 12, 15, and 18.
+In Listonomicon, all classes earn a feat at a rate of one per 3 levels. Fighters and Rogues earn an additional feat at level 11. So all classes get a feat at 3, 6, 9, 12, 15, and 18; Fighters, Mesmerists, and Rogues get a feat at 3, 6, 9, **11**, 12, 15, and 18.
 
 The [Arcanist Feat](https://www.nexusmods.com/baldursgate3/mods/1087) allows you to gain +1 INT, gain expertise in Arcana, and learn any level 1 spell which can be casted once per short rest. Consider how various level 1 spells (such as Shield of Faith) have been rebalanced. That's basically a free +2 AC for anyone who would not otherwise have access to the spell, such as an Eldritch Knight. Clerics or Monks may want to use it for access to Shillelagh.
 
@@ -99,23 +99,34 @@ New subclasses:
 * Path of the Ancestral Guardian - You channel the spirits of your clan, bloodline, or faith. When you rage, spectral warriors swarm around you to slay your foes and harass anyone who tries to target your allies.
 * Path of the Storm Herald - Your rage is that of thunderstorms, sandstorms, blizzards, and worse. When you rage, you surround yourself with elemental damage.
 * Path of the Giant - Your rage allows you to fight like a creature twice your size. As your Barbarian level increases, your rages become bigger and their bonuses to your strength, attacks, thrown weapons, and shoves increases with it. You can add elemental damage to your weapons.
+* Path of the Beast
+* Path of the Battlerager
+* Path of the Juggernaut
 
 ## Bard
 
-* College of Creation - Creation Bards are able to spawn pillars that help allies or hinder enemies, and focus on the caster and support aspects of Bard.
+Bard's most forgotten feature in BG3 is their Inspiration. Not anymore; Bardic Inspiration is a way to improve rolls and [heal your party](https://www.nexusmods.com/baldursgate3/mods/2937).
+
 * College of Eloquence
 * College of Dance - Dance Bards enjoy a hybrid playstyle that is part healer/support caster, and part Monk.
+* College of Tragedy
+* College of Whispers
 
 ## Cleric
 
-[Blessing of the Trickster](https://www.nexusmods.com/baldursgate3/mods/11566) is buffed to apply to more skills, and can be activated during dialogue similar to the Guidance spell. Trickery Clerics are a little less bad.
+[Blessing of the Trickster](https://www.nexusmods.com/baldursgate3/mods/11566) is buffed to apply to more skills, and can be activated during dialogue similar to the Guidance spell. Trickery Clerics are a little less bad. Death Clerics can attempt to control their undead foes.
 
-* Zeal Domain - Zeal Clerics have similar benefits to Tempest Clerics, but use their Channel Divinity to maximize the damage of thunder and fire spells.
+* Zeal Domain
 * Strength Domain
 * Ambition Domain
 * Solidarity Domain
+* Inquisition Domain
+* Night Domain
+* Eldritch Domain
+* Grave Domain
+* Arcana Domain
 * Order Domain
-* Inquisition Domain - Inquisition Clerics focus on being frontline melee combatants specialized in shutting down enemy spellcasters. Their class features include similar benefits to the Mageslayer feat, they deal extra damage to enemies concentrating on spells, and they can apply protective boons to their companions to resist enemy spells.
+* Twilight Domain
 
 ## Druid
 
@@ -125,6 +136,11 @@ New subclasses:
 
 Druids always have Speak With Animals prepared. They gain find familiar and flock of familiar at the appropriate levels. The Goodberry spell is buffed. Shilelagh is more powerful, is a permanent effect, and applies to a wider variety of weapons. Animal summons are improved. While Druids may not have many subclasses added, they are significantly better in Listo.
 
+New Subclasses:
+
+* Circle of Stormchasers
+* Circle of Winter
+
 ## Fighter
 
 Eldritch Knight weapon bonds are permanent, similar to Warlock Pact of the Blade weapon bonds. You no longer need to remember to redo your bond every morning.
@@ -132,12 +148,13 @@ Eldritch Knight weapon bonds are permanent, similar to Warlock Pact of the Blade
 New Subclasses:
 
 * Banneret (Purple Dragon Knight) - The Banneret is focused on being a battlefield commander. Their abilities include directing their allies to make extra attacks and improving the potential of other melee allies around them.
-* Arcane Archer - The Arcane Archer uses Intelligence to imbue their ranged attacks with magical effects. These can increase damage, temporarily banish targets, bind foes, and other abilities.
+* Brute
 * Rune Knight (with Inscribe Once QoL optional file) - The Rune Knight uses the power of magic runes to improve their potential. Their options and number of benefits increase with their level. They choose a number of runes to inscribe, which come with benefits in and out of combat such as advantage on certain skills, or triggers to deal extra damage. They can also make themselves (temporarily) bigger.
 * Samurai - Samurai are focused on being relentless combatants. They have a limited number of charges per day to grant themselves advantage on all attacks for a turn, plus temporary HP. They can forego advantage to make additional attacks, having the highest potential attacks-per-turn of any fighter.
 * Cavalier - While mounts, and therefore mounted combat, does not exist in BG3, the Cavalier is able to fight with the spirit of a knightly heavy cavalry. The Cavalier has boosts to their speed and attacks that allow them to charge across great distances to smack foes. They can also inspire greater mobility among teammates.
 * Echo Knight (with RAW Progression optional file) - Echno Knight is a weird class. You make a shadowy copy of yourself, and can attack using your own body or using your doppleganger.
 * Psi Warrior - like the Eldritch Knight and Arcane Archer, the Psi Warrior uses Intelligence as a hybrid combat caster. The Psi Warrior focuses on empowering their attacks with extra psychic damage and psi abilities.
+* Cavalier
 
 ## Monk
 
@@ -161,6 +178,7 @@ New Subclasses:
 
 * Oath of Zeal - Zeal Paladins use their fervor to increase their own speed as well as to inspire allies.
 * Oath of Conquest - Conquest Paladins focus on overwhelming their enemies and crushing their spirit. They use fear and terror, and react to missed attacks with furious retribution.
+* Oath of the Bleak Walkers
 
 ## Ranger
 
@@ -168,45 +186,54 @@ New Subclasses:
 
 New Subclasses:
 
-* Swarmkeeper
-* Monster Slayer
-* Horizon Walker
 * Fey Wanderer
+* Horizon Walker
+* Monster Slayer
+* Primeval Guardian
 
 ## Rogue
 
 [Second-Story Work Dexterity Jump](https://www.nexusmods.com/baldursgate3/mods/6331) changes the benefit of Second-Story Work to allow your jump to scale based on your Dexterity, instead of Strength.
 
+New Subclasses:
+
+* Grim Surgeon
+* Misfortune Bringer
+* Debonaire
+
 ## Sorcerer
 
-[Tides of Chaos Recharge](https://www.nexusmods.com/baldursgate3/mods/11625) changes ToC to reset after a wild magic surge is caused, allowing you to use it multiple times per long rest (and risk multiple surges throughout the day as a result). [Metamagic Extended](https://www.nexusmods.com/baldursgate3/mods/405) implements more metamagic options from the tabletop game. The metamagic to change the damage type of your spell requires activating the metamagic, and then selecting an element out of the new pop-up options. Expand the section of your hotbar that has metamagic in it to see the new options. [Draconic bloodline sorcerers](https://www.nexusmods.com/baldursgate3/mods/13563) have significantly more options now.
+[Tides of Chaos Recharge](https://www.nexusmods.com/baldursgate3/mods/11625) changes ToC to reset after a wild magic surge is caused, allowing you to use it multiple times per long rest (and risk multiple surges throughout the day as a result). [Metamagic Extended](https://www.nexusmods.com/baldursgate3/mods/405) implements more metamagic options from the tabletop game. The metamagic to change the damage type of your spell requires activating the metamagic, and then selecting an element out of the new pop-up options. Expand the section of your hotbar that has metamagic in it to see the new options. [Draconic bloodline sorcerers](https://www.nexusmods.com/baldursgate3/mods/13563) have significantly more options now. Othe rmods improve shadow magic, metamagic, and tides of chaos.
 
 New Subclasses:
 
 * Aberrant Mind - These Sorcerers overlap with GOO Warlocks in many ways. They cause fear on spell attack crits, and at higher levels can use their sorcery points to cast a number of great Warlock spells.
-* Shadow Sorcery - Shadow Sorcerers are immune to the Shadowcurse, can see in magical darkness, and can use their sorcery points for necromancy spells.
 * Favored Soul - Favored Souls are a hybrid Cleric-Sorcerer. They pick a Cleric domain and gain a number of bonus spells from that domain, and are the only sorcerers with access to healing spells.
 
 ## Warlock
 
-[Invocations Expanded](https://www.nexusmods.com/baldursgate3/mods/13234) adds more invocation options from the published books.
+[Invocations Expanded](https://www.nexusmods.com/baldursgate3/mods/15872) adds more invocation options from the published books.
 
 New Subclasses: 
 
 * The Undead - The Undead is able to adopt the visage of their undead patron (such as a vampire or mummy) for temporary HP and limited powers.
 * The Celestial - The Celestial is a Warlock with access to healing spells, and charges that can be spent on a unique healing ability.
+* The Genie
+* The Fathomless
 
 ## Wizard
 
 * Hierophant - Hierophants are Wizards with limited imitation of Cleric abilities, including healing spells and the ability to shelter those they heal from further harm.
-* Bladesinger - Bladesingers are melee wizards who combine casting with swords.
 * Hexcraft - Hex Wizards are pseudo-Warlocks. They learn less Wizard spells over their career, but fill the gap by being able to learn Warlock spells and Warlock invocations.
+* Graviturgy
+* Hedge Mage
 
 ## Brand New Classes
 
 * [Artificer](https://www.nexusmods.com/baldursgate3/mods/1779), and all subclasses.
 * [Mystic](https://www.nexusmods.com/baldursgate3/mods/2786).
 * Mesmerist
+* [Mesmerist](https://www.nexusmods.com/baldursgate3/mods/11854)
 
 # New and Changed Equipment
 
