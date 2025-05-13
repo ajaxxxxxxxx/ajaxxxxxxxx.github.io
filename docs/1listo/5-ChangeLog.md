@@ -15,6 +15,11 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v5.1.1 (WIP)
+Save safe? Yes* (if you are a Grave Domain cleric, respec into something else, then update, then respec back)
+
+1. REMOVED Hav's version of Grave Domain because it's in 5e Cleric Subclasses now.
+
 ## Listonomicon v5.1
 Save safe? No. (in theory I would recommend manually updating Listo Patches and Tweaks, the Listo Master Spells Patch, zzz_ListoModSettings, and leaving the rest alone)
 
