@@ -19,6 +19,7 @@ description: Update info
 Save safe? Yes* (if you are a Grave Domain cleric, respec into something else, then update, then respec back)
 
 1. REMOVED Hav's version of Grave Domain because it's in 5e Cleric Subclasses now.
+2. Attempting a new approach with balancing later Act 2 / Act 3: Directly editing the boosts that govern enemy difficulty (by category/type/archetype) instead of relying on Combat Extender completely.
 
 ## Listonomicon v5.1
 Save safe? No. (in theory I would recommend manually updating Listo Patches and Tweaks, the Listo Master Spells Patch, zzz_ListoModSettings, and leaving the rest alone)
