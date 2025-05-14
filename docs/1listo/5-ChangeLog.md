@@ -25,6 +25,8 @@ Save safe? Yes* (if you are a Grave Domain cleric, respec into something else, t
 5. Made Goliaths slightly smaller (x1.1 scale instead of x1.16 scale).
 6. Entangle is now an attack (deals damage as long as you hit), but the entangle effect itself has a Strength saving throw (no more free entangling everyone with a cantrip).
 7. ADDED spells from all spell mods in Listo as options for Artificers!
+8. RE-ADDED AUto Use Soap and Auto Send Food to Camp.
+9. ADDED Fix Jump-Fly Shortcut.
 
 ## Listonomicon v5.1
 Save safe? No. (in theory I would recommend manually updating Listo Patches and Tweaks, the Listo Master Spells Patch, zzz_ListoModSettings, and leaving the rest alone)
