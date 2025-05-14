@@ -27,6 +27,7 @@ Save safe? Yes* (if you are a Grave Domain cleric, respec into something else, t
 7. ADDED spells from all spell mods in Listo as options for Artificers!
 8. RE-ADDED AUto Use Soap and Auto Send Food to Camp.
 9. ADDED Fix Jump-Fly Shortcut.
+10. Updated CX to remove the dumb bonus action water spell attack a bunch of enemies had.
 
 ## Listonomicon v5.1
 Save safe? No. (in theory I would recommend manually updating Listo Patches and Tweaks, the Listo Master Spells Patch, zzz_ListoModSettings, and leaving the rest alone)
