@@ -22,7 +22,9 @@ Save safe? Yes* (if you are a Grave Domain cleric, respec into something else, t
 2. Attempting a new approach with balancing later Act 2 / Act 3: Directly editing the boosts that govern enemy difficulty (by category/type/archetype) instead of relying on Combat Extender completely.
 3. Another pass to easy, normal, and hard Combat Extender to remove some issues that might cause crashing, and to sprinkle out some more abilities (Shadowy Retreat and Finishing Strike).
 4. REMOVED the Bladesong Garment from loot tables, it is now a cosmetic only item to apply via transmog (though if you already found any pieces, they will stay in your inventory after updating).
-5. Made Goliaths slightly smaller (x1.1 scale instead of x1.16 scale)
+5. Made Goliaths slightly smaller (x1.1 scale instead of x1.16 scale).
+6. Entangle is now an attack (deals damage as long as you hit), but the entangle effect itself has a Strength saving throw (no more free entangling everyone with a cantrip).
+7. ADDED spells from all spell mods in Listo as options for Artificers!
 
 ## Listonomicon v5.1
 Save safe? No. (in theory I would recommend manually updating Listo Patches and Tweaks, the Listo Master Spells Patch, zzz_ListoModSettings, and leaving the rest alone)
