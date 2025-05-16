@@ -15,6 +15,22 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v5.2 DCMA Compliant Edition
+Save safe? No.
+
+Due to a DCMA takedown being filed against one mod that Listonomicon included, the following armor sets had to be removed:
+* Brazen Bull
+* Sins of the Confessor
+* Beauty in Sin
+* Ursa Nopctua
+* Sins of Ambition
+* Oaken Keeper
+* Jeweled Weaver
+
+As a result, this update is not save safe because the armor is being removed from the game and your save data won't like that. On an unrelated note, I want to remind all users that any mod in MO2 that has [NoDelete] at the start of it's name (for example "[NoDelete] Mod That I Don't Want To Lose") will not be removed by Wabbajack when updating. Also nothing in Listo's patch related to rebalancing or changing the loot location of any armors is affected by DCMA.
+
+Also updated Auto Send Food to Camp, Fix Jump-Fly Shortcut, Automated Summons, Smart Autosaving, and Extra Encounters and Minibosses.
+
 ## Listonomicon v5.1.1 Hotfix
 Save safe? Yes* (if you are a Grave Domain cleric, respec into something else, then update, then respec back)
 
