@@ -15,6 +15,13 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v6 Ultimate Ultimate NPC Stat Overhaul Edition (WIP)
+Save safe? No.
+
+1. REDUCED the damage of everything smokepowder.
+2. Tweaks to Fang of Boitata to make it behave like a pike (hopefully).
+3. Big changes once again to all enemy stats between Combat Extender, and v2.0 of the Ultimate NPC Stat Overhaul (UNSO). UNSO provides more depth and flexibility to modifying enemies plus provides class features to enemies similar to what player characters of their level would have. It also normalizes/standardizes a lot of stuff like making sure all elves have Fey Ancestry, making sure all drow can see in the dark, etc. The CX edits are top-to-bottom to update to UNSO 2.0 features and to remove dozens of problematic or now redundant entries. Hopefully less crashing and issues now!
+
 ## Listonomicon v5.2 DCMA Compliant Edition
 Save safe? No.
 
