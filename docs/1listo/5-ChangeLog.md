@@ -21,6 +21,12 @@ Save safe? No.
 1. REDUCED the damage of everything smokepowder.
 2. Tweaks to Fang of Boitata to make it behave like a pike (hopefully).
 3. Big changes once again to all enemy stats between Combat Extender, and v2.0 of the Ultimate NPC Stat Overhaul (UNSO). UNSO provides more depth and flexibility to modifying enemies plus provides class features to enemies similar to what player characters of their level would have. It also normalizes/standardizes a lot of stuff like making sure all elves have Fey Ancestry, making sure all drow can see in the dark, etc. The CX edits are top-to-bottom to update to UNSO 2.0 features and to remove dozens of problematic or now redundant entries. Hopefully less crashing and issues now!
+4. ADDED Illithid Powers Consolidated.
+5. ADDED Theif's Trinkets, and hid them somewhere in Act 2.
+6. ADDED Randomized Equipment Loot again, this time experimenting with the Script Extender powered addition.
+7. ADDED Thronsong Bow, placed it somewhere secret, tweaked the quiver to be something special.
+8. ADDED Cazador - True Vampire Lord of the Gate (NPC appearance change).
+9. Tweaked Ghaikskin armor to actually be armor (hopefully).
 
 ## Listonomicon v5.2 DCMA Compliant Edition
 Save safe? No.
