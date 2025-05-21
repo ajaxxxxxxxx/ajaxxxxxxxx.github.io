@@ -27,6 +27,7 @@ Save safe? No.
 7. ADDED Thronsong Bow, placed it somewhere secret, tweaked the quiver to be something special.
 8. ADDED Cazador - True Vampire Lord of the Gate (NPC appearance change).
 9. Tweaked Ghaikskin armor to actually be armor (hopefully).
+10. Updated Listo's patch and Degreaser to comply with UNSO v2.0. So many stat entry edits, so little time.
 
 ## Listonomicon v5.2 DCMA Compliant Edition
 Save safe? No.
