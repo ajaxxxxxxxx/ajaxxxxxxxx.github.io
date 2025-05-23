@@ -33,6 +33,7 @@ Save safe? No.
 13. REMOVED Hedge Mage because Havs's mods don't play well together and I'd rather keep Graviturgy.
 14. ADDED Dawnstar's Telekinetic Spells. Added a saving throw to Telekinetic Bolt and added the spells to Artificer.
 15. Moved several cosmetics-only equipment mods to the cosmetics section to prepare for future Listo Lite versions.
+16. Updated to the latest version of Zino's BG3-MO2 plugin + updated lots and lots of mods.
 
 ## Listonomicon v5.2 DCMA Compliant Edition
 Save safe? No.
