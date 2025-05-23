@@ -29,6 +29,7 @@ Save safe? No.
 9. Tweaked Ghaikskin armor to actually be armor (hopefully).
 10. Updated Listo's patch and Degreaser to comply with UNSO v2.0. So many stat entry edits, so little time.
 11. ADDED More Firewine Kobolds. Hehe.
+12. ADDED Unwashed Aesthetics, hopefully improving the art direction for a lot of NPCs (less Goku hair on Gith, more beards on dwarves, etc).
 
 ## Listonomicon v5.2 DCMA Compliant Edition
 Save safe? No.
