@@ -32,6 +32,7 @@ Save safe? No.
 12. ADDED Unwashed Aesthetics, hopefully improving the art direction for a lot of NPCs (less Goku hair on Gith, more beards on dwarves, etc).
 13. REMOVED Hedge Mage because Havs's mods don't play well together and I'd rather keep Graviturgy.
 14. ADDED Dawnstar's Telekinetic Spells. Added a saving throw to Telekinetic Bolt and added the spells to Artificer.
+15. Moved several cosmetics-only equipment mods to the cosmetics section to prepare for future Listo Lite versions.
 
 ## Listonomicon v5.2 DCMA Compliant Edition
 Save safe? No.
