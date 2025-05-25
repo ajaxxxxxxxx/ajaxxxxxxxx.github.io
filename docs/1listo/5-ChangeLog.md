@@ -35,6 +35,7 @@ Save safe? No.
 15. Moved several cosmetics-only equipment mods to the cosmetics section to prepare for future Listo Lite versions.
 16. Updated to the latest version of Zino's BG3-MO2 plugin + updated lots and lots of mods.
 17. REMOVED Half-Tiefs to see if it solves the 93% load hang issue for users.
+18. ADDED 2 extra ways to get noblestalk to the Underdark, so that you can do the mini-quest, unlock Shadowheart's memories, unlock Durge's memories, or actually use it to recover from a spell effect, without missing out. Of course you have to find the extras :)
 
 ## Listonomicon v5.2 DCMA Compliant Edition
 Save safe? No.
