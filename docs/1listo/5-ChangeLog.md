@@ -24,8 +24,8 @@ Save safe? No.
 4. ADDED Illithid Powers Consolidated.
 5. ADDED Theif's Trinkets, and hid them somewhere in Act 2.
 6. ADDED Randomized Equipment Loot again, this time experimenting with the Script Extender powered addition.
-7. ADDED Thronsong Bow, placed it somewhere secret, tweaked the quiver to be something special.
-8. ADDED Cazador - True Vampire Lord of the Gate (NPC appearance change).
+7. ADDED Thornsong Bow, placed it somewhere secret, tweaked the quiver to be something special.
+8. ADDED Cazador - True Vampire Lord of the Gate (NPC appearance change). Also updated Cazador's stats and CX config.
 9. Tweaked Ghaikskin armor to actually be armor (hopefully).
 10. Updated Listo's patch and Degreaser to comply with UNSO v2.0. So many stat entry edits, so little time.
 11. ADDED More Firewine Kobolds. Hehe.
@@ -36,11 +36,18 @@ Save safe? No.
 16. Updated to the latest version of Zino's BG3-MO2 plugin + updated lots and lots of mods.
 17. REMOVED Half-Tiefs to see if it solves the 93% load hang issue for users.
 18. ADDED 2 extra ways to get noblestalk to the Underdark, so that you can do the mini-quest, unlock Shadowheart's memories, unlock Durge's memories, or actually use it to recover from a spell effect, without missing out. Of course you have to find the extras :)
+19. Revised numerous fights across Act 1 based on changes to UNSO v2.0+, Goon's Passive Library, Cahoot mods, and everything else that has changed/improved/rebalanced the environment.
+20. Changed the "petrified" status to cause vulnerability to thunder, bludgeoning, and acid damage.
+21. Revised enemy access to fireworks, replaced the generic infinite firework ability with one that A) has a single use only B) requires the NPC to be below a certain amount of HP before they get desperate enough to start throwing fireworks at the player.
+22. Added an ability to ogres to throw a firewine barrel at the player, which may have a surprise inside. Hehe.
+23. Enemies (and actually all NPCs) now fall into a huge number of very specific categories/labels. In the vanilla game, all spell casters are basically wizards or clerics and that's it. Now, enemy spell casters are specifically identified as "Magic Enemy" (the most broad category), "Wizard," "Sorcerer," or "Warlock" (with spell lists and features you would expect specific to each), and then within those categories enemies may be further defined as any Wizard school, draconic/wild/tempest sorcerer, or GOO/Archfey/Fiend warlock (with further features and spell lists as you would expect). Clerics can be Light/Life/Knowledge/Nature/etc, enemy Druids are Moon/Spore/etc (with Spore druids even using their fungal form correctly!). Enemy Paladins can be different Oaths, Battle Master vs Eldritch Knight fighters are substantially distinct, there's even differentiation for Swords vs Valor vs Lore Bards. In other words, the world of Faerun now feels like every important NPC was designed to look and act like a Player Character with enough spice on top to be interesting encounters/challenges/allies/foes to you; and every less important NPC has at least been thoroughly refreshed to comply with rules and expectations they previously lacked.
+24. Did my best to prune/update/revise/fix/remove excessive CX changes and replace them with more cohesive, fun, sensible solutions.
+25. REMOVED Dammon's Soul Coin weapons.
 
-## Listonomicon v5.2 DCMA Compliant Edition
+## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
 
-Due to a DCMA takedown being filed against one mod that Listonomicon included, the following armor sets had to be removed:
+Due to a DMCA takedown being filed against one mod that Listonomicon included, the following armor sets had to be removed:
 * Brazen Bull
 * Sins of the Confessor
 * Beauty in Sin
