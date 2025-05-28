@@ -1,0 +1,141 @@
+---
+layout: default
+title: FAQ
+nav_order: 6
+description: Frequently Asked Questions
+---
+
+# Listonomicon - Player FAQ
+
+## General
+
+### Q: What is Listonomicon?
+A: Listonomicon (or "Listo") is a Wabbajack/MO2-powered mod list for Baldur's Gate 3 (BG3). It aims to add more content, depth, challenge, and variety to the game, building upon the vanilla Tactician Difficulty/Honour Mode Ruleset. It includes new encounters, mechanics, races, classes, spells, and equipment, while also enhancing enemies by giving them access to vanilla abilities they normally lack, and by giving them access to some of the new spells, class features, and abilities available for players. Many QoL enhancements are also included, as well as tweaked vanilla mechanics to resolve annoying "Larianisms" where possible without sacrificing everything Larian did well.
+
+### Q: Who is Listonomicon for?
+A: Listonomicon is for players familiar with BG3 who are looking for an overhauled experience with more D&D elements. It's balanced for a party of 4-6 heroes with a level cap of 20. It is not recommended for a first playthrough.
+
+### Q: What if I want a lighter modlist or a different overhaul?
+A: For a more lightweight list to build upon, Listo recommends Reyqune's BG3 Enhanced Edition. For a different comprehensive overhaul, you could look at the Difficulty, Immersion, Quality (DIQ) Nexus Collection. For a "kitchen sink" compilation with maximum content, Infinite Pathways is an option.
+
+### Q: Can I customize Listonomicon?
+A: While you can add or remove mods using MO2, no support is offered for customized versions of Listonomicon. If you customize and play multiplayer, ensure your mod list and load order are identical to your friend's.
+
+### Q: Where can I get help if I have issues?
+A: First, ensure you've followed the installation guide, including a fresh BG3 install and grabbing the prequisities. Check the official FAQ and documentation. If your issue persists, join the Discord, look through existing resources (pins, announcements, search), and then post in the appropriate help or bug report channel. Do **not** ask for Listo-specific help in general BG3 Discords or on individual mod pages, mod authors uninvolved in Listonomicon do not want to deal with Listonomicon questions/issues.
+
+## Installation
+
+### Q: What are the main requirements to install Listonomicon?
+A: You'll need:
+    * Around 60 GB of disk space (some reclaimable after install).
+    * A legal copy of Baldur's Gate 3, launched at least once vanilla.
+    * Wabbajack installed.
+    * A Nexus account (Premium is recommended for speed).
+    * Specific versions of Microsoft Visual C++ x64 and .NET Runtimes (8.x.x Desktop x64 and 6.0 Desktop x64) installed.
+
+### Q: Do I need to install Mod Organizer 2 (MO2) or BG3 Mod Manager separately?
+A: **No.** A portable instance of MO2 comes with the Listonomicon Wabbajack download. You do not need the standalone BG3 Mod Manager, BG3 Script Extender (it's pre-packaged), or Vortex.
+
+### Q: What are the key steps for installing Listonomicon?
+A:
+    1.  Read all requirements carefully, especially the Visual C++ and .NET installations.
+    2.  **Highly Recommended**: "Nuke" your BG3 installation by completely uninstalling it, deleting the game folder, and deleting the `%localappdata%\Larian Studios` folder. Reinstall BG3, preferably not in a default Steam location like `Program Files (x86)` but closer to the root of your drive (e.g., `D:/Games/BG3/...`).
+    3.  Launch the freshly installed vanilla BG3 once to the main menu to generate necessary folders.
+    4.  Create a Listonomicon installation folder (e.g., `D:/Listonomicon`).
+    5.  Find Listonomicon on the Wabbajack gallery. If you want a specific Listo version, find the appropriate `Listonomicon.wabbajack` on the Listo Nexus page. You can also grab a copy of `Listonomicon LITE.wabbajack` from Nexus, which is a smaller Listo download with cosmetic mods excluded.
+    6.  Configure Steam to "Only Update This Game When I Launch It" for BG3 and avoid launching BG3 through Steam.
+    7.  Launch ModOrganizer.exe from the folder where you installed Listonomicon. Verify the profile at the top says "Listonomicon v[whatever version you are trying to play]" and that the active mod count matches the info on the Listo install instructions page.
+    8.  Launch the game (Vulkan or DX11) through MO2.
+
+### Q: What if I install Listo on a different drive than BG3 and the game doesn't launch?
+A: In MO2, go to the puzzle pieces icon (Tools) -> Rootbuilder -> Open Rootbuilder. On the first page, change the mode from “Link” to “Copy”. You will have to repeat this step after updating Listo.
+
+### Q: What in-game settings are crucial?
+A: You **must** change "Animation Level of Detail" to "High" in your Visual Settings to avoid visual bugs with modded heads. Other graphics settings can be adjusted to your PC's performance.
+
+### Q: How should I start a new campaign for the intended experience?
+A:
+    1.  Start a new game on **Custom Difficulty**.
+    2.  In the Custom Difficulty menu, click "Restore Default".
+    3.  **CRITICAL:** change the "Ruleset" at the top from Normal to **Honour**. Failure to do this will prevent many Listo features from working, and you won't be able to equip magic items.
+
+### Q: My hotbar looks weird/some abilities are missing! How do I fix it?
+A: Depending on your monitor setup, you might need to slide the red dividers on your hotbar to the left to unlock its full space. See the gif on the install page.
+
+### Q: How do I update Listonomicon?
+A: Point Wabbajack to your existing Listonomicon installation location, an enable the option to overwrite. Wabbajack will only download changed or new mods unless you have deleted the `downloads` folder. After updating, delete the `Overwrites` folder in your Listonomicon install folder. You can also clear the Overwrite in MO2 by right-clicking the red "Overwrite" text at the bottom of your mods list, and select "Clear Overwrite".
+
+## Gameplay & Balance
+
+### Q: What is "Attunement" in Listonomicon?
+A: Attunement limits the number of powerful magic items a character can use simultaneously. Each character can be attuned to a maximum of 5 items. Additionally, there are limits on how many items of a certain rarity (Rare, Very Rare, Legendary) you can equip, with further restrictions on armor and accessory slots for Very Rare and Legendary items. Generic +1/+2 gear, adamantine items, and weaker/niche items generally do not require attunement.
+
+### Q: How is combat different in Listonomicon?
+A: Listonomicon uses mods like "More Enemies in Basic Fights", "Encounters Overhaul", and "Vulkrana's Undead Encounters" to add more enemies and new encounters. Combat Extender (CX) is used to give enemies (including those from mods) new spells, abilities, class features, feats, and magic item effects, mirroring player enhancements. Early game encounters (pre-Blighted Village) are somewhat nerfed or redesigned for a smoother start, but later encounters are more challenging. Act 3, in particular, has significantly buffed enemies and bosses.
+
+### Q: What party size is recommended?
+A: 4 to 6 party members. Using more will decrease difficulty, fewer will increase it. Be aware that having more than 4 party members can cause issues with some in-game events (e.g. riding boats to Grymforge) or characters falling off elevators.
+
+### Q: How does Initiative work?
+A: Initiative is rolled as d8 + dexterity modifier + bonuses. This can be changed via the Mod Configuration Menu (MCM).
+
+### Q: How can I adjust the difficulty?
+A:
+    * **Easier**:
+        1.  In Custom Difficulty settings, reduce the trader price penalty (e.g., to x3.5) and camp supply cost.
+        2.  Use the "Easy CombatExtender.json" file by renaming the existing `CombatExtender.json` in `[Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG` and then renaming `Easy CombatExtender.json` to `CombatExtender.json`.
+    * **Harder**:
+        1.  Enable optional mods like "Absolute Wrath" and/or "Champions of Faerun".
+        2.  Use the "Hard CombatExtender.json" file similarly by renaming it to `CombatExtender.json`.
+        3.  Consider enabling "Deadlier Honour Mode (DHM) Bosses and Encounters" for very challenging optional content.
+
+### Q: What is the Mod Configuration Menu (MCM)?
+A: The MCM allows you to tweak settings for various mods. You can access it by pausing the game and selecting the MCM option, or by pressing the semicolon key (`;`). You may need to save and reload a new game once for it to become fully functional.
+
+## Spells, Feats, Classes & Items
+
+### Q: Are there new spells in Listonomicon?
+A: Yes, many. Listonomicon includes spells from "5e Spells," "Homebrew Spells," "Spells Extra," a patched version of "PF2e Spells," "Mystra Spells" (from Mod.io), "Veenab Spells," Dawnstar's "Psychic Spells" and "Water Spells," among others. Many of these are also available to enemies.
+
+### Q: How are existing spells rebalanced?
+A: Spells are rebalanced based on Valdacil's adjustment mods, with additional changes from Syrchalis, Cahoot, and Ajax. Examples:
+    * Hex and Hunter's Mark are cast once to prepare, then a separate "Hex Target" or "Mark Target" ability is used as a bonus action to apply/reapply the effect without using more spell slots.
+    * Shield of Faith lasts until long rest and doesn't require concentration.
+    * Speak with Animals and Longstrider are AoE and last until long rest.
+    * Shillelagh is permanent (cast again to disable the effect) and applies to more weapon types.
+    * Illithid Powers are significantly revamped.
+
+### Q: How do Feats work?
+A: All classes get a feat every 3 levels (3, 6, 9, 12, 15, 18). Fighters, Mesmerists, and Rogues get an additional feat at level 11. Many vanilla feats are rebalanced (e.g., GWM/Sharpshooter, Tough, Durable), and new feats like Arcanist Feat, Essential Feats (War Magic, Deadly Alacrity, Alchemist, etc.), Enweaved, Experimental Alchemy Feat, and Dirty Fighting are added.
+
+### Q: Are there new classes or subclasses?
+A: Yes. Listonomicon adds many new subclasses for existing classes and entirely new classes like Artificer, Mystic, and Mesmerist. All classes/subclasses can be played to level 20 and/or multiclassed:
+    * **Barbarian**: Path of the Zealot, Ancestral Guardian, Storm Herald, Giant, Beast, Battlerager, Juggernaut.
+    * **Bard**: College of Eloquence, Dance, Tragedy, Whispers.
+    * **Cleric**: Zeal, Strength, Ambition, Solidarity, Inquisition, Night, Eldritch, Grave, Arcana, Order, Twilight Domains.
+    * **Druid**: Circle of Stormchasers, Winter. Plus QoL for Wildshape and Spores.
+    * **Fighter**: Banneret, Brute, Rune Knight, Samurai, Cavalier, Echo Knight, Psi Warrior.
+    * **Monk**: Way of the Long Death, Astral Self, Sun Soul, Ascendant Dragon, Kensei, Drunken Master, Mercy.
+    * **Paladin**: Oath of Zeal, Conquest, Bleak Walkers. Start as Oathbreaker option.
+    * **Ranger**: Fey Wanderer, Horizon Walker, Monster Slayer, Primeval Guardian.
+    * **Rogue**: Grim Surgeon, Misfortune Bringer, Debonaire.
+    * **Sorcerer**: Aberrant Mind, Favored Soul. More Draconic options, Metamagic Extended.
+    * **Warlock**: The Undead, Celestial, Genie, Fathomless. Invocations Expanded.
+    * **Wizard**: Hierophant, Hexcraft, Graviturgy.
+
+### Q: How is Wild Magic affected?
+A: Wild Magic Sorcerers and Barbarians have access to more effects (over 220+ total from multiple mods). Surge risk for Sorcerers increases by 5% per spell cast in combat until a surge, which then recharges Tides of Chaos. If Volo dies, all magic becomes wild magic. Many enemies use Wild Magic-adjacent mechanics like magic allergy or Controlled Chaos.
+
+### Q: What changes are there to equipment and economy?
+A:
+    * Many vanilla items are rebalanced or improved. Some good/evil playthrough locked items are redistributed.
+    * New magic items are added as static loot, quest rewards, for sale on vendors, or on bosses.
+    * Elixirs are rebalanced (e.g., Giant Strength potions are +STR, not Set STR).
+    * Healing Potions are less effective in direct combat (heal over time component).
+    * Gold is harder to accumulate due to lower sell prices, higher buy prices (x4 default), and less gold from quests/loot.
+    * "WiFi Potions" allow you to use healing potions from any party member's inventory by having one of that type on your hotbar.
+    * Food is automatically sent to the camp chest.
+    * Withers is a merchant for dyes, camp clothes, and miscellaneous items, and has 50,000 gold.
+
+This FAQ should cover many common questions. For more detailed information, please refer to the full documentation on the relevant Listo page and join the Discord community.
