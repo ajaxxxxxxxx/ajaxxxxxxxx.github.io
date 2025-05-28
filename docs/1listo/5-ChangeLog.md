@@ -51,6 +51,10 @@ Save safe? No.
 31. REMOVED Visual Paladin Auras.
 32. Made Carrion, Cazador, Sarevok more powerful with necromancy effects.
 33. Made Death Knights better, gave them Conquering Presence.
+34. ADDED Syrchalis's Rebalance of Gear, and removed several rebalance mods that are now redundant/irrelevent.
+35. ADDED Companion Gale Can Consume Shadow Weave.
+36. ADDED Inferna Victoria.
+37. Completely redid Attunement settings, changing which items require attunement and what the rarity of each item is.
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
