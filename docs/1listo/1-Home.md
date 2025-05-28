@@ -102,9 +102,7 @@ The easiest way to get in touch with us is to join our Discord. Make sure to ver
 
 <img align="center" src="https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/yourbrain.png"/>
 
-# Frequently Asked Questions
-
-## General
+## Frequently Asked Questions
 
 ### Q: What is Listonomicon?
 A: Listonomicon (or "Listo") is a Wabbajack/MO2-powered mod list for Baldur's Gate 3 (BG3). It aims to add more content, depth, challenge, and variety to the game, building upon the vanilla Tactician Difficulty/Honour Mode Ruleset. It includes new encounters, mechanics, races, classes, spells, and equipment, while also enhancing enemies by giving them access to vanilla abilities they normally lack, and by giving them access to some of the new spells, class features, and abilities available for players. Many QoL enhancements are also included, as well as tweaked vanilla mechanics to resolve annoying "Larianisms" where possible without sacrificing everything Larian did well.
