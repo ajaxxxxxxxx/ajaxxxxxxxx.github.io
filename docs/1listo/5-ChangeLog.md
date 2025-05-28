@@ -44,6 +44,13 @@ Save safe? No.
 24. Did my best to prune/update/revise/fix/remove excessive CX changes and replace them with more cohesive, fun, sensible solutions.
 25. REMOVED Dammon's Soul Coin weapons.
 26. REMOVED (optional) 7 Days to Die / Countdown to Ceremorphosis Mod. After play testing Listo, there's no way in hell people are rolling through the majority of Act 1 without burning too many Long Rests to the point that the kind of person who wants this challenge can go add the mod for themselves.
+27. Made sure Sarevok is undead, and immune to control undead / other CC / has undead immunities. Gave Sarevok Bulette Diamond Scales and Vecna's eye.
+28. Nerfed Bulette Diamond Scales slightly (damage threshold is slightly reduced making it easier to harm + no longer resistant to acid damage).
+29. Added graviturgy wizard spells to Artificers.
+30. Changed the obnoxious Act 3 "Unstoppable" effect to instead be a damage reduction effect + minimum damage threshold effect (similar to Diamond Scales), instead of a damage immunity effect.
+31. REMOVED Visual Paladin Auras.
+32. Made Carrion, Cazador, Sarevok more powerful with necromancy effects.
+33. Made Death Knights better, gave them Conquering Presence.
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
