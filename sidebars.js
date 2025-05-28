@@ -67,7 +67,6 @@ const sidebars = {
     '1listo/GameBalance',
     '1listo/SpellsFeatsClassesItems',
     '1listo/ChangeLog',
-    '1listo/FAQ',
   ],
 };
 
