@@ -55,6 +55,14 @@ Save safe? No.
 35. ADDED Companion Gale Can Consume Shadow Weave.
 36. ADDED Inferna Victoria.
 37. Completely redid Attunement settings, changing which items require attunement and what the rarity of each item is.
+38. ADDED Graviturgy Wizard Compat Patch.
+39. ADDED Common Actions Consolidated.
+40. ADDED Bard Flourishes Consolidated.
+41. ADDED Basic Weapon Actions Consolidated.
+42. ADDED Battle Master Manoeuvres Consolidated.
+43. ADDED Skill Actions Consolidated.
+44. ADDED Mycellia's Backpack.
+45. ADDED Ketheric Makeover.
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
