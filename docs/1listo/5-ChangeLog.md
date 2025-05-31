@@ -63,6 +63,10 @@ Save safe? No.
 43. ADDED Skill Actions Consolidated.
 44. ADDED Mycellia's Backpack.
 45. ADDED Ketheric Makeover.
+46. ADDED Hijimare's hair to hopefully fix Viconia's bald ass head.
+47. Buffed Ryujjin and made it sligihtly earlier to access.
+48. Nerfed the Thundergod Bow again, for real this time, and moved where/how it's acquired.
+49. Redid all attunement selections.
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
