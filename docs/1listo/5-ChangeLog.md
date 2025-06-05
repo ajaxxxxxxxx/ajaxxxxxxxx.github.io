@@ -86,6 +86,8 @@ Save safe? No.
 66. ADDED Reworked Steel Watcher Explosions (Mod.io).
 67. ADDED Justice for Sorrow.
 68. ADDED Frozen Soul Sorcerer Subclass (and Chiz's CF patch).
+69. REMOVED Zerd's Raw.
+70. Fixed (I hope) Bestow Curse and Hunter's Mark.
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
