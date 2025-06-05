@@ -88,6 +88,9 @@ Save safe? No.
 68. ADDED Frozen Soul Sorcerer Subclass (and Chiz's CF patch).
 69. REMOVED Zerd's Raw.
 70. Fixed (I hope) Bestow Curse and Hunter's Mark.
+71. ADDED Arcane Shots Consolidated (saving alllll the hotbar space!).
+72. ADDED Knights and Dames (Mod.io) but removed the items from the actual game - these are included as cosmetic options only in Listo.
+73. ADDED Duke Ravengard Redone and Counsellor Florrick Redone.
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
