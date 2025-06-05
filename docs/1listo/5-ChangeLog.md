@@ -84,6 +84,8 @@ Save safe? No.
 64. ADDED Migraine's Treasures (Mod.io).
 65. ADDED Otherworldy Boons (Mod.io).
 66. ADDED Reworked Steel Watcher Explosions (Mod.io).
+67. ADDED Justice for Sorrow.
+68. ADDED Frozen Soul Sorcerer Subclass (and Chiz's CF patch).
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
