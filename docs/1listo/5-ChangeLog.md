@@ -67,6 +67,23 @@ Save safe? No.
 47. Buffed Ryujjin and made it sligihtly earlier to access.
 48. Nerfed the Thundergod Bow again, for real this time, and moved where/how it's acquired.
 49. Redid all attunement selections.
+50. ADDED Temi Sword (Mod.io).
+51. ADDED Granny Immersive Weapons (Mod.io).
+52. ADDED Granny Druid Rewards (Mod.io).
+53. ADDED Cloaks of Faerûn (Mod.io).
+54. Created a new "OPTIONAL Easier Mods" section to MO2, right after the optional harder mods, for things that I think are cool and players will enjoy but definitely disrupts the intended experience.
+55. ADDED OPTIONAL Companion Compendium: 50 new creatures, companions, and summons to be found throughout the game (Mod.io).
+56. ADDED OPTIONAL Scratch and Shovel and Us and Everyone Else: A mod which allows these summonables to scale with character level. Unfortunately they're balanced around the vanilla level cap of 12, and thus become exceptionally strong very quickly in Listo.
+57. ADDED Mizora's Rewards, granting all new options to Warlocks. This is in need of more play testing than I have the time or brainpower for, with different combinations of subclasses/feats/abilities/invocations/magic items/etc (Mod.io).
+58. ADDED (Optional) Blessings of the Deities, another challenge mod that makes enemies more dangerous as their HPs diminish (Mod.io).
+59. ADDED Katana of Auril (Mod.io).
+60. ADDED Remixed Subraces (Mod.io).
+61. ADDED Blade of the Gluttonous Prince (Mod.io).
+62. ADDED (Optional) Mother of Spiders (Mod.io).
+63. ADDED Pact of the Shroud.
+64. ADDED Migraine's Treasures (Mod.io).
+65. ADDED Otherworldy Boons (Mod.io).
+66. ADDED Reworked Steel Watcher Explosions (Mod.io).
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
