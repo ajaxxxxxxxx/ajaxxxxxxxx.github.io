@@ -74,7 +74,7 @@ Save safe? No.
 54. Created a new "OPTIONAL Easier Mods" section to MO2, right after the optional harder mods, for things that I think are cool and players will enjoy but definitely disrupts the intended experience.
 55. ADDED OPTIONAL Companion Compendium: 50 new creatures, companions, and summons to be found throughout the game (Mod.io).
 56. ADDED OPTIONAL Scratch and Shovel and Us and Everyone Else: A mod which allows these summonables to scale with character level. Unfortunately they're balanced around the vanilla level cap of 12, and thus become exceptionally strong very quickly in Listo.
-57. ADDED Mizora's Rewards, granting all new options to Warlocks. This is in need of more play testing than I have the time or brainpower for, with different combinations of subclasses/feats/abilities/invocations/magic items/etc (Mod.io).
+57. ADDED Mizora's Rewards, granting all new options to Warlocks. This is in need of more play testing than I have the time or brainpower for, with different combinations of subclasses/feats/abilities/invocations/magic items/etc.
 58. ADDED (Optional) Blessings of the Deities, another challenge mod that makes enemies more dangerous as their HPs diminish (Mod.io).
 59. ADDED Katana of Auril (Mod.io).
 60. ADDED Remixed Subraces (Mod.io).
@@ -92,6 +92,7 @@ Save safe? No.
 72. ADDED Knights and Dames (Mod.io) but removed the items from the actual game - these are included as cosmetic options only in Listo.
 73. ADDED Duke Ravengard Redone and Counsellor Florrick Redone.
 74. ADDED (Optional) Lone Wolf feat for easy mode.
+75. Added the pistol and musket from the Artificer mod to more vendors, ensuring Act 1/2/3 access.
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
