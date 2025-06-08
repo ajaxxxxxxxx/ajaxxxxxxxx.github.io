@@ -67,8 +67,8 @@ BG3 should no longer receive Patches (major updates), but Hotfixes (small update
 ### 6.) Launching MO2
 
 - Your portable instance of Mod Organizer 2 should be ready as soon as Wabbajack is done. Look for ModOrganizer.exe in the folder where you installed Listonomicon. You can verify that everything is working by ensuring that MO2 has defaulted to the correct profile at the top-left, which should be Listonomicon.
-- **Listonomicon: Your total number of active mods should be 637, and the purple seperator at the top should say Listonomicon Listonomicon v5.1.1**
-- **Listonomicon Lite: For Listo Lite, your total active mods should be 442, and the seperator should say Listo Lite v4.3.1.**
+- **Listonomicon: Your total number of active mods should be 669, and the purple seperator at the top should say Listonomicon v6.0**
+- **Listonomicon Lite: For Listo Lite, your total active mods should be 458, and the seperator should say Listono Lite v6.0**
 - At the top-right, you should be able to switch the program to launch the Vulkan or dx11 version of the game.
 - Hit "run" after selecting the EXE that works best for your system. Always launch the game this way (don't use Steam).
 - You can verify Listo's mods are all loaded correctly after install by clicking on the official mod manager and looking at the installed mods tab. Is there a long list with almost everything enabled? Good. Some mods, like overwrites to text, will not show as "Enabled" but will still be working fine.
@@ -83,7 +83,7 @@ You must change **Animation Level of Detail** to **High** in your Visual Setting
 
 ### 8.) Starting A New Campaign
 
-_You should begin a new game on **Custom Difficulty**_ to have the same experience Listonomicon was play tested for. When starting a new campaign, navigate to the right to select Custom Difficulty (it's after Honour Mode). Hit "Restore Default" at the bottom-right in the Custom Difficulty menu, all options should update to Listo's intended settings. The only exception is that **you must manually change the ruleset from Normal to Honour, at the top of Custom Difficulty**. If you do not enable the Honour Ruleset, you will not be able to change it during your campaign. Many intended features of Listo will not work, and you will be unable to equip magic items.
+_You should begin a new game on **Custom Difficulty**_ to have the same experience Listonomicon was play tested for. When starting a new campaign, navigate to the right to select Custom Difficulty (it's after Honour Mode). Hit "Restore Default" at the bottom-right in the Custom Difficulty menu, all options should update to Listo's intended settings. The only exception is that **you must manually change the ruleset from Normal to Honour, at the top of Custom Difficulty**. If you do not enable the Honour Ruleset, you will not be able to change it during your campaign. Many intended features of Listo will not work, and you will not have the complete Listo experience.
 
 :::note
 Please remember to hit "Custom Difficulty" **and set the ruleset at the top to Honour Mode**. This is the only difficulty setting that cannot be changed mid-campaign and you will not have the intended experience without HM's changes to enemies, mechanics, and game rules.
@@ -118,15 +118,18 @@ There are several optional mods packaged with Listonomicon to enable even more f
 
 ### 12.) Optional Difficulty Tweaks
 
-If Listo is too hard, and you'd actually have more fun if it was a little easier, you can make two changes:
+If Listo is too hard, and you'd actually have more fun if it was a little easier, you can make a few changes:
 1. In Custom Difficulty settings, reduce the trade price penalty to x3-x3.5. If you reduce it too much, buying prices become too low and the economy really falls apart. You can reduce the long rest camp supply cost to a lower number, whatever you want.
 2. Navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Easy CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, relaxed CX configuration. The alt file will still be more difficult than vanilla BG3 and include new, tweaked, and changed enemies - but the size of the tweaks is much less dramatic with lower health, AC, attack rolls, and saving throw DC for enemies across the board, bigger increases to allied characters, and many powerful buffs and abilities taken away from bosses.
+3. Enable any of the OPTIONAL mods in the "OPTIONAL Easier Mods" section.
+4. Go to Listonomicon\mods\zzz_ListonomiconModSettings\SE_CONFIG\Attunement and replace "conmfig.json" with "relaxed config.json" (delete the first, rename the latter as config.json). This will slightly increase the number of magic items you can equip, enabling more powerful builds or at least easier combo crafting.
 
 If Listo is not hard enough,
 1. Enable Absolute Wrath (search "OPTIONAL_Absolute Wrath" or look in the optional tweaks section of MO2).
 2. If that still isn't hard enough, enable Champions of Faerun.
-3. If still that isn't hard enough, navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Hard CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, unrelaxed CX configuration. The alt file has more enemy health, more enemy buffs, and more cruel combinations of spells and abilities and features, with intentional enemy nerfs from the normal config removed.
-4. DHM and Extra Encounters and Minibosses exist more for interesting challenge content rather than changing the overall challenge of the whole experience (more like dungeons/raids rather than global modifiers).
+3. If that still isn't hard enough, enable OPTIONAL_Valkranas Skeletal Challenge.
+4. If still that isn't hard enough, navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Hard CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, unrelaxed CX configuration. The alt file has more enemy health, more enemy buffs, and more cruel combinations of spells and abilities and features, with intentional enemy nerfs from the normal config removed.
+5. DHM and Extra Encounters and Minibosses exist more for interesting challenge content rather than changing the overall challenge of the whole experience (more like dungeons/raids rather than global modifiers). If you love BG3 combat, want more of it, and want to guarantee reaching level 18+ by the end of the game, enable as many extra encounter mods as you like.
 
 ### 13.) Multiplayer
 
