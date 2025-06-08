@@ -17,6 +17,8 @@ Generic +1/+2 gear, adamantium weapons and armor, niche and gimmick items, magic
 
 ![Attune](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/attunement2.jpg)
 
+**There is an optional "Relaxed Config" for Attunement** that increases how many items you can use. Go to Listonomicon\mods\zzz_ListonomiconModSettings\SE_CONFIG\Attunement and replace "conmfig.json" with "relaxed config.json" (delete the first, rename the latter as config.json).
+
 ## New Encounters, Old Encounters, New-Old Encounters, Old-New Encounters, Tweaked Enemies + Combat Extender
 
 Listonomicon combines several mods to enhance vanilla encounters, and add new ones. More Enemies in Basic Fights (Mod.io) helps fill many vanilla encounters with extra enemies to compensate for the larger party size in Listo, and the generally higher player power ceiling. Encounters Overhaul and Vulkrana's Undead Encounters add many extra encounters to Acts 1 and 2, and a few to Act 3. Optionally, you can enable Many More Monsters (and the associated EO patch) to add even more enemies to your game, some of which are new encounters and some of which supplement vanilla encounters. If you want _some_ extra enemies, that mostly feel consistent with the rest of BG3's progression, MMM is a good option. If you want as much combat as possible, challenge dungeons, and want to risk fights way above your weight class during Act 1, Deadlier Honour Mode is another optional set of mods for you to enable. Note that DHM encounters are designed to challenge you, and are especially enhanced through Combat Extender.
