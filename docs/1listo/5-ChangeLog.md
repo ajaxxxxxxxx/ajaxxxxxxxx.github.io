@@ -95,6 +95,9 @@ Save safe? No.
 75. Added the pistol and musket from the Artificer mod to more vendors, ensuring Act 1/2/3 access.
 76. Restored easy/normal/hard CX configs. The "Normal" config with all optional mods disabled has been tested through Act 2, and I would call it "Tough, bad luck will force you to load a save, but not too bad." You can mix the easy/normal/hard config with any optional harder or optional easier mods you want - you should tune the experience to what will help you have the most fun.
 77. Probably a ton of other changes I've lost track of.
+78. ADDED a "Relaxed" config for attunement, kind of like easy/normal/hard CX so you can quickly switch to a slightly less restricted set of attunement rules without disabling them completely. Go to Listonomicon\mods\zzz_ListonomiconModSettings\SE_CONFIG\Attunement and replace "conmfig.json" with "relaxed config.json" (delete the first, rename the latter as config.json).
+79. ADDED Chisfreak's patch (thanks Chiz!) to get Aberrant Mind, Circle of Winter, College of Tragedy, Debonaire Rogue, Eldritch Domain, Grim Surgeon, Hedge Mage, Inquisition Domain, Misfortune Bringer, Night Domain, and Oath of the Bleak Walker working together + with other mods + with multiclassing.
+80. Reduced (slightly) enemy HP in the base CX config.
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
