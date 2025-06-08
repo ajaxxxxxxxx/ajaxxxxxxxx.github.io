@@ -15,6 +15,14 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v6.0.1 Goof'd Hotfix
+Save safe? Probably.
+
+1. Redid the order of several classes so they will play together better.
+2. Removed "Fighters get a taunt at level 3" mod which I don't remember adding and was breaking everything.
+3. Updated Chiz's patch to save bladesingers.
+
+
 ## Listonomicon v6 Ultimate Ultimate NPC Stat Overhaul Edition plus everything else update
 Save safe? No.
 
