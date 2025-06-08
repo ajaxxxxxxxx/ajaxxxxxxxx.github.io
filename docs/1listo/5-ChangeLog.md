@@ -15,7 +15,7 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
-## Listonomicon v6 Ultimate Ultimate NPC Stat Overhaul Edition (WIP)
+## Listonomicon v6 Ultimate Ultimate NPC Stat Overhaul Edition plus everything else update
 Save safe? No.
 
 1. REDUCED the damage of everything smokepowder.
