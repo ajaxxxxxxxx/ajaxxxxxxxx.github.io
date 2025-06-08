@@ -93,6 +93,8 @@ Save safe? No.
 73. ADDED Duke Ravengard Redone and Counsellor Florrick Redone.
 74. ADDED (Optional) Lone Wolf feat for easy mode.
 75. Added the pistol and musket from the Artificer mod to more vendors, ensuring Act 1/2/3 access.
+76. Restored easy/normal/hard CX configs. The "Normal" config with all optional mods disabled has been tested through Act 2, and I would call it "Tough, bad luck will force you to load a save, but not too bad." You can mix the easy/normal/hard config with any optional harder or optional easier mods you want - you should tune the experience to what will help you have the most fun.
+77. Probably a ton of other changes I've lost track of.
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
