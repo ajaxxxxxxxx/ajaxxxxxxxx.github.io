@@ -98,6 +98,8 @@ Save safe? No.
 78. ADDED a "Relaxed" config for attunement, kind of like easy/normal/hard CX so you can quickly switch to a slightly less restricted set of attunement rules without disabling them completely. Go to Listonomicon\mods\zzz_ListonomiconModSettings\SE_CONFIG\Attunement and replace "conmfig.json" with "relaxed config.json" (delete the first, rename the latter as config.json).
 79. ADDED Chisfreak's patch (thanks Chiz!) to get Aberrant Mind, Circle of Winter, College of Tragedy, Debonaire Rogue, Eldritch Domain, Grim Surgeon, Hedge Mage, Inquisition Domain, Misfortune Bringer, Night Domain, and Oath of the Bleak Walker working together + with other mods + with multiclassing.
 80. Reduced (slightly) enemy HP in the base CX config.
+81. ADDED Valkrana's Spellbook. Added VS spells to enemies. :)
+82. Re-ADDED Valkrana's Skeletal Challenge as optional difficulty mods.
 
 ## Listonomicon v5.2 DMCA Compliant Edition
 Save safe? No.
