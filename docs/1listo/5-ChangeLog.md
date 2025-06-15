@@ -15,6 +15,24 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v6.1.0 (WIP)
+Save safe? No.
+
+1. ADDED Bububull's Hairnet Pack.
+2. ADDED Strong Ladies head presets.
+3. ADDED (and nerfed) Xara's spells.
+4. ADDED Astral Pain.
+5. ADDED Netherseam Head Presets.
+6. ADDED Aradin and Crew Redone.
+7. Moved the "Consolidated" mods into their own optional seperator, by default Common Actions Consolidated and Basic Weapon Actions Consolidated are disabled while Battle Master Maneuvers, Arcane Archer shots, and Bard Flourishes are default enabled.
+8. REMOVED Migraine's Treasures.
+9. REMOVED Granny Druid Rewards.
+10. REMOVED Granny's Immersive Weapons.
+11. REMOVED More Wizard RP Items.
+12. REMOVED Equipment of the Githyanki Captains.
+13. REMOVED Fang of Boitata (but I would bring it back if it was ever updated to have the weapon appropriately marked as a spear instead of an untyped weapon).
+14. 
+
 ## Listonomicon v6.0.1 Goof'd Hotfix
 Save safe? Probably.
 
