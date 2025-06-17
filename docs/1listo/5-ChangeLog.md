@@ -31,7 +31,15 @@ Save safe? No.
 11. REMOVED More Wizard RP Items.
 12. REMOVED Equipment of the Githyanki Captains.
 13. REMOVED Fang of Boitata (but I would bring it back if it was ever updated to have the weapon appropriately marked as a spear instead of an untyped weapon).
-14. 
+14. Downgraded the Community Framework to v2.6.3.12 to hopefully restore reliable compatability between subclass mods.
+15. ADDED DVQR.
+16. Changed Dynamic Sidebar version from "vanilla with 2 row sidebar" to "16x9." Hopefully will fix an issue with the camp chest/companion inventories not always being available outside of camp, the way it's supposed to be.
+17. Withers should wipe out any (vanilla) items sold ot him now. Withers should have a random assortment of scrolls, potions, grenades, camp clothes, and arrows for sale every day.
+18. REMOVED Fresh Loot.
+19. REMOVED Valeera Daggers.
+20. REMOVED Katen Kyokostu.
+21. REMOVED Weapons from Summons.
+22. REMOVED Rebalance - Class Spells (and hopefully implemented my own, better improvements).
 
 ## Listonomicon v6.0.1 Goof'd Hotfix
 Save safe? Probably.
