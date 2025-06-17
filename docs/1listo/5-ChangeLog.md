@@ -40,6 +40,14 @@ Save safe? No.
 20. REMOVED Katen Kyokostu.
 21. REMOVED Weapons from Summons.
 22. REMOVED Rebalance - Class Spells (and hopefully implemented my own, better improvements).
+23. Reworked modded/expanded class spell lists via the Listo master spells patch + combined "Permanent Passives" with the "Loviathar's Love Fix" to help Barbarian QoL work better with the Permament Passives mod.
+24. Increased the range of Paladin auras to 9m again, now with a custom patch to cover modded subclasses not covered by the original mod.
+25. ADDED DnD 5R - Eldritch Knight - War Magic and Improved War Magic PHB 2024 (Chiz can you have less of a mouthful naming your mods) and an optional file that moves War Magic to be earned at 5th level for Eldritch Knights rather than waiting until level 7.
+26. ADDED Sword of the Rising Dawn, a versatile Radiant damage longsword.
+27. REMOVED Otherworldy Boons (Mod.io).
+28. ADDED Eldritch Knight Spellcasting Modifier UI Fix.
+29. ADDED Eldritch Knight Plus; and the optional files for a bonus cantrip at 4th level, potent cantrips at 12th level, and removing the "Empowered Cantrips" passive.
+30. ADDED Mystic Expansion.
 
 ## Listonomicon v6.0.1 Goof'd Hotfix
 Save safe? Probably.
