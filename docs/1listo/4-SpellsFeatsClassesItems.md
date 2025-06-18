@@ -236,17 +236,27 @@ New Subclasses:
 
 # New and Changed Equipment
 
-## Magic Items, Economy, and Upgrading
+## Magic Items, Economy
 
 - Listonomicon incorporates mods that change, rebalance, or improve many vanilla magic items. Many magic items locked to good or evil playthroughs have been redistributed, providing alternate sources or opportunities to get valuable items that might otherwise be missed. An almost-completely-randomized distribution of magic items can be enabled via Random Equipment Loot (look in the optional mods notes, near the bottom of MO2).
 - Listonomicon has an attunement and magic item rarity limit, allowing you to equip many, but not every, piece of magic gear you acquire.
-- Furthermore, [Phalar Aluve](https://www.nexusmods.com/baldursgate3/mods/2987?tab=description) has its own upgrade path. There is a music box hidden in Act 2 and Act 3. You can find the location on the mod’s Nexus page, but it is intended to be a hidden/secret reward! The Titanstring Bow has received multiple variations, which can be found hidden around the game. Foe Bane, available at end of the Grove Storyline, can also be improved if you hold on to it until Act 3.
-- Finally, the list is also full of new magic items. Some items exist as static loot, intentionally placed somewhere in the world; added to a specific chest or quest reward; or will be found on the bodies of bosses.
+- The list is also full of new magic items. Some items exist as static loot, intentionally placed somewhere in the world; added to a specific chest or quest reward; or will be found on the bodies of bosses.
 - Overall, you should feel encouraged to change your equipment more frequently than the vanilla game, with fewer “best in slot” choices and with fewer magic items that feel like glorified Gale food.
 - Elixirs have been changed, according to [Elixirs Revised](https://www.nexusmods.com/baldursgate3/mods/10073). Please read the mod page and pay closer attention to the description of elixirs in-game, as many of them now stack or work differently. Elixirs of X Giant's Strength have been changed into +STR items, rather than potions that set your Strength to a specific number. This means that characters cannot dump STR, pop a potion, and be fine. It also means that high-Strength characters can still benefit from drinking these elixirs. Healing Potions Hardcore changes HPots to provide a limited immediate healing effect, followed by a delayed healing effect, reducing their combat usefulness compared to healing spells.
 - The overall economy and raw acquisition of gold in Listo is intentionally made harder. Between Poor Adventurer-esque changes and the custom difficulty settings, gold is both slower to accumulate and traders have worse prices when buying or selling. Keep in mind that in Listo you are expected to find significantly more magic items during your adventure, and selling anything you don't use will still allow you to afford many shiny goodies.
 - You will want to save up your pennies so that when you reach Act 3, you can afford the ship manifest that allows you to embark on the Spelljammer adventure arc. The deed for a ship (sold by Popper in the circus) is very expensive, but the reward for the quest line is having a floating artillery platform overhead for the rest of Act 3.
 - You are encouraged to hold onto a variety of weapons to ensure that your team has access to various damage types, as some encounters will now punish/reward the right weapon at the right time.
+
+## Upgrading items
+
+A handful of items in Listonomicon are able to be upgraded by combining certain materials/items.
+
+- [Phalar Aluve](https://www.nexusmods.com/baldursgate3/mods/2987) can be upgraded with a music box hidden in the Shadow Cursed Lands (Act 2), and upgraded again with a music box hidden in a special part of the Circus that only pickpockets can find (Act 3).
+- [Sorrow](https://www.nexusmods.com/baldursgate3/mods/16998) can be upgraded by slaying the Shadow Cursed Shambling Mound, and exploring Ketheric's belongings at Moonrise (ironwood bark and a magic ring).
+- [Superius Armour](https://www.nexusmods.com/baldursgate3/mods/15568). The armor pieces themselves have been distributed throughout Act 1 (Ruins bandits, Blurg, Arcane Tower chest, Filro the Forgotten, Filro's chest), and the upgrade materials are magic orbs redistributed throughout the game (Therezzyn, Mason's Guild, Smuggler Cave, Cazador's Ballroom).
+- The [Voltstrike Blade](https://www.nexusmods.com/baldursgate3/mods/15589) can be found on Grym. The first upgrade item is a broken blade, found on the haunted Hollow Armor in Act 2; the final upgrade is Ansur's bones.
+- [Darith Helzar](https://mod.io/g/baldursgate3/m/darith-helzar-katana-of-the-winter-goddess-auril#description) is found in the Thayan Shelter, but its upgrade items are sold by Aroj in Moonrise (Netherese Enchantment Crystal) and the Harper Quarter Master (Frostmaiden Tear).
+- [Psychic Armory](https://www.nexusmods.com/baldursgate3/mods/14476) is a mix of a scavenger/treasure hunt, and upgrade path for various items included within. The Sussur Bloom found in the basement of the Arcane Tower is used for upgrading.
 
 ## Inventory Management & QoL
 
