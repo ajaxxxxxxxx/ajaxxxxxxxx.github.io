@@ -34,12 +34,12 @@ Save safe? No.
 14. Downgraded the Community Framework to v2.6.3.12 to hopefully restore reliable compatability between subclass mods.
 15. ADDED DVQR.
 16. Changed Dynamic Sidebar version from "vanilla with 2 row sidebar" to "16x9." Hopefully will fix an issue with the camp chest/companion inventories not always being available outside of camp, the way it's supposed to be.
-17. Withers should wipe out any (vanilla) items sold ot him now. Withers should have a random assortment of scrolls, potions, grenades, camp clothes, and arrows for sale every day.
+17. Withers should wipe out any (vanilla) items sold to him now. Withers should have a random assortment of scrolls, potions, grenades, camp clothes, and arrows for sale every day.
 18. REMOVED Fresh Loot.
 19. REMOVED Valeera Daggers.
 20. REMOVED Katen Kyokostu.
 21. REMOVED Weapons from Summons.
-22. REMOVED Rebalance - Class Spells (and hopefully implemented my own, better improvements).
+22. All Paladins in Listo should now have a 9m aura radius and a 15m improved aura radius (meaning vanilla and modded subclasses are all covered by the improvement).
 23. Reworked modded/expanded class spell lists via the Listo master spells patch + combined "Permanent Passives" with the "Loviathar's Love Fix" to help Barbarian QoL work better with the Permament Passives mod.
 24. Increased the range of Paladin auras to 9m again, now with a custom patch to cover modded subclasses not covered by the original mod.
 25. ADDED DnD 5R - Eldritch Knight - War Magic and Improved War Magic PHB 2024 (Chiz can you have less of a mouthful naming your mods) and an optional file that moves War Magic to be earned at 5th level for Eldritch Knights rather than waiting until level 7.
@@ -48,6 +48,8 @@ Save safe? No.
 28. ADDED Eldritch Knight Spellcasting Modifier UI Fix.
 29. ADDED Eldritch Knight Plus; and the optional files for a bonus cantrip at 4th level, potent cantrips at 12th level, and removing the "Empowered Cantrips" passive.
 30. ADDED Mystic Expansion.
+31. For players who prefer to dye gear that they find (rather than fiddling with the Armoury cosmetic menu), all dyes available from mods can be found on Mattis, Volo, or randomly anywhere that dye loot tables are referenced.
+32. ADDED, and nerfed, Xara's Library.
 
 ## Listonomicon v6.0.1 Goof'd Hotfix
 Save safe? Probably.
