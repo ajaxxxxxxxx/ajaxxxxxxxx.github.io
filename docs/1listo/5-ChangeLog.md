@@ -50,6 +50,7 @@ Save safe? No.
 30. ADDED Mystic Expansion.
 31. For players who prefer to dye gear that they find (rather than fiddling with the Armoury cosmetic menu), all dyes available from mods can be found on Mattis, Volo, or randomly anywhere that dye loot tables are referenced.
 32. ADDED, and nerfed, Xara's Library.
+33. Made a list of upgrade-able / progression items in Listo for the wiki.
 
 ## Listonomicon v6.0.1 Goof'd Hotfix
 Save safe? Probably.
