@@ -15,7 +15,7 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
-## Listonomicon v6.1.0 (WIP)
+## Listonomicon v6.1.0
 Save safe? No.
 
 1. ADDED Bububull's Hairnet Pack.
