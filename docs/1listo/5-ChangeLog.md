@@ -41,7 +41,7 @@ Save safe? No.
 21. REMOVED Weapons from Summons.
 22. All Paladins in Listo should now have a 9m aura radius and a 15m improved aura radius (meaning vanilla and modded subclasses are all covered by the improvement).
 23. Reworked modded/expanded class spell lists via the Listo master spells patch + combined "Permanent Passives" with the "Loviathar's Love Fix" to help Barbarian QoL work better with the Permament Passives mod.
-24. Increased the range of Paladin auras to 9m again, now with a custom patch to cover modded subclasses not covered by the original mod.
+24. All dyes can be found in the backpack next to where Shadowheart is locked on the Nautiloid. If you miss these dyes, they can be purchased cheap from Mattis (the tiefling thief trader).
 25. ADDED DnD 5R - Eldritch Knight - War Magic and Improved War Magic PHB 2024 (Chiz can you have less of a mouthful naming your mods) and an optional file that moves War Magic to be earned at 5th level for Eldritch Knights rather than waiting until level 7.
 26. ADDED Sword of the Rising Dawn, a versatile Radiant damage longsword.
 27. REMOVED Otherworldy Boons (Mod.io).
@@ -52,6 +52,8 @@ Save safe? No.
 32. ADDED, and nerfed, Xara's Library.
 33. Made a list of upgrade-able / progression items in Listo for the wiki.
 34. Moved where Thornsong Bow is found.
+35. Put a fix in Listonomicon to hopefully force Orpheus back to having his HPs again.
+36. Updated the tooltips on loading screens to reflect changes to Listo.
 
 ## Listonomicon v6.0.1 Goof'd Hotfix
 Save safe? Probably.
