@@ -37,6 +37,7 @@ Save safe? Yes!
 9. ADDED (optional) Rings of Kobold Summoning.
 10. ADDED Astarion Early Access Head Replacer.
 11. ADDED Luminous Hellrider's Belligerent Bracers (essentially combining several Act 1/2 gloves into 1 item to celebrate the end of Act 2).
+12. REL is hopefully being distributed correctly now to actually work when enabled...
 
 ## Listonomicon v6.1.0
 Save safe? No.
