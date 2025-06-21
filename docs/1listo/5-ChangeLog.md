@@ -39,6 +39,7 @@ Save safe? Yes!
 11. ADDED Luminous Hellrider's Belligerent Bracers (essentially combining several Act 1/2 gloves into 1 item to celebrate the end of Act 2).
 12. REL is hopefully being distributed correctly now to actually work when enabled...
 13. ADDED Fae's Firearms, a new magic pistol mod by jasperthefae. There is a combination of pistols to find, and pistols to buy.
+14. Muskets/flintlock rifles/whatever they're called are now slightly better (2d8 damage instead of 2d6).
 
 ## Listonomicon v6.1.1
 
