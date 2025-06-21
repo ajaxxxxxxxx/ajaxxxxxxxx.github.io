@@ -15,7 +15,7 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
-# Listonomicon v6.1.1 (WIP)
+## Listonomicon v6.1.2 (WIP)
 Save safe? Yes!
 
 1. ADDED Red Dyes of Thay, and made them compliant with other dye mods (all dyes are worth 1 gp, can be found on the nautiloid).
@@ -38,6 +38,11 @@ Save safe? Yes!
 10. ADDED Astarion Early Access Head Replacer.
 11. ADDED Luminous Hellrider's Belligerent Bracers (essentially combining several Act 1/2 gloves into 1 item to celebrate the end of Act 2).
 12. REL is hopefully being distributed correctly now to actually work when enabled...
+13. ADDED Fae's Firearms, a new magic pistol mod by jasperthefae. There is a combination of pistols to find, and pistols to buy.
+
+## Listonomicon v6.1.1
+
+Stealth update.
 
 ## Listonomicon v6.1.0
 Save safe? No.
