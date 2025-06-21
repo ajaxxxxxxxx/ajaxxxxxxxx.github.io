@@ -34,6 +34,9 @@ Save safe? Yes!
 6. Adamantine scale mail has damage reduction 2, matching the splint armor. Both armor pieces provide fire resistance. Grym's helmet provides psychic resistance, the shield provides cold + acid resistance.
 7. The adamantine cloaks from the Cloaks of Faerun mod and the CloaksOfFaerun mod now count as wearing adamantine armor, for the purpose of getting the adamantium set bonus (so combine cloak or armor, with helmet/shield/weapon).
 8. CatDude55 ~~absolutely cranked his hog~~ had a continuing stroke of genius until he ~~produced~~ created a new library of passives for Listo's combat extender. Specifically, passives related to empowering select enemies with the ability to deploy a squad of undead or fey/elemental allies, to help balance out the size of battles relative to Listo's larger-than-normal parties.
+9. ADDED (optional) Rings of Kobold Summoning.
+10. ADDED Astarion Early Access Head Replacer.
+11. ADDED Luminous Hellrider's Belligerent Bracers (essentially combining several Act 1/2 gloves into 1 item to celebrate the end of Act 2).
 
 ## Listonomicon v6.1.0
 Save safe? No.
