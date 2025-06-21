@@ -15,11 +15,11 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
-# Listonomicon v6.1.1
+# Listonomicon v6.1.1 (WIP)
 Save safe? Yes!
 
 1. ADDED Red Dyes of Thay, and made them compliant with other dye mods (all dyes are worth 1 gp, can be found on the nautiloid).
-2. Restored Fresh Loot - partly. Only the mod's changes to sussur weapons and adamantine gear are being used for Listo, but now they are organized in the Listo patch so should supersede any conflicting mods to ensure the changed gear is consistent.
+2. Restored Fresh Loot - partly. Only the mod's changes to sussur weapons and adamantine gear are being used for Listo, but now they are organized in the Listo patch so should supersede any conflicting mods to ensure the changed gear is consistent. Also bundled dyes from FL with other dyes.
 3. Combat Extender:
    * Reduced the # of abilities on The Warden (all configs)
    * Easy and Normal: removed Circle of Death from the Mountain Pass Many More Monsters fight, as well as the EO fight.
@@ -29,6 +29,11 @@ Save safe? Yes!
    * Cleaned up some old entries where manual class assignments were being made but are no longer needed.
    * Hard Config: Restored Dread Wastes to Ketheric.
    * Hard and Easy: Tweaked level offsets for bosses.
+4. Tried marking the Justice For Sorrow items as unique to prevent duplicate drops of the upgrade materials...
+5. Made the Sussur weapon changes from Fresh Gear better. e.g. more bonus force damage, and the silence effect has a scaling saving throw. Now all sussur weapon options are +2 weapons, which silence for 3 turns on a failed constitution saving throw. The dagger and sickle deal +1d4 force damage, then +1d6 starting at level 9. The greatsword deals +1d6 force damage, then +1d8 at level 9. Furthermore they have the Diamondsbane passive (crit vs objects). Finally, the sussur weapons provide resistance to force damage. They're worth forging now for more reasons than XP and getting it off your quest list.
+6. Adamantine scale mail has damage reduction 2, matching the splint armor. Both armor pieces provide fire resistance. Grym's helmet provides psychic resistance, the shield provides cold + acid resistance.
+7. The adamantine cloaks from the Cloaks of Faerun mod and the CloaksOfFaerun mod now count as wearing adamantine armor, for the purpose of getting the adamantium set bonus (so combine cloak or armor, with helmet/shield/weapon).
+8. CatDude55 absolutely cranked his hog until he produced a new library of passives for Listo's combat extender. Specifically, passives related to empowering select enemies with the ability to deploy a squad of undead or fey/elemental allies, to help balance out the size of battles relative to Listo's larger-than-normal parties.
 
 ## Listonomicon v6.1.0
 Save safe? No.
