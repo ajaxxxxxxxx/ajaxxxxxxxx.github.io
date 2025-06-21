@@ -15,6 +15,21 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+# Listonomicon v6.1.1
+Save safe? Yes!
+
+1. ADDED Red Dyes of Thay, and made them compliant with other dye mods (all dyes are worth 1 gp, can be found on the nautiloid).
+2. Restored Fresh Loot - partly. Only the mod's changes to sussur weapons and adamantine gear are being used for Listo, but now they are organized in the Listo patch so should supersede any conflicting mods to ensure the changed gear is consistent.
+3. Combat Extender:
+   * Reduced the # of abilities on The Warden (all configs)
+   * Easy and Normal: removed Circle of Death from the Mountain Pass Many More Monsters fight, as well as the EO fight.
+   * Easy config: Made the Surgeon fight easier, touched up a few fights with small tweaks down in challenge (reducing some bosses to minibosses, for example).
+   * Easy Config: Removed tons of abilities/things across the board.
+   * Hard Config: Removed a few weaknesses across the board (like sunlight weakness).
+   * Cleaned up some old entries where manual class assignments were being made but are no longer needed.
+   * Hard Config: Restored Dread Wastes to Ketheric.
+   * Hard and Easy: Tweaked level offsets for bosses.
+
 ## Listonomicon v6.1.0
 Save safe? No.
 
