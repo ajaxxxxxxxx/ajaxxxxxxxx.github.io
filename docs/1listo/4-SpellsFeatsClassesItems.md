@@ -271,6 +271,8 @@ Withers is now a merchant! Press the trade button at the bottom-left when talkin
 
 Artificer and other mods add firearms. The Listo patch/Degreaser plus True Range 5e seeks to rebalance firearms as a category of weapons that is generally stronger than the equivalent bow/crossbow in terms of damage dice, however they have significantly reduced range compared to bows/crossbows. Handcrossbows now have similarly reduced range, meaning they are not able to compete with bows/crossbows for range (but can still be dual wielded).
 
+There is a variety of magic pistols that can be found in Listonomicon. This is from an unreleased mod Jasperthefae was kind enough to give Listo permission to use, until the author has time to assemble a proper Nexus page. Generally, basic and +1 firearms can be purchased from Dammon and Roah Moonglow in Acts 1 and 2, and may crop up in other places here-and-there.
+
 ## The Hand, and Eye, of Vecna
 
 Consider these legendary artifacts the evil inverse of the Blood of Lathander. They offer great and tempting power to any who can acquire them, and become even more powerful when both are combined by a single owner. However they come with great risks, as Vecna exudes influence through these unliving links and the gods themselves look down on any mortal fool with the hubris to attempt wielding such profane power.
