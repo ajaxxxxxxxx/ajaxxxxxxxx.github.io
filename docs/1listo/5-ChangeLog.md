@@ -43,6 +43,7 @@ Save safe? Yes!
 14. Muskets/flintlock rifles/whatever they're called are now slightly better (2d8 damage instead of 2d6).
 15. Changed a few Degreaser items to count as adamantine weapons for the purpose of qualifying for the set bonus. (Specifically, the Grand Exchange sold by the alchemist in Moonrise is now a more powerful adamantine scimitar, Shield of Spell Reflection sold by popper is a more powerful adamantine shield, and Moghadam sold by the Silent Penitent is a blend of an adamantine and sussur greatsword).
 16. Made adamantine weapons in general slightly better by reducing crit thresholds.
+17. REMOVED the "base" version of Valkrana's Skeletal Challenge based on the author's own comments, now the "skill issue edition" is the only one packaged with Listo.
 
 ## Listonomicon v6.1.1
 
