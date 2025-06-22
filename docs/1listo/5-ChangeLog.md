@@ -41,7 +41,7 @@ Save safe? Yes!
 12. REL is hopefully being distributed correctly now to actually work when enabled...
 13. ADDED Fae's Firearms, a new magic pistol mod by jasperthefae. There is a combination of pistols to find, and pistols to buy.
 14. Muskets/flintlock rifles/whatever they're called are now slightly better (2d8 damage instead of 2d6).
-15. Changed a few Degreaser items to count as adamantine weapons for the purpose of qualifying for the set bonus.
+15. Changed a few Degreaser items to count as adamantine weapons for the purpose of qualifying for the set bonus. (Specifically, the Grand Exchange sold by the alchemist in Moonrise is now a more powerful adamantine scimitar, Shield of Spell Reflection sold by popper is a more powerful adamantine shield, and Moghadam sold by the Silent Penitent is a blend of an adamantine and sussur greatsword).
 16. Made adamantine weapons in general slightly better by reducing crit thresholds.
 
 ## Listonomicon v6.1.1
