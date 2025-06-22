@@ -15,7 +15,7 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
-## Listonomicon v6.1.2 (WIP)
+## Listonomicon v6.1.2
 Save safe? Yes!
 
 1. ADDED Red Dyes of Thay, and made them compliant with other dye mods (all dyes are worth 1 gp, can be found on the nautiloid).
