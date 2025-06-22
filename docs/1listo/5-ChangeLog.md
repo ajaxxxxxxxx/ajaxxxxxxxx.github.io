@@ -29,6 +29,7 @@ Save safe? Yes!
    * Cleaned up some old entries where manual class assignments were being made but are no longer needed.
    * Hard Config: Restored Dread Wastes to Ketheric.
    * Hard and Easy: Tweaked level offsets for bosses.
+   * Normal config: Replaced the wildly powerful "Synaptic Consumption" with an NPC specific version that 1) requires concentration and 2) has a recharge value, so enemies can't use it multiple turns in a row and instantly nuke your stats to 0 for a rapid kill. The Easy Config does not give this ability to anyone, the Hard Config still gives the original Synaptic Consumption to enemies.
 4. Tried marking the Justice For Sorrow items as unique to prevent duplicate drops of the upgrade materials...
 5. Made the Sussur weapon changes from Fresh Gear better. e.g. more bonus force damage, and the silence effect has a scaling saving throw. Now all sussur weapon options are +2 weapons, which silence for 3 turns on a failed constitution saving throw. The dagger and sickle deal +1d4 force damage, then +1d6 starting at level 9. The greatsword deals +1d6 force damage, then +1d8 at level 9. Furthermore they have the Diamondsbane passive (crit vs objects). Finally, the sussur weapons provide resistance to force damage. They're worth forging now for more reasons than XP and getting it off your quest list.
 6. Adamantine scale mail has damage reduction 2, matching the splint armor. Both armor pieces provide fire resistance. Grym's helmet provides psychic resistance, the shield provides cold + acid resistance.
@@ -40,6 +41,8 @@ Save safe? Yes!
 12. REL is hopefully being distributed correctly now to actually work when enabled...
 13. ADDED Fae's Firearms, a new magic pistol mod by jasperthefae. There is a combination of pistols to find, and pistols to buy.
 14. Muskets/flintlock rifles/whatever they're called are now slightly better (2d8 damage instead of 2d6).
+15. Changed a few Degreaser items to count as adamantine weapons for the purpose of qualifying for the set bonus.
+16. Made adamantine weapons in general slightly better by reducing crit thresholds.
 
 ## Listonomicon v6.1.1
 
