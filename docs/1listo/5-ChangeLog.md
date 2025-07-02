@@ -15,6 +15,17 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v6.1.3
+Save safe? Yes!
+
+1. REMOVED Spell List Combiner (t'was nuked from Nexus).
+2. ADDED Restore more than 4500 Approvals.
+3. ADDED Lae'zel vs Shadowheart bugfix.
+4. ADDED NPC Redesign - Vampires.
+5. ADDED Female Drider Head BT1.
+6. Updated various mods.
+7. Fixed errors in the Combat Extender config where features were named wrong and not working on some creatures.
+
 ## Listonomicon v6.1.2
 Save safe? Yes!
 
