@@ -30,6 +30,8 @@ description: Install Info
 
 Please scroll back up and read the "Installing Microsoft Visual C++ and .NET" warning. These prequisities are required for the MO2 plugin to work correctly.
 
+If you are playing on Linux, get instructions at the bottom!
+
 ### 2.) Basics
 
 At no point in installing Listo do you need to manually download Mod Organizer 2. A MO2 "portable instance" will come pre-packed in Listo's download from Wabbajack. There will be a Mod Organizer 2.exe in the folder where Listo is installed used to launch the portable instance just for Listo. There is no reason to install MO2 manually. You do not need the Baldur's Gate 3 Mod Manager, you do not need to download the BG3 Script Extender, and you do not need Vortex. MO2 does the old Mod Manager's job, script extender is pre-packaged with Listo, and the whole point of Wabbajack is to ditch Vortex.
@@ -150,3 +152,30 @@ If you are desperate to restore some space on your hard drive after installing L
 When updating Listo, follow the same install method you are comfortable with (finding the list via the gallery, or downloding an updated .wabba from Nexus). Point Wabbajack at the same install location and overwrite. Any mods that have not changed should not have to be re-downloaded, meaning updating is much faster (unless you deleted your Downloads folder to save hard drive space, then you need to redownload everything). After updating, go to %AppData%\Local\Larian Studios\Baldur's Gate 3 and delete the LevelCache folder. You may wish to right-click the red "Overwrite" text at the bottom of MO2 and hit "Clear Overwrite," especially if an update announced big Combat Extender changes.
 
 ![Your Brain](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/image-5.png)
+
+### Linux Instructions
+
+Thank you Steven2137!
+
+**Install Wabbajack**
+
+Follow this [guide](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/Wabbajack-via-Proton) to install Wabbajack via Steam.
+
+**Download Listonomicon**
+
+Start Wabbajack with your Steam shortcut and Download the list. The download location can be anywhere, but the install location should be on the same disk as BG3.
+
+**Configuration of the Mod Organizer 2 prefix**
+
+1. Add the 'ModOrganizer.exe' in your install location of the list as a non steam game to Steam.
+2. Choose Proton Experimental or the newest GE-Proton as the compatibility tool.
+3. Use Protontricks to install Dotnet 6,7,8,9, vcrun2012 and vcrun2017.
+4. Use winecfg to add dwrite.dll as a dll override.
+
+**Configuration of Mod Organizer 2**
+
+Rootbuilder needs to be changed from the link mode to copy mode. To do this, click the puzzle symbol -> root builder -> root builder and check the box next to 'copy'. 
+
+**Launch the game**
+
+Launch the game by choosing BG3 - Vulkan and click on run.
