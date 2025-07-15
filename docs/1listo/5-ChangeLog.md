@@ -15,6 +15,35 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v6.1.4
+Save safe? Yes!* (probably)
+
+1. Updated every mod. All of them.
+2. Tried removing more features from enemy rangers in CX to see if it will make them crash less.
+3. ADDED Various Dialogue Fixes.
+4. ADDED "Extra Vulnerabilities" as a test mod, I'm curious what people think about it, so it's marked OPTIONAL for now. It changes some conditions (like webbed, and bleeding) to bring damage vulnerabilities with them similar to how "Covered In Frost" can make a target vulnerable to bludgeoning damage. Goes in both directions (eg works against enemies and against the player). Find it at the top of Gameplay Fixes and Changes.
+5. ADDED Quickened Oaths, which helps Paladins atually use their Oath in combat sometimes.
+6. ADDED Gale Dialogue Delayed, improving (hopefully) the pace of Gale's nonsense and allowing some of his early game dialogue to be experienced more often.
+7. ADDED (Optional) Combat Random Equipment, which will give your enemies random equipment. Genuinely use this at your own peril.
+8. ADDED Marcus Filgor Edits to hopefully fix his ugly ass beard.
+9. ADDED Mighty Impel Anytime.
+10. ADDED Halsin's Gift - Wooden Duck Earrings.
+11. ADDED Missed Connections - Shadowheart - Truly Connect.
+12. ADDED Flame Blade and Shadow Blade VFX Replacers.
+13. ADDED Rugan Restored - A Sweet Sight, which allows Rugan to show up in Act 3 (for the very minority of players who meet the right conditions).
+14. ADDED Combat Grouping by Proximity. In theory this should help people using multiple option enounter mods, as well as bonus encounter content added by me via CX's clone feature, interact/integrate better. You won't trigger one fight right next to other enemies who ignore you.
+15. ADDED KaiLimeUI for chararacter creation (KB+M only, sorry controller bros). Finally picking jewelry is a full list and doesn't suck completely.
+16. ADDED Firestarter - Karlach Romance Overhaul.
+17. ADDED Goon's Cleric Overhaul.
+18. ADDED Stomp that Tadpole.
+19. ADDED Better Hypnotic Gaze - Short Rest.
+20. ADDED Raphael Restored - Last Light Fixes.
+21. ADDED Lae'zel Kiss Dialogue.
+22. ADDED Cunning Combo Feat.
+23. ADDED Astarion's Nightmare.
+24. ADDED Dialogue and Reactivity Tags Framework.
+25. ADDED Minthara Oathbreaker Dialogue.
+
 ## Listonomicon v6.1.3
 Save safe? Yes!
 
