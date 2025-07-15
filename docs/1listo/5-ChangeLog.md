@@ -43,6 +43,7 @@ Save safe? Yes!* (probably)
 23. ADDED Astarion's Nightmare.
 24. ADDED Dialogue and Reactivity Tags Framework.
 25. ADDED Minthara Oathbreaker Dialogue.
+26. ADDED Goon's Paladin Overhaul.
 
 ## Listonomicon v6.1.3
 Save safe? Yes!
