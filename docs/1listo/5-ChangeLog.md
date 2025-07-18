@@ -15,6 +15,14 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v6.1.5 Hotfix
+Save safe? Yes!* (probably)
+
+1. Updated all the mods again, hopefully this time removed all the problems that Goon and Cahoot caused (boo those guys suck for releasing mods where I didn't read the descriptions).
+2. ADDED (optional) "Shadowed Torches" and "Shadowcasting," so users can try out a version of the game with more realistic light/shadow effects. Let me know how it impacts performance and if it should become a default mod.
+3. ADDED Goon's Rogue Overhaul.
+4. Fucking murdered Naaber, walked him behind a shed and introduced him to my favorite kind of one-shot adventure (twelve gauge).
+
 ## Listonomicon v6.1.4
 Save safe? Yes!* (probably)
 
