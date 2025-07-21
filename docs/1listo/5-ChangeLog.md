@@ -15,6 +15,16 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v6.1.6 Hotfix
+Save safe? Yes!* (probably)
+
+1. Updated all the mods again again, hopefully this time fixing every issue introduced by Goon's mods (if things are still broken then it's probably my bad and he's innocent).
+2. ADDED Eye Deal (if you get Volo's eye first, you can still get the Hag eye on the same character. Wyll can now get the hag eye)
+3. ADDED Duellist's Perogative Overhaul.
+4. ADDED Stone and Steel: Expanded Monk Punches.
+5. ADDED Zhentarim Redone, which provides a visual overhaul as well as supplements the Act 1 hideout with better defenders.
+6. ADDED Goon's Barbarian Overhaul.
+
 ## Listonomicon v6.1.5 Hotfix
 Save safe? Yes!* (probably)
 
