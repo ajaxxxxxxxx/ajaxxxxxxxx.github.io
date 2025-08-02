@@ -44,6 +44,7 @@ Save safe? No
 15. ADDED Shadow and Stone.
 16. ADDED Book of Druids (which adds Circle of Dreams, Circle of the Shepherd, and the Circle of Wildfire for Druids).
 17. ADDED Grimoire Familiar.
+18. REMOVED 5 mods related to overflowing sales inventory on Withers.
 
 ## Listonomicon v6.1.6 Hotfix
 Save safe? Yes!* (probably)
