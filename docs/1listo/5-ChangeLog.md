@@ -15,6 +15,36 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v6.2
+Save safe? No
+
+1. Updated the MO2-BG3 plugin to v0.9.0.
+2. Changed optional mods that add shadows to the game into being "on" by default, but if you have performance issues you can disable them in the Cosmetics section of MO2.
+3. Hopefully put a fix in place for the shield mod that had so many "Not Found" tooltips.
+4. Updates to Combat Extender:
+  * Removed the passive ability to trigger casting "Holy Weapon" across all configs on suspicion that it caused crashes.
+  * Default config: removed "Deadly Alacrity" from most instances so enemies (beside oathbreakers, rogues, and champion fighters) will crit less.
+  * Easy config: removed all instances of Deadly Alacrity from enemies.
+  * Default config: Removed the "Crit Fisher Ring" feature from enemy classes (some bosses/etc still do it).
+  * Easy config: Removed Crit Fisher Ring feature across the board.
+  * Updated Gortash (all configs) to remove features/abilities that may have been causing problems.
+  * Updated Korilla (all configs) to remove features/abilities that may have been causing problems.
+  * Same with Viconia and her henchmen.
+  * Same with Baneites across Act 3.
+  * Removed Lord Soth from Act 3.
+6. ADDED Disable Reset Tutorials Popup.
+7. ADDED Hybrid UI. Dirty controller players rejoice.
+8. ADDED Ed the Hyena Joins the Party.
+9. ADDED Eyes by Tabatha.
+10. ADDED The Star Patron for Warlock.
+11. ADDED Hallowleafs in Camp.
+12. ADDED No More Sorcerous Sundries Magic Show.
+13. ADDED Minthara's Weaknesses - Astarion Minthara Banter Restored.
+14. ADDED Goon's Bard Overhaul.
+15. ADDED Shadow and Stone.
+16. ADDED Book of Druids (which adds Circle of Dreams, Circle of the Shepherd, and the Circle of Wildfire for Druids).
+17. ADDED Grimoire Familiar.
+
 ## Listonomicon v6.1.6 Hotfix
 Save safe? Yes!* (probably)
 
