@@ -15,6 +15,15 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v6.2.1 (WIP)
+Save safe? Maybe
+
+1. Made dwarfs better (starting proficiencies)
+2. ADDED (Mod.io) Book of Ebon Tides.
+3. Made Slayer form better (Goon's overhaul).
+4. Withers will now throw everything sold to him in the trash, including modded items (Trade With Withers updated).
+5. 
+
 ## Listonomicon v6.2
 Save safe? No
 
