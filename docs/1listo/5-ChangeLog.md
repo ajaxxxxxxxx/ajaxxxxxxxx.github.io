@@ -22,7 +22,16 @@ Save safe? Maybe
 2. ADDED (Mod.io) Book of Ebon Tides.
 3. Made Slayer form better (Goon's overhaul).
 4. Withers will now throw everything sold to him in the trash, including modded items (Trade With Withers updated).
-5. 
+5. ADDED Lord Enver Gortash Redone.
+6. ADDED Myky's Hairstyles.
+7. ADDED Display Status Immunities.
+8. ADDED (ModIO) Royal Decree Cantrip (creating a niche for Oath of Crown).
+9. ADDED (ModIO) Improved True Strike.
+10. REMOVED the mod adding shadows to vegetation, as it was buggy.
+11. ADDED Circle of the Sea.
+12. ADDED (ModIO) Book of Wizards.
+13. ADDED (ModIO) Expanded Hand Crossbows.
+14. ADDED (ModIO) Enchanments of Faerun. This mod is a little daunting, read up on it [here](https://mod.io/g/baldursgate3/m/enchantments-of-faerun#description). If updating an ongoing campaign, disable this mod; leave it on if starting a new campaign.
 
 ## Listonomicon v6.2
 Save safe? No
