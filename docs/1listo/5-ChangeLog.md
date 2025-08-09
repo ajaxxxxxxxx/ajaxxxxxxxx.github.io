@@ -34,6 +34,7 @@ Save safe? Maybe
 14. ADDED (ModIO) Enchanments of Faerun. This mod is a little daunting, read up on it [here](https://mod.io/g/baldursgate3/m/enchantments-of-faerun#description). If updating an ongoing campaign, disable this mod; leave it on if starting a new campaign.
 15. ADDED The Psion Class.
 16. Hopefully fixed Toll the Dead having wonky damage changes as you level.
+17. Replaced "No Divine Smite for Oathbreakers" (standalone mod) with Goon's version made for his paladin overhaul.
 
 ## Listonomicon v6.2
 Save safe? No
