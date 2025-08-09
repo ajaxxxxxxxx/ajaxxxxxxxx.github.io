@@ -32,6 +32,7 @@ Save safe? Maybe
 12. ADDED (ModIO) Book of Wizards.
 13. ADDED (ModIO) Expanded Hand Crossbows.
 14. ADDED (ModIO) Enchanments of Faerun. This mod is a little daunting, read up on it [here](https://mod.io/g/baldursgate3/m/enchantments-of-faerun#description). If updating an ongoing campaign, disable this mod; leave it on if starting a new campaign.
+15. ADDED The Psion Class.
 
 ## Listonomicon v6.2
 Save safe? No
