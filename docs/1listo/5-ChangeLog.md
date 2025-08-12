@@ -35,6 +35,9 @@ Save safe? Maybe
 15. ADDED The Psion Class.
 16. Hopefully fixed Toll the Dead having wonky damage changes as you level.
 17. Replaced "No Divine Smite for Oathbreakers" (standalone mod) with Goon's version made for his paladin overhaul.
+18. Corrected this time for real for real Goodberry and Jack of All Trades. They have names/descriptions again rather than being blank or saying "Not Found."
+19. Updated a lot of mods.
+20. 
 
 ## Listonomicon v6.2
 Save safe? No
