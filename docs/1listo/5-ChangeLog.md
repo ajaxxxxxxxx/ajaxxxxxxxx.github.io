@@ -15,8 +15,8 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
-## Listonomicon v6.2.1 (WIP)
-Save safe? Maybe
+## Listonomicon v6.3 ALFIRA LIVES!
+Save safe? Strictly yes, but if you are still in Act 1 then I would restart for this update.
 
 1. Made dwarfs better (starting proficiencies)
 2. ADDED (Mod.io) Book of Ebon Tides.
@@ -37,7 +37,10 @@ Save safe? Maybe
 17. Replaced "No Divine Smite for Oathbreakers" (standalone mod) with Goon's version made for his paladin overhaul.
 18. Corrected this time for real for real Goodberry and Jack of All Trades. They have names/descriptions again rather than being blank or saying "Not Found."
 19. Updated a lot of mods.
-20. 
+20. ALFIRA LIVES! Alfira is now, once again, a recruitable companion for all playthroughs (even Dark Urge ones).
+21. ADDED "Minimal Main Menu" - if multiplayer fails to connect, try disabling this mod.
+22. ADDED "Aylin Always Summons Moonlight Slivers" ensuring the confrontation in the wizard tower in Act 3 is always exciting, no matter who you side with.
+23. Validated a bunch of files in various Listo patches to hunt down and remove syntax errors, and items with missing names/descriptions.
 
 ## Listonomicon v6.2
 Save safe? No
