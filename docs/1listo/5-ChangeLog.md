@@ -15,6 +15,18 @@ description: Update info
 
 ### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
 
+## Listonomicon v6.4 Slime Edition (WIP)
+
+1. ADDED More Prominent Shadowheart Scars.
+2. ADDED Tusk Evolved.
+3. ADDED (optional) Owlbear Cub Evolved.
+4. ADDED Noto Sans text.
+5. ADDED (optional) Open Dyslexic font to help dyslexic players. Reminder that "Hyperlegible GUI" is also an optional mod in Listo. Use whatever helps you play!
+6. ADDED (optional) Recruit Karlach Earlier.
+7. REMOVED Bububull's Monarch Cloak.
+8. REMOVED Tensa Zangetsu.
+9. REMOVED The Thundergod's Legacy.
+
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
 
