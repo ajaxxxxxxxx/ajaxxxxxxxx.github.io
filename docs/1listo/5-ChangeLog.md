@@ -9,13 +9,13 @@ description: Update info
 
 ## [**Install Instructions**](https://ajaxxxxxxxx.github.io/docs/1listo/Install), [**Updating Listo Instructions**](https://ajaxxxxxxxx.github.io/docs/1listo/Install/#13-updating-listonomicon), and [**Listo Game Guide**](https://ajaxxxxxxxx.github.io/docs/1listo/GameBalance)
 
+:::danger
+**Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**:::
+
 ## Releases (Newest to Oldest)  
 
-[View included, rejected, and under review mods for Listo here!](https://docs.google.com/spreadsheets/d/1_dZdM_16xeE4yIqKYyk7HMjLI3WW7PhfpdlrKHM4vyg/edit?usp=sharing)
-
-### **Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**
-
-## Listonomicon v6.4 Slime Edition (WIP)
+## Listonomicon v7.0 Slime Edition (WIP)
+Save safe? No. Welcome back to Act 1.
 
 1. ADDED More Prominent Shadowheart Scars.
 2. ADDED Tusk Evolved.
