@@ -38,6 +38,9 @@ description: Update info
 18. REMOVED Thornsong Bow.
 19. REMOVED Cursed Weapons.
 20. Moved "Torches Cast Shadows" and "Spells Cast Shadows" back to optional (default off).
+21. ADDED Path of Undeath and Path of the Righteous. I've been interested in PoU for a while, but it always struck me as an unbalanced change to the game until/unless there was some kind of complimentary and opposite good option. Well now there is! PoU is mostly a puzzle/personal change mod, whereas PotR is an item upgrade progression mod, both serving effectively as new unmarked quests for completionists.
+22. REMOVED Necromancy of Thay Rebalance. Path of Undeath has its own use for/changes to/repurposing of the Thayan diary, so the rebalance is no longer necessary.
+23. ADDED (for testing purposes) "Immersive AI Mod Patch 8 updated" to see how it plays with game performance, Goon's mods, and other changes in Listo.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
