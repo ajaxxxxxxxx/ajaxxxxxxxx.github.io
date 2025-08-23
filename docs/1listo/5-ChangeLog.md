@@ -10,7 +10,7 @@ description: Update info
 ## [**Install Instructions**](https://ajaxxxxxxxx.github.io/docs/1listo/Install), [**Updating Listo Instructions**](https://ajaxxxxxxxx.github.io/docs/1listo/Install/#13-updating-listonomicon), and [**Listo Game Guide**](https://ajaxxxxxxxx.github.io/docs/1listo/GameBalance)
 
 :::danger
-**Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.**:::
+**Update Instructions: Go to [Listonomicon install location]. Delete the "Overwite" folder. Go to Listonomicon/profiles/Listonomicon and delete modsCache.json and modsettings.lsx.** :::
 
 ## Releases (Newest to Oldest)  
 
