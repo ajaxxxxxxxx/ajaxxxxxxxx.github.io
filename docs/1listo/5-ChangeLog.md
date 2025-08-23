@@ -26,6 +26,18 @@ description: Update info
 7. REMOVED Bububull's Monarch Cloak.
 8. REMOVED Tensa Zangetsu.
 9. REMOVED The Thundergod's Legacy.
+10. Extra sources of Castigated By Divinity (such as items added in Degreaser, or a scant number of enemies) have been changed to only inflict the instant death aspect of the curse (you die instantly at 0 HP instead of being downed), but the angel summoning spam part should be gone.
+11. A passive effect used to apply damage reduction to certain NPCs (and Swollentoe's Cloak of Protection) has been updated to ideally now have a working description.
+12. A review of the whole Degreaser mod was done to bring the items to a higher professional standard. No, really.
+13. Bugbears, by default, [are properly Rogues now](https://www.d20srd.org/srd/monsters/bugbear.htm) with a few exception rather than defaulted to Barbarians.
+14. Trying again to make Orpheus have more than 1 HP.
+15. Various attempts to fix and rebalance Mizora Rewards (the infamous "warlocks are super OP now" mod)
+    * **Eldritch Glaive** now requires you to have an existing source of Extra Attack (such as being a 5th level fighter) before the bonus bonus glaive attack is available.
+    * **Frightful Blast (Wisdom save), Sickening Blast (Constitution save), Bewitching Blast (Charisma save), Deteriorating Blast (Constitution save), and Enervating Shadow (Strength save)** will now be resisted with a saving throw that is calculated as ([your spell save DC] - 4). For a spammable cantrip that can be fired off 3+ times every turn and force multiple saving throws per hit, this is a necessary nerf to limit the absolute reliability of EB as a DPS and crowd control and debuff super combo move. Effects that lasted longer than 3 turns have been reduced to 2 or 3 turns max.
+17. REMOVED Leathers of the Vagabond.
+18. REMOVED Thornsong Bow.
+19. REMOVED Cursed Weapons.
+20. Moved "Torches Cast Shadows" and "Spells Cast Shadows" back to optional (default off).
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
