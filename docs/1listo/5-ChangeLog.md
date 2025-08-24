@@ -47,7 +47,7 @@ Save safe? No. Welcome back to Act 1.
 26. ADDED Goon's COndition and Surface Overhaul.
 27. REMOVED Extra Dangerous Fire Surfaces.
 28. ADDED Goon's Wizard Overhaul.
-29. ADDED (for testing) ToTF Nautiloid.
+29. ~~ADDED (for testing) ToTF Nautiloid.~~ Testing failed, lmao wtf.
 30. ADDED (for testing) Fangs and Skulls, which adds a questline across all 3 acts.
 31. ADDED Really Shadowheart.
 32. ADDED Robe of Vecna Reawakened.
