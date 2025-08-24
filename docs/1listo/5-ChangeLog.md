@@ -64,6 +64,7 @@ Save safe? No. Welcome back to Act 1.
 43. REMOVED Appearance Edit Enhanced (for now).
 44. ADDED Kaz Virtual Tav...... which means there's about 200 changelog items I'm not writing down concerning switching every cosmetic in Listo to the compat version necessary, or removing it if no compat version exists.
 45. ADDED tons of tattoos, glow maps, scars, and other cosmetic options.
+46. Removed most of Aylin's changes from CX and moved them to the proper Degreaser character stat entry edits. She should now be immune to Ketheric's domination spells, so she won't be forced to hit you with her Castigated By Divinity ability and flood the fight with angry devas.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
