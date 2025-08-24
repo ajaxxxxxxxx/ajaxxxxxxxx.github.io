@@ -42,6 +42,25 @@ Save safe? No. Welcome back to Act 1.
 21. ADDED Path of Undeath and Path of the Righteous. I've been interested in PoU for a while, but it always struck me as an unbalanced change to the game until/unless there was some kind of complimentary and opposite good option. Well now there is! PoU is mostly a puzzle/personal change mod, whereas PotR is an item upgrade progression mod, both serving effectively as new unmarked quests for completionists.
 22. REMOVED Necromancy of Thay Rebalance. Path of Undeath has its own use for/changes to/repurposing of the Thayan diary, so the rebalance is no longer necessary.
 23. ADDED (for testing purposes) "Immersive AI Mod Patch 8 updated" to see how it plays with game performance, Goon's mods, and other changes in Listo.
+24. REMOVED Royal Decree spell.
+25. ADDED "Slime Time," a custom mod from JL935 to help memorialize the passing of a player and community member who contributed a lot to Listonomicon. A semi-secret weapon is hidden near the entrance of the Whispering Depths, which grows in power based on how much Shadowheart likes you. It can upgrade into a good or evil variant depending on Shadowheart's decision in Act 2.
+26. ADDED Goon's COndition and Surface Overhaul.
+27. REMOVED Extra Dangerous Fire Surfaces.
+28. ADDED Goon's Wizard Overhaul.
+29. ADDED (for testing) ToTF Nautiloid.
+30. ADDED (for testing) Fangs and Skulls, which adds a questline across all 3 acts.
+31. ADDED Really Shadowheart.
+32. ADDED Robe of Vecna Reawakened.
+33. Moved the poison dagger at the very start of Act 1 to be for sale in the Grove, and a moist dagger is in the chest instead.
+34. ADDED Vera the Alchemist, a new Act 2 quest.
+35. ADDED Summoner's Best Friend, a new Act 1 quest.
+36. ADDED Character Appearance Editor, a MCM-powered appearance editor for small touch details, materials swaps, and editing features not in basic character creation.
+37. ADDED Weapons of the Feywild, and distributed them to various merchants.
+38. ADDED Githyanki Frog Eyes.
+39. ADDED "custom" replacements of the difficulty options when starting a new campaign, to help mark the wrong choices apart from the correct custom game settings. Thanks Reyqune.
+40. ADDED Evil snail's Fashion.
+41. ADDED Waypoints Expanded and REMOVED Waypoint Inside Emerald Grove.
+42. ADDDDED Brightest Star, a new Act 3 Wyll romance scene, and Francescas Journal.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
