@@ -61,6 +61,9 @@ Save safe? No. Welcome back to Act 1.
 40. ADDED Evil snail's Fashion.
 41. ADDED Waypoints Expanded and REMOVED Waypoint Inside Emerald Grove.
 42. ADDDDED Brightest Star, a new Act 3 Wyll romance scene, and Francescas Journal.
+43. REMOVED Appearance Edit Enhanced (for now).
+44. ADDED Kaz Virtual Tav...... which means there's about 200 changelog items I'm not writing down concerning switching every cosmetic in Listo to the compat version necessary, or removing it if no compat version exists.
+45. ADDED tons of tattoos, glow maps, scars, and other cosmetic options.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
