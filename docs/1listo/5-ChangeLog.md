@@ -23,7 +23,7 @@ Save safe? No. Welcome back to Act 1.
 3. ADDED (optional) Owlbear Cub Evolved.
 4. ADDED Noto Sans text.
 5. ADDED (optional) Open Dyslexic font to help dyslexic players. Reminder that "Hyperlegible GUI" is also an optional mod in Listo. Use whatever helps you play!
-6. ADDED (optional) Recruit Karlach Earlier.
+6. ~~ADDED (optional) Recruit Karlach Earlier.~~ Unfortunately, this mod places Karlach directly next to a rough Fang and Skulls encounter, and it also adds an awkward disruption to the intended sequencing of a second encounter from that mod. I really like the idea, but I really like Fang and Skulls more.
 7. REMOVED Bububull's Monarch Cloak.
 8. REMOVED Tensa Zangetsu.
 9. REMOVED The Thundergod's Legacy.
@@ -44,7 +44,7 @@ Save safe? No. Welcome back to Act 1.
 23. ADDED (for testing purposes) "Immersive AI Mod Patch 8 updated" to see how it plays with game performance, Goon's mods, and other changes in Listo.
 24. REMOVED Royal Decree spell.
 25. ADDED "Slime Time," a custom mod from JL935 to help memorialize the passing of a player and community member who contributed a lot to Listonomicon. A semi-secret weapon is hidden near the entrance of the Whispering Depths, which grows in power based on how much Shadowheart likes you. It can upgrade into a good or evil variant depending on Shadowheart's decision in Act 2.
-26. ADDED Goon's COndition and Surface Overhaul.
+26. ADDED Goon's Condition and Surface Overhaul.
 27. REMOVED Extra Dangerous Fire Surfaces.
 28. ADDED Goon's Wizard Overhaul.
 29. ~~ADDED (for testing) ToTF Nautiloid.~~ Testing failed, lmao wtf.
@@ -62,10 +62,14 @@ Save safe? No. Welcome back to Act 1.
 41. ADDED Waypoints Expanded and REMOVED Waypoint Inside Emerald Grove.
 42. ADDDDED Brightest Star, a new Act 3 Wyll romance scene, and Francescas Journal.
 43. REMOVED Appearance Edit Enhanced (for now).
-44. ADDED Kaz Virtual Tav...... which means there's about 200 changelog items I'm not writing down concerning switching every cosmetic in Listo to the compat version necessary, or removing it if no compat version exists.
-45. ADDED tons of tattoos, glow maps, scars, and other cosmetic options.
+44. ~~ADDED Kaz Virtual Tav~~ I changed my mind.
+45. ~~ADDED tons of tattoos, glow maps, scars, and other cosmetic options.~~ Removed a bunch of KAVT-related stuff.
 46. Removed most of Aylin's changes from CX and moved them to the proper Degreaser character stat entry edits. She should now be immune to Ketheric's domination spells, so she won't be forced to hit you with her Castigated By Divinity ability and flood the fight with angry devas.
 47. Updated Randomized Equipment Loot mode to *hopefully* cover all mods added to Listo since the last update, and specifically telling it to ignore certain mods I don't want it to mess with.
+48. ADDED Clawstep Dragonborn Body, Glow Ink, and Whispers of the Guardian so that you can both be a fearsome dragonborn, and have one as your dream guardian. In addition, added Lost Shipment - Equipment for Clawstep, but blocked it from actually appearing in-game as free loot (since it is not relevant to every other race selection). Instead, LS is joining the roster of Armoury/transmog cosmetic-only armors.
+49. ADDED Versatile Duelist, which supposedly gives you the option to 1-hand versatile weapons so that they interact with the Duelist fighting style correctly.
+50. [Testing] ADDED no-concentration smites.
+51. ADDED (for testing) Mazzle's RangeFinder.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
