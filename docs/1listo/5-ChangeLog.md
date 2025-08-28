@@ -41,7 +41,7 @@ Save safe? No. Welcome back to Act 1.
 20. Moved "Torches Cast Shadows" and "Spells Cast Shadows" back to optional (default off).
 21. ADDED Path of Undeath and Path of the Righteous. I've been interested in PoU for a while, but it always struck me as an unbalanced change to the game until/unless there was some kind of complimentary and opposite good option. Well now there is! PoU is mostly a puzzle/personal change mod, whereas PotR is an item upgrade progression mod, both serving effectively as new unmarked quests for completionists.
 22. REMOVED Necromancy of Thay Rebalance. Path of Undeath has its own use for/changes to/repurposing of the Thayan diary, so the rebalance is no longer necessary.
-23. ADDED (for testing purposes) "Immersive AI Mod Patch 8 updated" to see how it plays with game performance, Goon's mods, and other changes in Listo.
+23. ~~ADDED (for testing purposes) "Immersive AI Mod Patch 8 updated" to see how it plays with game performance, Goon's mods, and other changes in Listo.~~ AI mods bad.
 24. REMOVED Royal Decree spell.
 25. ADDED "Slime Time," a custom mod from JL935 to help memorialize the passing of a player and community member who contributed a lot to Listonomicon. A semi-secret weapon is hidden near the entrance of the Whispering Depths, which grows in power based on how much Shadowheart likes you. It can upgrade into a good or evil variant depending on Shadowheart's decision in Act 2.
 26. ADDED Goon's Condition and Surface Overhaul.
@@ -70,6 +70,8 @@ Save safe? No. Welcome back to Act 1.
 49. ADDED Versatile Duelist, which supposedly gives you the option to 1-hand versatile weapons so that they interact with the Duelist fighting style correctly.
 50. [Testing] ADDED no-concentration smites.
 51. ADDED (for testing) Mazzle's RangeFinder.
+52. ADDED Animation Unlocker.
+53. ADDED Inquisitor class.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
