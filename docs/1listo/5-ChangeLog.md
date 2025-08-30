@@ -61,17 +61,22 @@ Save safe? No. Welcome back to Act 1.
 40. ADDED Evil snail's Fashion.
 41. ADDED Waypoints Expanded and REMOVED Waypoint Inside Emerald Grove.
 42. ADDDDED Brightest Star, a new Act 3 Wyll romance scene, and Francescas Journal.
-43. REMOVED Appearance Edit Enhanced (for now).
+43. ~~REMOVED Appearance Edit Enhanced (for now).~~ JK
 44. ~~ADDED Kaz Virtual Tav~~ I changed my mind.
 45. ~~ADDED tons of tattoos, glow maps, scars, and other cosmetic options.~~ Removed a bunch of KAVT-related stuff.
 46. Removed most of Aylin's changes from CX and moved them to the proper Degreaser character stat entry edits. She should now be immune to Ketheric's domination spells, so she won't be forced to hit you with her Castigated By Divinity ability and flood the fight with angry devas.
 47. Updated Randomized Equipment Loot mode to *hopefully* cover all mods added to Listo since the last update, and specifically telling it to ignore certain mods I don't want it to mess with.
 48. ADDED Clawstep Dragonborn Body, Glow Ink, and Whispers of the Guardian so that you can both be a fearsome dragonborn, and have one as your dream guardian. In addition, added Lost Shipment - Equipment for Clawstep, but blocked it from actually appearing in-game as free loot (since it is not relevant to every other race selection). Instead, LS is joining the roster of Armoury/transmog cosmetic-only armors.
-49. ADDED Versatile Duelist, which supposedly gives you the option to 1-hand versatile weapons so that they interact with the Duelist fighting style correctly.
+49. ~~ADDED Versatile Duelist, which supposedly gives you the option to 1-hand versatile weapons so that they interact with the Duelist fighting style correctly.~~ nah
 50. [Testing] ADDED no-concentration smites.
 51. ADDED (for testing) Mazzle's RangeFinder.
 52. ADDED Animation Unlocker.
 53. ADDED Inquisitor class.
+54. ADDED Cunning Strike.
+55. ADDED a patch to expand The Fathomless warlock's spell list to include Dawn's Water Spells.
+56. ADDED Icons for Modded Subclasses and Customized Subclass Icons.
+57. Fixed the description of "Unstoppable" to reflect how it is changed in Listo.
+58. Deathknight Armor will only curse those who wear it to die instantly at 0 HP (no death saving throws), rather than afflicting the full CbD and spawning 500 devas.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
