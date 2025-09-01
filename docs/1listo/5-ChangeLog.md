@@ -78,6 +78,8 @@ Save safe? No. Welcome back to Act 1.
 57. Fixed the description of "Unstoppable" to reflect how it is changed in Listo.
 58. Deathknight Armor will only curse those who wear it to die instantly at 0 HP (no death saving throws), rather than afflicting the full CbD and spawning 500 devas.
 59. ADDED Warrior of the Elements Monk.
+60. ADDED Minthara's Immersive Redesign, New CC Colors for Lae'zel, and Orin the Red's redesign by LazezL.
+61. ADDED 5e Spells Action Resource Icons.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
