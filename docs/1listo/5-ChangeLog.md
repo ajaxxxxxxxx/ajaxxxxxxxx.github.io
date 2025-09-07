@@ -84,6 +84,11 @@ Save safe? No. Welcome back to Act 1.
 63. REMOVED [Mod.io] 60 Wild Magic Effects.
 64. Refactored Witch Bolt and Grasping Shadow Bolt to be d10 damage spells, which are re-activated with a bonus action on subsequent turns rather than an action.
 65. Applied UNSO-style changes to Fang and Skulls, Alchemist Potion Seller, Extra Encounters and Minibosses, and More Basic Enemies in Fights.
+66. Moved "Extra Encounters and Minibosses" to "Core" Listo.
+67. ADDED Spells of Exandria.
+68. ADDED Oath of the Phoenix.
+69. ADDED Oath of the Storm.
+70. ADDED Snowlight Conclave Ranger.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
