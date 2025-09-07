@@ -257,7 +257,8 @@ A handful of items in Listonomicon are able to be upgraded by combining certain 
 - The [Voltstrike Blade](https://www.nexusmods.com/baldursgate3/mods/15589) can be found on Grym. The first upgrade item is a broken blade, found on the haunted Hollow Armor in Act 2; the final upgrade is Ansur's bones.
 - [Darith Helzar](https://mod.io/g/baldursgate3/m/darith-helzar-katana-of-the-winter-goddess-auril#description) is found in the Thayan Shelter, but its upgrade items are sold by Aroj in Moonrise (Netherese Enchantment Crystal) and the Harper Quarter Master (Frostmaiden Tear).
 - [Psychic Armory](https://www.nexusmods.com/baldursgate3/mods/14476) is a mix of a scavenger/treasure hunt, and upgrade path for various items included within. The Sussur Bloom found in the basement of the Arcane Tower is used for upgrading.
-- - [FoeBane](https://www.nexusmods.com/baldursgate3/mods/12523) adds a great reward to the Druid Grove questline, which can further be upgraded with a magic scabard in Act 3 (Jaheira's Basement).
+- [FoeBane](https://www.nexusmods.com/baldursgate3/mods/12523) adds a great reward to the Druid Grove questline, which can further be upgraded with a magic scabard in Act 3 (Jaheira's Basement).
+- [Enchantments of Faerun](https://mod.io/g/baldursgate3/m/enchantments-of-faerun#description) is an elaborate mod that spreads materials for equipment enchantment throughout the game.
 
 ## Inventory Management & QoL
 
