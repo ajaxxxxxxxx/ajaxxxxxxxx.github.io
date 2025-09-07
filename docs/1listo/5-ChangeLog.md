@@ -53,7 +53,7 @@ Save safe? No. Welcome back to Act 1.
 32. ADDED Robe of Vecna Reawakened.
 33. Moved the poison dagger at the very start of Act 1 to be for sale in the Grove, and a moist dagger is in the chest instead.
 34. ADDED Vera the Alchemist, a new Act 2 quest.
-35. ADDED Summoner's Best Friend, a new Act 1 quest.
+35. ~~ADDED Summoner's Best Friend, a new Act 1 quest.~~ nah doesn't work so good
 36. ADDED Character Appearance Editor, a MCM-powered appearance editor for small touch details, materials swaps, and editing features not in basic character creation.
 37. ADDED Weapons of the Feywild, and distributed them to various merchants.
 38. ADDED Githyanki Frog Eyes.
@@ -80,6 +80,10 @@ Save safe? No. Welcome back to Act 1.
 59. ADDED Warrior of the Elements Monk.
 60. ADDED Minthara's Immersive Redesign, New CC Colors for Lae'zel, and Orin the Red's redesign by LazezL.
 61. ADDED 5e Spells Action Resource Icons.
+62. REMOVED (optional) Blessings of Deities, Champions of Faerun, Combat Random Equipment.
+63. REMOVED [Mod.io] 60 Wild Magic Effects.
+64. Refactored Witch Bolt and Grasping Shadow Bolt to be d10 damage spells, which are re-activated with a bonus action on subsequent turns rather than an action.
+65. Applied UNSO-style changes to Fang and Skulls, Alchemist Potion Seller, Extra Encounters and Minibosses, and More Basic Enemies in Fights.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
