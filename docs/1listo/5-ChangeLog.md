@@ -89,6 +89,7 @@ Save safe? No. Welcome back to Act 1.
 68. ADDED Oath of the Phoenix.
 69. ADDED Oath of the Storm.
 70. ADDED Snowlight Conclave Ranger.
+71. ADDED Blackguard. There are a few subclass mods on Nexus but none seem to have proper level 20 support. No we probably aren't getting Deathsong. Blood Hunter is being followed and might get added to Listo if it gets another update to fix various issues and support level 20 properly.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
