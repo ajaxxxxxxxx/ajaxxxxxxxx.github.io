@@ -90,6 +90,14 @@ Save safe? No. Welcome back to Act 1.
 69. ADDED Oath of the Storm.
 70. ADDED Snowlight Conclave Ranger.
 71. ADDED Blackguard. There are a few subclass mods on Nexus but none seem to have proper level 20 support. No we probably aren't getting Deathsong. Blood Hunter is being followed and might get added to Listo if it gets another update to fix various issues and support level 20 properly.
+72. ADDED Heads of Plenty Volume III.
+73. ADDED Priestess Gut's New Look.
+74. The entire goblin camp should no longer aggro because Dror is dead (as long as he dies without anyone sounding the alarm...)
+75. ADDED Platinum Dragonborn.
+76. ADDED Rolan Arcane Inheritor Restyled.
+77. ADDED Motivator Deactivation Bonus Action.
+78. ADDED Moonlight Horn Collection.
+79. ADDED Z'Rell Ogre Execution Fix.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
