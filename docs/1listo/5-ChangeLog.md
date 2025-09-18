@@ -109,6 +109,9 @@ Save safe? No. Welcome back to Act 1.
 88. ADDED Some Neat Amazing Crossbows.
 89. ADDED Full Restore Fix.
 90. REMOVED Psion class.
+91. ADDED Feral Wildheart.
+92. ADDED Justice for Wraithwyn.
+93. ADDED Necromancer Items Improved.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
