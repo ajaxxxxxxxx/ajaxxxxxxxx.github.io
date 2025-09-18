@@ -69,7 +69,7 @@ Save safe? No. Welcome back to Act 1.
 48. ADDED Clawstep Dragonborn Body, Glow Ink, and Whispers of the Guardian so that you can both be a fearsome dragonborn, and have one as your dream guardian. In addition, added Lost Shipment - Equipment for Clawstep, but blocked it from actually appearing in-game as free loot (since it is not relevant to every other race selection). Instead, LS is joining the roster of Armoury/transmog cosmetic-only armors.
 49. ~~ADDED Versatile Duelist, which supposedly gives you the option to 1-hand versatile weapons so that they interact with the Duelist fighting style correctly.~~ nah
 50. [Testing] ADDED no-concentration smites.
-51. ADDED (for testing) Mazzle's RangeFinder.
+51. ~~ADDED (for testing) Mazzle's RangeFinder.~~ nah
 52. ADDED Animation Unlocker.
 53. ADDED Inquisitor class.
 54. ADDED Cunning Strike.
@@ -84,7 +84,7 @@ Save safe? No. Welcome back to Act 1.
 63. REMOVED [Mod.io] 60 Wild Magic Effects.
 64. Refactored Witch Bolt and Grasping Shadow Bolt to be d10 damage spells, which are re-activated with a bonus action on subsequent turns rather than an action.
 65. Applied UNSO-style changes to Fang and Skulls, Alchemist Potion Seller, Extra Encounters and Minibosses, Spelljammer, and More Basic Enemies in Fights.
-66. Moved "Extra Encounters and Minibosses" to "Core" Listo.
+66. ~~Moved "Extra Encounters and Minibosses" to "Core" Listo.~~ back to optional
 67. ADDED Spells of Exandria.
 68. ADDED Oath of the Phoenix.
 69. ADDED Oath of the Storm.
@@ -98,6 +98,17 @@ Save safe? No. Welcome back to Act 1.
 77. ADDED Motivator Deactivation Bonus Action.
 78. ADDED Moonlight Horn Collection.
 79. ADDED Z'Rell Ogre Execution Fix.
+80. ADDED Satyr Wine and Revelry (and several associated cosmetics patches).
+81. ADDED PHB 2024 Protection and Great Weapon Fighting.
+82. ADDED Weapon Earrings.
+83. ADDED Elledwyn Accessories with Physics.
+84. ADDED Hollowborne Heads.
+85. ADDED Orin's New Look (removed other orin appearance mod).
+86. ADDED Lesser Restoration, a bug fixing mod for various dialogues/scenes/situations across the game.
+87. ADDED Sit with Gale and Sit With Astarion.
+88. ADDED Some Neat Amazing Crossbows.
+89. ADDED Full Restore Fix.
+90. REMOVED Psion class.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
