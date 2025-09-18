@@ -112,6 +112,20 @@ Save safe? No. Welcome back to Act 1.
 91. ADDED Feral Wildheart.
 92. ADDED Justice for Wraithwyn.
 93. ADDED Necromancer Items Improved.
+94. REMOVED Loot From Chasms because everyone keeps losing the Spider Matriarch's loot.
+95. REMOVED Extra Vulnerabilities, and replaced it with my own version.
+   * The "Turned" condition (applied by Turn Undead) makes victims vulnerable to Radiant damage.
+   * Ray of Enfeeblement will make targets vulnerable to Poison damage.
+   * Gaping Wound makes victims vulnerable to Poison damage.
+   * Wolf, Rat, and Bat infections cause Poison vulnerability.
+   * Webbed and Ensnared cause Fire vulnerability.
+   * Contagion: Mind Fire causes Psychic vulnerability.
+   * Contagion: Filth Fever causes Poison vulnerability.
+   * Contagion: Flesh Rot and Slimy Doom causes Necrotic vulnerability.
+   * Contagion: Seizure causes Acid vulnerability.
+   * Crippled, Pinned Down, Hamstrung, and Off Balanced all cause Acid vulnerability.
+   * Fear/Charmed/other mental conditions no longer bring Psychic vulnerability.
+97. REMOVED Always Saved Alfira (because Alfira Joins The Party should be doing the same thing).
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
