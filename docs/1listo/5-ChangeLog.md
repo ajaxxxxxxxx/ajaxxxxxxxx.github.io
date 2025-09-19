@@ -126,6 +126,16 @@ Save safe? No. Welcome back to Act 1.
    * Crippled, Pinned Down, Hamstrung, and Off Balanced all cause Acid vulnerability.
    * Fear/Charmed/other mental conditions no longer bring Psychic vulnerability.
 97. REMOVED Always Saved Alfira (because Alfira Joins The Party should be doing the same thing).
+98. REMOVED Paladin Visual Aura again.
+99. REMOVED REL. It will return *if* someone with more talent, time, passion, patience, and common sense volunteers to take over REL management from me.
+100. REPLACED Ketheric's replacer with a different one that makes him look like a fugly old undead elf, but doesn't go full World of Warcraft villain.
+101. REMOVED (optional) common actions consolidated.
+102. REMOVED (optional) Lone Wolf Feat. Smaller parties are not the intended Listo experience.
+103. Moved Owlbear Cub Evolved from optional to core.
+104. Moved Mother of Spiders from optional to core.
+105. REMOVED (optional) Companion Compendium.
+106. Moved Scratch and Shovel and Everyone Else from optional to core, however Us and Shovel are nerfed a little bit (worse base states, damage vulnerabilities). However all 3 companions are also improved in some ways (status immunities that make sense to each creature, like Us can't be blinded and Shovel is immune to fear). They can all be summoned once per short rest.
+107. Between Nessa, the Hyena, Scratch, Shovel, Us, the Owlbear, and the Crag Spiders, I'm declaring the end of "gotta catch 'em all creep." Anyone who complains Listo is too hard and still can't win with 500 summons and the easy CX config has skill issues.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
