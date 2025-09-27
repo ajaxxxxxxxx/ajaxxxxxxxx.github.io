@@ -136,10 +136,18 @@ Save safe? No. Welcome back to Act 1.
 105. REMOVED (optional) Companion Compendium.
 106. Moved Scratch and Shovel and Everyone Else from optional to core, however Us and Shovel are nerfed a little bit (worse base states, damage vulnerabilities). However all 3 companions are also improved in some ways (status immunities that make sense to each creature, like Us can't be blinded and Shovel is immune to fear). They can all be summoned once per short rest.
 107. Between Nessa, the Hyena, Scratch, Shovel, Us, the Owlbear, and the Crag Spiders, I'm declaring the end of "gotta catch 'em all creep." Anyone who complains Listo is too hard and still can't win with 500 summons and the easy CX config has skill issues.
-108. Increased the amount of XP required to reach Level 20 from 342,965 to 353,955 (12,990 XP).
+108. Increased the amount of XP required to reach Level 20 from 342,965 to ~~353,955 (12,990 XP)~~ 350,000 XP (7,035 more XP than v6).
+109. ADDED Style N Dye.
+110. ADDED Kira's Kill Count.
+111. ADDED Kira's Death Count.
+112. ADDED Dark Urge Bhaalspawn Lineage.
+113. ADDED Life Drain Spell.
+114. ADDED BG3 Speed Combat.
+115. ADDED Adventurer's Backpacks.
+116. ADDED Necrotic Armament and Curios.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
-Save safe? No. (I wanted to keep it safe but things got silly with serior errors).
+Save safe? No. (I wanted to keep it safe but things got silly with serious errors).
 
 1. Made dwarfs better (starting proficiencies)
 2. ADDED (Mod.io) Book of Ebon Tides.
