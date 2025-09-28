@@ -155,11 +155,11 @@ Save safe? No. Welcome back to Act 1.
    * Special NPC Flesh to Stone requires the caster to be below 67% HP.
    * Special NPC Heal has been changed to Special NPC Mass Healing Word. Requires the caster to be below 80% HP and uses a 2nd level spell slot.
    * Special NPC Otto's Irresistable Dance uses a 3rd level spell slot.
-   * Special NPC Blight requires <50% HP.
+   * Special NPC Blight requires less than 50% HP.
    * Special NPC Lightning Bolt damage is reduced from 8d6 to 6d6.
    * Special NPC Blood Feast cannot be used until the enemy is below 67% HP.
    * The Fireworks Blast spell was already removed from a lot of enemies, but the special version of it for NPCs now cannot be used until the caster is below 77% HP.
-   * Special NPC Greater Invisibility requires HP < 90%.
+   * Special NPC Greater Invisibility requires HP less than 90%.
    * Special NPC Power Word: Pain should actually work now.
    * The Bonus Action version of Special NPC Burning Hands uses a spell slot. So does regular and bonus action Special NPC Cone of Cold.
    * NPCs will not start using Absorb Intellect until below 77% HP.
