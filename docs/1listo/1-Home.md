@@ -205,19 +205,7 @@ A: Spells are rebalanced based on Valdacil's adjustment mods, with additional ch
 A: All classes get a feat every 3 levels (3, 6, 9, 12, 15, 18). Fighters, Mesmerists, and Rogues get an additional feat at level 11. Many vanilla feats are rebalanced (e.g., GWM/Sharpshooter, Tough, Durable), and new feats like Arcanist Feat, Essential Feats (War Magic, Deadly Alacrity, Alchemist, etc.), Enweaved, Experimental Alchemy Feat, and Dirty Fighting are added.
 
 ### Q: Are there new classes or subclasses?
-A: Yes. Listonomicon adds many new subclasses for existing classes and entirely new classes like Artificer, Mystic, and Mesmerist. All classes/subclasses can be played to level 20 and/or multiclassed:
-    * **Barbarian**: Path of the Zealot, Ancestral Guardian, Storm Herald, Giant, Beast, Battlerager, Juggernaut.
-    * **Bard**: College of Eloquence, Dance, Tragedy, Whispers.
-    * **Cleric**: Zeal, Strength, Ambition, Solidarity, Inquisition, Night, Eldritch, Grave, Arcana, Order, Twilight Domains.
-    * **Druid**: Circle of Stormchasers, Winter. Plus QoL for Wildshape and Spores.
-    * **Fighter**: Banneret, Brute, Rune Knight, Samurai, Cavalier, Echo Knight, Psi Warrior.
-    * **Monk**: Way of the Long Death, Astral Self, Sun Soul, Ascendant Dragon, Kensei, Drunken Master, Mercy.
-    * **Paladin**: Oath of Zeal, Conquest, Bleak Walkers. Start as Oathbreaker option.
-    * **Ranger**: Fey Wanderer, Horizon Walker, Monster Slayer, Primeval Guardian.
-    * **Rogue**: Grim Surgeon, Misfortune Bringer, Debonaire.
-    * **Sorcerer**: Aberrant Mind, Favored Soul. More Draconic options, Metamagic Extended.
-    * **Warlock**: The Undead, Celestial, Genie, Fathomless. Invocations Expanded.
-    * **Wizard**: Hierophant, Hexcraft, Graviturgy.
+A: Yes. Listonomicon adds many new subclasses for existing classes and entirely new classes like Artificer, Mystic, Inquisitor, Blackguard and Mesmerist. All classes/subclasses can be played to level 20 and/or multiclassed.
 
 ### Q: How is Wild Magic affected?
 A: Wild Magic Sorcerers and Barbarians have access to more effects (over 220+ total from multiple mods). Surge risk for Sorcerers increases by 5% per spell cast in combat until a surge, which then recharges Tides of Chaos. If Volo dies, all magic becomes wild magic. Many enemies use Wild Magic-adjacent mechanics like magic allergy or Controlled Chaos.
