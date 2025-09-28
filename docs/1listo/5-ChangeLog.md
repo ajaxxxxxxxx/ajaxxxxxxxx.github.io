@@ -170,6 +170,7 @@ Save safe? No. Welcome back to Act 1.
 123. REMOVED Unique Gear - Balduran's Giantslayer and Unique Gear - Helm of Balduran, to hybrdize similar change ideas w/ Cahoot's own rebalance patches.
 124. ADDED DnD 5R Pact of the Chain Warlock.
 125. ADDED Mazzle's EZ Documentation. Sections of the Listo wiki are now accessible IN GAME!
+126. In theory, the Blackguard Aura of Despair has been changed. It no longer inflicts disadvantage on all enemy attacks and saving throws. Instead, it inflicts disdavantage on Strength and Charisma saves, and enemies take damage if they try to cast spells near the Blackguard.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serious errors).
