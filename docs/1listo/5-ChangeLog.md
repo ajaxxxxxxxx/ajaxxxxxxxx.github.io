@@ -168,6 +168,8 @@ Save safe? No. Welcome back to Act 1.
 121. Adopted Goon's latest JWL Discordant Instruments fixes.
 122. Nerfed Crimson Lash to 2d6 damage instead of 3d6.
 123. REMOVED Unique Gear - Balduran's Giantslayer and Unique Gear - Helm of Balduran, to hybrdize similar change ideas w/ Cahoot's own rebalance patches.
+124. ADDED DnD 5R Pact of the Chain Warlock.
+125. ADDED Mazzle's EZ Documentation. Sections of the Listo wiki are now accessible IN GAME!
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serious errors).
