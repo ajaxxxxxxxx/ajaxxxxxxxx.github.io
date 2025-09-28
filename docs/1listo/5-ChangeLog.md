@@ -145,6 +145,25 @@ Save safe? No. Welcome back to Act 1.
 114. ADDED BG3 Speed Combat.
 115. ADDED Adventurer's Backpacks.
 116. ADDED Necrotic Armament and Curios.
+117. NERFED Foe Bane and Burning Earth (and their upgraded versions). Their versatile damage is only 3d4 dice, not 4d4. Combined with GWM/GWF they are still supremely powerful, but removing 1 die reduces the consequences of Fighting Style Great Weapons 2024.
+118. Attempted to clear out some redundant spells/issues and to reduce the number of classes getting access to Blackguard/Veenab/Xara's spells they maybe shouldn't have. Specifically, removed duplicate Larloch's Minor Drain, and removed Shade shield (necromancy version of Shield) from Rangers, Druids, Clerics, Wizards, and Sorcerers. Mark of Putrefaction has a Constitution saving throw, and was removed from Wizards, Bards, Rangers, and Sorcerers. Sigil of Mortality now has a Wisdom saving throw, and the bonus action is now consistent across all levels of the spell (originally it was a BA for the lowest level cast and then an action for every upcast?). Removed the spell from Wizards, Rangers, and Sorcerers. Reduced the base damage for Curse of Lethargy by 1 die, and made it in to a Concentration spell.
+119. Degreaser and special enemy versions of spells/attacks/abilities:
+     * Possession requires the enemy to have < 51% HP.
+     * Hellfire Orb has a DC set by the caster rather than a fixed number, and enemies who have a special bonus version can only cast it once and only once below 75% HP.
+     * Paralyzing Ray eats/requires a 3rd level spell slot. It also requires concentration.
+     * Special NPC Circle of Death costs a 4th level spell slot, but cannot be used unless the caster is under 55% HP.
+     * Special NPC Flesh to Stone requires the caster to be below 67% HP.
+     * Special NPC Heal has been changed to Special NPC Mass Healing Word. Requires the caster to be below 80% HP and uses a 2nd level spell slot.
+     * Special NPC Otto's Irresistable Dance uses a 3rd level spell slot.
+     * Special NPC Blight requires <50% HP.
+     * Special NPC Lightning Bolt damage is reduced from 8d6 to 6d6.
+     * Special NPC Blood Feast cannot be used until the enemy is below 67% HP.
+     * The Fireworks Blast spell was already removed from a lot of enemies, but the special version of it for NPCs now cannot be used until the caster is below 77% HP.
+     * Special NPC Greater Invisibility requires HP < 90%.
+     * Special NPC Power Word: Pain should actually work now.
+     * The Bonus Action version of Special NPC Burning Hands uses a spell slot. So does regular and bonus action Special NPC Cone of Cold.
+     * NPCs will not start using Absorb Intellect until below 77% HP.
+     * Increased the HP required remaining to 44% for NPC Action Surge, Mirror Image, Bear Rage, and Second Wind.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serious errors).
