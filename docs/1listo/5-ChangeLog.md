@@ -146,7 +146,7 @@ Save safe? No. Welcome back to Act 1.
 115. ADDED Adventurer's Backpacks.
 116. ADDED Necrotic Armament and Curios.
 117. NERFED Foe Bane and Burning Earth (and their upgraded versions). Their versatile damage is only 3d4 dice, not 4d4. Combined with GWM/GWF they are still supremely powerful, but removing 1 die reduces the consequences of Fighting Style Great Weapons 2024.
-118. Attempted to clear out some redundant spells/issues and to reduce the number of classes getting access to Blackguard/Veenab/Xara's spells they maybe shouldn't have. Specifically, removed duplicate Larloch's Minor Drain, and removed Shade shield (necromancy version of Shield) from Rangers, Druids, Clerics, Wizards, and Sorcerers. Mark of Putrefaction has a Constitution saving throw, and was removed from Wizards, Bards, Rangers, and Sorcerers. Sigil of Mortality now has a Wisdom saving throw, and the bonus action is now consistent across all levels of the spell (originally it was a BA for the lowest level cast and then an action for every upcast?). Removed the spell from Wizards, Rangers, and Sorcerers. Reduced the base damage for Curse of Lethargy by 1 die, and made it in to a Concentration spell.
+118. Attempted to clear out some redundant spells/issues and to reduce the number of classes getting access to Blackguard/Veenab/Xara's spells they maybe shouldn't have. Specifically, removed duplicate Larloch's Minor Drain, and removed Shade shield (necromancy version of Shield) from Rangers, Druids, Clerics, Wizards, and Sorcerers. Mark of Putrefaction has a Constitution saving throw, and was removed from Wizards, Bards, Rangers, and Sorcerers. ~~Sigil of Mortality now has a Wisdom saving throw, and the bonus action is now consistent across all levels of the spell (originally it was a BA for the lowest level cast and then an action for every upcast?). Removed the spell from Wizards, Rangers, and Sorcerers. Reduced the base damage for Curse of Lethargy by 1 die, and made it in to a Concentration spell.~~ Sigil of Mortality just straight up doesn't work. :)
 119. Degreaser and special enemy versions of spells/attacks/abilities:
    * Possession requires the enemy to have < 51% HP.
    * Hellfire Orb has a DC set by the caster rather than a fixed number, and enemies who have a special bonus version can only cast it once and only once below 75% HP.
@@ -164,6 +164,10 @@ Save safe? No. Welcome back to Act 1.
    * The Bonus Action version of Special NPC Burning Hands uses a spell slot. So does regular and bonus action Special NPC Cone of Cold.
    * NPCs will not start using Absorb Intellect until below 77% HP.
    * Increased the HP required remaining to 44% for NPC Action Surge, Mirror Image, Bear Rage, and Second Wind.
+120. Lathander's Blessing (the +1d4 radiant damage for doing the puzzle) should go away on long rest correctly. Undead characters are also not valid candidates for his gift anymore :)
+121. Adopted Goon's latest JWL Discordant Instruments fixes.
+122. Nerfed Crimson Lash to 2d6 damage instead of 3d6.
+123. REMOVED Unique Gear - Balduran's Giantslayer and Unique Gear - Helm of Balduran, to hybrdize similar change ideas w/ Cahoot's own rebalance patches.
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serious errors).
