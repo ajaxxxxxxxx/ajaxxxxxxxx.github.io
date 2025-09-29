@@ -172,6 +172,7 @@ Save safe? No. Welcome back to Act 1.
 125. ADDED Mazzle's EZ Documentation. Sections of the Listo wiki are now accessible IN GAME!
 126. In theory, the Blackguard Aura of Despair has been changed. It no longer inflicts disadvantage on all enemy attacks and saving throws. Instead, it inflicts disdavantage on Strength and Charisma saves, and enemies take damage if they try to cast spells near the Blackguard.
 127. REMOVED Hearts' Heads (no more "new mod detected HW_edits.pak" yay).
+128. ADDED Mourning Frost Tweaks.
 
 
 ## Listonomicon v6.3 ALFIRA LIVES!
