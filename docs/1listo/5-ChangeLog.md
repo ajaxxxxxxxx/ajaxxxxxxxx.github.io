@@ -54,7 +54,7 @@ Save safe? No. Welcome back to Act 1.
 33. Moved the poison dagger at the very start of Act 1 to be for sale in the Grove, and a moist dagger is in the chest instead.
 34. ADDED Vera the Alchemist, a new Act 2 quest.
 35. ~~ADDED Summoner's Best Friend, a new Act 1 quest.~~ nah doesn't work so good
-36. ADDED Character Appearance Editor, a MCM-powered appearance editor for small touch details, materials swaps, and editing features not in basic character creation.
+36. ~~ADDED Character Appearance Editor, a MCM-powered appearance editor for small touch details, materials swaps, and editing features not in basic character creation.~~
 37. ADDED Weapons of the Feywild, and distributed them to various merchants.
 38. ADDED Githyanki Frog Eyes.
 39. ADDED "custom" replacements of the difficulty options when starting a new campaign, to help mark the wrong choices apart from the correct custom game settings. Thanks Reyqune.
@@ -68,7 +68,7 @@ Save safe? No. Welcome back to Act 1.
 47. Updated Randomized Equipment Loot mode to *hopefully* cover all mods added to Listo since the last update, and specifically telling it to ignore certain mods I don't want it to mess with.
 48. ADDED Clawstep Dragonborn Body, Glow Ink, and Whispers of the Guardian so that you can both be a fearsome dragonborn, and have one as your dream guardian. In addition, added Lost Shipment - Equipment for Clawstep, but blocked it from actually appearing in-game as free loot (since it is not relevant to every other race selection). Instead, LS is joining the roster of Armoury/transmog cosmetic-only armors.
 49. ~~ADDED Versatile Duelist, which supposedly gives you the option to 1-hand versatile weapons so that they interact with the Duelist fighting style correctly.~~ nah
-50. [Testing] ADDED no-concentration smites.
+50. ADDED no-concentration smites.
 51. ~~ADDED (for testing) Mazzle's RangeFinder.~~ nah
 52. ADDED Animation Unlocker.
 53. ADDED Inquisitor class.
@@ -171,6 +171,8 @@ Save safe? No. Welcome back to Act 1.
 124. ADDED DnD 5R Pact of the Chain Warlock.
 125. ADDED Mazzle's EZ Documentation. Sections of the Listo wiki are now accessible IN GAME!
 126. In theory, the Blackguard Aura of Despair has been changed. It no longer inflicts disadvantage on all enemy attacks and saving throws. Instead, it inflicts disdavantage on Strength and Charisma saves, and enemies take damage if they try to cast spells near the Blackguard.
+127. REMOVED Hearts' Heads (no more "new mod detected HW_edits.pak" yay).
+
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serious errors).
