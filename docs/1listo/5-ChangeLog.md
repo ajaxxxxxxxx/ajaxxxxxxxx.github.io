@@ -173,6 +173,10 @@ Save safe? No. Welcome back to Act 1.
 126. In theory, the Blackguard Aura of Despair has been changed. It no longer inflicts disadvantage on all enemy attacks and saving throws. Instead, it inflicts disdavantage on Strength and Charisma saves, and enemies take damage if they try to cast spells near the Blackguard.
 127. REMOVED Hearts' Heads (no more "new mod detected HW_edits.pak" yay).
 128. ADDED Mourning Frost Tweaks.
+129. ADDED Harvest's End.
+130. ADDED Crown of Crones.
+131. ADDED Fizz's head Mod.
+132. ADDED Auto Wares.
 
 
 ## Listonomicon v6.3 ALFIRA LIVES!
