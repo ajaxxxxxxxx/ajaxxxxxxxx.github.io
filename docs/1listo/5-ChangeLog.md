@@ -177,6 +177,8 @@ Save safe? No. Welcome back to Act 1.
 130. ADDED Crown of Crones.
 131. ADDED Fizz's head Mod.
 132. ADDED Auto Wares.
+133. ADDED Mamzell Armory.
+134. ADDED Darkness Domain for Clerics, and now Shadowheart will start as a useful subclass.
 
 
 ## Listonomicon v6.3 ALFIRA LIVES!
