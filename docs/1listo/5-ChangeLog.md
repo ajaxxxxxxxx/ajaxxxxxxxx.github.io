@@ -170,7 +170,7 @@ Save safe? No. Welcome back to Act 1.
 123. REMOVED Unique Gear - Balduran's Giantslayer and Unique Gear - Helm of Balduran, to hybrdize similar change ideas w/ Cahoot's own rebalance patches.
 124. ADDED DnD 5R Pact of the Chain Warlock.
 125. ADDED Mazzle's EZ Documentation. Sections of the Listo wiki are now accessible IN GAME!
-126. In theory, the Blackguard Aura of Despair has been changed. It no longer inflicts disadvantage on all enemy attacks and saving throws. Instead, it inflicts disdavantage on Strength and Charisma saves, and enemies take damage if they try to cast spells near the Blackguard.
+126. ~~In theory, the Blackguard Aura of Despair has been changed. It no longer inflicts disadvantage on all enemy attacks and saving throws. Instead, it inflicts disdavantage on Strength and Charisma saves, and enemies take damage if they try to cast spells near the Blackguard.~~ JL935 took me to school, like Modder 101, and saved my first attempt at editing Blackguard. Now its replacement/rebalance works gooder. The initial aura will give enemies STR/CHA save disadvantage, and non-undead will take damage for casting spells near the blackguard. The improved higher level version of the aura will add DEX/INT disadvantage. Making the blackguard a roaming blackhole of debuffing enemies, making them weaker against the blackguard and allies' spells/abilities.
 127. REMOVED Hearts' Heads (no more "new mod detected HW_edits.pak" yay).
 128. ADDED Mourning Frost Tweaks.
 129. ADDED Harvest's End.
@@ -179,6 +179,7 @@ Save safe? No. Welcome back to Act 1.
 132. ADDED Auto Wares.
 133. ADDED Mamzell Armory.
 134. ADDED Darkness Domain for Clerics, and now Shadowheart will start as a useful subclass.
+135. MOVED Noto Sans UI to the optional category.
 
 
 ## Listonomicon v6.3 ALFIRA LIVES!
