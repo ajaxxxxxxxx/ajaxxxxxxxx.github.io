@@ -173,13 +173,21 @@ Save safe? No. Welcome back to Act 1.
 126. ~~In theory, the Blackguard Aura of Despair has been changed. It no longer inflicts disadvantage on all enemy attacks and saving throws. Instead, it inflicts disdavantage on Strength and Charisma saves, and enemies take damage if they try to cast spells near the Blackguard.~~ JL935 took me to school, like Modder 101, and saved my first attempt at editing Blackguard. Now its replacement/rebalance works gooder. The initial aura will give enemies STR/CHA save disadvantage, and non-undead will take damage for casting spells near the blackguard. The improved higher level version of the aura will add DEX/INT disadvantage. Making the blackguard a roaming blackhole of debuffing enemies, making them weaker against the blackguard and allies' spells/abilities.
 127. REMOVED Hearts' Heads (no more "new mod detected HW_edits.pak" yay).
 128. ADDED Mourning Frost Tweaks.
-129. ADDED Harvest's End.
-130. ADDED Crown of Crones.
+129. ADDED Harvest's End, which is for sale from Volo. Added a proper price, improved its stats, and extended its list of random whacky tricks and treats to 20 possibilities.
+130. ADDED Crown of Crones, which can be found somewhere hidden in the Grove.
 131. ADDED Fizz's head Mod.
 132. ADDED Auto Wares.
 133. ADDED Mamzell Armory.
+   * This mod is a launchpad to move some items for sale in later Act 3, to be for sale in Sharess Caress.
+   * Moved the Garish Gewdian here from Sorcerous Sundries.
+   * Moved one cloak from Stormshore and one cloak from Steeps that help with melee combat. And... other things.
+   * Moved a charisma caster robe, barbarian-monk build item, and lucky amulet to her from the Voiceless Penitent.
+   * She sells a nymph cloak.
+   * Volo, in exchange, now sells scrolls for Mage Hand, Thorn Whip, Command, Entangle, Disguise Self, Lesser Restoration, Death Ward, Darkness, Enlarge, incubus underwear, a bottle of grease, and scrolls for Telekinesis and Enlarge.
 134. ADDED Darkness Domain for Clerics, and now Shadowheart will start as a useful subclass.
 135. MOVED Noto Sans UI to the optional category.
+136. Modified the special drunk conditions used by the Act 2 drunk zombie boss, so that they can still affect him despite undead in Listo otherwise being immune to drunk effects.
+137. Sharrans should no longer be randomly hostile for no reason.
 
 
 ## Listonomicon v6.3 ALFIRA LIVES!
