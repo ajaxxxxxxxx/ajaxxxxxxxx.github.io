@@ -188,6 +188,7 @@ Save safe? No. Welcome back to Act 1.
 135. MOVED Noto Sans UI to the optional category.
 136. Modified the special drunk conditions used by the Act 2 drunk zombie boss, so that they can still affect him despite undead in Listo otherwise being immune to drunk effects.
 137. Sharrans should no longer be randomly hostile for no reason.
+138. ADDED Epilogue Letter Bug Fixes.
 
 
 ## Listonomicon v6.3 ALFIRA LIVES!
