@@ -166,7 +166,7 @@ Save safe? No. Welcome back to Act 1.
    * Increased the HP required remaining to 44% for NPC Action Surge, Mirror Image, Bear Rage, and Second Wind.
 120. Lathander's Blessing (the +1d4 radiant damage for doing the puzzle) should go away on long rest correctly. Undead characters are also not valid candidates for his gift anymore :)
 121. Adopted Goon's latest JWL Discordant Instruments fixes.
-122. ~~Nerfed Crimson Lash to 2d6 damage instead of 3d6.~~ I need to find Crimson Lash's actual spell to nerf it.
+122. ~~Nerfed Crimson Lash to 2d6 damage instead of 3d6.~~ ~~I need to find Crimson Lash's actual spell to nerf it.~~ Reduced Crimson Lash's damage by 1 die (starts at 2d6).
 123. REMOVED Unique Gear - Balduran's Giantslayer and Unique Gear - Helm of Balduran, to hybrdize similar change ideas w/ Cahoot's own rebalance patches.
 124. ADDED DnD 5R Pact of the Chain Warlock.
 125. ADDED Mazzle's EZ Documentation. Sections of the Listo wiki will be accessible IN GAME!
