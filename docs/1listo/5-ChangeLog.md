@@ -192,6 +192,7 @@ Save safe? No. Welcome back to Act 1.
 139. ~~REMOVED Quartered Faster Rolls.~~ nevermind the game feels horrible without this mod.
 140. Hopefully fixed an issue with the Storm Door spell messing up Cleric cantrips.
 141. ADDED Moonrise Towers' New Look.
+142. REMOVED Improved Reaper (redundant with Expansion now).
 
 
 ## Listonomicon v6.3 ALFIRA LIVES!
