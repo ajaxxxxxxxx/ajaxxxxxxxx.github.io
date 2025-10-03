@@ -138,11 +138,11 @@ Save safe? No. Welcome back to Act 1.
 107. Between Nessa, the Hyena, Scratch, Shovel, Us, the Owlbear, and the Crag Spiders, I'm declaring the end of "gotta catch 'em all creep." Anyone who complains Listo is too hard and still can't win with 500 summons and the easy CX config has skill issues.
 108. Increased the amount of XP required to reach Level 20 from 342,965 to ~~353,955 (12,990 XP)~~ 350,000 XP (7,035 more XP than v6).
 109. ADDED Style N Dye.
-110. ADDED Kira's Kill Count.
-111. ADDED Kira's Death Count.
+110. ADDED Kira's Kill Count (optional UI).
+111. ADDED Kira's Death Count (optional UI).
 112. ADDED Dark Urge Bhaalspawn Lineage.
 113. ADDED Life Drain Spell.
-114. ADDED BG3 Speed Combat.
+114. ~~ADDED BG3 Speed Combat.~~
 115. ADDED Adventurer's Backpacks.
 116. ADDED Necrotic Armament and Curios.
 117. NERFED Foe Bane and Burning Earth (and their upgraded versions). Their versatile damage is only 3d4 dice, not 4d4. Combined with GWM/GWF they are still supremely powerful, but removing 1 die reduces the consequences of Fighting Style Great Weapons 2024.
@@ -169,12 +169,12 @@ Save safe? No. Welcome back to Act 1.
 122. ~~Nerfed Crimson Lash to 2d6 damage instead of 3d6.~~ I need to find Crimson Lash's actual spell to nerf it.
 123. REMOVED Unique Gear - Balduran's Giantslayer and Unique Gear - Helm of Balduran, to hybrdize similar change ideas w/ Cahoot's own rebalance patches.
 124. ADDED DnD 5R Pact of the Chain Warlock.
-125. ADDED Mazzle's EZ Documentation. Sections of the Listo wiki are now accessible IN GAME!
+125. ADDED Mazzle's EZ Documentation. Sections of the Listo wiki will be accessible IN GAME!
 126. ~~In theory, the Blackguard Aura of Despair has been changed. It no longer inflicts disadvantage on all enemy attacks and saving throws. Instead, it inflicts disdavantage on Strength and Charisma saves, and enemies take damage if they try to cast spells near the Blackguard.~~ JL935 took me to school, like Modder 101, and saved my first attempt at editing Blackguard. Now its replacement/rebalance works gooder. The initial aura will give enemies STR/CHA save disadvantage, and non-undead will take damage for casting spells near the blackguard. The improved higher level version of the aura will add DEX/INT disadvantage. Making the blackguard a roaming blackhole of debuffing enemies, making them weaker against the blackguard and allies' spells/abilities.
 127. REMOVED Hearts' Heads (no more "new mod detected HW_edits.pak" yay).
 128. ADDED Mourning Frost Tweaks.
 129. ADDED Harvest's End, which is for sale from Volo. Added a proper price, improved its stats, and extended its list of random whacky tricks and treats to 20 possibilities.
-130. ADDED Crown of Crones, which can be found somewhere hidden in the Grove.
+130. ADDED Crown of Crones, which can be found somewhere in the Grove.
 131. ADDED Fizz's head Mod.
 132. ADDED Auto Wares.
 133. ADDED Mamzell Armory.
@@ -189,6 +189,7 @@ Save safe? No. Welcome back to Act 1.
 136. Modified the special drunk conditions used by the Act 2 drunk zombie boss, so that they can still affect him despite undead in Listo otherwise being immune to drunk effects.
 137. Sharrans should no longer be randomly hostile for no reason.
 138. ADDED Epilogue Letter Bug Fixes.
+139. REMOVED Quartered Faster Rolls.
 
 
 ## Listonomicon v6.3 ALFIRA LIVES!
