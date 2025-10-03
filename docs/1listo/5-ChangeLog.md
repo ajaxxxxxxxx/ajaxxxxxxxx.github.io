@@ -78,7 +78,7 @@ Save safe? No. Welcome back to Act 1.
 57. Fixed the description of "Unstoppable" to reflect how it is changed in Listo.
 58. Deathknight Armor will only curse those who wear it to die instantly at 0 HP (no death saving throws), rather than afflicting the full CbD and spawning 500 devas.
 59. ADDED Warrior of the Elements Monk.
-60. ADDED Minthara's Immersive Redesign, New CC Colors for Lae'zel, and Orin the Red's redesign by LazezL.
+60. ADDED Minthara's ~~Immersive Redesign~~ Minthara's redesigned equipment (but left her own appearance alone), New CC Colors for Lae'zel, and Orin the Red's redesign by LazezL.
 61. ADDED 5e Spells Action Resource Icons.
 62. REMOVED (optional) Blessings of Deities, Champions of Faerun, Combat Random Equipment.
 63. REMOVED [Mod.io] 60 Wild Magic Effects.
@@ -189,8 +189,9 @@ Save safe? No. Welcome back to Act 1.
 136. Modified the special drunk conditions used by the Act 2 drunk zombie boss, so that they can still affect him despite undead in Listo otherwise being immune to drunk effects.
 137. Sharrans should no longer be randomly hostile for no reason.
 138. ADDED Epilogue Letter Bug Fixes.
-139. REMOVED Quartered Faster Rolls.
+139. ~~REMOVED Quartered Faster Rolls.~~ nevermind the game feels horrible without this mod.
 140. Hopefully fixed an issue with the Storm Door spell messing up Cleric cantrips.
+141. ADDED Moonrise Towers' New Look.
 
 
 ## Listonomicon v6.3 ALFIRA LIVES!
