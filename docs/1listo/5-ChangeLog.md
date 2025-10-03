@@ -190,6 +190,7 @@ Save safe? No. Welcome back to Act 1.
 137. Sharrans should no longer be randomly hostile for no reason.
 138. ADDED Epilogue Letter Bug Fixes.
 139. REMOVED Quartered Faster Rolls.
+140. Hopefully fixed an issue with the Storm Door spell messing up Cleric cantrips.
 
 
 ## Listonomicon v6.3 ALFIRA LIVES!
