@@ -15,8 +15,10 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v7.0 Slime Edition (WIP)
+## Listonomicon v7.0.8 Slime Edition
 Save safe? No. Welcome back to Act 1.
+
+Thank you all the play testers, commentors, and helpers who helped a rough v7 iterate all the way to 8 internal play tests (5 public ones!).
 
 1. ADDED More Prominent Shadowheart Scars.
 2. ADDED Tusk Evolved.
@@ -193,7 +195,6 @@ Save safe? No. Welcome back to Act 1.
 140. Hopefully fixed an issue with the Storm Door spell messing up Cleric cantrips.
 141. ADDED Moonrise Towers' New Look.
 142. REMOVED Improved Reaper (redundant with Expansion now).
-
 
 ## Listonomicon v6.3 ALFIRA LIVES!
 Save safe? No. (I wanted to keep it safe but things got silly with serious errors).
