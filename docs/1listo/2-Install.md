@@ -9,7 +9,7 @@ description: Install Info
 
 :::info
 ## **Requirements**
-- ~ 56 GB of space for the modlist (~half the GB can be reclaimed by deleting downloaded mod archives after finishing your install)
+- ~ 75 GB of space for the modlist (~half the GB can be reclaimed by deleting downloaded mod archives after finishing your install)
 - A legally obtained copy of Baldur's Gate 3 (while a Steam global copy is safest, any copy should do), **installed and launched vanilla from Steam/GoG/whatever at least once**
 - [Wabbajack](https://www.wabbajack.org/)
 - A Nexus account (Premium recommended; _drastically_ increases install speed)
@@ -69,7 +69,7 @@ BG3 should no longer receive Patches (major updates), but Hotfixes (small update
 ### 6.) Launching MO2
 
 - Your portable instance of Mod Organizer 2 should be ready as soon as Wabbajack is done. Look for ModOrganizer.exe in the folder where you installed Listonomicon. You can verify that everything is working by ensuring that MO2 has defaulted to the correct profile at the top-left, which should be Listonomicon.
-- **Listonomicon: Your total number of active mods should be 719, and the purple seperator at the top should say Listonomicon v6.2**
+- **Listonomicon: Your total number of active mods should be 811, and the purple seperator at the top should say Listonomicon v7.0.8 Slime Edition**
 - **Listonomicon Lite: For Listo Lite, your total active mods should be 452, and the seperator should say Listo Lite v6.0.1**
 - At the top-right, you should be able to switch the program to launch the Vulkan or dx11 version of the game.
 - Hit "run" after selecting the EXE that works best for your system. Always launch the game this way (don't use Steam).
