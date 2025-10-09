@@ -15,7 +15,7 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v7.0.8 Slime Edition
+## Listonomicon v7.0.9 Slime Edition
 Save safe? Yes* (*see notes)
 
 1. ADDED Tharchiate Ascendency.
