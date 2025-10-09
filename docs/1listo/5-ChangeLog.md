@@ -22,8 +22,9 @@ Save safe? Yes* (*see notes)
 2. ADDED More Camp Idles for Wyll and Astarion.
 3. ADDED Records, and MCM-powered stat tracking mod.
 4. Corrected the load order for Cahoots Feats Overhaul, so you should have the right Ritual Caster now. Respec if necessary.
-5. Updated 9 mods.
-6. Reduced the nerfs to the Mizora Reward eldritch blast add-ons. Generally the DC will be your save DC -2 (instead of -4), except Deteriorating Blast and Bewitching Blast which is DC -3. Lance of Lethargy has a Constitution save now. Removed a dumb mistake I made with Mizora's Rewards that broke the eldritch glaive completely.
+5. Changed the load order for Chiz's animal summon spells so you get cooler animal summons.
+6. Updated 12 mods.
+7. Reduced the nerfs to the Mizora Reward eldritch blast add-ons. Generally the DC will be your save DC -2 (instead of -4), except Deteriorating Blast and Bewitching Blast which is DC -3. Lance of Lethargy has a Constitution save now. Removed a dumb mistake I made with Mizora's Rewards that broke the eldritch glaive completely.
 
 ## Listonomicon v7.0.8 Slime Edition
 Save safe? No. Welcome back to Act 1.
