@@ -21,7 +21,7 @@ Save safe? Yes
 1. NERFED "Multiattack Defense" from inflicting a -4 penalty to hit, down to a -2 penalty to hit.
 2. Gave "Multiattack Defense" back to some bosses/minibosses that need the extra survivability (but -4 was way too much). (this almost nerfed rangers too before Cahoot/CatDude realized I was dumb, thanks CatDude55 for implementing this correctly).
 3. Implemented some paranthesese in the code for Mizora Rewards to hopefully make the save DC tweaks to frightful/sickening/betwitching/etc blast work correctly.
-4. Updated 43 mods.
+4. Updated 60ish mods.
 5. REMOVED Skill Actions ("Skill Actions Consolidated" has now become "Skill Actions 2" making the mod it once existed to patch now redundant). Hopefully this doesn't break saves. :)
 6. ADDED Traveler's Backpacks (cosmetic for armory).
 7. ADDED Immersive Character Lighting.
@@ -35,6 +35,12 @@ Save safe? Yes
 15. ADDED Raven Witch Feathered Dress Outfit (cosmetic for armory).
 16. ADDED Second Chance - New Dark Urge Reward.
 17. ADDED Scout - Mastermind - Inquisitive (Rogue Subclasses).
+18. REMOVED Delete Nabaar because it blocks POTR :(
+19. REMOVED (optional) Noto Sans UI. Hyerlegible or Open Dyslexic are the only remaining optional includes.
+20. REMOVED (optional) Torches Cast Shadows and Spells Cast Shadows. They're pretty but they're resource-intensive, and the game already struggles at multiple points with the increased number of party members and summons and VFX and everything.
+21. REMOVED (optional) Dark Urge Karlach, Lae'zel, and Wyll (leaving Astarion, Gale, and Shadowheart). This is for a combination of lore reasons, and because it seems like Wyll's most common choice concerning his pact results in an event that breaks the Dark Urge stuff.
+22. Removed some changes to treasure tables/gold rewards in case they're responsible for vendors not having gold in the late game.
+23. Consolidated the entire Listo Master Patch's worth of treasure tables into a single document (1,883 lines) to see if it improves the reliability of stuff spawning where it is supposed to.
 
 ## Listonomicon v7.0.9 Slime Edition
 Save safe? Yes* (*see notes)
