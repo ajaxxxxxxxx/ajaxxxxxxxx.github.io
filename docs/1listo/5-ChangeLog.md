@@ -21,7 +21,7 @@ Save safe? Yes
 1. NERFED "Multiattack Defense" from inflicting a -4 penalty to hit, down to a -2 penalty to hit.
 2. Gave "Multiattack Defense" back to some bosses/minibosses that need the extra survivability (but -4 was way too much). (this almost nerfed rangers too before Cahoot/CatDude realized I was dumb, thanks CatDude55 for implementing this correctly).
 3. Implemented some paranthesese in the code for Mizora Rewards to hopefully make the save DC tweaks to frightful/sickening/betwitching/etc blast work correctly.
-4. Updated 60ish mods.
+4. Updated 84ish mods.
 5. REMOVED Skill Actions ("Skill Actions Consolidated" has now become "Skill Actions 2" making the mod it once existed to patch now redundant). Hopefully this doesn't break saves. :)
 6. ADDED Traveler's Backpacks (cosmetic for armory).
 7. ADDED Immersive Character Lighting.
