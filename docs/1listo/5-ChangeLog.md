@@ -50,6 +50,7 @@ Save safe? Yes
 28. ADDED Spooky Scary Skeleton Costumes (cosmetic for armory).
 29. ADDED Church of Bane's New Look.
 30. ADDED Staff of the Archfey.
+31. UPDATED Universal Feats to grant a bonus feat at level 13, and a bonus 11th level feat for Artificers.
 
 ## Listonomicon v7.0.9 Slime Edition
 Save safe? Yes* (*see notes)
