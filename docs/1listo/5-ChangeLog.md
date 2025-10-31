@@ -28,7 +28,7 @@ Save safe? Yes
 8. ADDED Camp Event Overhaul.
 9. ADDED Camp Event Overhaul.
 10. ADDED Maybe it's natural maybe it's Poesielibre - Additional natural hair colors.
-11. ADDED Korilla and HOpe Edits.
+11. ADDED Korilla and Hope Edits.
 12. ADDED Feline Fiendish - Cambion eye replacer.
 13. ADDED Banite wretched armor (cosmetic for armory).
 14. ADDED Seam Mender - Dragonborn Texture fix.
@@ -41,6 +41,14 @@ Save safe? Yes
 21. REMOVED (optional) Dark Urge Karlach, Lae'zel, and Wyll (leaving Astarion, Gale, and Shadowheart). This is for a combination of lore reasons, and because it seems like Wyll's most common choice concerning his pact results in an event that breaks the Dark Urge stuff.
 22. Removed some changes to treasure tables/gold rewards in case they're responsible for vendors not having gold in the late game.
 23. Consolidated the entire Listo Master Patch's worth of treasure tables into a single document (1,883 lines) to see if it improves the reliability of stuff spawning where it is supposed to.
+24. Cahoot's Feat Overhaul has been updated:
+   * Mage Slayer: nerfed to give damage reduction from spells equal to your Proficiency Bonus instead of resistance to all spell damage.
+   * Polearm Master: fixed bug that caused some weapon buffs that changed your attack roll ability (e.g. Hexblade's Bind Weapon) from working with the bonus attack. Requires the latest version of Goon's Library.
+   * Spell Sniper: reworked to now give advantage on damage die for all spells/cantrips that use an attack roll, instead of only for a specific list of spells. This offers better compatibility with mods and results in a wider list of spells that benefit from this effect (e.g. melee attack roll spells now benefit). Only works for the first hit of the spell to prevent Eldritch Blast from being too OP with this feat.
+26. ADDED Church of Bhaal's New Look.
+27. ADDED Better Ketheric's Warhammer.
+28. ADDED Spooky Scary Skeleton Costumes (cosmetic for armory).
+29. ADDED Church of Bane's New Look.
 
 ## Listonomicon v7.0.9 Slime Edition
 Save safe? Yes* (*see notes)
