@@ -15,7 +15,7 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v7.0.10 Slime Edition (WIP)
+## Listonomicon v7.0.10 Slime Edition
 Save safe? Yes
 
 1. NERFED "Multiattack Defense" from inflicting a -4 penalty to hit, down to a -2 penalty to hit.
@@ -25,7 +25,7 @@ Save safe? Yes
 5. REMOVED Skill Actions ("Skill Actions Consolidated" has now become "Skill Actions 2" making the mod it once existed to patch now redundant). Hopefully this doesn't break saves. :)
 6. ADDED Traveler's Backpacks (cosmetic for armory).
 7. ADDED Immersive Character Lighting.
-8. ADDED Camp Event Overhaul.
+8. ADDED Crown of Crones.
 9. ADDED Camp Event Overhaul.
 10. ADDED Maybe it's natural maybe it's Poesielibre - Additional natural hair colors.
 11. ADDED Korilla and Hope Edits.
@@ -49,6 +49,7 @@ Save safe? Yes
 27. ADDED Better Ketheric's Warhammer.
 28. ADDED Spooky Scary Skeleton Costumes (cosmetic for armory).
 29. ADDED Church of Bane's New Look.
+30. ADDED Staff of the Archfey.
 
 ## Listonomicon v7.0.9 Slime Edition
 Save safe? Yes* (*see notes)
