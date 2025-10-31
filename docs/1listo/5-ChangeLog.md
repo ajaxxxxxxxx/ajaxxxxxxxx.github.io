@@ -51,6 +51,8 @@ Save safe? Yes
 29. ADDED Church of Bane's New Look.
 30. ADDED Staff of the Archfey.
 31. UPDATED Universal Feats to grant a bonus feat at level 13, and a bonus 11th level feat for Artificers.
+32. Added more items to the auto-wares list.
+33. Rebalanced attunement (mostly by reducing rarity/removing attunement from a handful of items).
 
 ## Listonomicon v7.0.9 Slime Edition
 Save safe? Yes* (*see notes)
