@@ -15,6 +15,36 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v7.0.11 Slime Edition
+Save safe? Yes* but you may want to respec the party to level 1 before updating due to classes and spell lists changing.
+
+The next update will NOT be save safe as I plan to remove some things/clean up the list considerably/send things to optional/make updates that aren't save safe.
+
+1. UPDATED 34 mods.
+2. ADDED De-Duplicator, which is advertised to help stop enemies from getting boosts multiple times when they aren't supposed to.
+3. ADDED Shadar-Kai Subrace.
+4. By some miracle, Chivalry - Expansion hasn't been nuked from Nexus so it's been added to Listo for testing. If you want to give helpful feedback, please make sure to let me know what other optional mods you have enabled so that I have a better idea of overlaps/conflicts/issues being from one mod or from a mod combo.
+5. ADDED Sorcerer King Warlock.
+6. ADDED Viconia Consistency.
+7. ADDED NPC Redesign - Zhentarim Hideout.
+8. ADDED Curel Sting Enhanced.
+9. ADDED Poesielibre's Fantastical Hairstyles.
+10. ADDED Dragonborn Hatchlings (dragonborn children), no I'm not replacing the tiefling kids with them.
+11. ADDED Zethino Love Test Buff Fix (doing the 'love test' with the dryad in the circus now does something).
+12. ADDED (for testing) Feats Extra.
+13. ADDED Eyevan's Ghoulish Goods.
+14. Completely reworked the Titanstring Bow (the silly meme bow with the wrong tooltip that lies about doing crazy damage).
+15. Nerfed Staff of the Archfey.
+16. Nerfed Path of the Righteous.
+17. Crimped a ton of patches/fixes/cool stuff from Cahoot's github :)
+    * Cahoot patches improve Ambusher, Hellfire Greataxe, Punch-Drunk Bastard, Devotee's Mace, The Sacred Star, Ravengard's Scourger, Long Arm of the Gur, Robe of Summer, Obsidian Laced Robe, Bided Time, Wavemother's Robe, Elegant Studded Leather, Gloves of Battlemage's Power, Mystra's Grace, Vital Conduit Boots, Boots of Apparent Death, Spacehunt Boots, Cloak of Elemental Absorption, Wavemother's Cloak, Komira's Locket, Glowing Shield, and Shield of Shielding.
+    * Kept finesse on POTR sword.
+    * Kept Celestial Annointment.
+    * Kept the shield Cahoot removed.
+    * GraphicFade fixes (mostly Damage Rider stuff) and localization improvements.
+    * Cahoot shuffled some magic items around (The Pointy Hat, Pelorsun Blade, some other items that aren't good by the time they are found) to earlier locations + distributed more 7th+ level spell scrolls around the game.
+18. Taking inspiration from the "Trick or Treat" mace's solution to random effects, the Adamantine String Bow has finally been fixed to not have a horrendous tooltip that lies about how much damage it does. It's now properly called the "Chewed On Adamantine String Bow" and it randomly determines if it is going to add +1d6 damage of a random element, +1d8 fire or cold or acid, or a combination of 2 or 3 or 4 elements. It can still make a huge swing in damage for how relatively early it is in the game but it should now cause less questions in the Discord.
+
 ## Listonomicon v7.0.10 Slime Edition
 Save safe? Yes
 
