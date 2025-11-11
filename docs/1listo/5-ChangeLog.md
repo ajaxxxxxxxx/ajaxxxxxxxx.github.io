@@ -22,7 +22,7 @@ The next update will NOT be save safe as I plan to remove some things/clean up t
 
 1. UPDATED 34 mods.
 2. ADDED De-Duplicator, which is advertised to help stop enemies from getting boosts multiple times when they aren't supposed to.
-3. ADDED Shadar-Kai Subrace.
+3. ~~ADDED Shadar-Kai Subrace.~~ seems to cause a game crash :(
 4. By some miracle, Chivalry - Expansion hasn't been nuked from Nexus so it's been added to Listo for testing. If you want to give helpful feedback, please make sure to let me know what other optional mods you have enabled so that I have a better idea of overlaps/conflicts/issues being from one mod or from a mod combo.
 5. ADDED Sorcerer King Warlock.
 6. ADDED Viconia Consistency.
