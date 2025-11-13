@@ -15,7 +15,7 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v7.0.11 Slime Edition
+## Listonomicon v7.0.11 Slime Edition (WIP)
 Save safe? Yes* but you may want to respec the party to level 1 before updating due to classes and spell lists changing.
 
 The next update will NOT be save safe as I plan to remove some things/clean up the list considerably/send things to optional/make updates that aren't save safe.
@@ -23,7 +23,7 @@ The next update will NOT be save safe as I plan to remove some things/clean up t
 1. UPDATED 34 mods.
 2. ADDED De-Duplicator, which is advertised to help stop enemies from getting boosts multiple times when they aren't supposed to.
 3. ~~ADDED Shadar-Kai Subrace.~~ seems to cause a game crash :(
-4. By some miracle, Chivalry - Expansion hasn't been nuked from Nexus so it's been added to Listo for testing. If you want to give helpful feedback, please make sure to let me know what other optional mods you have enabled so that I have a better idea of overlaps/conflicts/issues being from one mod or from a mod combo.
+4. ~~By some miracle, Chivalry - Expansion hasn't been nuked from Nexus so it's been added to Listo for testing. If you want to give helpful feedback, please make sure to let me know what other optional mods you have enabled so that I have a better idea of overlaps/conflicts/issues being from one mod or from a mod combo.~~ Chivalry needs some more time to investigate/test. Feel free to add it to Listo yourself to give feedback?
 5. ADDED Sorcerer King Warlock.
 6. ADDED Viconia Consistency.
 7. ADDED NPC Redesign - Zhentarim Hideout.
@@ -34,6 +34,7 @@ The next update will NOT be save safe as I plan to remove some things/clean up t
 12. ADDED (for testing) Feats Extra.
 13. ADDED Eyevan's Ghoulish Goods.
 14. Completely reworked the Titanstring Bow (the silly meme bow with the wrong tooltip that lies about doing crazy damage).
+    * The bow now has a dice roll that gives it a random element of +1d6, or +1d8, or multiple elements.
 15. Nerfed Staff of the Archfey.
 16. Nerfed Path of the Righteous.
 17. Crimped a ton of patches/fixes/cool stuff from Cahoot's github :)
