@@ -44,7 +44,8 @@ The next update will NOT be save safe as I plan to remove some things/clean up t
     * Kept the shield Cahoot removed.
     * GraphicFade fixes (mostly Damage Rider stuff) and localization improvements.
     * Cahoot shuffled some magic items around (The Pointy Hat, Pelorsun Blade, some other items that aren't good by the time they are found) to earlier locations + distributed more 7th+ level spell scrolls around the game.
-18. Taking inspiration from the "Trick or Treat" mace's solution to random effects, the Adamantine String Bow has finally been fixed to not have a horrendous tooltip that lies about how much damage it does. It's now properly called the "Chewed On Adamantine String Bow" and it randomly determines if it is going to add +1d6 damage of a random element, +1d8 fire or cold or acid, or a combination of 2 or 3 or 4 elements. It can still make a huge swing in damage for how relatively early it is in the game but it should now cause less questions in the Discord.
+18. Taking inspiration from the "Trick or Treat" mace's solution to random effects, the Adamantine String Bow has finally been fixed to not have a horrendous tooltip that lies about how much damage it does. It's now properly called the "Chewed On Adamantine String Bow" and it randomly determines if it is going to add +1d6 damage of a random element, +1d8 fire or cold or acid, or a combination of 2 or 3 or 4 elements. It can still make a huge swing in damage for how relatively early it is in the game but it should now cause less questions in the Discord. Thank you JL936/Cahoot/SailorCat for teaching me how to code.
+19. ADDED Arcane Recovery, which is below Listo's spell tweaks in priority (i.e. above it in MO2). Meaning the change to Shadow Blade should not apply.
 
 ## Listonomicon v7.0.10 Slime Edition
 Save safe? Yes
