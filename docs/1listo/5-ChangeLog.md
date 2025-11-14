@@ -36,16 +36,22 @@ The next update will NOT be save safe as I plan to remove some things/clean up t
 14. Completely reworked the Titanstring Bow (the silly meme bow with the wrong tooltip that lies about doing crazy damage).
     * The bow now has a dice roll that gives it a random element of +1d6, or +1d8, or multiple elements.
 15. Nerfed Staff of the Archfey.
-16. Nerfed Path of the Righteous.
-17. Crimped a ton of patches/fixes/cool stuff from Cahoot's github :)
+    * Grants +1 to spell save DC and spell attack rolls.
+    * Grants +1d10 Thunder damage on all spell damage.
+    * Grants +1d10 Lightning damage on spells that do lightning damage.
+    * Comes with a built in "Shocking Grasp" cantrip that deals 6d4 lightning damage, costs a bonus action, and does not have a somatic or verbal component (meaning it can be cast while silenced, if that comes up in Act 3).
+    * Comes with a built in "Caustic Blast" cantrip that deals 6d4 acid damage, costs an action, and does not have a somatic or verbal component (meaning it can be cast while silenced, if that comes up in Act 3).
+    * Comes with a built in "Psychic Whip" cantrip that deals 6d4 psychic damage, costs an action, possibly stuns the victim, and does not have a somatic or verbal component (meaning it can be cast while silenced, if that comes up in Act 3).
+17. Nerfed Path of the Righteous.
+18. Crimped a ton of patches/fixes/cool stuff from Cahoot's github :)
     * Cahoot patches improve Ambusher, Hellfire Greataxe, Punch-Drunk Bastard, Devotee's Mace, The Sacred Star, Ravengard's Scourger, Long Arm of the Gur, Robe of Summer, Obsidian Laced Robe, Bided Time, Wavemother's Robe, Elegant Studded Leather, Gloves of Battlemage's Power, Mystra's Grace, Vital Conduit Boots, Boots of Apparent Death, Spacehunt Boots, Cloak of Elemental Absorption, Wavemother's Cloak, Komira's Locket, Glowing Shield, and Shield of Shielding.
     * Kept finesse on POTR sword.
     * Kept Celestial Annointment.
     * Kept the shield Cahoot removed.
     * GraphicFade fixes (mostly Damage Rider stuff) and localization improvements.
     * Cahoot shuffled some magic items around (The Pointy Hat, Pelorsun Blade, some other items that aren't good by the time they are found) to earlier locations + distributed more 7th+ level spell scrolls around the game.
-18. Taking inspiration from the "Trick or Treat" mace's solution to random effects, the Adamantine String Bow has finally been fixed to not have a horrendous tooltip that lies about how much damage it does. It's now properly called the "Chewed On Adamantine String Bow" and it randomly determines if it is going to add +1d6 damage of a random element, +1d8 fire or cold or acid, or a combination of 2 or 3 or 4 elements. It can still make a huge swing in damage for how relatively early it is in the game but it should now cause less questions in the Discord. Thank you JL936/Cahoot/SailorCat for teaching me how to code.
-19. ADDED Arcane Recovery, which is below Listo's spell tweaks in priority (i.e. above it in MO2). Meaning the change to Shadow Blade should not apply.
+19. Taking inspiration from the "Trick or Treat" mace's solution to random effects, the Adamantine String Bow has finally been fixed to not have a horrendous tooltip that lies about how much damage it does. It's now properly called the "Chewed On Adamantine String Bow" and it randomly determines if it is going to add +1d6 damage of a random element, +1d8 fire or cold or acid, or a combination of 2 or 3 or 4 elements. It can still make a huge swing in damage for how relatively early it is in the game but it should now cause less questions in the Discord. Thank you JL936/Cahoot/SailorCat for teaching me how to code.
+20. ADDED Arcane Recovery, which is below Listo's spell tweaks in priority (i.e. above it in MO2). Meaning the change to Shadow Blade should not apply.
 
 ## Listonomicon v7.0.10 Slime Edition
 Save safe? Yes
