@@ -20,7 +20,7 @@ Save safe? Yes* but you may want to respec the party to level 1 before updating 
 
 The next update will NOT be save safe as I plan to remove some things/clean up the list considerably/send things to optional/make updates that aren't save safe.
 
-1. UPDATED 34 mods.
+1. UPDATED 39 mods.
 2. ADDED De-Duplicator, which is advertised to help stop enemies from getting boosts multiple times when they aren't supposed to.
 3. ~~ADDED Shadar-Kai Subrace.~~ seems to cause a game crash :(
 4. ~~By some miracle, Chivalry - Expansion hasn't been nuked from Nexus so it's been added to Listo for testing. If you want to give helpful feedback, please make sure to let me know what other optional mods you have enabled so that I have a better idea of overlaps/conflicts/issues being from one mod or from a mod combo.~~ Chivalry needs some more time to investigate/test. Feel free to add it to Listo yourself to give feedback?
