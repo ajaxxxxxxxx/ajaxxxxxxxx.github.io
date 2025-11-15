@@ -31,7 +31,7 @@ The next update will NOT be save safe as I plan to remove some things/clean up t
 9. ADDED Poesielibre's Fantastical Hairstyles.
 10. ADDED Dragonborn Hatchlings (dragonborn children), no I'm not replacing the tiefling kids with them.
 11. ADDED Zethino Love Test Buff Fix (doing the 'love test' with the dryad in the circus now does something).
-12. ADDED (for testing) Feats Extra.
+12. ~~ADDED (for testing) Feats Extra.~~ nah
 13. ADDED Eyevan's Ghoulish Goods.
 14. Completely reworked the Titanstring Bow (the silly meme bow with the wrong tooltip that lies about doing crazy damage).
     * The bow now has a dice roll that gives it a random element of +1d6, or +1d8, or multiple elements.
