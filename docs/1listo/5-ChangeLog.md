@@ -15,7 +15,7 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v7.0.11 Slime Edition (WIP)
+## Listonomicon v7.0.11 Slime Edition
 Save safe? Yes* but you may want to respec the party to level 1 before updating due to classes and spell lists changing.
 
 The next update will NOT be save safe as I plan to remove some things/clean up the list considerably/send things to optional/make updates that aren't save safe.
