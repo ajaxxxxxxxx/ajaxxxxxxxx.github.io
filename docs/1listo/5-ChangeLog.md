@@ -20,7 +20,7 @@ Save safe? Yes* but you may want to respec the party to level 1 before updating 
 
 The next update will NOT be save safe as I plan to remove some things/clean up the list considerably/send things to optional/make updates that aren't save safe.
 
-1. UPDATED 39 mods.
+1. UPDATED 44 mods.
 2. ADDED De-Duplicator, which is advertised to help stop enemies from getting boosts multiple times when they aren't supposed to.
 3. ~~ADDED Shadar-Kai Subrace.~~ seems to cause a game crash :(
 4. ~~By some miracle, Chivalry - Expansion hasn't been nuked from Nexus so it's been added to Listo for testing. If you want to give helpful feedback, please make sure to let me know what other optional mods you have enabled so that I have a better idea of overlaps/conflicts/issues being from one mod or from a mod combo.~~ Chivalry needs some more time to investigate/test. Feel free to add it to Listo yourself to give feedback?
@@ -52,6 +52,8 @@ The next update will NOT be save safe as I plan to remove some things/clean up t
     * Cahoot shuffled some magic items around (The Pointy Hat, Pelorsun Blade, some other items that aren't good by the time they are found) to earlier locations + distributed more 7th+ level spell scrolls around the game.
 19. Taking inspiration from the "Trick or Treat" mace's solution to random effects, the Adamantine String Bow has finally been fixed to not have a horrendous tooltip that lies about how much damage it does. It's now properly called the "Chewed On Adamantine String Bow" and it randomly determines if it is going to add +1d6 damage of a random element, +1d8 fire or cold or acid, or a combination of 2 or 3 or 4 elements. It can still make a huge swing in damage for how relatively early it is in the game but it should now cause less questions in the Discord. Thank you JL936/Cahoot/SailorCat for teaching me how to code.
 20. ADDED Arcane Recovery, which is below Listo's spell tweaks in priority (i.e. above it in MO2). Meaning the change to Shadow Blade should not apply.
+21. Luma kindly gave me permission to incorporate their Wall Fixer into the master listo spells patch (fixing wall of fire, wall of ice, etc).
+22. Added more junk to autowares.
 
 ## Listonomicon v7.0.10 Slime Edition
 Save safe? Yes
