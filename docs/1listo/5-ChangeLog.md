@@ -15,6 +15,38 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v7.1.0 Slimed Edition
+Save safe? No.
+
+1. REMOVED Kira's [Death Count](https://www.nexusmods.com/baldursgate3/mods/18752) and [Kill Count](https://www.nexusmods.com/baldursgate3/mods/18749).
+2. REMOVED [Hyperlegible Books and GUI](https://www.nexusmods.com/baldursgate3/mods/14196).
+3. REMOVED Mark Books as Read.
+4. REMOVED Alternative Prone Rules (broke w/ P8).
+5. REMOVED Night With Drow - Alternate Minthara Romance (all this mod did was let you bang her as soon as you meet, which caused sequence disruptions in the conversation. If you wanna do it with Minthara, you're gonna have to kill some kids).
+6. REMOVED Visual Shields (broken w/ P8).
+7. REMOVED Justice For Sorrow.
+8. REMOVED Battleworn Shield.
+9. REMOVED Tasha's Sorceror Items.
+10. REMOVED Stacking Carry Weight.
+11. REMOVED Pickpocketing Tweaks.
+12. REMOVED Jorgoral's Greatsword Enhanced.
+13. REMOVED Goblin Slayer Weapon and Shield.
+14. Hunted down a bunch of updates that MO2's automated checker wasn't catching.
+15. Updated Mod.io mods (eg Polyamory Fixes, Really Shadowheart, half-azer).
+16. REMOVED Crown of Crones.
+17. REMOVED all DHM mods (for now).
+18. REMOVED Many More Monsters.
+19. REMOVED (ModIO) Extra Encounters and Minibosses.
+20. REMOVED (ModIO) Enchantments of Faerun.
+21. Fang and Skulls is now an OPTIONAL MOD, with a note advising players who are interested that it should not be enabled until after the goblin camp is solved in Act 1.
+22. REMOVED Mother of Spiders.
+23. REMOVED Smart Cunning Action.
+24. REMOVED Additional Fighting Styles.
+25. REMOVED Mystic (for real this time).
+26. REMOVED Wine and Revelry (Satyr Race) (and associated cosmetics patches).
+27. REMOVED Appearance Edit Enhanced.
+28. Adjusted some load order things.
+
 ## Listonomicon v7.0.11 Slime Edition
 Save safe? Yes* but you may want to respec the party to level 1 before updating due to classes and spell lists changing.
 
