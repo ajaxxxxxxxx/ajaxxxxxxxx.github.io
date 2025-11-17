@@ -20,6 +20,8 @@ Save safe? (yes from v7.1.0)
 
 Yes I'm serious.
 
+LISTO LITE IS ALSO UPDATED TO v7.1.1. [Get the .wabba from Nexus directly](https://www.nexusmods.com/baldursgate3/mods/15237).
+
 1. UPDATED 5e Spells, Barbarian Subclasses Combined, Monk Subclasses Combined, Fighter Subclasses Combined.
 2. UPDATED Psychic Armory which had a duplication issue (not a cool free gold exploit but like here's 500 random bags).
 3. UPDATED Lydia's Heads and Heads For Shorties.
