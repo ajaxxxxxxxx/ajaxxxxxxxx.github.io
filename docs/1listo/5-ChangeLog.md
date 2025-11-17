@@ -15,6 +15,21 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v7.1.1 Slimed Edition
+Save safe? (yes from v7.1.0)
+
+Yes I'm serious.
+
+1. UPDATED 5e Spells, Barbarian Subclasses Combined, Monk Subclasses Combined, Fighter Subclasses Combined.
+2. UPDATED Psychic Armory which had a duplication issue (not a cool free gold exploit but like here's 500 random bags).
+3. UPDATED Lydia's Heads and Heads For Shorties.
+4. UPDATED Path of Undeath.
+5. UPDATED Arcane REcovery - Spell Balance Intent and Flavor.
+6. ADDED UA Fighting Styles, which miraculously released slightly too late to replace the fighting style mod dropped in v7.1.0 lol.
+7. UPDATED Gale's Glowing Orb (no more weird tattoo thing on his forehead).
+
+## Releases (Newest to Oldest)  
+
 ## Listonomicon v7.1.0 Slimed Edition
 Save safe? No.
 
