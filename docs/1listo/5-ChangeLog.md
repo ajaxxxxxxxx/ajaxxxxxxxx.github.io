@@ -15,6 +15,9 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v7.1.2 Dark Urge Rebirth WTF Edition (WIP)
+Save safe? Maybe, if not [you may need to manually install Dark Urge Rebirth](https://www.nexusmods.com/baldursgate3/mods/14598?tab=description) (option 2).
+
 ## Listonomicon v7.1.1 Slimed Edition
 Save safe? (yes from v7.1.0)
 
