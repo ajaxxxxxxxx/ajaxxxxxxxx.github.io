@@ -15,8 +15,13 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v7.1.2 Dark Urge Rebirth WTF Edition (WIP)
+## Listonomicon v7.1.2 Dark Urge Rebirth WTF Edition
 Save safe? Maybe, if not [you may need to manually install Dark Urge Rebirth](https://www.nexusmods.com/baldursgate3/mods/14598?tab=description) (option 2).
+
+1. REMOVED Dark Urge Rebirth because we can't have nice things.
+2. UPDATED 15 mods.
+3. ADDED Florrick Is Not Dumb.
+4. ADDED Elemental Adept Feat Enhanced.
 
 ## Listonomicon v7.1.1 Slimed Edition
 Save safe? (yes from v7.1.0)
