@@ -20,7 +20,7 @@ description: Update info
 1. UPDATED 46 mods.
 2. ADDED Character Preset Framework.
 3. ADDED Arcane Chaos, which allows Wild Magic Sorcerers to cast their subclass bonus spells using spell points (at the cost of a guranteed surge).
-4. ADDED Little Secrets with Quil.
+4. ~~ADDED Little Secrets with Quil.~~ nvm this seemed to break things
 5. ADDED Bernard Evolved, which is a somewhat involved mini-quest to build your own [knockoff automated armor companion](https://www.nexusmods.com/baldursgate3/mods/20056?tab=description). Presumably only works with a new game.
 6. ADDED Bhaalist Hair Accessory (intended for Armoury).
 
