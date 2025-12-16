@@ -15,7 +15,7 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v7.1.3 WIP
+## Listonomicon v7.1.3
 
 1. UPDATED 46 mods.
 2. ADDED Character Preset Framework.
