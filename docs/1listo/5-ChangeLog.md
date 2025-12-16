@@ -15,6 +15,15 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v7.1.3 WIP
+
+1. UPDATED 46 mods.
+2. ADDED Character Preset Framework.
+3. ADDED Arcane Chaos, which allows Wild Magic Sorcerers to cast their subclass bonus spells using spell points (at the cost of a guranteed surge).
+4. ADDED Little Secrets with Quil.
+5. ADDED Bernard Evolved, which is a somewhat involved mini-quest to build your own [knockoff automated armor companion](https://www.nexusmods.com/baldursgate3/mods/20056?tab=description). Presumably only works with a new game.
+6. ADDED Bhaalist Hair Accessory (intended for Armoury).
+
 ## Listonomicon v7.1.2 Dark Urge Rebirth WTF Edition
 Save safe? Maybe, if not [you may need to manually install Dark Urge Rebirth](https://www.nexusmods.com/baldursgate3/mods/14598?tab=description) (option 2).
 
