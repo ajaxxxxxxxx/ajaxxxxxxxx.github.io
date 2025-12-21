@@ -15,6 +15,27 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+
+## Listonomicon v7.2 (WIP)
+
+Save safe? Maybe no.
+
+1. UPDATED mods.
+2. ADDED (optional) Injuries Grit and Glory.
+3. CHANGED script extender settings to possibly improve game performance.
+4. ADDED Archmade Patron Warlock.
+5. ADDED (optional) Unhelpful Screen Hints.
+6. ADDED Distinctive Arrows of Slaying.
+7. ADDED Stealable Potion of Everlasting Vigor (you can buy, steal, or take it off the alchemist's corpse, instead of forcing Astarion to bite).
+8. ADDED A Letter From Gortash.
+9. ADDED Spellfire Sorcery.
+10. ADDED, and rebalanced, Sarymsak's monk gloves.
+11. ADDED, and rebalanced, More Better Scimitars.
+12. ADDED, and rebalanced, Concentrated Sussur Sap - an Act III upgrade for your Sussur weapon.
+13. ADDED Marching Band, and REMOVED prior mod attempts at making perform last during combat/movement.
+14. ADDED a secret mod.
+
+
 ## Listonomicon v7.1.3
 
 1. UPDATED 46 mods.
