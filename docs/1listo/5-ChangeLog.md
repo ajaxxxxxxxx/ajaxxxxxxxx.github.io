@@ -31,9 +31,13 @@ Save safe? Maybe no.
 9. ADDED Spellfire Sorcery.
 10. ADDED, and rebalanced, Sarymsak's monk gloves.
 11. ADDED, and rebalanced, More Better Scimitars.
-12. ADDED, and rebalanced, Concentrated Sussur Sap - an Act III upgrade for your Sussur weapon.
+12. ADDED, and rebalanced, Concentrated Sussur Sap - an Act III upgrade for your Sussur weapon. In addition to its normal location (sold by Popper), you may find something interesting on Balthazar. The upgraded version of the sussur weapons become +2 weapons, with an extra 1d6 acid damage, ignore slashing damage, and the silence effect save DC becomes your maneuver save DC +1.
 13. ADDED Marching Band, and REMOVED prior mod attempts at making perform last during combat/movement.
 14. ADDED a secret mod.
+15. REMOVED Fangs and Skulls. If you have it active in your game, this will not be save safe.
+16. Tried to improve autowares MCM settings to cover more junk and to stop marking important things as wares.
+17. Restored the ability to upgrade things in POTR.
+18. Fixed a POTR localization issue (Listo specific, it's right in the original mod).
 
 
 ## Listonomicon v7.1.3
