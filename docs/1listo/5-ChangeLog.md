@@ -38,6 +38,7 @@ Save safe? Maybe no.
 16. Tried to improve autowares MCM settings to cover more junk and to stop marking important things as wares.
 17. Restored the ability to upgrade things in POTR.
 18. Fixed a POTR localization issue (Listo specific, it's right in the original mod).
+19. REMOVED True Strike Removed.
 
 
 ## Listonomicon v7.1.3
