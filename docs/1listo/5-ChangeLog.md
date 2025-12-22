@@ -24,7 +24,7 @@ Save safe? Maybe no.
 2. ADDED (optional) Injuries Grit and Glory.
 3. CHANGED script extender settings to possibly improve game performance.
 4. ADDED Archmade Patron Warlock.
-5. ADDED (optional) Unhelpful Screen Hints.
+5. ADDED ~~(optional) Unhelpful Screen Hints.~~ nevermind
 6. ADDED Distinctive Arrows of Slaying.
 7. ADDED Stealable Potion of Everlasting Vigor (you can buy, steal, or take it off the alchemist's corpse, instead of forcing Astarion to bite).
 8. ADDED A Letter From Gortash.
