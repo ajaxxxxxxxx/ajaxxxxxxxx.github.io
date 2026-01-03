@@ -16,7 +16,71 @@ description: Update info
 ## Releases (Newest to Oldest)  
 
 
-## Listonomicon v7.2 (WIP)
+## Listonomicon v8 Spells 2.0 Edition (WIP)
+
+Save safe? No.
+
+1. OVERHAUL TO SPELLS IN LISTONOMICON. This list includes changes that have always been in Listo, plus things that have changed in this update:
+   * Magic Circle: Does not require you to be in combat.
+   * Motivational Speech: Better temp HP, less max targets.
+   * Conjure Volley: Damage type changed to Magical.
+   * Regenerate: Can be used in combat.
+   * Holy Weapon's burst is nerfed.
+   * Entangle entitles the target to a Saving Throw.
+   * Sunburst damage is increased to 12d8, and allies have advantage on the saving throw.
+   * Telekinetic Bolt: Damage reduced to 1d6, enemy gets a saving throw vs dazed.
+   * Bardic Inspiration: AOE effect removed, but Bardic Inspiration still heals the single target. The value of the healing increases as Bardic Inspiration improves.
+   * Shadow Blade and Flame Blade are no-concentration and last until long rest, but are slightly weaker than normal. Vampiric Touch has joined as the third option of "all day consistent spell attack" - once casted, it lasts until LR without concentration. However, the base damage is reduced by 1 die and the healing is only 25% of damage dealt instead of 50%.
+   * Expanded Shillelagh compatability to include a larger number of weapons a cleric or druid might whack with, making the 4th pillar of options to let any caster be a melee combatant (Pact of the Blade is the 5th way).
+   * Arms of Hadar have slightly increased radius (4m from 3m) and slightly better damage (d8 instead of d6).
+   * The False Life spell grants 10 temp HP +7 per spell slot level used, and grants damage reduction equal to half the level of the spell slot used (rounding up).
+   * SLEEP and COLOR SPRAY are now able to be casted on any target. Rather than automatically succeeding against low HP enemies (which rarely exist in Listo), low HP enemies instead have disadvantage on the saving throw, and high HP enemies have advantage. As long as I did not accidentally break Cahoot's code.
+   * Jump has an AOE cast outside of combat.
+   * Calm Emotions is now a buff or debuff spell. You can use it to remove rage from enemies and make their performance worse, OR you can use it to protect your own team from fear and charm effects.
+   * Flamestrike is now kinda cooler: 1: Sets most enemies on fire, undead and fiends are afflicted by holy fire, 2: Allows casting Flame Strike Remembrance and Flame Strike Echo as follow-up spells in the following rounds as bonus action, 3: These spells deal lower damage, don't set targets on fire and have a smaller radius (Echo is single target)
+   * Wall of Stone is now a 3rd level spell which receives increased HP when upcasted.
+   * Classes which received Wall of Stone now gain the spell earlier, and at that level have it replaced with another elemental spell like Summon Earth Elemental. More classes have access to Wall of Stone.
+    * Nerfed Minor Torrent to have lesser starting damage (d6 cantrip progression)
+    * Fixed an issue with Dehydration (Leech) where the 5th and 6th level version of the spell applied opposite effects that did not make any sense. Instead, this spell will CHILL TOUCH victims for 3 turns (preventing healing), and REDUCE victims for 2 turns (reducing their size and therefore, physical damage).
+    * Nerfed hydro resistance considerably (+1 AC, resist fire damage, no concentration/lasts until LR).
+    * Detect Magic does not require Concentration, and can be ritual cast.
+    * Unseen Servant can be ritual cast.
+    * Arms of Hadar have an improved radius of 4m instead of 3m.
+    * Compelled Duel lasts 5 turns instead of 3.
+    * Create and Destroy Water can be ritual cast.
+    * Cure Wounds is now a bonus action, and its cast range has increased from 1.5m to 3m.
+    * Divine Favor does not require concentration, and lasts 10 turns isntead of 3.
+    * Expeditious Retreat does not require concentration.
+    * Healing Word uses an action.
+    * Hex has been reverted to vanilla behavior, but concentration is removed.
+    * Ray of Sickness can chain to multiple targets.
+    * Shield of Faith remains a no concentration, lasts until LR spell. However, it only provides +1 AC and now offers resistrance to radiant damage.
+    * Speak with Animals is an AOE.
+    * Longstrider is an AOE.
+    * Firebolt damage is reduced to being a d8 cantrip instead of d10.
+    * Barkskin does not require concentration, grants 16 AC, and grants resistance to bludgeoning damage.
+    * Crown of Madness can target additional enemies when upcasted.
+    * Enhance Ability does not require concentration.
+    * Enlarge/Reduce is a Bonus Action, and can select additional targets if upcasted.
+    * Magic Weapon does not increase in power, upcasting just adds more targets.
+    * Mirror Image is a bonus action.
+    * Pass Without Trace does not require concentration.
+    * Ray of Enfeeblement can chain to additional targets.
+    * Flame Arrows does not require concentration.
+    * Minute Meteors do not require concentration.
+    * Summon Shadowspawn does not require concentration.
+    * Bestow Curse can inflict a physical or mental malady on targets.
+    * Crusader's Mantle is cast with a bonus action and does not require concentration.
+    * Elemental Weapon does not require concentration.
+    * Mass Healing Word uses an action.
+    * Dimension Door is a Bonus Action.
+    * Stoneskin provides resistance to piercing, slashing, and bludgeoning damage, does not require concentration, and sets your AC to 18.
+    * Acid Splash does d8 cantrip scaling damage instead of d6.
+    * Various rebalances to Dawnstar's water spells.
+    * These changes are on top of (in order of lowest to highest priority): Chiz 5e Adjustments, Arcane Recovery, Animate Dead++, and Goon's Spell Overhaul.
+    * Removed a ton of files in the master spells patch that should have been deleted a long time ago and are probably responsible for various issues/weird behavior. Improved my own coding considerably.
+
+## Listonomicon v7.2
 
 Save safe? Maybe no.
 
