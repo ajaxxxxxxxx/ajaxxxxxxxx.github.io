@@ -30,8 +30,9 @@ Save safe? No.
    * Sunburst damage is increased to 12d8, and allies have advantage on the saving throw.
    * Telekinetic Bolt: Damage reduced to 1d6, enemy gets a saving throw vs dazed.
    * Bardic Inspiration: AOE effect removed, but Bardic Inspiration still heals the single target. The value of the healing increases as Bardic Inspiration improves.
-   * Shadow Blade and Flame Blade are no-concentration and last until long rest, but are slightly weaker than normal. Vampiric Touch has joined as the third option of "all day consistent spell attack" - once casted, it lasts until LR without concentration. However, the base damage is reduced by 1 die and the healing is only 25% of damage dealt instead of 50%.
-   * Expanded Shillelagh compatability to include a larger number of weapons a cleric or druid might whack with, making the 4th pillar of options to let any caster be a melee combatant (Pact of the Blade is the 5th way).
+   * Shadow Blade and Flame Blade are no-concentration and last until long rest, but are slightly weaker than normal.
+   * Vampiric Touch has changed significantly: It now has a base damage of 2d6 necrotic and heals the user for 1/3 of the damage dealt (instead of 3d6 and 1/2). It increases in damage every 2 spell levels. This sounds like a big nerf, but note: Vampiric Touch lasts until Long Rest, and the follow-up spell attack is a bonus action.
+   * Expanded Shillelagh compatability to include a larger number of weapons a cleric or druid might whack with, making the 4th pillar of options to let any caster be a melee combatant (Pact of the Blade is the 5th way). Shillelagh can be used with Clubs, Glaives, Greatclubs, Javelins, Maces, Morningstars, Pikes, Quarterstaffs, Sickles, Spears, Tridents and Warhammers.
    * Arms of Hadar have slightly increased radius (4m from 3m) and slightly better damage (d8 instead of d6).
    * The False Life spell grants 10 temp HP +7 per spell slot level used, and grants damage reduction equal to half the level of the spell slot used (rounding up).
    * SLEEP and COLOR SPRAY are now able to be casted on any target. Rather than automatically succeeding against low HP enemies (which rarely exist in Listo), low HP enemies instead have disadvantage on the saving throw, and high HP enemies have advantage. As long as I did not accidentally break Cahoot's code.
@@ -45,7 +46,6 @@ Save safe? No.
     * Nerfed hydro resistance considerably (+1 AC, resist fire damage, no concentration/lasts until LR).
     * Detect Magic does not require Concentration, and can be ritual cast.
     * Unseen Servant can be ritual cast.
-    * Arms of Hadar have an improved radius of 4m instead of 3m.
     * Compelled Duel lasts 5 turns instead of 3.
     * Create and Destroy Water can be ritual cast.
     * Cure Wounds is now a bonus action, and its cast range has increased from 1.5m to 3m.
@@ -79,6 +79,21 @@ Save safe? No.
     * Various rebalances to Dawnstar's water spells.
     * These changes are on top of (in order of lowest to highest priority): Chiz 5e Adjustments, Arcane Recovery, Animate Dead++, and Goon's Spell Overhaul.
     * Removed a ton of files in the master spells patch that should have been deleted a long time ago and are probably responsible for various issues/weird behavior. Improved my own coding considerably.
+  2. REMOVED Book of Ebon Tides.
+  3. Hopefully fixed Moon Druids/Wild Shape having issues with mod incompatability.
+  4. Adjusted load order to hopefully resolve Barbarian rage issues.
+  5. ADDED Chiz's 5e Spell Adjustments and Animate Dead Plus Plus.
+  6. The new Listo spell balance system is individual mods -> Chiz's 5e Adjustments -> Arcane Recovery -> Listo Master Spells patch.
+  7. REMOVED Spellfire Sorcerer.
+  8. REMOVED The Archmage Patron.
+  9. UPDATED about 28 mods (with several updates not being save safe).
+  10. ADDED Recruit Karlach Earlier.
+  11. ADDED Automatic Magical Secrets Extender.
+  12. ADDED Gab's Equipment for evaluation.
+  13. ADDED Lyn's Cloak Pack 2 (cosmetic only).
+  14. ADDED Hope Once More.
+  15. ADDED Battle Medic Feat.
+  16. REMOVED Skill Actions.
 
 ## Listonomicon v7.2
 
