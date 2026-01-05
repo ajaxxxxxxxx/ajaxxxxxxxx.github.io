@@ -82,8 +82,8 @@ Save safe? No.
   2. REMOVED Book of Ebon Tides.
   3. Hopefully fixed Moon Druids/Wild Shape having issues with mod incompatability.
   4. Adjusted load order to hopefully resolve Barbarian rage issues.
-  5. ADDED Chiz's 5e Spell Adjustments and Animate Dead Plus Plus.
-  6. The new Listo spell balance system is individual mods -> Chiz's 5e Adjustments -> Arcane Recovery -> Listo Master Spells patch.
+  5. ~~ADDED Chiz's 5e Spell Adjustments~~ and Animate Dead Plus Plus. Trying to use Chiz's mod caushes the game to crash, probably because there are too many mods all trying to make changes/references to certain spells hitting the engine limit (in other words, nothing wrong with Chiz's mod, the problem is me trying to layer a lasagna too thick for the oven).
+  6. blank
   7. REMOVED Spellfire Sorcerer.
   8. REMOVED The Archmage Patron.
   9. UPDATED about 28 mods (with several updates not being save safe).
