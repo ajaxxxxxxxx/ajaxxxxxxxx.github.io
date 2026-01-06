@@ -83,10 +83,10 @@ Save safe? No.
   3. Hopefully fixed Moon Druids/Wild Shape having issues with mod incompatability.
   4. Adjusted load order to hopefully resolve Barbarian rage issues.
   5. ~~ADDED Chiz's 5e Spell Adjustments~~ and Animate Dead Plus Plus. Trying to use Chiz's mod caushes the game to crash, probably because there are too many mods all trying to make changes/references to certain spells hitting the engine limit (in other words, nothing wrong with Chiz's mod, the problem is me trying to layer a lasagna too thick for the oven).
-  6. blank
-  7. REMOVED Spellfire Sorcerer.
+  6. ADDED a secret mod.
+  7. ADDED Stargazer - Ranger Subclass.
   8. REMOVED The Archmage Patron.
-  9. UPDATED about 28 mods (with several updates not being save safe).
+  9. UPDATED about 33 mods (with several updates not being save safe).
   10. ADDED Recruit Karlach Earlier.
   11. ADDED Automatic Magical Secrets Extender.
   12. ADDED Gab's Equipment for evaluation.
@@ -94,6 +94,41 @@ Save safe? No.
   14. ADDED Hope Once More.
   15. ADDED Battle Medic Feat.
   16. REMOVED Skill Actions.
+  17. REBALANCED FOOD:
+      * Owlbear Egg now weighs 6 pounds, and cannot be eaten as Camp Supplies accidentally.
+      * All soups (using vegetables and/or fish, without heartier meat) are worth 2 camp supplies (from 5 to 10).
+      * All snack sized items (like bluecap mushrooms) are worth 1 camp supplies (from 2 to 5).
+      * Cooked foods/meals are now worth 5-10 camp supplies.
+      * Fantasy foods remain filling and hearty.
+      * Bread is less filling.
+      * Eggs are untouched.
+      * Grapes are untouched.
+      * Porridge is untouched.
+      * Sausage is worth 5 supplies (up from 3).
+      * Stew is untouched.
+      * Garlic is now 3 times as valuable, to reflect its anti-vampire use. However it is now only worth 1 camp supply because Astarion is picky.
+      * Alcohol no longer requires a bonus action to chug.
+      * Alcohol is worth 1, 2, or 3 supplies (instead of 1, 4, or 6).
+      * Barrels of alcohol are worth 5 supplies.
+      * Alcohol prices should now be affected by economy settings instead of having a fixed price.
+      * Beer is more filling than Wine.
+      * Camp Supplies are more expensive and less filling.
+      * Roasted Dwarf Meat can be eaten by anybody. But you probably shouldn't.
+      * Overall: Snacks and small items are more insignificant. Meats are better than vegetables. Meals are better than single items. Fantasy foods are better than meals. Supply packs are expensive.
+  18. ADDED The Mer Heads.
+  19. ADDED (again for evaluation) True Darkness, to alongside ADDED Spells Reworked - Light and Daylight.
+  20. ADDED Conjuration Wizard Enhanced.
+  21. ADDED Ginnungagap Barbarian.
+  22. ADDED Ultimate Cut Content Restoration Mod. This is the lowest-priority item changing mod, meaning anything else that has made its own use out of cut content will take priority.
+  23. ADDED School of Death.
+  24. ADDED Sunlight Sensitivity for Drow and Duergar.
+  25. ADDED Garb of the Ghustil.
+  26. TWEAKED Combat Extender:
+      * Adopted updates to Goon's Library, making fighting styles smarter on various enemies.
+      * Reduced normal enemy global health values. Static Boost from 0.075 and Health Per Level from 0.075 to 0.06. Reduced boss global health values. Static Boost is unchanged; Health Per Level from 0.10 to 0.09.
+  26. TWEAKED Auto Wares to no longer flag some important things as wares incorrectly.
+  27. TWEAKED Attunement to cover new and changed items.
+
 
 ## Listonomicon v7.2
 
