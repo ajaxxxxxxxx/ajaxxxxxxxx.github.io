@@ -128,6 +128,7 @@ Save safe? No.
       * Reduced normal enemy global health values. Static Boost from 0.075 and Health Per Level from 0.075 to 0.06. Reduced boss global health values. Static Boost is unchanged; Health Per Level from 0.10 to 0.09.
   26. TWEAKED Auto Wares to no longer flag some important things as wares incorrectly.
   27. TWEAKED Attunement to cover new and changed items.
+  28. ADDED Bloodhunter.
 
 
 ## Listonomicon v7.2
