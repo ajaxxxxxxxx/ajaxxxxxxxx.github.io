@@ -16,7 +16,7 @@ description: Update info
 ## Releases (Newest to Oldest)  
 
 
-## Listonomicon v8 Spells 2.0 Edition (WIP)
+## Listonomicon v8 Spells 2.0 Edition
 
 Save safe? No.
 
