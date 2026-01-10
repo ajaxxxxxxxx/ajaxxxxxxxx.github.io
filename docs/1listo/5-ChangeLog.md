@@ -79,6 +79,7 @@ Save safe? No.
     * Various rebalances to Dawnstar's water spells.
     * These changes are on top of (in order of lowest to highest priority): Chiz 5e Adjustments, Arcane Recovery, Animate Dead++, and Goon's Spell Overhaul.
     * Removed a ton of files in the master spells patch that should have been deleted a long time ago and are probably responsible for various issues/weird behavior. Improved my own coding considerably.
+    * Hopefully fixed the description of Holy Weapon. It is now a +1d8 Radiant Concentration until Long Rest spell with the Radiant Burst ability nerfed.
   2. REMOVED Book of Ebon Tides.
   3. Hopefully fixed Moon Druids/Wild Shape having issues with mod incompatability.
   4. Adjusted load order to hopefully resolve Barbarian rage issues.
@@ -86,7 +87,7 @@ Save safe? No.
   6. ADDED a secret mod.
   7. ADDED Stargazer - Ranger Subclass.
   8. REMOVED The Archmage Patron.
-  9. UPDATED about 33 mods (with several updates not being save safe).
+  9. UPDATED about ~~33~~ 50+ mods (with several updates not being save safe).
   10. ADDED Recruit Karlach Earlier.
   11. ADDED Automatic Magical Secrets Extender.
   12. ADDED Gab's Equipment for evaluation.
@@ -126,9 +127,22 @@ Save safe? No.
   26. TWEAKED Combat Extender:
       * Adopted updates to Goon's Library, making fighting styles smarter on various enemies.
       * Reduced normal enemy global health values. Static Boost from 0.075 and Health Per Level from 0.075 to 0.06. Reduced boss global health values. Static Boost is unchanged; Health Per Level from 0.10 to 0.09.
+      * Fixed a passive that was in someone's spells erroneously.
+      * Gave some NPCs the ability to summon a kobold for help in combat in Act 3.
+      * Gave some NPCs the ability to summon 4 magically allergic cats for help in combat in Act 3.
   26. TWEAKED Auto Wares to no longer flag some important things as wares incorrectly.
   27. TWEAKED Attunement to cover new and changed items.
   28. ADDED Bloodhunter.
+  29. REMOVED Remixed Subraces.
+  30. REMOVED Temi Longsword + Warden Armor Set.
+  31. REMOVED Darith Helzar : Katana of the Winter Goddess Auril.
+  32. ADDED Wand of Wonder.
+  33. ADDED Emperor vs Orpheus.
+  34. ADDED Origin Gods SE.
+  35. ADDED Progression Preview.
+  36. ADDED Darker Underdark.
+  37. REMOVED Origin's Gods (because Origin Gods SE does this now).
+  38. Added my own attempt for useful descriptions of potions in the alchemy menu.
 
 
 ## Listonomicon v7.2
