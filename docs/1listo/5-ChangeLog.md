@@ -117,7 +117,7 @@ Save safe? No.
       * Roasted Dwarf Meat can be eaten by anybody. But you probably shouldn't.
       * Overall: Snacks and small items are more insignificant. Meats are better than vegetables. Meals are better than single items. Fantasy foods are better than meals. Supply packs are expensive.
   18. ADDED The Mer Heads.
-  19. ADDED (again for evaluation) True Darkness, to alongside ADDED Spells Reworked - Light and Daylight.
+  19. ADDED ~~(again for evaluation) True Darkness, to alongside~~ (nope still hate this mod) ADDED Spells Reworked - Light and Daylight.
   20. ADDED Conjuration Wizard Enhanced.
   21. ADDED Ginnungagap Barbarian.
   22. ADDED Ultimate Cut Content Restoration Mod. This is the lowest-priority item changing mod, meaning anything else that has made its own use out of cut content will take priority.
