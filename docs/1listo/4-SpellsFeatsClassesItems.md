@@ -26,27 +26,11 @@ Valkrana's, Dawnstars, and Xara add even more spells alongside Book of Ebon Tide
 
 **A blend of Valdacil, Syrchalis, Cahoot, myself, and others**
 
-[Valdacil's adjustment mod](https://www.nexusmods.com/baldursgate3/mods/4426) rebalances several of the spells based on the philosophy Larian applied with the spells they included in the game. So expect the spells you love from D&D but don't expect all of them to work exactly like they do in the book (or the way they work in BG3 vanilla). Valdacil is more-or-less the "baseline" for rebalancing vanilla and 5e Spells, and another [rebalance mod is used](https://www.nexusmods.com/baldursgate3/mods/1590?tab=description) to translate Homebrew Spells better to BG3. [Valdacil's Mystic Rebalance](https://www.nexusmods.com/baldursgate3/mods/4426) is the baseline for altering Mystic features/abilities/psionic foci/spells.
-
-But there are many changes in Listo on top of Valdacil's suite, including some selections of Syrchalis spell rebalances/changes where I think Syrchalis has more compelling ideas. Finally, there is a medley of changes I have made on top of/with/thanks to Valdacil/Syrchalis/other modders, and Cahoot.
-
-From Valdacil's changes:
-
-* Hex is now something you cast at the start of the day. It costs 1 slot to cast the first time - but once it is prepared, you will gain a _new_ hex spell on your hotbar called "Hex Target." This is what you use to actually apply the hex to an enemy. The spell applies disadvantage on all ability checks (you don't pick one), otherwise it works as normal. Re-casting the spell to target new creatures costs a bonus action but not more spell slots. Cast Hex at the start of the day to prepare the spell, and then use Hex Target to actually hex enemies during encounters.
-* Hunter's Mark works the same way. Cast Hunter's Mark, then use Mark Target to apply the effect to targets.
-* Shield of Faith lasts until long rest and does not require Concentration.
-* Many spells can be upcasted to have multiple targets and will scale to 9th level.
-* Compelled Duel makes an enemy want to target you, but it also gives you advantage to hit them.
-* Divine Favor's bonus to damage scales with spell level.
-* Ray of Sickness and Ray of Enfeeblement chain to nearby targets, scales with upcasting.
-
-Speak with Animals and Longstrider are AoE casts that last until long rest, dramatically decreasing the management necessary to prepare your adventuring party each morning. Shillelagh lasts until long rest and can be applied to a much wider variety of weapons, including spears, javelins, warhammers, tridents, and more. When not in combat, the Jump spell is an AoE ritual that can help your entire party reach high places. Valdacil's change to give wizards access to all ritual spells at level 1 is gone.
+Listonomicon has spent a lot of time rebalancing spells to meet the needs of a coherent cRPG, compared to the various design inspirations behind each spell (such as RAW adherence in some mods versus homebrew in others).
 
 Illithid Powers are [significantly revamped](https://www.nexusmods.com/baldursgate3/mods/5105?tab=files) with Illithid Powers Overhaul 2. If you choose to use the astral tadpole, Illithid Powers are very powerful in Act 3.
 
 My fork/patch of the PF2e Spells mod rebalances and fixes several spells. Phase Bolt is less powerful, for example, applying only a -1 AC per effect stack instead of -2. Other features of the mod (such as the action -> bonus action conversion and other PF2e features that are not spells) are removed.
-
-Water Spells is significantly rebalanced by the Listo Master Spells Patch. Most spells should now support upcasting to 9th level, and many spells are less powerful. For example, the original mod includes a 2nd level spell that is capable of completely immobilizing a target, while dealing damage every turn, and giving advantage on all attacks against the target, for 10 rounds. Now, it slows the target; deals less damage; gives the target disadvantage on attacks and attackers have advantage; and it only lasts 3 rounds. But damage, and duration, scale with spell slot. Similar rebalances/fixes/clean up are applied throughout the mod.
 
 Cahoot has supplied his own rebalance for Color Spray and the Sleep spells, which alters them to saving throws and forcse Sleep to respect sylvan immunity to sleep effects. These spells should no longer be useless vs the higher enemy HP in Listo, without being overpowered.
 
@@ -137,10 +121,10 @@ There is no longer a mainted list of all the added features and sub-classes in t
 ## Brand New Classes
 
 * [Artificer](https://www.nexusmods.com/baldursgate3/mods/1779), and all subclasses.
-* [Mystic](https://www.nexusmods.com/baldursgate3/mods/2786).
 * [Mesmerist](https://www.nexusmods.com/baldursgate3/mods/11854).
 * [Blackguard](https://www.nexusmods.com/baldursgate3/mods/6612).
 * [Inquisitor](https://www.nexusmods.com/baldursgate3/mods/18318).
+* [Bloodhunter](https://mod.io/g/baldursgate3/m/blood-hunter#description).
 
 # New and Changed Equipment
 
@@ -160,10 +144,8 @@ There is no longer a mainted list of all the added features and sub-classes in t
 A handful of items in Listonomicon are able to be upgraded by combining certain materials/items.
 
 - [Phalar Aluve](https://www.nexusmods.com/baldursgate3/mods/2987) can be upgraded with a music box hidden in the Shadow Cursed Lands (Act 2), and upgraded again with a music box hidden in a special part of the Circus that only pickpockets can find (Act 3).
-- [Sorrow](https://www.nexusmods.com/baldursgate3/mods/16998) can be upgraded by slaying the Shadow Cursed Shambling Mound, and exploring Ketheric's belongings at Moonrise (ironwood bark and a magic ring).
 - [Superius Armour](https://www.nexusmods.com/baldursgate3/mods/15568). The armor pieces themselves have been distributed throughout Act 1 (Ruins bandits, Blurg, Arcane Tower chest, Filro the Forgotten, Filro's chest), and the upgrade materials are magic orbs redistributed throughout the game (Therezzyn, Mason's Guild, Smuggler Cave, Cazador's Ballroom).
 - The [Voltstrike Blade](https://www.nexusmods.com/baldursgate3/mods/15589) can be found on Grym. The first upgrade item is a broken blade, found on the haunted Hollow Armor in Act 2; the final upgrade is Ansur's bones.
-- [Darith Helzar](https://mod.io/g/baldursgate3/m/darith-helzar-katana-of-the-winter-goddess-auril#description) is found in the Thayan Shelter, but its upgrade items are sold by Aroj in Moonrise (Netherese Enchantment Crystal) and the Harper Quarter Master (Frostmaiden Tear).
 - [Psychic Armory](https://www.nexusmods.com/baldursgate3/mods/14476) is a mix of a scavenger/treasure hunt, and upgrade path for various items included within. The Sussur Bloom found in the basement of the Arcane Tower is used for upgrading.
 - [FoeBane](https://www.nexusmods.com/baldursgate3/mods/12523) adds a great reward to the Druid Grove questline, which can further be upgraded with a magic scabard in Act 3 (Jaheira's Basement).
 - [Enchantments of Faerun](https://mod.io/g/baldursgate3/m/enchantments-of-faerun#description) is an elaborate mod that spreads materials for equipment enchantment throughout the game.
