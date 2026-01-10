@@ -143,7 +143,7 @@ Save safe? No.
   36. ADDED Darker Underdark.
   37. REMOVED Origin's Gods (because Origin Gods SE does this now).
   38. Added my own attempt for useful descriptions of potions in the alchemy menu.
-  39. Removed gold coins from autowares (sorry lol).
+  39. Removed gold coins from autowares.
 
 
 ## Listonomicon v7.2
