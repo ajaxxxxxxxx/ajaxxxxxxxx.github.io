@@ -20,6 +20,8 @@ description: Update info
 
 Save safe? No.
 
+This release also has a Listo Lite (get from Nexus) which reduces the mod count by ~250.
+
 1. OVERHAUL TO SPELLS IN LISTONOMICON. This list includes changes that have always been in Listo, plus things that have changed in this update:
    * Magic Circle: Does not require you to be in combat.
    * Motivational Speech: Better temp HP, less max targets.
