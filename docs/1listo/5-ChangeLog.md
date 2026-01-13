@@ -15,6 +15,13 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v8.0.1 Spells 2.0 Edition
+
+Save safe? Yes.
+
+1. Reverted potions/elixirs to how they were in previous versions.
+2. Updated ~16 mods.
+3. ADDED Homebrew Wild Magic for Sorcerers and Barbarians.
 
 ## Listonomicon v8 Spells 2.0 Edition
 
