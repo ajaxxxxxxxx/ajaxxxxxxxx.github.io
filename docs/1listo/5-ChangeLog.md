@@ -15,6 +15,54 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v8.1 (WIP)
+
+Save safe? No.
+
+1. Updated (ModIO) Expanded Hand Crossbows, Really Shadowheart, and Bloodhunter.
+2. Updated 49 mods.
+3. REMOVED Gab's Equipment.
+4. REMOVED Home Brew Over 100 Wild Magic Effects.
+5. REMOVED Barbarian Quality of Life.
+6. REMOVED Dynamic Wildheart Barbarian.
+7. REMOVED Stone and Steel - Expanded Monk Strikes.
+8. ADDED Open Hand - Compact Buttons (combining Flury of Blows options into one hotbar button).
+9. REMOVED (See) Invisibility Rework.
+10. REMOVED True Range - 5e RAW.
+11. ADDED Spells Reworked - Hex and Hunter's Mark, which is a standalone mod that is trying to recreate the good part of Valdacil's tweaks to those spells without making them over powered.
+12. ADDED Fade's Assorted Treasure Expansion.
+13. REMOVED Weapons of the Feywild.
+14. REMOVED Voltstrike Blade.
+15. REMOVED Superius Armour.
+16. REMOVED Immersive Gear.
+17. REMOVED The Berserker Set - On The Edge of Death (which also means a lot of CX passives relying on this mod are gone from enemies).
+18. REMOVED Origin-Themed Cloaks.
+19. REMOVED Origin-Themed Weapons.
+20. ADDED Better Spellbook.
+21. ADDED ToggleFX, which is an MCM mod that allows selective control over VFX/SFX of different effects. Over time this will become the solution (hopefully) for nuking things like "light plus daylight plus faerie protection plus moon protection makes me a glowing blue horror in Act 2."
+22. ADDED Ambient AI, with any MCM options related to your companions wandering away or auto-looting things disabled. This should let your companions meander otherwise like unsupervised toddlers, interacting with things in the world around you.
+23. ADDED Dice Roulette, randomizing which dice skin is applied on each roll.
+24. ADDED Ring of Viciousness.
+25. ADDED Drunken Humming.
+26. ADDED Shadowheart's Nightly Hairdo.
+27. ADDED Shield SPell Reaction Fix.
+28. ADDED Spell List Customization Framework (hopefully the new tool for making all spell lists make sense without duplications or anything missing).
+29. ADDED Attitude Adjuster - Approval Gains SE. Approval should be gained at 75% and disapproval should be gained at 150%.
+30. ADDED Early Access Scenes Restored.
+31. REMOVED Really Shadowheart Extension.
+32. Fixed (hopefully) Shadowblade/Flameblade disappearing.
+33. Fixed (hopefully) Vampiric Touch being infinite spammable without an action cost.
+34. Fixed Shield of Faith's tooltip/description.
+35. Restored Concentration requirement for Improve Ability.
+36. Combat Extender tweaks (baseline config):
+    * Removed all global applications of Touch, Durable, and Heavy Armor Master.
+    * Act 1 Bosses receive Tough and Durable.
+    * Act 2 Mini-bosses receive Tough and Durable.
+    * Act 2 Fighter Champion and Fighter Battlemaster receive Heavy Armor Master.
+    * Act 3 Paladins receive Heavy Armor Master.
+38. asf
+39. asfd
+
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
 Save safe? Yes.
