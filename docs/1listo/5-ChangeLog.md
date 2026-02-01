@@ -50,18 +50,27 @@ Save safe? No.
 29. ADDED Attitude Adjuster - Approval Gains SE. Approval should be gained at 75% and disapproval should be gained at 150%.
 30. ADDED Early Access Scenes Restored.
 31. REMOVED Really Shadowheart Extension.
-32. Fixed (hopefully) Shadowblade/Flameblade disappearing.
-33. Fixed (hopefully) Vampiric Touch being infinite spammable without an action cost.
+32. Fixed (hopefully) Shadowblade/Flameblade disappearing (overwrite to remove Arcane Recovery from changing the spell).
+33. Fixed (hopefully) Vampiric Touch being infinite spammable without an action cost (I made a major typo in the master spells patch).
 34. Fixed Shield of Faith's tooltip/description.
 35. Restored Concentration requirement for Improve Ability.
 36. Combat Extender tweaks (baseline config):
-    * Removed all global applications of Touch, Durable, and Heavy Armor Master.
-    * Act 1 Bosses receive Tough and Durable.
-    * Act 2 Mini-bosses receive Tough and Durable.
+    * Removed all global applications of Tough, Durable, and Heavy Armor Master.
+    * Act 1 Bosses receive Tough.
+    * Act 2 Bosses receive Durable.
+    * Act 2 Mini-bosses receive Tough.
+    * Act 3 Mini-bosses receive Durable.
     * Act 2 Fighter Champion and Fighter Battlemaster receive Heavy Armor Master.
     * Act 3 Paladins receive Heavy Armor Master.
-38. asf
-39. asfd
+    * Removed random other global CX abilities.
+    * Culled enemy spell lists a lot.
+    * CX overall a lot shorter.
+38. Barkskin grants damage reduction 2 (on top of its other effects).
+39. Stoneskin grants damage reduction 4 (on top of its other effects).
+40. Enhance Ability requires concentration.
+41. Removed various means of CX giving enemies improved critical hit chances.
+42. Death Shepherds should now be blocked from resurrecting other Death Shepherds.
+43. Priestess Gut, Dror Raglin, Ketheric/Myrkul, and the Bulette have been given a safety check that will forcibly nuke their HP to 0 once it reaches 2 to hopefully avoid whatever bugs sometimes stop them from properly dying.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
