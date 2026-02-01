@@ -71,6 +71,7 @@ Save safe? No.
 41. Removed various means of CX giving enemies improved critical hit chances.
 42. Death Shepherds should now be blocked from resurrecting other Death Shepherds.
 43. Priestess Gut, Dror Raglin, Ketheric/Myrkul, and the Bulette have been given a safety check that will forcibly nuke their HP to 0 once it reaches 2 to hopefully avoid whatever bugs sometimes stop them from properly dying.
+44. (Optional) Absolute Wrath: Resiliency Weave only applies 1 point of damage reduction per stack instead of 2 (making it half as annoying).
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
