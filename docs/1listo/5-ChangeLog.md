@@ -45,7 +45,7 @@ Save safe? No.
 24. ADDED Ring of Viciousness.
 25. ADDED Drunken Humming.
 26. ADDED Shadowheart's Nightly Hairdo.
-27. ADDED Shield SPell Reaction Fix.
+27. ADDED Shield Spell Reaction Fix.
 28. ADDED Spell List Customization Framework (hopefully the new tool for making all spell lists make sense without duplications or anything missing).
 29. ADDED Attitude Adjuster - Approval Gains SE. Approval should be gained at 75% and disapproval should be gained at 150%.
 30. ADDED Early Access Scenes Restored.
@@ -72,6 +72,24 @@ Save safe? No.
 42. Death Shepherds should now be blocked from resurrecting other Death Shepherds.
 43. Priestess Gut, Dror Raglin, Ketheric/Myrkul, and the Bulette have been given a safety check that will forcibly nuke their HP to 0 once it reaches 2 to hopefully avoid whatever bugs sometimes stop them from properly dying.
 44. (Optional) Absolute Wrath: Resiliency Weave only applies 1 point of damage reduction per stack instead of 2 (making it half as annoying).
+45. REMOVED Bard College of Whispers.
+46. REMOVED Ambition and Solidarity Clerics.
+47. ADDED Cat's Cleric Changes, which gives Knowledge Clerics access to Magical Secrets, and War Clerics access to Extra Attack.
+48. REMOVED Oath of Zeal.
+49. REMOVED Oath of the Phoenix.
+50. REMOVED Oath of the Storm.
+51. REMOVED Quickened Oaths and Non-Concentration Smites (these are redundant with Listo's master spell patcher).
+52. REMOVED Displacer Beast as a Ranger Companion.
+53. REMOVED Ranger Stargazer.
+54. REMOVED Grim Surgeon, Misfortune Bringer, Debonaire, Scout, Mastermind, and Inquisitive from Rogue.
+55. ADDED Book of Rogues, which includes Scout, Mastermind, Inquisitive, Soulknife, and Phantom for Rogues.
+56. REMOVED Frozen Sorcery and Spellfire Sorcery.
+57. REMOVED The Sorcerer King, The Undead, The Fathooomless, The Genie, and The Star patrons from Warlocks.
+58. REMOVED Hedge Mage and Graviturgy from Wizard.
+59. REMOVED Blackguard. Play an Oathbreaker or Bleakwalker.
+60. REMOVED Pale Oak Faithwarden Enhanced, Bane's Cane, Rat-Catcher's Flute, Misc Act 1 Caster Equipment, Theif's Trinkets, [ModIO] Cloaks of Faerun, [ModIO]] Blade of the Gluttonous Prince, and Sarymsak's gloves.
+61. REMOVED Arcanist Feat and Experimental Alchemy as a Feat.
+62. REMOVED Platinum Dragonborn, Orc Half-Elf, Enter Maztica - Desert Dwarf, Haunted Warriors - Ghostwise, [ModIO] Half-Azer Dwarf,  Goblins, Hoggoblins, Beyond Faerun, and Fantastical Multiverse.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
