@@ -20,7 +20,7 @@ description: Update info
 Save safe? No.
 
 1. Updated (ModIO) Expanded Hand Crossbows, Really Shadowheart, and Bloodhunter.
-2. Updated 49 mods.
+2. Updated 63 mods.
 3. REMOVED Gab's Equipment.
 4. REMOVED Home Brew Over 100 Wild Magic Effects.
 5. REMOVED Barbarian Quality of Life.
@@ -119,6 +119,7 @@ Save safe? No.
 86. REMOVED Heads of Plenty Vol 1-3.
 87. REMOVED Neon's Assorted Faces.
 88. REMOVED Kylin's Heads.
+89. REMOVED Ultimate Cut Content Restoration Mod.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
