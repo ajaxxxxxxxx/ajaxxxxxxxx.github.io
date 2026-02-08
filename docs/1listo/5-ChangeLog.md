@@ -90,6 +90,35 @@ Save safe? No.
 60. REMOVED Pale Oak Faithwarden Enhanced, Bane's Cane, Rat-Catcher's Flute, Misc Act 1 Caster Equipment, Theif's Trinkets, [ModIO] Cloaks of Faerun, [ModIO]] Blade of the Gluttonous Prince, and Sarymsak's gloves.
 61. REMOVED Arcanist Feat and Experimental Alchemy as a Feat.
 62. REMOVED Platinum Dragonborn, Orc Half-Elf, Enter Maztica - Desert Dwarf, Haunted Warriors - Ghostwise, [ModIO] Half-Azer Dwarf,  Goblins, Hoggoblins, Beyond Faerun, and Fantastical Multiverse.
+63. Created a new set of passives just for early Act 1 enemies:
+    * "Second Hand Gear" is a passive for the poor adventurers infesting the Wither's crypt. They have -1 AC, -1 to hit, and weakness to acid and fire.
+    * "Rusty Goblin Gear" is a passive for goblins up to the Blighted Village, which gives them -1 AC, -1 to hit, and reduced HP.
+    * "Synaptic Overload" is a passive for mindflayers and intellect devourers around the beach, giving them weakness to psychic damage, sunlight sensitivity, reduced movement speed, and reduced HP.
+    * "Rigor Mortis" is a passive for undead in Wither's crypt all the way to undead under the Blighted Village, giving them -2 AC and -2 to hit. 
+65. Nerfed fireworks (the item, not the spell) to deal less base damage and to have an easier save.
+66. Added fireworks to loot tables in all 3 acts.
+67. REMOVED Concentrated Sussur Sap.
+68. Made personal mod edits to Sussur weapons to ensure making them is worth it.
+    * Sussur weapons gain +1d4 force damage, they are +2 weapons, they provide a bonus to saves vs spells, they make your save DC worse.
+70. Shillelagh's list of applicable weapons is now mace, sickle, quarterstaff, greatclub, and warhammer.
+71. Shillelagh is now a level 1 spell, not a cantrip.
+72. REMOVED Feywild Heads and Antlers for Elves.
+73. REMOVED Astralities Fluffy Ears (and associated patches).
+74. REMOVED Em's Hair Mashups.
+75. REMOVED Hairstyles of Faerun.
+76. REMOVED More Dreadlocs and Curly Hairstyles.
+77. REMOVED Izzli's Snazzy Salon.
+78. REMOVED The Mer.
+79. REMOVED Hollowborne Head Presets.
+80. REMOVED Netherseam - Head Presets.
+81. REMOVED The Sculptors Dreamcache.
+82. REMOVED Half-Orc Heads.
+83. REMOVED Namaera's Curseborn Heads.
+84. REMOVED Githyanki Heads.
+85. REMOVED ChaoticNeuThrall Heads.
+86. REMOVED Heads of Plenty Vol 1-3.
+87. REMOVED Neon's Assorted Faces.
+88. REMOVED Kylin's Heads.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
