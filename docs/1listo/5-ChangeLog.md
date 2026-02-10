@@ -20,7 +20,7 @@ description: Update info
 Save safe? No.
 
 1. Updated (ModIO) Expanded Hand Crossbows, Really Shadowheart, and Bloodhunter.
-2. Updated 63 mods.
+2. Updated 67 mods.
 3. REMOVED Gab's Equipment.
 4. REMOVED Home Brew Over 100 Wild Magic Effects.
 5. REMOVED Barbarian Quality of Life.
@@ -65,6 +65,7 @@ Save safe? No.
     * Removed random other global CX abilities.
     * Culled enemy spell lists a lot.
     * CX overall a lot shorter.
+    * Nerfed the phase spider matriarch. Less HP, less passive effects, no critical damage super bonus.
 38. Barkskin grants damage reduction 2 (on top of its other effects).
 39. Stoneskin grants damage reduction 4 (on top of its other effects).
 40. Enhance Ability requires concentration.
@@ -93,10 +94,10 @@ Save safe? No.
 63. Created a new set of passives just for early Act 1 enemies:
     * "Second Hand Gear" is a passive for the poor adventurers infesting the Wither's crypt. They have -1 AC, -1 to hit, and weakness to acid and fire.
     * "Rusty Goblin Gear" is a passive for goblins up to the Blighted Village, which gives them -1 AC, -1 to hit, and reduced HP.
-    * "Synaptic Overload" is a passive for mindflayers and intellect devourers around the beach, giving them weakness to psychic damage, sunlight sensitivity, reduced movement speed, and reduced HP.
-    * "Rigor Mortis" is a passive for undead in Wither's crypt all the way to undead under the Blighted Village, giving them -2 AC and -2 to hit. 
+    * "Synaptic Overload" is a passive for mindflayers and intellect devourers around the beach, giving them weakness to psychic damage, sunlight sensitivity, reduced movement speed, reduced rolls, sunlight sensitivity, and reduced HP. - this ended up not being named Synaptic Overload, I just added more penalties onto the existing passive the game uses to nerf beach encounters.
+    * "Rigor Mortis" is a passive for undead in Wither's crypt all the way to undead under the Blighted Village, giving them -2 AC and -2 to hit, and reduced HP. This is also applied to undead in the Halsin shadowfell portal fight.
 65. Nerfed fireworks (the item, not the spell) to deal less base damage and to have an easier save.
-66. Added fireworks to loot tables in all 3 acts.
+66. Added fireworks to loot tables in all 3 acts (they have a chance of showing up anywhere you might find magic arrows).
 67. REMOVED Concentrated Sussur Sap.
 68. Made personal mod edits to Sussur weapons to ensure making them is worth it.
     * Sussur weapons gain +1d4 force damage, they are +2 weapons, they provide a bonus to saves vs spells, they make your save DC worse.
@@ -120,6 +121,15 @@ Save safe? No.
 87. REMOVED Neon's Assorted Faces.
 88. REMOVED Kylin's Heads.
 89. REMOVED Ultimate Cut Content Restoration Mod.
+90. ADDED Shadar-Kai.
+91. Edits to Degreaser:
+    * Improved Mantle of Ajax by cleaning up the tooltip.
+    * Improved Swollentoe's Cloak of Protection by replacing the jank passive with one that exists in the game already. It also grants advantage on saving throws vs poison.
+    * Improved Jarlaxle's Piwafwa with better tooltip/reduced jank.
+    * Removed Armor of the Bear, Necrotic Conduit, and Radiant Conduit. Removed Cloak of Supreme Defenses.
+    * Removed the Grand Exchange, Censor of Orcus, Demon Eyes Halberd, and Breath of Yaccocmuud.
+    * Nerfed Flamepearl's Greataxe (removed some things that didn't work, anyway); nerfed the Resplendant Scimitar. Cleaned up the Devilstring and Sussurstring bows. Un-snorted whatever crack motivated Yaccomuud's Yang. Cleaned up the Mariner's Revenge.
+93. tbd
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
