@@ -66,6 +66,7 @@ Save safe? No.
     * Culled enemy spell lists a lot.
     * CX overall a lot shorter.
     * Nerfed the phase spider matriarch. Less HP, less passive effects, no critical damage super bonus.
+    * Removed Telekinetic Thrust from all enemies except Eldritch Knights. Moved EK TK Thrust to Act 2.
 38. Barkskin grants damage reduction 2 (on top of its other effects).
 39. Stoneskin grants damage reduction 4 (on top of its other effects).
 40. Enhance Ability requires concentration.
@@ -129,7 +130,11 @@ Save safe? No.
     * Removed Armor of the Bear, Necrotic Conduit, and Radiant Conduit. Removed Cloak of Supreme Defenses.
     * Removed the Grand Exchange, Censor of Orcus, Demon Eyes Halberd, and Breath of Yaccocmuud.
     * Nerfed Flamepearl's Greataxe (removed some things that didn't work, anyway); nerfed the Resplendant Scimitar. Cleaned up the Devilstring and Sussurstring bows. Un-snorted whatever crack motivated Yaccomuud's Yang. Cleaned up the Mariner's Revenge.
-93. tbd
+93. REMOVED Dawnstar's Water Spells.
+94. REMOVED Dawnstar's Telekinetic Spells.
+95. REMOVED Dawnstar's Grimoire.
+96. Fixed a typo in PF2e spells in Mimic Undead.
+97. Updated/nerfed (slightly) the Fireworks Blast spell. Instead of applying blindness for 2 turns, it applies color spray for 1.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
