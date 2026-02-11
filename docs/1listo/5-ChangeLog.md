@@ -20,7 +20,7 @@ description: Update info
 Save safe? No.
 
 1. Updated (ModIO) Expanded Hand Crossbows, Really Shadowheart, and Bloodhunter.
-2. Updated 67 mods.
+2. Updated 69 mods.
 3. REMOVED Gab's Equipment.
 4. REMOVED Home Brew Over 100 Wild Magic Effects.
 5. REMOVED Barbarian Quality of Life.
@@ -135,6 +135,17 @@ Save safe? No.
 95. REMOVED Dawnstar's Grimoire.
 96. Fixed a typo in PF2e spells in Mimic Undead.
 97. Updated/nerfed (slightly) the Fireworks Blast spell. Instead of applying blindness for 2 turns, it applies color spray for 1.
+98. REMOVED Various Dialogue Fixes.
+99. Consolidated a new optional mod section. The mods listed below are now optional. They are no longer considered part of the "core" experience, but generally are mods I play with and enjoy:
+     * NEW Optional Category: Monster-Collector-Mode-Mods
+     * Ed the Hyena
+     * Justice for Nessa
+     * Tusk Evolved
+     * Owlbear Cub Evolved
+     * Bernard Evolved
+     * Shovel Evolved (new-ish)
+     * Us Evolved (new-ish)
+100. tbd
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
