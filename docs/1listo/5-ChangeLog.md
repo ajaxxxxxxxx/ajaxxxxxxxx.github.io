@@ -20,7 +20,7 @@ description: Update info
 Save safe? No.
 
 1. Updated (ModIO) Expanded Hand Crossbows, Really Shadowheart, and Bloodhunter.
-2. Updated 69 mods.
+2. Updated 71 mods.
 3. REMOVED Gab's Equipment.
 4. REMOVED Home Brew Over 100 Wild Magic Effects.
 5. REMOVED Barbarian Quality of Life.
@@ -145,7 +145,7 @@ Save safe? No.
      * Bernard Evolved
      * Shovel Evolved (new-ish)
      * Us Evolved (new-ish)
-100. tbd
+100. ADDED Simulacrum Spell.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
