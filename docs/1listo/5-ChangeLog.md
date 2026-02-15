@@ -20,7 +20,7 @@ description: Update info
 Save safe? No.
 
 1. Updated (ModIO) Expanded Hand Crossbows, Really Shadowheart, and Bloodhunter.
-2. Updated 71 mods.
+2. Updated 82 mods.
 3. REMOVED Gab's Equipment.
 4. REMOVED Home Brew Over 100 Wild Magic Effects.
 5. REMOVED Barbarian Quality of Life.
