@@ -68,7 +68,7 @@ Save safe? No.
     * Nerfed the phase spider matriarch. Less HP, less passive effects, no critical damage super bonus.
     * Removed Telekinetic Thrust from all enemies except Eldritch Knights. Moved EK TK Thrust to Act 2.
 38. Barkskin grants damage reduction 2 (on top of its other effects).
-39. Stoneskin grants damage reduction 4 (on top of its other effects).
+39. Stoneskin grants damage reduction 3 (on top of its other effects).
 40. Enhance Ability requires concentration.
 41. Removed various means of CX giving enemies improved critical hit chances.
 42. Death Shepherds should now be blocked from resurrecting other Death Shepherds.
@@ -103,8 +103,7 @@ Save safe? No.
 67. REMOVED Concentrated Sussur Sap.
 68. Made personal mod edits to Sussur weapons to ensure making them is worth it.
     * Sussur weapons gain +1d4 force damage, they are +2 weapons, they provide a bonus to saves vs spells, they make your save DC worse.
-70. Shillelagh's list of applicable weapons is now mace, sickle, quarterstaff, greatclub, and warhammer.
-71. Shillelagh is now a level 1 spell, not a cantrip.
+70. Shillelagh's list of applicable weapons is now Club, Quarterstaff, Mace, Morningstar, Sickle, Spear, or Trident. Shillelagh is now a level 1 spell. Shillelagh now needs to be re-cast after a Long Rest. Added Shillelagh as  a domain spell for Nature Clerics, and as an option for Oath of Ancients Paladins.
 72. REMOVED Feywild Heads and Antlers for Elves.
 73. REMOVED Astralities Fluffy Ears (and associated patches).
 74. REMOVED Em's Hair Mashups.
@@ -150,8 +149,9 @@ Save safe? No.
 101. REMOVED Xara's Spells.
 102. REMOVED Darkness Domain.
 103. REMOVED Shadowheart Darkness Domain.
-104. ADDED AOS - Shadowheart Knowledge Domain.
-105. ADDED AOS - Wyll Hexblade.
+104. Changed Shadowheart's starting subclass to Knowledge. Changed Wyll's starting subclass to Hexblade. Changed Lae'zel's starting stats to support Eldritch Knight/Psychic Warrior/Arcane Archer. All companions should start with better choices in their default stats.
+107. (Listo master patch) removed Style'n'Dye from being found in the world (it's now with the other dyes in the shadowheart bag or accessible via transmog mod).
+108. Added Shadowblade and Flameblade to Artificer, Arcane Trickster, and Eldritch Knight.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
