@@ -152,6 +152,7 @@ Save safe? No.
 104. Changed Shadowheart's starting subclass to Knowledge. Changed Wyll's starting subclass to Hexblade. Changed Lae'zel's starting stats to support Eldritch Knight/Psychic Warrior/Arcane Archer. All companions should start with better choices in their default stats.
 107. (Listo master patch) removed Style'n'Dye from being found in the world (it's now with the other dyes in the shadowheart bag or accessible via transmog mod).
 108. Added Shadowblade and Flameblade to Artificer, Arcane Trickster, and Eldritch Knight.
+109. Reduced XP required to reach level 4 by 500.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
