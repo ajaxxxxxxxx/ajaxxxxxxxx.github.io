@@ -97,6 +97,7 @@ Save safe? No.
     * "Rusty Goblin Gear" is a passive for goblins up to the Blighted Village, which gives them -1 AC, -1 to hit, and reduced HP.
     * "Synaptic Overload" is a passive for mindflayers and intellect devourers around the beach, giving them weakness to psychic damage, sunlight sensitivity, reduced movement speed, reduced rolls, sunlight sensitivity, and reduced HP. - this ended up not being named Synaptic Overload, I just added more penalties onto the existing passive the game uses to nerf beach encounters.
     * "Rigor Mortis" is a passive for undead in Wither's crypt all the way to undead under the Blighted Village, giving them -2 AC and -2 to hit, and reduced HP. This is also applied to undead in the Halsin shadowfell portal fight.
+    * You don't know how tedious going through the game to manually tag creatures with these passives is.
 65. Nerfed fireworks (the item, not the spell) to deal less base damage and to have an easier save.
 66. Added fireworks to loot tables in all 3 acts (they have a chance of showing up anywhere you might find magic arrows).
 67. REMOVED Concentrated Sussur Sap.
@@ -146,6 +147,11 @@ Save safe? No.
      * Shovel Evolved (new-ish)
      * Us Evolved (new-ish)
 100. ADDED Simulacrum Spell.
+101. REMOVED Xara's Spells.
+102. REMOVED Darkness Domain.
+103. REMOVED Shadowheart Darkness Domain.
+104. ADDED AOS - Shadowheart Knowledge Domain.
+105. ADDED AOS - Wyll Hexblade.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
