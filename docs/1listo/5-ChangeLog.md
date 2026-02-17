@@ -15,7 +15,7 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v8.1 (WIP)
+## Listonomicon v9 Scares & Munchies (WIP - Playtest Available)
 
 Save safe? No.
 
