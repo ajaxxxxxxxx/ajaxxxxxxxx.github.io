@@ -20,7 +20,7 @@ description: Update info
 Save safe? No.
 
 1. Updated (ModIO) Expanded Hand Crossbows, Really Shadowheart, and Bloodhunter.
-2. Updated 86+ mods.
+2. Updated 91+ mods.
 3. REMOVED Gab's Equipment.
 4. REMOVED Home Brew Over 100 Wild Magic Effects.
 5. REMOVED Barbarian Quality of Life.
@@ -149,10 +149,22 @@ Save safe? No.
 101. REMOVED Xara's Spells.
 102. REMOVED Darkness Domain.
 103. REMOVED Shadowheart Darkness Domain.
-104. Changed Shadowheart's starting subclass to Knowledge. Changed Wyll's starting subclass to Hexblade. Changed Lae'zel's starting stats to support Eldritch Knight/Psychic Warrior/Arcane Archer. All companions should start with better choices in their default stats.
+104. Changed Shadowheart's starting subclass to Knowledge. ~~Changed Wyll's starting subclass to Hexblade.~~ Changed Lae'zel's starting stats to support Eldritch Knight/Psychic Warrior/Arcane Archer. All companions should start with better choices in their default stats.
 107. (Listo master patch) removed Style'n'Dye from being found in the world (it's now with the other dyes in the shadowheart bag or accessible via transmog mod).
 108. Added Shadowblade and Flameblade to Artificer, Arcane Trickster, and Eldritch Knight.
 109. Reduced XP required to reach level 4 by 500.
+110. ADDED Way of the Shadow Katanas.
+111. ADDED Barcus Wroot - Dynamic Appearance.
+112. ADDED (playtesting) Paragon.
+113. Further CX tweaks:
+     * Swords Bards receive Trip Attack in Act 3.
+     * Battle Master Fighters receive Trip Attack in Act 2, and Menacing Attack in Act 3.
+     * A special version of fireball that applies Heat Metal has been distributed to ensure that your trip to Avernus feels like hell.
+     * Cleaned up/reduced/simplified some CX entries.
+     * Redid the Raphael fight. His Cambions no longer have a random grab bag of passives/attacks. They are all a unique type of hell barbarian that want to set you on fire and regen HP (degreaser features).
+     * (DeGreaser feature) created a knockoff Aegis of the Absolute spell for certain bosses.
+     * Removed a lot of somewhat meaningless CX entries.
+115. Fixes to some Listo mods.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
