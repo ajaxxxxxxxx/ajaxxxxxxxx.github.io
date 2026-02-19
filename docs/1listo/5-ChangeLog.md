@@ -165,6 +165,7 @@ Save safe? No.
      * (DeGreaser feature) created a knockoff Aegis of the Absolute spell for certain bosses.
      * Removed a lot of somewhat meaningless CX entries.
 115. Fixes to some Listo mods.
+116. Removed a bunch of stuff from autowares that shouldn't be there.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
