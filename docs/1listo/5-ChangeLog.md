@@ -20,7 +20,7 @@ description: Update info
 Save safe? No.
 
 1. Updated (ModIO) Expanded Hand Crossbows, Really Shadowheart, and Bloodhunter.
-2. Updated 91+ mods.
+2. Updated 93+ mods.
 3. REMOVED Gab's Equipment.
 4. REMOVED Home Brew Over 100 Wild Magic Effects.
 5. REMOVED Barbarian Quality of Life.
@@ -166,6 +166,8 @@ Save safe? No.
      * Removed a lot of somewhat meaningless CX entries.
 115. Fixes to some Listo mods.
 116. Removed a bunch of stuff from autowares that shouldn't be there.
+117. ADDED a secret mod that gives you a chance to taste Shar's power.
+118. ADDED (for testing) Otherworldly Archetypes.
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
