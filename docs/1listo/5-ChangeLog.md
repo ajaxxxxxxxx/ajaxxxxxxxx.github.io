@@ -20,7 +20,7 @@ description: Update info
 Save safe? No.
 
 1. Updated (ModIO) Expanded Hand Crossbows, Really Shadowheart, and Bloodhunter.
-2. Updated 93+ mods.
+2. Updated 96+ mods.
 3. REMOVED Gab's Equipment.
 4. REMOVED Home Brew Over 100 Wild Magic Effects.
 5. REMOVED Barbarian Quality of Life.
@@ -168,6 +168,54 @@ Save safe? No.
 116. Removed a bunch of stuff from autowares that shouldn't be there.
 117. ADDED a secret mod that gives you a chance to taste Shar's power.
 118. ADDED (for testing) Otherworldly Archetypes.
+119. Nerfed Bernard Evolved
+     * Bernard never gains expertise in stealth.
+     * His stat increases at levels 4, 5, 6, 7, and 8 are removed.
+     * When he gains a stat increase, it is +1 STR/CON/INT. These happen at levels 9, 10, 12, 14, 16, 18, 19, and 20.
+     * His "Sussur Counterspell" is moved from level 9 to level 13.
+     * Bernard has antimagic susceptibility.
+     * (actually a buff) Bernard's surprise immunity is replaced with the Alert feat. However it's moved from level 5 to 10.
+     * Bernard's Polearm Master is moved to level 13 from 4.
+     * Updated Bernard's stats to match how constructs are changed in Listo.
+     * Removed Bernard's immunity to burning. He can also be charmed, blinded, confused, surprised, taunted, scared, and stunned.
+     * Bernard is immune to poison. He resists psychic, cold, and fire. He resists non-magical slashing and piercing. He is vulnerable to bludgeoning. He is neutral to all other damage.
+     * Bernard's "Static Bolt" is a d6 scaling attack instead of d8.
+     * Bernard's "Sussur Counterspell," "Pacify," and "Static Bolt" are once per short rest.
+121. Nerfed Shovel Evolved
+     * Shovel does not start gaining stat increases/resources until level 5. On odd numbers, Shovel gains 1 sorcery point and 1 Charisma, Intelligence, and Wisdom; on even numbers, Shovel gains 1 Constitution and 1 Dexterity.
+     * Shovel's starting stats are weaker (4 Strength, 14 Dexterity instead of 5/17).
+     * Shovel does not resist B/P/S damage and is only resistant to poison.
+     * Shovel's AC is 12 + dex and eventually increases to 14 + dex.
+     * Shovel is not immune to being surprised and has a much smaller bonus to initiative.
+     * Shovel's health regen only kicks in when below 66% HP.
+     * Shovel's secret undead upgrade comes with vulnerability to Radiant damage.
+     * Shovel is sunlight sensitive.
+     * Shovel's various transforms have trade offs, such as damage vulnerabilities.
+     * Shovel's low HP bonus damage is reduced from +1d4 to +1.
+     * Shovel's upgraded "Cloud of Poo Scrapers" come at levels 8 and 12.
+123. Nerfed Us Evolved
+     * Us's mind blast is reduced from a scaling 1d8 to the following: Level 1: 1d6; Level 4: 2d4; Level 7: 2d6; Level 10: 3d4; Level 13: 4d4; Level 16: 5d4; Level 19: 4d6. It now tops out at 4d8 instead of 8d8.
+     * Us's deathburst is reduced from capping out at 12d6 (???) to following the same schema as the mind blast.
+     * Starting at level 8, Us gains +1 Intelligence and Wisdom every even numbered level and +1 Constitution and Dexterity every odd numbered level.
+     * Us's starting starts are slightly weaker.
+     * Us's AC grows slower.
+     * Synpatic Discharge does d6 + spell casting modifier instead of d8 + spell casting modifier.
+     * Us's claw attack is reduced from 2d8 damage to 1d4. Increases to 1d8.
+125. Nerfed Tusk Evolved
+     * Tusk is not immune to difficult terrain by default.
+     * Starting STR/DEX/CON is 12, mental stats reduced.
+     * Tusk's HP regen does not activate until he is below 66% HP.
+     * Tusk's AC growth is slightly less.
+     * Tusk's bonus fire damage is +1d4 from +1d6.
+     * Kick Up Muck remains 1/SR and never becomes 1/Combat.
+127. Nerfed Owlbear Cub Evolved
+     * Claws deal 1d6 damage, becomes 2d6 at level 8, 3d6 at level 12.
+     * Starts with 1 Rage charge instead of 2.
+     * Danger Sense, Bear totem spirit, and Eager For Battle are moved to level 6.
+     * Cub's stats start slightly lower.
+     * Rend Vision, Smash, and Goading Roar is limited to 1/Combat.
+     * Cub meat healing is reduced to +1d10 HP from +2d10.
+129. more to come because I love scope creep
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
