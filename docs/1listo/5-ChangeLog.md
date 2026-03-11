@@ -15,7 +15,9 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v9 Scares & Munchies (WIP - Playtest Available)
+## Listonomicon v9.0.3 Fear and Hunger
+
+(several versions skipped internally during testing)
 
 Save safe? No.
 
