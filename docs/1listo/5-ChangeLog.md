@@ -20,7 +20,7 @@ description: Update info
 Save safe? No.
 
 1. Updated (ModIO) Expanded Hand Crossbows, Really Shadowheart, and Bloodhunter.
-2. Updated 96+ mods.
+2. Updated 110+ mods.
 3. REMOVED Gab's Equipment.
 4. REMOVED Home Brew Over 100 Wild Magic Effects.
 5. REMOVED Barbarian Quality of Life.
@@ -215,7 +215,15 @@ Save safe? No.
      * Cub's stats start slightly lower.
      * Rend Vision, Smash, and Goading Roar is limited to 1/Combat.
      * Cub meat healing is reduced to +1d10 HP from +2d10.
-129. more to come because I love scope creep
+129. REMOVED Simulacrum Spell (for now).
+130. REMOVED Elemental Adept Feat Enhanced.
+131. Added code from the ever-helpful actualsailorcat to prevent/remove Short Rest putting unwanted things on the hotbar concerning redundant AI summon automation toggles.
+132. There is an EASY and HARD CX config bundled in again.
+133. ADDED Kikyo's Wilderness Camp Overhaul.
+134. ADDED DRS Remover.
+135. ADDED Star Druid Tweaks.
+136. ADDED Muddy Made Manageable.
+137. Reduced Barkskin and Stoneskin DR's by 1 each and added concentration to Mirror Image (Mirror Image is still a Bonus Action, however).
 
 ## Listonomicon v8.0.1 Spells 2.0 Edition
 
