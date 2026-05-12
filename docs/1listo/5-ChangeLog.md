@@ -15,6 +15,55 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v10.0 CatDude Edition
+
+Save safe? No.
+
+1. Updated the MO2-BG3 plugin. It MIGHT now be more reliable/trustworthy with how it handles generating a mod list, improving multiplayer compatability (two users with the same exact setup should stop having issues caused by their PCs putting random mods in random order).
+2. Created a new "optional" category for "Expanded Game Content" - a place for mods that I really like, but don't want to actively maintain support/patching/compabibility for as the core experience.
+     * Moved "Features From DnD 5E Spelljammer" here - the mini-expansion that adds a short Act 3 quest to obtain a void-ship from Propper.
+     * Moved Ed the Hyena, Justice for Nessa, Tusk Evolved, Owlbear Cub Evolved, and Bernard Evolved here.
+     * Moved Path of Undeath and Path of the Righteous here.
+     * Moved Holy Avenger, Foe Bane, The Burning Earth, Eye of Vecna, Hand of Vecna, Robe of Vecna here.
+     * Moved Illithid Powers Overhaul 2 here.
+     * Moved Shar's Blood here.
+     * Moved Attunement here.
+4. Removed Planescape 5e.
+5. Removed Really Shadowheart.
+6. Removed Eyevan's Ghoulish Goods.
+7. Removed Kira's Secret Mod.
+8. Removed Shovel Evolved and Us Evolved.
+9. Removed Ed the Hyena Joins the Party.
+10. Removed Harvests End, Staff of the Archfey, Soul Knife Equipment.
+11. Removed Emperor vs. Orpheus.
+12. Removed Sensible Ambushing.
+13. Removed Druid Quality of Life and Druid Perfection.
+14. Added Druid Wild Shape Overhaul.
+15. Removed Veenab Spells and Hellball.
+16. Removed Minthara's Immersive Redesign.
+17. Added Nightwarden Minthara.
+18. Removed ~150ish spells from the global CX NPC class lists.
+19. Cut a ton of spells from specific NPCs in CX.
+20. Added Kikyo's Mountain Pass Camp overhaul.
+21. Nerfed Malus Thorm (the Surgeon) and his assistants. Now only 1 assistant is a mini-boss, and Malus can't infinitely resurrect his entire retinue. In the HARD CX, his nurses are still mini-bosses.
+22. Added Cat's Boss Tweaks for Lir'i'c, Myrkul, and Dror Ragzlin.
+23. Removed Bhaalist Hair Accessory For All Races and Body Types.
+24. Removed Astral Pain (losers).
+25. Updated ~88ish mods.
+26. Removed Dice Roulette.
+27. The default game settings now limit the party to 5 members, instead of 6.
+28. Default, Easy, and Hard CX updated to reflect changes/reduction of NPC spells/hopefully less crashing and stuck AI dumb brain.
+29. Added Give Me My Title.
+30. Removed Better Target Info.
+31. Added Improved Spell and Damage Preview.
+32. Added Race CC Universal Automatic Patcher.
+33. Added Auntie Ethel Always Surrenders.
+34. Added (optional) Dynamic Extra Encounters.
+35. Added (optional) Hunted Dynamic Ambushes.
+36. Added One Feels So Exposed.
+37. Added Dynamic Camp Supply Costs.
+
+
 ## Listonomicon v9.0.3 Fear and Hunger
 
 (several versions skipped internally during testing)
