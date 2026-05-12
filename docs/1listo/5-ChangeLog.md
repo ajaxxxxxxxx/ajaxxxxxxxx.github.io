@@ -15,7 +15,7 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v10.0 CatDude Edition
+## Listonomicon v10.0 CatDude Edition (WIP)
 
 Save safe? No.
 
@@ -27,7 +27,7 @@ Save safe? No.
      * Moved Holy Avenger, Foe Bane, The Burning Earth, Eye of Vecna, Hand of Vecna, Robe of Vecna here.
      * Moved Illithid Powers Overhaul 2 here.
      * Moved Shar's Blood here.
-     * Moved Attunement here.
+     * ~~Moved Attunement here.~~ JK this is CatDude's favorite mod.
 4. Removed Planescape 5e.
 5. Removed Really Shadowheart.
 6. Removed Eyevan's Ghoulish Goods.
