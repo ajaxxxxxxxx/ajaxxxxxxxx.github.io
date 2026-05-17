@@ -22,12 +22,14 @@ Save safe? No.
 1. Updated the MO2-BG3 plugin. It MIGHT now be more reliable/trustworthy with how it handles generating a mod list, improving multiplayer compatability (two users with the same exact setup should stop having issues caused by their PCs putting random mods in random order).
 2. Created a new "optional" category for "Expanded Game Content" - a place for mods that I really like, but don't want to actively maintain support/patching/compabibility for as the core experience.
      * Moved "Features From DnD 5E Spelljammer" here - the mini-expansion that adds a short Act 3 quest to obtain a void-ship from Propper.
-     * Moved Ed the Hyena, Justice for Nessa, Tusk Evolved, Owlbear Cub Evolved, and Bernard Evolved here.
+     * Moved Justice for Nessa, Tusk Evolved, Owlbear Cub Evolved, and Bernard Evolved here.
      * Moved Path of Undeath and Path of the Righteous here.
      * Moved Holy Avenger, Foe Bane, The Burning Earth, Eye of Vecna, Hand of Vecna, Robe of Vecna here.
      * Moved Illithid Powers Overhaul 2 here.
      * Moved Shar's Blood here.
      * ~~Moved Attunement here.~~ JK this is CatDude's favorite mod.
+     * Added Extra Encounters and Minibosses again, to this section.
+     * Added Mogris's Disciples to t his section.
 4. Removed Planescape 5e.
 5. Removed Really Shadowheart.
 6. Removed Eyevan's Ghoulish Goods.
@@ -54,14 +56,21 @@ Save safe? No.
 27. The default game settings now limit the party to 5 members, instead of 6.
 28. Default, Easy, and Hard CX updated to reflect changes/reduction of NPC spells/hopefully less crashing and stuck AI dumb brain.
 29. Added Give Me My Title.
-30. Removed Better Target Info.
-31. Added Improved Spell and Damage Preview.
+30. ~~Removed Better Target Info.~~ kept thsi mod
+31. ~~Added Improved Spell and Damage Preview.~~ nvm issues
 32. Added Race CC Universal Automatic Patcher.
 33. Added Auntie Ethel Always Surrenders.
 34. Added (optional) Dynamic Extra Encounters.
 35. Added (optional) Hunted Dynamic Ambushes.
 36. Added One Feels So Exposed.
 37. Added Dynamic Camp Supply Costs.
+38. Nerfs to Eldritch Blast:
+    * Repelling Blast has a Strength saving throw.
+    * Eldritch Blast base damage reduced to 1d8 per beam from 1d10.
+40. Fire Bolt no longer applies Burning to the target, but damage is restored to d10.
+41. Implemented an experimental fix for Battlemaster Maneuvers that will prevent AI from being able to use the same maneuver multiple times in the same turn (no more Githankyi disarm blenders). Effects Commander's Strike, Disarming Strike, Distracting Strike, Feinting Attack, Menacing Attack, and Trip Attack.
+42. Doppelgangers (Act 3 recurring enemies) should have a +33% HP boost. So do Illithids.
+43. Implemented fixes/nerfs from CatDude concerning Arcane Augmentation and Vecna's Robes.
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
