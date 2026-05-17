@@ -29,7 +29,8 @@ Save safe? No.
      * Moved Shar's Blood here.
      * ~~Moved Attunement here.~~ JK this is CatDude's favorite mod.
      * Added Extra Encounters and Minibosses again, to this section.
-     * Added Mogris's Disciples to t his section.
+     * Added Mogris's Disciples to this section.
+     * Added Many More Monsters to this section.
 4. Removed Planescape 5e.
 5. Removed Really Shadowheart.
 6. Removed Eyevan's Ghoulish Goods.
