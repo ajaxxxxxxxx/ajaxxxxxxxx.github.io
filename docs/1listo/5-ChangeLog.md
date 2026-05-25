@@ -26,7 +26,7 @@ Save safe? No.
      * Moved Path of Undeath and Path of the Righteous here.
      * Moved Holy Avenger, Foe Bane, The Burning Earth, Eye of Vecna, Hand of Vecna, Robe of Vecna here.
      * Moved Illithid Powers Overhaul 2 here.
-     * Moved Shar's Blood here.
+     * ~~Moved Shar's Blood here.~~ removed.
      * ~~Moved Attunement here.~~ JK this is CatDude's favorite mod.
      * Added Extra Encounters and Minibosses again, to this section.
      * Added Mogris's Disciples to this section. Removed the Mogris sub-mods.
