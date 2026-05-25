@@ -73,9 +73,9 @@ Save safe? No.
 42. Doppelgangers (Act 3 recurring enemies) should have a +33% HP boost. So do Illithids.
 43. Implemented fixes/nerfs from CatDude concerning Arcane Augmentation and Vecna's Robes.
 44. Added If Fate Chose Differently, which gives Wyll a Shadowheart-like points system that influences him to make his own decision about breaking or keeping his pact.
-45. Added Sword of Justice Upgradeable.
+45. Added Sword of Justice Upgradeable. And nerfed.
 46. Added Mordekainen Presents Lizardfolk.
-47. Added Sheltering Steel.
+47. Added Sheltering Steel. And nerfed.
 48. Added my own take on "Unique Stat Bonus for Companions." Reducing the bonuses to all origins (mostly) to +1 to 2 stats, and +1 to 2 skills.
     * Asterion has +1 DEX/CHA, performance/acrobatics.
     * Jaheira has +1 DEX/WIS, history/survival.
@@ -88,9 +88,16 @@ Save safe? No.
     * Karlach has +1 STR/CON, intimidation/religion.
     * Wyll has +1 CHA/INT, persuasion/investigation.
     * The Dark Urge has +1 CHA/CON, intimidation/deception.
-49. Added A Human's Random Loot (with very narrow options enabled).
+    * Re-assigned gods to origin characters because those were lost at some point.
+49. ~~Added A Human's Random Loot (with very narrow options enabled).~~ nah
 50. Removed Druid Wildshape Items.
 51. Removed Rebalance - Gear.
+52. MOD SETTINGS:
+    * Removed injury kits from autowares.
+    * Adjusted scaling food camp supplies to x1.1 in Act 1 (10%); x1.25 in Act 2 (25%); and x1.15 in Act 3 (15%).
+    * Supernatural camp members (Aylin, Withers) never increase the cost of long rests. Asterion has a very minimal impact. Pets and children contribute less than a full person, and hirelings contribute very little.
+    * Reduced the intensity of HUNTED - DYNAMIC AMBUSHES slightly. Changed some settings to interact with Sit This One Out better.
+54. asdf
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
