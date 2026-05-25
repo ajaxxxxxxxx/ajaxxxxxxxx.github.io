@@ -19,7 +19,7 @@ description: Update info
 
 Save safe? No.
 
-1. Updated the MO2-BG3 plugin. It MIGHT now be more reliable/trustworthy with how it handles generating a mod list, improving multiplayer compatability (two users with the same exact setup should stop having issues caused by their PCs putting random mods in random order).
+1. Updated the MO2-BG3 plugin. It MIGHT now be more reliable/trustworthy with how it handles generating a mod list, improving multiplayer compatability (two users with the same exact setup should stop having issues caused by their PCs putting random mods in random order). The plugin also no longer requires Root Builder, removing a few steps for Linux users and users who install Listo to a different location than BG3.
 2. Created a new "optional" category for "Expanded Game Content" - a place for mods that I really like, but don't want to actively maintain support/patching/compabibility for as the core experience.
      * Moved "Features From DnD 5E Spelljammer" here - the mini-expansion that adds a short Act 3 quest to obtain a void-ship from Propper.
      * Moved Justice for Nessa, Tusk Evolved, Owlbear Cub Evolved, and Bernard Evolved here.
@@ -29,7 +29,7 @@ Save safe? No.
      * Moved Shar's Blood here.
      * ~~Moved Attunement here.~~ JK this is CatDude's favorite mod.
      * Added Extra Encounters and Minibosses again, to this section.
-     * Added Mogris's Disciples to this section.
+     * Added Mogris's Disciples to this section. Removed the Mogris sub-mods.
      * Added Many More Monsters to this section.
 4. Removed Planescape 5e.
 5. Removed Really Shadowheart.
@@ -72,6 +72,26 @@ Save safe? No.
 41. Implemented an experimental fix for Battlemaster Maneuvers that will prevent AI from being able to use the same maneuver multiple times in the same turn (no more Githankyi disarm blenders). Effects Commander's Strike, Disarming Strike, Distracting Strike, Feinting Attack, Menacing Attack, and Trip Attack.
 42. Doppelgangers (Act 3 recurring enemies) should have a +33% HP boost. So do Illithids.
 43. Implemented fixes/nerfs from CatDude concerning Arcane Augmentation and Vecna's Robes.
+44. Added If Fate Chose Differently.
+45. Added Sword of Justice Upgradeable.
+46. Added Mordekainen Presents Lizardfolk.
+47. Added Sheltering Steel.
+48. Added If Fate Chose Differently.
+49. Added my own take on "Unique Stat Bonus for Companions." Reducing the bonuses to all origins (mostly) to +1 to 2 stats, and +1 to 2 skills.
+    * Asterion has +1 DEX/CHA, performance/acrobatics.
+    * Jaheira has +1 DEX/WIS, history/survival.
+    * Shadowheart has +1 DEX/WIS, arcana/religion.
+    * Lae'zel has +1 STR/INT, intimidation/perception.
+    * Halsin has +1 CON/WIS, nature/medicine.
+    * Minthara has +1 CON/CHA, intimidation/religion.
+    * Gale has +1 INT/WIS, arcana/history.
+    * Minsc has +2 STR/CON, intimidation/acrobatics.
+    * Karlach has +1 STR/CON, intimidation/religion.
+    * Wyll has +1 CHA/INT, persuasion/investigation.
+    * The Dark Urge has +1 CHA/CON, intimidation/deception.
+51. Added A Human's Random Loot (with very narrow options enabled).
+52. Removed Druid Wildshape Items.
+53. Removed Rebalance - Gear.
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
