@@ -52,7 +52,7 @@ Save safe? No.
 22. Added Cat's Boss Tweaks for Lir'i'c, Myrkul, and Dror Ragzlin.
 23. Removed Bhaalist Hair Accessory For All Races and Body Types.
 24. Removed Astral Pain (losers).
-25. Updated ~88ish mods.
+25. Updated ~98ish mods.
 26. Removed Dice Roulette.
 27. The default game settings now limit the party to 5 members, instead of 6.
 28. Default, Easy, and Hard CX updated to reflect changes/reduction of NPC spells/hopefully less crashing and stuck AI dumb brain.
@@ -97,7 +97,9 @@ Save safe? No.
     * Adjusted scaling food camp supplies to x1.1 in Act 1 (10%); x1.25 in Act 2 (25%); and x1.15 in Act 3 (15%).
     * Supernatural camp members (Aylin, Withers) never increase the cost of long rests. Asterion has a very minimal impact. Pets and children contribute less than a full person, and hirelings contribute very little.
     * Reduced the intensity of HUNTED - DYNAMIC AMBUSHES slightly. Changed some settings to interact with Sit This One Out better.
-54. asdf
+54. Added Mazzle Group Climbing. No more waiting one at a time to climb stuff.
+55. Added More Camp Idles for Karlach and Shadowheart.
+56. Official release of Paragon!
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
