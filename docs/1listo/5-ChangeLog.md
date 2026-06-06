@@ -22,7 +22,7 @@ Save safe? No.
 1. Updated the MO2-BG3 plugin. It MIGHT now be more reliable/trustworthy with how it handles generating a mod list, improving multiplayer compatability (two users with the same exact setup should stop having issues caused by their PCs putting random mods in random order). The plugin also no longer requires Root Builder, removing a few steps for Linux users and users who install Listo to a different location than BG3.
 2. Created a new "optional" category for "Expanded Game Content" - a place for mods that I really like, but don't want to actively maintain support/patching/compabibility for as the core experience.
      * Moved "Features From DnD 5E Spelljammer" here - the mini-expansion that adds a short Act 3 quest to obtain a void-ship from Propper.
-     * Moved Justice for Nessa, Tusk Evolved, Owlbear Cub Evolved, and Bernard Evolved here.
+     * Moved Justice for Nessa, Tusk Evolved, ~~Owlbear Cub Evolved~~ (removed), and Bernard Evolved here.
      * Moved Path of Undeath and Path of the Righteous here.
      * Moved Holy Avenger, Foe Bane, The Burning Earth, Eye of Vecna, Hand of Vecna, Robe of Vecna here.
      * Moved Illithid Powers Overhaul 2 here.
@@ -94,7 +94,7 @@ Save safe? No.
 51. Removed Rebalance - Gear.
 52. MOD SETTINGS:
     * Removed injury kits from autowares.
-    * Adjusted scaling food camp supplies to x1.1 in Act 1 (10%); x1.25 in Act 2 (25%); and x1.15 in Act 3 (15%).
+    * Adjusted scaling food camp supplies to x1.05 in Act 1 (+5%); x1.25 in Act 2 (25%); and x1.15 in Act 3 (15%).
     * Supernatural camp members (Aylin, Withers) never increase the cost of long rests. Asterion has a very minimal impact. Pets and children contribute less than a full person, and hirelings contribute very little.
     * Reduced the intensity of HUNTED - DYNAMIC AMBUSHES slightly. Changed some settings to interact with Sit This One Out better.
 54. Added Mazzle Group Climbing. No more waiting one at a time to climb stuff.
