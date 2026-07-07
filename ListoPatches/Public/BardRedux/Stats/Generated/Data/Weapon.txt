@@ -1,0 +1,6 @@
+new entry "SPK_MAG_Harpers_Harmonizing_Rapier"
+type "Weapon"
+using "MAG_Harpers_Harmonizing_Rapier"
+data "RootTemplate" "530a5c21-0f52-428f-bf41-ef33fd6c447b"
+data "Rarity" "VeryRare"
+data "Unique" "0"

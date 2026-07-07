@@ -1,0 +1,56 @@
+new entry "XEN_BernardEvolved_Anchor"
+type "Object"
+using "OBJ_GenericLootItem"
+data "RootTemplate" "0f1dc3b4-3267-40a6-a15e-d7213989dc77"
+data "Rarity" "VeryRare"
+
+new entry "UNI_XEN_BernardEvolved_Automaton_Unfinished"
+type "Object"
+using "OBJ_GenericImmutableAttackableObject_Heavy"
+data "RootTemplate" "a9601653-b8d7-4591-8284-94f0d46335ef"
+data "PersonalStatusImmunities" "PETRIFIED;SG_Charmed;SG_Frightened;PARALYZED;SG_Poisoned;UNCONSCIOUS;KNOCKED_OUT;BLEEDING;GAPING_WOUND;CHEST_TRAUMA;SG_Sleeping;BURNING;BURNING_AZER;BURNING_LAVA;BURNING_TRAPWALL;BURNING_TRIAL;END_NETHERILLUSION_BURNING;LOW_DEVILSFEE_BURNING;LOW_HOH_BOAR_BURNING_DAMAGE;MAG_INFERNAL_BURNING;WILD_MAGIC_BURNING;SG_Disease;SG_Drunk;SG_Exhausted;FLAMING_SPHERE;FLAMING_SPHERE_3;FLAMING_SPHERE_4;FLAMING_SPHERE_5;FLAMING_SPHERE_6;SG_Condition;MAG_ATTACK_DEBUFF"
+data "UseConditions" "Tagged('PLAYABLE',context.Source);"
+
+new entry "XEN_BernardEvolved_Automaton_Unfinished_Parts_A"
+type "Object"
+using "OBJ_GenericLootItem"
+data "RootTemplate" "95732278-3607-4d18-8261-56059a8af065"
+data "Rarity" "Uncommon"
+
+new entry "XEN_BernardEvolved_Automaton_Unfinished_Parts_B"
+type "Object"
+using "XEN_BernardEvolved_Automaton_Unfinished_Parts_A"
+data "RootTemplate" "3ec954bb-551a-4d89-a293-7128dca3d2db"
+data "Rarity" "Uncommon"
+
+new entry "XEN_BernardEvolved_Automaton_Unfinished_Parts_C"
+type "Object"
+using "XEN_BernardEvolved_Automaton_Unfinished_Parts_A"
+data "RootTemplate" "f68f46f4-38ee-49c9-a5e9-a546d250a802"
+
+new entry "XEN_BernardEvolved_Automaton_Summoning_Core"
+type "Object"
+using "OBJ_GenericLootItem"
+data "RootTemplate" "321fcbf5-ea85-4143-b207-d2b16640f818"
+data "Rarity" "Uncommon"
+data "Unique" "1"
+
+new entry "XEN_BernardEvolved_Automaton_Summoning_Core_Empty"
+type "Object"
+using "XEN_BernardEvolved_Automaton_Summoning_Core"
+
+new entry "XEN_BernardEvolved_Automaton_Unfinished_Parts_B_Locked"
+type "Object"
+using "XEN_BernardEvolved_Automaton_Unfinished_Parts_B"
+
+new entry "XEN_BernardEvolved_Adamantine_Ingot"
+type "Object"
+using "OBJ_Metalbar_Bronze"
+data "RootTemplate" "ed758113-c69b-4e7f-8b41-036a071df80a"
+data "UseConditions" "Tagged('XEN_BERNARD_SUMMON',context.Source);"
+
+new entry "OBJ_InfernalPlate_B"
+type "Object"
+using "OBJ_InfernalPlate_B"
+data "UseConditions" "Tagged('XEN_BERNARD_SUMMON',context.Source);"
+

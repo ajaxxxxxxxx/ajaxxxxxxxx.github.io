@@ -1,0 +1,190 @@
+new entry "OBJ_AS_DyeBundle"
+type "Object"
+using "OBJ_Bag"
+data "RootTemplate" "ad76b0d4-52b1-4059-9f00-bfbe9d724354"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+data "Rarity" "Common"
+
+new entry "_Dyes"
+type "Object"
+using "_Dyes"
+data "ValueUUID" "1f40e7a6-fb87-41ab-9da9-282a359b7e89"
+data "ValueOverride" "1"
+data "Rarity" "Common"
+data "Weight" "0.01"
+
+new entry "AS_Dyes"
+using "_Dyes"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+
+new entry "AS_Dye_DrowBlack"
+using "AS_Dyes"
+data "RootTemplate" "75256bd4-866e-45a0-884a-9cd97f379f2c"
+
+new entry "AS_Dye_NightBlack"
+using "AS_Dyes"
+data "RootTemplate" "0d0774ec-fb7d-4490-88d0-ecf90cbb129b"
+
+new entry "AS_Dye_PureWhite"
+using "AS_Dyes"
+data "RootTemplate" "ab3fdf7c-d29a-4f46-9aab-f2c890772d0b"
+
+new entry "AS_Dye_GoldWhite"
+using "AS_Dyes"
+data "RootTemplate" "f0d3200e-f180-4a8b-b325-e942419b5c89"
+
+new entry "AS_Dye_GoldBlack"
+using "AS_Dyes"
+data "RootTemplate" "3c3fcc40-691c-4660-af94-7a27de41867c"
+
+new entry "AS_Dye_BlackViolet"
+using "AS_Dyes"
+data "RootTemplate" "0919b5bf-6302-4198-b615-72d922b07102"
+
+new entry "AS_Dye_MilkHoney"
+using "AS_Dyes"
+data "RootTemplate" "03a10cf1-e22f-4eaa-8304-fe13a5ce601a"
+
+new entry "AS_Dye_MilkGoldHoney"
+using "AS_Dyes"
+data "RootTemplate" "636f5c2d-3533-4082-bf68-eec56ee10046"
+
+new entry "AS_Dye_CoffeeCream"
+using "AS_Dyes"
+data "RootTemplate" "a2d9b9db-7d40-474a-bec5-96d1cf2522b8"
+
+new entry "AS_Dye_Lavender"
+using "AS_Dyes"
+data "RootTemplate" "c852fb89-cd53-4600-a944-8168035e4a31"
+
+new entry "AS_Dye_OceanTides"
+using "AS_Dyes"
+data "RootTemplate" "0c18619e-41ad-4b2d-8c1c-82ecfb7a2bc7"
+
+new entry "AS_Dye_LowTide"
+using "AS_Dyes"
+data "RootTemplate" "eec81b68-cd26-4f34-acb0-1951483559d3"
+
+new entry "AS_Dye_MossBlueberry"
+using "AS_Dyes"
+data "RootTemplate" "11aa6f02-1ac0-4cda-b33f-a73194f8869f"
+
+new entry "AS_Dye_DecadenceDecay"
+using "AS_Dyes"
+data "RootTemplate" "3a99aab6-c150-4a73-8baf-2ccf82947508"
+
+new entry "AS_Dye_BogWitch"
+using "AS_Dyes"
+data "RootTemplate" "58e2d7bc-e6c8-445f-882b-651afb9e2784"
+
+new entry "AS_Dye_Mysticism"
+using "AS_Dyes"
+data "RootTemplate" "0db89cf5-abec-4fde-94f4-286715fe1f0e"
+
+new entry "AS_Dye_TwinPeaks"
+using "AS_Dyes"
+data "RootTemplate" "7386837a-b20f-4252-bfba-aad20b213763"
+
+new entry "AS_Dye_Emerald"
+using "AS_Dyes"
+data "RootTemplate" "5321347b-1e76-4014-94a9-62f8e289413b"
+
+new entry "AS_Dye_Lagoon"
+using "AS_Dyes"
+data "RootTemplate" "9f9af1d9-2c25-4327-8547-d37697e08aa5"
+
+new entry "AS_Dye_NatureGift"
+using "AS_Dyes"
+data "RootTemplate" "a1a1a9eb-7dad-4929-b01a-26b3e8d96851"
+
+new entry "AS_Dye_PurpleAmber"
+using "AS_Dyes"
+data "RootTemplate" "86a9676d-2d55-4172-819d-da588d0330b0"
+
+new entry "AS_Dye_Woodland"
+using "AS_Dyes"
+data "RootTemplate" "bab4d4b2-8db2-4ee8-9062-c7fa3769856a"
+
+new entry "AS_Dye_Rustic"
+using "AS_Dyes"
+data "RootTemplate" "9f8aa569-7ef3-4811-800c-e07e75840cca"
+
+new entry "AS_Dye_RusticSilver"
+using "AS_Dyes"
+data "RootTemplate" "324c810d-a8f9-4d5e-8bc7-48d0d1c4ce70"
+
+new entry "AS_Dye_AutumnDruid"
+using "AS_Dyes"
+data "RootTemplate" "1c818e48-db1f-4d7a-9cb3-c79239298781"
+
+new entry "AS_Dye_Potent"
+using "AS_Dyes"
+data "RootTemplate" "ba4f13f3-55e4-4a38-a5b6-185b5fb5c267"
+
+new entry "AS_Dye_CoalRed"
+using "AS_Dyes"
+data "RootTemplate" "6ccd4770-5cd1-44ed-8e0c-51d6049eebde"
+
+new entry "AS_Dye_BloodChocolate"
+using "AS_Dyes"
+data "RootTemplate" "47a9bdfe-8a98-413b-af68-6290e52e6b85"
+
+new entry "AS_Dye_BloodSweets"
+using "AS_Dyes"
+data "RootTemplate" "38890065-db52-42a2-9f86-97a850ac3285"
+
+new entry "AS_Dye_PrettyPink"
+using "AS_Dyes"
+data "RootTemplate" "f5d84410-8a16-48d0-9f0f-dac28c7fa45b"
+
+new entry "AS_Dye_PalePink"
+using "AS_Dyes"
+data "RootTemplate" "8a7461b7-fa50-49ff-b94e-b22c64d5367f"
+
+new entry "AS_Dye_Mulberry"
+using "AS_Dyes"
+data "RootTemplate" "5d798fe1-5902-4242-8429-c4cc41688106"
+
+new entry "AS_Dye_Helldusk"
+using "AS_Dyes"
+data "RootTemplate" "c24df172-245b-42dc-b7b8-aca3022fe41d"
+
+new entry "AS_Dye_Sporekeeper"
+using "AS_Dyes"
+data "RootTemplate" "87db01dc-abf0-43c4-9838-17c77e562a13"
+
+new entry "AS_Dye_BruiseBlack"
+using "AS_Dyes"
+data "RootTemplate" "3342ec4e-290f-4a16-9022-847a15010cbd"
+
+new entry "AS_Dye_BruiseGold"
+using "AS_Dyes"
+data "RootTemplate" "bd717a94-8c43-4362-9b08-e05775c4f4af"
+
+new entry "AS_Dye_Selunite"
+using "AS_Dyes"
+data "RootTemplate" "8f298406-5b8c-4043-8f72-3eca08deeb42"
+
+new entry "AS_Dye_CiderOak"
+using "AS_Dyes"
+data "RootTemplate" "7c7c6765-bebe-4737-a808-ae2416e30d50"
+
+new entry "AS_Dye_HarvestMoon"
+using "AS_Dyes"
+data "RootTemplate" "9248a473-1a82-4ca3-b405-50f744e6cc4f"
+
+new entry "AS_Dye_BloomingRust"
+using "AS_Dyes"
+data "RootTemplate" "db9af542-23ff-4fea-861f-da63aee10415"
+
+new entry "AS_Dye_BlushMaiden"
+using "AS_Dyes"
+data "RootTemplate" "4ab96171-ec1e-4e0e-b4b2-bc73365c86d5"
+
+new entry "AS_Dye_MidnightReverie"
+using "AS_Dyes"
+data "RootTemplate" "93e9e77f-0c04-4fe6-8fd3-31bed5db0acf"

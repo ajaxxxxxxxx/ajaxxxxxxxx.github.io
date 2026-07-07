@@ -1,0 +1,7 @@
+new entry "BardRedux_Music_Box"
+type "Object"
+using "_Container"
+data "RootTemplate" "4ffbf613-72e8-4d85-b558-ec6088dd789e"
+data "ValueOverride" "100"
+data "Rarity" "VeryRare"
+data "Weight" "0.1"

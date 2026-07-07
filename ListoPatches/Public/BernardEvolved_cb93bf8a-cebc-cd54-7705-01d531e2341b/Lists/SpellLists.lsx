@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="BernardEvolved_02"/>
+                    <attribute id="Spells" type="LSString" value="Target_XEN_BernardEvolved_Light;Target_XEN_BernardEvolved_LightningTrap"/>
+                    <attribute id="UUID" type="guid" value="8a7e0747-726a-4d37-9f48-c1fe688e720a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="BernardEvolved_03"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_XEN_BernardEvolved_ArcaneCannon"/>
+                    <attribute id="UUID" type="guid" value="a38dcde9-34ff-4a92-ba3c-8d0250fb0195"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="BernardEvolved_04"/>
+                    <attribute id="Spells" type="LSString" value="Zone_XEN_BernardEvolved_Cleave"/>
+                    <attribute id="UUID" type="guid" value="e427987b-512d-402d-81cf-ada0b4f2b884"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="BernardEvolved_05"/>
+                    <attribute id="Spells" type="LSString" value="Target_XEN_BernardEvolved_LightningBlade;Target_XEN_BernardEvolved_RetrievingShot"/>
+                    <attribute id="UUID" type="guid" value="fbeabf61-8efb-4026-863e-b062da392438"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="BernardEvolved_06"/>
+                    <attribute id="Spells" type="LSString" value="Rush_XEN_BernardEvolved_AzureFlash;Target_XEN_BernardEvolved_PickLock"/>
+                    <attribute id="UUID" type="guid" value="22ced0e6-813f-483c-aa56-5d632a900848"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="BernardEvolved_07"/>
+                    <attribute id="Spells" type="LSString" value="Target_XEN_BernardEvolved_DancingLights;Target_XEN_BernardEvolved_PrimeTarget"/>
+                    <attribute id="UUID" type="guid" value="647186e7-76de-4cb4-8f7f-d869bb73ac02"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="BernardEvolved_08"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_XEN_BernardEvolved_LightBolt;Target_XEN_BernardEvolved_GuardianArcaneTurret"/>
+                    <attribute id="UUID" type="guid" value="13908afe-22d8-4325-86ee-3e0a21fc3524"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="BernardEvolved_09"/>
+                    <attribute id="Spells" type="LSString" value="Target_XEN_BernardEvolved_SussurAntimagicField"/>
+                    <attribute id="UUID" type="guid" value="242701c8-461a-43fe-b048-e425172be77e"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="BernardEvolved_10"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_XEN_BernardEvolved_Fly"/>
+                    <attribute id="UUID" type="guid" value="5b9a5db9-b524-49e1-9811-421d974e566a"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="BernardEvolved_11"/>
+                    <attribute id="Spells" type="LSString" value="Projectile_XEN_BernardEvolved_LightningArrow"/>
+                    <attribute id="UUID" type="guid" value="c96a5bac-f6c6-4bba-84eb-10772a3838a6"/>
+                </node>
+                <node id="SpellList">
+                    <attribute id="Name" type="FixedString" value="BernardEvolved_12"/>
+                    <attribute id="Spells" type="LSString" value="Shout_XEN_BernardEvolved_GlobeOfInvulnerability;Shout_XEN_BernardEvolved_SelfDestruct"/>
+                    <attribute id="UUID" type="guid" value="2efb97bb-c529-4591-bf2f-797936a93a47"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

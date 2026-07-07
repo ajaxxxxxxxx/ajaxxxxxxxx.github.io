@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(Skill,Athletics);ProficiencyBonus(Skill,Stealth)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_BernardEvolved_ResourcePointsConsume;XEN_BernardEvolved_SpellsUnlock;XEN_BernardEvolved_AssimilatedBond;XEN_BernardEvolved_Charge_Technical;XEN_BernardEvolved_Charge_Resistance;XEN_BernardEvolved_Charge_OnDamage;XEN_BernardEvolved_Charge_OnDamaged;XEN_BernardEvolved_Charge_OnSpellDamaged;XEN_BernardEvolved_Charge_Boosts;XEN_BernardEvolved_Charge_Discharge;XEN_BernardEvolved_Superheated_HeatMetal;AntimagicSusceptibility"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="040b1250-4cb4-46be-b359-972c232e574f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_BernardEvolved_PursuitProtocol"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8a7e0747-726a-4d37-9f48-c1fe688e720a)"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="3fbb5442-90a5-4af9-9cc5-fca8bb6f7405"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_BernardEvolved_StaticBolt_Unlock"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(a38dcde9-34ff-4a92-ba3c-8d0250fb0195)"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="e23691bd-39d8-4c0a-a70d-b77ef97205d4"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e427987b-512d-402d-81cf-ada0b4f2b884)"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="b29dde0a-4745-4641-91b6-1a9205e6f982"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(fbeabf61-8efb-4026-863e-b062da392438)"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="596c39e6-1da6-4b59-95e9-e645f621db78"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_BernardEvolved_Charge_Countershock"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(22ced0e6-813f-483c-aa56-5d632a900848)"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="8003d853-8b35-4c53-afb9-5704170cc803"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_BernardEvolved_ExceptionalTraining;XEN_BernardEvolved_PrimeTarget_Boosts"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(647186e7-76de-4cb4-8f7f-d869bb73ac02)"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="137d28e8-fe17-45e7-969e-ebeffc2b2605"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Sentinel_Attack;Sentinel_ZeroSpeed;Sentinel_OpportunityAdvantage"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(13908afe-22d8-4325-86ee-3e0a21fc3524)"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="869c99dc-0c9a-446c-9093-f124e035f228"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Dexterity,1);Ability(Constitution,1);Ability(Intelligence,1);ExpertiseBonus(Athletics)"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_BernardEvolved_Steadfast"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(242701c8-461a-43fe-b048-e425172be77e)"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="a5160061-4bcf-45a1-8998-057b91eb646b"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1);Ability(Intelligence,1)"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_BernardEvolved_RepairMatrix;Alert"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(5b9a5db9-b524-49e1-9811-421d974e566a)"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="8660bf51-d204-491e-b553-e8423dcf97af"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_BernardEvolved_Pacify_Unlock"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(c96a5bac-f6c6-4bba-84eb-10772a3838a6)"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="875df637-536e-4112-bd3c-acdf58a0c48f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1);Ability(Intelligence,1)"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_BernardEvolved_Charge_Resistance_Aura"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="XEN_BernardEvolved_Charge_Resistance"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2efb97bb-c529-4591-bf2f-797936a93a47)"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="ae83431d-2559-438e-8524-4580e700c069"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+					<attribute id="PassivesAdded" type="LSString" value="XEN_BernardEvolved_SussurCounterspell_Unlock;PolearmMaster_AttackOfOpportunity;PolearmMaster_BonusAttack" />
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="162ff1d7-dbbd-4b00-a325-d634a045a5ae"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1);Ability(Intelligence,1)"/>
+                    <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="8d8e914f-d933-4eb1-ab1c-49536e194ea1"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="e0004bd8-561d-4153-9e8a-519bae7d8625"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1);Ability(Intelligence,1)"/>
+                    <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="133b4dd6-ea94-441f-ba9e-9fe00c18c04b"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1);Ability(Intelligence,1)"/>
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="c96738f3-8234-413d-b0d6-f933bf0aa6b6"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1);Ability(Intelligence,1)"/>
+                    <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="ad2fa253-0395-431d-981c-496a6a71cc37"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1);Ability(Intelligence,1)"/>
+                    <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="d51b29b7-639d-4f5e-9a26-d77139d68668"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1);Ability(Intelligence,1)"/>
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="BernardEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="UUID" type="guid" value="02235b88-5af2-40bc-a031-940f7d686cc1"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="ProgressionDescriptions">
+        <node id="root">
+            <children>
+                <node id="ProgressionDescription">
+                    <attribute id="Hidden" type="bool" value="true"/>
+                    <attribute id="ProgressionTableId" type="guid" value="0ca607e0-965b-45fa-848a-1829e4d6848e"/>
+                    <attribute id="Type" type="FixedString" value="BernardEvolved"/>
+                    <attribute id="UUID" type="guid" value="f5f4c0c8-7af9-4e7e-97ba-ff2370eaf7f0"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

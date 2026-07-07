@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="LevelMapValues">
+        <node id="root">
+            <children>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="2d4"/>
+                    <attribute id="Level13" type="LSString" value="5d4"/>
+                    <attribute id="Level17" type="LSString" value="6d4"/>
+                    <attribute id="Level5" type="LSString" value="3d4"/>
+                    <attribute id="Level9" type="LSString" value="4d4"/>
+                    <attribute id="Name" type="FixedString" value="BernardEvolvedD4Proficiency"/>
+                    <attribute id="UUID" type="guid" value="07b88d54-8ef5-4038-9662-1f77ce36b97f"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d6"/>
+                    <attribute id="Level1" type="LSString" value="1d6"/>
+                    <attribute id="Level11" type="LSString" value="6d6"/>
+                    <attribute id="Level13" type="LSString" value="7d6"/>
+                    <attribute id="Level15" type="LSString" value="8d6"/>
+                    <attribute id="Level17" type="LSString" value="9d6"/>
+                    <attribute id="Level19" type="LSString" value="10d6"/>
+                    <attribute id="Level3" type="LSString" value="2d6"/>
+                    <attribute id="Level5" type="LSString" value="3d6"/>
+                    <attribute id="Level7" type="LSString" value="4d6"/>
+                    <attribute id="Level9" type="LSString" value="5d6"/>
+                    <attribute id="Name" type="FixedString" value="BernardEvolvedD6Double"/>
+                    <attribute id="UUID" type="guid" value="6a02ed5a-d31e-4c55-bd54-c611a85a80af"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d8"/>
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level11" type="LSString" value="6d8"/>
+                    <attribute id="Level13" type="LSString" value="7d8"/>
+                    <attribute id="Level15" type="LSString" value="8d8"/>
+                    <attribute id="Level17" type="LSString" value="9d8"/>
+                    <attribute id="Level19" type="LSString" value="10d8"/>
+                    <attribute id="Level3" type="LSString" value="2d8"/>
+                    <attribute id="Level5" type="LSString" value="3d8"/>
+                    <attribute id="Level7" type="LSString" value="4d8"/>
+                    <attribute id="Level9" type="LSString" value="5d8"/>
+                    <attribute id="Name" type="FixedString" value="BernardEvolvedD8Double"/>
+                    <attribute id="UUID" type="guid" value="bd938ce2-f2b1-43b6-91d4-49a6b484a2c5"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d4"/>
+                    <attribute id="Level1" type="LSString" value="1d4"/>
+                    <attribute id="Level13" type="LSString" value="1d10"/>
+                    <attribute id="Level17" type="LSString" value="1d12"/>
+                    <attribute id="Level5" type="LSString" value="1d6"/>
+                    <attribute id="Level9" type="LSString" value="1d8"/>
+                    <attribute id="Name" type="FixedString" value="BernardEvolvedLightningDamage"/>
+                    <attribute id="UUID" type="guid" value="b7eaeac9-5fd0-4796-a7cb-2f8eb944d118"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d8"/>
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level11" type="LSString" value="2d8"/>
+                    <attribute id="Level17" type="LSString" value="3d8"/>
+                    <attribute id="Name" type="FixedString" value="BernardEvolvedShockwaveDamage"/>
+                    <attribute id="UUID" type="guid" value="5e5dd981-713b-4bd2-a260-17faac9370aa"/>
+                </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="2"/>
+                    <attribute id="Level16" type="LSString" value="4"/>
+                    <attribute id="Level9" type="LSString" value="3"/>
+                    <attribute id="Name" type="FixedString" value="BernardEvolvedOverdriveDamage"/>
+                    <attribute id="UUID" type="guid" value="fc8d8bab-2f99-4aa0-9afb-3928fdcbda20"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
