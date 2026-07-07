@@ -1,0 +1,921 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h99febad0g99e2g4794ga9a5gc3484d720787" version="1">“The mouse smiled brightly: it outfoxed the cat! Then down came the claw and that, love, was that.” - Raphael reciting a lullaby</content>
+	<content contentuid="hda3d0ae2g96fag4cf9ga806g9f7759432547" version="1">Avernus Chest</content>
+	<content contentuid="h24cfad40gfca7g4149gb256g65222621262d" version="1">Cursed Weapon</content>
+	<content contentuid="hfd67a2fcge253g4c36g9682g34df4ab4e244" version="1">TEST</content>
+	<content contentuid="h2918231eg243ag4e45gae3cge56fa033f5d7" version="1">“Forged from the soul of a priestess who broke her vows and willingly gave herself into a dozen incubi.” - Iwethia Thurin, 'Armoris Maleficarum, a study on Avernus.'</content>
+	<content contentuid="hb653d4e8g48b6g4b92gb269g000d7effee9f" version="1">Lust Rapier</content>
+	<content contentuid="h8f696408gfb9bg4109gb0adg7ae63f8f3248" version="1">“A treat for any demon is the soul of those who seek power to betray their own friends.” - Iwethia Thurin, 'Armoris Maleficarum, a study on Avernus.'</content>
+	<content contentuid="h3653c658g3f6bg4056gb38fg474a02df8625" version="1">Traitor's Edge</content>
+	<content contentuid="hf02c55cfgd372g4309g8a73g1ded8adb142f" version="1">Dagger 2 Description</content>
+	<content contentuid="he5e259fag21a0g4769g92d8g009fc48f10ee" version="1">Dagger 2</content>
+	<content contentuid="h8d1afd9cga24cg432dg9517gaae89a5e11e8" version="1">“The Putrid Flesh was forged from the soul of a necromancer who feasted on corpses.” - Iwethia Thurin, 'Armoris Maleficarum, a study on Avernus.'</content>
+	<content contentuid="hacc596fdg1525g49cbga2b9gdad5bacbb237" version="1">Putrid Flesh</content>
+	<content contentuid="h1099d9e9g86c3g446fg813cgf4855a6ce15b" version="1">“Not all souls willingly trade with Avernus. The Glacial Root encloses the soul of a young ice dragon, hunted down by demons for fun.” - Iwethia Thurin, 'Armoris Maleficarum, a study on Avernus.'</content>
+	<content contentuid="h67ecab6fg52b5g49dcg8950g67350e149291" version="1">Glacial Root</content>
+	<content contentuid="h49ecaba0gd0d0g480fg9508g7cbc260d228b" version="1">“Demons are as kin to their kind as they are to mortals. It's unclear if this axe was a reward or a punishment for a Bloodwar soldier.” - Iwethia Thurin, 'Armoris Maleficarum, a study on Avernus.'</content>
+	<content contentuid="h163d285eg68a6g47b5g9ac4g394f77b3294d" version="1">Bloodwar Greataxe</content>
+	<content contentuid="h3e5e0a5dgddd8g4ea1gbfaeg8750051615df" version="1">“Raggar the Oathbreaker betrayed his brothers and brought a reign of terror to Aslanfell. He was killed by his former Moonranger companions, but Avernus still has plans for his soul.” - Iwethia Thurin, 'Armoris Maleficarum, a study on Avernus.'</content>
+	<content contentuid="ha216baf9gc491g41d6g974dg3601d382913d" version="1">The Fallen's Blade</content>
+	<content contentuid="h63a2e921g1e98g4883ga28dgf469198dcc37" version="1">“An old blacksmith from Kara-Tur, whose only pride was his perfect swords. He was cursed to see his lifework shattered for eternity.” - Iwethia Thurin, 'Armoris Maleficarum, a study on Avernus.'</content>
+	<content contentuid="ha6ab1000g57f9g4ba8g9a2cg8d1577fbacb1" version="1">Shattered Katana</content>
+	<content contentuid="h48c4ac34gc94ag4fffg85f4ge85955b2b656" version="1">“If the legend is true, a god himself forged his own soul into a sword to create a weapon to kill his rivals of their kind.” - Iwethia Thurin, 'Armoris Maleficarum, a study on Avernus.'</content>
+	<content contentuid="h06c84d27g6ec0g484ag8a36g6279c87dd39f" version="1">Godslayer</content>
+	<content contentuid="hd8a56dffgb599g4389g9c46ga5e3a5922342" version="1">“During the fall of the Netherese Empire, a powerful wizard made a pact with Avernus. He saved his body and lost his soul forevermore.” - Iwethia Thurin, 'Armoris Maleficarum, a study on Avernus.'</content>
+	<content contentuid="hfaf47ee8g4ff2g4f3egbdcfg357fc109ea6c" version="1">Netherese Scepter</content>
+	<content contentuid="h39b00b1eg991ag4c93g80f9gf93e6724ba9c" version="1">Hunger of Souls</content>
+	<content contentuid="he239d91fg9863g4d51g95a8gd74b6d4ab220" version="1">At the end of your turn, you will take [1] if you don't kill a target with your cursed weapon this turn or fullfil its &lt;LSTag Type="Passive" Tooltip="AWCW_Sated_Passive"&gt;Satiated&lt;/LSTag&gt; condition.</content>
+	<content contentuid="hebccc111g3f57g40c7gb3d5ga10989d2359f" version="1">Satiated</content>
+	<content contentuid="h41e685fegae70g47bdg813cg7a8259672956" version="1">Kill a target using your Cursed Weapon or fullfil an special unique action to soothe its Hunger of Souls for a turn.</content>
+	<content contentuid="hbfa6d071g1ab5g4ea4g9c06g42f486dbcb9f" version="1">Seduce their immortal souls, fill their minds with visions of eternal pleasure, and soothe your Cursed Weapon's hunger by &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charming&lt;/LSTag&gt; a creature.</content>
+	<content contentuid="ha8358723g4bd4g4130ga78fg6ffadc0f1310" version="1">Unrest Soul</content>
+	<content contentuid="hb52b4ab1g0f26g4be1ga2d7gaf9fcf4c8a1f" version="1">Punish the Weak</content>
+	<content contentuid="h0bc92fd5g4042g4804g9c6bg4228be736a84" version="1">Soothe your Cursed Weapon's hunger by dealing damage to an ally while using this weapon.</content>
+	<content contentuid="h22983f13ge1a9g4c35g917eg22603ce412ae" version="1">Soothe your Cursed Weapon's hunger by feeding on the weak, dealing damage with this weapon to a target afflicted by negative conditions.</content>
+	<content contentuid="h625f2602gd689g44b6g83c5ga6a943b4d87f" version="1">Soothe your Cursed Weapon's hunger by striking a target with cold damage.</content>
+	<content contentuid="hf4c1a062g0b66g4ddfga30bg312289597df5" version="1">Soothe your Cursed Weapon's hunger by striking a target with fire damage.</content>
+	<content contentuid="h6ca439ccg22d3g4fc3g896bg26bcbd3080d2" version="1">An old cursed soul still trying to atone for their sins. Soothe your Cursed Weapon's hunger by dealing damage to Undead or Fiends while using this weapon.</content>
+	<content contentuid="hb6dd7cb7g8129g47b8gb539g466f5d5338de" version="1">Soothe your Cursed Weapon's hunger by inflicting a negative condition on a creature.</content>
+	<content contentuid="h32e1783cg3730g4598g8c9cg2aa01f2770dc" version="1">Soothe your Cursed Weapon's hunger by striking a target with a Spell.</content>
+	<content contentuid="h77373323g9b25g4683g8046gfd096c7c3c47" version="1">Soothe your Cursed Weapon's hunger by scoring a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with it.</content>
+	<content contentuid="h6bcc2a13g41c3g40c7g863bgd15b898c37c5" version="1">This weapon rolls damage twice and use the higher result and its wielder ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to slashing damage. Each time the wielder takes damage from &lt;LSTag Type="Status" Tooltip="AWCW_STATUS_CURSED"&gt;Hunger of Souls&lt;/LSTag&gt;, they may died instead.</content>
+	<content contentuid="h5f179a7fgcb50g40ddg9bb2g56e8ec7526cf" version="1">Neverending Hunger</content>
+	<content contentuid="h68785924g040bg4a5fgbe7dg790588cc02e2" version="1">Ecstasy in Pain</content>
+	<content contentuid="h9733cf53g3d99g448agbbf2g4a9e6e40d40c" version="1">Each time the wielder takes damage in combat, they gain a quarter of it as Ecstasy stacks (rounding down, minimum 1). This weapon attacks deal an additional [1] for each stack. One stack is lost at the end of each turn and all stacks are lost at the end of combat.</content>
+	<content contentuid="hcf8073e5gfe36g4d9cg8b6dg3e53d81ad03e" version="1">Lust Rapier attacks deal an additional [1] for each stack.</content>
+	<content contentuid="h35b35691g36f9g4dd4gac29g3546295754f2" version="1">Feed on Friends</content>
+	<content contentuid="h5141171cg462dg4618ga075g3241b3ce000e" version="1">Stealthily attack an ally with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;, dealing an additional [1] and gaining half the damage dealt as Feed on Friends stacks.</content>
+	<content contentuid="h78e0d03bge013g40cbg8033g43612a4124b0" version="1">Traitor's Edge attacks deal an additional [1] for each stack.</content>
+	<content contentuid="h1482fed2g0d0fg4d5cgbb1dg833e269c896e" version="1">Each time the wielder deals damage to an ally in combat, they gain a Feed on Friends stack. If Unseen Treason is used, they gain half the damage dealt as Feed on Friends stacks instead. This weapon attacks deal an additional [1] for each stack. All stacks are lost at the end of combat.</content>
+	<content contentuid="he17a24abge688g4729gae73g5299eeec0830" version="1">Unseen Treason</content>
+	<content contentuid="h4c48aefdge4aeg45f0g9ae3gf6393d9afad9" version="1">Putrescent Aura</content>
+	<content contentuid="h5022dc93gbcd9g46e6gb632gfb7fc2ff0c43" version="1">This entity's &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h83d7b39cgdff9g4b26gb122gf8af0e4bb285" version="1">The wielder's charisma score is reduced by 2. Living creatures within [1] of them have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="hdc8548ccg2454g406eg9646g94453cb8fd68" version="1">Cold Breath</content>
+	<content contentuid="h80fffde1g81c4g42eeg8433g0cff4e2c61f7" version="1">This weapon attacks against targets affected by &lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;Encrusted with Frost&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="FROZEN"&gt;Frozen&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Chilled&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="RAY_OF_FROST"&gt;Ray of Frost&lt;/LSTag&gt; deal an additional [1].</content>
+	<content contentuid="h3ef20c65g8c8ag4537gaa1dgf10b3a19dfa0" version="1">Fan the Flames</content>
+	<content contentuid="h1ba8e178g1650g4ab7gb858gd56dde07801e" version="1">This weapon attacks against &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; targets deal an additional [1].</content>
+	<content contentuid="h0e041b74g307ag412dgb9c5gc83628d9d9ee" version="1">Swift Strike</content>
+	<content contentuid="h353590ebgd390g40adga4dcg00720fb78c14" version="1">Attack your enemies with unnatural speed</content>
+	<content contentuid="hb7b53866g40c6g4d1bg9ae3ged2f5fce6d1e" version="1">Rightful Punishment</content>
+	<content contentuid="ha215e83ag41cfg49cbg8623g3b35f03fc3dc" version="1">When a melee attack hits the wielder, they can use a reaction to retaliate with this weapon.</content>
+	<content contentuid="h951e9826ge627g4675g9a60gfd66ec6514ae" version="1">When a melee attack hits you, you can retaliate with a melee weapon attack.</content>
+	<content contentuid="hbe795a9fgf659g4f11g8435g6723d87834d5" version="1">The Fallen's Honor</content>
+	<content contentuid="had2e52e1g8cbeg4b71gae69gf1d57d695afa" version="1">This weapon will punish its wielder, dealing [1] to them, if they use it to attack creatures that haven't taken a turn yet or are &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content>
+	<content contentuid="h95241ee1gdbbfg4915g80beg03fab87adc94" version="1">Envious Soul</content>
+	<content contentuid="h8d536932gd9d4g491cgb7dage7136cc5761d" version="1">When the wielder inflicts a negative condition on a creature in combat, they gain 1 Envy stack. If they disarm a target, they gain 2 Envy stacks instead. This weapon attacks deal an additional [1] for each Envy stack. All stacks are lost at the end of combat.</content>
+	<content contentuid="hbd44ff8ege9f4g4ff9g96b9g7313ef59928c" version="1">Envy</content>
+	<content contentuid="h266560e9gcce5g4703g9af2gd27d18d9ab52" version="1">Shattered Katana deals an additional [1] for each stack.</content>
+	<content contentuid="h363dd0fag6a85g40bag967fgd420206b8c1a" version="1">Envious Strike</content>
+	<content contentuid="hc6ffba44g6959g4b99ga16bgdf4dd60e4f84" version="1">Avernus Spellcasting</content>
+	<content contentuid="h946e7855g6385g4bddg9789ge4114d29625f" version="1">The wielder gains a +2 bonus to &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Spell Save DC&lt;/LSTag&gt; and spell &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="ha2df39bfgddddg4cceg81e6gbbb134ffaeaf" version="1">Arcane Feedback</content>
+	<content contentuid="h1d742a82g8c1dg4a04gb242ge1ea031806d3" version="1">Each time the wielder deals damage with a spell, they gain an Arcane Feedback stack. The wielder's spell damage is increased by 1 for each stack. At the end of each turn, the wielder takes 1 force damage for each stack. All stacks are lost at the end of combat.</content>
+	<content contentuid="h4c1490f5g750dg4eb4g8c95gda00c2b9f3d7" version="1">Spell damage is increased by 1 for each stack. As the end of their turn this entity will take 1 force damage for each stack.</content>
+	<content contentuid="hd3c3cb8fg8933g41a6g83e6g764ec21852ae" version="1">Feast of Souls</content>
+	<content contentuid="h3a222293gb101g4be3g9488g1f866a5a482a" version="1">When the wielder kills a creature in combat with this weapon, they gain a Feast of Souls stack. This weapon's attacks deal an additional [1] for each stack. All stacks are lost at the end of combat.</content>
+	<content contentuid="h52b7396cgb82eg4063ga84eg4105a5aa7d69" version="1">Godslayer's attacks deal an addtional [1] for each stack.</content>
+	<content contentuid="haba4b63bg1928g45d0g86c6gf368457c3b6f" version="1">This weapon can't be knocked out of the wielder's hand and may damage its wielder on a critical miss. While in combat, it will damage the wielder at the end of their turn if they don't kill a target with it or fulfill its &lt;LSTag Type="Passive" Tooltip="AWCW_Sated_Passive"&gt;Satiated&lt;/LSTag&gt; condition. A character can only use one cursed item at a time.</content>
+	<content contentuid="h53e0c068g3a5eg4b01ga649g8a2a2daf43f7" version="1">Melee Caster</content>
+	<content contentuid="h22a7c95eg8837g4d60g8477g3ff92025e79f" version="1">Instead of its Strength &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;, the wielder adds its &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt; to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="HANDLE" version="1">CONTENT</content>
+	<content contentuid="hb5a37cf6g6c9bg4631g84bdgece2ba915ef0" version="1">The righteous blade of Helm, precisely where it belongs; buried through the chest of the wicked and the monstrous.</content>
+	<content contentuid="h93ae4f8dgf6b5g471ag9e76gad58ed6d0a67" version="1">During the Time of Troubles, Helm was forced to slay the goddess Mystra as she tried to return home. Something in this sword's unrelenting line speaks to that grief - a duty completed, at any cost.</content>
+	<content contentuid="h02da00cdgac67g45f4g8516g806b0ee900b7" version="1">Landing an attack on a target heals allies for [1] in a [2] radius around you. This effect can only occur once per turn.</content>
+	<content contentuid="h26e9271ag521dg49begb54eg511971cdde17" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against spells. This weapon deals an additional [1] to targets &lt;LSTag Tooltip="Concentration"&gt;Concentrating&lt;/LSTag&gt; on a spell.</content>
+	<content contentuid="ha910c197g7b7ag443dga5cagace2a219dde8" version="1">You gain a +3 bonus to Initiative Rolls and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="h5259232cg94bcg4f1fg86cag49bd2775aea0" version="1">You gain an additional +[1] to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; when &lt;LSTag Type="Status" Tooltip="SHIELD_OF_FAITH"&gt;Shield of Faith&lt;/LSTag&gt; is active.</content>
+	<content contentuid="h96487335ga28eg4d11ga040g3988f3187acc" version="1">Faithguard</content>
+	<content contentuid="h433f9e7cg1f4dg4680ga58ag1299b22eca8e" version="1">Entity has an additional +[1] to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; from &lt;LSTag Type="Status" Tooltip="SHIELD_OF_FAITH"&gt;Shield of Faith&lt;/LSTag&gt; being active.</content>
+	<content contentuid="hdd6125819956415b875940705567f211" version="1">Breath of Yaccocmuud</content>
+	<content contentuid="h1ca9e5855ee94c1398ec96cf5431fb44" version="1">Not safe to fire indoors.</content>
+	<content contentuid="h83bc17c4318d4c90b02bf799b4861226" version="1">Mariner's Revenge</content>
+	<content contentuid="hfa41e4c765f64a8691418a1ab403c114" version="1">Find him, bind him, tie him to a pole and break his fingers to splinters. Drag him to a hole until he wakes up naked clawing at the ceiling of his grave.</content>
+	<content contentuid="h3b0ce0115c674f3c96f7c37830575480" version="1">Yaccocmuud's Yang</content>
+	<content contentuid="h32ad4c4de3cf4923917d60e787246920" version="1">The owner of this maul was known for keeping order on the graveyard shift.</content>
+	<content contentuid="hb70d8f66724e455584f79b7a22f728af" version="1">Yaccocmuud's Yin</content>
+	<content contentuid="h18aa8dc6692c4ceea178617f67f9645a" version="1">The owner of this maul was known for the MISERY they brought to others.</content>
+	<content contentuid="h222f719e8b784260aa15ac4675d9cb87" version="1">Rolan's Stolen Spellbook</content>
+	<content contentuid="ha96336b2c9584e5ca3d721e7387e2e4b" version="1">According to Lorroakan, these are nothing but "Meaningless cantrips and playthings." Yet you can tell someone has studied it closely, tried to copy the formula, and failed.</content>
+	<content contentuid="h75a277129bfd47899225d055b1282b08" version="1">Shadow of Divinity</content>
+	<content contentuid="h855d3fed4f774690b607f4f35c46404f" version="1">Shine of the Profane</content>
+	<content contentuid="h1d54899c1cbb427a93e381a79386b9d7" version="1">Demon Eyes Halberd</content>
+	<content contentuid="h1b0d26add7cf4cf8b5ae3be3603c9dc2" version="1">With enough persistence, even the brightest lights can be snuffed.</content>
+	<content contentuid="h4b95917833784dbc8c2b665c3a3a4ea1" version="1">Sussurstring Bow</content>
+	<content contentuid="haea58b43ec864e029060f95112e0165c" version="1">Mages hiding behind your enemies? This weapon deals additional damage equal to your Intelligence modifier, and may temporarily Silence targets. Uses your Intelligence if higher than Dexterity, and adds your INT bonus to damage.</content>
+	<content contentuid="hddc159969cf7407d8711d1c1c3c90e9d" version="1">Devilstring Bow</content>
+	<content contentuid="hd93dee0128b84a6f94993683a0b60419" version="1">These exceptional bows are often found in pairs, designed specially for tanar'ri called "Arrow Demons." Such four-armed brutes are some of the most feared archers of the Blood War. Uses your Wisdom if higher than Dexterity, and adds your WIS bonus to damage.</content>
+	<content contentuid="ha8c414a769ee4ea4a8430f69c043fb5b" version="1">Adamantine String Bow</content>
+	<content contentuid="hf1b10dcb22644e1abc6a976f40a86da1" version="1">This bow is an impossible alchemy of metals. The string is a ductile adamantine strand, and the bow is marked with arcane runes. Unfortunately, years of Mimic acid has faded the magic and this bow is now unreliable.</content>
+	<content contentuid="h2427b8a2cd2b4532be9b29a6790734e6" version="1">Faded Adamantine String Bow</content>
+	<content contentuid="h7b3349d3a0ac4c4db5fa528f429d8033" version="1">Faded Adamantine String Bow</content>
+	<content contentuid="he7c70c38d3f145f58a8cc3d3369ec88e" version="1">Devilstring Bow</content>
+	<content contentuid="h51bd0c63b36848b6834d803c72362da7" version="1">Devilstring Bow Desc</content>
+	<content contentuid="h7f474b4406c64897bfcaede7769d0d70" version="1">Sussurstring Bow</content>
+	<content contentuid="ha243e09461714d79b4ae42f36cde4110" version="1">Sussurstring Bow Desc</content>
+	<content contentuid="hee0fa0899a934dd2b68c76ccb22f8319" version="1">Galloway's Goggles of True Sight</content>
+	<content contentuid="h52494d4371c040c18626486449d2a16e" version="1">Glary Galloway said one day, "There is no way to see and slay!" So his enemies, who hide and play, thought that Glary was easy prey. Until he invented these.</content>
+	<content contentuid="h99a5829915564a1baf0bea802f721115" version="1">Cloak of Supreme Defenses</content>
+	<content contentuid="h164e68be2692475b9bd57376357d21e7" version="1">Turtles take notes from you.</content>
+	<content contentuid="h7d4322802d4f48d1a834fe564d36b67d" version="1">Gloves of Gecko Grip</content>
+	<content contentuid="hd672f4d455f046609a7858cde557377a" version="1">Never drop anything ever again - even if you want to!</content>
+	<content contentuid="h3aec43aa362945a7878d28a2d75a6037" version="1">Radiant Conduit</content>
+	<content contentuid="h539b41419c8e4b18a0af18e3896d71ec" version="1">This necklace is an amalgamation of metals and gems dedicated to divinity across the Forgotten Realms - and beyond.</content>
+	<content contentuid="hb51c719604274c30818a50af10f4f20a" version="1">Necrotic Conduit</content>
+	<content contentuid="hd5c75e36fccf4a8bb19a3329d0d05245" version="1">This necklace is an amalgamation of metals and gems dedicated to every profanity you can imagine - and some you can only guess at.</content>
+	<content contentuid="hc54c1eb4f0fd4b54b862fbfe1347864b" version="1">Censor of Orcus</content>
+	<content contentuid="h74de494d18b04635af399d460ccab884" version="1">I will be the last creature when I am done. The cosmos will then be perfect, free of the braying abominations that are all other living things</content>
+	<content contentuid="h8807306422a146529b66eeec5fad726f" version="1">Durkon's Hammer</content>
+	<content contentuid="hfa7bf8c0d202489db8240b2d02b96b68" version="1">Armor of the Bear</content>
+	<content contentuid="hcd8ad5bca662414b81c5e4e17f8dc521" version="1">Women fear me. Fish love me.</content>
+	<content contentuid="h8f2abdd8ee3f49e894843f162816e9a8" version="1">Resplendant Scimitar</content>
+	<content contentuid="h07991289811744aa8b02a11414d0451d" version="1">A Solar's prized weapon, somehow in Helsik's shop.</content>
+	<content contentuid="h2161809878a0473880ab6139df161c0c" version="1">Flamepearl's Vorpal Greataxe</content>
+	<content contentuid="h609895dc133b488bb880c10de99f8484" version="1">This greataxe was forged to seal a friendship, after the fire giant Jadeowyn Flamepearl was saved from slaving duergar and Kalarel the Vile. It is forged from meteorite and forged for the righteous.</content>
+	<content contentuid="h4ddd186412c64eaa8b4455ed41debb4a" version="1">Flamepearl's Vorpal Greataxe</content>
+	<content contentuid="hf15155e253da4aa1af024bdf07115415" version="1">This greataxe was forged to seal a friendship, after the fire giant Jadeowyn Flamepearl was saved from slaving duergar and Kalarel the Vile. It is forged from meteorite and forged for the righteous.</content>
+	<content contentuid="h18f81566a5064039afb3aed604d919af" version="1">Moghadam</content>
+	<content contentuid="h6af00f7ffdbc4018b72238ddd27c304a" version="1">At a distance, this sword looks rusted and pitted. Upon closer inspection, it is a highly polished exotic metal - and it reflects a twisted image of the world around you, ruined and decayed. It whispers to you: I am Moghadam. And I am hunger.</content>
+	<content contentuid="h10d92b887601466e813fb166a8a98ba7" version="1">Shield of Spell Reflection</content>
+	<content contentuid="hf73918b8b2d94bb18fa785f9a2a717de" version="1">This 'shield' is crafted from a chunk of Flail Snail shell, a creature native to the Elemental Plane of Earth infamous for reflecting spells right back at their enemies.</content>
+	<content contentuid="hab6f42d8af1b47c4bee5c90e6aaa0daf" version="1">Sorasthrix Scalemail Coat</content>
+	<content contentuid="h397cdeb028f84aeb9baeb578799b2797" version="1">Allegedly, this armor is fashioned from the scales of a dragon deity for albino kobolds.</content>
+	<content contentuid="h31400f00fc6c4fe3b4f937f32c620d97" version="1">Jarlaxle's Piwafwa</content>
+	<content contentuid="hc2d4d7b373e24e63b2f5c570695c8a80" version="1">Somewhere a fancy drow wants his cloak back.</content>
+	<content contentuid="ha6460d7ba435423995a48402f73d8cdb" version="1">Swollentoe's Cloak of Protection</content>
+	<content contentuid="h6c93088ef174459d9b1924c2a66d5143" version="1">Me grandfather died in this cloak and t'is an honor to see it in battle again!</content>
+	<content contentuid="h143e871e9e7347f4bf46a859ad1d6ca6" version="1">Lumaterian</content>
+	<content contentuid="h4c4f99a8f28e4537acc3233fc3ea1e95" version="1">Lumaterian was a price-performance enthusiast. She wanted her magical effective, but economical. Unfortunately this experiment is questionable for both.</content>
+	<content contentuid="h1987563b956f411e846f9f42df733867" version="1">Lumaterian</content>
+	<content contentuid="h32a68eddc9fd4ec9874f2248898d7238" version="1">Lumaterian was a price-performance enthusiast. She wanted her magical effective, but economical. Unfortunately this experiment is questionable for both.</content>
+	<content contentuid="h7630d5b5b183481dbafb22e2949d7af5" version="1">Mantle of Ajax</content>
+	<content contentuid="hb1b9d9b5eaeb43f4b3dead9115ab0b83" version="1">This cloak was fashioned by a powerful spore druid who hunted cultists of Juiblex</content>
+	<content contentuid="hda078bbf0e444022b5c296f08bbeb4c1" version="1">Grand Exchange</content>
+	<content contentuid="h526124d8f2ed4ceeb0df5b06293e395f" version="1">You think you may be mistranslating the runes, "Wave Buying GF 1k O-B-O at G-E" is just gibberish.</content>
+	<content contentuid="hef345a3327de44e3b297b09da932d751" version="1">DeGreaser</content>
+	<content contentuid="h9438037ab7aa4e498aee016d9df4157d" version="1">Adds magic items by Ajax</content>
+	<content contentuid="hf5c75588de924c6ea6d5295e72b6250c" version="1">Doin good, sometimes even just seein other people do good... Tha feelin gets ta ye eventually. Sometimes I think tha only reason more evil folks dinnae succomb ta it is tha it feels bad ta realize how bad ye been! Most rather pretend ta neva feel nuthin than experience tha pain.</content>
+	<content contentuid="h8e5c5040g6890gc25ag8ac0gefedabcf5f14" version="3">Circle of Wild Magic</content>
+	<content contentuid="h18de6171gdb8ag5a63g85cegcd349cc0baa7" version="2">Your powers come from ancient forces of chaos. They churn within you - waiting to burst free at any time.</content>
+	<content contentuid="h6e3e5c4agae0cg13f2gc40eg49be885c8b76" version="2">Wild Druid Magic</content>
+	<content contentuid="h263a196cg6da2g1ad8g1604gb8306d1aefab" version="1">Unruly magic sparks and fizzes through your veins. &lt;br&gt;&lt;br&gt;Each time you cast a spell of Level 1 or higher, your magic might surge and trigger a random magical effect.</content>
+	<content contentuid="h183d8111gd585gb9b6g65dagbb5ce998108f" version="4">Wild Magic: Transformation</content>
+	<content contentuid="h67ebaa3dge034gca38g2881g573d99031121" version="6">Once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; when you use Wild Shape you have a 50 percent chance to trigger &lt;LSTag Type="Passive" Tooltip="WildMagic"&gt;Wild Magic Surge&lt;/LSTag&gt;.</content>
+	<content contentuid="he2e6af7ag31bbgb454g9904g219c791082b6" version="2">Wild Magic: Spectator</content>
+	<content contentuid="h87a27db5g3ba9ga354g07f0gfded0e099d96" version="3">Wild Spectator appears</content>
+	<content contentuid="hdfa21f41g2c65g0a31g6c20ge8e0c951ed21" version="2">Wild Magic: Fishy</content>
+	<content contentuid="h86996d8cga3c1gbec0gb757g20eafc7daffa" version="2">Here fishy fishy</content>
+	<content contentuid="ha151a82fgdc67g3505gd640g6e6ef9cb474a" version="1">Wild Magic: Madness</content>
+	<content contentuid="h5811430eg8a85g5f0eg3f5dgad21f0d59bcb" version="1">Sometimes magic works in mysterious ways</content>
+	<content contentuid="h339f6cc8g4ab4gb43ag707dge85ba70261dc" version="1">Wild Magic: Beacon of Hope</content>
+	<content contentuid="hc6a43709g6c7dg7772g6472g106e1980ca6c" version="2">Your allies will regain the maximum &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; possible when healed. They also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and Death Saving Throws.</content>
+	<content contentuid="h1c8521e1g3a0cgb9beg450ag84560edb5ebf" version="1">Wild Magic: Runaway</content>
+	<content contentuid="h914252fdg93d3g9a67gb5a4gebd51f3c0e5b" version="3">Retreat safely: moving won't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;.</content>
+	<content contentuid="h48b29e6eg078egd8c8g36d5g75aaac72e563" version="1">Magic Allergy: Gremishka Spawn</content>
+	<content contentuid="h6d138905gcd28gf7c5g3dd1ge1858d76a7da" version="2">Two gremishkas are born from your blood in a wild outburst.</content>
+	<content contentuid="h3fffb86fgc8e4g29d9gd125gf100dcb0b85d" version="1">Mist Stance</content>
+	<content contentuid="h0373a981g8386gfd3fg3983g504cbe2addb4" version="1">Transform into a tiny mist cloud. It can't fall, and fits through small openings. It is very hard to damage.</content>
+	<content contentuid="h4e01be82g29fag950dg23f2ge5e3ae312c7e" version="1">The cloud has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution, Dexterity, and Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="he50862bfg823fgdbb0gdf88g56fc814ff312" version="1">WildMagic: Inner Owlbear</content>
+	<content contentuid="h85380ca9g85cag91degf243g35521446610d" version="2">Transform into an Owlbear</content>
+	<content contentuid="hc3b03773g9ef2g0bfeg45bfg3dfe3e6f106c" version="2">WildMagic: Gaseous Form</content>
+	<content contentuid="hf527f107g38e9g4412g47ddgfc06078d32de" version="1">Transform into a tiny mist cloud. It can't fall, and fits through small openings. It is very hard to damage.</content>
+	<content contentuid="ha0b1eb85g81f7g9f2eg8db9g0ea6c6d8dba4" version="2">Wild Magic: Ceremorphosis</content>
+	<content contentuid="hb1d4f9a4gd5fcg9c90g511dg98473bee30fe" version="1">Submit to the coaxing of the tadpole. Your very morphology will shift. The pain will be incredible. Once it is over, you will be a mind flayer.</content>
+	<content contentuid="h5ca6886dgdecdg4d98gcab3g5dde0a630d67" version="2">Send everyone around you into a &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt;.</content>
+	<content contentuid="h791d6f60g0deag25degb0bfgc6a60ae989be" version="2">Wild Magic: Rage</content>
+	<content contentuid="h219797a3g7fdbg0970ga862gf8d7dc4dacd7" version="1">Mind Flayer Form</content>
+	<content contentuid="h01c51eb3g746bga7a9g16ddg716ec2d1fffa" version="1">Affected entity has embraced ceremorphosis and become a mind flayer. </content>
+	<content contentuid="h6500da26gd359gabb6g5f31g9b14d7ecd047" version="1">Wild Magic: Moonbeam</content>
+	<content contentuid="h7278eb1cg6dcegdebage7f1g6d4af57666e1" version="1">Call down a beam of light that damages any creature that enters the beam or starts its turn in the light. You can use an action to move the beam [1].</content>
+	<content contentuid="hfc21af7cg0b84gc44cg0ea1g6e2b64404a85" version="1">Wild Magic: Detonate</content>
+	<content contentuid="h505ec262gf69bgba39gd610g11c0d76e4e67" version="2">WildMagic: Inner Raven</content>
+	<content contentuid="h383d754cg5490gafb5g35bcg68ea0cefb22a" version="1">OWLBEAR</content>
+	<content contentuid="h0fa288c1gf572gda60gfa55g0f6603d731ac" version="1">Wild Magic: Halfwit</content>
+	<content contentuid="h9fedd0c5g24ebg3f83g876cgbca257b37345" version="2">Wrong shape, as always.</content>
+	<content contentuid="h011b1258g4ebeg234eg003ag5660c20b5eb3" version="1">Wild Magic: Luring Song</content>
+	<content contentuid="hc587fd1cgdc3bg1529gaa1fgd717b6d2d395" version="1">Charm nearby creatures with a magical melody to &lt;LSTag Type="Status" Tooltip="LURING_SONG"&gt;Lure&lt;/LSTag&gt; them to you.</content>
+	<content contentuid="hc2a1d1c1g8d07ga560g7583g70d2ede2ef27" version="3">Wild Magic: Slayer</content>
+	<content contentuid="hd027ecefg1655gbf19g86b2gfdcb414918bd" version="1">Charm nearby creatures with a magical melody to &lt;LSTag Type="Status" Tooltip="LURING_SONG"&gt;Lure&lt;/LSTag&gt; them to you.</content>
+	<content contentuid="h0b1f924cg1e06gb8d0g1d6ag658496c07a7f" version="1">While in Slayer form, you can't talk or cast spells.&lt;br&gt;&lt;br&gt;When your Slayer form drops to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you revert to your normal form.</content>
+	<content contentuid="h1e11d944gc556g3b5fg2882g31a31bff1106" version="1">Manifest your savage compulsions and assume your sinuously deadly Slayer form. Your Slayer form has [1] (increases to [2] at Level 10).</content>
+	<content contentuid="h171c0fbfg7a3egf207g339egf43ea87225d4" version="1">WildMagic: Banish</content>
+	<content contentuid="h14338a0dg86ddg749cg939dgaed10be7ba49" version="1">Begone foul creature</content>
+	<content contentuid="hc6fd00e1g9b7bg6f64g69e4gcaf941583c8a" version="1">WildMagic: Stone</content>
+	<content contentuid="h26ef9827ga682gb097gfc84g9c1294a3e804" version="1">Flesh to stone</content>
+	<content contentuid="h0b021955gb914gc81ag5c65g35a555e1a585" version="1">WildMagic: Inner Elemental</content>
+	<content contentuid="h8e12e1e1g9259gf6b2g2523g96d4f9088db6" version="1">WildMagic: Rat</content>
+	<content contentuid="h54e55b94g7282g830fgada0g66770a9ffd9f" version="1">Your true form</content>
+	<content contentuid="he3cbaa1bgbe55g9eabg2359g445134fa9394" version="1">Controlled Chaos</content>
+	<content contentuid="heaef3f78gc7e5gf1fcg07f3gde02eda28284" version="1">Induce a  &lt;LSTag Type="Passive" Tooltip="WildMagic"&gt;Wild Magic Surge&lt;/LSTag&gt; on the nearby spellcaster.</content>
+	<content contentuid="h74908bc9gb985g203dgcd9ag7878a1e79342" version="1">Controlled Chaos</content>
+	<content contentuid="h591b46d5g8162g889cgdf41gb1eb9ab30d3a" version="1">Foes may suffer a &lt;LSTag Type="Passive" Tooltip="WildMagic"&gt;Wild Magic Surge&lt;/LSTag&gt; while casting spells near your fluctuating magic.</content>
+	<content contentuid="h17658fe0g0b20gffd7ge23cgee910a3f47c1" version="2">Wild Magic: Rats and Rats</content>
+	<content contentuid="h08c62bbbg9485gad23gf68ag6aed989d56a8" version="2">Each creature within [1] is randomly transformed into a rat.</content>
+	<content contentuid="h340bba99g9bc7g9359g708fg513d39817d26" version="1">Wild Magic: Runaway</content>
+	<content contentuid="hfaa2eb7dge026gb4efgda51g33120d77ca6e" version="1">Time to go </content>
+	<content contentuid="h2e68995fg966agb44eg3584g8e8204fe93b6" version="1">Spectator</content>
+	<content contentuid="hd2c3f44fgb2e0gff19g137eg5e3adacfe865" version="1">Controlled Chaos</content>
+	<content contentuid="h4dd05c19g95d8g5c94g4243gb012e78b4c7c" version="1">Target an enemy that's casting a spell. They will unleash a wild magic surge on themselves.</content>
+	<content contentuid="h2c41b432g6509gea7cg7d31gd1bf344b6145" version="1">WildMagic: Inner Elemental</content>
+	<content contentuid="h0080f639g5b0dg2e80g11dbg9724aec13976" version="1">WildMagic: Inner Elemental</content>
+	<content contentuid="hf6414560ga205g4341g1940gecc2f16b7894" version="1">WildMagic: Inner Elemental</content>
+	<content contentuid="hfcd591ddg67a1g961dg7f93ga5be28e07f6e" version="1">WildMagic: Dinosaur</content>
+	<content contentuid="h721b800eg8e62geabega325g89a16ee75840" version="1">WildMagic: Invisibility</content>
+	<content contentuid="h42e5e499g8b3fg9809g76d8gb98738cfacec" version="1">Where is everyone?</content>
+	<content contentuid="hc5bb6c33g50d2g41f6gbe50gefad73216adc" version="1">Call forth spirits to protect the area around you.</content>
+	<content contentuid="h5ec76249g48f5g70efg1e9age6dd90df3cea" version="1">Nearby enemies take [1] per turn, and their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved.</content>
+	<content contentuid="h26af5442gec27g5330ga3c7g802208b98bb9" version="2">Wild Magic: Charm Animals and Plants</content>
+	<content contentuid="h435de375g229ag6d1eg0967g7c9fc8a2749c" version="1">Channel fey magic to &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charm&lt;/LSTag&gt; nearby beasts and plants. </content>
+	<content contentuid="h4ecd2461g98d3g4e8fgf113gc05ed580591a" version="2">Wild Magic: Inciting Howl</content>
+	<content contentuid="had69cd30g3845g1dbdgd539g0a3b5634d068" version="2">Each charater within earshot can move an additional [1] during their next turn.</content>
+	<content contentuid="hb416b7aegb3f6g0458g4f1egc8cad413208d" version="2">Wild Magic: Repulsor</content>
+	<content contentuid="h44977f10g2007g37e0g1f00g761d86a199cd" version="1">Push anything and anyone back [1].</content>
+	<content contentuid="hba7fbef2ga366g03d3g33f4gf1f6f7979ed5" version="2">Wild Magic: Call for Help</content>
+	<content contentuid="hf7269e79g0e70g9bf7g72e0g3feecca7f1f7" version="2">Called the wrong thing - better luck next time</content>
+	<content contentuid="hd5cffeebg6e0cg5ee1gae91g9d8dc3884e96" version="2">Wild Magic: Leadership</content>
+	<content contentuid="ha8ee38caga775g87a4g28dagaa3cc23a0096" version="1">Bolster nearby allies with a supernatural resolve. Their attacks deal an additional [1].</content>
+	<content contentuid="hfc01612cg73b0g0b02g02a1g372a57f9f88d" version="4">Wild Magic: Perform</content>
+	<content contentuid="h1496827dgfe53g2401g5fa4g0faaade8846d" version="4">A sudden urge to sing and dance. At least it's not a dark urge.</content>
+	<content contentuid="h0b5b6c60g7851g627fgd249ged687e7d6f66" version="4">Hook Horror</content>
+	<content contentuid="heab0d83bg77e0g4da9g7111gae0991ccc19a" version="1">Wild Magic: Gravity</content>
+	<content contentuid="h2167ec8fg9f5bg83a4g44aegc7bf86444bfb" version="1">Gravity on the Astral Plane is different than on Faerûn.&lt;br&gt;&lt;br&gt;The affected entity is &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to Falling damage and its &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is tripled.</content>
+	<content contentuid="h9490b7f1g6ea8g5831g0171ge44d341a61fa" version="1">WildMagic: Armor of Agathys</content>
+	<content contentuid="ha132bd90ge74bg12eega6adg7abb42ea2f74" version="1">Wild Magic: Symbiotic Entity</content>
+	<content contentuid="h441892a6gf44eg8415gbb82g526a7cfc22c6" version="1">Gain [1] and deal an additional [2] while you have them. Cast &lt;LSTag Type="Spell" Tooltip="Target_HaloOfSpores"&gt;Halo of Spores&lt;/LSTag&gt; with double damage.</content>
+	<content contentuid="hf320c647gc237geb93g6b3bg4cde8dfb52b6" version="1">Wild Magic: Guardians</content>
+	<content contentuid="hfc814021g5421g45f3g8ee4g39587ae1c813" version="1">Wild Magic: Heroes' Feast</content>
+	<content contentuid="hf81fefc6g0a71g3deag4a0bgecc9cfa02960" version="1">You and everyone around can't be poisoned, diseased, or frightened. Your &lt;LSTag Tooltip="HitPoints"&gt;HP&lt;/LSTag&gt; increases, and you make Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saves&lt;/LSTag&gt; with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h03240d35gf006g2817ga547g7f7a80f432b9" version="2">Wild Magic: Stench</content>
+	<content contentuid="h40f54ddag9dcfgf48egfbb4g3237f1ca983d" version="1">Emit the stench of tomb mould and abattoirs to &lt;LSTag Type="Status" Tooltip="STINKING_CLOUD"&gt;Nauseate&lt;/LSTag&gt; nearby foes.</content>
+	<content contentuid="hddbd0e59g04ffg45dcg543eg5ec44ce227c2" version="1">Nausea can be cleared if targets become &lt;LSTag Type="Status" Tooltip="WET"&gt;Wet&lt;/LSTag&gt;.</content>
+	<content contentuid="h66e309c5g7384g61dag8648g1aedf0bf2e01" version="2">Wild Magic: Burst</content>
+	<content contentuid="h96b040e6g3983gd01fg5138gd8d207ea834b" version="1">Explode in a burst of sticky mud. It dries instantly on any nearby creatures not made of mud, &lt;LSTag Type="Status" Tooltip="MEPHIT_MUD_RESTRAINED"&gt;Restraining&lt;/LSTag&gt; and hurting them.</content>
+	<content contentuid="h0e2c199fg4fa6g52ddg8653gd9ea63a40a6e" version="1">Wild Magic: Frightful Presence</content>
+	<content contentuid="he92fdaf4gb8f4g8185gdcbfg27445490379e" version="1">Exude terror, instilling &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fear&lt;/LSTag&gt; in your foes.</content>
+	<content contentuid="hed3a87b8g05c8g6358gc621g163772db530c" version="1">Wild Magic: Terrifying Howl</content>
+	<content contentuid="hd94a29cege7dbg807dg2613gdf1930e08768" version="1">Let out a blood-curdling howl that &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightens&lt;/LSTag&gt; all beasts and humanoids that hear it.</content>
+	<content contentuid="hcfe9dfc0g0bd6g6a2cg833bgbc3449d29369" version="1">Wild Magic: Displacer Beast Shape</content>
+	<content contentuid="hf11ef319g10a3g6c35gc6cfgcfc72b674b6d" version="1">Transform into a displacer beast that can &lt;LSTag Type="Spell" Tooltip="Teleportation_Displacement_DisplacerBeast"&gt;Displace&lt;/LSTag&gt; itself and enemies, and has [1].</content>
+	<content contentuid="h559e0e12gd592g5c2cge18fgf72fbbeecd56" version="1">You take on the attributes of a displacer beast, but maintain your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; scores. &lt;br&gt;&lt;br&gt;When your displacer beast form drops to [1] &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you revert to your original form.</content>
+	<content contentuid="hb9cf2688g7322g17e3g28acg981662db6ae0" version="1">Wild Magic: Static Overdrive</content>
+	<content contentuid="hfef7e08bg1b3egc04eg54f8ga7258f57c418" version="1">Emanate a static discharge.</content>
+	<content contentuid="h51802e8cgb770gbaf5g279dg0afd563c8a64" version="1">Enemies take [1] per turn and can't take reactions.</content>
+	<content contentuid="h71889d6fgfd65gac60gcf32g6c0e322b9284" version="1">Wild Magic: Burn them all</content>
+	<content contentuid="h669e0f33g6a37g6f4cg6471gfc768e67c9f6" version="1">Each creature within [1] starts burning and takes [2] per turn.</content>
+	<content contentuid="hb2556d0egb6afg29f4g07c5g401cac02f1ff" version="2">Wild Magic: Pack Tactics</content>
+	<content contentuid="ha730d5b2g0990g89f8g1373g38c6f9769b92" version="2">Grants your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; when they attack a target within [1] of another ally.</content>
+	<content contentuid="h27e21430ge5c7gf6cdg02begcd51b2a2f6b9" version="2">WildMagic: Inner Badger</content>
+	<content contentuid="h0d05f183g1d7dga02bga9e8g3e166af0f896" version="2">Wild Magic: Dancing Time</content>
+	<content contentuid="hb9cc81a7g3088gc3a8g4ee7g2ebaf4f99ed3" version="2">Cause a creature to start dancing, making it unable to take actions or move. Its attackers have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Attack Rolls.</content>
+	<content contentuid="h523379e8gd4b6g65d4g7907gf26caa8805b8" version="3">Wild Magic: Disarm</content>
+	<content contentuid="h27d409f4gfa54gc0e7g65dbg86ba0e1713f4" version="3">Command a creature to drop its weapon.</content>
+	<content contentuid="hb28bf511g2cecg57cfg8281gca9c42a9ca97" version="3">Wild Magic: Grovel</content>
+	<content contentuid="hfc87845fg6a60g7250g32e0gd932c7ed6e25" version="3">Command a creature to fall &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; on its turn.</content>
+	<content contentuid="h48457bfeg91a0gb2a9g9e76gd09de55d0942" version="3">Wild Magic: Voice</content>
+	<content contentuid="h9b1a123eg78f0g77bdgb7c9g2036c5df7628" version="3">Command an ally in the Dark Lord's name, letting them channel &lt;LSTag Type="Spell" Tooltip="Target_BanesWrath"&gt;Bane's Wrath&lt;/LSTag&gt;.</content>
+	<content contentuid="h29cfe6f6g2cddg9237g5232g47221762bdf2" version="3">Wild Magic: Taunt</content>
+	<content contentuid="hb8b0ee4eg25d5g5648gfdc3gabe57239dae6" version="2">Roar at nearby enemies to goad them into attacking you.</content>
+	<content contentuid="hd0ca921fgdf71g742fgf228gb9c9762b10e2" version="2">Wild Magic: Fire Shield</content>
+	<content contentuid="h925ccdabgfd3fgc9fcg463egfd712aeb5d0c" version="3">Wreathe your body in flames that shed light in a [1] radius, provide &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Fire or Cold damage, and retaliate against melee attacks.</content>
+	<content contentuid="h074be735g3677geaadg9bd5gd344bf09f4d9" version="2">Wild Magic: Flame Blade</content>
+	<content contentuid="hd2f92e24g38e3gad0fg772bg85a156a35acf" version="2">Conjure a flaming scimitar in your hand.</content>
+	<content contentuid="hd0dfc792gb188g8743gce37g1385ab9d823a" version="2">Taunt</content>
+	<content contentuid="h71a6f4bfgafa9g9721g3287g189487ad2c5d" version="2">Roar at nearby enemies to goad them into attacking you.</content>
+	<content contentuid="he4a356d1g1996g1582g8735g207c798800bf" version="2">Wild Magic: Aura of Warding</content>
+	<content contentuid="hf6490d61g8d7cg05ceg12a4g69c13bb19071" version="1">You and any nearby allies take only &lt;LSTag Tooltip="Resistant"&gt;half the damage&lt;/LSTag&gt; from spells. The aura disappears if you fall Unconscious.</content>
+	<content contentuid="h207455d5gfed0ga93cg8e26g56c4de859a5a" version="2">Wild Magic: Slayer</content>
+	<content contentuid="hd5d80c18gf223g5d73g9294g5421c21eace2" version="1">Manifest your savage compulsions and assume your sinuously deadly Slayer form. Your Slayer form has [1] (increases to [2] at Level 10).</content>
+	<content contentuid="h927c7a9cgd0e8g950eg2896g4d720895f83c" version="1">While in Slayer form, you can't talk or cast spells.&lt;br&gt;&lt;br&gt;When your Slayer form drops to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you revert to your normal form.</content>
+	<content contentuid="hb7a261b3gde28g0836g45d7g73b37a611f05" version="1">Call of the Damned</content>
+	<content contentuid="h81b071a6g8d41g9ddfge9f4gab9eeac18dd6" version="1">Speak the commands Myrkul whispers in your ear, and pull all nearby creatures towards you.</content>
+	<content contentuid="h59d2cd8bg10a2g3828g39d4ge2e370681838" version="1">As a last resort, initiate a countdown sequence that ends with &lt;LSTag Type="Spell" Tooltip="Projectile_SteelWatcher_Biped_SelfDestructExplosion"&gt;Self-Detonation&lt;/LSTag&gt;.</content>
+	<content contentuid="h32987d7cge7ddg232agdcfeg60914e0344db" version="2">Wild Magic: Spontaineous Combustion</content>
+	<content contentuid="ha19df4e5g8be4g7f91g9cf3g7f8570deefe1" version="1">Reduce the next damage taken by the entity to [1] and consumes one charge of Unstoppable. Unstoppable creatures cannot be moved by any external forces - mundane or magical. </content>
+	<content contentuid="h06ba7dceg7d61g14a4ge95cg1860ff3d1553" version="2">Wild Magic: Unstoppable</content>
+	<content contentuid="hc775a7b9g03c4gc6d0g6473gb23884323bf5" version="2">Wild Magic: Entangling Plants</content>
+	<content contentuid="ha4e7f8b8gec7cg0e41g52d9g1b9f25aae996" version="1">Sprout cursed roots and vines all around you, slowing non-plant creatures and possibly &lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;Entangling&lt;/LSTag&gt; enemies.</content>
+	<content contentuid="h45f0c378gfdddg0b8eg0ddfg9bdf87af19cb" version="1">Doppelganger</content>
+	<content contentuid="hf40ce19bg12d7gb72agd855ga10ac5f935c5" version="1">Take the shape of a small or medium creature you've seen. </content>
+	<content contentuid="h0c161022g24e0geb07g1330g5abf2d99afdb" version="1">Signalling Cry</content>
+	<content contentuid="hbd576e95gf4fbgfe70g418eg38ff57fe2041" version="2">Wild Magic: Deva</content>
+	<content contentuid="h83134c8cg30d2gc3cfg78a8gb0294c5caa32" version="1">Take the shape of a deva that can cast &lt;LSTag Type="Spell" Tooltip="Target_Wrathful_Smite_Deva"&gt;Wrathful Smite&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Teleportation_Revivify"&gt;Revivify&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Target_ConcussiveSmash"&gt;Concussive Smash&lt;/LSTag&gt;. It has [1].</content>
+	<content contentuid="hddf256e3g898dg38d2gcb32gfb40d66f8ebe" version="2">Wild Magic: Healing Word</content>
+	<content contentuid="h7ad8552ag5507ge96bg8995g66ae5f0ebf9c" version="1">Heal your nearby allies.</content>
+	<content contentuid="hfdc66f3bgc91dg216dgb598g2b57c8d4d7f3" version="1">Wild Magic: Muck to Metal</content>
+	<content contentuid="h0c9c7bf3g866agbe2cg0f44g0699f9c9704c" version="1">Harden your slippery body into a substance like steel, increasing your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [1], but reducing your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [2].</content>
+	<content contentuid="hd5a985a8g3d82g3593g2d1cg3e8930a4768c" version="1">Wild Magic: Radiance of the Dawn</content>
+	<content contentuid="h8009f812g1462g5f2cg6ea7g04e819442c0d" version="1">The sun's divine power dispels any magical darkness.</content>
+	<content contentuid="h5baaa360g1561g9750g11f3g19e48db02daf" version="1">Doesn't affect creatures that have total cover from you.</content>
+	<content contentuid="h2565198cgbff5g9b29gf0dcg492aa4f33ed3" version="1">Wild Magic: Quake</content>
+	<content contentuid="h2493f39fg2f8fgc6fdgcd38ge5425dad5a83" version="1">Stomp the ground to cause a massive shockwave and knock nearby creatures &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+	<content contentuid="h716c2011g2659g9c88g1a54g7826aeaa1427" version="1">Your spellcasting can unleash unpredictable surges of untamed magic.</content>
+	<content contentuid="h4719612fgbc4cg42fbgc5f1g9ebdbf80075b" version="1">Temporarily &lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banish&lt;/LSTag&gt; your target to another plane of existence.</content>
+	<content contentuid="h5b374654gc793gac8eg2d40g958b2b96ab72" version="1">Atrophy a foe, &lt;LSTag Type="Status" Tooltip="FLESH_TO_STONE_1"&gt;Restraining&lt;/LSTag&gt; them until they temporarily turn to stone.</content>
+	<content contentuid="h0a7c9239g8ceagbf33g211egdae04c26802b" version="1">Lost Voices</content>
+	<content contentuid="h5e56cda4gdb3fg9d03g40fbgadd485292ece" version="2">You gain a bonus to your Persuasion &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; equal to your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. You gain a bonus to your Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; equal to your Intelligence &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
+	<content contentuid="hde561cd6gfda8g41b4gbedbg65a6639e4665" version="1">Increases &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; by 4, to a maximum of 24.</content>
+	<content contentuid="h78f1ac01gd2a9g49f9gb9deg62739c44c0ab" version="1">Blibdoolpoolp Cultist</content>
+	<content contentuid="hac8d93c8g6fe3g403dgb912g6b7795e2cb6b" version="1">Blibdoolpoolp Cultist</content>
+	<content contentuid="hfcdf98e2gbd35g417dg9354ge55db3aea5fd" version="1">Blibdoolpoolp Cultist</content>
+	<content contentuid="heaabda15gc321g44fbg9b7dgcf45c39ba9a5" version="1">I AM Oorg-Poolgoopan!</content>
+	<content contentuid="h1a217ce1ga5a4g4fccg8519gc084c2763800" version="1">Cam</content>
+	<content contentuid="h84872cb4g1de0g4655gb366g6e5aeb72a092" version="1">Ajax</content>
+	<content contentuid="h059641d9gc1b5g4a29g9033g892f3f93beab" version="1">Dylan</content>
+	<content contentuid="h1846063dg1fa5g4593g8b9bg8a5399b899b8" version="1">Clayby</content>
+	<content contentuid="h70d13177gafbdg435eg8553g5e30ca041943" version="1">Lilly</content>
+	<content contentuid="h8a339dc7ge729g4e88g956dgde5307a03759" version="1">Creature is &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleeding&lt;/LSTag&gt; profusely, taking an additional [2] Slashing damage at the start of each turn and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Poison and Acid damage. &lt;br&gt;&lt;br&gt;Removed by healing.</content>
+	<content contentuid="h5631e81bga138g40dfg8c96gbc42f6c219a8" version="1">This weapon has exceptional balance. Roll a &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt; 20 &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; after attacking, on a successful roll raise your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 2 for 1 turn.</content>
+	<content contentuid="h33282721g0809g4d98g9856g8a9a1e448f0d" version="1">Your adventures have left you exhausted, there are seven levels of exhaustion and each level is worse than the last. Completing a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; will remove all levels of it.&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Movement&lt;/LSTag&gt; cost increased by 10%. All &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; are reduced by 1. &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 1.</content>
+	<content contentuid="h0844ee95gba66g451cgb5aaga9b69370c484" version="1">Your adventures have left you exhausted, there are seven levels of exhaustion and each level is worse than the last. Completing a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; will remove all levels of it.&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Movement&lt;/LSTag&gt; cost increased by 20%. All &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; are reduced by 2. &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 2.</content>
+	<content contentuid="h42faba3bg4895g4b4fg8500g969f39048bee" version="1">Your adventures have left you exhausted, there are seven levels of exhaustion and each level is worse than the last. Completing a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; will remove all levels of it.&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Movement&lt;/LSTag&gt; cost increased by 30%. All &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; are reduced by 3. &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 3. &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt;, &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt; and &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt; rolls.</content>
+	<content contentuid="hc2a4e7fcgcfa0g4c66g830dg067432cfd405" version="1">Your adventures have left you exhausted, there are seven levels of exhaustion and each level is worse than the last. Completing a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; will remove all levels of it.&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Movement&lt;/LSTag&gt; cost increased by 50%. All &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; are reduced by 4. &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 4. &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt;, &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;, &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;, &lt;LSTag Tooltip="SleightOfHand"&gt;Sleight of Hand&lt;/LSTag&gt; rolls.</content>
+	<content contentuid="h0cbcea21g43abg4d62ga8ecgdc332a67d8fe" version="1">Your adventures have left you exhausted, there are seven levels of exhaustion and each level is worse than the last. Completing a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; will remove all levels of it.&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Movement&lt;/LSTag&gt; cost increased by 70%. All &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; are reduced by 5. &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 5. &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt;, &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;, &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;, &lt;LSTag Tooltip="SleightOfHand"&gt;Sleight of Hand&lt;/LSTag&gt; and &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt; rolls.</content>
+	<content contentuid="h5e42e0e5ga54eg4f85gad0cgcdef14a9c555" version="1">Your adventures have left you exhausted, there are seven levels of exhaustion and each level is worse than the last. Completing a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; will remove all levels of it.&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Movement&lt;/LSTag&gt; cost increased by 90%. All &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; are reduced by 6. &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 6. &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Stealth"&gt;Stealth&lt;/LSTag&gt;, &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;, &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;, &lt;LSTag Tooltip="SleightOfHand"&gt;Sleight of Hand&lt;/LSTag&gt;, &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;, &lt;LSTag Tooltip="Athletics"&gt;Athletics&lt;/LSTag&gt; and &lt;LSTag Tooltip="Acrobatics"&gt;Acrobatics&lt;/LSTag&gt; rolls. Cannot take &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reactions&lt;/LSTag&gt;.</content>
+	<content contentuid="hb15467b2g9a82g4f61gb941g9a3a8809dabb" version="1">Your adventures have left you exhausted, there are seven levels of exhaustion and each level is worse than the last. Completing a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; will remove all levels of it.&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Movement&lt;/LSTag&gt; cost is doubled. All &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; are reduced by 7. &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 7. &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on all &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. Cannot take &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reactions&lt;/LSTag&gt;.</content>
+	<content contentuid="h418a7196ge2f6g4028gb3abg014b54129644" version="1">Exhaustion</content>
+	<content contentuid="h6bba743dgaa59g4922g87c9g6d1d3dd7f483" version="1">Your adventures may leave you exhausted. There are seven levels of exhaustion, and each level is worse than the last. Completing a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt; will remove all levels of it.</content>
+	<content contentuid="h6186a929ge943g4ba9g98f1g972f22701086" version="1">Utility Spells</content>
+	<content contentuid="hed650636g1cc7g4e9agae18g33bd8f98af98" version="1">A little toolbox for custom non-combat spells and abilities.</content>
+	<content contentuid="hcc2c6058g412cg439aga60cg989e2c34292e" version="1">Deal only half damage with weapon attacks that use &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;. &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; and &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Necrotic damage.</content>
+	<content contentuid="h2f68d483g7ca5g4160g89c9g73b42e315cb2" version="1">Weaken a foe - they deal half damage with weapon attacks using &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;. They also have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; and &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Necrotic damage. The spell chains to [1] secondary target(s).</content>
+	<content contentuid="h8dcb3690g0420g435bg88aeg0eb4ed7f34cc" version="1">The wearer can use &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Help&lt;/LSTag&gt; as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt;.</content>
+	<content contentuid="h027cfe16g350dg43c8gac97g46a6628b0384" version="1">The wearer can use &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Help&lt;/LSTag&gt; as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt; and they and their allies within [1] gain &lt;LSTag Type="Status" Tooltip="EW_BA_STATUS_BLESS"&gt;Bless&lt;/LSTag&gt;. This can stack with other sources of &lt;LSTag Type="Status" Tooltip="BLESS"&gt;Bless&lt;/LSTag&gt;.</content>
+	<content contentuid="h9a3d08a8g4e5ag405aga5b7gc59e78a88707" version="1">Unblockable Flail</content>
+	<content contentuid="h90cdd0bbg5cf4g49e0gb41eg5a54497d5a7d" version="1">The flexible head on this weapon makes it impossible to block properly. When you miss an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you may use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to deal [1] regardless.</content>
+	<content contentuid="h9eb07ea8g1f9ag4743gb2a0ge48e33c6c5a3" version="1">Overwhelming Force</content>
+	<content contentuid="had63bc4bgf92dg4ec8g87e8g72debf80fd7a" version="1">When you miss an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you may use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to deal [1] regardless.</content>
+	<content contentuid="hc13b4a70gb3c6g44bagac8egf7f4029e53f9" version="1">Rending Blows</content>
+	<content contentuid="h9afe9502ge11cg4067gbbc9g79d80d3239f6" version="1">This weapon heavily damages enemy armour on hits, reducing the target's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 2 until their next turn.</content>
+	<content contentuid="h46c27572g38fbg4cdbgb118g1be8482efd22" version="1">Armour Penetration</content>
+	<content contentuid="h3e8fb322g194fg4e06g9fe0g49cbeaca36e8" version="1">This weapon easily defeats armour. Melee attacks ignore Piercing &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and have +1 to their &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+	<content contentuid="h42622180gdad5g4552g9b8bgababa4b94ba6" version="1">Deep Wounds</content>
+	<content contentuid="hf8901776g752bg42cdg84aeg9328de8944a8" version="1">This weapon causes extreme internal damage on a good hit. Increases the damage of &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt; by 5.</content>
+	<content contentuid="hb667b784ga913g4e9egb017g21ddd14e1e07" version="1">Disarming Chain</content>
+	<content contentuid="h8e5bd8d3g9b99g4ae1ga030gdcd2f15e8202" version="1">Possbily disarm your target by wrapping the flail around their weapon unless they succeed a &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h6be32e46g8845g48b9gb021ge9ec9fedc7a8" version="1">Rend</content>
+	<content contentuid="h1451d3d6g7310g4a4eg9bdfgb18eb29f1b2c" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by [1] until next turn.</content>
+	<content contentuid="hce18feb5g806cg4b4agb617g71ac276ea816" version="1">Can Crusher</content>
+	<content contentuid="h0c008477g7aaeg4383g9978g61f4882c81b1" version="1">Victims of attacks from this weapon take an extra 2 damage if they are wearing metal armour.</content>
+	<content contentuid="h885713cag8939g43b9gbb7dg74033f0fc277" version="1">Defensive Parry</content>
+	<content contentuid="h821c25a1g0756g4054g9fc0gd4e8170a075a" version="1">This sword's long blade and hilt allow for effective defense. You may use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to parry an incoming melee attack and reduce its damage by 2d6 + Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. 2-Turn Cooldown.</content>
+	<content contentuid="h0c7e99a2g47b8g48c4gb292gea1b9289ea8d" version="1">Argument. Solved. </content>
+	<content contentuid="hb4d44860g08eeg4180gb985g0dea0d74355b" version="1">On &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;, infects target with an evil poison that saps their very life-force. Target takes 1d8 poison damage per turn and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. Lasts 3 turns.</content>
+	<content contentuid="hd37d17ffg3f9dg4795gb279gc27d154aa0cc" version="1">Nimble Defense</content>
+	<content contentuid="hfd08ca25gb09ag49dagb7fdga012a39f23f2" version="1">This weapon has exceptional balance. Roll a &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt; 20 &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; after attacking, on a successful roll raise your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 2 for 3 turns.</content>
+	<content contentuid="h09cdbb0dgb875g4d85gb584g9d921232d5d7" version="1">You attacked your target with exceptional balance, raising your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 2 for 1 turn.</content>
+	<content contentuid="hd0de29c0gb0cbg4534ga5d5g4c33cb7b8ee3" version="1">Razor Sharp</content>
+	<content contentuid="hda94483eg19a0g4b16g9a18ge59142cff0b5" version="1">This weapon's edge is sharp enough to cut your very soul. On &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;, applies &lt;LSTag Type="Status" Tooltip="HEAVY_BLEEDING"&gt;Heavy Bleeding&lt;/LSTag&gt; to target for 3 turns.</content>
+	<content contentuid="h36d43857g7855g4a66g9514g07d9f981eb54" version="1">Bloody Spikes</content>
+	<content contentuid="h78edf5cagc0b1g448ega4e1g48528d2a08f5" version="1">This weapon is covered in spikes which tear flesh apart. On &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;, applies &lt;LSTag Type="Status" Tooltip="HEAVY_BLEEDING"&gt;Heavy Bleeding&lt;/LSTag&gt; to the target for 3 turns.</content>
+	<content contentuid="h20585462g60b3g4f16gaec3g5cd52e4762e0" version="1">Heavy Bleeding</content>
+	<content contentuid="h764e4e3cg67bbg4e07g993ag2d7613215c74" version="1">Creature is &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleeding&lt;/LSTag&gt; profusely, taking an additional [2] Slashing damage at the start of each turn and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Removed by healing.</content>
+	<content contentuid="h81c2adc4gcf67g4049g8129g1e06741fd05e" version="1">Argument. Solved. </content>
+	<content contentuid="hb2d4506fg3172g455bgb8b3gb6f41aec9730" version="1">Target has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. Additionally, target takes 1d8 poison damage per turn</content>
+	<content contentuid="h786e8a25g0ff1g40b7gb10ag98c7ffe70184" version="1">Extremely Long</content>
+	<content contentuid="heaa58c9bg511fg4dfeg9969g5eca61cc79e3" version="1">Pikes are especially long weapons, boasting the furthest reach of all melee weapons. Useful for supporting allies from relative safety.</content>
+	<content contentuid="hec88d0cdg2240g4ef8g9a87g4eb24061aceb" version="1">Heavy Draw</content>
+	<content contentuid="hb96b393fg30b6g4a32gbde5g71d9bc97afff" version="1">This bow has an especially heavy draw weight. Both your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; and &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; are important to be effective with this weapon. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and Damage rolls receive a [1] bonus.
+The &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; bonus for &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; is capped at [2], however, the damage bonus is uncapped.</content>
+	<content contentuid="hcc08a20egaee5g417aga0dbg4d280051f045" version="1">Mighty Overdraw</content>
+	<content contentuid="h4848b0f1g3ab2g42c5g8011g8c56aaa46915" version="1">You draw the bow way further than normal for a mighty shot that hits with extreme force, at the cost of accuracy. Take a [1] &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; penalty in exchange for an extra [2].</content>
+	<content contentuid="h8e2878dcgf3c5g49ffga48eg467dce13f925" version="1">Ease of Use</content>
+	<content contentuid="h1afd2357g6fd7g43c1gb929gaab55bf7ac6d" version="1">Crossbows utilize a buttstock and trigger assembly making them far easier to aim than bows and increase &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; made with them by [1].</content>
+	<content contentuid="h7e735fe5gb4dbg4a76gab2fg678682e670bc" version="1">Marksman's Focus</content>
+	<content contentuid="h9cf090fcged2dg4526ga797g93dfccd5218a" version="1">You calm yourself and take careful time with your shot. Spend [1] of &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; to gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and reduce the &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; threshhold by -4, for this attack. This effect can stack with &lt;LSTag Tooltip="ImprovedCritical"&gt;Improved Critical&lt;/LSTag&gt;.</content>
+	<content contentuid="h98c66591gb4b4g4bc5g847fg4a890a2247d9" version="1">Rapid Fire</content>
+	<content contentuid="h5fc214aega6dfg4797g99a5g5f714a6810c9" version="1">You take multiple arrows in your hand and take a steady stance, preparing an onslaught for your foes. Spend 9m of &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; to shoot 3 different targets at once, at reduced damage.</content>
+	<content contentuid="hc45be9c9ge02cg4fe4g9813g3b68ce4ec11d" version="1">Skirmisher Tactics</content>
+	<content contentuid="h19e21392g47a9g4f7agbd2bga30afd66ca2f" version="1">Shortbows are light and handy, perfect for hit and run skirmishing. Landing a hit gives you 2m of &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt;.</content>
+	<content contentuid="h0ee483b8g1fe6g49aeg9f78gf6bed2a97ecf" version="1">Skirmishing</content>
+	<content contentuid="h844c3515g4bf3g4047gab9cg312ed0288d37" version="1">Shortbows are light and handy, perfect for hit and run skirmishing. Landing a hit gives you 2m of &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt;.</content>
+	<content contentuid="h6379491fgf6b6g46c8gbe17g2ee7f191224a" version="1">Overdraw</content>
+	<content contentuid="h60dfb49eg9298g4649g97b9g5abdd5080a77" version="1">[1] penalty to your next ranged &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; in exchange deal an extra [2].</content>
+	<content contentuid="h8c15dbe4gf58fg4158ga50cgd2703c9ad790" version="1">Marksman's Focus</content>
+	<content contentuid="hebf30622gb60dg447bgb6b1g1cb43d09bcaa" version="1">Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and reduce the &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; threshhold by -4, for this attack. This effect can stack with &lt;LSTag Tooltip="ImprovedCritical"&gt;Improved Critical&lt;/LSTag&gt;.</content>
+	<content contentuid="hdb671db5gc473g4c5cgbc20gb33849e43a36" version="1">Heavy Armour Movement Speed Penalty</content>
+	<content contentuid="hfe823e2cgda3eg474eg81b9gbcb416d33d1e" version="1">Reduces &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; by [1] if your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; is 13 or lower while wearing Heavy Splint, Ring Mail or Chain Mail Armour and 15 or lower while wearing Heavy Plate Armour.</content>
+	<content contentuid="hf643c347g8dd6g4380gba7egb90e1cf115b8" version="1">Shadowblade Used</content>
+	<content contentuid="ha8fa3b21gfb5bg4074gb7cfg8eaa3694cfd9" version="1">You must wait until you have </content>
+	<content contentuid="h91f18f2bgaee5g43cag993eg676cc5e3e049" version="1">You have &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Heavy Armour and increased one &lt;LSTag Tooltip="Abilities"&gt;Ability&lt;/LSTag&gt; by 1.</content>
+	<content contentuid="h71c367dfg56dag44b8gb2a2gc68d5ab8e016" version="1">You gain &lt;LSTag Tooltip=""ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Heavy Armour and increase one &lt;LSTag Tooltip="Abilities"&gt;Ability&lt;/LSTag&gt; by 1.</content>
+	<content contentuid="h0e3b16b6gebb9g4a57g8e9ag59930e80f8c2" version="1">When attacking with a melee weapon you are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with and are wielding in both hands, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; take a [1] penalty, but their damage increases by 1d4+[2].</content>
+	<content contentuid="h3c9bc881g2763g4881g96c0g4dd58fff7d05" version="1">Dispel the sphere of shimmering force an ally cast on you.</content>
+	<content contentuid="h84fcd915gd8c6g43e5ga1eagcd3da465d43b" version="1">Make a pillar of divine fire roar down from the heavens like the wrath of affronted angels. Potentially &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burns&lt;/LSTag&gt; targets, fiends and undeads receive &lt;LSTag Type="Status" Tooltip="BURNING_HOLY"&gt;Holy Burns&lt;/LSTag&gt; instead.&lt;br&gt;&lt;br&gt;Allows you to cast &lt;LSTag Type="Spell" Tooltip="SYR_Target_FlameStrike_Recast_5A"&gt;Flamestrike Remembrance&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="SYR_Target_FlameStrike_Recast_5B"&gt;Flamestrike Echo&lt;/LSTag&gt; in your following turns.</content>
+	<content contentuid="h5e222416gc405g44afg994dg2da0aa4e5b90" version="1">Can recast an echo of &lt;LSTag Type="Spell" Tooltip="SYR_Target_FlameStrike_Recast_5A"&gt;Flamestrike Remembrance&lt;/LSTag&gt;.</content>
+	<content contentuid="h50ffdbf5ga58cg4e8bg9c47g9a2e50dffeda" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; on the current turn, the &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; is lost upon &lt;LSTag Tooltip="MovementSpeed"&gt;moving&lt;/LSTag&gt;.</content>
+	<content contentuid="hc0bc6718g548bg49a0ga4a4g27c238a87c66" version="1">You give yourself &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; on the current turn, the &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; is lost upon &lt;LSTag Tooltip="MovementSpeed"&gt;moving&lt;/LSTag&gt;.</content>
+	<content contentuid="h34ffc6a9g39d9g486dgb927gf1797844ef51" version="1">WARNING: Inform yourself of the bugs related to this on the Appearance Edit Enhanced mod page!</content>
+	<content contentuid="h7920b39bg75f5g44ecga83dg40a756099eea" version="1">While Boots of the Marsh Strider is equipped your &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt;; distance is increased by [1] and &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; is increased by [2].</content>
+	<content contentuid="h73716c06g2341g4c6fg9669g5ae30f4a0dc2" version="1">Dream Shield</content>
+	<content contentuid="h9fb312bcgf537g41f2g90e8g76735e4ffe39" version="1">Kept from death's door by a brief magical boost. Gained [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;, &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and magic can't put you to Sleep.</content>
+	<content contentuid="h976141c7g3022g44f1gaca7gb4991ad12dbf" version="1">You gain [1] after a &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;. Until the &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; expire you also have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;, &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;, &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and magic can't put you to Sleep.</content>
+	<content contentuid="h61f58e4dg5857g4303g8a98g8ef045af5464" version="7">The entity can't take &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reactions&lt;/LSTag&gt; and can only take either an &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; or a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt; and loses all &lt;LSTag Tooltip="MovementSpeed"&gt;Movement&lt;/LSTag&gt; when they do so.</content>
+	<content contentuid="h35ddfb4bge571g48ebg8ad6gda948d6de5b6" version="1">Psychically lash out at [1] creature(s), possibly preventing them from taking &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reactions&lt;/LSTag&gt; and limiting it to using &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; or a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;Bonus Action&lt;/LSTag&gt; which also expends all &lt;LSTag Tooltip="MovementSpeed"&gt;Movement&lt;/LSTag&gt;.</content>
+	<content contentuid="h8065a5acg6c5fg4d5dga066g40c0411924a3" version="1">Assistance</content>
+	<content contentuid="h704e8f78gd53fg4f66g8296gc127ab992969" version="1">A party member is assisting you for this skill check.</content>
+	<content contentuid="ha6582f71g1442g4acagbbebg726e31d01acd" version="1">Cannot move and takes [1] per turn. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the creature have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;, while the creature's &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;. &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to Fire damage.
+Removed when &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Helped&lt;/LSTag&gt;.</content>
+	<content contentuid="h9e12dfe9g3b00g45dcgb231gb565edf9449b" version="1">Cambion's Cauteriser</content>
+	<content contentuid="h0c94e075gf395g4a17gb4fbg75001c0d7a69" version="1">This halberd slashes with burning fury dealing an additional [1], but only for its Devil master.</content>
+	<content contentuid="h5bf0d594gdfc7g4555gbdfbgb0cceef34f14" version="1">Conjure Basket Full of Equipment</content>
+	<content contentuid="ha3b19175gac84g4809gbb84g759bab16c236" version="1">Conjure a Basket Full of Equipment into your inventory.</content>
+	<content contentuid="h78d72228g7f39g47f9g95f6g84d748886d3c" version="1">This spell conjures a Ghost Basket into your inventory that will disappear after 10 turns. Take your desired items out of the Ghost Basket before that. Everything left in the Ghost Basket will disappear forever.</content>
+	<content contentuid="h150a4fd4g0f35g4706g83aeg6c3169ef9a51" version="1">Basket Full of Equipment Summoned</content>
+	<content contentuid="ha81b4b97g243dg4619g8233ge722d4b06126" version="1">You summoned a temporary Basket Full of Equipment to your inventory. It and all its contents will disappear soon.</content>
+	<content contentuid="he46b983bgc9bdg4f39g8d56gbe87e6becc6c" version="1">Wild Fury</content>
+	<content contentuid="h3d2f295dga6e6g4df3gbea4g354b8874df16" version="1">Throw all caution to the wind to gain Advantage on your melee Attack roll, and taking a chance to cause a Wild Magic Surge. Until your next turn, you have Advantage on all Attack Rolls, but enemies also have Advantage on Attack Rolls against you.</content>
+	<content contentuid="h0ca3e880gf148g47ddg8059g146b25c45142" version="1">Wild Magic: See Invisibility</content>
+	<content contentuid="h8b0fa402g1803g48cbg9454g1c4e820d5b9e" version="1">For the next minute, you can see invisible creatures and objects.</content>
+	<content contentuid="haa60422ag3390g4063ga55ag98a377fc8745" version="1">Wild Magic: Fireball</content>
+	<content contentuid="hc95fbaf4ge590g401fg9de7g32491ed652b2" version="1">You cast fireball centered on yourself.</content>
+	<content contentuid="h15560f63gb084g42a6g9624g8beb51426bc9" version="1">Wild Magic: Forceful</content>
+	<content contentuid="h2b84ef43g3cc6g4f32gbbd2g860c91e8c82e" version="1">Your weapon attacks do an additional [1].</content>
+	<content contentuid="h3772a1b3g6790g4e2bg8c0fgab7e2b2a2d3e" version="1">Wild Magic: CHEESE!</content>
+	<content contentuid="h6046091dgd3d3g4752gb892gb1dbf7872720" version="1">You are polymorphed into cheese. You revert to your original form after 1 minute, or when reduced to 0 hit points.</content>
+	<content contentuid="h876c31e9g7ae8g4cc8g86b0g4c4e46ae9a3f" version="1">Wild Magic: Confused!</content>
+	<content contentuid="hd1132142g6bceg41e3g9bc6g06b02345a8d3" version="1">Afflicted with confusion. You are hostile to everyone, wander around aimlessly, and occasionally skip your turn. A successful Wisdom Saving Throw removes this condition.</content>
+	<content contentuid="h9a9a1fe3gd042g4711gb628g624b5ea75b15" version="1">Wild Magic: Dependable Healing</content>
+	<content contentuid="hd20da198g8867g4098g9d01gb619dcd6e099" version="1">For one minute, you regain 5 hit points at the start of your turn.</content>
+	<content contentuid="he1742bddg42a5g49e3g96c0g18ab13b948db" version="1">Wild Magic: Incapacitated!</content>
+	<content contentuid="he2198ab3g189fg417ag88cag40589a6b514e" version="1">You are incapactiated for this turn.</content>
+	<content contentuid="hc8b6c61dg8407g44fbgb305g1e8fadb580af" version="1">Wild Magic: Greased</content>
+	<content contentuid="h869e940ag37f9g4cc7g9eebg073cf5b91fa7" version="1">You cast Grease, centered on yourself.</content>
+	<content contentuid="h76393369g02b2g4952g8f71g642ec8f417b2" version="1">Wild Magic: Bad Saving Rolls</content>
+	<content contentuid="ha87ba250gf6bdg4037gb9f8g43440c304f7f" version="1">All creatures (except yourself) in a 30 foot radius have disadvantage on all saving throws for the next 3 turns.</content>
+	<content contentuid="h000dc1f6g519bg443ag8669g4f45067467e0" version="1">You have disadvantage on all saving throws.</content>
+	<content contentuid="h7292f61bg7ac3g4b67g8c51g0c1b3fe6966a" version="1">Wild Magic: Faerie Fire</content>
+	<content contentuid="h68551d16g7d6fg4fd3gba88g52e0d268b233" version="1">Cast Faerie Fire centered on yourself.</content>
+	<content contentuid="h180b683bg5b91g4c4fg9451gd283e64fdb2c" version="1">Wild Magic: SUMMON SPECTATOR!</content>
+	<content contentuid="h7e7787d3g92e6g4dc8g8d00g951d1d752611" version="1">You spawned a hostile Spectator!</content>
+	<content contentuid="h0ad08809gdcc2g4033g9402g1786f4038db2" version="1">Wild Magic: Mind Sanctuary</content>
+	<content contentuid="h4e77953fgd925g4246g8bfcg464f5ba925d5" version="1">You summon a Mind Sanctuary bubble centered on yourself and can use actions and bonus actions interchangeably. This effect lasts for 3 turns.</content>
+	<content contentuid="h5c58d200g24f2g4bc9gb212gd5be82c62271" version="1">Wild Magic: Curse of Truth</content>
+	<content contentuid="h1cfed470gbeb1g4242g8fb6gd666ed013245" version="1">You are compelled to always tell the truth. You have disadvantage on deception skill checks.</content>
+	<content contentuid="hd993f316g74d9g4111g8f22g620b729d16e5" version="1">Wild Magic: BANISHED!</content>
+	<content contentuid="h2cd863aagd55cg4f98g88e2ge04fcb83a2f8" version="1">You are banished to another plane of existence for 2 turns.</content>
+	<content contentuid="h3aaf2b53g7795g4fa1g9111gfe0a0f63d035" version="1">Wild Magic: Maximum Damage</content>
+	<content contentuid="hddbb66efg97deg41e4g8819gc09f2fc0c89d" version="1">The next spell that hits does maximum damage.</content>
+	<content contentuid="h5b4e767ag6647g4829ga608g8387c5ccca0d" version="1">Wild Magic: Static Shock</content>
+	<content contentuid="h97d9c295ge4cbg4fd4gbfdeg0298d2435981" version="1">You become charged with a massive amount of static electricity. When a creature hits you with a melee attack, you deal 1d6 lightning damage to them.</content>
+	<content contentuid="h0b736525g983ag4b79gb67bg891505c5b0fd" version="1">Wild Magic: Healed</content>
+	<content contentuid="hc9b75761gded7g4bfdg9ac0g511bd4bee937" version="1">You regain 2d10 hitpoints.</content>
+	<content contentuid="h8ceddebcg1127g4aacgb3f8ge3a469b362b8" version="1">Wild Magic: Charmed</content>
+	<content contentuid="hcb992cf1gecceg4910gad47g9ecc635c8d95" version="1">For one minute, any creature that hits you will be charmed for 2 turns.</content>
+	<content contentuid="hf6ecb730g2459g420fg9d6cg9e3702710ee8" version="1">Wild Magic: Push Back</content>
+	<content contentuid="hbbe8b0d4g11c4g4d29gbbdag7fe20c0d0d7a" version="1">For one minute, any creature that hits you with a melee attack is pushed back 10 foot.</content>
+	<content contentuid="h13b69f5eg6b07g426bgb644g82ab0cfe5b47" version="1">Wild Magic: Hearty</content>
+	<content contentuid="h4c704994g94bbg4b03g8562gae8d03f35ecc" version="1">You have advantage on all Constitution saving throws and ability checks. This condition is removed after a long rest.</content>
+	<content contentuid="hce5107adgc347g4887g80eag96e893dad0bc" version="1">Wild Magic: Mass Blink</content>
+	<content contentuid="hea33d07ag88d3g47dcgabcag4f7caf339f7b" version="1">For one minute, all allies (including yourself) in a 30 foot radius fall under the Blink condition.</content>
+	<content contentuid="h325abc74gb8d8g447ag9ddagab5694f20b03" version="1">Wild Magic: Mass Friends</content>
+	<content contentuid="h5135c313g3d35g44feg9dd7g2ad2c7100a19" version="1">All non-hostile creatures have the spell Friends cast on them. This spell lasts for 10 minutes.</content>
+	<content contentuid="hff27b4e9g8443g4ba3gb329g4ef6e4a3f4ff" version="1">Wild Magic: Headache</content>
+	<content contentuid="he0abb2f8g85f1g413cg9f2cg04bff64ea62d" version="1">A distracting headache is making it difficult to think clearly. Your Intelligence is reduced by 2. This condition is removed after a long rest.</content>
+	<content contentuid="hed17e543gae20g4002gb0cag3a43490be0eb" version="1">Wild Magic: Refreshed Spells</content>
+	<content contentuid="h2c8fb7e6g5e3ag42ecg8c72gd34ca4d22360" version="1">You regain all of your expended Level 1 spell slots.</content>
+	<content contentuid="hadc7ecaeg7e3cg4986g8bf2g858698733ad0" version="1">Wild Magic: Curse of Glow</content>
+	<content contentuid="hd592c195gb5bag4318ga644g44cdf94f4082" version="1">Your body starts to glow and emits a light that eliminates nearby darkness.</content>
+	<content contentuid="h26b423dfg3230g4348g862bge209d1143b93" version="1">Wild Surge: Lightning Storm</content>
+	<content contentuid="hfbdf6b6ag6cc3g4b2cg8c33ged5d5cdd0aa5" version="1">Lightning strikes! All creatures (except yourself) in a 15 foot radius take 2d10 lightning damage. Creatures that succeed a dexterity saving throw take half damage.</content>
+	<content contentuid="h8e0a69beg9407g4d92g93b9gc9cb1abfa3a1" version="1">Wild Magic: Boo!</content>
+	<content contentuid="he785d177ga961g4d45g81e3g2f46d90b3265" version="1">You are Frightened for 2 turns.</content>
+	<content contentuid="hea1057a7g2187g478fg8c1bg0a778e311b16" version="1">Wild Magic: Mass Invisibility</content>
+	<content contentuid="hc9c22c96g22e1g42f6g8332g82d07dc28fca" version="1">Every creature in a 30 foot radius becomes invisible.</content>
+	<content contentuid="h0770341fgf3b5g474agb79eg50437cff5d9d" version="1">Wild Magic: Stone Skin</content>
+	<content contentuid="he9fe17feg7c70g43b0g8053gad3c48e11027" version="1">For one minute, you are resistant to all physical damage.</content>
+	<content contentuid="h18b28b83g364bg432cg8195g8e1c56897aeb" version="1">Wild Magic: Mass Poison</content>
+	<content contentuid="hbd75a48ag1c25g466fg9844g737489aece00" version="1">All creature (except yourself) in a 60 foot radius must succeed on a Constitution saving throw or becomed Poisoned for 2 turns.</content>
+	<content contentuid="h635be352g248eg4e05g918dg4dab3ecdc9cc" version="1">Wild Magic: Blinding Glow</content>
+	<content contentuid="h33d9ffdagd1feg4156gbf00g14484a94490e" version="1">You glow brightly in a 30 foot radius. Any enemy that is within 10 foot will be blinded. Blinded creatures must roll a Constitution saving throw to remove this condition.</content>
+	<content contentuid="h61399f07g96e6g4496g8c64g37a279f5d24b" version="1">Wild Magic: Polymorphed!</content>
+	<content contentuid="hcdd3fc38g843bg4affg85ceg6793ea6e91aa" version="1">You become a sheep for 5 turns.</content>
+	<content contentuid="hc3c47eb0g6d41g4c1bgb350gbe31498d9ded" version="1">Wild Magic: SUMMON OWLBEAR!</content>
+	<content contentuid="h1e49c099g333ag4704g882cg24d5a9b5918c" version="1">You summon a hostile Owlbear.</content>
+	<content contentuid="hf594e45fg62cfg41a8g9df8g68f3cb7c0580" version="1">Wild Magic: Minor Illusion</content>
+	<content contentuid="hd62978c0ga62eg4077ga8fcgd5cc704a3ade" version="1">You summon a minor illusion that lasts for one minute</content>
+	<content contentuid="hc627715bg375cg490agb9abgd0d94e7c77f8" version="1">Wild Action: Unkillable Enemies</content>
+	<content contentuid="h4f90de5fg5775g440cga64fg1cc40cfc0f40" version="1">All hostile enemies in a 60 foot radius gain the Death Ward condition. On a lethal hit, they survive with 1 hitpoint remaining.</content>
+	<content contentuid="hf5ec5361g2829g415bgaab1g2d3c105c3f86" version="1">Wild Magic: Mass Drain Life</content>
+	<content contentuid="h30ce7caegdf92g43a2gabb9gcc7e4cf72894" version="1">All creatures (except yourself) take 1d10 necrotic damage, or take half as much damage with a successful Constitution saving throw. You regain half of all damage dealt.</content>
+	<content contentuid="h9d39b446gf757g4d8egbcc2g59cfcebda92e" version="1">Wild Magic: Mirror Image</content>
+	<content contentuid="ha8251faagaf08g4d22g9984g10d8d08d9abe" version="1">You cast Mirror Image on yourself.</content>
+	<content contentuid="h410dadfcg75b8g4c87g8b7ag33ac5b200344" version="1">Wild Magic: Mass Flight</content>
+	<content contentuid="h05662085gcb91g4819g978egec7547e71065" version="1">All creatures in a 30 foot radius gain the ability to fly.</content>
+	<content contentuid="h0b7e918fg2085g49f8ga10bg3e920186f8df" version="1">Wild Magic: Invisibility</content>
+	<content contentuid="h0f0a4881gc2b4g4adbg85d7ge53653b049f2" version="1">You cast Invisibility on yourself. Invisibility ends early if you attack, cast another spell, interact with an object, take an action or bonus action, or are damaged.</content>
+	<content contentuid="h9a70aea9g94eag41aeg9ccfg8176b30a718e" version="1">Wild Magic: Revivify</content>
+	<content contentuid="h227019eegbc97g47b0gb658gc08c1b2f88e2" version="1">You are able to use Revivify until your next long rest.</content>
+	<content contentuid="ha0892563g39deg4279g932ag096b41826470" version="1">Wild Magic: Big!</content>
+	<content contentuid="h8c753680gd540g4f50g82b8g10a0fcd88777" version="1">For one minute all creatures (including yourself) gain the Enlarged condition. While Enlarged, entities have advantage on Strength Checks and Saving Throws and weapons deal an extra 1d4 damage.</content>
+	<content contentuid="hdd477f8dg6cc0g4e73g94a6g0340f455bb0a" version="1">Wild Magic: Small!</content>
+	<content contentuid="ha04010f6g2b8bg4283g9e74gbf2413bcca46" version="1">For one minute all creatures (including yourself) in a 30 foot radius gain the Reduced condition. While Reduced, entities have disadvantage on Strength Checks and Saving Throws and weapons deal 1d4 less damage.</content>
+	<content contentuid="hc22ea02bg569ag4107g9804g6cdc415df479" version="1">Wild Magic: Piercing Vulnerability</content>
+	<content contentuid="h0493b45cg81b8g4cb4g8f0eg75eab21831af" version="1">All creatures (including yourself) in a 30 foot radius are vulnerable to piercing damage for one minute.</content>
+	<content contentuid="h4173de9fg48e3g4be2gbf18gdcff80130af5" version="1">Wild Magic: Curse of Clown</content>
+	<content contentuid="h6f15d734gf14fg4705gb80dg2be3ec46c2f5" version="1">You are cursed to become a clown. You gain +1 Charisma (up to a maximum 20) and have immunity to Tasha's Hideous Laughter.</content>
+	<content contentuid="hf32dd49ag3bf9g41eeg9612g12514d163a86" version="1">Wild Magic: Extra Action</content>
+	<content contentuid="ha09a82bbg2111g4022gaf2eg63a116174534" version="1">You gain another action for the duration of combat.</content>
+	<content contentuid="h92643d3dgf616g4e31g98fbg18382232049b" version="1">Wild Magic: Restore Rage Charges</content>
+	<content contentuid="h1d4c4de9gf7b4g40e6g91a9ga5ce37931846" version="1">You regain all expended Rage Charges.</content>
+	<content contentuid="h079da063gefc0g4f96g8587g108d54bf0776" version="1">Wild Magic: Mass Haste</content>
+	<content contentuid="hb27d159cg73a8g46b3gbc4dg98319450de11" version="1">You cast Haste on all creatures (except yourself) in a 30 foot radius.</content>
+	<content contentuid="h75fd44a4g3e85g49d2g8874gaf1f23101379" version="1">Wild Magic: Lock</content>
+	<content contentuid="h2bb4f6a5g0d54g4541g9776gbd07c8e2821b" version="1">You temporarily lock all doors and chests nearby in a 100 foot radius for one minute.</content>
+	<content contentuid="h4ce09e72gaae4g4038gbfe2ga5d91b4a8d3e" version="1">Wild Magic: Unlock</content>
+	<content contentuid="hc3d350e5gb485g4f30ga08ag44a6f71bf691" version="1">You unlock all nonmagical locks in a 100 foot radius.</content>
+	<content contentuid="h4859c7d0g71b5g4354gacfbgb4b59782595a" version="1">Wild Magic: Summon Menagerie</content>
+	<content contentuid="h56291947g6bc6g4f52gb671g27bdadfc067c" version="1">For one minute, you enjoy the company of a menagerie of familiars.</content>
+	<content contentuid="heac65eb1g6c26g4dccg929bgab36f66b5342" version="1">Wild Magic: Critical Hits</content>
+	<content contentuid="h143abd74gb6d8g4da4g8e8eg1738fc211525" version="1">For the next 3 turns, all of your attack rolls are critical.</content>
+	<content contentuid="hce512b66gfc3ag4564ga1f9gfd6addde2c50" version="1">Wild Magic: Mind Readers</content>
+	<content contentuid="h0ab4270dge7aag420egb377ge5f968180bb8" version="1">You are able to read minds and gain access to the spell Detect Thoughts. Others are able to read your mind as well. You have disadvantage on all Charisma based skill checks. This condition is removed after a long rest.</content>
+	<content contentuid="h54c063dcg4a11g422ag9ceegd35910dd1468" version="1">Wild Magic: Random Vulnerability</content>
+	<content contentuid="h61dbe862g0270g4cbdgb81dg5ff6879866c8" version="1">At the start of your next turn, all creatures in a 30 foot radius will become vulnerable to a random damage type. This condition will last for one minute.</content>
+	<content contentuid="hd8badec2ga2c1g4ff5gaa25g9593017daef2" version="1">Wild Magic: Acid Vulnerability</content>
+	<content contentuid="h234e177bg4b84g43f3g97d5ga0651080933e" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Acid.</content>
+	<content contentuid="h3c7018bbg2a30g49d2gbfabgd8b402e43e59" version="1">Wild Magic: Cold Vulnerability</content>
+	<content contentuid="hd11bd5b6g9e59g4674gb204g4f03e050062a" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Cold.</content>
+	<content contentuid="h47902995gb0a3g43a7g9072gba43bbc3f926" version="1">Wild Magic: Fire Vulnerability</content>
+	<content contentuid="h7d055b73g2565g405eg9fd2g53cfcf6a0767" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Fire.</content>
+	<content contentuid="h4102e7efgc7a1g4e4ag92d1gbbe928d97e5b" version="1">Wild Magic: Force Vulnerability</content>
+	<content contentuid="hdfe33188g6a57g4eb6gb60fg85ea18fb6e30" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Force.</content>
+	<content contentuid="hc824d8f5g492eg445eg8086g1b9bd365574c" version="1">Wild Magic: Lightning Vulnerability</content>
+	<content contentuid="hcd5a18e9gb2feg4330g83beg7691d269eb6f" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Lightning.</content>
+	<content contentuid="h22213c6fgf5a8g44b4g9efbge1b7b819fc65" version="1">Wild Magic: Necrotic Vulnerability</content>
+	<content contentuid="ha58a789bg3b1ag4b37g9c43gb4acbbdb504d" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Necrotic Damage.</content>
+	<content contentuid="h87c3d412g16b5g487eg8f67ge3c019a177c1" version="1">Wild Magic: Explosive Spells</content>
+	<content contentuid="hcd33ecffg5824g440eg9b73g3a62a25d7adf" version="1">When you cast a spell of 1st level or higher, you deal 1d6 fire damage in a 10 foot radius around the target. Targets that succeed a dexterity saving throw take half damage. For a spell of first level or higher, add a additional 1d6.</content>
+	<content contentuid="h05c827fdge983g40c4g984ag49cc53afe4af" version="1">Wild Magic: Petrified!</content>
+	<content contentuid="h680c08e8g78edg4357gbeeeg833658ee96ff" version="1">You are Petrified for 3 turns.</content>
+	<content contentuid="hd7e7bb11g794bg45c1gb5f7gf91c80935413" version="1">Wild Magic: Full Heal</content>
+	<content contentuid="h33e3e563gd277g449dg9bd7g7f75fa3091e9" version="1">The next time you are healed, you regain full health.</content>
+	<content contentuid="h62904523g6971g40abg9925g26118ab4ba26" version="1">Wild Magic: Burning Greed</content>
+	<content contentuid="h232637f8g7969g4461gb6d2g54207b367ab4" version="1">For every 500 gold you have in your inventory, you take 1d6 fire damage.</content>
+	<content contentuid="h3925993fg85d1g4331g90a4g461979556c4f" version="1">Percy the Pacifist</content>
+	<content contentuid="h5477e1bcg2beeg4392g9d82g24bccc2c1977" version="1">Wild Magic: Summon Percy</content>
+	<content contentuid="h49ff3e9eg797ag4aaeg9926gffbcb868fec8" version="1">You summon Percy, the Pacifist Kobold. Percy will help you, but will not attack. Percy knows the spells Sanctuary, Heroism, Healing Word and Resistance.</content>
+	<content contentuid="hd30a5878gf201g4d41gbb2dg3fe7f02a7bc2" version="1">Curse of Pacifism</content>
+	<content contentuid="h26e32719gc0bcg4b3dgaaadg215feeca0781" version="1">If this creature attacks another creature, they explode in a 20 foot radius and take 8d4+36 Force Damage. Creatures that succeed a dexterity saving throw take half damage.</content>
+	<content contentuid="heb9035b3g9259g431eg9f7cg7da539507ad2" version="1">Wild Magic: Mass Fear</content>
+	<content contentuid="hc3ae5ae5gaabcg4e81gae2egb24c2fb0769e" version="1">All creatures in a 30 foot radius that fail a Wisdom saving throw become fearful of you and drop their weapons.</content>
+	<content contentuid="h5fdf28c7g7ff9g47f1g996cg35738bcf78b1" version="1">Wild Magic: CRAAAAAAB!</content>
+	<content contentuid="hb46a9d43gbca6g4a60gbf7cg7d938268a522" version="1">You summon six hostile crabs.</content>
+	<content contentuid="h91db38b3g615cg4ca2g8b66gbadb8f63d04f" version="1">Bob the Friendly Zombie</content>
+	<content contentuid="hb9d8d168ge4bcg404bg973fgda138e203c65" version="1">Wild Magic: Summon Bob</content>
+	<content contentuid="hdaa1adcag2440g48dfg9690g7e33f7be3629" version="1">Summon Bob the Friendly Zombie</content>
+	<content contentuid="h3dd6c250g7282g4c75g82f2g6adb440b07f6" version="1">Wild Magic: Curse of Vampirism</content>
+	<content contentuid="h4b259ecegc5e6g4197gae35g6115b3a624c5" version="1">You are cursed with Vampirism! You gain access to Bite, Claws, and Charm Person. Your Charisma increases by 1 (up to a maximum 20).</content>
+	<content contentuid="h4ef0326ega53dg40c9g8951g1ded06cafc61" version="1">Wild Magic: Gaseous Form!</content>
+	<content contentuid="hdb0a5f58gf5fdg49c7ga6a0g834909d91b42" version="1">You transform into a cloud of mist for 3 turns.</content>
+	<content contentuid="h96542399g5b23g4ed4gbf14g2a7fef69d0d4" version="1">Wild Magic: Rain</content>
+	<content contentuid="hf14032dbgab3dg4b5aga1adg11759c6aee7f" version="1">A rainstorm starts above you; Anything underneath the storm becomes wet.</content>
+	<content contentuid="hee189839g345bg4e0ag8988g0bf877c88bd5" version="1">Wild Magic: Burning Immunity</content>
+	<content contentuid="h078599cegdc3eg41ddg9655gc045b4a6134b" version="1">You become immune to fire for one minute. You are also on fire for one minute. You can not put out this fire.</content>
+	<content contentuid="h90f6790dg4954g495cg825agba7697f84350" version="1">Wild Magic: Storm Sorcerer</content>
+	<content contentuid="h6510128eg6981g4acdga703g0e474b9f2426" version="1">You temporarily gain the powers of a Storm Sorcerer. You have access to the spells Thunderwave, Create or Destroy Water, Gust of Wind, Sleet Storm, and Call Lightning, and gain the passive Heart of the Storm. This condition is removed after 1 minute.</content>
+	<content contentuid="h303f9042g94bdg4352gafd8g8f3beb76fcc0" version="1">Wild Magic: Random Ability Decrease</content>
+	<content contentuid="hf81cfbcag26edg4a3ag87b6g5a8731113f11" version="1">At the start of your next turn, one of your Abilities will be reduced by 5 for one minute.</content>
+	<content contentuid="ha250fc38gf3c3g477ag8589g2f851f327a8e" version="1">Wild Magic: Strength Descrease</content>
+	<content contentuid="h3d3b1a5eg9e2cg40b5gb2abg78d34d0a2e7b" version="1">Your Strength has been decreased by 5 for one minute.</content>
+	<content contentuid="hf1ebb6c4g2351g43e0g91abgcbe44fbc4729" version="1">Wild Magic: Dexterity Descrease</content>
+	<content contentuid="hc39e9e1bga07cg49bfga47egfc34d74e8d6e" version="1">Your Dexterity has been decreased by 5 for one minute.</content>
+	<content contentuid="hf78e33c7g8e61g427cgbedag7c6a629ff15f" version="1">Wild Magic: Constitution Descrease</content>
+	<content contentuid="h0889206bg5d9dg44a8g94b6g2b2e85f1ae73" version="1">Your Constitution has been decreased by 5 for one minute.</content>
+	<content contentuid="h30610ba6g9610g4f71g9fa5g0762450174a8" version="1">Wild Magic: Intelligence Descrease</content>
+	<content contentuid="h985e48c6g33ecg452agbffdg4cd3dcfdebff" version="1">Your Intelligence has been decreased by 5 for one minute.</content>
+	<content contentuid="h4e26e25fg53c3g4f14gbd81ga35b37dc6cd2" version="1">Wild Magic: Wisdom Descrease</content>
+	<content contentuid="h4c05afa4g7da5g4039g957cgd69a5277f512" version="1">Your Wisdom has been decreased by 5 for one minute.</content>
+	<content contentuid="h14f4a40ag2f6ag4ad0gadf7gfb8d3a61ecce" version="1">Wild Magic: Charisma Descrease</content>
+	<content contentuid="hb79b9015ga15ag4d4dg9a9ag0dabcb420c3d" version="1">Your Charisma has been decreased by 5 for one minute.</content>
+	<content contentuid="hdb2822d9g117eg46eagb7dfg5ff96d25714d" version="1">Wild Magic: Random Ability Increase</content>
+	<content contentuid="hfdcaa77eg0c3ag443agb000gd5183ed79ba7" version="1">At the start of your next turn, one of your Abilities will be increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="hd9dea46fg4bd5g4219g9504gfb803fb74bc0" version="1">Wild Magic: Strength Increase</content>
+	<content contentuid="hc3603da8ga22ag4f24g8498g237062048ff0" version="1">Your Strength has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="h3ad59a97gb68dg4638ga9f0g2168781c9f42" version="1">Wild Magic: Dexterity Increase</content>
+	<content contentuid="hfbe3d425g142cg4661gb8c5g19df0bddb423" version="1">Your Dexterity has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="hecf1a30dgff42g4c94g89dcg916c5c05ad75" version="1">Wild Magic: Constitution Increase</content>
+	<content contentuid="h11da151eg5e5bg4c81g81f7g5238de7dac6b" version="1">Your Constitution has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="hdda12813g4973g4588gaf2eg4e6da4c6cbde" version="1">Wild Magic: Intelligence Increase</content>
+	<content contentuid="hab8226c3g0539g4bccg8e67g3cd8a2afdd42" version="1">Your Intelligence has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="hc8c59cd3g831dg4a01g920bg0f77b7b05ce6" version="1">Wild Magic: Wisdom Increase</content>
+	<content contentuid="ha094edf0gb23fg4fbfg964bgbad024644e68" version="1">Your Wisdom has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="h86b7dc2fg5815g4e51g80f5gcddac49673af" version="1">Wild Magic: Charisma Increase</content>
+	<content contentuid="h85ce912egcb61g4ef9gbd1bg557bb1070952" version="1">Your Charisma has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="h42f983c0gb822g4e2fgb676gde6d7bb6ac65" version="1">Wild Magic: Disarm All</content>
+	<content contentuid="h8db57b44g68b2g4662g8412g33bc3f4596e4" version="1">All creatures (except yourself) in a 30 foot radius drop their weapons.</content>
+	<content contentuid="h47edfa3agbecdg47bfga79dg52f8f8b40092" version="1">Wild Magic: Mass Charm</content>
+	<content contentuid="haef061d9g4e9ag44a6g98d8g3b66140cb3f0" version="1">All enemies in a 30 foot radius must succeed a Wisdom saving throw or be charmed by you for the next 2 turns.</content>
+	<content contentuid="hafc0214fg3285g4badg86aagbcb2c75a3340" version="1">Wild Magic: Pick Me Up</content>
+	<content contentuid="h29c3d530gbec7g4970g8299g8d38b80183d7" version="1">All downed allies in a 60 foot radius regain 1 health.</content>
+	<content contentuid="hbe2ddba7ge3e1g489bga00fg9bb965c0af7d" version="1">Wild Magic: Freedom of Movement</content>
+	<content contentuid="he76f60c1ga743g4305g9ff8gf31edc021f21" version="1">All creatures (including yourself) in a 30 foot radius are under the Freedom of Movement condition for one minute.</content>
+	<content contentuid="h8de7f753ga4b0g4da6g9af1gea2ff5fc6a90" version="1">Wild Magic: Unstable Blood</content>
+	<content contentuid="hfb83217ag0225g431cgbffcg46b86f4a5534" version="1">Your blood is highly flammable and will explode in contact with fire. This condition is removed after a long rest.</content>
+	<content contentuid="hdc8444afg5ec2g4f0dgb4c1g4389245f53e3" version="1">Wild Magic: Irresistible Dance</content>
+	<content contentuid="h49077960g29f6g43bfg928cgaac4afc17949" version="1">For one minute, all hostile enemies within a 30 foot radius are afflicted with Otto's Irresistible Dance. Creatures must succeed a Wisdom Saving Throw to remove this condition.</content>
+	<content contentuid="hf676a2c5g4a48g485fga880g7ecd74e34ff1" version="1">Wild Magic: Summmon Spectator?</content>
+	<content contentuid="h69705514g1f88g45c1gba3eg938bfcec0d8f" version="1">A friendly Spectator appears, and fights for you for one minute.</content>
+	<content contentuid="h2f4ef2bag3111g47c2gacceg786eba823e96" version="1">Wild Magic: Temporary Genius</content>
+	<content contentuid="h1204b74ag60f9g4bf2g93b2g678b73def751" version="1">You have temporarily increased your Intelligence by 4. Following a short rest, this benefit ends and your Intelligence is instead reduced by 2. Either condition is removed following a long rest.</content>
+	<content contentuid="he5ff3032g9865g4beag80daga34ea31003ef" version="1">Wild Magic: Armor Up</content>
+	<content contentuid="hdfb7dc65g7d05g4758ga05cgbb9d80b032f8" version="1">Gain 15 temporary hit points.</content>
+	<content contentuid="h9ffe782bg8cb3g46ddga572g46fce6860115" version="1">Wild Magic: Heroes Feast</content>
+	<content contentuid="hb3c9b438gbaeag436bg974agb891a62d439c" version="1">You cast the spell Heroes Feast.</content>
+	<content contentuid="h4f53ef0agf0bdg44e2ga34fgab03f455b631" version="1">Wild Magic: Wild Magic For All!</content>
+	<content contentuid="h215f8695g2b0dg4078gab84g018edf361e47" version="1">At the start of their next turn, all creatures (including yourself) trigger a random Wild Magic Surge.</content>
+	<content contentuid="h1ad96001g99cdg42d1g950bg16dff29f4bb9" version="1">Wild Magic: SHEEP!</content>
+	<content contentuid="h4d60c904gdd55g48d7gbd78g947dbeb691d2" version="1">All hostile enemies in a 60 foot radius are polymorphed into sheep.</content>
+	<content contentuid="" version="1">TEMPORARY</content>
+	<content contentuid="h0ca3e880gf148g47ddg8059g146b25c45142" version="1">Wild Magic: See Invisibility</content>
+	<content contentuid="h8b0fa402g1803g48cbg9454g1c4e820d5b9e" version="1">For the next minute, you can see invisible creatures and objects.</content>
+	<content contentuid="haa60422ag3390g4063ga55ag98a377fc8745" version="1">Wild Magic: Fireball</content>
+	<content contentuid="hc95fbaf4ge590g401fg9de7g32491ed652b2" version="1">You cast fireball centered on yourself.</content>
+	<content contentuid="hab6f9152gb0b1g4ecbgb55egfebba7fceadf" version="1">Wild Magic: Forceful</content>
+	<content contentuid="hbd92e037g06bdg435bg985cgbf5102bfb584" version="1">When you cast a spell of first level or higher, add 1d4 force damage to the damage roll. For a spell of first level or higher, add a additional 1d4. This effect lasts for 3 turns.</content>
+	<content contentuid="h3772a1b3g6790g4e2bg8c0fgab7e2b2a2d3e" version="1">Wild Magic: CHEESE!</content>
+	<content contentuid="h6046091dgd3d3g4752gb892gb1dbf7872720" version="1">You are polymorphed into cheese. You revert to your original form after 1 minute, or when reduced to 0 hit points.</content>
+	<content contentuid="h876c31e9g7ae8g4cc8g86b0g4c4e46ae9a3f" version="1">Wild Magic: Confused!</content>
+	<content contentuid="hd1132142g6bceg41e3g9bc6g06b02345a8d3" version="1">Afflicted with confusion. You are hostile to everyone, wander around aimlessly, and occasionally skip your turn. A successful Wisdom Saving Throw removes this condition.</content>
+	<content contentuid="h9a9a1fe3gd042g4711gb628g624b5ea75b15" version="1">Wild Magic: Dependable Healing</content>
+	<content contentuid="hd20da198g8867g4098g9d01gb619dcd6e099" version="1">For one minute, you regain 5 hit points at the start of your turn.</content>
+	<content contentuid="he1742bddg42a5g49e3g96c0g18ab13b948db" version="1">Wild Magic: Incapacitated!</content>
+	<content contentuid="he2198ab3g189fg417ag88cag40589a6b514e" version="1">You are incapactiated for this turn.</content>
+	<content contentuid="hc8b6c61dg8407g44fbgb305g1e8fadb580af" version="1">Wild Magic: Greased</content>
+	<content contentuid="h869e940ag37f9g4cc7g9eebg073cf5b91fa7" version="1">You cast Grease, centered on yourself.</content>
+	<content contentuid="h76393369g02b2g4952g8f71g642ec8f417b2" version="1">Wild Magic: Bad Saving Rolls</content>
+	<content contentuid="ha87ba250gf6bdg4037gb9f8g43440c304f7f" version="1">All creatures (except yourself) in a 30 foot radius have disadvantage on all saving throws for the next 3 turns.</content>
+	<content contentuid="h000dc1f6g519bg443ag8669g4f45067467e0" version="1">You have disadvantage on all saving throws.</content>
+	<content contentuid="h7292f61bg7ac3g4b67g8c51g0c1b3fe6966a" version="1">Wild Magic: Faerie Fire</content>
+	<content contentuid="h68551d16g7d6fg4fd3gba88g52e0d268b233" version="1">Cast Faerie Fire centered on yourself.</content>
+	<content contentuid="h180b683bg5b91g4c4fg9451gd283e64fdb2c" version="1">Wild Magic: SUMMON SPECTATOR!</content>
+	<content contentuid="h7e7787d3g92e6g4dc8g8d00g951d1d752611" version="1">You spawned a hostile Spectator!</content>
+	<content contentuid="h0ad08809gdcc2g4033g9402g1786f4038db2" version="1">Wild Magic: Mind Sanctuary</content>
+	<content contentuid="h4e77953fgd925g4246g8bfcg464f5ba925d5" version="1">You summon a Mind Sanctuary bubble centered on yourself and can use actions and bonus actions interchangeably. This effect lasts for 3 turns.</content>
+	<content contentuid="h5c58d200g24f2g4bc9gb212gd5be82c62271" version="1">Wild Magic: Curse of Truth</content>
+	<content contentuid="h1cfed470gbeb1g4242g8fb6gd666ed013245" version="1">You are compelled to always tell the truth. You have disadvantage on deception skill checks.</content>
+	<content contentuid="hd993f316g74d9g4111g8f22g620b729d16e5" version="1">Wild Magic: BANISHED!</content>
+	<content contentuid="h2cd863aagd55cg4f98g88e2ge04fcb83a2f8" version="1">You are banished to another plane of existence for 2 turns.</content>
+	<content contentuid="h3aaf2b53g7795g4fa1g9111gfe0a0f63d035" version="1">Wild Magic: Maximum Damage</content>
+	<content contentuid="hddbb66efg97deg41e4g8819gc09f2fc0c89d" version="1">The next spell that hits does maximum damage.</content>
+	<content contentuid="h5b4e767ag6647g4829ga608g8387c5ccca0d" version="1">Wild Magic: Static Shock</content>
+	<content contentuid="h97d9c295ge4cbg4fd4gbfdeg0298d2435981" version="1">You become charged with a massive amount of static electricity. When a creature hits you with a melee attack, you deal 1d6 lightning damage to them.</content>
+	<content contentuid="h0b736525g983ag4b79gb67bg891505c5b0fd" version="1">Wild Magic: Healed</content>
+	<content contentuid="hc9b75761gded7g4bfdg9ac0g511bd4bee937" version="1">You regain 2d10 hitpoints.</content>
+	<content contentuid="h8ceddebcg1127g4aacgb3f8ge3a469b362b8" version="1">Wild Magic: Charmed</content>
+	<content contentuid="hcb992cf1gecceg4910gad47g9ecc635c8d95" version="1">For one minute, any creature that hits you will be charmed for 2 turns.</content>
+	<content contentuid="hf6ecb730g2459g420fg9d6cg9e3702710ee8" version="1">Wild Magic: Push Back</content>
+	<content contentuid="hbbe8b0d4g11c4g4d29gbbdag7fe20c0d0d7a" version="1">For one minute, any creature that hits you with a melee attack is pushed back 10 foot.</content>
+	<content contentuid="h13b69f5eg6b07g426bgb644g82ab0cfe5b47" version="1">Wild Magic: Hearty</content>
+	<content contentuid="h4c704994g94bbg4b03g8562gae8d03f35ecc" version="1">You have advantage on all Constitution saving throws and ability checks. This condition is removed after a long rest.</content>
+	<content contentuid="hce5107adgc347g4887g80eag96e893dad0bc" version="1">Wild Magic: Mass Blink</content>
+	<content contentuid="hea33d07ag88d3g47dcgabcag4f7caf339f7b" version="1">For one minute, all allies (including yourself) in a 30 foot radius fall under the Blink condition.</content>
+	<content contentuid="h325abc74gb8d8g447ag9ddagab5694f20b03" version="1">Wild Magic: Mass Friends</content>
+	<content contentuid="h5135c313g3d35g44feg9dd7g2ad2c7100a19" version="1">All non-hostile creatures have the spell Friends cast on them. This spell lasts for 10 minutes.</content>
+	<content contentuid="hff27b4e9g8443g4ba3gb329g4ef6e4a3f4ff" version="1">Wild Magic: Headache</content>
+	<content contentuid="he0abb2f8g85f1g413cg9f2cg04bff64ea62d" version="1">A distracting headache is making it difficult to think clearly. Your Intelligence is reduced by 2. This condition is removed after a long rest.</content>
+	<content contentuid="hed17e543gae20g4002gb0cag3a43490be0eb" version="1">Wild Magic: Refreshed Spells</content>
+	<content contentuid="h2c8fb7e6g5e3ag42ecg8c72gd34ca4d22360" version="1">You regain all of your expended Level 1 spell slots.</content>
+	<content contentuid="hadc7ecaeg7e3cg4986g8bf2g858698733ad0" version="1">Wild Magic: Curse of Glow</content>
+	<content contentuid="hd592c195gb5bag4318ga644g44cdf94f4082" version="1">Your body starts to glow and emits a light that eliminates nearby darkness.</content>
+	<content contentuid="h26b423dfg3230g4348g862bge209d1143b93" version="1">Wild Surge: Lightning Storm</content>
+	<content contentuid="hfbdf6b6ag6cc3g4b2cg8c33ged5d5cdd0aa5" version="1">Lightning strikes! All creatures (except yourself) in a 15 foot radius take 2d10 lightning damage. Creatures that succeed a dexterity saving throw take half damage.</content>
+	<content contentuid="h8e0a69beg9407g4d92g93b9gc9cb1abfa3a1" version="1">Wild Magic: Boo!</content>
+	<content contentuid="he785d177ga961g4d45g81e3g2f46d90b3265" version="1">You are Frightened for 2 turns.</content>
+	<content contentuid="hea1057a7g2187g478fg8c1bg0a778e311b16" version="1">Wild Magic: Mass Invisibility</content>
+	<content contentuid="hc9c22c96g22e1g42f6g8332g82d07dc28fca" version="1">Every creature in a 30 foot radius becomes invisible.</content>
+	<content contentuid="h0770341fgf3b5g474agb79eg50437cff5d9d" version="1">Wild Magic: Stone Skin</content>
+	<content contentuid="he9fe17feg7c70g43b0g8053gad3c48e11027" version="1">For one minute, you are resistant to all physical damage.</content>
+	<content contentuid="h18b28b83g364bg432cg8195g8e1c56897aeb" version="1">Wild Magic: Mass Poison</content>
+	<content contentuid="hbd75a48ag1c25g466fg9844g737489aece00" version="1">All creature (except yourself) in a 60 foot radius must succeed on a Constitution saving throw or becomed Poisoned for 2 turns.</content>
+	<content contentuid="h635be352g248eg4e05g918dg4dab3ecdc9cc" version="1">Wild Magic: Blinding Glow</content>
+	<content contentuid="h33d9ffdagd1feg4156gbf00g14484a94490e" version="1">You glow brightly in a 30 foot radius. Any enemy that is within 10 foot will be blinded. Blinded creatures must roll a Constitution saving throw to remove this condition.</content>
+	<content contentuid="h61399f07g96e6g4496g8c64g37a279f5d24b" version="1">Wild Magic: Polymorphed!</content>
+	<content contentuid="hcdd3fc38g843bg4affg85ceg6793ea6e91aa" version="1">You become a sheep for 5 turns.</content>
+	<content contentuid="hc3c47eb0g6d41g4c1bgb350gbe31498d9ded" version="1">Wild Magic: SUMMON OWLBEAR!</content>
+	<content contentuid="h1e49c099g333ag4704g882cg24d5a9b5918c" version="1">You summon a hostile Owlbear.</content>
+	<content contentuid="hf594e45fg62cfg41a8g9df8g68f3cb7c0580" version="1">Wild Magic: Minor Illusion</content>
+	<content contentuid="hd62978c0ga62eg4077ga8fcgd5cc704a3ade" version="1">You summon a minor illusion that lasts for one minute</content>
+	<content contentuid="hc627715bg375cg490agb9abgd0d94e7c77f8" version="1">Wild Action: Unkillable Enemies</content>
+	<content contentuid="h4f90de5fg5775g440cga64fg1cc40cfc0f40" version="1">All hostile enemies in a 60 foot radius gain the Death Ward condition. On a lethal hit, they survive with 1 hitpoint remaining.</content>
+	<content contentuid="hf5ec5361g2829g415bgaab1g2d3c105c3f86" version="1">Wild Magic: Mass Drain Life</content>
+	<content contentuid="h30ce7caegdf92g43a2gabb9gcc7e4cf72894" version="1">All creatures (except yourself) take 1d10 necrotic damage, or take half as much damage with a successful Constitution saving throw. You regain half of all damage dealt.</content>
+	<content contentuid="h9d39b446gf757g4d8egbcc2g59cfcebda92e" version="1">Wild Magic: Mirror Image</content>
+	<content contentuid="ha8251faagaf08g4d22g9984g10d8d08d9abe" version="1">You cast Mirror Image on yourself.</content>
+	<content contentuid="h410dadfcg75b8g4c87g8b7ag33ac5b200344" version="1">Wild Magic: Mass Flight</content>
+	<content contentuid="h05662085gcb91g4819g978egec7547e71065" version="1">All creatures in a 30 foot radius gain the ability to fly.</content>
+	<content contentuid="h0b7e918fg2085g49f8ga10bg3e920186f8df" version="1">Wild Magic: Invisibility</content>
+	<content contentuid="h0f0a4881gc2b4g4adbg85d7ge53653b049f2" version="1">You cast Invisibility on yourself. Invisibility ends early if you attack, cast another spell, interact with an object, take an action or bonus action, or are damaged.</content>
+	<content contentuid="h9a70aea9g94eag41aeg9ccfg8176b30a718e" version="1">Wild Magic: Revivify</content>
+	<content contentuid="h227019eegbc97g47b0gb658gc08c1b2f88e2" version="1">You are able to use Revivify until your next long rest.</content>
+	<content contentuid="ha0892563g39deg4279g932ag096b41826470" version="1">Wild Magic: Big!</content>
+	<content contentuid="h8c753680gd540g4f50g82b8g10a0fcd88777" version="1">For one minute all creatures (including yourself) gain the Enlarged condition. While Enlarged, entities have advantage on Strength Checks and Saving Throws and weapons deal an extra 1d4 damage.</content>
+	<content contentuid="hdd477f8dg6cc0g4e73g94a6g0340f455bb0a" version="1">Wild Magic: Small!</content>
+	<content contentuid="ha04010f6g2b8bg4283g9e74gbf2413bcca46" version="1">For one minute all creatures (including yourself) in a 30 foot radius gain the Reduced condition. While Reduced, entities have disadvantage on Strength Checks and Saving Throws and weapons deal 1d4 less damage.</content>
+	<content contentuid="hc22ea02bg569ag4107g9804g6cdc415df479" version="1">Wild Magic: Piercing Vulnerability</content>
+	<content contentuid="h0493b45cg81b8g4cb4g8f0eg75eab21831af" version="1">All creatures (including yourself) in a 30 foot radius are vulnerable to piercing damage for one minute.</content>
+	<content contentuid="h4173de9fg48e3g4be2gbf18gdcff80130af5" version="1">Wild Magic: Curse of Clown</content>
+	<content contentuid="h6f15d734gf14fg4705gb80dg2be3ec46c2f5" version="1">You are cursed to become a clown. You gain +1 Charisma (up to a maximum 20) and have immunity to Tasha's Hideous Laughter.</content>
+	<content contentuid="hf32dd49ag3bf9g41eeg9612g12514d163a86" version="1">Wild Magic: Extra Action</content>
+	<content contentuid="ha09a82bbg2111g4022gaf2eg63a116174534" version="1">You gain another action for the duration of combat.</content>
+	<content contentuid="h1a0447aegc9c0g4021g9076gdea00309b55b" version="1">Wild Magic: Restore Sorcery Points</content>
+	<content contentuid="hfb9f1811gedc2g4687gb3a8gb3a1b896e164" version="1">You regain all expended Sorcery Points.</content>
+	<content contentuid="h079da063gefc0g4f96g8587g108d54bf0776" version="1">Wild Magic: Mass Haste</content>
+	<content contentuid="hb27d159cg73a8g46b3gbc4dg98319450de11" version="1">You cast Haste on all creatures (except yourself) in a 30 foot radius.</content>
+	<content contentuid="h75fd44a4g3e85g49d2g8874gaf1f23101379" version="1">Wild Magic: Lock</content>
+	<content contentuid="h2bb4f6a5g0d54g4541g9776gbd07c8e2821b" version="1">You temporarily lock all doors and chests nearby in a 100 foot radius for one minute.</content>
+	<content contentuid="h4ce09e72gaae4g4038gbfe2ga5d91b4a8d3e" version="1">Wild Magic: Unlock</content>
+	<content contentuid="hc3d350e5gb485g4f30ga08ag44a6f71bf691" version="1">You unlock all nonmagical locks in a 100 foot radius.</content>
+	<content contentuid="h4859c7d0g71b5g4354gacfbgb4b59782595a" version="1">Wild Magic: Summon Menagerie</content>
+	<content contentuid="h56291947g6bc6g4f52gb671g27bdadfc067c" version="1">For one minute, you enjoy the company of a menagerie of familiars.</content>
+	<content contentuid="heac65eb1g6c26g4dccg929bgab36f66b5342" version="1">Wild Magic: Critical Hits</content>
+	<content contentuid="h143abd74gb6d8g4da4g8e8eg1738fc211525" version="1">For the next 3 turns, all of your attack rolls are critical.</content>
+	<content contentuid="hce512b66gfc3ag4564ga1f9gfd6addde2c50" version="1">Wild Magic: Mind Readers</content>
+	<content contentuid="h0ab4270dge7aag420egb377ge5f968180bb8" version="1">You are able to read minds and gain access to the spell Detect Thoughts. Others are able to read your mind as well. You have disadvantage on all Charisma based skill checks. This condition is removed after a long rest.</content>
+	<content contentuid="h54c063dcg4a11g422ag9ceegd35910dd1468" version="1">Wild Magic: Random Vulnerability</content>
+	<content contentuid="h61dbe862g0270g4cbdgb81dg5ff6879866c8" version="1">At the start of your next turn, all creatures in a 30 foot radius will become vulnerable to a random damage type. This condition will last for one minute.</content>
+	<content contentuid="hd8badec2ga2c1g4ff5gaa25g9593017daef2" version="1">Wild Magic: Acid Vulnerability</content>
+	<content contentuid="h234e177bg4b84g43f3g97d5ga0651080933e" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Acid.</content>
+	<content contentuid="h3c7018bbg2a30g49d2gbfabgd8b402e43e59" version="1">Wild Magic: Cold Vulnerability</content>
+	<content contentuid="hd11bd5b6g9e59g4674gb204g4f03e050062a" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Cold.</content>
+	<content contentuid="h47902995gb0a3g43a7g9072gba43bbc3f926" version="1">Wild Magic: Fire Vulnerability</content>
+	<content contentuid="h7d055b73g2565g405eg9fd2g53cfcf6a0767" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Fire.</content>
+	<content contentuid="h4102e7efgc7a1g4e4ag92d1gbbe928d97e5b" version="1">Wild Magic: Force Vulnerability</content>
+	<content contentuid="hdfe33188g6a57g4eb6gb60fg85ea18fb6e30" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Force.</content>
+	<content contentuid="hc824d8f5g492eg445eg8086g1b9bd365574c" version="1">Wild Magic: Lightning Vulnerability</content>
+	<content contentuid="hcd5a18e9gb2feg4330g83beg7691d269eb6f" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Lightning.</content>
+	<content contentuid="h22213c6fgf5a8g44b4g9efbge1b7b819fc65" version="1">Wild Magic: Necrotic Vulnerability</content>
+	<content contentuid="ha58a789bg3b1ag4b37g9c43gb4acbbdb504d" version="1">For one minute, all creatures in a 30 foot radius are vulnerable to Necrotic Damage.</content>
+	<content contentuid="h87c3d412g16b5g487eg8f67ge3c019a177c1" version="1">Wild Magic: Explosive Spells</content>
+	<content contentuid="hcd33ecffg5824g440eg9b73g3a62a25d7adf" version="1">When you cast a spell of 1st level or higher, you deal 1d6 fire damage in a 10 foot radius around the target. Targets that succeed a dexterity saving throw take half damage. For a spell of first level or higher, add a additional 1d6.</content>
+	<content contentuid="h05c827fdge983g40c4g984ag49cc53afe4af" version="1">Wild Magic: Petrified!</content>
+	<content contentuid="h680c08e8g78edg4357gbeeeg833658ee96ff" version="1">You are Petrified for 3 turns.</content>
+	<content contentuid="hd7e7bb11g794bg45c1gb5f7gf91c80935413" version="1">Wild Magic: Full Heal</content>
+	<content contentuid="h33e3e563gd277g449dg9bd7g7f75fa3091e9" version="1">The next time you are healed, you regain full health.</content>
+	<content contentuid="h62904523g6971g40abg9925g26118ab4ba26" version="1">Wild Magic: Burning Greed</content>
+	<content contentuid="h232637f8g7969g4461gb6d2g54207b367ab4" version="1">For every 500 gold you have in your inventory, you take 1d6 fire damage.</content>
+	<content contentuid="h3925993fg85d1g4331g90a4g461979556c4f" version="1">Percy the Pacifist</content>
+	<content contentuid="h5477e1bcg2beeg4392g9d82g24bccc2c1977" version="1">Wild Magic: Summon Percy</content>
+	<content contentuid="h49ff3e9eg797ag4aaeg9926gffbcb868fec8" version="1">You summon Percy, the Pacifist Kobold. Percy will help you, but will not attack. Percy knows the spells Sanctuary, Heroism, Healing Word and Resistance.</content>
+	<content contentuid="hd30a5878gf201g4d41gbb2dg3fe7f02a7bc2" version="1">Curse of Pacifism</content>
+	<content contentuid="h26e32719gc0bcg4b3dgaaadg215feeca0781" version="1">If this creature attacks another creature, they explode in a 20 foot radius and take 8d4+36 Force Damage. Creatures that succeed a dexterity saving throw take half damage.</content>
+	<content contentuid="heb9035b3g9259g431eg9f7cg7da539507ad2" version="1">Wild Magic: Mass Fear</content>
+	<content contentuid="hc3ae5ae5gaabcg4e81gae2egb24c2fb0769e" version="1">All creatures in a 30 foot radius that fail a Wisdom saving throw become fearful of you and drop their weapons.</content>
+	<content contentuid="h5fdf28c7g7ff9g47f1g996cg35738bcf78b1" version="1">Wild Magic: CRAAAAAAB!</content>
+	<content contentuid="hb46a9d43gbca6g4a60gbf7cg7d938268a522" version="1">You summon six hostile crabs.</content>
+	<content contentuid="h91db38b3g615cg4ca2g8b66gbadb8f63d04f" version="1">Bob the Friendly Zombie</content>
+	<content contentuid="hb9d8d168ge4bcg404bg973fgda138e203c65" version="1">Wild Magic: Summon Bob</content>
+	<content contentuid="hdaa1adcag2440g48dfg9690g7e33f7be3629" version="1">Summon Bob the Friendly Zombie</content>
+	<content contentuid="h3dd6c250g7282g4c75g82f2g6adb440b07f6" version="1">Wild Magic: Curse of Vampirism</content>
+	<content contentuid="h4b259ecegc5e6g4197gae35g6115b3a624c5" version="1">You are cursed with Vampirism! You gain access to Bite, Claws, and Charm Person. Your Charisma increases by 1 (up to a maximum 20).</content>
+	<content contentuid="h4ef0326ega53dg40c9g8951g1ded06cafc61" version="1">Wild Magic: Gaseous Form!</content>
+	<content contentuid="hdb0a5f58gf5fdg49c7ga6a0g834909d91b42" version="1">You transform into a cloud of mist for 3 turns.</content>
+	<content contentuid="h96542399g5b23g4ed4gbf14g2a7fef69d0d4" version="1">Wild Magic: Rain</content>
+	<content contentuid="hf14032dbgab3dg4b5aga1adg11759c6aee7f" version="1">A rainstorm starts above you; Anything underneath the storm becomes wet.</content>
+	<content contentuid="hee189839g345bg4e0ag8988g0bf877c88bd5" version="1">Wild Magic: Burning Immunity</content>
+	<content contentuid="h078599cegdc3eg41ddg9655gc045b4a6134b" version="1">You become immune to fire for one minute. You are also on fire for one minute. You can not put out this fire.</content>
+	<content contentuid="h90f6790dg4954g495cg825agba7697f84350" version="1">Wild Magic: Storm Sorcerer</content>
+	<content contentuid="h6510128eg6981g4acdga703g0e474b9f2426" version="1">You temporarily gain the powers of a Storm Sorcerer. You have access to the spells Thunderwave, Create or Destroy Water, Gust of Wind, Sleet Storm, and Call Lightning, and gain the passive Heart of the Storm. This condition is removed after 1 minute.</content>
+	<content contentuid="h303f9042g94bdg4352gafd8g8f3beb76fcc0" version="1">Wild Magic: Random Ability Decrease</content>
+	<content contentuid="hf81cfbcag26edg4a3ag87b6g5a8731113f11" version="1">At the start of your next turn, one of your Abilities will be reduced by 5 for one minute.</content>
+	<content contentuid="ha250fc38gf3c3g477ag8589g2f851f327a8e" version="1">Wild Magic: Strength Descrease</content>
+	<content contentuid="h3d3b1a5eg9e2cg40b5gb2abg78d34d0a2e7b" version="1">Your Strength has been decreased by 5 for one minute.</content>
+	<content contentuid="hf1ebb6c4g2351g43e0g91abgcbe44fbc4729" version="1">Wild Magic: Dexterity Descrease</content>
+	<content contentuid="hc39e9e1bga07cg49bfga47egfc34d74e8d6e" version="1">Your Dexterity has been decreased by 5 for one minute.</content>
+	<content contentuid="hf78e33c7g8e61g427cgbedag7c6a629ff15f" version="1">Wild Magic: Constitution Descrease</content>
+	<content contentuid="h0889206bg5d9dg44a8g94b6g2b2e85f1ae73" version="1">Your Constitution has been decreased by 5 for one minute.</content>
+	<content contentuid="h30610ba6g9610g4f71g9fa5g0762450174a8" version="1">Wild Magic: Intelligence Descrease</content>
+	<content contentuid="h985e48c6g33ecg452agbffdg4cd3dcfdebff" version="1">Your Intelligence has been decreased by 5 for one minute.</content>
+	<content contentuid="h4e26e25fg53c3g4f14gbd81ga35b37dc6cd2" version="1">Wild Magic: Wisdom Descrease</content>
+	<content contentuid="h4c05afa4g7da5g4039g957cgd69a5277f512" version="1">Your Wisdom has been decreased by 5 for one minute.</content>
+	<content contentuid="h14f4a40ag2f6ag4ad0gadf7gfb8d3a61ecce" version="1">Wild Magic: Charisma Descrease</content>
+	<content contentuid="hb79b9015ga15ag4d4dg9a9ag0dabcb420c3d" version="1">Your Charisma has been decreased by 5 for one minute.</content>
+	<content contentuid="hdb2822d9g117eg46eagb7dfg5ff96d25714d" version="1">Wild Magic: Random Ability Increase</content>
+	<content contentuid="hfdcaa77eg0c3ag443agb000gd5183ed79ba7" version="1">At the start of your next turn, one of your Abilities will be increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="hd9dea46fg4bd5g4219g9504gfb803fb74bc0" version="1">Wild Magic: Strength Increase</content>
+	<content contentuid="hc3603da8ga22ag4f24g8498g237062048ff0" version="1">Your Strength has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="h3ad59a97gb68dg4638ga9f0g2168781c9f42" version="1">Wild Magic: Dexterity Increase</content>
+	<content contentuid="hfbe3d425g142cg4661gb8c5g19df0bddb423" version="1">Your Dexterity has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="hecf1a30dgff42g4c94g89dcg916c5c05ad75" version="1">Wild Magic: Constitution Increase</content>
+	<content contentuid="h11da151eg5e5bg4c81g81f7g5238de7dac6b" version="1">Your Constitution has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="hdda12813g4973g4588gaf2eg4e6da4c6cbde" version="1">Wild Magic: Intelligence Increase</content>
+	<content contentuid="hab8226c3g0539g4bccg8e67g3cd8a2afdd42" version="1">Your Intelligence has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="hc8c59cd3g831dg4a01g920bg0f77b7b05ce6" version="1">Wild Magic: Wisdom Increase</content>
+	<content contentuid="ha094edf0gb23fg4fbfg964bgbad024644e68" version="1">Your Wisdom has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="h86b7dc2fg5815g4e51g80f5gcddac49673af" version="1">Wild Magic: Charisma Increase</content>
+	<content contentuid="h85ce912egcb61g4ef9gbd1bg557bb1070952" version="1">Your Charisma has been increased by 5 (up to a maximum 20) for one minute.</content>
+	<content contentuid="h42f983c0gb822g4e2fgb676gde6d7bb6ac65" version="1">Wild Magic: Disarm All</content>
+	<content contentuid="h8db57b44g68b2g4662g8412g33bc3f4596e4" version="1">All creatures (except yourself) in a 30 foot radius drop their weapons.</content>
+	<content contentuid="h47edfa3agbecdg47bfga79dg52f8f8b40092" version="1">Wild Magic: Mass Charm</content>
+	<content contentuid="haef061d9g4e9ag44a6g98d8g3b66140cb3f0" version="1">All enemies in a 30 foot radius must succeed a Wisdom saving throw or be charmed by you for the next 2 turns.</content>
+	<content contentuid="hafc0214fg3285g4badg86aagbcb2c75a3340" version="1">Wild Magic: Pick Me Up</content>
+	<content contentuid="h29c3d530gbec7g4970g8299g8d38b80183d7" version="1">All downed allies in a 60 foot radius regain 1 health.</content>
+	<content contentuid="hbe2ddba7ge3e1g489bga00fg9bb965c0af7d" version="1">Wild Magic: Freedom of Movement</content>
+	<content contentuid="he76f60c1ga743g4305g9ff8gf31edc021f21" version="1">All creatures (including yourself) in a 30 foot radius are under the Freedom of Movement condition for one minute.</content>
+	<content contentuid="h8de7f753ga4b0g4da6g9af1gea2ff5fc6a90" version="1">Wild Magic: Unstable Blood</content>
+	<content contentuid="hfb83217ag0225g431cgbffcg46b86f4a5534" version="1">Your blood is highly flammable and will explode in contact with fire. This condition is removed after a long rest.</content>
+	<content contentuid="hdc8444afg5ec2g4f0dgb4c1g4389245f53e3" version="1">Wild Magic: Irresistible Dance</content>
+	<content contentuid="h49077960g29f6g43bfg928cgaac4afc17949" version="1">For one minute, all hostile enemies within a 30 foot radius are afflicted with Otto's Irresistible Dance. Creatures must succeed a Wisdom Saving Throw to remove this condition.</content>
+	<content contentuid="hf676a2c5g4a48g485fga880g7ecd74e34ff1" version="1">Wild Magic: Summmon Spectator?</content>
+	<content contentuid="h69705514g1f88g45c1gba3eg938bfcec0d8f" version="1">A friendly Spectator appears, and fights for you for one minute.</content>
+	<content contentuid="h2f4ef2bag3111g47c2gacceg786eba823e96" version="1">Wild Magic: Temporary Genius</content>
+	<content contentuid="h1204b74ag60f9g4bf2g93b2g678b73def751" version="1">You have temporarily increased your Intelligence by 4. Following a short rest, this benefit ends and your Intelligence is instead reduced by 2. Either condition is removed following a long rest.</content>
+	<content contentuid="he5ff3032g9865g4beag80daga34ea31003ef" version="1">Wild Magic: Armor Up</content>
+	<content contentuid="hdfb7dc65g7d05g4758ga05cgbb9d80b032f8" version="1">Gain 15 temporary hit points.</content>
+	<content contentuid="h9ffe782bg8cb3g46ddga572g46fce6860115" version="1">Wild Magic: Heroes Feast</content>
+	<content contentuid="hb3c9b438gbaeag436bg974agb891a62d439c" version="1">You cast the spell Heroes Feast.</content>
+	<content contentuid="h4f53ef0agf0bdg44e2ga34fgab03f455b631" version="1">Wild Magic: Wild Magic For All!</content>
+	<content contentuid="h215f8695g2b0dg4078gab84g018edf361e47" version="1">At the start of their next turn, all creatures (including yourself) trigger a random Wild Magic Surge.</content>
+	<content contentuid="h1ad96001g99cdg42d1g950bg16dff29f4bb9" version="1">Wild Magic: SHEEP!</content>
+	<content contentuid="h4d60c904gdd55g48d7gbd78g947dbeb691d2" version="1">All hostile enemies in a 60 foot radius are polymorphed into sheep.</content>
+	<content contentuid="" version="1">TEMPORARY</content>
+	<content contentuid="h5bd6045fg7d6cg4330g803cg6affc234e3e3" version="1">Unfettered Gaze</content>
+	<content contentuid="h04d73c26g484ag4df4gaf4fga90410cbc3ef" version="1">The righteous blade of Helm, precisely where it belongs - buried through the chest of the wicked and the monstrous.</content>
+	<content contentuid="hbdd83f1fg8e9cg4fafgb86ag596db93fbcdf" version="1">Sorrowful Vigil</content>
+	<content contentuid="he88ee33bga360g4033g9f66g9bb67f734ac4" version="1">During the Time of Troubles, Helm was forced to slay the goddess Mystra as she tried to return home. Something in this sword's unrelenting line speaks to that grief - a duty completed, at any cost.</content>
+	<content contentuid="h88c090feg601fg4957g854egce328cee278b" version="1">Helm's Protection</content>
+	<content contentuid="h4d6a7f78g713ag4ebfg8360g9ec0bac88daf" version="1">Healing an ally grants them &lt;LSTag Type="Status" Tooltip="BLADE_WARD"&gt;Blade Ward&lt;/LSTag&gt; for 1 turn.</content>
+	<content contentuid="hfebb9e12gf55cg479dg83f8gd06127c1f962" version="1">Guardian's Will</content>
+	<content contentuid="h321e8eddg3384g4f8cg9088g1e21f99936ec" version="1">Landing an attack on a target heals allies for [1] in a [2] radius around you. This effect can only occur once per turn.</content>
+	<content contentuid="h618a39c1gc83eg4afcg8257g38fd76deba1f" version="1">Tearing The Weave</content>
+	<content contentuid="hee585df0g25c1g412dg84d4gfbdc30b31a36" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against spells. This weapon deals an additional [1] to targets &lt;LSTag Tooltip="Concentration"&gt;Concentrating&lt;/LSTag&gt; on a spell.</content>
+	<content contentuid="h55eba575g6c6bg419ag99a4ga13d54297960" version="1">Divine Vigilance</content>
+	<content contentuid="hd83228eagef0ag4a52gb1e1g7f9b3d4256fb" version="1">You gain a +3 bonus to Initiative Rolls and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="h392188ccgf2deg4103gbc0agaf0e489780f4" version="1">Scale Mail of the Unsleeping Eye</content>
+	<content contentuid="h440d63e5g9922g4fd6gb7dagea2b9e62ef4e" version="1">Gold embroidery covers the inside of the tabard, right over the heart: 'My vigil stands eternal.'</content>
+	<content contentuid="he5961cfag8438g4d37gb3b8g85562e96da0d" version="1">Mastercraft</content>
+	<content contentuid="h8c9fb6d7gd594g4a0dg8171gede849fa01d6" version="1">You take [1] less damage from all sources, and don't suffer a penalty to &lt;LSTag Tooltip="Stealth"&gt;Stealth Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="h48bb553ag0c92g4186ga9b2g0e9ccc6ed058" version="1">Helmite Vigilance</content>
+	<content contentuid="h2beee213g1bc0g401ag8974g7a08977d7cba" version="1">You gain a +[1] bonus to Initiative Rolls and can't be &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content>
+	<content contentuid="hf669f9c0gc193g4ea2ga887gbb7fbb542fe0" version="1">Faithguard</content>
+	<content contentuid="h05537877g5021g472dgbb5aga7e3c95f2f5a" version="1">You gain an additional +[1] to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; when &lt;LSTag Type="Status" Tooltip="SHIELD_OF_FAITH"&gt;Shield of Faith&lt;/LSTag&gt; is active.</content>
+	<content contentuid="h96487335ga28eg4d11ga040g3988f3187acc" version="1">Faithguard</content>
+	<content contentuid="h433f9e7cg1f4dg4680ga58ag1299b22eca8e" version="1">Entity has an additional +[1] to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; from &lt;LSTag Type="Status" Tooltip="SHIELD_OF_FAITH"&gt;Shield of Faith&lt;/LSTag&gt; being active.</content>
+	<content contentuid="h0b48e01agaabcg4290g8a7dg235b9f780634" version="1">War Caster</content>
+	<content contentuid="h72ef015ag83f0g463ag93eegbdd654211c39" version="1">War Caster (2014)</content>
+	<content contentuid="h38ecd31dgf4a3g48f2g8f4eg001116af57de" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; to maintain &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;You can also use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to cast a spell when a hostile creature's movement provokes an &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attack&lt;/LSTag&gt; from you.</content>
+	<content contentuid="hf988d1d2gb2a7g421fgacb3g87a2465dd2ff" version="1">War Caster: Opportunity Spell</content>
+	<content contentuid="h58912535g97fcg4ff8g8f2bg6208f7184e62" version="1">When a hostile creature's movement provokes an &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attack&lt;/LSTag&gt; from you, you can use your &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to cast a spell at the creature, rather than making an &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The spell must have a casting time of one &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; and must target only that creature.</content>
+	<content contentuid="h16aeee0dg9074g4f9bg9893g37487b8b2436" version="1">War Caster</content>
+	<content contentuid="hf1c82907gfd6ag4bf3g884eged5fae362817" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; to maintain &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;You can also use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to cast a spell at a target moving out of melee range.</content>
+	<content contentuid="h7753e74dg0587g48b5g9e88g7242d9f999c3" version="1">War Caster: Reactive Spell</content>
+	<content contentuid="hbcde4c69g7cf3g440dg9720g11b2d0757898" version="1">When a creature provokes an &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attack&lt;/LSTag&gt; from you by leaving your reach, you can take a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to cast a spell at the creature rather than making an &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The spell must have a casting time of one &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt;Action&lt;/LSTag&gt; and must target only that creature.</content>
+	<content contentuid="h851e0824g36e5g4b93ga076g0486984e27ec" version="1">Conjure [1] beam(s) that can push the target up to [2] away from you.</content>
+	<content contentuid="h3848747bg03a6g433bg979bg51e43d6e0fe9" version="1">Grasp of Hadar</content>
+	<content contentuid="hab491a1fgd2c1g48a3ga4a6g744965679c4b" version="1">Conjure [1] beam(s) that can pull the target up to [2] closer to you.</content>
+	<content contentuid="h3ea62a2fg1f53g4015g84b2g2cdf2f8e80ac" version="1">Can't be Blinded.</content>
+	<content contentuid="h8c963e9eg72adg4384g96c5g68e77d667f00" version="1">Can't be Polymorphed.</content>
+	<content contentuid="h7eda695bg8b94g469dgafe2gef6a75839fe6" version="1">Can't be Silenced.</content>
+	<content contentuid="h5b28d828gb39fg4d6dgbeb4g1c9b494d024e" version="1">&lt;b&gt;Requires Script Extender!&lt;/b&gt;&lt;br&gt;If already installed, enable its console and check for errors there.</content>
+	<content contentuid="hfdb75d02ge559g4937gb9d2gf23f636b52b1" version="1">Requires equipped polearm.</content>
+	<content contentuid="h3eb8deb9g4e97g4ad2gaebcg529d81f28951" version="1">Extra Reach weapon equipped.</content>
+	<content contentuid="h403dd495g9ec8g4269ga21fg251b37064112" version="1">Initialization failed or skipped.</content>
+	<content contentuid="h90480a70ge388g4634g99c0g3bd030201c35" version="1">Touch a creature within [1] and force them to make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. On a failed save, the &lt;LSTag Type="Status" Tooltip="VV_ASSASSINS_MARK"&gt;Mark of Death&lt;/LSTag&gt; is applied on them for 10 turns. Your attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against the marked creature and your &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt; against the marked creature deal an additional [2] damage.</content>
+	<content contentuid="h68b16d5bg49f1g4eeagb311ga57fe566450d" version="1">This creature has been marked for death. The caster who applied this mark has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;attacks&lt;/LSTag&gt; against the marked target and deals an additional [1] damage on &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt; against the marked target.</content>
+</contentList>

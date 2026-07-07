@@ -1,0 +1,77 @@
+// Adding level 7 scrolls to the regular vendor scroll treasure table
+// Adding it as a single new subtable because I don't think I can override the existing previous level 11+ subtable without overriding the entire treasure table.
+// Should be fine because I don't wanna edit that existing subtable anyway, and not adding higher than level 7 scrolls.
+new treasuretable "Supply_Scroll_Single"
+CanMerge 1
+new subtable "1,1"
+StartLevel "13"
+object category "MagicScroll_7",2,0,0,0,0,0,0,0
+
+// Adding one level 7 scroll to High Security Vault 9 (key from completing Return Ratakth's Gold/pickpocketed from him; vanilla reward is just Elegant Studded Leather)
+new treasuretable "LOW_CountingHouse_HighSecurityVault_9"
+CanMerge 1
+new subtable "1,1"
+object category "MagicScroll_7",1,0,0,0,0,0,0,0
+
+// Adding one each levels 7, 8 and 9 scrolls to High Security Vault 1 (key from display case in Ramazith's Tower)
+new treasuretable "LOW_CountingHouse_HighSecurityVault_9"
+CanMerge 1
+new subtable "1,1"
+object category "MagicScroll_7",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "MagicScroll_8",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "MagicScroll_9",1,0,0,0,0,0,0,0
+
+// Adding one level 7 OR 8 OR 9 scroll to chest upstairs in Devil's Fee (same location as Mask of Soul Perception)
+new treasuretable "LOW_DevilsFee_HelsikChest_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "MagicScroll_7",3,0,0,0,0,0,0,0
+object category "MagicScroll_8",2,0,0,0,0,0,0,0
+object category "MagicScroll_9",1,0,0,0,0,0,0,0
+
+// Adding one level 8 scroll to quest reward for Help the Hag Survivors
+new treasuretable "LOW_BreakHagHex_QuestReward"
+CanMerge 1
+new subtable "1,1"
+object category "MagicScroll_8",1,0,0,0,0,0,0,0
+
+// // ================================ Gear rebalance: changed drop locations ================================
+
+// Pelorsun Blade: moved from dirt mound in Cazador’s dungeon to Lann Tarv’s special stock. Replaced with a couple high level scrolls in the previous drop location 
+new treasuretable "I_MAG_LC_RadiantLight_Rapier"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_WYRM_UndeadProtector_Robe",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Cazador_Trapped_Coffin"
+CanMerge 1
+new subtable "2,1"
+object category "MagicScroll_7",2,0,0,0,0,0,0,0
+object category "MagicScroll_8",2,0,0,0,0,0,0,0
+object category "MagicScroll_9",1,0,0,0,0,0,0,0
+
+// The Pointy Hat: moved from chest behind Lucretious to chest in Arcane Tower that also drops Mage's Friend. Replaced with a level 7 scroll in the previous drop location
+new treasuretable "UND_Tower_RingArcana_Chest"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_Wizard_Pointy_Hat",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Circus_Ringmaster_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "MagicScroll_7",1,0,0,0,0,0,0,0
+
+// Veil of the Morning: moved from sold by Mystic Carrion to being rewarded for completing Rescue the Tieflings
+new treasuretable "HAV_SavingPrisoners_AlfirasReward"
+CanMerge 1
+new subtable "-1"
+object category "I_MAG_WYRM_UndeadProtector_Robe",1,0,0,0,0,0,0,0
+
+// Amulet of Elemental Torment: moved from being dropped by Hope (???) to being sold by Grat the Trader
+// Was originally sold by Grat the Trader (Goblin Camp), Brem (Zhentarim Basement), and Roah Moonglow (Shattered Sanctum), but was then moved to Hope's treasure table (not even her actual worn equipment) in Patch 3 for some reason
+new treasuretable "GOB_Festivities_Trader"
+CanMerge 1
+new subtable "-1"
+object category "I_UNI_MartyrAmulet",1,0,0,0,0,0,0,0

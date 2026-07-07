@@ -1,0 +1,46 @@
+// Hypnotic Gaze - was inheriting from the wrong spell, origninal instead of maintain
+new entry "Target_HypnoticGaze_Maintain"
+type "SpellData"
+data "SpellType" "Target"
+data "SpellProperties" "ApplyStatus(HYPNOTIC_GAZE,100,2);SetStatusDuration(SELF,HYPNOTIC_GAZE_OWNER,2)"
+data "TargetRadius" "9"
+data "TargetConditions" "HasStatus('HYPNOTIC_GAZE')"
+data "Icon" "Action_HypnoticGaze_Maintain"
+// Maintain Hypnotic Gaze
+data "DisplayName" "hc84cef23g0bd9g412aga696gc41b537118dd;1"
+// Maintain your Hypnotic Gaze to extend its duration.
+data "Description" "hdd89daabg6952g4611g8b38g93de6ffea7cd;1"
+data "TooltipStatusApply" "ApplyStatus(HYPNOTIC_GAZE,100,2)"
+data "CastSound" "Action_Cast_Wizard_MaintainHypnoticGaze"
+data "TargetSound" "Action_Impact_Wizard_MaintainHypnoticGaze"
+data "CastTextEvent" "Cast"
+data "UseCosts" "BonusActionPoint:1"
+data "SpellAnimation" "38155a3a-ccf2-4fd5-ad6a-76018d5de3ff,,;,,;2bac2431-3048-44e9-ad4a-ca4db0a63104,,;352ab1cc-249f-4d9e-9a42-58148d3658fe,,;4eccb2e2-c72f-4a51-8847-44e9a3d7a18e,,;,,;3faf1f38-612a-4c30-ba30-8d88d358c686,,;,,;,,"
+data "VerbalIntent" "Control"
+data "SpellStyleGroup" "Class"
+data "SpellFlags" "Temporary;IsMelee"
+data "HitAnimationType" "MagicalDamage_Psychic"
+data "PrepareEffect" "1d3235f3-5e0c-4dbe-b2d9-95c3ccf068d6"
+data "CastEffect" "238adc5b-64e5-474a-b5fa-c4c5d032a21b"
+data "FollowUpOriginalSpell" "Target_HypnoticGaze"
+
+// Holy Rebuke - tooltips not updated with new damage scaling
+new entry "Target_HolyRebuke"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_HolyRebuke"
+data "DescriptionParams" "DealDamage(LevelMapValue(D4Cantrip),Radiant)"
+
+new entry "HOLY_REBUKE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "HOLY_REBUKE"
+data "DescriptionParams" "DealDamage(LevelMapValue(D4Cantrip),Radiant)"
+
+new entry "Target_MotivationalSpeech"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MotivationalSpeech"
+// Three creatures in the area gain [1] and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. If hit by an attack, an affected creature has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on its next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; during combat.
+data "Description" "h38571638g79a7g4ae6g8380g34d54cf06253;1"
+data "AmountOfTargets" "3"

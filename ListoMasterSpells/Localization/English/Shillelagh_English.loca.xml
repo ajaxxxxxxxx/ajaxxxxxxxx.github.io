@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="ShillelaghSpellDescription" version="1">Your Clubs, Glaives, Greatclubs, Warhammers, Javelins, Maces, Morningstars, Pikes, Quarterstaffs, Sickles, Spears or Tridents becomes magical: they deal [1], and use your &amp;lt;LSTag Tooltip="SpellcastingAbilityModifier"&amp;gt;Spellcasting Ability&amp;lt;/LSTag&amp;gt; for &amp;lt;LSTag Tooltip="AttackRoll"&amp;gt;Attack Rolls&amp;lt;/LSTag&amp;gt;.</content>
+	<content contentuid="ShillelaghSpellDescription2" version="1">Your Club, Quarterstaff, Mace, Morningstar, Sickle, Spear, or Trident becomes magical: they deal [1], and add your &amp;lt;LSTag Tooltip="SpellcastingAbilityModifier"&amp;gt;Spellcasting Ability&amp;lt;/LSTag&amp;gt; for &amp;lt;LSTag Tooltip="AttackRoll"&amp;gt;Attack Rolls&amp;lt;/LSTag&amp;gt;.</content>
+	<content contentuid="ShillelaghSpellDescription3" version="1">Creature's weapon is magical and deals [1]. &amp;lt;LSTag Tooltip="AttackRoll"&amp;gt;Attack Rolls&amp;lt;/LSTag&amp;gt; add the wielder's &amp;lt;LSTag Tooltip="SpellcastingAbilityModifier"&amp;gt;Spellcasting Ability Modifier&amp;lt;/LSTag&amp;gt;.</content>
+	<content contentuid="ShillelaghSpellExDescription" version="1">Cast again to remove effect.</content>
+	<content contentuid="e506bdcd-34da-45b0-92d5-986ab9508298" version="1">Summoned Weapon</content>
+	<content contentuid="fbb12e75-efdf-4172-8c44-1ecb4bc5aaa4" version="1">Your summoned weapon uses your &amp;lt;LSTag Tooltip="SpellcastingAbilityModifier"&amp;gt;Spellcasting Ability&amp;lt;/LSTag&amp;gt; for &amp;lt;LSTag Tooltip="AttackRoll"&amp;gt;Attack Rolls&amp;lt;/LSTag&amp;gt;.</content>
+	<content contentuid="hfc7c6719gb5a3g4dc3g9650gae5329a1352a" version="1">Your hand becomes a necrotic weapon. Make a melee attack, and then until Long Rest, gain a Bonus Action attack that deals necrotic damage and saps life force to heal you for one-third of the damage done.</content>
+	<content contentuid="h0f0f3416g9a88g4472gb429g87cc36465066" version="1">Until Long Rest, you can use Vampiric Touch again as a Bonus Action.</content>
+	<content contentuid="h8b90e62egbf9ag4b6bgb9dcg0e321be019d1" version="1">Shield yourself with Necrotic energy. You gain Temporary Hitpoints and, as long as those Temporary Hitpoints remain, you gain resistance to Necrotic damage and Damage Reduction equal to half the level of the spell slot used, rounding up.</content>
+	<content contentuid="ha85c82ecg9857g4fe4g8ad7g13a8754524a7" version="1">A protective torrent provides +1 AC and resistance to Fire damage.</content>
+	<content contentuid="h17333006g3f7fg4fd5ga48ag573b7beaf655" version="1">Barkskin provides AC 16 protection, modest damage reduction, and Resistance to Bludgeoning damage.</content>
+	<content contentuid="h77af398dgc7cfg4a51ga7e3gbbff1cfb747e" version="1">Stoneskin provides AC 18 protection, improved damage reduction, and Resistance to Bludgeoning, Piercing, and Slashing damage.</content>
+	<content contentuid="hab6a28d0g4c28g49e0g92b2g6f0ffb4c4736" version="1">Shield of Faith protects a creature from harm. Increase AC by 1 and gain resistance to Radiant damage.</content>
+	<content contentuid="h0a32a7c2gbed5g4fb1gaffbg54f64b3d2542" version="1">Protected by Shield of Faith, increasing AC by 1 and resistance to Radiant damage.</content>
+</contentList>

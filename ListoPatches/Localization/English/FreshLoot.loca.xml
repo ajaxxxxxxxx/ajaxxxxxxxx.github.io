@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="b0d28022-de4a-4446-95b3-de816cce8aa9" version="1">Arcane Versatility</content>
+	<content contentuid="58a04ba7-4037-41af-a9f2-f0b23d8dd83e" version="1">You are proficient with this weapon and can use it with your Spellcasting Ability if it is higher than your Strength.</content>
+	<content contentuid="f55fe3a1-436b-426a-a750-ed65f1e0d576" version="1">Arcane Bound</content>
+	<content contentuid="12272f97-efec-4e5b-b70e-b61cf9b0d03e" version="1">Enchantments are unlocked based on the owner's proficiency bonus (which increases at character level 1, 5 and 9).</content>
+	<content contentuid="9000b5ee-3971-443b-809f-6bea97a2d031" version="1">As you grow more powerful, &lt;LSTag Type="Passive" Tooltip="MOD_ScalingWeapons_TOOLTIP_ONLY"&gt;so does this item&lt;/LSTag&gt;.</content>
+	<content contentuid="d099e92e-28ec-40aa-ae6e-8ee6e22fc3f4" version="1">Soiled</content>
+	<content contentuid="6330267b-09e1-4d7f-a66f-ea3f57b18426" version="1">Targets hit by this extremely unsanitary tool receive an additional [1].</content>
+	<content contentuid="403b197e-c21b-4685-a5d4-4d0cbc13898b" version="1">Apprentice Surgeon</content>
+	<content contentuid="780c1447-b882-4798-9b03-50e295c0e8e7" version="1">Unlocks &lt;LSTag Type="Spell" Tooltip="Target_MAG_Surgeon_Anaesthesia_extra"&gt;Anaesthesia&lt;/LSTag&gt; when wielded together with any other magical surgical weapons.</content>
+	<content contentuid="81d23d20-54f6-4cf0-a300-b48fd4453c80" version="1">Anaesthesia </content>
+	<content contentuid="70ea1dc8-3827-4df0-9584-be41dd77a7be" version="1">Time for your surgery!</content>
+	<content contentuid="279c7d96-6573-4756-bf70-0950a7159aa0" version="1">PoopBane</content>
+	<content contentuid="d291ea8e-3777-4f8a-8a61-42d4c70f5c95" version="1">Oozes have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the wielder.</content>
+	<content contentuid="27ffeca7-24f9-45cd-a165-6014b29e85a1" version="1">Smelly</content>
+	<content contentuid="74fea800-f321-4d09-92fd-3e27401bc119" version="1">It's hard to be discreet or charming when you smell like a latrine; Charisma -1, Stealth -2</content>
+	<content contentuid="38842e69-5a30-44ad-8800-7e19173cbc52" version="1">Dipped in poo</content>
+	<content contentuid="dd5fd476-d1d2-4b1e-a5b2-81192d03fdd7" version="1">Targets hit with this weapon might be &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt;.</content>
+	<content contentuid="45c6caa8-d8be-4b34-ab49-06e118121113" version="1">Dirty Cut</content>
+	<content contentuid="12cc59b3-8e5d-411d-971d-e72dde30035d" version="1">A strike that deals additional poison damage and has a chance to make your target &lt;LSTag Type="Status" Tooltip="STINKING_CLOUD"&gt;Nauseous&lt;/LSTag&gt;.</content>
+	<content contentuid="6042e4bc-b60a-46a0-a0d7-029732e3e005" version="1">Quick Draw</content>
+	<content contentuid="0ecf23ec-f2de-41ea-abfd-c2f2e98e2b0b" version="1">During the first turn of combat, if you are not dual-wielding, you can use a bonus action to make an attack.</content>
+	<content contentuid="747a5dcc-fe1f-422d-8e18-b477cc30a24a" version="1">Corellon Larethian's Wrath</content>
+	<content contentuid="571c8c15-8183-43b0-b94c-5c5e1a58f5c2" version="1">When the wielder is wearing Corellon's Wrath, this weapon gains +1 to Attack Rolls and grants True Strike at the start of combat.</content>
+	<content contentuid="9f8ef9e3-56c2-4748-bb69-89810bc7477c" version="1">Corellon's Wrath</content>
+	<content contentuid="4797f298-7082-4672-a73f-020a5257a78c" version="1">Lighter than most armour of its class yet providing similar protection, truly, Corellon would be proud.</content>
+	<content contentuid="399d56ed-53c9-4c00-a193-5e221dc4e03e" version="1">When the wearer is wielding Larethian's Wrath they gain &lt;LSTag Type="Spell" Tooltip="MOD_KatanaArmor_Target_CompelledDuel"&gt;Compelled Duel&lt;/LSTag&gt;.</content>
+	<content contentuid="f2be65cc-123a-4d28-85b0-fabc1a069297" version="1">Corellon's Gift</content>
+	<content contentuid="e051dd7f-d513-45bb-956c-f22ce4baa2af" version="1">Elves and Half-Elves are proficient with this armor.</content>
+	<content contentuid="41548589-e61c-4ba1-8941-941dc7d39748" version="1">Mom's Cleaver</content>
+	<content contentuid="7fa6efc5-258a-4133-b920-c9581f0e0f3b" version="1">Mom's good old cleaver.</content>
+	<content contentuid="c8a848b0-93f1-4adf-96c3-134ba803fcdb" version="1">Teamwork</content>
+	<content contentuid="60745e0a-8b7e-4cad-a545-b3c83d65fa52" version="1">Mom's Cleaver gets +1 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="c0f29b84-9b58-46a8-8a8b-29eb8070058c" version="1">Mom's Cleaver gains [1] but Dad's Axe curse is reduced to [2].</content>
+	<content contentuid="0c1cea20-3c10-483c-8e93-f65acbabece8" version="1">Chop-Chop</content>
+	<content contentuid="b0ee268e-9e4d-4068-9dda-3b814c4c19b4" version="1">Wielding a second axe gives Dad's Axe +1 to Attack Rolls.</content>
+	<content contentuid="ac51b560-b313-4d0f-a2cc-4c8571e78b48" version="1">Kitchen utensil</content>
+	<content contentuid="e536b85b-8032-45ec-ac39-aae3729ca48c" version="1">Unlocks &lt;LSTag Type="Passive" Tooltip="FightingStyle_TwoWeaponFighting"&gt;Two-Weapon Fighting&lt;/LSTag&gt;.</content>
+	<content contentuid="96295f59-fe29-47be-9de2-a40e759b1c83" version="1">Listen to your Mother</content>
+	<content contentuid="5e79a9b4-b668-4e5c-b61a-4f73d5ba4437" version="1">Wielding Mom's Cleaver together with Dad's Axe unlocks &lt;LSTag Type="Spell" Tooltip="MOD_Target_Command_Container"&gt;Mother's Orders&lt;/LSTag&gt;.</content>
+	<content contentuid="c35b7d15-18e9-4612-b49d-902ec8e6ece1" version="1">Mother's Orders</content>
+	<content contentuid="a730e5fb-5a9b-41ea-a136-926ff537c02c" version="1">Be a good kid and listen to your mother, especially when she calls you for diner or sends you to your room.</content>
+	<content contentuid="d6f29c75-b2ea-46c5-ae00-266531493c7d" version="1">DINER'S READY!</content>
+	<content contentuid="ba0d49e5-bcec-4d61-81b0-b2fd12bad33b" version="1">Diner's ready!</content>
+	<content contentuid="71226ea7-c365-454c-817f-d394dd416006" version="1">Stop playing that game you always play and come to diner now!</content>
+	<content contentuid="33a190aa-d3bd-4239-8110-07eb3c1635bd" version="1">DO NOT EAT THAT WORM!</content>
+	<content contentuid="15a6e1e6-e880-47ad-8e0e-e2c57ae3e888" version="1">GO TO YOUR ROOM!</content>
+	<content contentuid="f0c3d490-65a9-4c31-88a9-ef9534e0b0f1" version="1">Go to your room!</content>
+	<content contentuid="97094dc1-3ff0-41a3-baee-0a8544288166" version="1">You know what you did; don't even try to argue.</content>
+	<content contentuid="a1687ca5-920d-46af-aa05-86707ac39624" version="1">Dad's Punishment</content>
+	<content contentuid="c277bd90-3e95-473b-b5da-5f5e254d4e30" version="1">Wielding Dad's Axe together with Mom's Cleaver unlocks &lt;LSTag Type="Spell" Tooltip="MOD_Target_EnsnaringStrike_2"&gt;You're Grounded!&lt;/LSTag&gt;. </content>
+	<content contentuid="0ce98202-d781-4ad8-a9f6-9464f343fa34" version="1">You're Grounded!</content>
+	<content contentuid="7ba8e050-3310-4f83-b606-474f1bad1fe2" version="1">That should prevent you from sneaking out!</content>
+	<content contentuid="37975529-3084-45ec-b9a9-fe7dc824261f" version="1">YOU'RE GROUNDED!</content>
+	<content contentuid="adaa56d5-cc1c-409b-b227-496d9943fc9e" version="1">Shattered Greed</content>
+	<content contentuid="ae20ab48-c856-4cb9-afec-00dc23ca0f71" version="1">A Devil and his pet Warlock devised a ritual to steal the powers of a Great Old One. It went as well as one can imagine but, at least, the blade wasn't completely destroyed; unlike them.</content>
+	<content contentuid="d05f2af2-0dfd-45b3-a2bc-0260604123ff" version="1">Eldritch Surge</content>
+	<content contentuid="b2a41c68-738a-433b-839d-c78693231d86" version="1">Weapon attack that shoots a beam of crackling energy from your blade.</content>
+	<content contentuid="ddc30079-a1b2-48a4-b8a2-8847bf5ca79c" version="1">Improved Eldritch Surge</content>
+	<content contentuid="c6bb22b2-dd10-4d11-af89-34a59fe3678d" version="1">Increased range and the blast can now push the target.</content>
+	<content contentuid="dc50c3e7-1f40-468b-96a7-02c2ecd04ab1" version="1">Weapon attack that shoots a beam of crackling energy from your blade.</content>
+	<content contentuid="197eb153-91d5-40c9-ad25-a04bf63034b9" version="1">Level 1</content>
+	<content contentuid="c3bd2c7d-deac-44ea-b085-0d2098b92023" version="1">&lt;br&gt;&lt;LSTag Type="Passive" Tooltip="MOD_EvolvingBlade_HadarsBite_TOOLTIP_ONLY"&gt;Hadar's Bite&lt;/LSTag&gt;: Deals [1].&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="MOD_EldritchSurge_perShortRest"&gt;Eldritch Surge&lt;/LSTag&gt;.</content>
+	<content contentuid="a784a6da-0e99-483c-b2d5-74bdfcb3dd1a" version="1">Level 2</content>
+	<content contentuid="7b50cb0f-b882-4765-8115-8bc4cbfa85a7" version="1">&lt;br&gt;Enchantment +1.&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="MOD_Shout_ArmsOfHadar"&gt;Arms of Hadar&lt;/LSTag&gt;.</content>
+	<content contentuid="f5421df7-e6ac-4c77-8c09-ac4fb1145e40" version="1">Level 3</content>
+	<content contentuid="8b718728-95e0-46ee-9726-4390585bd79b" version="1">&lt;br&gt;Enchantment +2.&lt;br&gt;&lt;LSTag Type="Passive" Tooltip="MOD_EvolvingBlade_HadarsBite_TOOLTIP_ONLY"&gt;Hadar's Bite&lt;/LSTag&gt;: Deals an extra [1].&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="MOD_Target_HungerOfHadar"&gt;Hunger of Hadar&lt;/LSTag&gt;.</content>
+	<content contentuid="6611114e-d21d-4d9b-8abd-c4f08489f703" version="1">Shattered</content>
+	<content contentuid="1fc4e981-f7fa-4d33-bf3c-0622fa633fde" version="1">Reduced base damage, &lt;LSTag Tooltip="Finesse"&gt;Finesse&lt;/LSTag&gt;, &lt;LSTag Tooltip="Light"&gt;Light&lt;/LSTag&gt;.</content>
+	<content contentuid="c625fba7-0bda-4ba9-963a-aebf555a0cf0" version="1">Unlocked at level 9.</content>
+	<content contentuid="fd63272f-6df1-42a2-9121-456ff11c873e" version="1">Unlocked at level 5, improved at level 9.</content>
+	<content contentuid="c87777ca-7b9a-4d07-9e72-7408f4426477" version="1">Pactless Bound</content>
+	<content contentuid="5dcc993e-0f8a-4c6a-847c-2030324bfb1f" version="1">As you grow &lt;LSTag Type="Passive" Tooltip="MOD_ScalingWeapons_TOOLTIP_ONLY"&gt;more powerful&lt;/LSTag&gt;, so does this weapon.</content>
+	<content contentuid="a8c2a2ce-1251-4c42-9aee-2f61980cc305" version="1">Hadar's Bite</content>
+	<content contentuid="d7e35091-1fad-4372-b027-9afedc388c75" version="1">During combat, this weapon channels Hadar's eternal hunger and deals an extra [1]; increased by [2], as your connection to Hadar grows stronger.</content>
+	<content contentuid="8ac188b7-dad1-42b3-a9bb-81e2e3ada6ac" version="1">Keen</content>
+	<content contentuid="6dd45c27-527b-4ae5-b166-8d63b56fc452" version="1"> +2 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; made with this weapon.</content>
+	<content contentuid="09b70bea-6ef5-46fd-adb3-01cb87b11fba" version="1">Draconic Heritage</content>
+	<content contentuid="a5707a7f-74b2-4802-9214-ef54ec0f7bc2" version="1">Dragonborns and Draconic Sorcerers gain &lt;LSTag Type="Passive" Tooltip="MOD_ArcaneVersatility_STR_TOOLTIP_ONLY"&gt;Arcane Versatility&lt;/LSTag&gt;.</content>
+	<content contentuid="aa051ec0-e24a-41e9-9691-e73133eaba76" version="1">Awakening Dragon</content>
+	<content contentuid="d5797287-b1a8-47fe-88b7-bd3cfca51236" version="1">Awakening Dragon</content>
+	<content contentuid="63ec1432-c5fb-4c7e-9779-189de0139cde" version="1">This weapon will grow &lt;LSTag Type="Passive" Tooltip="MOD_ScalingWeapons_TOOLTIP_ONLY"&gt;more powerful&lt;/LSTag&gt; over time.</content>
+	<content contentuid="535bf8b4-edb4-41c6-8305-ab228fedc41f" version="1">Level 1, Fire Starved</content>
+	<content contentuid="ddd9012d-d77d-41af-83a0-0b75191396e0" version="1">&lt;br&gt;Deals an extra [1] to Burning targets.</content>
+	<content contentuid="c1d6f857-20d2-4c8f-98b1-06f452029323" version="1">Level 2, Ignited</content>
+	<content contentuid="f94382a8-e24e-4f95-8214-3ac56537b963" version="1">&lt;br&gt;Enchantment +1.&lt;br&gt;Replaces Fire Starved; Deals [1] during combat.</content>
+	<content contentuid="69334297-712b-4184-8026-d2e7e9e2fc1e" version="1">Level 3, Overheated</content>
+	<content contentuid="5b0ed70d-d1b2-4b8d-a9ff-021c11d0de30" version="1">&lt;br&gt;Enchantment +2.&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="MOD_DragonAxe_Fireball"&gt;Fireball&lt;/LSTag&gt;.</content>
+	<content contentuid="4dddfe26-6a92-4051-8a1a-f3fef5e985a0" version="1">Fire Starved</content>
+	<content contentuid="092cf7b7-fd23-4f20-8c24-6ec876ebf729" version="1">Dragonborns and Draconic Sorcerers gain &lt;LSTag Type="Passive" Tooltip="MOD_ArcaneVersatility_STR_TOOLTIP_ONLY"&gt;Arcane Versatility&lt;/LSTag&gt;.</content>
+	<content contentuid="f087ac3e-7d81-4dfb-b44f-2e408efe4e31" version="1">Sword of Screams</content>
+	<content contentuid="fe9e2950-476c-4eb7-803d-480c563b9835" version="1">Only the strongest minds can resist the psychic backlash from this blade; Gnomes are immune to it and are proficient with this weapon.</content>
+	<content contentuid="28f9c3c0-001b-4b61-93d6-4fd73b992f8b" version="1">Level 1, Psychic Backlash</content>
+	<content contentuid="8e3715df-0591-4616-95db-8b0145b095e1" version="1">-1 to Attack and Damage rolls.</content>
+	<content contentuid="5ad7aaee-d63e-4853-9472-2b72f8207269" version="1">Level 2, Powerful Mind</content>
+	<content contentuid="eb8ec23e-246c-4821-9b5d-2df38af598ea" version="1">Removes Psychic Backlash; unlocks &lt;LSTag Type="Spell" Tooltip="Target_Smite_Wrathful"&gt;Wrathful Smite&lt;/LSTag&gt;. </content>
+	<content contentuid="4d562a92-40a6-4a3c-b8ac-70fc57e87265" version="1">Psychic Backlash</content>
+	<content contentuid="2ef0523e-c05c-4e92-afd0-197b85605464" version="1">Board That Ship!</content>
+	<content contentuid="3825f834-1eb3-46f3-a0d4-8da14e68d860" version="1">You gain a +[1] bonus to your jump distance during the first turn of combat.</content>
+	<content contentuid="b945ccb5-bd2f-4ab7-92fd-ae6f30e54a3a" version="1">Tough Drunk</content>
+	<content contentuid="c5d2476e-740c-42ed-a2e8-b029acccfa54" version="1">While you are &lt;LSTag Type="Status" Tooltip="DRUNK"&gt;Drunk&lt;/LSTag&gt;, and not wearing heavy armour, all incoming damage is reduced by 2.</content>
+	<content contentuid="e6af5e6a-c6e4-42c0-b717-7e8ce3fb9112" version="1">Sea Legs</content>
+	<content contentuid="d11523ab-02f0-449b-a7cf-f5370571739e" version="1">Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, while standing in water.</content>
+	<content contentuid="3cb97939-0d0e-4fb6-a7bc-0f8b94c33616" version="1">Merry Drunk</content>
+	<content contentuid="64713b9a-ca96-4270-a1a9-0bb62485c139" version="1">Salty Shield(rrr)</content>
+	<content contentuid="d0c97cfd-e8ae-4830-8fd5-fe441a37a35d" version="1">As your hand touches the broken wood, you are overwhelmed by memories of raging battles, crushing storms and countless sea shanties sung by long dead pirates ... "Yo, Ho, Ho ..." </content>
+	<content contentuid="0dcceef7-1685-4304-b49e-17cf9ca68d52" version="1">Yo, Ho, Ho (and a Bottle of Rum!). Nothing like a good sea shanty to start a party! While drunk, you are &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Proficient&lt;/LSTag&gt; with musical instruments and gain a 2d6 bonus to performance checks.</content>
+	<content contentuid="9111ef2a-638f-43d8-bceb-540a04596e8c" version="1">Salty Dagger(rrr)</content>
+	<content contentuid="7f00f340-757b-4a19-b338-bf9739570a52" version="1">The words "property of Captain Cog-Swallow" are etched on the handle.</content>
+	<content contentuid="321daa49-41d9-4e02-a18e-87aee3842d85" version="1">Vicious Drunk</content>
+	<content contentuid="a62868a8-b1a0-424a-a51e-ff7566040436" version="1">When &lt;LSTag Type="Status" Tooltip="DRUNK"&gt;Drunk&lt;/LSTag&gt;, the number you need to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; while attacking is reduced by 1.</content>
+	<content contentuid="ab4ed003-6db9-44da-a1ec-3416aebf26e4" version="1">Happy Drunk</content>
+	<content contentuid="689b61ea-73d4-4527-9f97-2a842a743190" version="1">Healthy Drunk</content>
+	<content contentuid="e1ef5bfd-08af-434c-a36d-9cb97380f7b5" version="1">Puke Bucket</content>
+	<content contentuid="056b7e5a-981a-4d78-ac13-fcfe5d7cc4b3" version="1">A rusty old helmet that, as its name implies, was used to puke in. You're not considering wearing it, right?</content>
+	<content contentuid="c31b73bf-4553-4a2b-8a25-82089a50a818" version="1">You're actually wearing it! Ugh ... so gross!!</content>
+	<content contentuid="27966e38-3167-4bf5-863c-c7251175d059" version="1">Lucky Drunk</content>
+	<content contentuid="78bc3fe1-596c-4bbb-987d-7420d65f824c" version="1">You can barely stand but your aim is as true as ever. You gain +1d2 to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; when &lt;LSTag Type="Status" Tooltip="DRUNK"&gt;Drunk&lt;/LSTag&gt;. </content>
+	<content contentuid="812ea6a7-de02-4d97-87f9-2b90c5e35060" version="1">Projectile Vomiting</content>
+	<content contentuid="700b92ba-8e07-4c75-906d-bf0c7fcbcb77" version="1">Getting &lt;LSTag Type="Status" Tooltip="DRUNK"&gt;Drunk&lt;/LSTag&gt; while wearing this helmet makes you sick. Once per turn, you can &lt;LSTag Type="Spell" Tooltip="MOD_Zone_PukeBucket_Acid"&gt;puke on your enemies&lt;/LSTag&gt;.</content>
+	<content contentuid="8db829ee-f8b1-4f71-85f1-14cd2b74f90a" version="1">Puke on up to 2 targets.</content>
+	<content contentuid="32722c88-ae21-4b14-a4c0-b3d144996c3d" version="1">Level 1, Shield Attack</content>
+	<content contentuid="54ae7204-44fd-4e48-99ce-54280b5eb2b0" version="1">While not hindered by heavy armour, you can use a bonus action to attack with your &lt;LSTag Type="Spell" Tooltip="MOD_Target_Bash_BA_Attack"&gt;Shield&lt;/LSTag&gt;.</content>
+	<content contentuid="433c09a9-975a-4e86-b983-7a2e5f9a531c" version="1">This attack is considered an Unarmed Strike for the purpose of its Attack Rolls. Its damage does not benefit from &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;Weapon Attacks&lt;/LSTag&gt; or Unarmed Attacks bonuses.</content>
+	<content contentuid="da860b5d-6fee-41f0-a1ff-cc259a2a6f88" version="1">Level 2, Shield Shove</content>
+	<content contentuid="6c599007-4e0c-4c2d-86b8-73e6f39ecc6f" version="1">Use your shield to push a creature up to [1] away from you and possibly &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Daze&lt;/LSTag&gt; them.</content>
+	<content contentuid="09a03802-0996-46ff-ab0c-72fd4d2ccec7" version="1">Level 3, Shield Mastery</content>
+	<content contentuid="acde0f5c-6703-4a61-94ba-7660de910573" version="1">Armor Class +1</content>
+	<content contentuid="6b6899e7-13be-42c9-9d97-661ce8cd65be" version="1">Shield Shove</content>
+	<content contentuid="37fa0a01-52b7-46d4-844f-9faecf2bb4a6" version="1">Exotic Material</content>
+	<content contentuid="10e123c2-6c45-45e8-aac8-8c566fe0d503" version="1">This shield is light enough for its attack to benefit from &lt;LSTag Type="Passive" Tooltip="FightingStyle_TwoWeaponFighting"&gt;Two-Weapon Fighting&lt;/LSTag&gt;.</content>
+	<content contentuid="a3ff08eb-0b6c-4573-9910-36df02f1f234" version="1">Heavy</content>
+	<content contentuid="787ee3f8-2d45-4d4a-bd1f-85e90c63ea0a" version="1">Because of its weight, this shield's attack cannot benefit from &lt;LSTag Type="Passive" Tooltip="FightingStyle_TwoWeaponFighting"&gt;Two-Weapon Fighting&lt;/LSTag&gt;.</content>
+	<content contentuid="deaf35fd-db2d-4394-91f5-51829aedae30" version="1">Shield Attack</content>
+	<content contentuid="b91749a4-6871-4568-967a-ce280f5b2e8b" version="1">While not hindered by heavy armour, you can use a bonus action to &lt;LSTag Type="Spell" Tooltip="MOD_Target_Bash_Spiked_BA_Attack"&gt;Impale&lt;/LSTag&gt; a target with those nasty-looking spikes.</content>
+	<content contentuid="147a1be6-4e16-43fd-8665-47546a6cc4ee" version="1">This attack is considered an Unarmed Strike for the purpose of its Attack Rolls. Its damage does not benefit from &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;Weapon Attacks&lt;/LSTag&gt; or Unarmed Attacks bonuses.</content>
+	<content contentuid="7ff9699b-6fed-4986-9217-5418984f1c4c" version="1">Ignite Shield</content>
+	<content contentuid="be994f32-bffa-4fef-9f94-cf430a8a7db1" version="1">The shield burns for 6 turns and:&lt;br&gt;Sheds light in a [1] radius;&lt;br&gt;Gains a &lt;LSTag Type="Spell" Tooltip="MOD_FlamingShield_BA_Attack"&gt;Shield Attack&lt;/LSTag&gt; that deals [2];&lt;br&gt;Loses 1 Armor Class.</content>
+	<content contentuid="6ab83efc-7bcf-484d-9a29-c1ba7327d81e" version="1">Burning Shield</content>
+	<content contentuid="4b0a7508-804c-456a-a61d-f618b11cf8a5" version="1">Sheds light in a [1] radius; unlocks &lt;LSTag Type="Spell" Tooltip="MOD_FlamingShield_BA_Attack"&gt;Shield Attack&lt;/LSTag&gt;; -1 AC.</content>
+	<content contentuid="029f7c47-a63f-4783-a0d2-061dfc90ec2a" version="1">Massuk Hunting Javelin</content>
+	<content contentuid="b89ce1e1-ec37-498c-9498-4c647a76a401" version="1">Master of the Hunt</content>
+	<content contentuid="5e8de8e1-b290-403c-bf1a-fb0873d2b886" version="1">As the hunter grows &lt;LSTag Type="Passive" Tooltip="MOD_ScalingWeapons_TOOLTIP_ONLY"&gt;stronger&lt;/LSTag&gt;, so does this weapon.</content>
+	<content contentuid="b2870b69-31fd-4566-8911-66f1622057fd" version="1">Level 1</content>
+	<content contentuid="998249a5-03e6-4fa4-b9d8-e560c4037abb" version="1">&lt;br&gt;Bleeding Wound: Causes the target to become &lt;LSTag Type="Status" Tooltip="BARBED_ARROW"&gt;Ruptured&lt;/LSTag&gt;, for 3 turns.</content>
+	<content contentuid="5b54b067-db58-467b-a8fe-2da4340112f8" version="1">Level 2</content>
+	<content contentuid="0ffe1249-e236-4b9f-ac01-151a819ca44c" version="1">&lt;br&gt;Enchantment +1.&lt;br&gt;Hunter's Strike: After a weapon attack you can use a bonus action to &lt;LSTag Type="Passive" Tooltip="MOD_Javelin_Stage2_TOOLTIP_ONLY"&gt;Attack Again&lt;/LSTag&gt;.</content>
+	<content contentuid="7af09b46-e52a-44b4-ac20-e4cc1ad31f99" version="1">Level 3</content>
+	<content contentuid="af655062-551d-48dc-a602-5b4950f4c0b8" version="1">&lt;br&gt;Enchantment +2.&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="MOD_Javelin_Target_FreezingStrike"&gt;Chilling Strike&lt;/LSTag&gt;.&lt;br&gt;Ruptured damage increases to 1d6.</content>
+	<content contentuid="0d326af0-6bef-4de4-8ecb-4f2d41126cc5" version="1">Chilling Strike</content>
+	<content contentuid="4e969115-7cd0-48d5-bc69-3d085369a3af" version="1">Weapon attack that deals an additional [2]; can cause your target to become &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Chilled&lt;/LSTag&gt; and prevent it from taking &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reactions&lt;/LSTag&gt; for 1 turn.</content>
+	<content contentuid="b1a64c9c-eb85-44be-a7a6-d629a62e72f6" version="1">Bleeding Wound</content>
+	<content contentuid="75144693-35ad-42be-9eec-7cb76053c568" version="1">Hunter's Strike</content>
+	<content contentuid="d1d8d3b0-c2dd-4241-b295-acc8a77a3953" version="1">After making a weapon attack you can use a bonus action to attack again, as long as you are not hindered by heavy armour or holding a shield.</content>
+	<content contentuid="e5f1a4d2-290f-42af-9a74-c283e5646c40" version="1">Take [1] damage when moving. Every time it is triggered, the duration is reduced by 1 turn.</content>
+	<content contentuid="87f3e58b-0067-4316-aacb-b2565ae87f79" version="1">Child's Dream</content>
+	<content contentuid="a57b9bad-9436-4ba1-b57b-3fd9e7a37461" version="1">"One day I'll be a great Hero!"</content>
+	<content contentuid="e0250028-e9f6-41b5-9ba6-1eaf59fbc860" version="1">Some say the most powerful thing in Faerun is a child's imagination and when you see them running around with their little wooden swords and their little wooden shields, it looks like it might just be true.</content>
+	<content contentuid="378f78ad-6502-483b-bc43-a5bb235ee6d1" version="1">Illusion</content>
+	<content contentuid="21165bb4-e50d-436c-b4b2-aa8613068f0a" version="1">Imaginary Hero</content>
+	<content contentuid="c41774b1-fbb1-4cb0-ad61-7c95bd44efed" version="1">Affected entity becomes a symbol of heroism. It gains +2 Charisma and has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Charisma &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="4943b337-ebd7-4dbc-8518-5cae8bce2bd2" version="1">Ice Pick</content>
+	<content contentuid="4352cac7-1ee3-49f5-8c98-500d7cea1eaf" version="1">A must-have for those hot summer days.</content>
+	<content contentuid="f9640969-8e5f-4379-8873-a419aef70471" version="1">Bartender Special</content>
+	<content contentuid="6669f3b5-a11b-48bd-82e5-c2bf7a00aaf6" version="1">Refreshing</content>
+	<content contentuid="ec35c3da-ab68-4819-a4b4-ee719cc71cb2" version="1">Deals additional damage to targets that need refreshing:&lt;br&gt;[1] to targets that are NOT wet;&lt;br&gt;[2] to targets that are burning.</content>
+	<content contentuid="184f8765-4db2-4700-962b-7b3d277de825" version="1">A pale white birch staff twisted around a bright peridot shard. It is cool to the touch.</content>
+	<content contentuid="bc6bc951-0738-43ff-8d30-31499542185a" version="1">One with Water</content>
+	<content contentuid="5f527a8a-d1fe-44c7-973f-6bb82fdd85df" version="1">When standing in liquid water (or blood) you can teleport to any other body of water (or blood) that you can see. After using this ability you can make a weapon attack as a bonus action.</content>
+	<content contentuid="daee7b43-7f31-4ebe-9bf1-f2c9b00002a6" version="1">Latent Powers</content>
+	<content contentuid="5c11bdb8-df82-4b4d-9183-4d7fb602d6ed" version="1">You will need time to attune to this staff's &lt;LSTag Type="Passive" Tooltip="MOD_ScalingWeapons_TOOLTIP_ONLY"&gt;power&lt;/LSTag&gt;.</content>
+	<content contentuid="04b4098c-7612-4140-a383-f56959da91ec" version="1">Level 1</content>
+	<content contentuid="b09a3f3a-6e56-48dd-b807-99c3de5e8094" version="1">&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="Target_CreateWater_StaffOfRain"&gt;Create Water&lt;/LSTag&gt;.</content>
+	<content contentuid="16a26ee3-c410-4d3b-9d45-58b3e42a17a7" version="1">Level 2</content>
+	<content contentuid="e540c77d-3c57-4a69-a15a-68ca2c316c21" version="1">&lt;br&gt;Poison Shard: deal [1].</content>
+	<content contentuid="71a74a92-23d9-487a-acd6-ba9d91382a9c" version="1">Level 3</content>
+	<content contentuid="d473f877-1228-4cba-ab55-e3209e4e3346" version="1">&lt;br&gt;Enchantment +1;&lt;br&gt;&lt;LSTag Type="Spell" Tooltip="MOD_RainDancer_Target_WATERStep"&gt;One With Water&lt;/LSTag&gt;;&lt;br&gt;Poison Shard: deal [1].</content>
+	<content contentuid="0e8b3484-af09-4b53-b4b6-6072dc052388" version="1">Rain Dancer Attack</content>
+	<content contentuid="54211d7c-e213-44da-b484-7a233258b28e" version="1">Elegant Bracers of Watershaping</content>
+	<content contentuid="4ca7ff08-2129-46cc-9b2c-b6bfbf9cead4" version="1">Fluid as Water</content>
+	<content contentuid="c19eee50-4fb1-4aee-a1f8-8a139de27a85" version="1">A water whip that pulls a target [2] towards you. If successful, the target receives [1] and becomes &lt;LSTag Type="Status" Tooltip="WET"&gt;Wet&lt;/LSTag&gt; for [3] turns.</content>
+	<content contentuid="b6557bd8-3928-4a0d-964b-5fa97212fc18" version="1">Quickened Water Whip</content>
+	<content contentuid="d8052944-e328-4c42-9748-f4a1b922bbb2" version="1">During combat, if you are standing in water, Water Whip only costs a bonus action to cast.</content>
+	<content contentuid="0c1db084-4acc-4c30-8911-469a5f597098" version="1">Sussur Infused</content>
+	<content contentuid="c8582679-747e-4e1b-b343-eb313a7340af" version="1">Sussur makes it hard to create sharp blades, but it compensates by releasing raw magic on a hit. </content>
+	<content contentuid="f330253f-954a-4c96-a1fe-9f6b47f532cf" version="1">Sussur Ward</content>
+	<content contentuid="967fb211-58a0-43d1-b48f-92b9c8c02599" version="1">Incoming Spell Attacks power a &lt;LSTag Type="Passive" Tooltip="MOD_Sussur_Wards_TOOLTIP_ONLY"&gt;Magical Ward&lt;/LSTag&gt; of your choice.</content>
+	<content contentuid="93d8fea4-744b-4a46-98cd-ba60f78242e4" version="1">Defensive Ward</content>
+	<content contentuid="0f1be07e-4c8e-4c89-becd-e19095a915a1" version="1">&lt;br&gt;Incoming spell attacks heal [1].</content>
+	<content contentuid="731101ae-e149-49f1-9ca3-8083544e50c2" version="1">Offensive Ward</content>
+	<content contentuid="b96cae23-a4d2-46d7-86c7-07974d4a64b6" version="1">&lt;br&gt;Incoming spell attacks deal [1] to the attacker.</content>
+	<content contentuid="36140373-575b-4ef5-86cf-7f37242e4d7e" version="1">Magical Retribution Activated Passive</content>
+	<content contentuid="59bbc710-54fd-4635-921a-1544cb1bb00c" version="1">Defensive Ward</content>
+	<content contentuid="13b39db9-d168-4660-a720-d43db750cd3f" version="1">Offensive Ward</content>
+	<content contentuid="a97c1c4e-f848-4c53-be10-7f2a0f55900b" version="1">Sussur weapons absord magical energy directed at them to charge a Magical Ward. These wards last until a Spell Attack misses them. The size of their healing and damage dice increases to 1d6 at level 5 and 1d8 at level 9.</content>
+	<content contentuid="050f6bf0-3f99-48df-abca-7079ae33a24c" version="1">Ward Charged</content>
+	<content contentuid="01a7d2e1-e8ed-4544-95d1-a19a596c33b7" version="1">Tactical Superiority</content>
+	<content contentuid="383db668-508b-42a2-b4e3-4ad7b5940040" version="1">Swap place with any ally who is also wearing a Devilfoil Mask. After using this ability you need to wait 5 turns before you can use it again.</content>
+	<content contentuid="4f65f41a-4943-4ec3-965b-6ddd9dffff6b" version="1">Hellish Powers </content>
+	<content contentuid="30ef356d-5640-4cf4-bf5e-c10861bc4ae8" version="1">The energy of this weapon feels so unnatural, it will take &lt;LSTag Type="Passive" Tooltip="MOD_ScalingWeapons_TOOLTIP_ONLY"&gt;time&lt;/LSTag&gt; to master.</content>
+	<content contentuid="6dc24d66-96da-44b9-b05f-4de5d63a5b62" version="1">Level 1</content>
+	<content contentuid="1bb2b529-7f24-4999-8b7d-df32782ace77" version="1">&lt;br&gt;Soul Harvester: Turn the souls of your victims into soul coins.</content>
+	<content contentuid="3cb5bceb-8e24-45b3-9f60-d14bde1548d6" version="1">Soul Harvest</content>
+	<content contentuid="5a202c50-ea54-40ce-849d-bc6f16492ec7" version="1">Level 2</content>
+	<content contentuid="72fbeece-7762-4672-8e5f-175aa4cbb1ef" version="1">&lt;br&gt;Infernal Footsoldier: While wearing a Devilfoil Mask you gain &lt;LSTag Type="Passive" Tooltip="MOD_ArcaneVersatility_STR_TOOLTIP_ONLY"&gt;Arcane Versatility&lt;/LSTag&gt;.</content>
+	<content contentuid="74e46c20-0887-49d0-9527-f3fba272c898" version="1">Level 3</content>
+	<content contentuid="1708dee3-abd0-48cb-8d85-05fdee1c4699" version="1">&lt;br&gt;Infernal Legionnaire: Being part of an &lt;LSTag Type="Status" Tooltip="UNI_MERREGONMASK_EFFECT"&gt;Infernal Legion&lt;/LSTag&gt; gives this weapon +1 bonus to Attack Rolls and ignites it.</content>
+	<content contentuid="27f9c2dd-e94f-4fd5-b263-7a75d0af1f35" version="1">Burning Cleave</content>
+	<content contentuid="127f222c-a8c8-457c-946c-7773edcfb58f" version="1">Strike up to 3 targets, possibly setting them on fire.</content>
+	<content contentuid="fd72a6b1-ec3b-4ca9-bb46-08784381a727" version="1">Infernal Legionnaire</content>
+	<content contentuid="ae8cfb6c-d156-4811-8c50-425dc30a6472" version="1">The Manager</content>
+	<content contentuid="bf6985bc-97b6-4a68-a4c7-d696e03f8a76" version="1">When drunk patrons refuse to leave, call The Manager.</content>
+	<content contentuid="96717eac-636e-4146-a743-4a2796427347" version="1">Last Call</content>
+	<content contentuid="661f8086-3e7b-4579-904d-03a54481032d" version="1">Make anyone in a [1] radius, &lt;LSTag Type="Status" Tooltip="DRUNK"&gt;Drunk&lt;/LSTag&gt;.</content>
+	<content contentuid="e04f3328-eac7-4ea6-af38-d83953c5b9ba" version="1">Multi-purpose</content>
+	<content contentuid="5ee0fd18-f278-4aec-999c-bda16830beee" version="1">The Manager can be used in one of two ways:</content>
+	<content contentuid="12f84fe6-163a-4756-8614-664640974989" version="1">Crowd Control</content>
+	<content contentuid="8cd65e03-9f49-49ba-839b-ccd9a7256d1d" version="1">Some patrons just don't know when to leave! Small chance to turn Undead creatures. Deals an extra [1].</content>
+	<content contentuid="e44f8054-4d75-4a60-a4e9-4c4051ccb51f" version="1">Pest Control</content>
+	<content contentuid="950b85a8-1a19-44ac-ac9f-00943cc76ad7" version="1">They're eating the barley! Gain Advantage against Beasts and Monstrosities. Deals an extra [1].</content>
+	<content contentuid="74d48665-ecf6-444f-b62b-59cc6867db51" version="1">Weapon Enchantment</content>
+	<content contentuid="af51ebef-52de-4d24-a076-714d89af354d" version="1">&lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;: -1d4;&lt;br&gt;&lt;LSTag Tooltip="SpellDifficultyClass"&gt;Spell Save DC&lt;/LSTag&gt;: -1;&lt;br&gt;Movement: -[1];&lt;br&gt;&lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on all &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; except Charisma.</content>
+	<content contentuid="0df1ade8-4f5b-42c8-afcb-1c5773df232a" version="1">If the wielder deals [1], [2], [3], [4] or [5], they become resistant to that damage type for 2 turns.</content>
+	<content contentuid="6168f4f7-c8f8-4402-90a6-bc5d6a054c3c" version="1">&lt;br&gt;Melee and Thrown attacks deal an extra [1].&lt;br&gt;Melee hits may also &lt;LSTag Type="Status" Tooltip="SHOCKING_GRASP"&gt;Shock&lt;/LSTag&gt; your target. </content>
+	<content contentuid="a05c29f6-73a6-46b5-98ff-c86fb1f51b78" version="1">Returning Weapon</content>
+	<content contentuid="7a21c8e2-7d4a-4507-9e84-000dffcb6694" version="1">&lt;br&gt;This weapon will return to your hand when thrown.</content>
+	<content contentuid="b1e372d9-d8a6-4f5c-8a0e-e40b683c6b2d" version="1">Disarming Strike</content>
+	<content contentuid="c876729d-8794-4fb0-94bb-9d9a3cd1ebe9" version="1">Maiming Claw</content>
+	<content contentuid="a7b9bbf4-3085-40d8-8ce7-62860b331067" version="1">Kuo-Toa Armament</content>
+	<content contentuid="8543e22b-1cf7-46c7-ac69-f90a0c508495" version="1">&lt;br&gt;When holding the Fossilised Shell you gain &lt;LSTag Type="Spell" Tooltip="MOD_Kuotoa_DisarmingStrike"&gt;Disarming Strike&lt;/LSTag&gt; and +1 to Attack Rolls.</content>
+	<content contentuid="41bf8b45-ef87-4a72-9ab1-4d36ab286865" version="1">When wielding Lightning Jabber you become resistant to Lightning damage.</content>
+	<content contentuid="b4cc97c6-b07c-4476-8bbe-43cd5efce923" version="1">Amphibious Warfare</content>
+	<content contentuid="ff6a0241-1ae9-443b-bd12-72875c837610" version="1">Ignore difficult terrain when you are &lt;LSTag Type="Status" Tooltip="WET"&gt;Wet&lt;/LSTag&gt;. </content>
+	<content contentuid="57352de4-3476-4816-98d5-d1cb69d8fe13" version="1">Fossilised Shell</content>
+	<content contentuid="244499a6-2507-48fc-a14a-c381879dfcb9" version="1">Adamantine-clad</content>
+	<content contentuid="555e4dc8-1905-4c67-a65a-699d5a7f9600" version="1">When you have 3 Adamantine items equipped, you gain another +1 Constitution and +1 to Saving Throws against spells.</content>
+	<content contentuid="b3ebb2f9-b732-4649-a32e-c48a1a9c382a" version="1">Adamantine Conduit</content>
+	<content contentuid="60e4675b-4d99-42a7-871c-ead660ff9669" version="1">When both Adamantine weapon and armour are equipped you gain +1 Constitution.</content>
+	<content contentuid="7e13aaa4-187d-4a55-8f79-493419114551" version="1">When both Adamantine weapon and armour are equipped, deal an extra [1] to targets that are &lt;LSTag Type="Status" Tooltip="MAG_ATTACK_DEBUFF"&gt;Reeling&lt;/LSTag&gt;.</content>
+	<content contentuid="1a8e83d5-a3cc-4045-8b22-421fff98f8d6" version="1">Hard Work</content>
+	<content contentuid="0cb6f573-b095-4d4e-886a-fb8c015e8126" version="1">Duergars have long understood that slaves only work as hard as you can hit them.</content>
+	<content contentuid="67028c1f-3eaa-4017-ba58-b5083b0d7d8d" version="1">Multi-purpose</content>
+	<content contentuid="baec1f52-3151-4c00-9739-61dd07e7100d" version="1">Hard Work can be used in one of two ways:</content>
+	<content contentuid="15950c16-c0ff-40ef-95bf-5a20ca9fe378" version="1">Shock Baton</content>
+	<content contentuid="578f4a2f-6501-41f3-a8d4-8a099f026eea" version="1">deal an extra [1].</content>
+	<content contentuid="f7865445-59b2-45de-942f-2b74205b84d0" version="1">Psychic Whip</content>
+	<content contentuid="fa210f6c-5787-4070-8511-157b5ae8a7ab" version="1">deal an extra [1].</content>
+	<content contentuid="f29b1bbc-5fe9-4448-882f-5fdce43d4716" version="1">Hit Harder</content>
+	<content contentuid="632e815e-254d-49e3-8d3e-9235567913e1" version="1">Weapon attack that deals Bludgeoning, Lightning and Psychic damage. It also &lt;LSTag Type="Status" Tooltip="SHOCKING_GRASP"&gt;Shocks&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distracts&lt;/LSTag&gt; your target. </content>
+	<content contentuid="023879ae-cbb2-44df-81fa-a07c505ecb04" version="1">Tenacity</content>
+	<content contentuid="0bf817a9-93b9-43ca-9d2c-5bf7192cbdd9" version="1">This blade is as heavy as a Maul; when you miss an attack, you deal [1] anyway.</content>
+	<content contentuid="3b45aeb3-8a4f-45d9-8592-561bcb0945ba" version="1">&lt;br&gt;On a hit with an unarmed or thrown attack, the wearer gains [1] &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;Lightning Charges&lt;/LSTag&gt;.</content>
+	<content contentuid="364e9c34-bf20-4f45-a529-2683b9f815a7" version="1">&lt;br&gt;While imbued with &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;Lightning Charges&lt;/LSTag&gt;, you gain &lt;LSTag Type="Spell" Tooltip="MOD_ShockingGrasp_Temporary"&gt;Shocking Grasp&lt;/LSTag&gt; and attacks against metal constructs and foes wearing metal armour gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+	<content contentuid="661fba8f-324c-46f6-a205-5db227fe31b3" version="1">Hellgloom Boots</content>
+	<content contentuid="62ad7fc5-3746-4861-9a94-d8fb214687b5" version="1">Infernal Fire</content>
+	<content contentuid="fdd46998-c3e9-4b2f-8c29-62555f9932cf" version="1">Red Leather</content>
+	<content contentuid="2e342a34-f05d-4d89-a819-3dad9f3c6d26" version="1">Rippling Armour</content>
+	<content contentuid="21a96d4d-fc00-4650-9c39-716a7e901d2d" version="1">Jolty Blue</content>
+	<content contentuid="473bb08e-e12a-4b3f-ba1f-d395d1c17591" version="1">Black and Brown</content>
+	<content contentuid="0346e33b-d426-4f69-b88c-5c2130095740" version="1">Bhaalist Black</content>
+	<content contentuid="41e36092-b1f3-4c55-ba16-60e523284ca7" version="1">Sharan Night</content>
+	<content contentuid="f75e2a6f-ea26-4d9a-abe6-4263444359d0" version="1">Sharan Gold</content>
+	<content contentuid="8c688bf8-9880-4a37-84b7-d38de0df5449" version="1">Selunite Grey</content>
+	<content contentuid="8de4d857-4413-4e8e-bcdd-1586b45fe18c" version="1">The recipe has been lost in time but the dye still works.</content>
+	<content contentuid="679d1ff6-54dc-4c7b-8bf7-039d4102e460" version="1">Combine this dye with an equipment item to alter the colours of fabric, leather and even metal.</content>
+	<content contentuid="d5156c51-4b7f-4724-9847-18715b236ef6" version="1">Nightwarden Gloom</content>
+	<content contentuid="bed56a43-7fc6-40f8-a153-baec1d207df2" version="1">Luminous Dye</content>
+	<content contentuid="f0ff5a69-d934-4705-b9fe-e1ce69630261" version="1">Sparkwall Blue</content>
+	<content contentuid="bd3cd721-3308-4825-9b39-e919cfa48eba" version="1">Unwanted MasterWork</content>
+	<content contentuid="06bde9cf-0eed-4d7b-99c3-f080ac358449" version="1">Elven Green Dark</content>
+	<content contentuid="40dc5781-aeb2-42cc-8a13-6f7fe7cf1871" version="1">Elven Green Light</content>
+	<content contentuid="f35c2366-8f33-4b38-a7b8-f4cfb2d0cf60" version="1">Slippery Blue</content>
+	<content contentuid="d83f3f28-b7b3-4b4a-ad90-cfc4a477031a" version="1">Red and Gold</content>
+	<content contentuid="e705fb12-40f0-4afd-bc30-66ad4787b2a1" version="1">Hellgloom Armour</content>
+	<content contentuid="d6a99b06-9251-487b-9caf-0b6f983adc74" version="1">This simple leather armour made of goat hide was enchanted by a travelling druid. A goatherd once helped her negotiate a strange maze of hedges, so she blessed all his goats in thanks.</content>
+	<content contentuid="9bde1476-4a44-42ab-8fdf-8818af5a0e01" version="1">Little Legs, Big Steps</content>
+	<content contentuid="1d11e096-b4f5-4090-989c-31bfe69a605c" version="1">Gnomes, Dwarves and Halflings gain [1] of movement.</content>
+	<content contentuid="9ff00f26-1732-42a4-a670-7bb491fc856d" version="1">Slippery Leather</content>
+	<content contentuid="a71a716c-2019-4aca-984c-c9b3422489a3" version="1">Scored with slime and blood, it seems this leather armour couldn't save its previous owner. Although it may help the next.</content>
+	<content contentuid="2c1a6c9e-98b1-4456-ba0d-6171ed92d9ce" version="1">When the wearer heals a creature, they both Disengage and won't trigger &lt;LSTag Tooltip="OpportunityAttack"&gt; Opportunity Attacks&lt;/LSTag&gt;.</content>
+	<content contentuid="739bb97e-9281-466a-b44a-7a5380772da3" version="1">Embroidered with a simple maxim - 'Nature is the True State of the World' - this leather armor radiates a faint divine power.</content>
+	<content contentuid="9099c2e0-eed4-417a-89da-1d660ec95f90" version="1">Lenore's Gift</content>
+	<content contentuid="a949ceb3-adf6-4102-8240-41d1f7eba3ac" version="1">I weaved in a little spell for my favourite little person. Love, Lenore.</content>
+	<content contentuid="8de264d3-614f-415a-a504-a68ad01fc002" version="1">Little Haste</content>
+	<content contentuid="7154005d-c33c-49ee-983b-03696ea17566" version="1">Creature has a +1 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;, &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, its &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is increased by [1], and it can take one additional bonus action per turn. </content>
+	<content contentuid="890c4090-f160-453f-b839-8314c376f1ee" version="1">Become &lt;LSTag Type="Status" Tooltip="MOD_LITTLEHASTE"&gt;Hastened&lt;/LSTag&gt;: gain a bonus action, become faster and gain +1 to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
+	<content contentuid="54ef66c0-c848-4ccc-8378-201b13ab759f" version="1">Rippling Force Plate</content>
+	<content contentuid="bce4e68a-2ad8-4610-aa9b-5fb5335e77df" version="1">Dents, notches, and nicks add character to each plate of this armour - yet each blemish also speaks to those who tasted magical vengeance on the armour's behalf.</content>
+	<content contentuid="45a85957-be30-4faa-b59d-1bca8c6d2c26" version="1">Adaptive Magic</content>
+	<content contentuid="8fc043b6-914b-4212-a4a5-1f6fc945e653" version="1">You can channel the magic of this armour in one of two ways:</content>
+	<content contentuid="8424a064-b530-4548-bf53-a94960b89212" version="1">Force Conduit</content>
+	<content contentuid="8f1e8cf4-8d3c-4fc2-95eb-cc66b37c64df" version="1">Reverberation</content>
+	<content contentuid="0d2558f5-8159-4be2-bcf5-2e8d3cfd3a63" version="1">Your melee attacks apply 1 turn of &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt; to your target.</content>
+	<content contentuid="58d20f9b-2007-4d91-a9a6-1820f5218144" version="1">Rippling Force Gauntlets</content>
+	<content contentuid="4c028355-a73c-4bc1-a7c4-a7283d3a5b5f" version="1">When struck, those gauntlets pulse with energy.</content>
+	<content contentuid="13d09c06-c5c0-4ce4-a2ae-f0657dce2059" version="1">Force Retaliation</content>
+	<content contentuid="e8aae54b-9f28-421f-b17a-b3bcf5238fe6" version="1">Melee attack that deal an additional [1] per remaining turn of &lt;LSTag Type="Status" Tooltip="MAG_ZOC_FORCE_CONDUIT"&gt;Force Conduit&lt;/LSTag&gt;, to a maximum of [2].</content>
+	<content contentuid="0add48ef-b1d8-4c4c-b8ae-fcb7acdeba89" version="1">Force Absorption</content>
+	<content contentuid="1e2cc592-dffd-42c6-ab61-4eb5499b461c" version="1">Gain 1 turn of &lt;LSTag Type="Status" Tooltip="MAG_ZOC_FORCE_CONDUIT"&gt;Force Conduit&lt;/LSTag&gt; when taking Slashing, Piercing, or Bludgeoning damage.</content>
+	<content contentuid="92972672-f7f1-4b0f-b959-95e6485eb5aa" version="1">Rippling Force Helm</content>
+	<content contentuid="33ba0b50-2d69-4ba7-bc0c-537240a742d2" version="1">Although tarnished by time, this helmet feels as sturdy as ever.</content>
+	<content contentuid="8023bcb2-47fb-4a5d-aabb-1ab183a5c41c" version="1">Gain 1 turn of &lt;LSTag Type="Status" Tooltip="MAG_ZOC_FORCE_CONDUIT"&gt;Force Conduit&lt;/LSTag&gt; when taking damage.</content>
+	<content contentuid="47cc8348-1f4a-4031-a1be-17bf271101b9" version="1">While having turns of &lt;LSTag Type="Status" Tooltip="MAG_ZOC_FORCE_CONDUIT"&gt;Force Conduit&lt;/LSTag&gt; the wearer is surrounded by a [1] wide invisible force field that is considered &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
+	<content contentuid="9e186cf4-2976-4f0a-ba81-68a1f7b5da46" version="1">All entities affected by this aura have their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; halved.</content>
+	<content contentuid="604c5a75-3ec3-4db2-8d8a-c09854833c14" version="1">Bludgeoning, Piercing, and Slashing damage against the affected entity is reduced by [1] per turn remaining. &lt;br&gt;&lt;br&gt;If the entity takes damage while it has 5 or more turns remaining, it deals [2] to enemies in a [3] radius.</content>
+	<content contentuid="9c4a8f40-78d6-4205-8a14-d3f0a9749387" version="1">Drows are never as formidable as when they are swallowed by shadows. </content>
+	<content contentuid="561fa4b7-4f16-4067-b3ad-4a7e6832f5f3" version="1">ShadeClinger Gloves</content>
+	<content contentuid="1b9430bc-41ac-421c-b0af-aa706af511bb" version="1">Shadows cling to those gloves like honey on a spoon.</content>
+	<content contentuid="c14625d0-26bb-41a3-8ece-09e947c1c140" version="1">+1 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; while obscured.</content>
+	<content contentuid="672819ed-3fc4-4cb4-ad7e-1c9cf2c6a1a6" version="1">Meditation Garb</content>
+	<content contentuid="f02a6354-32dc-42c1-8110-cdf5aeb3c394" version="1">Rogue Trader Vest</content>
+	<content contentuid="30a5c455-da17-452a-88c4-1c112fbb99b3" version="1">Faerie's Blessing</content>
+	<content contentuid="79d2a1c7-32fa-45ac-96f3-9ff2f2afa03b" version="1">Hunting Helm</content>
+	<content contentuid="9c8a25eb-3023-4d12-adc6-bded5591f482" version="1">A powerful offence is sometimes still the best defence.</content>
+	<content contentuid="9e29349d-b760-4775-a092-8100c57b2e66" version="1">Scabby Throwing Circlet</content>
+	<content contentuid="4db6bff3-0d35-40ea-9058-e9336144f2ca" version="1">Jannath's Helmet</content>
+	<content contentuid="991e6d58-b085-448e-8bd7-09b0beddc26e" version="1">Pyroquickness Helm</content>
+	<content contentuid="d0e8a60b-7594-4f7e-ac72-93025828afa8" version="1">Merely holding the helmet makes your skin flush, filling you with determination and righteous fury.</content>
+	<content contentuid="8c90b9de-b1e5-4bfd-9b1a-3abefc2e3e65" version="1">Helm of Fire Acuity</content>
+	<content contentuid="ec8876ad-4a29-4c49-92c1-cd75321fd3f3" version="1">Fire reveals the weaknesses of your enemies.</content>
+	<content contentuid="52930f5c-312f-4861-8f13-c8883224e7c9" version="1">Arcane Attack</content>
+	<content contentuid="a2626b19-61d3-4a9e-9c2b-f4d78b4c63ab" version="1">You gain a +[1] bonus to spell &lt;LSTag Tooltip="AttackRoll"&gt;attack rolls&lt;/LSTag&gt;.</content>
+	<content contentuid="0c2d75ab-5f09-45f8-92d4-97c243a869ad" version="1">IronWood Shield</content>
+	<content contentuid="c3d19383-0af0-4184-adc3-802619b3ddf3" version="1">Obsidian Retribution</content>
+	<content contentuid="ad8676ce-7eb9-42a7-8a8a-ad76d9a3addb" version="1">Level 1</content>
+	<content contentuid="a92c9dcb-5454-450a-91ee-8d1f8a973d56" version="1">&lt;br&gt;&lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blind&lt;/LSTag&gt; targets that fail a DC 10 Dexterity saving throw.&lt;br&gt;Deals an additional [1] to creatures with multiple sets of eyes.</content>
+	<content contentuid="de481cba-65ee-4e62-ab06-ba5dc4f79313" version="1">Level 2</content>
+	<content contentuid="d72bcf42-7b4e-469b-a2f8-0197cffe0e9b" version="1">&lt;br&gt;Enchantment +1.&lt;br&gt;Blinding DC: 12.</content>
+	<content contentuid="cdab3461-df2f-49bf-a4ba-d36bb6ce9159" version="1">Level 3</content>
+	<content contentuid="22916080-91e0-46a6-aaf2-3e2a8d420c9a" version="1">&lt;br&gt;Enchantment +2.&lt;br&gt;Blinding DC: 14.&lt;br&gt;Unlocks &lt;LSTag Type="Spell" Tooltip="MOD_Target_DominatePerson"&gt;Dominate Person&lt;/LSTag&gt;.</content>
+	<content contentuid="" version="1">Lorem</content>
+	<content contentuid="" version="1">Lorem</content>
+	<content contentuid="324f4f2c-5e51-48b4-9c1a-859bde8e02ed" version="1">ShadeClinger Boots</content>
+	<content contentuid="c39023c8-96a9-4a68-914a-06a6381b8e5c" version="1">These boots seem to disappear in shadows.</content>
+	<content contentuid="" version="1">A Barbarian and a Wizard walked into a tavern; Most of the time, those stories don't end well. This was not one of those, well, except for the tavern...and the innkeeper...and the clients. At least the wine was good.</content>
+</contentList>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="AnubisConfigName" type="FixedString" value="LOW_SharranTrainee_000" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="6b20d00a-eed8-55fe-77c9-a139aadbbf6d" />
+					<attribute id="CombatGroupID" type="FixedString" value="89c4b68a-ba46-4861-af64-3e1040232578" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h0bd555bag89b7g4036g8488g1b561a7bf4aa" version="1" />
+					<attribute id="Faction" type="guid" value="415731a9-1e23-4873-afe9-a4619a973bfa" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="Icon" type="FixedString" value="6b20d00a-eed8-55fe-77c9-a139aadbbf6d-EQP_Mace_Leather_(Icon_Elf_Female)" />
+					<attribute id="LevelName" type="FixedString" value="CTY_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="9a3f9520-f900-4f00-b244-546e89bebc16" />
+					<attribute id="Name" type="LSString" value="S_LOW_SharranTrainee_000" />
+					<!-- <attribute id="Stats" type="FixedString" value="EQP_NPC_VO_Shortsword" /> --> <!-- NPCVO mistake that kills the chick because she has no stats -->
+					<attribute id="Stats" type="FixedString" value="LOW_HouseOfGrief_Cultist_Melee_Elf" />
+					<!-- <attribute id="Equipment" type="FixedString" value="" /> -->
+					<attribute id="Equipment" type="FixedString" value="EQP_NPC_VO_Shortsword" />
+					<attribute id="SwarmGroup" type="FixedString" value="LOW_HouseOfGrief_MeleeCultists_Swarm_04" />
+					<attribute id="TemplateName" type="FixedString" value="456ac466-e1c3-4a13-8189-5b5036cdf26b" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144537400540922056" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="CTY_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="1a970f04-21a4-8210-17be-eb5ae7c87f7f" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="15381bde-0cfd-770a-3519-fda3c27aa3b7" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="ddcca5fe-22fc-897b-6040-8a52c6b67e88" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="627d87be-85c2-406b-b1b6-8e51c08b652f" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="542b58f0-42ad-4157-a28e-27434e0e7b18" />
+								</node>
+							</children>
+						</node>
+						<node id="TradeTreasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="LOW_Grotto_Sharran" />
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-389.78394 28.913364 -1655.8813" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.9850579 0 0.17222391" />
+							<attribute id="Scale" type="float" value="1" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

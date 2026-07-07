@@ -1,0 +1,27 @@
+new entry "RepellingBlast"
+type "PassiveData"
+// Repelling Blast
+data "DisplayName" "hf6a72bdfg5022g4befg86c2g9382c643da51;2"
+// When you hit a creature with <LSTag Type="Spell" Tooltip="Projectile_EldritchBlast">Eldritch Blast</LSTag>, you can push the creature up to [1] away from you.
+data "Description" "h37c1bb57g04fag4e45g8953gb5bec46f0c48;3"
+data "DescriptionParams" "Distance(4.5)"
+data "Icon" "PassiveFeature_RepellingBlast"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "SpellId('Projectile_EldritchBlast') and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_REPELLING_BLAST,100,0,,,,not SavingThrow(Ability.Strength,SourceSpellDC()))"
+
+new entry "Projectile_EldritchBlast"
+type "SpellData"
+using "Projectile_EldritchBlast"
+data "SpellSuccess" "DealDamage(1d8,Force,Magical);IF(HasStatus('REPELLING_BLAST_TRIGGER',context.Source)):Force(4.5,OriginToTarget,Aggressive)"
+data "TooltipDamageList" "DealDamage(1d8,Force)"
+data "TargetConditions" "not Self()"
+data "CombatAIOverrideSpell" "Projectile_EldritchBlast_AI"
+
+new entry "Projectile_EldritchBlast_AI"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_EldritchBlast"
+data "TargetConditions" "not Self() and not Dead()"
+

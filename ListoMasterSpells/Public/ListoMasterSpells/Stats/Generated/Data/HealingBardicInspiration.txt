@@ -1,0 +1,29 @@
+new entry "Target_BardicInspiration"
+type "SpellData"
+data "SpellType" "Shout"
+using "Target_BardicInspiration"
+data "SpellProperties" "IF(not ClassLevelHigherOrEqualThan(5,'Bard')):RegainHitPoints(1d4);IF(not ClassLevelHigherOrEqualThan(5,'Bard')):ApplyStatus(BARDIC_INSPIRATION,100,10);IF(ClassLevelHigherOrEqualThan(5,'Bard') and not ClassLevelHigherOrEqualThan(10,'Bard')):ApplyStatus(BARDIC_INSPIRATION_D8,100,10);IF(ClassLevelHigherOrEqualThan(5,'Bard') and not ClassLevelHigherOrEqualThan(10,'Bard')):RegainHitPoints(2d4);IF(ClassLevelHigherOrEqualThan(10,'Bard')):ApplyStatus(BARDIC_INSPIRATION_D10,100,10);IF(ClassLevelHigherOrEqualThan(10,'Bard')):RegainHitPoints(3d4);AI_ONLY:ApplyStatus(AI_HELPER_BARDIC_INSPIRATION,100,3)"
+data "TargetConditions" "Ally()"
+data "TooltipDamageList" "RegainHitPoints(1d4)"
+data "PreviewCursor" "Cast"
+data "CastTextEvent" "Cast"
+data "CycleConditions" "Ally() and not Dead()"
+data "UseCosts" "BonusActionPoint:1;BardicInspiration:1"
+data "MaximumTargets" "1"
+
+
+new entry "Target_BardicInspiration_Combat"
+type "SpellData"
+data "SpellType" "Shout"
+using "Target_BardicInspiration_Combat"
+data "SpellProperties" "IF(not ClassLevelHigherOrEqualThan(5,'Bard')):RegainHitPoints(1d4);IF(not ClassLevelHigherOrEqualThan(5,'Bard')):ApplyStatus(BARDIC_INSPIRATION_COMBAT,100,10);IF(ClassLevelHigherOrEqualThan(5,'Bard') and not ClassLevelHigherOrEqualThan(10,'Bard')):ApplyStatus(BARDIC_INSPIRATION_COMBAT_D8,100,10);IF(ClassLevelHigherOrEqualThan(5,'Bard') and not ClassLevelHigherOrEqualThan(10,'Bard')):RegainHitPoints(2d4);IF(ClassLevelHigherOrEqualThan(10,'Bard')):ApplyStatus(BARDIC_INSPIRATION_COMBAT_D10,100,10);IF(ClassLevelHigherOrEqualThan(10,'Bard')):RegainHitPoints(3d4);AI_ONLY:ApplyStatus(AI_HELPER_BARDIC_INSPIRATION,100,3)"
+data "TargetConditions" "Ally()"
+data "TooltipDamageList" "RegainHitPoints(1d4)"
+data "PreviewCursor" "Cast"
+data "CastTextEvent" "Cast"
+data "CycleConditions" "Ally() and not Dead()"
+data "UseCosts" "BonusActionPoint:1;BardicInspiration:1"
+data "MaximumTargets" "1"
+
+
+

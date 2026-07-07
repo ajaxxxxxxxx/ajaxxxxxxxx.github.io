@@ -1,0 +1,81 @@
+[
+    {
+        "Topic": "Classes",
+        "SubTopic": "Paladin",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Paladin"
+            },
+            {
+                "type": "Content",
+                "text": [
+                    "You are able to start the game as an Oathbreaker Paladin. However, as a limitation of BG3, this will block you from normal respec and require you to use console commands or deal with the Oathbreaker Knight.",
+                    "Smites that once required concentration should not anymore. Oathbreakers should feel more like their own class, with unholy smites and other features to distinguish themselves from the oaths they broke."
+                ]
+            }
+        ]
+    },
+    {
+        "Topic": "Classes",
+        "SubTopic": "Rogue",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Rogue"
+            },
+            {
+                "type": "Content",
+                "text": "[Second-Story Work Dexterity Jump](https://www.nexusmods.com/baldursgate3/mods/6331) changes the benefit of Second-Story Work to allow your jump to scale based on your Dexterity, instead of Strength. [Cunning Strike](https://www.nexusmods.com/baldursgate3/mods/507) allows Rogues to forgoe extra damage and instead get some kind of special effect for sneak attacks."
+            }
+        ]
+    },
+    {
+        "Topic": "Classes",
+        "SubTopic": "Sorcerer",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Sorcerer"
+            },
+            {
+                "type": "Content",
+                "text": "[Tides of Chaos Recharge](https://www.nexusmods.com/baldursgate3/mods/11625) changes ToC to reset after a wild magic surge is caused, allowing you to use it multiple times per long rest (and risk multiple surges throughout the day as a result). [Metamagic Extended](https://www.nexusmods.com/baldursgate3/mods/405) implements more metamagic options from the tabletop game. The metamagic to change the damage type of your spell requires activating the metamagic, and then selecting an element out of the new pop-up options. Expand the section of your hotbar that has metamagic in it to see the new options. [Draconic bloodline sorcerers](https://www.nexusmods.com/baldursgate3/mods/13563) have significantly more options now. Othe rmods improve shadow magic, metamagic, and tides of chaos."
+            }
+        ]
+    },
+    {
+        "Topic": "Classes",
+        "SubTopic": "General",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "General"
+            },
+            {
+                "type": "Content",
+                "text": "There is no longer a mainted list of all the added features and sub-classes in the wiki. The intent is just to summarize major feature changes players will want to know before picking classes."
+            }
+        ]
+    },
+    {
+        "Topic": "Classes",
+        "SubTopic": "New Classes",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Brand New Classes"
+            },
+            {
+                "type": "Bullet",
+                "text": [
+                    "[Artificer](https://www.nexusmods.com/baldursgate3/mods/1779), and all subclasses.",
+                    "[Mystic](https://www.nexusmods.com/baldursgate3/mods/2786).",
+                    "[Mesmerist](https://www.nexusmods.com/baldursgate3/mods/11854).",
+                    "[Blackguard](https://www.nexusmods.com/baldursgate3/mods/6612).",
+                    "[Inquisitor](https://www.nexusmods.com/baldursgate3/mods/18318)."
+                ]
+            }
+        ]
+    }
+]

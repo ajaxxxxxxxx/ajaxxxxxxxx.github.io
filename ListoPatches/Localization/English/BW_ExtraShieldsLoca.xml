@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h279ddcacgcaebg44a5gb300ga5fd0e5cd659" version="1">Extra Shields</content>
+	<content contentuid="heefe4a1ce10e4572bcae699aa2cfafd8a2cc" version="1">Balanced</content>
+	<content contentuid="hbc63477946994a808f4cdd684b55cdab2706" version="1">Progressive</content>
+	<content contentuid="h7e69fb59d98b4b43a1f97ab2f1e0584b2a1g" version="1">OP</content>
+	<content contentuid="hb989894cg3953g4856ga7bag8b44481e5196" version="3">Extra in all senses.</content>
+	<content contentuid="h9e604f5aged38g4367gb2f2g2f450201bb58" version="1">Celestial Shield (Gold)</content>
+	<content contentuid="h45dcd50ag55c0g44e2g862cg6f1aaed64ce7" version="1">Celestial Shield (Silver)</content>
+	<content contentuid="hdf8f8900g39fbg454bgaa76g3b15c9fd0f26" version="3">This shield offers unmatched protection, channeling divine energy to safeguard its bearer.</content>
+	<content contentuid="h0db17f70gc4efg4f17g95c8gb549e3440b5d" version="1">Shield of the Divine Sentinel (Gold)</content>
+	<content contentuid="hc7d84cfag1969g4abdga57dg4d668f814113" version="1">Shield of the Divine Sentinel (Silver)</content>
+	<content contentuid="h68d82f85gf1c2g4853gb9cbg4a378507456d" version="3">Fortified with sacred power, this shield elevates your defense to divine levels.</content>
+	<content contentuid="hcbe32a2egc802g44b5ga226g992127861270" version="1">Dragon Shield (Gold)</content>
+	<content contentuid="haab02ddbgcc4fg41ecg8e66g6413203448e7" version="1">Dragon Shield (Silver)</content>
+	<content contentuid="h442c4637g0ffdg40efgbe50g1d9447728b5b" version="3">With its draconic essence, this shield ensures impressive fortitude and protection.</content>
+	<content contentuid="h035d890fgd934g4901ga3b5gdf20e037ca5f" version="1">Shield of the Holy Warrior (Gold)</content>
+	<content contentuid="hee6f8491g2ad1g4becg8c0fg2a0f292b9cd5" version="1">Shield of the Holy Warrior (Silver)</content>
+	<content contentuid="h5828ea98g536fg4a0fg9a74gb8b373f9a813" version="3">Radiating with holiness, this shield offers unparalleled defense against all forms of darkness.</content>
+	<content contentuid="hc4c2f1bfg065cg4734gb2cdg44182eb36ba4" version="1">Shield of the Noble Knight (Gold)</content>
+	<content contentuid="h56776504g20c2g4261g87a5g304d8d1fe388" version="1">Shield of the Noble Knight (Silver)</content>
+	<content contentuid="hbe2b677fg6d94g441cga7d1g8a1f1b233dd0" version="3">Embodying the spirit of chivalry, this shield delivers exceptional protection in any conflict.</content>
+	<content contentuid="hc20d68dbg7833g4f61ga410g6bb564e3e708" version="1">Shield of the Royal Guard (Gold)</content>
+	<content contentuid="h86dbc171g497ag4bafg9cf7g0187c7cab296" version="1">Shield of the Royal Guard (Silver)</content>
+	<content contentuid="hb9a3cf00g828eg482fgb5eagf3594b81b3b6" version="3">This shield symbolizes loyalty and strength, providing steadfast protection for royal defenders.</content>
+	<content contentuid="hf9ca076561584a5da583df68b4aba876gc7b" version="1">Eternal Beauty (Stone)</content>
+	<content contentuid="h2d8afca45b544164ba249daeca1338b2bg70" version="1">Eternal Beauty (Bronze)</content>
+	<content contentuid="hc9c3ab704efb46b7ae9074effda767de54dc" version="1">Eternal Beauty (Bloody)</content>
+	<content contentuid="h1ed502cbe6964894aeb0514eb4c0c931af75" version="3">A grim masterpiece composed of victims of a bloodshed.</content>
+	<content contentuid="h4b700c0bg4c8eg4bb6ga01fg324a325a31ad" version="1">Divine Light</content>
+	<content contentuid="hd60cbb91g344eg4548g8fffg79304250f480" version="1">Blessing of the Divine Sentinel</content>
+	<content contentuid="92724a05-0842-410e-a60f-39040ca3f8a9" version="2">Aberrations, celestials, elementals, fey, fiends, and undead have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against the you, and you can't be Charmed, Frightened, or Possessed.</content>
+	<content contentuid="h1650d37bgc6cfg4538g8347g70a25c9f8642" version="1">Brave Heart</content>
+	<content contentuid="f45fda5d-fae4-420b-be73-15c75936a651" version="2">You can't be Frightened and you have an &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; for Charisma, Intelligence, and Wisdom.</content>
+	<content contentuid="h791440f0g1200g4249g8ba0g2877033b6a49" version="1">Noble Heritage</content>
+	<content contentuid="h80e716a2g6403g422eg821eg91cc0cee2bb9" version="2">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt;, &lt;LSTag Tooltip="Persuasion"&gt;Persuasion&lt;/LSTag&gt; and &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt;. Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is doubled for the respective &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+	<content contentuid="h0419a5c1g5cc9g4caagb72cgbcf87052cf7e" version="1">Alacrity</content>
+	<content contentuid="h5fe2ca7bg00e1g4a34g9d86g11c911c6691b" version="3">You immediately restore your &lt;LSTag Tooltip="Action"&gt;action&lt;/LSTag&gt; and &lt;LSTag Tooltip="Bonus_Action"&gt;bonus action&lt;/LSTag&gt; at the start of combat.</content>
+</contentList>

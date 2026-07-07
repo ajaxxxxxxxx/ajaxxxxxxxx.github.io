@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h24297cbag154dg4deagbe5eg960c7ba85a03" version="1">Spend an Action to focus on a creature possessing the ability to cast spells, preventing it from becoming &lt;LSTag Type="Status" Tooltip="SNEAKING"&gt;Hidden&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; while its magic can be detected.</content>
+	<content contentuid="h8e2aee22ga5b9g4f6bg8184g45aefdedad88" version="1">Holy Weapon Removal</content>
+	<content contentuid="h65ed495eg1772g42adgbdbfg93e3da530cf8" version="1">Holy Weapon Burst has recently been used and Holy Weapon is no longer active.</content>
+	<content contentuid="h38571638g79a7g4ae6g8380g34d54cf06253" version="1">Three creatures in the area gain [1] and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. If hit by an attack, an affected creature has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on its next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; during combat.</content>
+	<content contentuid="3c050970-b3bc-447d-aec1-caed0391ea3e" version="1">Deal damage and attempt to entangle a creature. If the target fails a Strength saving throw, it can't move, &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against it have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;, while its Attack Rolls and Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+</contentList>

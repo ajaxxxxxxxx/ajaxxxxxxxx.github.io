@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h267b084dg844eg4774g80cdgcaae6e66a352" version="1">Alter Emotions</content>
+	<content contentuid="h9dcad4dfg1da3g4bbfgb8e9gd97f03b700de" version="1">Agitated</content>
+	<content contentuid="haa3824f9gd9efg4adcgab23g6984813b35f3" version="1">Grants allies &lt;LSTag Type="Status" Tooltip="SYR_CALM_EMOTIONS_ALLY"&gt;Calmed&lt;/LSTag&gt;, and afflict enemies with &lt;LSTag Type="Status" Tooltip="CALM_EMOTIONS"&gt;Agitated&lt;/LSTag&gt;.</content>
+	<content contentuid="he1de3d74g5d15g4289g8384g64a951604c4e" version="1">Can't &lt;LSTag Type="Spell" Tooltip="Shout_Rage"&gt;Rage&lt;/LSTag&gt;, has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; against &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, and has a -1 to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h654322cfg15fag426eg808bg0ff252c1e28c" version="1">Can't be &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt; or &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, and has a +1 bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+</contentList>

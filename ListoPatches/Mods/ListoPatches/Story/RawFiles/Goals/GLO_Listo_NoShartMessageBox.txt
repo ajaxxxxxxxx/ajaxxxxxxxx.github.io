@@ -1,0 +1,17 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF
+SavegameLoaded()
+THEN
+TimerLaunch("ReallyShadowheart_NotificationBegone", 8000);
+
+IF
+TimerFinished("ReallyShadowheart_NotificationBegone")
+THEN
+DB_ReallyShadowheart_NoNotesNotification(1);
+EXITSECTION
+
+ENDEXITSECTION

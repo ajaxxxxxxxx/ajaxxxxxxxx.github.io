@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h6a90724eg9714g4aa2g9f70gf10ca1b4afd1" version="1">The menancing aura that radiates from the Blackguard inflicts Disadvantage on enemy Strength and Charisma saving throws. In addition, non-undead suffer necrotic damage when attempting to cast spells in the Blackguard's presence.</content>
+  <content contentuid="hb7a0c522g2e4fg4ae9gbbc6ge9ff6ec88f57" version="1">The menancing aura that radiates from the Blackguard has deepened. It now inflicts Disadvantage on enemy Strength and Charisma saving throws, as well as Dexterity and Intelligence saving throws. In addition, non-undead suffer necrotic damage when attempting to cast spells in the Blackguard's presence.</content>
+  <content contentuid="h3b25b416g0322g402dgbee0g13243a3e3158" version="1">Rot of Despair</content>
+  <content contentuid="h44652c7eg2163g475fg85a2g1bc2b2e84c6c" version="1">Non-Undead enemies who attempt to cast spells within the despair aura of the Blackguard will take necrotic damage.</content>
+  <content contentuid="h6ddaea77g31a4g4456ga487g0752cc9c33f7" version="1">Aura of Despair</content>
+  <content contentuid="h971e30cbgf36bg4a02g9139g69840c68835e" version="1">Aura of Overwhelming Despair</content>
+</contentList >

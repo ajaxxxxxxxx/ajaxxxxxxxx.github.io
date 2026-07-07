@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="ha46e29dbge5e2g4376g93f5g65e669a843b4" version="1">Prevented from &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;. &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to Fire damage. Lightning Spell &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against wet targets have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;. Cold spells reduces &lt;LSTag Tooltip="Movementspeed"&gt;movementspeed&lt;/LSTag&gt; by 3m.</content>
+	<content contentuid="h019b4a95ge9aag4415gaeecgc23a1cad925d" version="1">Cold Spell.</content>
+	<content contentuid="h6efcc3f6gc58dg48a9ga91ag40afc99f7b53" version="1">Ray of Frost.</content>
+	<content contentuid="436c350c-7509-4375-9b8e-78a8cce5bec1" version="1">This entity resists Radiant damage, and reflects such damage as Necrotic energy.</content>
+</contentList>

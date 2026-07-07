@@ -1,0 +1,14 @@
+// ======================= Sunburst =======================
+// Increase damage to 12d8, caster and allies have advantage on saving throw, and using new icon
+
+new entry "Target_Sunburst"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Sunburst"
+data "Icon" "ATT_Spell_Evocation_Sunburst"
+data "SpellRoll" "not SavingThrow(Ability.Constitution, SourceSpellDC(), Ally() or Self(),Tagged('UNDEAD'))"
+data "SpellSuccess" "DealDamage(12d8,Radiant,Magical);ApplyStatus(BLINDNESS,100,10)"
+data "SpellFail" "DealDamage((12d8)/2,Radiant,Magical)"
+data "DescriptionParams" "DealDamage(12d8, Radiant)"
+data "ExtraDescription" "h47af5db9g9ba8g4a63g8e1ag84d5a7040e3f;1"
+data "TooltipDamageList" "DealDamage(12d8, Radiant)"

@@ -1,0 +1,131 @@
+new entry "WALLOFFIRE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFFIRE"
+data "Boosts" "IF(HasPassive('ElementalAdept_Fire',GetSummoner(context.Source))):IgnoreResistance(Fire,Resistant);IF(HasPassive('ElementalAdept_Fire',GetSummoner(context.Source))):MinimumRollResult(Damage,2)"
+
+new entry "WALLOFFIRE_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFFIRE_AURA"
+data "OnApplyRoll" "WallOfFireCheck(Ability.Dexterity,CalculateSpellDC(context.PreferredCastingAbility,GetSummoner(context.Source)))"
+data "OnTickRoll" "WallOfFireCheck(Ability.Dexterity,CalculateSpellDC(context.PreferredCastingAbility,GetSummoner(context.Source)))"
+
+
+
+new entry "WALLOFICE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFICE"
+data "Boosts" "IF(HasPassive('ElementalAdept_Cold',GetSummoner(context.Source))):IgnoreResistance(Cold,Resistant);IF(HasPassive('ElementalAdept_Cold',GetSummoner(context.Source))):MinimumRollResult(Damage,2)"
+
+new entry "WALLOFICE_7"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFICE"
+data "DescriptionParams" "DealDamage(12d6,Cold)"
+data "OnApplyFunctors" "CreateExplosion(Projectile_Wall_Of_Ice_Explode_7)"
+
+new entry "WALLOFICE_8"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFICE"
+data "DescriptionParams" "DealDamage(14d6,Cold)"
+data "OnApplyFunctors" "CreateExplosion(Projectile_Wall_Of_Ice_Explode_8)"
+
+new entry "WALLOFICE_9"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFICE"
+data "DescriptionParams" "DealDamage(16d6,Cold)"
+data "OnApplyFunctors" "CreateExplosion(Projectile_Wall_Of_Ice_Explode_9)"
+
+new entry "ICECLOUD"
+type "StatusData"
+data "StatusType" "BOOST"
+using "ICECLOUD"
+data "OnApplyRoll" "not SavingThrow(Ability.Constitution,CalculateSpellDC(context.PreferredCastingAbility,GetSummoner(context.Source)))"
+
+
+
+new entry "WALLOFTHORN"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFTHORN"
+data "AuraStatuses" "IF(not Dead()):ApplyStatus(WALLOFTHORN_AURA,100,1);ApplyStatus(DIFFICULT_TERRAIN_WALLOFTHORN,100,1)"
+
+new entry "WALLOFTHORN_7"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFTHORN"
+data "DescriptionParams" "DealDamage(8d8,Piercing)
+"data "AuraStatuses" "IF(not Dead()):ApplyStatus(WALLOFTHORN_AURA_7,100,1);ApplyStatus(DIFFICULT_TERRAIN_WALLOFTHORN,100,1)"
+
+new entry "WALLOFTHORN_8"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFTHORN"
+data "DescriptionParams" "DealDamage(9d8,Piercing)
+"data "AuraStatuses" "IF(not Dead()):ApplyStatus(WALLOFTHORN_AURA_8,100,1);ApplyStatus(DIFFICULT_TERRAIN_WALLOFTHORN,100,1)"
+
+new entry "WALLOFTHORN_9"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFTHORN"
+data "DescriptionParams" "DealDamage(10d8,Piercing)
+"data "AuraStatuses" "IF(not Dead()):ApplyStatus(WALLOFTHORN_AURA_9,100,1);ApplyStatus(DIFFICULT_TERRAIN_WALLOFTHORN,100,1)"
+
+new entry "WALLOFTHORN_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFTHORN_AURA"
+data "OnApplyRoll" "not SavingThrow(Ability.Dexterity,CalculateSpellDC(context.PreferredCastingAbility,GetSummoner(context.Source)))"
+data "OnTickRoll" "not SavingThrow(Ability.Dexterity,CalculateSpellDC(context.PreferredCastingAbility,GetSummoner(context.Source)))"
+
+new entry "WALLOFTHORN_AURA_7"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFTHORN_AURA"
+data "DescriptionParams" "DealDamage(8d8,Piercing)"
+data "TooltipDamage" "DealDamage(8d8,Piercing)"
+data "OnApplySuccess" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):DealDamage(8d8,Piercing,Magical);IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+data "OnApplyFail" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):DealDamage(8d8/2,Piercing,Magical);IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+data "OnTickSuccess" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED') or StatusDurationLessThan(context.Source, 'WALLOFTHORN_DAMAGE_RECEIVED', 0.1)):DealDamage(8d8,Piercing,Magical);ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+data "OnTickFail" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED') or StatusDurationLessThan(context.Source, 'WALLOFTHORN_DAMAGE_RECEIVED', 0.1)):DealDamage(8d8/2,Piercing,Magical);ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+
+new entry "WALLOFTHORN_AURA_8"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFTHORN_AURA"
+data "DescriptionParams" "DealDamage(9d8,Piercing)"
+data "TooltipDamage" "DealDamage(9d8,Piercing)"
+data "OnApplySuccess" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):DealDamage(9d8,Piercing,Magical);IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+data "OnApplyFail" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):DealDamage(9d8/2,Piercing,Magical);IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+data "OnTickSuccess" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED') or StatusDurationLessThan(context.Source, 'WALLOFTHORN_DAMAGE_RECEIVED', 0.1)):DealDamage(9d8,Piercing,Magical);ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+data "OnTickFail" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED') or StatusDurationLessThan(context.Source, 'WALLOFTHORN_DAMAGE_RECEIVED', 0.1)):DealDamage(9d8/2,Piercing,Magical);ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+
+new entry "WALLOFTHORN_AURA_9"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WALLOFTHORN_AURA"
+data "DescriptionParams" "DealDamage(10d8,Piercing)"
+data "TooltipDamage" "DealDamage(10d8,Piercing)"
+data "OnApplySuccess" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):DealDamage(10d8,Piercing,Magical);IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+data "OnApplyFail" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):DealDamage(10d8/2,Piercing,Magical);IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+data "OnTickSuccess" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED') or StatusDurationLessThan(context.Source, 'WALLOFTHORN_DAMAGE_RECEIVED', 0.1)):DealDamage(10d8,Piercing,Magical);ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+data "OnTickFail" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED') or StatusDurationLessThan(context.Source, 'WALLOFTHORN_DAMAGE_RECEIVED', 0.1)):DealDamage(10d8/2,Piercing,Magical);ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+
+new entry "DIFFICULT_TERRAIN_WALLOFTHORN"
+type "StatusData"
+data "StatusType" "BOOST"
+using "DIFFICULT_TERRAIN"
+data "Boosts" "ActionResourceConsumeMultiplier(Movement,4,0);MovementSpeedLimit(Walk)"
+
+
+
+new entry "BLADE_BARRIER_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BLADE_BARRIER_AURA"
+data "OnApplyRoll" "not SavingThrow(Ability.Dexterity,CalculateSpellDC(context.PreferredCastingAbility,GetSummoner(context.Source)))"
+data "OnTickRoll" "not SavingThrow(Ability.Dexterity,CalculateSpellDC(context.PreferredCastingAbility,GetSummoner(context.Source)))"

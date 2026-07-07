@@ -1,0 +1,33 @@
+-- Spell level (not Power level)
+function CHT_IsSpellLevelEqualToOrLessThan(value)
+	if value == 0 then
+		return IsCantrip()
+	elseif value == 1 then
+		return IsCantrip() | IsSpellLevel(1)
+	elseif value == 2 then
+		return IsCantrip() | IsSpellLevel(1) | IsSpellLevel(2)
+	elseif value == 3 then
+		return IsCantrip() | IsSpellLevel(1) | IsSpellLevel(2) | IsSpellLevel(3)
+	elseif value == 4 then
+		return IsCantrip() | IsSpellLevel(1) | IsSpellLevel(2) | IsSpellLevel(3) | IsSpellLevel(4)
+	elseif value == 5 then
+		return IsCantrip() | IsSpellLevel(1) | IsSpellLevel(2) | IsSpellLevel(3) | IsSpellLevel(4) | IsSpellLevel(5)
+	elseif value == 6 then
+		return IsCantrip() | IsSpellLevel(1) | IsSpellLevel(2) | IsSpellLevel(3) | IsSpellLevel(4) | IsSpellLevel(5) | IsSpellLevel(6)
+    elseif value == 7 then
+		return IsCantrip() | IsSpellLevel(1) | IsSpellLevel(2) | IsSpellLevel(3) | IsSpellLevel(4) | IsSpellLevel(5) | IsSpellLevel(6) | IsSpellLevel(7)
+	elseif value == 8 then
+		return IsCantrip() | IsSpellLevel(1) | IsSpellLevel(2) | IsSpellLevel(3) | IsSpellLevel(4) | IsSpellLevel(5) | IsSpellLevel(6) | IsSpellLevel(7) | IsSpellLevel(8)
+	elseif value == 9 then
+		return IsCantrip() | IsSpellLevel(1) | IsSpellLevel(2) | IsSpellLevel(3) | IsSpellLevel(4) | IsSpellLevel(5) | IsSpellLevel(6) | IsSpellLevel(7) | IsSpellLevel(8) | IsSpellLevel(9)
+    end
+end
+
+function CHT_DivineFortuneCheck()
+    return (CHT_IsSpellLevelEqualToOrLessThan(4) & HasUseCosts('SpellSlot')) | HasUseCosts('ChannelDivinity')
+end
+
+function CHT_HasHelpableCondition()
+    result = HasAnyStatus({'SG_Helpable_Condition','DOWNED','HAG_DOWNED','SCL_DOWNED','SG_Prone','SG_Restrained','PRONE','SLEEPING','SLEEP','ENSNARING_STRIKE','WEB','BURNING','HYPNOTIC_PATTERN','COL_NIGHTSONG_SOULCAGE','FeywildsKiss_DOWNED'}, {}, {})
+    return ConditionResult(result.Result, {ConditionError("HasNotHelpableCondition")})
+end

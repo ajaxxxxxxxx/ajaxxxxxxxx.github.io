@@ -1,0 +1,145 @@
+[
+    {
+        "Topic": "Classes",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "New and Changed Classes and Subclasses"
+            },
+            {
+                "type": "Content",
+                "text": "It's going to take a while to write up what each these changes does to the game."
+            }
+        ]
+    },
+    {
+        "Topic": "Classes",
+        "SubTopic": "General Changes",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "General Changes and Additions"
+            },
+            {
+                "type": "Content",
+                "text": "[Expansion Level 13-20](https://www.nexusmods.com/baldursgate3/mods/279)"
+            },
+            {
+                "type": "Separator",
+                "padding": 5
+            },
+            {
+                "type": "Content",
+                "text": "Adds level scaling up to level 20. Also implements several changes/optional rules introduced with Tasha's Cauldron of Everything and other publications."
+            }
+        ]
+    },
+    {
+        "Topic": "Classes",
+        "SubTopic": "Wild Magic",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Wild Magic"
+            },
+            {
+                "type": "Content",
+                "text": "These mods affect wild magic sorcerers, wild magic barbarians, and/or other situations where the wild magic effects table is rolled such as certain wild magic enemies, enemies with Controlled Chaos, or having the Enweaved feat. Sorcerers and creatures with wild magic should only accrue surge risk during combat, meaning out-of-combat uses of spells like Healing Word or Longstrider or Feather Fall will not increase the surge risk. In combat, the risk increases by 5% per spell casted until a surge is triggered. For player Sorcerers, you can avoid starting the wild magic risk slide by avoiding using Tides of Chaos, but that would be boring. Wild magic surges will restore Tides of Chaos, allowing you to keep it going multiple times throughout an adventuring day. Wild Magic Sorcerers in Listonomicon are a whacky risk-reward gameplay experience."
+            },
+            {
+                "type": "Bullet",
+                "text": [
+                    "[More Wild Magic effects](https://www.nexusmods.com/baldursgate3/mods/2022)",
+                    "[Wild Magic D100 Table](https://www.nexusmods.com/baldursgate3/mods/2967)",
+                    "[Increasingly Likely Wild Magic Surge](https://www.nexusmods.com/baldursgate3/mods/9603) (Combat Only)"
+                ]
+            },
+            {
+                "type": "CallOut",
+                "prefix": "Warning:",
+                "text": "[If Volo dies for any reason](https://www.nexusmods.com/baldursgate3/mods/4030), the Weave will begin unraveling and _all magic becomes wild magic_.",
+                "prefix_color": "WarningText"
+            }
+        ]
+    },
+    {
+        "Topic": "Classes",
+        "SubTopic": "Barbarian",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Barbarian"
+            },
+            {
+                "type": "Content",
+                "text": [
+                    "[Dynamic Wildheart Barbarian](https://www.nexusmods.com/baldursgate3/mods/8274) changes Wildheart Barbarians (aka \"Totem\") to be able to change which animal aspect is called upon when raging, which makes the subclass easier to adapt to different situations. Bear remains the most immediately powerful option (try combining the Durable feat with a Bear rage and Mageslayer, and laugh as enemies struggle to damage you!) but you can experiment more with situations where the other totems might be useful.",
+                    "[5e Reckless Attack Toggle](https://www.nexusmods.com/baldursgate3/mods/10924) changes the Reckless Attack feature from a reaction, to a toggled status."
+                ]
+            }
+        ]
+    },
+    {
+        "Topic": "Classes",
+        "SubTopic": "Cleric",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Cleric"
+            },
+            {
+                "type": "Content",
+                "text": "[Blessing of the Trickster](https://www.nexusmods.com/baldursgate3/mods/11566) is buffed to apply to more skills, and can be activated during dialogue similar to the Guidance spell. Trickery Clerics are a little less bad. Death Clerics can attempt to control their undead foes."
+            }
+        ]
+    },
+    {
+        "Topic": "Classes",
+        "SubTopic": "Druid",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Druid"
+            },
+            {
+                "type": "Content",
+                "text": [
+                    "[Druid Quality of Life](https://www.nexusmods.com/baldursgate3/mods/3214) is a QoL mod (duh) that changes many spells, effects, and magic items to interact with wildshape among other fixes.",
+                    "[Circle of the Spores Druid Damage Choice](https://www.nexusmods.com/baldursgate3/mods/11252) gives Spore druids the choice of dealing extra necrotic, acid, or poison damage with their class abilities, reducing how much this class suffers in Act 2 and creating new paths for synergy. [Combined with Spore Druid Extra Attack](https://www.nexusmods.com/baldursgate3/mods/4018) and the improved Shillelagh spell, Spore Druids are a very respectable frontline melee combat/utility cast/healer and a good choice for players who want to play a Druid but do not want to use Wildshape.",
+                    "Druids always have Speak With Animals prepared. They gain find familiar and flock of familiar at the appropriate levels. The Goodberry spell is buffed. Shilelagh is more powerful, is a permanent effect, and applies to a wider variety of weapons. Animal summons are improved. While Druids may not have many subclasses added, they are significantly better in Listo."
+                ]
+            }
+        ]
+    },
+    {
+        "Topic": "Classes",
+        "SubTopic": "Fighter",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Fighter"
+            },
+            {
+                "type": "Content",
+                "text": "Eldritch Knight weapon bonds are permanent, similar to Warlock Pact of the Blade weapon bonds. You no longer need to remember to redo your bond every morning. Eldritch Knihts in general are improved with better flow between mixing spells, cantrips, and extra attack."
+            }
+        ]
+    },
+    {
+        "Topic": "Classes",
+        "SubTopic": "Monk",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Monk"
+            },
+            {
+                "type": "Content",
+                "text": [
+                    "[Monk 5e Adjustments](https://www.nexusmods.com/baldursgate3/mods/1411) makes key QoL changes to various aspects of monks, such as supporting unarmed strikes even while you have a weapon in your hands.",
+                    "Monks have [special magical unarmed attacks](https://www.nexusmods.com/baldursgate3/mods/17666)."
+                ]
+            }
+        ]
+    }
+]

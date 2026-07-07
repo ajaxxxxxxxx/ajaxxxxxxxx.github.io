@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h38ae1482g2b19g4b26gb144g6ab5795265d7" version="1">Wall hit points increase by 10 per spell level</content>
+	<content contentuid="h1494e697g8860g4547g9d0fga60cce5237b5" version="1">Make a pillar of divine fire roar down from the heavens like the wrath of affronted angels. Potentially &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burns&lt;/LSTag&gt; targets, fiends and undeads receive &lt;LSTag Type="Status" Tooltip="BURNING_HOLY"&gt;Holy Burns&lt;/LSTag&gt; instead.&lt;br&gt;&lt;br&gt;Allows you to cast &lt;LSTag Type="Spell" Tooltip="SYR_Target_FlameStrike_Recast_A"&gt;Flamestrike Remembrance&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="SYR_Target_FlameStrike_Recast_B"&gt;Flamestrike Echo&lt;/LSTag&gt;.</content>
+	<content contentuid="h1acda99bg9e7bg4f4bga4dbge3dde81c8d48" version="1">Flamestrike Remembrance</content>
+	<content contentuid="hec8a3585ga946g4d6egb77cgff978cfaefc9" version="1">Can recast an echo of &lt;LSTag Type="Spell" Tooltip="Target_FlameStrike"&gt;Flamestrike&lt;/LSTag&gt;.</content>
+	<content contentuid="hf7a35da3g865fg434cgae39gcbc0e9df46d3" version="1">Make a small pillar of divine fire roar down from the heavens like the wrath of affronted angels.</content>
+	<content contentuid="h55aeefa3g6cddg4242g817cg327831ff1d9f" version="1">Can recast an echo of &lt;LSTag Type="Spell" Tooltip="SYR_Target_FlameStrike_Recast_A"&gt;Flamestrike Remembrance&lt;/LSTag&gt;.</content>
+	<content contentuid="hc9dc4b6fg2dc9g4ac5ga4abg41be912ecaf8" version="1">Flamestrike Echo</content>
+	<content contentuid="h2708fa4bg6de4g46edgba66gf2d38b998f6c" version="1">Make a tiny pillar of divine fire roar down from the heavens.</content>
+</contentList>

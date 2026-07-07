@@ -1,0 +1,288 @@
+new entry "ALCH_ELIXIR_BLOODLUST"
+type "StatusData"
+data "StatusType" "BOOST"
+using "ALCH_ELIXIR_BLOODLUST"
+data "SoundLoop" ""
+data "StatusEffect" ""
+
+new entry "ARMOR_OF_AGATHYS"
+type "StatusData"
+data "StatusType" "BOOST"
+using "ARMOR_OF_AGATHYS"
+data "SoundLoop" ""
+data "StatusEffect" ""
+
+new entry "BARKSKIN"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BARKSKIN"
+data "StatusEffect" ""
+
+new entry "BLESS"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BLESS"
+data "SoundLoop" ""
+data "StatusEffect" ""
+
+new entry "BLESSING_OF_THE_TRICKSTER"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BLESSING_OF_THE_TRICKSTER"
+data "SoundLoop" ""
+data "StatusEffect" ""
+
+new entry "GUIDANCE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "GUIDANCE"
+data "SoundLoop" ""
+data "ManagedStatusEffectGroup" ""
+
+new entry "HEX_REAPPLY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "HEX_REAPPLY"
+data "SoundLoop" ""
+data "StatusEffect" ""
+
+new entry "LONGSTRIDER"
+type "StatusData"
+data "StatusType" "BOOST"
+using "LONGSTRIDER"
+data "SoundLoop" ""
+data "StatusEffect" ""
+
+new entry "SCL_MOONSHIELD"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SCL_MOONSHIELD"
+data "StatusEffect" ""
+
+new entry "HAV_SELUNEOINTMENT"
+type "StatusData"
+data "StatusType" "BOOST"
+using "HAV_SELUNEOINTMENT"
+data "StatusEffect" ""
+
+new entry "SEE_INVISIBILITY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SEE_INVISIBILITY"
+data "StatusEffect" ""
+
+new entry "SHIELD_OF_FAITH"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SHIELD_OF_FAITH"
+data "StatusEffect" ""
+
+new entry "TAD_SHIELD_OF_THRALLS"
+type "StatusData"
+data "StatusType" "BOOST"
+using "TAD_SHIELD_OF_THRALLS"
+data "StatusEffect" ""
+
+new entry "STONESKIN"
+type "StatusData"
+data "StatusType" "BOOST"
+using "STONESKIN"
+data "ApplyEffect" ""
+
+new entry "SYMBIOTIC_ENTITY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SYMBIOTIC_ENTITY"
+data "StatusEffect" ""
+
+new entry "WARDING_BOND"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WARDING_BOND"
+data "SoundLoop" ""
+data "StatusEffect" ""
+
+new entry "WARDING_BOND_CASTER"
+type "StatusData"
+data "StatusType" "BOOST"
+using "WARDING_BOND_CASTER"
+data "StatusEffect" ""
+
+new entry "LONGSTRIDER"
+type "StatusData"
+data "StatusType" "BOOST"
+using "LONGSTRIDER"
+data "SoundLoop" ""
+data "SoundStop" "Spell_Status_Longstrider_MO_Stop"
+data "StackId" "LONGSTRIDER"
+data "StatusEffect" ""
+
+new entry "HEX_REAPPLY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "HEX_REAPPLY"
+data "SoundStart" "Spell_Status_Hex_Enter"
+data "SoundLoop" ""
+data "SoundStop" "Spell_Status_Hex_MO_Stop"
+data "ApplyEffect" "3b08002d-3034-46e1-a9b4-6d95eb7b70f8"
+data "StatusEffect" ""
+
+new entry "ARMOR_OF_AGATHYS"
+type "StatusData"
+data "StatusType" "BOOST"
+using "ARMOR_OF_AGATHYS"
+data "SoundLoop" ""
+data "SoundStop" "Spell_Status_ArmorOfAgathys_MO_Stop"
+data "StatusEffect" ""
+
+new entry "SEE_INVISIBILITY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SEE_INVISIBILITY"
+data "StatusEffect" ""
+
+new entry "SYMBIOTIC_ENTITY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SYMBIOTIC_ENTITY"
+data "StatusEffect" ""
+
+new entry "SCL_MOONSHIELD_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SCL_MOONSHIELD_AURA"
+data "StatusEffect" ""
+
+new entry "SCL_MOONSHIELD"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SCL_MOONSHIELD"
+data "StatusEffect" ""
+
+// ===============================================================
+// Enhance Leap (LONG_JUMP)
+// ===============================================================
+//
+// Level 1: Druid, Sorcerer, and Wizard
+// Level 2: Ranger Ranger
+// Level 3: Arcane Trickster Rogue, Eldritch Knight Fighter, and Githyanki (once per long rest)
+//
+// Enhance Leap - Duration: Until Long Rest, No VFX/SFX
+
+new entry "LONG_JUMP"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h66ad8706gaa29g499bg92aeg7b3499d11e0a;1"
+data "Description" "h885674d8g69c4g446bg86d0ga187486b63f3;1"
+data "Icon" "Spell_Transmutation_LongJump"
+data "StackId" "LONG_JUMP"
+data "Boosts" "JumpMaxDistanceMultiplier(3)"
+data "OnApplyFunctors" "AI_ONLY:IF(not HasStatus('LONG_JUMP')):ApplyStatus(AI_HELPER_LONGJUMP,100,5)"
+//data "StatusEffect" "05140f43-7bb5-40bd-a584-743a3f03916a"
+data "StatusEffect" ""
+
+
+// ===============================================================
+// FEATHER_FALL
+// ===============================================================
+//
+// Level 1: Bard, Sorcerer, and Wizard
+// Level 3: Arcane Trickster Rogue and Eldritch Knight Fighter
+//
+// Feather Fall - Duration: Until Long Rest, No VFX/SFX
+
+new entry "FEATHER_FALL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h831c2782g1cdfg4dd3gb834gbeb143bb3b69;1"
+data "Description" "h1a1a6a3ag2747g483dg92dfg4f3a48936490;3"
+data "Icon" "Spell_Transmutation_FeatherFall"
+//data "SoundLoop" "Spell_Status_FeatherFall_MO"
+data "SoundLoop" ""
+data "StackId" "FEATHER_FALL"
+data "Boosts" "IgnoreFallDamage()"
+data "StatusGroups" "SG_RemoveOnRespec"
+//data "StatusEffect" "7b34d365-1fb3-4245-93ed-e79ee524f811"
+data "StatusEffect" ""
+
+
+// ===============================================================
+// MAGE_ARMOR
+// ===============================================================
+//
+
+new entry "MAGE_ARMOR"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAGE_ARMOR"
+data "SoundStop" "Spell_Status_MageArmor_MO_Stop"
+data "StatusEffect" ""
+
+// ===============================================================
+// MAGIC_WEAPON
+// ===============================================================
+//
+
+new entry "MAGIC_WEAPON"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAGIC_WEAPON"
+data "SoundLoop" ""
+data "SoundStop" ""
+
+// ===============================================================
+// Enlarge/Reduce
+// ===============================================================
+//
+
+new entry "ENLARGE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "ENLARGE"
+data "SoundLoop" ""
+data "StatusEffect" ""
+
+new entry "REDUCE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "REDUCE"
+data "SoundLoop" ""
+data "StatusEffect" ""
+
+new entry "SHIELD_OF_FAITH"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SHIELD_OF_FAITH"
+data "StatusEffect" ""
+
+// ===============================================================
+// BARKSKIN
+// ===============================================================
+//
+
+new entry "BARKSKIN"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BARKSKIN"
+data "StatusEffect" ""
+
+// ===============================================================
+// PROTECTION_FROM_POISON
+// ===============================================================
+//
+
+new entry "PROTECTION_FROM_POISON"
+type "StatusData"
+data "StatusType" "BOOST"
+using "PROTECTION_FROM_POISON"
+data "StatusEffect" ""
+
+// ===============================================================
+// Blessing of Selune
+// ===============================================================
+
+new entry "HAV_SELUNEOINTMENT"
+type "StatusData"
+data "StatusType" "BOOST"
+using "HAV_SELUNEOINTMENT"
+data "StatusEffect" ""

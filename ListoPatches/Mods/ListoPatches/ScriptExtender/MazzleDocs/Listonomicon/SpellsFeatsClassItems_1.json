@@ -1,0 +1,111 @@
+[
+    {
+        "Topic": "Introduction",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Spells, Feats, & Class Items"
+            }
+        ]
+    },
+    {
+        "Topic": "Spells",
+        "SubTopic": "New Spells",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "New Spells"
+            },
+            {
+                "type": "SubHeading",
+                "text": "5e, Homebrew, Spells Extra, Pathfinder 2e, Mystra Spells, and Veenab Spells, Water Spells, and More"
+            },
+            {
+                "type": "Content",
+                "text": [
+                    "[5e Spells](https://www.nexusmods.com/baldursgate3/mods/125) adds a variety of tabletop spells missing from BG3.",
+                    "[Homebrew Spells](https://www.nexusmods.com/baldursgate3/mods/473) adds a small selection of additional 0th - 5th level spells.",
+                    "[Spells Extra](https://www.nexusmods.com/baldursgate3/mods/11291) is used to cover any missing spells needed by Luma's various subclass mods.",
+                    "[PF2e Spells](https://www.nexusmods.com/baldursgate3/mods/2460) has been patched by myself, adding another ~60 spells to the game based on PF2e spells (but rebalanced to fit BG3).",
+                    "Mystra's Spells from Mod.io is used in Listo. Specifically, a limited selection of the spells that do not already exist in 5e spells.",
+                    "Veenab's Spells is in Listo. This primarily adds several spells to Warlocks themed around invoking more Great Old Ones, but that is not all that is added.",
+                    "Water Spells adds a number of hydro-themed options.",
+                    "Valkrana's, Dawnstars, and Xara add even more spells alongside Book of Ebon Tides and other smaller mods."
+                ]
+            },
+            {
+                "type": "CallOut",
+                "prefix": "Note:",
+                "text": "Many of these spells are available to your enemies, so be on your toes!",
+                "prefix_color": "KeywordText"
+            }
+        ]
+    },
+    {
+        "Topic": "Spells",
+        "SubTopic": "Spell Rebalances",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "Spell Rebalances"
+            },
+            {
+                "type": "SubHeading",
+                "text": "A blend of Valdacil, Syrchalis, Cahoot, myself, and others"
+            },
+            {
+                "type": "Content",
+                "text": [
+                    "[Valdacil's adjustment mod](https://www.nexusmods.com/baldursgate3/mods/4426) rebalances several of the spells based on the philosophy Larian applied with the spells they included in the game. So expect the spells you love from D&D but don't expect all of them to work exactly like they do in the book (or the way they work in BG3 vanilla). Valdacil is more-or-less the \"baseline\" for rebalancing vanilla and 5e Spells, and another [rebalance mod is used](https://www.nexusmods.com/baldursgate3/mods/1590?tab=description) to translate Homebrew Spells better to BG3. [Valdacil's Mystic Rebalance](https://www.nexusmods.com/baldursgate3/mods/4426) is the baseline for altering Mystic features/abilities/psionic foci/spells.",
+                    "But there are many changes in Listo on top of Valdacil's suite, including some selections of Syrchalis spell rebalances/changes where I think Syrchalis has more compelling ideas. Finally, there is a medley of changes I have made on top of/with/thanks to Valdacil/Syrchalis/other modders, and Cahoot.",
+                    "From Valdacil's changes:"
+                ]
+            },
+            {
+                "type": "Bullet",
+                "text": [
+                    "Hex is now something you cast at the start of the day. It costs 1 slot to cast the first time - but once it is prepared, you will gain a _new_ hex spell on your hotbar called \"Hex Target.\" This is what you use to actually apply the hex to an enemy. The spell applies disadvantage on all ability checks (you don't pick one), otherwise it works as normal. Re-casting the spell to target new creatures costs a bonus action but not more spell slots. Cast Hex at the start of the day to prepare the spell, and then use Hex Target to actually hex enemies during encounters.",
+                    "Hunter's Mark works the same way. Cast Hunter's Mark, then use Mark Target to apply the effect to targets.",
+                    "Shield of Faith lasts until long rest and does not require Concentration.",
+                    "Many spells can be upcasted to have multiple targets and will scale to 9th level.",
+                    "Compelled Duel makes an enemy want to target you, but it also gives you advantage to hit them.",
+                    "Divine Favor's bonus to damage scales with spell level.",
+                    "Ray of Sickness and Ray of Enfeeblement chain to nearby targets, scales with upcasting."
+                ]
+            },
+            {
+                "type": "Content",
+                "text": [
+                    "Speak with Animals and Longstrider are AoE casts that last until long rest, dramatically decreasing the management necessary to prepare your adventuring party each morning. Shillelagh lasts until long rest and can be applied to a much wider variety of weapons, including spears, javelins, warhammers, tridents, and more. When not in combat, the Jump spell is an AoE ritual that can help your entire party reach high places. Valdacil's change to give wizards access to all ritual spells at level 1 is gone.",
+                    "Illithid Powers are [significantly revamped](https://www.nexusmods.com/baldursgate3/mods/5105?tab=files) with Illithid Powers Overhaul 2. If you choose to use the astral tadpole, Illithid Powers are very powerful in Act 3.",
+                    "My fork/patch of the PF2e Spells mod rebalances and fixes several spells. Phase Bolt is less powerful, for example, applying only a -1 AC per effect stack instead of -2. Other features of the mod (such as the action -> bonus action conversion and other PF2e features that are not spells) are removed.",
+                    "Water Spells is significantly rebalanced by the Listo Master Spells Patch. Most spells should now support upcasting to 9th level, and many spells are less powerful. For example, the original mod includes a 2nd level spell that is capable of completely immobilizing a target, while dealing damage every turn, and giving advantage on all attacks against the target, for 10 rounds. Now, it slows the target; deals less damage; gives the target disadvantage on attacks and attackers have advantage; and it only lasts 3 rounds. But damage, and duration, scale with spell slot. Similar rebalances/fixes/clean up are applied throughout the mod.",
+                    "Cahoot has supplied his own rebalance for Color Spray and the Sleep spells, which alters them to saving throws and forcse Sleep to respect sylvan immunity to sleep effects. These spells should no longer be useless vs the higher enemy HP in Listo, without being overpowered."
+                ]
+            }
+        ]
+    },
+    {
+        "Topic": "Feats",
+        "SubTopic": "Changed Feats",
+        "content": [
+            {
+                "type": "Heading",
+                "text": "New and Changed Feats"
+            },
+            {
+                "type": "Content",
+                "text": [
+                    "In Listonomicon, all classes earn a feat at a rate of one per 3 levels. Fighters and Rogues earn an additional feat at level 11. So all classes get a feat at 3, 6, 9, 12, 15, and 18; Fighters, Mesmerists, and Rogues get a feat at 3, 6, 9, **11**, 12, 15, and 18.",
+                    "The [Arcanist Feat](https://www.nexusmods.com/baldursgate3/mods/1087) allows you to gain +1 INT, gain expertise in Arcana, and learn any level 1 spell which can be casted once per short rest. Consider how various level 1 spells (such as Shield of Faith) have been rebalanced. That's basically a free +2 AC for anyone who would not otherwise have access to the spell, such as an Eldritch Knight. Clerics or Monks may want to use it for access to Shillelagh.",
+                    "The Improved Poison Equipment mod adds a Poison version of the Elemental Adept feat. If you stack two sources of the ability (such as taking the feat while wearing The Poisoner's Robe), enemy poison immunity will be downgraded to poison resistance. A Green Dragonborn Circle of Spores Druid who takes the feat and wears the Poisoner's Robe would get the benefits of the feat (reroll 1's, ignore resistance) for their breath weapon, spore attack, and poison damage spells.",
+                    "[Essential Feats](https://www.nexusmods.com/baldursgate3/mods/5623) adds a great variety of feats. For multiclass melee-caster builds, War Magic allows you to combine casting with weapon swinging. Specifically, after casting a spell or cantrip you can make 1 attack as a bonus action. This is different from, and does not stack with, Eldritch Knight's similar feature that allows cantrips to be used with multiattack. This is especially great for Clerics who otherwise do not get access to extra attack or war priest extra attack, as you can combine a cast and a swing every turn. Deadly Alacrity reduces the number needed to roll a crit (stacks with any/other crit chance increase effects) and restores mobility for hits and kills. Alchemist turns anyone into a potion throwing utility character and makes it possible to brew 2 potions instead of 1. Various Initiate, Touched, and Adept feats give limited access to the features of other classes such as a fighting maneuvers, eldritch invocations, or metamagic. Using these feats is an alternative to Arcanist, and the user gains 2 cantrips and 1 spell of 1st level. A great use of these feats is to get Shillelagh as a non-Nature Cleric or Monk, without needing to dip into Druid. A Sorcerer or Bard could pick up eldritch blast, another Warlock cantrip, and Mage Armor.",
+                    "Vanilla feats are heavily altered by the hard work of Cahoot, who helped Ajax implement many ideas, improve on other Nexus mods, or straight up designed his own improvements. [You can read about them here](https://docs.google.com/document/d/1l2yhpaMBaue98rkjhEPYIjSmtUwiw1tc8KqhK7FJMak/edit?usp=sharing). These rebalances include altering Great Weapon Master and Sharpshooter. You effectively sacrifice getting a proficiency bonus on your attack roll, to instead get a proficiency bonus on your damage roll. Other important changes include Tough (which comes with +1 CON) and Durable (which comes with a proficiency bonus scaling damage resistance). A Durable + Mageslayer Cleric, Paladin, Barbarian, or Fighter is very formidable and can form an essential anchor and tank for your team! Tavern Brawler is significantly less powerful. Dual Wielder is altered by [Dual Wielding Master](https://www.nexusmods.com/baldursgate3/mods/1304). You can make a normal attack with two weapons using your action and bonus action, or you can toggle swinging both weapons with a single action. If using both weapons in a single action, you receive a -3 penalty to attack rolls, but this allows you to combine multiattack with dual wielding and compete with the relative power of Great Weapon Master, or using a dueling fighting style and shield.",
+                    "[Enweaved](https://www.nexusmods.com/baldursgate3/mods/13310) adds a way to get +2 in INT, WIS, or CHA - but be warned, it comes with wild magic and _wild magic allergy_! This can help a caster reach 22 in their casting stat (and get to 24 with Hag's Hair + the relevant Tome) but it will make casting spells, and being around spellcasting, a dangerous gambit.",
+                    "[Experimental Alchemy as a Feat](https://www.nexusmods.com/baldursgate3/mods/12446) provides another way to get access to Experimental Alchemy, which potentially causes two potions to be brewed instead of one when using alchemy. Note that multiple ExpAlch sources do not stack (eg Wizard + Artificer + this feat would still only produce 2 potions).",
+                    "[Dirty Fighting](https://www.nexusmods.com/baldursgate3/mods/14049) grants players a bonus action attack that, if successful, will knock an opponent \"Off Balance\" - granting advantage for melee attacks. This is a great choice for sword-and-shield Fighters who otherwise may not use their bonus action very often, as well as melee Rogues who want a reliable setup for Sneak Attack. Beware, enemy Fighters and Rogues will be using this when you reach Baldur's Gate!"
+                ]
+            }
+        ]
+    }
+]
