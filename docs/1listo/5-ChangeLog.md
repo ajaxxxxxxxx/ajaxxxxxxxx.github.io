@@ -19,8 +19,9 @@ description: Update info
 
 Save safe? No.
 
-1. Updated the MO2-BG3 plugin. It MIGHT now be more reliable/trustworthy with how it handles generating a mod list, improving multiplayer compatability (two users with the same exact setup should stop having issues caused by their PCs putting random mods in random order). The plugin also no longer requires Root Builder, removing a few steps for Linux users and users who install Listo to a different location than BG3.
-2. Created a new "optional" category for "Expanded Game Content" - a place for mods that I really like, but don't want to actively maintain support/patching/compabibility for as the core experience.
+1. Updated the MO2-BG3 plugin. It MIGHT now be more reliable/trustworthy with how it handles generating a mod list, improving multiplayer compatability (two users with the same exact setup should stop having issues caused by their PCs putting random mods in random order). The plugin also no longer requires Root Builder, removing a few steps for Linux users and users who install Listo to a different location than BG3. Current version is v1.1.3.
+2. Removed RootBuilder from Listo.
+3. Created a new "optional" category for "Expanded Game Content" - a place for mods that I really like, but don't want to actively maintain support/patching/compabibility for as the core experience.
      * Moved "Features From DnD 5E Spelljammer" here - the mini-expansion that adds a short Act 3 quest to obtain a void-ship from Propper.
      * Moved Justice for Nessa, Tusk Evolved, ~~Owlbear Cub Evolved~~ (removed), and Bernard Evolved here.
      * Moved Path of Undeath and Path of the Righteous here.
@@ -100,6 +101,39 @@ Save safe? No.
 54. Added Mazzle Group Climbing. No more waiting one at a time to climb stuff.
 55. Added More Camp Idles for Karlach and Shadowheart.
 56. Official release of Paragon!
+57. Added Slune's Tears - Summon Geraldus.
+58. Added Embrace Shadowheart.
+59. Added Improved Equip Menu.
+60. Added Simple Fast Forward.
+61. Added A Soul By the Stormshore.
+62. Added I'm On Your Side - Mayrina Dialogue Tweak.
+63. Added Head VFX Universal Automatic Patcher - and removed the many now redundant patches no longer needed. Volitio is the best.
+64. Added Trickster Thalia Head Preset.
+65. Added Dawnbringer.
+66. Added Path of Undeath Bloodtrail (optional).
+67. Added Laezel has Githyanki Egg.
+68. Added Goon's Inheritance Fixes.
+69. Added Clean My Hotbar.
+70. Added Wye Fey potions, replacing the older WiFi Potions.
+71. Added Hair Catalog Part 3.
+72. Added (optional) Advanced Enemy Randomizer.
+73. Added Guardian of Faith Fixes.
+74. Added (optional) Role-Play Partial Rest. Despite the intent of the mod being something different, I am testing if adding this to Listo - alongside the increased camp supply costs - creates a situation where players can always get SOME resources back, and progress camp events, with a little less frustration if you run out of food.
+75. Added (optional) Dynamic Difficulty Scaling.
+76. Replaced Native Camera Tweaks with NCT with GUI.
+77. Added Luna Head.
+78. Added Mizora Always Joins Gather Your Allies.
+79. Added Hair Catalog Volume 2.
+80. Added Radiant Threads AIO (transmog only).
+81. Added Isobel Edits.
+82. Added Auto-Knockout Story NPCs.
+83. Added Abdirak's New Look.
+84. Added Hypnotic Gaze Breaks Concentration.
+85. Added Planar Equality.
+86. Added Container Loot Control.
+87. Added Miria Head.
+88. Added Mizora's Milk.
+89. Added Speak With Dead Always Highlights Corpses.
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
