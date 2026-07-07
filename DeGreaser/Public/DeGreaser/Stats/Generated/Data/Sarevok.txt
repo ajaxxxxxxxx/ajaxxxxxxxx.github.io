@@ -1,0 +1,10 @@
+// Sarevok Anchev - Justice of the Murder Tribunal, Cult of Bhaal - HONOUR MODE INHERITANCE (Added Fighter progressions, added Champion subclass, added Boss boost)
+new entry "LOW_Sarevok"
+type "Character"
+using "LOW_Sarevok"
+// data "Passives" "ExtraAttack;ImmuneToDisarm;Indomitable;Surprise_Immunity;DarknessRules;AttackOfOpportunity"
+// data "Passives" "ExtraAttack;ImmuneToDisarm;Indomitable;Surprise_Immunity;DarknessRules;AttackOfOpportunity;LegendaryAction_LOW_BhaalsRetribution_Sarevok"
+data "Passives" "CX_Boss_Boost;CX_Fighter_Champion_Boost;HumanMilitia;HumanVersatility;AttackOfOpportunity;DarknessRules;ExtraAttack;ImmuneToDisarm;Indomitable;Surprise_Immunity;LegendaryAction_LOW_BhaalsRetribution_Sarevok;DefaultStatus_Bulette_DiamondScales;LegendaryAction_Bulette_DiamondScalesBurst;Siael_EyeOfVecna;Siael_HandOfVecna"
+// data "Progressions" ""
+data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
+data "DefaultBoosts" "Skill(Athletics, 7); Skill(Perception, 9);Resistance(Poison, Immune);Resistance(Necrotic, Resistant);StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Poisoned);StatusImmunity(BLEEDING);StatusImmunity(SLEEPING);StatusImmunity(GAPING_WOUND);StatusImmunity(CHEST_TRAUMA);StatusImmunity(DAZED);StatusImmunity(SG_Charmed);Tag(UNDEAD);Tag(CHASM_IMMUNE);Tag(IGNORE_CHASMS);StatusImmunity(SG_Prone);BlockRegainHP(Undead;Construct);ProficiencyBonus(SavingThrow, Strength);ProficiencyBonus(SavingThrow, Constitution);Tag(UNDEAD)"

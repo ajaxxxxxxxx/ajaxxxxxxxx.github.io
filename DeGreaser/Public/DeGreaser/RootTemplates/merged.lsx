@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h1ca9e5855ee94c1398ec96cf5431fb44" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hdd6125819956415b875940705567f211" version="1" />
+					<attribute id="Icon" type="FixedString" value="ATO_Blunderbuss" />
+					<attribute id="MapKey" type="FixedString" value="a63dcd37-aaea-49df-9953-b24802e2aab2" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Breath_of_Yaccocmuud" />
+					<attribute id="ParentTemplateId" type="FixedString" value="2f9ee0dc-4f9f-4efa-9acb-0b169424c19f" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Breath_of_Yaccocmuud" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hfa41e4c765f64a8691418a1ab403c114" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h83bc17c4318d4c90b02bf799b4861226" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Evocation_SpiritualWeapon_Trident" />
+					<attribute id="MapKey" type="FixedString" value="eb30c013-5370-4b14-801c-d7cff389bdc8" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Mariners_Revenge" />
+					<attribute id="ParentTemplateId" type="FixedString" value="6cf827d6-5bae-480a-a1b4-d7fdb0e68801" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Mariners_Revenge" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h32ad4c4de3cf4923917d60e787246920" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h3b0ce0115c674f3c96f7c37830575480" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Maul_A_0" />
+					<attribute id="MapKey" type="FixedString" value="fcfebf90-c367-46e6-aaf0-de0a571f8d99" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Yaccocmuuds_Yang" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a18d" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Yaccocmuuds_Yang" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h18aa8dc6692c4ceea178617f67f9645a" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb70d8f66724e455584f79b7a22f728af" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Maul_A_0" />
+					<attribute id="MapKey" type="FixedString" value="55681252-37a7-43f1-b265-ee873da0c825" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Yaccocmuuds_Yin" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a18d" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Yaccocmuuds_Yin" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="ha96336b2c9584e5ca3d721e7387e2e4b" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h222f719e8b784260aa15ac4675d9cb87" version="1" />
+					<attribute id="Icon" type="FixedString" value="JWL_Item_DI_BookManySpells" />
+					<attribute id="MapKey" type="FixedString" value="6bc82164-8cd8-4fc4-8077-8b4c02bac113" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Rolans_Stolen_Spellbook" />
+					<attribute id="ParentTemplateId" type="FixedString" value="991abd7a-1875-4357-ad6a-ae0f3de6bd50" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Rolans_Stolen_Spellbook" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h855d3fed4f774690b607f4f35c46404f" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h75a277129bfd47899225d055b1282b08" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Dagger_Bhaalist_A" />
+					<attribute id="MapKey" type="FixedString" value="4d095dd0-39ed-48a9-bf92-679ebaaffbb9" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Shadow_of_Divinity" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0cfbd2ef-6eb3-4283-b0c9-8e23a4f9bf8cItem_WPN_HUM_Dagger_Bhaalist_A" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Shadow_of_Divinity" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h1b0d26add7cf4cf8b5ae3be3603c9dc2" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1d54899c1cbb427a93e381a79386b9d7" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_Merregon_Halberd_A" />
+					<attribute id="MapKey" type="FixedString" value="d5a963b4-7f64-4cf6-b9fe-df517298b861" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Demon_Eyes_Halberd" />
+					<attribute id="ParentTemplateId" type="FixedString" value="35682866-bd23-44a2-9a25-6a3ba2ee2b48" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Demon_Eyes_Halberd" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="haea58b43ec864e029060f95112e0165c" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4b95917833784dbc8c2b665c3a3a4ea1" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_MAG_TheVictory_Longbow" />
+					<attribute id="MapKey" type="FixedString" value="69d83116-51e7-448d-9914-cd8525e54ce3" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Sussurstring_Bow" />
+					<attribute id="ParentTemplateId" type="FixedString" value="13236988-83df-4bf2-8005-b4ac31f21ff4" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Sussurstring_Bow" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="h17383768g7570g4082g80a0g075a77c7661b" version="1" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hd93dee0128b84a6f94993683a0b60419" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hddc159969cf7407d8711d1c1c3c90e9d" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_MAG_TheVictory_Longbow" />
+					<attribute id="MapKey" type="FixedString" value="7fc14726-ac80-44b4-93e4-a9c889b02eb4" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Devilstring_Bow" />
+					<attribute id="ParentTemplateId" type="FixedString" value="13236988-83df-4bf2-8005-b4ac31f21ff4" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Devilstring_Bow" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hf1b10dcb22644e1abc6a976f40a86da1" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="ha8c414a769ee4ea4a8430f69c043fb5b" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_MAG_TheVictory_Longbow" />
+					<attribute id="MapKey" type="FixedString" value="fe092bb8-6554-454b-94b6-6d04043c0212" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Adamantine_String_Bow" />
+					<attribute id="ParentTemplateId" type="FixedString" value="13236988-83df-4bf2-8005-b4ac31f21ff4" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Adamantine_String_Bow" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h52494d4371c040c18626486449d2a16e" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hee0fa0899a934dd2b68c76ccb22f8319" version="1" />
+					<attribute id="Icon" type="FixedString" value="SOF_Goggles_Icon" />
+					<attribute id="MapKey" type="FixedString" value="f78a45db-4214-4130-87c9-acde9ebc5b81" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Galloways_Goggles_of_True_Sight" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a4339fe1-18bc-4bf4-9d31-95992fbd43d8" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Galloways_Goggles_of_True_Sight" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h164e68be2692475b9bd57376357d21e7" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h99a5829915564a1baf0bea802f721115" version="1" />
+					<attribute id="Icon" type="FixedString" value="Generated_UNI_Minsc_Cloak" />
+					<attribute id="MapKey" type="FixedString" value="70a07975-f427-4c32-b847-e1f287d00dbc" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Cloak_of_Supreme_Defenses" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c70ae037-f787-4db6-bb16-e0bbc0fdad4a" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Cloak_of_Supreme_Defenses" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hd672f4d455f046609a7858cde557377a" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7d4322802d4f48d1a834fe564d36b67d" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_Gloves_Leather" />
+					<attribute id="MapKey" type="FixedString" value="25524784-7a6f-4ef3-bfed-90094fb716c2" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Gloves_of_Gecko_Grip" />
+					<attribute id="ParentTemplateId" type="FixedString" value="66e20a58-4bc3-4e17-a13e-510a19b23c33" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Gloves_of_Gecko_Grip" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h539b41419c8e4b18a0af18e3896d71ec" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h3aec43aa362945a7878d28a2d75a6037" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Amulet_Necklace_B_Bronze_A_1" />
+					<attribute id="MapKey" type="FixedString" value="21e35056-7d8c-4294-8158-9ffcc910eb59" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Radiant_Conduit" />
+					<attribute id="ParentTemplateId" type="FixedString" value="757d37d1-a225-448f-a25b-02daffbdec97" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Radiant_Conduit" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hd5c75e36fccf4a8bb19a3329d0d05245" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hb51c719604274c30818a50af10f4f20a" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Amulet_Necklace_B_Bronze_A_1" />
+					<attribute id="MapKey" type="FixedString" value="3381ee52-cbb6-439a-bd2f-2f020fe55350" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Necrotic_Conduit" />
+					<attribute id="ParentTemplateId" type="FixedString" value="757d37d1-a225-448f-a25b-02daffbdec97" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Necrotic_Conduit" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h74de494d18b04635af399d460ccab884" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc54c1eb4f0fd4b54b862fbfe1347864b" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Flail_Myrkul_A_0" />
+					<attribute id="MapKey" type="FixedString" value="bfbf01ed-8ce5-447f-afed-170389d83b6a" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Censor_of_Orcus" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4c86f6ac-5829-41f2-a3f0-d3e893334961" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Censor_of_Orcus" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hf5c75588de924c6ea6d5295e72b6250c" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h8807306422a146529b66eeec5fad726f" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Azer_Warhammer_A" />
+					<attribute id="MapKey" type="FixedString" value="3d97ef33-93dc-4558-a59d-30efd253e213" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Durkons_Hammer" />
+					<attribute id="ParentTemplateId" type="FixedString" value="22baa548-56a4-494c-a9d0-4880d6f1da91" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Durkons_Hammer" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hcd8ad5bca662414b81c5e4e17f8dc521" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hfa7bf8c0d202489db8240b2d02b96b68" version="1" />
+					<attribute id="Icon" type="FixedString" value="MAG_Druid_Magic_Leather_Armor" />
+					<attribute id="MapKey" type="FixedString" value="dd587ec9-5c46-41c9-9ad3-2383fe2575f9" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Armor_of_the_Bear" />
+					<attribute id="ParentTemplateId" type="FixedString" value="26b77cf7-8722-4e61-a820-555de653e8ab" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Armor_of_the_Bear" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h07991289811744aa8b02a11414d0451d" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h8f2abdd8ee3f49e894843f162816e9a8" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_UNI_WPN_HUM_Scimitar_FlameBlade" />
+					<attribute id="MapKey" type="FixedString" value="19009dc8-2c0f-4066-8b88-261ae8fbd80d" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Resplendant_Scimitar" />
+					<attribute id="ParentTemplateId" type="FixedString" value="dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Resplendant_Scimitar" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h609895dc133b488bb880c10de99f8484" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h2161809878a0473880ab6139df161c0c" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greataxe_B_1" />
+					<attribute id="MapKey" type="FixedString" value="58ef66bb-89b9-4da5-a179-b08319534cf1" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Flamepearls_Vorpal_Greataxe" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9a81cb70-6a5c-465b-b4b9-0931d544095c" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Flamepearls_Vorpal_Greataxe" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hf15155e253da4aa1af024bdf07115415" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h4ddd186412c64eaa8b4455ed41debb4a" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greataxe_B_1" />
+					<attribute id="MapKey" type="FixedString" value="a9a4d39b-4a93-4434-a445-9157d34b6ebc" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Flamepearls_Vorpal_Greataxe" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9a81cb70-6a5c-465b-b4b9-0931d544095c" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Flamepearls_Vorpal_Greataxe" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h6af00f7ffdbc4018b72238ddd27c304a" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h18f81566a5064039afb3aed604d919af" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greatsword_A_0_Rusty_A" />
+					<attribute id="MapKey" type="FixedString" value="fee13364-0e92-4bb0-b216-e9274f2fb88a" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Moghadam" />
+					<attribute id="ParentTemplateId" type="FixedString" value="82311843-dae9-4bda-86fb-40b722daf82e" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Moghadam" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hf73918b8b2d94bb18fa785f9a2a717de" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h10d92b887601466e813fb166a8a98ba7" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_Kuotoa_Shield_A_0" />
+					<attribute id="MapKey" type="FixedString" value="4b255ce5-912c-414e-b936-d9ae4dca0dbd" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Shield_of_Spell_Reflection" />
+					<attribute id="ParentTemplateId" type="FixedString" value="2099af4a-caa2-4e06-9b6d-fa6e9754bd09" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Shield_of_Spell_Reflection" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h397cdeb028f84aeb9baeb578799b2797" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hab6f42d8af1b47c4bee5c90e6aaa0daf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_BreastPlate_2_Magic" />
+					<attribute id="MapKey" type="FixedString" value="bdc3730b-40f7-47d7-bbe1-a29d7525841a" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Sorasthrix_Scalemail_Coat" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e17c0a45-e064-4a9f-8bcb-ba273440008d" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Sorasthrix_Scalemail_Coat" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hc2d4d7b373e24e63b2f5c570695c8a80" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h31400f00fc6c4fe3b4f937f32c620d97" version="1" />
+					<attribute id="Icon" type="FixedString" value="Generated_MAG_Toll_Collector_Cloak_Magic" />
+					<attribute id="MapKey" type="FixedString" value="c0a06f0a-8117-4c51-9a24-a4b87b096d2f" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Jarlaxles_Piwafwa" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c7774285-21b3-44fc-bae0-0b893a6a3549" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Jarlaxles_Piwafwa" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h6c93088ef174459d9b1924c2a66d5143" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="ha6460d7ba435423995a48402f73d8cdb" version="1" />
+					<attribute id="Icon" type="FixedString" value="Generated_MAG_PHB_CloakOfProtection_Cloak_Magic" />
+					<attribute id="MapKey" type="FixedString" value="c2c2d65b-63cd-4119-87c7-43c6d5d78f16" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Swollentoes_Cloak_of_Protection" />
+					<attribute id="ParentTemplateId" type="FixedString" value="602f62dd-0fba-4438-ad68-b846f17ac538" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Swollentoes_Cloak_of_Protection" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h4c4f99a8f28e4537acc3233fc3ea1e95" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h143e871e9e7347f4bf46a859ad1d6ca6" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Spear_A_0_Rusty_A" />
+					<attribute id="MapKey" type="FixedString" value="b6bc3347-e685-4d6b-a8fe-60e37abaca28" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Lumaterian" />
+					<attribute id="ParentTemplateId" type="FixedString" value="846c9caf-1099-4e50-bb9d-d628d02a70ad" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Lumaterian" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h32a68eddc9fd4ec9874f2248898d7238" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h1987563b956f411e846f9f42df733867" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Spear_A_0_Rusty_A" />
+					<attribute id="MapKey" type="FixedString" value="040efaf7-2868-42b6-99c3-e2a5137259cb" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Lumaterian" />
+					<attribute id="ParentTemplateId" type="FixedString" value="846c9caf-1099-4e50-bb9d-d628d02a70ad" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Lumaterian" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hb1b9d9b5eaeb43f4b3dead9115ab0b83" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h7630d5b5b183481dbafb22e2949d7af5" version="1" />
+					<attribute id="Icon" type="FixedString" value="Generated_MAG_Acid_AcidMeleeCounter_Cloak_Magic" />
+					<attribute id="MapKey" type="FixedString" value="1e3fd8d6-25be-47dc-a51f-65c7d1fc3db7" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Mantle_of_Ajax" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a927e273-3385-4a11-8941-e952d0ddfd38" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Mantle_of_Ajax" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h526124d8f2ed4ceeb0df5b06293e395f" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hda078bbf0e444022b5c296f08bbeb4c1" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Scimitar_Adamantine_A" />
+					<attribute id="MapKey" type="FixedString" value="cb7c8157-54d0-41ad-9deb-ebe4300ddbb7" />
+					<attribute id="Name" type="LSString" value="DeGreaser_Grand_Exchange" />
+					<attribute id="ParentTemplateId" type="FixedString" value="503b4f8d-da61-4fc1-a4b7-cad124a10c69" />
+					<attribute id="Stats" type="FixedString" value="DeGreaser_Grand_Exchange" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h9438037ab7aa4e498aee016d9df4157d" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hef345a3327de44e3b297b09da932d751" version="1" />
+					<attribute id="Icon" type="FixedString" value="Generated_ARM_ScaleMail_2_Magic" />
+					<attribute id="MapKey" type="FixedString" value="f9c2b230-10a6-4317-93fa-79f8c8db6aad" />
+					<attribute id="Name" type="LSString" value="ModName_Blue_Dragon_Scale_Mail" />
+					<attribute id="ParentTemplateId" type="FixedString" value="21f0dd84-6f02-4be9-8654-4cebd00dcbaf" />
+					<attribute id="Stats" type="FixedString" value="ModName_Blue_Dragon_Scale_Mail" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855912" />
+					<children>
+						<node id="GameMaster" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

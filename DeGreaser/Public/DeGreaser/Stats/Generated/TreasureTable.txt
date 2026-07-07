@@ -1,0 +1,76 @@
+new treasuretable "WYR_Ironhand_Merchant"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Swollentoes_Cloak_of_Protection",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_BlushingMermaid_Barkeep"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Jarlaxles_Piwafwa",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Mariners_Revenge",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Circus_KoboldMerchant_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Shield_of_Spell_Reflection",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_VoicelessPenitent"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Moghadam",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_Weapons"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Flamepearls_Vorpal_Greataxe",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_DevilsFee_Diabolist_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Resplendant_Scimitar",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Gloves_of_Gecko_Grip",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_AdamantineGolem"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Galloways_Goggles_of_True_Sight",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_Mimic_BardReward"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Sussurstring_Bow",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_GrymForge_HvyChest_Jelly"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Adamantine_String_Bow",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_Trader_Weapons"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Devilstring_Bow",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_BooksAndScrolls"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Rolans_Stolen_Spellbook",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_UD_Spectator"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Yaccocmuuds_Yin",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Morgue_HiddenChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Yaccocmuuds_Yang",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Volo_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Mantle_of_Ajax",1,0,0,0,0,0,0,0

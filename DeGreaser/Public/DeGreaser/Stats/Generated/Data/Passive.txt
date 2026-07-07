@@ -1,0 +1,64 @@
+////Set up a unique CbD Status////
+
+new entry "Ajax_CbD_Status"
+type "StatusData"
+data "StatusType" "BOOST"
+using "LOW_STORMSHORETABERNACLE_GODCURSED"
+// Castigated By Divinity
+data "DisplayName" "h833a192dg5614g4cdbg88eeg20b04401df48;4"
+// Affected entity is cursed by transgressed and irritable gods. When it falls unconscious, it immediately dies. Moreover, when it dies, a terrible envoy of the offended deity is conjured from the entity's corpse.
+data "Description" "7f93ba98-e579-4845-819d-18f391785dbd;1"
+data "StackId" "LOW_STORMSHORETABERNACLE_GODCURSED"
+data "Passives" "LOW_StormshoreTabernacle_Curse_KillingBlow_Passive"
+data "StatusPropertyFlags" "ApplyToDead;IgnoreResting"
+data "OnApplyFunctors" ""
+data "OnRemoveFunctors" ""
+data "StatusGroups" "SG_Cursed"
+data "ApplyEffect" "19e5b26f-ddda-4c10-a8b0-87407fccdabe"
+
+//// ////
+
+
+
+new entry "NPC_CbD"
+type "PassiveData"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "TARGET:IF(Character() and Party() and not Ally() and not Dead() and not Summon() and not Tagged('SUMMON')):ApplyStatus(Ajax_CbD_Status,100,-1)"
+
+new entry "NPC_DamageReduction"
+type "PassiveData"
+data "DisplayName" "h5b4280056a754abe83ad50c05af217cfg861;1"
+data "Description" "hfef70fe222774b49b7eb7812b9c04e27cage;1"
+data "DescriptionParams" "ProficiencyBonus"
+data "Icon" "PassiveFeature_Durable"
+data "Properties" "Highlighted"
+data "Boosts" "DamageReduction(All, Flat, ProficiencyBonus)"
+
+/// burning fiercly
+
+new entry "NPC_BF"
+type "PassiveData"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsWeaponAttack()"
+data "StatsFunctors" "ApplyStatus(BURNING_AZER,100,3,,,,not SavingThrow(Ability.Constitution,16))"
+data "DisplayName" "h0c7599b1ga123g43aag905bg7a64ab8d006e;1"
+data "Description" "h088a2d86gda5eg4276gb189gfe6591be3636;1"
+data "Icon" "PassiveFeature_Generic_Explosion"
+
+// health regen
+
+new entry "AJ_NPC_HPR"
+type "StatusData"
+data "StatusType" "BOOST"
+using "REGENERATION_SABERTOOTH"
+// Animalistic Vitality
+data "DisplayName" "h0e46ea98g5c80g450aga9b5g9269175a578d;1"
+// Affected entity regains [1] health every round of combat.
+data "Description" "h448bca7bg62d5g4b6agacbfg29e88d457848;1"
+data "DescriptionParams" "RegainHitPoints(2d8)"
+data "StackId" ""
+data "Boosts" ""
+data "TickFunctors" "IF(HasHPLessThan(51,context.Source)):RegainHitPoints(2d8)"
+data "Icon" "PassiveFeature_Generic_Magical"
