@@ -1,0 +1,246 @@
+new entry "AURA_OF_COURAGE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_COURAGE"
+data "AuraRadius" "9"
+
+new entry "AURA_OF_DEVOTION"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_DEVOTION"
+data "AuraRadius" "9"
+
+new entry "AURA_OF_HATE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_HATE"
+data "AuraRadius" "9"
+
+new entry "AURA_OF_PROTECTION"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_PROTECTION"
+data "AuraRadius" "9"
+
+new entry "AURA_OF_WARDING"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_WARDING"
+data "AuraRadius" "9"
+
+new entry "Shout_AuraOf_Courage"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOf_Courage"
+data "AreaRadius" "9"
+
+new entry "Shout_AuraOf_Devotion"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOf_Devotion"
+data "AreaRadius" "9"
+
+new entry "Shout_AuraOf_Hate"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOf_Hate"
+data "AreaRadius" "9"
+
+new entry "Shout_AuraOf_Protection"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOf_Protection"
+data "AreaRadius" "9"
+
+new entry "Shout_AuraOf_Warding"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOf_Warding"
+data "AreaRadius" "9"
+
+new entry "LHB_AURA_OF_CONQUEST"
+type "SpellData"
+data "SpellType" "Shout"
+using "LHB_AURA_OF_CONQUEST"
+data "AreaRadius" "9"
+
+new entry "Shout_LHB_Zeal_AuraOfClarity"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_LHB_Zeal_AuraOfClarity"
+data "AreaRadius" "9"
+
+
+new entry "AURA_OF_COURAGE_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_COURAGE_2"
+data "AuraRadius" "15"
+
+new entry "AURA_OF_COURAGE_BUFF_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_COURAGE_BUFF_2"
+data "DescriptionParams" "Distance(15)"
+
+new entry "AURA_OF_DEVOTION_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_DEVOTION"
+data "AuraRadius" "15"
+
+new entry "AURA_OF_DEVOTION_BUFF_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_DEVOTION_BUFF_2"
+data "DescriptionParams" "Distance(15)"
+
+new entry "AURA_OF_HATE_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_HATE_2"
+data "AuraRadius" "15"
+
+new entry "AURA_OF_HATE_BUFF_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_HATE_BUFF_2"
+data "DescriptionParams" "Distance(15);DealDamage(max(1,Cause.CharismaModifier), MainMeleeWeaponDamageType)"
+
+new entry "AURA_OF_PROTECTION_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_PROTECTION_2"
+data "AuraRadius" "15"
+
+new entry "AURA_OF_PROTECTION_BUFF_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_PROTECTION_BUFF_2"
+data "DescriptionParams" "Distance(15);max(1,Cause.CharismaModifier)"
+
+new entry "AURA_OF_WARDING_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_WARDING_2"
+data "AuraRadius" "15"
+
+new entry "AURA_OF_WARDING_BUFF_2"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_WARDING_BUFF_2"
+data "DescriptionParams" "Distance(15);"
+
+
+
+new entry "Shout_AuraOf_Courage_2"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOf_Courage_2"
+data "AreaRadius" "15"
+
+new entry "Shout_AuraOf_Devotion_2"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOf_Devotion_2"
+data "AreaRadius" "15"
+
+new entry "Shout_AuraOf_Hate_2"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOf_Hate_2"
+data "AreaRadius" "15"
+
+new entry "Shout_AuraOf_Protection_2"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOf_Protection_2"
+data "AreaRadius" "15"
+
+new entry "Shout_AuraOf_Warding_2"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOf_Warding_2"
+data "AreaRadius" "15"
+
+
+new entry "AURA_OF_SENTINEL"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_SENTINEL"
+data "AuraRadius" "9"
+
+new entry "Shout_AuraOfSentinel"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOfSentinel"
+data "AreaRadius" "9"
+
+
+new entry "AURA_OF_CONQUEST_AURA"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_CONQUEST_AURA"
+data "AuraRadius" "9"
+
+
+new entry "AURA_OF_CONQUEST_AURA_IMPROVED"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_CONQUEST_AURA_IMPROVED"
+data "AuraRadius" "15"
+
+
+new entry "AURA_OF_ALACRITY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "AURA_OF_ALACRITY"
+data "AuraRadius" "9"
+
+new entry "Shout_AuraOfAlacrity"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOfAlacrity"
+data "AreaRadius" "9"
+
+
+new entry "AURA_OF_ENMITY"
+type "StatusData"
+using "AURA_OF_ENMITY"
+data "AuraRadius" "9"
+
+
+new entry "Shout_LHB_AuraOfEnmity"
+type "SpellData"
+using "Shout_LHB_AuraOfEnmity"
+data "AreaRadius" "9"
+
+
+new entry "AuraOfZealPassive"
+type "PassiveData"
+using "AuraOfZealPassive"
+data "DescriptionParams" "Distance(9)"
+
+
+new entry "AuraOfZealPassiveUpgrade"
+type "PassiveData"
+using "AuraOfZealPassive"
+data "DescriptionParams" "Distance(15)"
+
+
+new entry "AURA_OF_ZEAL_AURA"
+type "StatusData"
+using "AURA_OF_ZEAL_AURA"
+data "FormatColor" "Blackrock"
+data "AuraRadius" "9"
+
+
+new entry "AURA_OF_ZEAL_AURA_UPGRADE"
+type "StatusData"
+using "AURA_OF_ZEAL_AURA"
+data "DescriptionParams" "Distance(15)"
+
+new entry "LHB_AURA_OF_CONQUEST_UPGRADE"
+type "SpellData"
+using "LHB_AURA_OF_CONQUEST_UPGRADE"
+data "AreaRadius" "15"

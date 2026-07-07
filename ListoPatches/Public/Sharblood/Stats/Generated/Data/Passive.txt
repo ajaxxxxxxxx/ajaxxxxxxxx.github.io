@@ -1,0 +1,102 @@
+///////////////////////////////////////// WHILE IN DARKNESS+COMBAT + APPLY STATUS //////////////////////////////////////////////////////
+
+new entry "SHAR_DARK_COATING"
+type "PassiveData"
+// Shar's Blessing
+data "DisplayName" "h0f958790g6a3bg4ba8g8f18gc48eb59ba5d6;2"
+// shar grant blessing
+data "Description" "h07e5632a417f40089836be30ea94e03d;1"
+data "DescriptionParams" "DealDamage(1,Necrotic,Magical)"
+data "Icon" "Item_LOOT_GEN_Idol_Shar_Onyx_A"
+
+data "EnabledConditions" "not IsInSunlight(context.Target) and HasObscuredState(ObscuredState.HeavilyObscured) and Combat()"
+data "EnabledContext" "OnObscurityChanged"
+
+data "Properties" "IsToggled;ToggledDefaultOn;Highlighted"
+data "ToggleOnFunctors" "ApplyStatus(SELF,SHAR_BOOST,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(SELF,SHAR_BOOST);ApplyStatus(SELF,CLEANING,100,-1);ApplyStatus(SELF,SHAR_NOT_HAPPY,100,-1)"
+
+
+//////////////////////////////// SHAR_BOOST/COATING => 
+
+
+new entry "SHAR_BOOST"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SHAR_BOOST"
+data "Icon" "Item_LOOT_GEN_Idol_Shar_Onyx_A"
+// Shar's Blessing
+data "DisplayName" "h0f958790g6a3bg4ba8g8f18gc48eb59ba5d6;1"
+// additional dmg + ac + roll
+data "Description" "hc54b3581g1378g42eeg9417gba7ea795c5c2;1"
+data "DescriptionParams" "AC(1)"
+data "StackId" "SHAR_BOOST"
+data "Boosts" "AC(1);Resistance(Radiant,Vulnerable)"
+data "OnApplyFunctors" "IF(WieldingWeapon('Melee')):ApplyEquipmentStatus(MainHand,SHAR_COATING,100,-1)"
+data "RemoveConditions" "IsInSunlight(context.Target)"
+data "RemoveEvents" "OnObscurityChanged"
+data "StackPriority" "0"
+data "Toggle" "Yes"
+data "StatusEffect" "VFX_Spells_Prepare_Arcane_Intent_Debuff_Bane_L_HandFX_Textkey_01:Dummy_BodyFX;VFX_Character_Spectre_BodyFX_01:Dummy_BodyFX"
+
+______________________________________________
+
+new entry "SHAR_COATING"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SHAR_COATING"
+data "Icon" "Item_LOOT_GEN_Idol_Shar_Onyx_A"
+// Shar's Blessing
+data "DisplayName" "hc54b3581g1378g42eeg9417gba7ea795c5c2;1"
+// additional dmg + ac + roll
+data "Description" "hcba5c99ea9894b8fa0358bae89fbd7a8;1"
+data "DescriptionParams" "DealDamage(1,Necrotic,Magical)"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+data "StackId" "SHAR_COATING"
+data "StackType" "Overwrite"
+data "Boosts" "WeaponDamage(1,Necrotic,Magical)"
+data "StatusEffect" "VFX_Status_MAG_NECROTIC_WEAPON_REVOCATION_Overlay_01;VFX_Spells_Cast_Intent_Utility_TargetSingle_R_SpeakWithDead_HandFX_01;VFX_Spells_Cast_Intent_Utility_TargetSingle_SpeakWithDead_HandFX_Textkey_01"
+data "SoundStart" "Spell_Impact_Damage_Necrotic_ChillTouch_L1to3"
+data "SoundStop" "Action_Prepare_Dipped_Poison_Loop_Stop"
+data "SpellSoundMagnitude" "Big"
+
+/////////////////////////////// CLEANING/REMOVE_COATING =>
+
+new entry "CLEANING"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "StackId" "CLEANING"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+//data "OnApplyFunctors" "IF(WieldingWeapon('Melee')):ApplyEquipmentStatus(MainHand,REMOVE_COATING,100,0)"
+data "OnApplyFunctors" "RemoveStatus(CLEANING)"
+data "OnRemoveFunctors" "IF(WieldingWeapon('Melee')):ApplyEquipmentStatus(MainHand,REMOVE_COATING,100,0)"
+
+
+new entry "REMOVE_COATING"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" ""
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting"
+data "StackId" "REMOVE_COATING"
+data "StackType" "Overwrite"
+data "OnApplyFunctors" "RemoveStatus(SHAR_COATING)"
+
+
+///////////////////// DAMAGE TAKEN LEAVING SHADOW =>
+
+
+new entry "SHAR_NOT_HAPPY"
+type "StatusData"
+data "StatusType" "BOOST"
+// shar wrath 
+data "DisplayName" "hed5471e6gab4ag44d8gbfe7gad687f99cf4b"
+// take psychic damage
+data "Description" "hc1cfb236gf172g4e54g9cc4gd8335c517a62"
+data "OnApplyFunctors" "RemoveStatus(SHAR_NOT_HAPPY)"
+data "OnRemoveFunctors" "DealDamage(SELF,1,Psychic);DealDamage(SELF,1,Radiant);DealDamage(SELF,1,Necrotic)"
+data "StatusPropertyFlags" "DisablePortraitIndicator;DisableCombatlog;DisableOverhead"
+data "Icon" "Item_LOOT_GEN_Idol_Shar_Onyx_A"
+
+
+

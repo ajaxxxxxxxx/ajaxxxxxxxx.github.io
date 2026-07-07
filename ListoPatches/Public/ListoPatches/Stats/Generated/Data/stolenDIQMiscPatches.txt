@@ -1,0 +1,292 @@
+// ==================================== Soul Knife Equipment nerfs and fixes ====================================
+
+new entry "MAG_PsyRide1"
+type "Armor"
+// using "_Ring_Magic"
+using "MAG_PsyRide1"
+data "IsUnique" "1"
+
+new entry "MAG_PsyRide2"
+type "Armor"
+// using "_Ring_Magic"
+using "MAG_PsyRide2"
+data "IsUnique" "1"
+
+new entry "MAG_PsyRiderGloves"
+type "Armor"
+// using "_Hand_Magic"
+using "MAG_PsyRiderGloves"
+// data "PassivesOnEquip" "PsyRiderGloves_Advantage;FastHands"
+data "PassivesOnEquip" "PsyRiderGloves_Advantage"
+data "IsUnique" "1"
+
+// Words That Remain
+new entry "PsyRiderPassive1"
+type "PassiveData"
+using "PsyRiderPassive1"
+// The wearer deals an additional 1d4 cold damage when dealing psychic damage.
+// data "Description" "h06057d84g97a9g9546g1585g5dcd52408f54;1"
+// The wearer deals an additional [1] when dealing [2] with &lt;LSTag Tooltip="AttackRoll"&gt;Attacks&lt;/LSTag&gt;.
+data "Description" "h0c187050gaa77g4ce9g8549g9f1f20b437bd;1"
+// data "Boosts" "IF(HasDamageDoneForType(DamageType.Psychic)):DamageBonus(1d6, Cold)"
+data "Boosts" "IF(IsAttack() and HasDamageDoneForType(DamageType.Psychic)):DamageBonus(1d4, Cold)"
+// data "DescriptionParams" ""
+data "DescriptionParams" "DealDamage(1d4, Poison);DealDamage(,Psychic)"
+
+// Scholastic Assault
+new entry "PsyRiderPassive1b"
+type "PassiveData"
+using "PsyRiderPassive1b"
+// When you deal psychic damage to an enemy, they may gain &lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;Mental Fatigue&lt;/LSTag&gt; for 3 turns.
+// data "Description" "h760b6bffg847ag7cc3g1774gcdfe57c6ac57;4"
+// When you deal psychic damage to an enemy with an &lt;LSTag Tooltip="AttackRoll"&gt;Attacks&lt;/LSTag&gt;, they must succed a &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; &lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;Mental Fatigue&lt;/LSTag&gt;.
+data "Description" "h22442963ge147g4874gb0c8gc2fb3393f96b;1"
+// data "DescriptionParams" ""
+data "DescriptionParams" "DealDamage(,Psychic)"
+// data "Conditions" "not Item() and not Self() and not IsMiss() and HasDamageDoneForType(DamageType.Psychic)"
+data "Conditions" "not Item() and IsAttack() and HasDamageEffectFlag(DamageFlags.Hit) and HasDamageDoneForType(DamageType.Psychic)"
+
+// Venomous Whispers
+new entry "PsyRiderPassive2"
+type "PassiveData"
+using "PsyRiderPassive2"
+// The wearer deals an additional 1d4 poison damage when dealing psychic damage.
+// data "Description" "haec0b11eg1828g7835gf48bg779698a31a73;1"
+// The wearer deals an additional [1] when dealing [2] with &lt;LSTag Tooltip="AttackRoll"&gt;Attacks&lt;/LSTag&gt;.
+data "Description" "h6ef7c9ecg66b6g40dfga408g82481445ca73;1"
+// data "DescriptionParams" ""
+data "DescriptionParams" "DealDamage(1d4, Poison);DealDamage(,Psychic)"
+// data "Boosts" "IF(HasDamageDoneForType(DamageType.Psychic)):DamageBonus(1d4, Poison)"
+data "Boosts" "IF(IsAttack() and HasDamageDoneForType(DamageType.Psychic)):DamageBonus(1d4, Poison)"
+
+// Creeping Dread
+new entry "PsyRiderPassive2b"
+type "PassiveData"
+using "PsyRiderPassive2b"
+// When you deal psychic damage to an enemy, they may gain &lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;Poisoned&lt;/LSTag&gt; for 2 turns.
+// data "Description" "hcac96ea0g0345g68ffg413eg984a74c0b3aa;3"
+// When you deal [1] to an enemy with an &lt;LSTag Tooltip="AttackRoll"&gt;Attacks&lt;/LSTag&gt;, they must succed a &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt;.
+data "Description" "h805f7870g29c2g478dga6afgf66da2c04da3;1"
+// data "DescriptionParams" ""
+data "DescriptionParams" "DealDamage(,Psychic)"
+// data "Conditions" "not Item() and not Self() and not IsMiss() and HasDamageDoneForType(DamageType.Psychic)"
+data "Conditions" "not Item() and IsAttack() and HasDamageEffectFlag(DamageFlags.Hit) and HasDamageDoneForType(DamageType.Psychic)"
+
+// ==================================== Dark Urge Rebirth - Add missing DescriptionParams, increase Save DC, and add some sweat and blood splatter for flavour. ====================================
+
+new entry "DARK_ENDURANCE_DOWNED"
+type "StatusData"
+data "StatusType" "DOWNED"
+using "DARK_ENDURANCE_DOWNED"
+data "DescriptionParams" "RegainHitPoints(3d4)"
+data "OnApplyFunctors" "RemoveStatus(DARK_ENDURANCE);RegainHitPoints(3d4);IF(not SavingThrow(Ability.Wisdom,13)):ApplyStatus(DARK_POSSESSION,100,2)"
+data "SplatterBloodAmount" "1.0"
+
+new entry "DARK_POSSESSION"
+type "StatusData"
+data "StatusType" "BOOST"
+using "DARK_POSSESSION"
+data "SplatterSweatAmount" "1"
+
+// ==================================== Make Spiritual Weapon summons not slow as shit ====================================
+// All other summons inherit from Greataxe
+
+new entry "SpiritualWeapon_Greataxe"
+type "Character"
+using "SpiritualWeapon_Greataxe"
+data "ActionResources" "BonusActionPoint:1;Movement:9"
+
+// ==================================== Fix Metamagic Extended machine broke ====================================
+
+new entry "METAMAGIC_TRANSMUTED_ACID"
+type "StatusData"
+data "StatusType" "BOOST"
+using "METAMAGIC_TRANSMUTED_ACID"
+data "StackId" "TRANSMUTED_SPELL"
+
+new entry "METAMAGIC_TRANSMUTED_COLD"
+type "StatusData"
+data "StatusType" "BOOST"
+using "METAMAGIC_TRANSMUTED_COLD"
+data "StackId" "TRANSMUTED_SPELL"
+
+new entry "METAMAGIC_TRANSMUTED_FIRE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "METAMAGIC_TRANSMUTED_FIRE"
+data "StackId" "TRANSMUTED_SPELL"
+
+new entry "METAMAGIC_TRANSMUTED_LIGHTNING"
+type "StatusData"
+data "StatusType" "BOOST"
+using "METAMAGIC_TRANSMUTED_LIGHTNING"
+data "StackId" "TRANSMUTED_SPELL"
+
+new entry "METAMAGIC_TRANSMUTED_POISON"
+type "StatusData"
+data "StatusType" "BOOST"
+using "METAMAGIC_TRANSMUTED_POISON"
+data "StackId" "TRANSMUTED_SPELL"
+
+new entry "METAMAGIC_TRANSMUTED_THUNDER"
+type "StatusData"
+data "StatusType" "BOOST"
+using "METAMAGIC_TRANSMUTED_THUNDER"
+data "StackId" "TRANSMUTED_SPELL"
+
+// ==================================== Make some weapons with fire VFX show in cutscenes ====================================
+
+// VEO/JWL Crafting upgrade
+new entry "JWL_MAG_Fire_FireDamage_Quarterstaff_UP1"
+type "Weapon"
+using "JWL_MAG_Fire_FireDamage_Quarterstaff_UP1"
+data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical)"
+
+new entry "MAG_Fire_FireDamage_Quarterstaff"
+type "Weapon"
+using "MAG_Fire_FireDamage_Quarterstaff"
+data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
+
+new entry "WPN_Scimitar_FlameBlade"
+type "Weapon"
+using "WPN_Scimitar_FlameBlade"
+data "DefaultBoosts" "CannotBeDisarmed()"
+
+new entry "MAG_Fire_AlwaysDippedInFire_Greatsword"
+type "Weapon"
+using "MAG_Fire_AlwaysDippedInFire_Greatsword"
+data "DefaultBoosts" "WeaponProperty(Magical)"
+
+// ==================================== Make the 4d8 Fire damage from Better Cambion Summon only work for Cambions ====================================
+
+new entry "WPN_Halberd_Cambion"
+type "Weapon"
+using "WPN_Halberd_Cambion"
+data "DefaultBoosts" "WeaponProperty(Magical)"
+data "PassivesOnEquip" "Goon_WPN_Halberd_Cambion_Passive"
+
+new entry "Goon_WPN_Halberd_Cambion_Passive"
+type "PassiveData"
+data "DisplayName" "h9e12dfe9g3b00g45dcgb231gb565edf9449b"
+data "Description" "h0c94e075gf395g4a17gb4fbg75001c0d7a69"
+data "DescriptionParams" "DealDamage(4d8, Fire)"
+data "Boosts" "IF(Character() and Tagged('CAMBION')):WeaponDamage(4d8, Fire)"
+
+// ==================================== Ensnaring Strike missing from Damage Combos ====================================
+
+new entry "ENSNARING_STRIKE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "ENSNARING_STRIKE"
+data "Description" "ha6582f71g1442g4acagbbebg726e31d01acd"
+data "Boosts" "Advantage(AttackTarget);Disadvantage(AttackRoll);ActionResourceBlock(Movement);Disadvantage(SavingThrow,Dexterity);Attribute(Grounded);Resistance(Fire, Vulnerable)"
+
+// ==================================== Trying to make 5E Spells Mind Whip not empty AI brains on to the floor when it has to pick between moving or attacking ====================================
+
+new entry "Target_TashasMindWhip"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_TashasMindWhip"
+data "Description" "h35ddfb4bge571g48ebg8ad6gda948d6de5b6"
+data "Level" "2"
+data "SpellSchool" "Enchantment"
+data "TargetRadius" "18"
+data "SpellRoll" "not SavingThrow(Ability.Intelligence, SourceSpellDC())"
+data "SpellSuccess" "DealDamage(3d6, Psychic, Magical);AI_IGNORE:IF(Player() or Ally()):ApplyStatus(MIND_WHIP,100,1);AI_IGNORE:IF(not Player() and Enemy()):ApplyStatus(MIND_WHIP_ENEMY,100,1);AI_ONLY:ApplyStatus(STUNNED,100,1)"
+
+new entry "MIND_WHIP"
+type "StatusData"
+using "MIND_WHIP"
+data "Description" "h61f58e4dg5857g4303g8a98g8ef045af5464"
+data "OnApplyFunctors" "ApplyStatus(MIND_WHIP_ACTION_BLOCK,100,1);ApplyStatus(MIND_WHIP_BONUS_ACTION_BLOCK,100,1);ApplyStatus(MIND_WHIP_UNBLOCK,100,1)"
+
+new entry "MIND_WHIP_ACTION_BLOCK"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MIND_WHIP_ACTION_BLOCK"
+data "Boosts" "ActionResourceBlock(ActionPoint);ActionResourceBlock(Movement)"
+data "OnApplyFunctors" "RestoreResource(ActionPoint,100%,0);RestoreResource(Movement,100%,0)"
+data "TickType" "EndTurn"
+data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;DisablePortraitIndicator"
+
+new entry "MIND_WHIP_BONUS_ACTION_BLOCK"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MIND_WHIP_BONUS_ACTION_BLOCK"
+data "Boosts" "ActionResourceBlock(BonusActionPoint);ActionResourceBlock(Movement)"
+data "TickType" "EndTurn"
+data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;DisablePortraitIndicator"
+
+new entry "MIND_WHIP_UNBLOCK"
+type "StatusData"
+using "MIND_WHIP_UNBLOCK"
+data "Boosts" "UnlockSpell(Shout_MindWhip_Unblock_Action);UnlockSpell(Shout_MindWhip_Unblock_BonusAction)"
+data "RemoveConditions" "SpellId('Shout_MindWhip_Unblock_Action') or SpellId('Shout_MindWhip_Unblock_BonusAction')"
+
+// ==================================== Vanilla exploit with Boots of Striding fix ====================================
+
+new entry "MAG_UNMOVABLE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "RemoveConditions" "not HasSpellFlag(SpellFlags.Concentration)"
+
+// ==================================== Monk Equipment AIO tooltip fix ====================================
+
+new entry "MAG_Marsh_Strider_Passive"
+type "PassiveData"
+using "MAG_Marsh_Strider_Passive"
+data "Description" "h7920b39bg75f5g44ecga83dg40a756099eea"
+
+// ==================================== If Gortash bugs out and doesn't apply his buff this should stop him from spamming his 150 temp HP ====================================
+
+new entry "Interrupt_WYR_Gortash_Gortane"
+type "InterruptData"
+using "Interrupt_WYR_Gortash_Gortane"
+data "Cooldown" "OncePerCombat"
+
+// ==================================== Swap gargantuan for large in Veenab's library, because gargantuan is way overkill ====================================
+
+new entry "VBT_ENLARGE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "VBT_ENLARGE"
+data "Boosts" "ObjectSize(Huge);ScaleMultiplier(1.69)"
+
+// === astarion bites
+
+new entry "ASTARION_WEAK"
+type "StatusData"
+data "StatusType" "BOOST"
+using "ASTARION_WEAK"
+// data "StatusEffect" "a0f74dff-7074-45aa-a4d2-a131d7f328f5"
+data "StatusEffect" ""
+data "OnApplyFunctors" "IF(Ally()):ApplyStatus(GOON_ASTARION_WEAK_FRIENDLY,100,-1)"
+
+new entry "GOON_ASTARION_WEAK_FRIENDLY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "ASTARION_WEAK"
+// Blood Donor
+data "DisplayName" "h03ca14d9g0ca8g41d7g8bcfg6ea42fd5705f;1"
+// You feel a bit woozy, though you'd feel a lot worse were the feeding involuntary.
+data "Description" "h9b7c1291g114dg4269gba95g59b4193d84b4;1"
+// data "Boosts" "RollBonus(SavingThrow,0-1);RollBonus(Attack,0-1);RollBonus(SkillCheck,0-1)"
+data "Boosts" ""
+// data "OnApplyFunctors" "ApplyStatus(GOON_ASTARION_WEAK_FRIENDLY,100,-1)"
+data "OnApplyFunctors" "ApplyStatus(GOON_ASTARION_WEAK_FRIENDLY_FX,100,1)"
+// data "SoundLoop" "Misc_Status_Bloodeless_MO"
+data "SoundLoop" ""
+// data "SoundStop" "Misc_Status_Bloodeless_MO_Stop"
+data "SoundStop" ""
+// data "StatusEffect" "a0f74dff-7074-45aa-a4d2-a131d7f328f5"
+data "StatusEffect" ""
+data "StackId" "ASTARION_WEAK"
+data "StackPriority" "2"
+
+new entry "GOON_ASTARION_WEAK_FRIENDLY_FX"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StatusPropertyFlags" "DisableOverhead;DisablePortraitIndicator;DisableCombatlog"
+data "StatusEffect" "a0f74dff-7074-45aa-a4d2-a131d7f328f5"
+data "SoundLoop" "Misc_Status_Bloodeless_MO"
+data "SoundStop" "Misc_Status_Bloodeless_MO_Stop"

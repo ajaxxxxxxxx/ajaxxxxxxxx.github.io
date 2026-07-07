@@ -1,0 +1,55 @@
+new entry "Target_Darkness_Beam"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Target_Darkness_Beam"
+data "Level" ""
+data "SpellSchool" ""
+data "TargetRadius" "14"
+data "TargetConditions" "not Dead() and not Ally()"
+data "DisplayName" "hc5e1235age160g4dddg9de6gc00a6a31d026;1"
+data "Description" ""
+data "UseCosts" "ActionPoint:1"
+data "Cooldown" "OncePerRest"
+data "Icon" "PassiveFeature_Generic_Darkness"
+data "SpellRoll" "not SavingThrow(Ability.Wisdom,SourceSpellDC())"
+data "SpellProperties" "GROUND:CreateSurface(2,2,DarknessCloud,true)"
+data "SpellSuccess" "DealDamage(1d6,Necrotic,Magical)"
+data "SpellFail" "DealDamage(1d6/2,Necrotic,Magical)"
+data "TooltipOnSave" "59f76098-8d48-46f4-aefe-1030341dd7d6"
+data "TooltipStatusApply" "GROUND:CreateSurface(2,2,DarknessCloud,true)"
+data "TooltipDamageList" "DealDamage(1d6,Necrotic,Magical)"
+data "DeathType" "Necrotic"
+data "DescriptionParams" "GROUND:CreateSurface(2,2,DarknessCloud,true)"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful"
+data "TooltipAttackSave" "Wisdom"
+data "CastTextEvent" "Cast"
+data "TargetConditions" "not Self() and not Dead()"
+data "ProjectileCount" "1"
+data "AmountOfTargets" "LevelMapValue(EldritchBlast)"
+data "DamageType" "Necrotic"
+// FLYING + ELDRITCH BLAST ANIM PAS MOD REQUIS//
+data "SpellAnimation" "b94b9184-9bd0-4840-be7d-003700173b37,,;,,;cd5e5d4a-38e1-4d4d-b346-3fbc1e4c3c90,,;141f48d9-9615-496a-8737-9240f0dba60d,,;066f8e0e-b3e1-4b76-a473-d1e23a3b7230,,;,,;7a28f440-1b0b-4a18-96a8-3767959b601a,,;,,;,,"
+data "PrepareSound" "CrSpell_Cast_MindBlast"
+
+//---BECKONING DARKNESS---//
+//data "CastSound" "CrSpell_Cast_BeckoningDarkness"
+//data "TargetSound" "CrSpell_Impact_BeckoningDarkness"
+data "VerbalIntent" "Damage"
+
+// DETHRONE SPELL TRAJ //
+data "Trajectories" "b698791a-4cd0-4469-b207-1022bca279e1"
+
+// SPEAK DEAD green glow autour perso + hadar cercle et fumée noire //
+data "PrepareEffect" "VFX_Spells_Prepare_Arcane_Intent_Utility_SpeakWithDead_Root_01;VFX_Spells_Prepare_Warlock_ArmsOfHadar_GroundFX_Textkey_01"
+// spark vert main //
+data "CastEffect" "c582c3b6-2758-4d72-81f6-e45f07519a10"
+
+// ShadowyTendrils barb //
+data "HitEffect" "0e4d2c6f-6b14-4d7b-9127-eeb5738a123c"
+
+
+// tenebrae ! nocturnys! //
+data "VocalComponentSound" "Vocal_Component_Dark"
+
+data "SpellSoundMagnitude" "Big"
+

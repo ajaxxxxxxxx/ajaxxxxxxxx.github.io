@@ -1,0 +1,273 @@
+// ==================================== Extra Encounters and Minibosses ====================================
+
+// (Added Wizard progressions))
+new entry "Ilyn_Toth"
+type "Character"
+using "Ilyn_Toth"
+data "Passives" "CX_Wizard_Necromancy_Boost;AttackOfOpportunity;DarknessRules;MagicResistance;TurnResistance;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check"
+data "Progressions" "44bdbc5e-a003-4d61-87f0-5ced20d3804e"
+data "PersonalStatusImmunities" "GAPING_WOUND;CHEST_TRAUMA;BLEEDING;SG_Petrified;SG_Charmed;SG_Drunk;SG_Frightened;SG_Poisoned;SG_Prone;SG_Stunned;SG_Paralyzed;SG_Disease;SG_Sleeping;BARBED_ARROW;SLEEPING;DAZED;DRUNK;SURPRISED;SUFFOCATING;TAUNTED;SHOCKED;SHOCKED_SURFACE;STINKING_CLOUD;HAMSTRING;LURING_SONG;LURING_SONG_AURA_VICTIM;TIMMASK_SPORES;SPIDER_INFESTATION;POISON_MALICE_CONDITION;UNI_POISON_BREWER_CONDITION;EXHAUSTED;PARALYZED;HOLD_PERSON;PETRIFIED;POISONED;SG_Exhausted;SCL_SHADOW_CURSE;SCL_SHADOW_CURSE_1;SCL_SHADOW_CURSE_2;SCL_SHADOW_CURSE_3;SCL_SHADOW_CURSE_4;STUNNED"
+data "Passives" "AttackOfOpportunity;DarknessRules;MagicResistance;TurnResistance;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;CX_Boss_Boost"
+data "BludgeoningResistance" "ImmuneToNonMagical"
+data "SlashingResistance" "ImmuneToNonMagical"
+data "PiercingResistance" "ImmuneToNonMagical"
+data "FireResistance" "Vulnerable"
+
+// (Inherits Fighter progressions)
+new entry "Drow_raider"
+type "Character"
+using "Drow_raider"
+data "Passives" "FeyAncestry;AttackOfOpportunity;DarknessRules;SuperiorDarkvision;SunlightSensitivity;ExtraAttack;DualWielder_BonusAC;DualWielder_PassiveBonuses;CX_Fighter_Boost"
+data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
+
+// (Inherits Barbarian progressions)
+new entry "Ogre_Elite"
+type "Character"
+using "Ogre_Elite"
+data "Passives" "CX_Barbarian_Berserker_Boost;OgreCurse;AttackOfOpportunity;Darkvision;DarknessRules;ExtraAttack"
+
+new entry "Earth_Elemental_miniboss"
+type "Character"
+using "Earth_Elemental_miniboss"
+data "PersonalStatusImmunities" "GAPING_WOUND;CHEST_TRAUMA;BLEEDING;SG_Petrified;SG_Charmed;SG_Drunk;SG_Poisoned;SG_Prone;SG_Stunned;SG_Paralyzed;SG_Disease;SG_Sleeping;BARBED_ARROW;SLEEPING;DAZED;DRUNK;SUFFOCATING;TAUNTED;SHOCKED;SHOCKED_SURFACE;STINKING_CLOUD;HAMSTRING;LURING_SONG;LURING_SONG_AURA_VICTIM;TIMMASK_SPORES;SPIDER_INFESTATION;POISON_MALICE_CONDITION;UNI_POISON_BREWER_CONDITION;EXHAUSTED;PARALYZED;HOLD_PERSON;PETRIFIED;POISONED;SG_Exhausted;SCL_SHADOW_CURSE;SCL_SHADOW_CURSE_1;SCL_SHADOW_CURSE_2;SCL_SHADOW_CURSE_3;SCL_SHADOW_CURSE_4;STUNNED"
+data "Passives" "AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;Reel_Elemental;Reel_Tech;CX_MiniBoss_Boost"
+data "BludgeoningResistance" "ResistantToNonMagical"
+data "SlashingResistance" "ResistantToNonMagical"
+data "PiercingResistance" "ResistantToNonMagical"
+data "NecroticResistance" "Immune"
+data "PoisonResistance" "Immune"
+data "FireResistance" "Resistant"
+data "AcidResistance" "None"
+
+new entry "Djinni_miniboss"
+type "Character"
+using "Djinni_miniboss"
+data "PersonalStatusImmunities" "GAPING_WOUND;CHEST_TRAUMA;BLEEDING;SG_Petrified;SG_Drunk;SG_Poisoned;SG_Prone;SG_Stunned;SG_Paralyzed;SG_Disease;SG_Sleeping;BARBED_ARROW;SLEEPING;DAZED;DRUNK;SUFFOCATING;SHOCKED;SHOCKED_SURFACE;STINKING_CLOUD;HAMSTRING;LURING_SONG;LURING_SONG_AURA_VICTIM;TIMMASK_SPORES;SPIDER_INFESTATION;POISON_MALICE_CONDITION;UNI_POISON_BREWER_CONDITION;EXHAUSTED;PARALYZED;HOLD_PERSON;PETRIFIED;POISONED;SG_Exhausted;SCL_SHADOW_CURSE;SCL_SHADOW_CURSE_1;SCL_SHADOW_CURSE_2;SCL_SHADOW_CURSE_3;SCL_SHADOW_CURSE_4;STUNNED"
+data "LightningResistance" "Immune"
+data "ThunderResistance" "Immune"
+data "Passives" "AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;CX_MiniBoss_Boost;ImmuneToDisarm;CX_Sorcerer_Boost"
+data "Progressions" "2189a72d-6489-4621-8b2c-85d3e7df2f6f""
+
+// (Has Paladin progressions)
+new entry "Champion_of_Lath"
+type "Character"
+using "Champion_of_Lath"
+data "Passives" "CX_MiniBoss_Boost;CX_Paladin_Devotion_Boost;;AttackOfOpportunity;DarknessRules;Darkvision;ExtraAttack;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;ImmuneToDisarm;"
+
+// (Has Rogue progressions)
+new entry "Redcap_Melee_under"
+type "Character"
+using "Redcap_Melee_under"
+// data "Passives" "AttackOfOpportunity;BloodThirsty_Redcap;DarknessRules;Darkvision;Multiattack_Redcap;LOW_BlushingMermaid_Redcap_Alcohol;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check"
+data "Passives" "AttackOfOpportunity;DarknessRules;Darkvision;BloodThirsty_Redcap;Multiattack_Redcap;LOW_BlushingMermaid_Redcap_Alcohol;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;CX_Rogue_Boost"
+data "Progressions" "532203c2-7bcb-4162-9a7c-2bb20e227a30"
+
+// (Inherits Warlock progressions)
+new entry "Redcap_Caster_under"
+type "Character"
+using "Redcap_Caster_under"
+// data "Wisdom" "16"
+data "Wisdom" "14"
+// Note that the 14 Charisma is what would've been inherited by changed to the base RedCap_Caster entry - original Charisma for this entry is 9 
+// data "Charisma" "14"
+data "Charisma" "14"
+// data "Passives" "AttackOfOpportunity;DarknessRules;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check"
+data "Passives" "CX_Warlock_Archfey_Boost;AttackOfOpportunity;DarknessRules;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check"
+
+// (Swapped Wizard progressions to Sorcerer progressions)
+new entry "Aurelio_wild"
+type "Character"
+using "Aurelio_wild"
+// data "Passives" "AttackOfOpportunity;DarknessRules;WildMagic_Boss;ControlledChaos_Boss;WildMagic_Guarantee;Conduit_Absolute"
+data "Passives" "CX_Sorcerer_Boost;CX_Sorcerer_WildMagic_Boost;HumanMilitia;HumanVersatility;AttackOfOpportunity;DarknessRules;WildMagic_Boss;ControlledChaos_Boss;WildMagic_Guarantee;Conduit_Absolute"
+//data "Progressions" "44bdbc5e-a003-4d61-87f0-5ced20d3804e"
+data "Progressions" "2189a72d-6489-4621-8b2c-85d3e7df2f6f"
+
+new entry "Dragon_SCL_Skel"
+type "Character"
+using "Dragon_SCL_Skel"
+data "Passives" "TurnResistance;MagicResistance;ImmutableForm;AttackOfOpportunity;DarknessRules;Dragon_Black_Retaliate;AcidMeleeCounter_Dragon;Acid_Dragon_Passive;CX_MiniBoss_Boost"
+data "AcidResistance" "Immune"
+data "LightningResistance" "None"
+data "NecroticResistance" "Immune"
+data "PoisonResistance" "Immune"
+data "RadiantResistance" "None"
+data "SlashingResistance" "Immune"
+data "BludgeoningResistance" "None"
+data "PiercingResistance" "Immune"
+
+new entry "KillerReplica_WLD"
+type "Character"
+using "KillerReplica_WLD"
+data "Strength" "16"
+data "Wisdom" "12"
+data "Charisma" "18"
+data "Armor" "13"
+data "Class" "Paladin"
+data "Passives" "AttackOfOpportunity;DarknessRules;ExtraAttack;CX_MiniBoss_Boost;CX_Paladin_Vengeance_Boost"
+data "BludgeoningResistance" "ResistantToNonMagical"
+data "SlashingResistance" "ResistantToNonMagical"
+data "PiercingResistance" "ResistantToNonMagical"
+data "NecroticResistance" "Resistant"
+data "PoisonResistance" "Resistant"
+data "RadiantResistance" "Resistant"
+data "Progressions" "8726b2c4-edc0-4905-b82f-60a4baba0733"
+
+// (Inherits Cleric progressions)
+new entry "SHA_Shar"
+type "Character"
+using "SHA_Shar"
+// data "Passives" "ExtraAttack;SHA_DarkVengeance;SHA_VisionOfShar;LivingShadow;SunlightSensitivity;AttackOfOpportunity;Darkvision;DarknessRules"
+data "Passives" "CX_Cleric_Trickery_Boost;AttackOfOpportunity;Darkvision;DarknessRules;ExtraAttack;SHA_DarkVengeance;SHA_VisionOfShar;LivingShadow;SunlightSensitivity;"
+
+new entry "Vlaakith_manifest"
+type "Character"
+using "Vlaakith_manifest"
+// data "Passives" "AttackOfOpportunity;DarknessRules;PsychicStrikes_Githyanki;Parry_Githyanki_Supreme;Parry_Githyanki_Supreme_EquipTrigger;ExtraAttack;Vlaakith_immovable;UndeadFortitude_Vlaakith;TurnResistance;ImmuneToDisarm;Vlaakith_counter"
+data "Passives" "CX_Martial_Boost;CX_Magic_Boost;AttackOfOpportunity;DarknessRules;PsychicStrikes_Githyanki;Parry_Githyanki_Supreme;Parry_Githyanki_Supreme_EquipTrigger;ExtraAttack;Vlaakith_immovable;UndeadFortitude_Vlaakith;TurnResistance;ImmuneToDisarm;Vlaakith_counter;CX_Boss_Boost"
+
+// (Has Fighter progressions) 
+new entry "Human_Drunk_Filli"
+type "Character"
+using "Human_Drunk_Filli"
+// data "Passives" "AttackOfOpportunity;DarknessRules;Drunk_inluln_filli"
+data "Passives" "HumanMilitia;HumanVersatility;AttackOfOpportunity;DarknessRules;Drunk_inluln_filli"
+
+// (Added Rogue progressions)
+new entry "Doppelganger_crowd_ambush"
+type "Character"
+using "Doppelganger_crowd_ambush"
+// data "Passives" "Multiattack_Doppelganger;AttackOfOpportunity;Darkvision;DarknessRules;Doppel_remove"
+data "Passives" "AttackOfOpportunity;Darkvision;DarknessRules;Doppel_remove;Multiattack_Doppelganger"
+// data "Progressions" ""
+data "Progressions" "532203c2-7bcb-4162-9a7c-2bb20e227a30"
+
+// (Has Rogue progressions)
+new entry "Drow_Pirate"
+type "Character"
+using "Drow_Pirate"
+// data "Passives" "DarknessRules;DualWielder_BonusAC;DualWielder_PassiveBonuses;FeyAncestry;SunlightSensitivity;AttackOfOpportunity;Darkvision;ExtraAttack;Drow_balance"
+data "Passives" "FeyAncestry;AttackOfOpportunity;DarknessRules;SuperiorDarkvision;SunlightSensitivity;DualWielder_BonusAC;DualWielder_PassiveBonuses;ExtraAttack;Drow_balance"
+
+// (Has Fighter progressions)
+new entry "Drow_Pirate_bodyguard"
+type "Character"
+using "Drow_Pirate_bodyguard"
+// data "Passives" "DarknessRules;DualWielder_BonusAC;DualWielder_PassiveBonuses;FeyAncestry;SunlightSensitivity;AttackOfOpportunity;Darkvision;ExtraAttack;Drow_balance"
+data "Passives" "FeyAncestry;AttackOfOpportunity;DarknessRules;SuperiorDarkvision;SunlightSensitivity;DualWielder_BonusAC;DualWielder_PassiveBonuses;ExtraAttack;Drow_balance"
+
+// (Has Wizard progressions)
+new entry "Drow_Pirate_boss"
+type "Character"
+using "Drow_Pirate_boss"
+// data "Passives" "DarknessRules;DualWielder_BonusAC;DualWielder_PassiveBonuses;FeyAncestry;SunlightSensitivity;AttackOfOpportunity;Darkvision;Drow_Bounty;Drow_balance"
+data "Passives" "CX_Spells_L5;CX_Spells_L6;CX_Spells_L6C;FeyAncestry;AttackOfOpportunity;DarknessRules;SuperiorDarkvision;SunlightSensitivity;DualWielder_BonusAC;DualWielder_PassiveBonuses;ExtraAttack;Drow_balance;Drow_Bounty"
+
+// // (Has Wizard progressions)
+// new entry "Thay_Caster"
+// type "Character"
+// using "Thay_Caster"
+// // data "Passives" "AttackOfOpportunity;DarknessRules;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;"
+// data "Passives" "AttackOfOpportunity;DarknessRules;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;"
+
+// (Added Fighter progressions)
+new entry "Thay_Knight"
+type "Character"
+using "Thay_Knight"
+// data "Progressions" ""
+data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
+// data "Passives" "BlockVerbalSpellcasting;SkeletonDeath_Check;AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;ExtraAttack;"
+data "Passives" "CX_Fighter_BattleMaster_Boost;AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;ExtraAttack;BlockVerbalSpellcasting;SkeletonDeath_Check"
+
+// (Inherits Wizard progressions)
+new entry "Thay_Caster_Skel"
+type "Character"
+using "Thay_Caster_Skel"
+// data "Passives" "AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check"
+data "Passives" "AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check"
+
+// (Inherits Fighter progressions)
+new entry "Githyanki_Raider_Lich_Strong"
+type "Character"
+using "Githyanki_Raider_Lich_Strong"
+// data "Passives" "ExtraAttack;CrossbowExpert_PointBlank;CrossbowExpert_Wounding;AttackOfOpportunity;DarknessRules;Sharpshooter_AllIn;Sharpshooter_Bonuses;InuredtoUndeath;Blessing_Vlaa;Alert;SteelWill;"
+data "Passives" "CX_Fighter_BattleMaster_Boost;AttackOfOpportunity;DarknessRules;ExtraAttack;CrossbowExpert_PointBlank;CrossbowExpert_Wounding;Sharpshooter_AllIn;Sharpshooter_Bonuses;InuredtoUndeath;Blessing_Vlaa;Alert;SteelWill;"
+
+// (Inherits Fighter progressions)
+new entry "Githyanki_Gish_Lich_Strong"
+type "Character"
+using "Githyanki_Gish_Lich_Strong"
+// data "Passives" "WarMagic_Githyanki;AttackOfOpportunity;DarknessRules;WarCaster_Bonuses;GreatWeaponMaster_BonusAttack;GreatWeaponMaster_BonusDamage;InuredtoUndeath;Blessing_Vlaa;Alert;SteelWill;"
+data "Passives" "CX_Fighter_EldritchKnight_Boost;AttackOfOpportunity;DarknessRules;WarMagic_Githyanki;WarCaster_Bonuses;GreatWeaponMaster_BonusAttack;GreatWeaponMaster_BonusDamage;InuredtoUndeath;Blessing_Vlaa;Alert;SteelWill;"
+
+// (Inherits Warlock progressions)
+new entry "Redcap_caster_well"
+type "Character"
+using "Redcap_caster_well"
+data "Wisdom" "14"
+// Note that the 14 Charisma is what would've been inherited by changed to the base RedCap_Caster entry - original Charisma for this entry is 9 
+// data "Charisma" "14"
+data "Charisma" "16"
+// data "Passives" "AttackOfOpportunity;DarknessRules;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;Redcap_Buff_Well"
+data "Passives" "CX_Warlock_Archfey_Boost;AttackOfOpportunity;DarknessRules;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;Redcap_Buff_Well"
+
+// (Has Fighter progressions)
+new entry "Redcap_melee_well"
+type "Character"
+using "Redcap_melee_well"
+// data "Passives" "AttackOfOpportunity;BloodThirsty_Redcap;DarknessRules;Darkvision;Multiattack_Redcap;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;Redcap_Buff_Well"
+data "Passives" "AttackOfOpportunity;DarknessRules;Darkvision;BloodThirsty_Redcap;Multiattack_Redcap;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;Redcap_Buff_Well"
+data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
+
+// (Has Cleric progressions)
+new entry "Bane_Master"
+type "Character"
+using "Bane_Master"
+// data "Passives" "ExtraAttack;Tactical_Discipline;AttackOfOpportunity;DarknessRules;MAG_FrightenedDisadvantage_Passive;MAG_Poison_PoisonExposure_Gloves_Passive"
+data "Passives" "CX_Cleric_War_Boost;AttackOfOpportunity;DarknessRules;ExtraAttack;Tactical_Discipline;MAG_FrightenedDisadvantage_Passive;MAG_Poison_PoisonExposure_Gloves_Passive"
+
+// (Inherits Rogue progressions)
+new entry "Bhaal_Deathstalker"
+type "Character"
+using "Bhaal_Deathstalker"
+// data "Passives" "ExtraAttack;AttackOfOpportunity;DarknessRules;Darkvision;SneakAttack_Unlock;LOW_BhaalAmulet_Passive"
+data "Passives" "AttackOfOpportunity;DarknessRules;Darkvision;ExtraAttack;SneakAttack_Unlock;LOW_BhaalAmulet_Passive"
+
+// (Added Barbarian progressions)
+new entry "Human_Cultist_Bhaal_Rager"
+type "Character"
+using "Human_Cultist_Bhaal_Rager"
+// data "Passives" "AttackOfOpportunity;Darkvision;DarknessRules;UnarmouredDefence_Barbarian;ExtraAttack;LOW_BhaalAmulet_Passive"
+data "Passives" "CX_Barbarian_Berserker_Boost;AttackOfOpportunity;Darkvision;DarknessRules;UnarmouredDefence_Barbarian;ExtraAttack;LOW_BhaalAmulet_Passive"
+// data "Progressions" ""
+data "Progressions" "56db8107-e04c-4fe3-94f3-fd4acd44cd4a"
+
+// (Added Sorcerer progressions)
+new entry "Thrall_Sorcerer_ER"
+type "Character"
+using "Thrall_Sorcerer_ER"
+// data "Passives" "TAD_PsionicDominance;Evasion;Metamagic_Heightened;Metamagic_Subtle;AttackOfOpportunity;DarknessRules;"
+data "Passives" "CX_Sorcerer_Boost;AttackOfOpportunity;DarknessRules;TAD_PsionicDominance;Evasion;Goon_Metamagic_Heightened_NPC;Goon_Metamagic_Subtle_NPC;"
+// data "Progressions" ""
+data "Progressions" "2189a72d-6489-4621-8b2c-85d3e7df2f6f"
+
+// (Added Fighter progressions)
+new entry "Duelist_ER_Act1"
+type "Character"
+using "Duelist_ER_Act1"
+data "Passives" "FeyAncestry;AttackOfOpportunity;DarknessRules;Darkvision;Eternal_Duelist_ER;Riposte;CX_Fighter_BattleMaster_Boost"
+data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
+
+// (Added Fighter progressions) (removed the Eternal Duelist feature)
+new entry "Duelist_ER_Act2"
+type "Character"
+using "Duelist_ER_Act2"
+data "Passives" "FeyAncestry;AttackOfOpportunity;DarknessRules;Darkvision;Eternal_Duelist_ER;Riposte;ExtraAttack;CX_Fighter_BattleMaster_Boost;CX_Bard_Swords_Boost;CX_MiniBoss_Boost"
+data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
+
+// (Added Fighter progressions)
+new entry "Duelist_ER_Act3"
+type "Character"
+using "Duelist_ER_Act3"
+data "Passives" "FeyAncestry;AttackOfOpportunity;DarknessRules;Darkvision;Eternal_Duelist_ER;Riposte;ExtraAttack;CX_Fighter_BattleMaster_Boost;CX_Bard_Swords_Boost;CX_Ranger_Hunter_Boost;CX_Boss_Boost"
+data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"

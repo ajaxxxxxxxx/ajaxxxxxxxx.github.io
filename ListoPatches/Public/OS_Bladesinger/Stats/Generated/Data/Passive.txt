@@ -1,0 +1,12 @@
+new entry "OS_GLOVES_PASSIVE"
+type "PassiveData"
+data "DisplayName" "hce96a4f3g52deg4a86gafb7g8bc85bb71c2c;2"
+data "Description" "h475532cbg1c82g432aga91cg0ff9bd73eb58;4"
+data "DescriptionParams" "1"
+data "Boosts" "IF(FightingStyle_Dueling(context.Source) and IsMeleeWeaponAttack()):RollBonus(Attack, 1)"
+
+new entry "OS_TORSO_PASSIVE"
+type "PassiveData"
+data "DisplayName" "h430c3768ge46fg404dgabfagf1c2c5f94dc4;1"
+data "Description" "hbf34f9d1gdb79g4121gb57bg9456939e6996;1"
+data "Boosts" "Advantage(Concentration)"

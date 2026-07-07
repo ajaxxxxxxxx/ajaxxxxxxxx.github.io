@@ -1,0 +1,9 @@
+new entry "MAG_Ryujin_Weapon_Passive"
+type "PassiveData"
+data "DisplayName" "hc31207e7g7bc5gb949ge22ag863396a53d2c;1"
+data "Description" "h2d3cbfcdg62adgda0fg2775g1e710e5c6ddd;2"
+data "Icon" "Action_Monster_Azer_Overheat"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "ApplyStatus(BURNING_AZER, 100, 2,,,,not SavingThrow(Ability.Constitution,35))"
+

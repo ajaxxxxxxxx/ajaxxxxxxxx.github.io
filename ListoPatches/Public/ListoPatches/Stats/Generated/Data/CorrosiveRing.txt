@@ -1,0 +1,5 @@
+new entry "MAG_Acid_Corrosion_Ring_Passive"
+type "PassiveData"
+using "MAG_Acid_Corrosion_Ring_Passive"
+data "DescriptionParams" "Acid Damage;1"
+data "StatsFunctors" "ApplyStatus(MAG_ACID_CORROSION, 100, 1);ApplyStatus(MAG_ACID_CORROSION_DURATION_TECHNICAL, 100, 1)"

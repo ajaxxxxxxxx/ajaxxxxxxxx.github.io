@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="Progressions">
+        <node id="root">
+            <children>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);ActionResource(Rage,1,0)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_EasilyFrightened;UnarmouredDefence_Barbarian;Rage_Armour_Message;Rage_NoHeavyArmour_VFX;XEN_OwlbearCubEvolved_ResourcePointsConsume"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="581df526-e3eb-4a74-a01e-76c879ab0991"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="071c13de-fe0b-4ecb-8083-b2edd821f6c4"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(378d0f54-22e3-4071-8bd0-133425e83ad2,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="e28ffd5a-ef01-44d4-a690-a3566d1f9667"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_TheOwlbearWithin"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(efe71ab2-f6aa-4566-b925-f521cfeedc32,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="cae1f076-d0e1-4a4c-a605-36965c4caaf3"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Wisdom,1)"/>
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack;FastMovement"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8a71ead5-d1ba-47ba-b224-e29126723e3f,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="1d8023ba-6fff-4cc1-b96a-ee5eb6779589"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Rage,1,0);Ability(Strength,1);Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_PrimalStrike;DangerSense;XEN_OwlbearCubEvolved_TotemSpirit_Bear;XEN_OwlbearCubEvolved_EagerForBattle"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e6f6b504-4bdd-4e06-9da4-cfbd1c518665,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="2d56c4e3-23a0-4a6a-abd1-f180b1f5054c"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Dexterity,1)"/>
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FeralInstinct;XEN_OwlbearCubEvolved_ExceptionalTraining"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(48adba0e-d2fc-4d7b-82fb-11f9e2d018db,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="a899a145-8275-4e63-a0c1-afa014a77e9b"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="LandsStride_DifficultTerrain;LandsStride_Advantage;LandsStride_Surfaces;XEN_OwlbearCubEvolved_TavernBrawler"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="1d6e836b-5ece-429f-bd8e-9f5641c9d5c0"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Wisdom,1)"/>
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BrutalCritical;XEN_OwlbearCubEvolved_TotemSpirit_Bear_2"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="XEN_OwlbearCubEvolved_TotemSpirit_Bear"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="4f724e4b-22f9-46b6-8124-9cae183cfe96"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Dexterity,1);Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_UnwaveringBeast;XEN_OwlbearCubEvolved_AspectOfTheElk"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="XEN_OwlbearCubEvolved_EasilyFrightened"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d086eeff-3652-465b-a9fe-db6352bba767,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="0067d249-a6bc-493e-a43d-26ea6d316a78"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1)"/>
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="RelentlessRage"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="7d27fc5f-02d7-47e7-a598-e99fe3392227"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Rage,1,0);Ability(Strength,1);Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(bb80f0d3-d123-46b7-b04a-80264ffb554e,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="0717d534-90d3-46ee-9451-5be4d62d751e"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Strength);ProficiencyBonus(SavingThrow,Constitution);ActionResource(Rage,1,0)"/>
+                    <attribute id="Level" type="uint8" value="1"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_EasilyFrightened;UnarmouredDefence_Barbarian;Rage_Armour_Message;Rage_NoHeavyArmour_VFX;XEN_OwlbearCubEvolved_ResourcePointsConsume"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="842d04c7-c8a6-40d3-a20e-3131a80e73d6"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Dexterity,1)"/>
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="DangerSense"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="21f63ab5-5dd2-4640-9d27-b54a73d53b6d"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="7c3b0bf6-3b9f-47fd-b03e-9b127ac80587"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_TheOwlbearWithin"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="641e2f31-5ea7-4b03-8b39-73ecae763c74"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack;FastMovement"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(378d0f54-22e3-4071-8bd0-133425e83ad2,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="de58126a-9ce4-4019-a5d0-6ad75daafd3f"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Rage,1,0);Ability(Wisdom,1)"/>
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_PrimalStrike;XEN_OwlbearCubEvolved_TotemSpirit_Bear;XEN_OwlbearCubEvolved_EagerForBattle"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(efe71ab2-f6aa-4566-b925-f521cfeedc32,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="c870245c-7274-40b9-b9ea-e08826d99e53"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="FeralInstinct;XEN_OwlbearCubEvolved_ExceptionalTraining"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="9f9454e1-6624-43ff-a811-ddeea5598475"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="LandsStride_DifficultTerrain;LandsStride_Advantage;LandsStride_Surfaces;XEN_OwlbearCubEvolved_TavernBrawler"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8a71ead5-d1ba-47ba-b224-e29126723e3f,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="b760fb6a-ae76-4004-8e7f-811f126051fc"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="BrutalCritical;XEN_OwlbearCubEvolved_TotemSpirit_Bear_2"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="XEN_OwlbearCubEvolved_TotemSpirit_Bear"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="88a8cbde-e979-4cb4-99cc-745f54227934"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Dexterity,1)"/>
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_UnwaveringBeast;XEN_OwlbearCubEvolved_AspectOfTheElk"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="XEN_OwlbearCubEvolved_EasilyFrightened"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e6f6b504-4bdd-4e06-9da4-cfbd1c518665,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="ca5751fd-8753-406e-b0fc-796dabd605bd"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="RelentlessRage"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(48adba0e-d2fc-4d7b-82fb-11f9e2d018db,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="4866a66d-738f-4901-8747-ee6b56ea27f8"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Rage,1,0);Ability(Strength,1);Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="d5d2e92f-6c3e-41fb-8a0a-c619f727293e"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_BrutalCritical_2"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="BrutalCritical"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="90c351bd-a6b9-49bf-907a-791ddce2b640"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Wisdom,1)"/>
+                    <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="5bccbb38-d7c2-4c6d-8782-2f69c4cf5739"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_PersistentRage"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="654e034c-3b06-4ad5-815c-2d73c2634bfc"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1)"/>
+                    <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(d086eeff-3652-465b-a9fe-db6352bba767,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="0e5dfcbb-7b8d-40b8-9f9f-0c60ee4b9b71"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Rage,1,0)"/>
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_BrutalCritical_3"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="XEN_OwlbearCubEvolved_BrutalCritical_2"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="2ff67400-3e49-4886-aa84-e6da79af561c"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Dexterity,1);Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="b4d27c83-28ec-42e0-9242-1f79a7906418"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="5e4bb91f-8d15-4a93-8541-000659e96acd"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved_20"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(bb80f0d3-d123-46b7-b04a-80264ffb554e,,,,AlwaysPrepared)"/>
+                    <attribute id="TableUUID" type="guid" value="e8082c3b-5b6f-4dfa-84a0-8525e4fe7ba7"/>
+                    <attribute id="UUID" type="guid" value="c0f35af4-56ba-4f66-9dd2-cf6a47909308"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_BrutalCritical_2"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="BrutalCritical"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="488fede8-2ab6-41bb-b4b3-eb9dd16692f3"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Wisdom,1)"/>
+                    <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="b15fc19f-7b41-448d-99ec-0e5d00b386e5"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_PersistentRage"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="2c5d2638-9f7c-466f-9a7e-a320711cd5a1"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1)"/>
+                    <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="6a4b9d01-aba8-4d5b-a24b-7759d452b9b3"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Rage,1,0)"/>
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="PassivesAdded" type="LSString" value="XEN_OwlbearCubEvolved_BrutalCritical_3"/>
+                    <attribute id="PassivesRemoved" type="LSString" value="XEN_OwlbearCubEvolved_BrutalCritical_2"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="dd0526da-6fc5-4f5d-ad04-030648b782d8"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Dexterity,1);Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="21c1437c-3a3b-4b0c-85e7-809c5609f6d9"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="afb8b086-139e-41fd-8bd1-71baebfcc462"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Boosts" type="LSString" value="Ability(Strength,1);Ability(Constitution,1)"/>
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="OwlbearCubEvolved"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="60c17206-99d4-4d1c-9aa0-0c72cafac351"/>
+                    <attribute id="UUID" type="guid" value="f8cce2b9-e9d9-4b87-8edf-25b240e3a697"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

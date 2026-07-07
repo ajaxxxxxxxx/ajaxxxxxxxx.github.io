@@ -1,0 +1,14 @@
+new entry "DamageShield_NPC_Radiant"
+type "PassiveData"
+using "DamageShield_NPC_Radiant"
+// %%% Damage Shield Technical - Radiant
+data "DisplayName" "h41fc2fd9g393fg4df6gaa9bg2674a5c17df1;1"
+// %%% Technical passive to reflect radiant damage x2
+data "Description" "436c350c-7509-4375-9b8e-78a8cce5bec1;1"
+data "Boosts" "RedirectDamage(1,Necrotic,Radiant,true);Resistance(Radiant,Resistant)"
+
+new entry "DAMAGE_SHIELD_NPC_RADIANT"
+type "StatusData"
+data "StatusType" "BOOST"
+using "DAMAGE_SHIELD_NPC_RADIANT"
+data "Description" "436c350c-7509-4375-9b8e-78a8cce5bec1;1"

@@ -1,0 +1,792 @@
+
+// ========================== Moonlight Glaive ==========================
+// Radiant damage increased to 1d6
+new entry "MAG_Moonlight_Glaive"
+type "Weapon"
+using "MAG_Moonlight_Glaive"
+// data "Rarity" "Rare"
+data "Rarity" "VeryRare"
+// data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical);WeaponDamage(1d4, Radiant)"
+data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical);WeaponDamage(1d6, Radiant)"
+// data "ValueUUID" "4cd41c74-9c86-4233-922e-4db5bc750df5"
+data "ValueUUID" "71191c11-966f-4c19-b4ee-eb36d31c4944"
+
+// ========================== The Dancing Breeze ==========================
+// Whirlwind Attack: cooldown decreased to per combat
+new entry "Shout_MAG_WhirlwindAttack"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_MAG_WhirlwindAttack"
+// data "Cooldown" "OncePerShortRest"
+data "Cooldown" "OncePerCombat"
+
+// ===============================================================================
+//                                       Greataxes  
+// ===============================================================================
+
+
+
+// ===============================================================================
+//                                       Greatclubs  
+// ===============================================================================
+
+// ===============================================================================
+//                                       Greatswords  
+// ===============================================================================
+
+// ========================== Balduran's Giantlayer ==========================
+// Giant Form: change cost to bonus action
+new entry "Shout_MAG_Legendary_GiantSlayer_EnlargeSelf"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_MAG_Legendary_GiantSlayer_EnlargeSelf"
+// data "UseCosts" "ActionPoint:1"
+data "UseCosts" "BonusActionPoint:1"
+data "Cooldown" "OncePerShortRestPerItem"
+
+new entry "MAG_Giantslayer_Greatsword"
+type "Weapon"
+using "MAG_Giantslayer_Greatsword"
+data "RootTemplate" "7219fca3-5f41-43a0-8253-f4c09d8b6308"
+data "Rarity" "Legendary"
+data "DefaultBoosts" "WeaponEnchantment(3);WeaponProperty(Magical);"
+data "PassivesOnEquip" "MAG_Giantslayer_Passive;ImprovedCritical"
+data "Unique" "1"
+data "Damage" "4d4"
+
+// ===============================================================================
+//                                       Halberds  
+// ===============================================================================
+
+// ========================== Harmonium Halberd ==========================
+// Strength increase increased to 3
+new entry "MAG_BG_Harmonium_Halberd"
+type "Weapon"
+using "MAG_BG_Harmonium_Halberd"
+// data "Boosts" "Ability(Strength, 2, 23);Ability(Intelligence, -1);Ability(Wisdom, -1)"
+data "Boosts" "Ability(Strength, 4, 23);Ability(Intelligence, -2);Ability(Wisdom, -2)"
+
+// ===============================================================================
+//                                       Longswords  
+// ===============================================================================
+
+// ========================== Larethian's Wrath ==========================
+// Razor Gale: cooldown decreased to per combat
+new entry "Zone_Mag_WeaponAction_RazorGale"
+type "SpellData"
+data "SpellType" "Zone"
+using "Zone_Mag_WeaponAction_RazorGale"
+// data "Cooldown" "OncePerShortRest"
+data "Cooldown" "OncePerCombat"
+
+// ========================== Blackguard's Sword ==========================
+// Rarity increased to Very Rare
+new entry "MAG_OB_Paladin_DeathKnight_Longsword"
+type "Weapon"
+using "MAG_OB_Paladin_DeathKnight_Longsword"
+// data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
+data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
+// data "Rarity" "Rare"
+data "Rarity" "VeryRare"
+// data "PassivesOnEquip" "MAG_DazingSmite_Passive"
+data "PassivesOnEquip" "MAG_DazingSmite_Passive;CHT_BlackguardSword_Kill_Passive"
+
+// Dazing Smite: increased save DC from flat 13 to weapon manoeuvre, and fix it requiring to deal damage instead of just on a hit like description says
+new entry "MAG_DazingSmite_Passive"
+type "PassiveData"
+using "MAG_DazingSmite_Passive"
+// data "TooltipSave" ""
+data "TooltipSave" "Constitution"
+// data "StatsFunctorContext" "OnDamage;OnStatusApply"
+data "StatsFunctorContext" "OnAttack"
+// data "Conditions" ""
+data "Conditions" "IsSmiteSpells() and not IsMiss()"
+// data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnDamage) and IsSmiteSpells()):ApplyStatus(DAZED, 100, 2,,,,not SavingThrow(Ability.Constitution,13));IF(context.HasContextFlag(StatsFunctorContext.OnStatusApply) and StatusId('INTERRUPT_SMITE_DIVINE_VFX')):ApplyStatus(DAZED, 100, 2,,,,not SavingThrow(Ability.Constitution,13))"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, ManeuverSaveDC())):ApplyStatus(DAZED, 100, 2)"
+
+// New passive: regain 2d4 hit points when dealing a critical hit or killing blow with Necrotic damage
+new entry "CHT_BlackguardSword_Kill_Passive"
+type "PassiveData"
+// Unholy Exchange
+data "DisplayName" "he2d43d3fgad58g494aga871g19b279fa1556;1"
+// When you deal a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; or killing blow with[1], you regain [2].
+data "Description" "h5c3a0a65g4cd2g420fga96ag5a5a6e65701e;1"
+data "DescriptionParams" "DealDamage(,Necrotic);RegainHitPoints(2d4)"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "Character() and HasDamageDoneForType(DamageType.Necrotic) and (IsKillingBlow() or IsCritical())"
+data "StatsFunctors" "RegainHitPoints(SELF, 2d4)"
+
+// ===============================================================================
+//                                       Quarterstaves  
+// ===============================================================================
+
+// ========================== Gold Wyrmling Staff ==========================
+// Also gives Searing Smite (short rest cooldown) in addition to Fire Bolt
+new entry "MAG_Fire_FireDamage_Quarterstaff"
+type "Weapon"
+using "MAG_Fire_FireDamage_Quarterstaff"
+// data "Boosts" "UnlockSpell(Projectile_MAG_FireBolt_Staff)"
+data "Boosts" "UnlockSpell(Projectile_MAG_FireBolt_Staff);UnlockSpell(CHT_MAG_Smite_Searing)"
+
+new entry "CHT_MAG_Smite_Searing"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Smite_Searing"
+// data "HitCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:1"
+data "HitCosts" ""
+// data "SpellFlags" "IsConcentration;IsHarmful;HasVerbalComponent;IsSpell"
+data "SpellFlags" "IsHarmful;HasVerbalComponent;IsSpell"
+// data "Cooldown" ""
+data "Cooldown" "OncePerShortRestPerItem"
+
+// ========================== Harper Sacredstriker ==========================
+// Gives +1 to spell attack rolls
+new entry "MAG_Harpers_OfWeapons_Quarterstaff"
+type "Weapon"
+using "MAG_Harpers_OfWeapons_Quarterstaff"
+// data "PassivesOnEquip" ""
+data "PassivesOnEquip" "CHT_SpellAttackRoll_1_Passive"
+
+// Custom passive because the only passive in vanilla with +1 to spell attack rolls doesn't have a fitting name
+new entry "CHT_SpellAttackRoll_1_Passive"
+type "PassiveData"
+// Arcane Accuracy
+data "DisplayName" "h1eaa6c44gd9c5g4a00g9d81g5c5710f2f995;6"
+// You gain a +[1] bonus to Spell &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.
+data "Description" "h280ef7c0g07a5g49a3g8dffg3a0177848e21;1"
+data "DescriptionParams" "1"
+data "Boosts" "RollBonus(MeleeSpellAttack, 1);RollBonus(RangedSpellAttack, 1)"
+
+// ========================== Staff of Interruption ==========================
+// Gives +1 to spell save DC
+new entry "MAG_LC_Counterspell_Quarterstaff"
+type "Weapon"
+using "MAG_LC_Counterspell_Quarterstaff"
+// data "PassivesOnEquip" "MAG_LC_Counterspell_Quarterstaff_Resource_Passive"
+data "PassivesOnEquip" "MAG_LC_Counterspell_Quarterstaff_Resource_Passive;MAG_SpellSaveDC_Enchantment_Lesser_Passive"
+
+// ========================== Despair of Athkatla ==========================
+// Increase rarity to Very Rare
+// New passive: inflicting a condition on an enemy applies 2 turns of Reverberation. Dealing spell damage to a target with Reverberation causes them to be Dazed for 2 turns if they fail a CON save
+new entry "MAG_LC_Lorroakan_Quarterstaff"
+type "Weapon"
+using "MAG_LC_Lorroakan_Quarterstaff"
+// data "Rarity" "Rare"
+data "Rarity" "VeryRare"
+// data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
+data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
+// data "PassivesOnEquip" "MAG_ArcaneEnchantment_Lesser_Passive"
+data "PassivesOnEquip" "MAG_ArcaneEnchantment_Lesser_Passive;CHT_MAG_LC_Lorroakan_Quarterstaff_Reverb_Passive;CHT_MAG_LC_Lorroakan_Quarterstaff_Dazed_Passive"
+
+new entry "CHT_MAG_LC_Lorroakan_Quarterstaff_Reverb_Passive"
+type "PassiveData"
+// Raging Storm
+data "DisplayName" "hd29c21bag2717g4989gae2cg661187f6fb36;1"
+// When you inflict a condition upon a hostile target, they suffer [1] turns of &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;. When you deal spell damage to a target with &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;, it must make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Spell Save DC&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Dazed&lt;/LSTag&gt; for [2] turns.
+data "Description" "h2ec6e766g1a1fg4322gb759ge3bdf534501d;1"
+data "DescriptionParams" "2;2"
+data "Properties" "OncePerAttack"
+data "StatsFunctorContext" "OnStatusApply"
+data "Conditions" "IsSpell() and Enemy() and not Self() and not StatusId('MAG_THUNDER_REVERBERATION') and not StatusId('MONK_SOUND_SWITCH')"
+data "StatsFunctors" "ApplyStatus(SWAP, MAG_THUNDER_REVERBERATION, 100, 2);ApplyStatus(MAG_THUNDER_REVERBERATION_DURATION_TECHNICAL, 100, 1)"
+
+new entry "CHT_MAG_LC_Lorroakan_Quarterstaff_Dazed_Passive"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsSpell() and HasStatus('MAG_THUNDER_REVERBERATION') and not HasStatus('DAZED')"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, SourceSpellDC())):ApplyStatus(DAZED,100,2)"
+
+// ===============================================================================
+//                                       Rapiers  
+// ===============================================================================
+
+// ========================== Infernal Rapier ==========================
+// Melee Caster: fix description text
+new entry "MAG_MeleeCaster_Passive"
+type "PassiveData"
+using "MAG_MeleeCaster_Passive"
+// Instead of its Strength or Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;, the wielder adds their &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt; to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; with this weapon.
+data "Description" "h4f9480b1gfa10g405dgad9eg611bd8bafda8;1"
+
+new entry "MAG_MELEE_CASTER_BOON"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_MELEE_CASTER_BOON"
+// Instead of its Strength or Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;, the wielder adds their &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt; to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; with this weapon.
+data "Description" "h4f9480b1gfa10g405dgad9eg611bd8bafda8;1"
+
+//                                       Tridents  
+// ===============================================================================
+
+// ========================== Trident of the Waves ==========================
+// Increase enchantment to +2
+new entry "MAG_LC_Wave_Trident"
+type "Weapon"
+using "MAG_LC_Wave_Trident"
+// data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
+data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical)"
+// data "Boosts" ""
+data "Boosts" "UnlockSpell(CHT_HiemalStrike_Upgraded)"
+
+// Add upgraded version of Hiemal Strike from Water Myrmidons that uses weapon save DC + 1 instead of flat 13 and deals 2d6 instead of 1d10 Cold damage
+new entry "CHT_HiemalStrike_Upgraded"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_FreezingStrike_Myrmidon_Water"
+// data "SpellSuccess" "IF(not SavingThrow(Ability.Constitution,13)):ApplyStatus(CHILLED,100,2);DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType);DealDamage(1d10, Cold,Magical)"
+data "SpellSuccess" "IF(not SavingThrow(Ability.Constitution,ManeuverSaveDC+1)):ApplyStatus(CHILLED,100,2);DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType);DealDamage(2d6, Cold,Magical)"
+// Chill of the Waves
+data "DisplayName" "h45deef2cg817cg44d0gbcb3gace58ab899e9;1"
+// Pierce a creature with your trident, dealing additional[1] and possibly &lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Chilling&lt;/LSTag&gt; it.
+data "Description" "h2fd69e81ge0dfg4188g9501g9ae4c8ee3d16;1"
+// data "DescriptionParams" "DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType);DealDamage(1d10,Cold)"
+data "DescriptionParams" "DealDamage(,Cold)"
+// data "TooltipDamageList" "DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType);DealDamage(1d10,Cold)"
+data "TooltipDamageList" "DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType);DealDamage(2d6,Cold)"
+// data "Cooldown" ""
+data "Cooldown" "OncePerShortRestPerItem"
+// data "SpellAnimation" "2e641496-73b7-4b6b-8e64-fab0a96530a7,2e641496-73b7-4b6b-8e64-fab0a96530a7,2e641496-73b7-4b6b-8e64-fab0a96530a7;2485a7ef-b922-4ca5-997a-32d91e3e940e,d75a50e7-0c75-4617-b445-9e19492e14b5,7fc1c2ad-1c2e-48bc-8fc3-618813025648;626a5d86-8cf8-4504-9b68-d07caab210a5,ed4e16cc-922f-45db-ac6b-69c4043e515d,4e538f81-b438-4354-8751-1d5a5403569b;c141f461-68c2-4282-9a39-be9a3886c17d,af2d16d7-91b5-4eb8-86f9-bba2004f5d0e,12b51e37-3bac-4b4d-9fbe-28039dfce32a;1e771026-9de7-4a9c-8d6e-fda61ed1ca96,1e771026-9de7-4a9c-8d6e-fda61ed1ca96,1e771026-9de7-4a9c-8d6e-fda61ed1ca96;85441f85-ec22-4e64-af54-4f2999b967b5,85441f85-ec22-4e64-af54-4f2999b967b5,85441f85-ec22-4e64-af54-4f2999b967b5;,,;,,;,,"
+data "SpellAnimation" "2ba949b7-0329-4190-992c-11b0d29183c5,,;9583ecee-cf6c-4735-86db-7ebf1df15eae,,;de006e3f-70fb-4eb7-a98d-d845d15b20e8,,;50696db7-d931-4734-915d-32d038ba99a5,,;a0503ad0-c1b1-449c-b431-4ac6c39c58d7,,;c36ed247-2272-492b-99c2-2ca10b014670,,;0b07883a-08b8-43b6-ac18-84dc9e84ff50,,;,,;,,"
+// data "DualWieldingSpellAnimation" ""
+data "DualWieldingSpellAnimation" "c25d80c5-aaf3-4aba-bc1f-bb1c8534725e,,;45bcbbd4-f9ca-4b19-88c2-822c5e2b0d8b,,;466e7470-712f-4a67-8ef1-5908a20b0449,,;c1713221-163b-4bae-95de-e6681d665c76,,;dc83b386-41f5-43df-9649-788107052830,,;b63dee1e-08e1-4f7a-88ee-1e6baa38e0dd,,;0b07883a-08b8-43b6-ac18-84dc9e84ff50,,;,,;,,"
+// data "SpellFlags" "Wildshape;IsHarmful"
+data "SpellFlags" "IsHarmful"
+
+// ===============================================================================
+//                                       Warhammers  
+// ===============================================================================
+
+// ========================== Hammer of the Just ==========================
+// Add 1d4 Radiant damage
+new entry "MAG_Tyrrant_Warhammer"
+type "Weapon"
+using "MAG_Tyrrant_Warhammer"
+// data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical)"
+data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical);WeaponDamage(1d4,Radiant)"
+
+//more vanilla fixes
+
+// ===============================================================================
+//                                       Daggers  
+// ===============================================================================
+
+// ========================== Ambusher ==========================
+// Increase rarity to Very Rare, enchantment to +2
+new entry "MAG_Ambusher_Shortsword"
+type "Weapon"
+using "MAG_Ambusher_Shortsword"
+// data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
+data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical)"
+// data "Rarity" "Rare"
+data "Rarity" "VeryRare"
+// data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
+data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
+
+// Sentinel Weapon: increase initiative bonus to +2
+new entry "MAG_InitiativeWeapon_Passive"
+type "PassiveData"
+using "MAG_InitiativeWeapon_Passive"
+// data "DescriptionParams" "1"
+data "DescriptionParams" "2"
+// data "Boosts" "Initiative(1);Advantage(Skill, Perception)"
+data "Boosts" "Initiative(2);Advantage(Skill, Perception)"
+
+// ===============================================================================
+//                                       Greataxes  
+// ===============================================================================
+
+// ========================== Hellfire Greataxe ==========================
+// Hellflame Cleave: can no longer hit allies and cooldown decreased to per combat
+new entry "Zone_MAG_Automaton_Human_Steelwatcher_HellfireCleave"
+type "SpellData"
+data "SpellType" "Zone"
+using "Zone_MAG_Automaton_Human_Steelwatcher_HellfireCleave"
+// data "TargetConditions" "not Dead() and not (HasPassive('SculptSpells', context.Source) and Ally()) and not Tagged('INVISIBLE_HELPER')"
+data "TargetConditions" "(Character() or Item()) and not Self() and not Dead() and not Ally()"
+// data "Cooldown" "OncePerShortRest"
+data "Cooldown" "OncePerCombat"
+
+// ===============================================================================
+//                                       Greatclubs  
+// ===============================================================================
+
+// ========================== Punch-Drunk Bastard ==========================
+// Tippler's Rage: increase Thunder damage to 1d6
+new entry "MAG_TWN_Brewer_DrunkardRage_Passive"
+type "PassiveData"
+using "MAG_TWN_Brewer_DrunkardRage_Passive"
+// data "DescriptionParams" "DealDamage(1d4,Thunder);Distance(3)"
+data "DescriptionParams" "DealDamage(1d6,Thunder);Distance(3)"
+
+new entry "MAG_DRUNKARD_RAGE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_DRUNKARD_RAGE"
+// data "DescriptionParams" "DealDamage(1d4,Thunder);Distance(3)"
+data "DescriptionParams" "DealDamage(1d6,Thunder);Distance(3)"
+
+// (Honour Mode version)
+new entry "Projectile_MAG_Mobility_ExplosionOnJump_Explosion"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_MAG_Mobility_ExplosionOnJump_Explosion"
+// data "SpellProperties" "DealDamage(1d4,Thunder,Magical,,0,,true,false)"
+data "SpellProperties" "DealDamage(1d6,Thunder,Magical,,0,,true,false)"
+
+// ===============================================================================
+//                                       Maces  
+// ===============================================================================
+
+// ========================== Devotee's Mace ==========================
+// Gains +2 spell save DC
+new entry "MAG_Cleric_Devotees_Mace"
+type "Weapon"
+using "MAG_Cleric_Devotees_Mace"
+// data "PassivesOnEquip" ""
+data "PassivesOnEquip" "MAG_SpellSaveDC_Enchantment_Passive"
+
+// Healing Incense: cooldown decreased to per combat
+new entry "Shout_MAG_DevoteesMace_Healing_Aura"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_MAG_DevoteesMace_Healing_Aura"
+// data "Cooldown" "OncePerRestPerItem"
+data "Cooldown" "OncePerCombat"
+
+// ===============================================================================
+//                                       Morningstars  
+// ===============================================================================
+
+// ========================== The Sacred Star ==========================
+// Dawnburst Strike: change to single target and increase save DC for blindness (original AoE wasn't working hit allies and couldn't fix it myself so just changed the effect)
+new entry "Target_MAG_WeaponAction_FlashingDawn"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MAG_WeaponAction_FlashingDawn"
+// data "AreaRadius" "3"
+data "AreaRadius" ""
+// data "SpellSuccess" "TARGET:DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType); TARGET:DealDamage(ProficiencyBonus, Radiant);AOE:IF(not SavingThrow(Ability.Constitution, ManeuverSaveDC()+2)):ApplyStatus(BLINDED, 100, 3);ExecuteWeaponFunctors(MainHand)"
+data "SpellSuccess" "DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType);DealDamage(ProficiencyBonus, Radiant);IF(not SavingThrow(Ability.Constitution, ManeuverSaveDC()+4)):ApplyStatus(BLINDED, 100, 3);ExecuteWeaponFunctors(MainHand)"
+// Deal additional Radiant damage equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;. On a hit, light erupts on the target, forcing it to make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; for [1] turns.
+data "Description" "h5a6970b0g1f2dg4060g9e88g4ecc1899c571;1"
+// data "DescriptionParams" "Distance(3)"
+data "DescriptionParams" "3"
+
+// ========================== Ravengard's Scourger ==========================
+// Commander's Strike: cost is now only a bonus action
+new entry "Target_MAG_CommanderStrike"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MAG_CommanderStrike"
+// data "UseCosts" "ActionPoint:1; BonusActionPoint:1"
+data "UseCosts" "BonusActionPoint:1"
+
+// ===============================================================================
+//                                       Heavy Crossbows  
+// ===============================================================================
+
+// ========================== The Long Arm of the Gur ==========================
+// Revenant Scourge: fix passive not working and now applicable against Aberrations and Monstrosities as well
+new entry "MAG_UNDEAD_SLAYER_BLESS"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_UNDEAD_SLAYER_BLESS"
+// data "Boosts" "IF(Tagged('UNDEAD', context.Target)):WeaponAttackRollBonus(1d4);IF(Tagged('UNDEAD', context.Target)):WeaponDamage(1d4, Piercing)"
+data "Boosts" ""
+
+new entry "MAG_UndeadSlayer_Passive"
+type "PassiveData"
+using "MAG_UndeadSlayer_Passive"
+// >Attacks with this weapon against Aberrations, Monstrosities, and Undead gain a +[1] to &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and Damage rolls.
+data "Description" "h0b4b9f6cg32b7g49d5ga2c0gf4ba55b65778;1"
+// data "Boosts" ""
+data "Boosts" "IF((Tagged('UNDEAD') or Tagged('ABERRATION') or Tagged('MONSTROSITY')) and IsRangedWeaponAttack()):CharacterWeaponDamage(1d4);IF(Tagged('UNDEAD') or Tagged('ABERRATION') or Tagged('MONSTROSITY')):RollBonus(RangedWeaponAttack, 1d4);"
+
+// ========================== Robe of Summer ==========================
+// New passive: increase all Fire damage done by 2, with subsequent damage (AoE or multiattacks) only being buffed by 1 damage
+new entry "UNI_RobeOfSummer"
+type "Armor"
+using "UNI_RobeOfSummer"
+data "PassivesOnEquip" "CHT_RobeOfSummer_FireDamage_Passive"
+
+new entry "CHT_RobeOfSummer_FireDamage_Passive"
+type "PassiveData"
+// Estival Heat
+data "DisplayName" "h6daa1f68g238fg4043gafa3gdb62220b9646;1"
+// When you deal[1], deal an extra [2]. This bonus damage only applies once per attack. The damage bonus for subsequent hits or to secondary targets in the same attack is reduced to [3].
+data "Description" "h7a9a490cg01d8g4206g87cdg792c747676dc;1"
+data "DescriptionParams" "DealDamage(,Fire);DealDamage(2,Fire);DealDamage(1,Fire)"
+data "Boosts" "IF(HasDamageDoneForType(DamageType.Fire) and ConditionResult(context.HitDescription.FirstAttack)):DamageBonus(2);IF(HasDamageDoneForType(DamageType.Fire) and not ConditionResult(context.HitDescription.FirstAttack)):DamageBonus(1);"
+
+// ========================== Obsidian Laced Robe ==========================
+// New passive: inflict Burning for 2 turns when dealing Fire damage with a spell or cantrip (same as in Syrchalis' mod, but cleaned up tooltip)
+new entry "MAG_Heat_Fire_Robe"
+type "Armor"
+using "MAG_Heat_Fire_Robe"
+// data "PassivesOnEquip" "MAG_Heat_Fire_Robe_Passive;"
+data "PassivesOnEquip" "CHT_ObsidianLacedRobe_Burning_Passive;MAG_Heat_Fire_Robe_Passive;"
+
+new entry "CHT_ObsidianLacedRobe_Burning_Passive"
+type "PassiveData"
+// Flaming Wrath
+data "DisplayName" "h73e64822g8cb5g4432g90a2gc810f4a7bf33;1"
+// On a hit with a spell or cantrip that deals[1], afflict targets with &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; for [2] turns.
+data "Description" "h73e64822g8cb5g4432g90a2gc810f4a7bf33;1"
+data "DescriptionParams" "DealDamage(,Fire);2"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "HasDamageDoneForType(DamageType.Fire) and not Ally() and (IsSpell() or IsCantrip())"
+data "StatsFunctors" "ApplyStatus(BURNING,100,2)"
+
+// ========================== Bided Time ==========================
+// Add +1 AC; passive changed to gain Arcane Charge when attacked instead of when hit with a melee attack
+// wtf is this Shield passive
+new entry "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe"
+type "Armor"
+using "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe"
+// data "Boosts" ""
+data "Boosts" "AC(1)"
+// data "Rarity" "Uncommon"
+data "Rarity" "Rare"
+// data "ValueUUID" "be545ee9-311c-4ab8-ab14-fefcc552cace"
+data "ValueUUID" "240eb257-ef20-4877-89bd-6956b4b7c41a"
+// data "PassivesOnEquip" "Shield;MAG_CQCaster_GainArcaneChargeOnDamaged_Robe_Passive"
+data "PassivesOnEquip" "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe_Passive"
+
+new entry "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe_Passive"
+type "PassiveData"
+using "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe_Passive"
+// You gain &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_CHARGE"&gt;Arcane Charge&lt;/LSTag&gt; for [1] turns when a foe makes a melee attack against you.
+data "Description" "ha62d55d8g0fb8g468ag8cfcg18b68e3a9b81;1"
+data "DescriptionParams" "2"
+// data "Conditions" "IsMeleeAttack() and Enemy() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "Conditions" "IsMeleeAttack() and Enemy()"
+
+// ========================== Wavemother's Robe ==========================
+// New passive: your Cold damage spells inflict 4 turns of Encrusted with Frost to Wet targets
+new entry "MAG_LC_Umberlee_Regeneration_Robe"
+type "Armor"
+using "MAG_LC_Umberlee_Regeneration_Robe"
+// data "PassivesOnEquip" "MAG_Umberlee_FireColdResistance_Passive;MAG_LC_Umberlee_Regeneration_Boots_Passive"
+data "PassivesOnEquip" "CHT_WavemothersRobe_Cold_Passive;MAG_Umberlee_FireColdResistance_Passive;MAG_LC_Umberlee_Regeneration_Boots_Passive"
+
+new entry "CHT_WavemothersRobe_Cold_Passive"
+type "PassiveData"
+// Chilly Depths
+data "DisplayName" "h7ce9e17fgccf2g4f2fga01ega0d4eaababe0;1"
+// When you deal[1] to a &lt;LSTag Type="Status" Tooltip="WET"&gt;Wet&lt;/LSTag&gt; target, you inflict &lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;Encrusted with Frost&lt;/LSTag&gt; to it for [2] turns.
+data "Description" "h169ee614g2ffcg465bg889agab70115acfd2;1"
+data "DescriptionParams" "DealDamage(,Cold);4"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsSpell() and HasDamageDoneForType(DamageType.Cold) and not Ally() and HasStatus('WET',context.Target)"
+data "StatsFunctors" "ApplyStatus(MAG_FROST,100,4)"
+
+// ========================== Elegant Studded Leather ==========================
+// Add advantage on DEX saving throws
+new entry "MAG_EndGame_StuddedLeather_Armor"
+type "Armor"
+using "MAG_EndGame_StuddedLeather_Armor"
+// data "Boosts" "Advantage(Skill, Stealth);UnlockSpell(Shout_MAG_Shield_LeatherArmor)"
+data "Boosts" "Advantage(SavingThrow, Dexterity);Advantage(Skill, Stealth);UnlockSpell(Shout_MAG_Shield_LeatherArmor)"
+
+// ========================== Gloves of Battlemage's Power ==========================
+// Bug Fix: Inadvertently fix every issue with Larian's Patch #8 implementation, such as Shadow Blade and Flame Blade triggering the effect with every successful attack.
+// Changes: Swapped conditions for gaining from a janky list of spells using weapons to all melee spell attacks. 
+
+// new entry "MAG_Gish_ArcaneAcuity_Gloves"
+// type "Armor"
+// using "_Hand_Magic_Metal"
+// data "RootTemplate" "15381544-e616-46e6-a881-0af793971863"
+// data "ValueUUID" "a229f048-70b0-4b0c-88cb-29b5c6bdb2d0"
+// data "Rarity" "Rare"
+// data "PassivesOnEquip" "MAG_Gish_ArcaneAcuity_Gloves_Passive"
+// data "Unique" "1"
+
+new entry "GOON_GLOVESOFBATTLEMAGESPOWER_ARMOUR_TECHNICAL"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StatusPropertyFlags" "DisablePortraitIndicator;DisableOverhead;DisableCombatlog;IgnoreResting"
+
+new entry "MAG_Gish_ArcaneAcuity_Gloves_Passive"
+type "PassiveData"
+using "MAG_Gish_ArcaneAcuity_Gloves_Passive"
+// Battlemage's Power
+// data "DisplayName" "haab50542gb3f3g41c5g9ee9gefb50accc757;3"
+// When you hit a target with a spell or &lt;LSTag Tooltip="Cantrip"&gt;cantrip&lt;/LSTag&gt; that uses a weapon, you gain &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;Arcane Acuity&lt;/LSTag&gt;.
+// data "Description" "hbae6c94bg09c9g45e6ga267gef7984d501be;11"
+// When you hit a target with a &lt;LSTag Tooltip="MeleeSpellAttack"&gt;Melee Spell Attack&lt;/LSTag&gt;, you gain [2] turns of &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;Arcane Acuity&lt;/LSTag&gt;.
+data "Description" "hf583b6a7g93e9g4024g849fge9c76241e0ab;1"
+// data "Properties" "OncePerAttack"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "ArcaneAcuityGlovesCondition();"
+data "Conditions" "IsAttackType(AttackType.MeleeSpellAttack) or (IsMeleeAttack() and IsSpell())"
+// data "StatsFunctors" "ApplyStatus(SELF, MAG_GISH_ARCANE_ACUITY, 100, 2);ApplyStatus(SELF, MAG_GISH_ARCANE_ACUITY_DURATION_TECHNICAL, 100, 1)"
+
+// ========================== Mystra's Grace ==========================
+// Gives 1m movement speed and +1 to Arcana checks
+new entry "UND_Tower_BootsFeatherFall"
+type "Armor"
+using "UND_Tower_BootsFeatherFall"
+// data "Boosts" "UnlockSpell(Shout_UND_FeatherFall_Tower_Boots)"
+data "Boosts" "UnlockSpell(Shout_UND_FeatherFall_Tower_Boots);Skill(Arcana,1);ActionResource(Movement,1,0)"
+
+// ========================== Vital Conduit Boots ==========================
+// Vital Conduit: increase temporary hp to 12
+new entry "MAG_Gish_TempHPWhileConcentrating_Boots_Passive"
+type "PassiveData"
+using "MAG_Gish_TempHPWhileConcentrating_Boots_Passive"
+// data "DescriptionParams" "GainTemporaryHitPoints(8)"
+data "DescriptionParams" "GainTemporaryHitPoints(12)"
+// data "StatsFunctors" "ApplyStatus(SELF, MAG_TEMPORARY_HP_8, 100, -1)"
+data "StatsFunctors" "ApplyStatus(SELF, CHT_MAG_TEMPORARY_HP_12, 100, -1)"
+
+new entry "CHT_MAG_TEMPORARY_HP_12"
+type "StatusData"
+data "StatusType" "BOOST"
+using "MAG_TEMPORARY_HP"
+// Kept from death's door by a brief magical boost. Gained [1] <LSTag Tooltip="TemporaryHitPoints">temporary hit points</LSTag> .
+data "Description" "hffe4f11ag01fdg422agbbfeg619b1fabbe3b;2"
+data "DescriptionParams" "12"
+data "StackPriority" "12"
+data "Boosts" "TemporaryHP(12)"
+
+// ========================== Boots of Apparent Death ==========================
+// Gives +1 to CON saving throws
+new entry "TWN_BootsOfApparentDeath"
+type "Armor"
+using "TWN_BootsOfApparentDeath"
+// data "Boosts" "UnlockSpell(Target_TWN_FeignDeath)"
+data "Boosts" "RollBonus(SavingThrow, 1, Constitution);UnlockSpell(Target_TWN_FeignDeath)"
+
+// ========================== Spacehunt Boots ==========================
+// Dimension Door: cost changed to bonus action to be consistent with changes to the spell
+new entry "Teleportation_MAG_Dolor_DimensionDoor"
+type "SpellData"
+data "SpellType" "Shout"
+using "Teleportation_MAG_Dolor_DimensionDoor"
+// data "UseCosts" "ActionPoint:1"
+data "UseCosts" "BonusActionPoint:1"
+
+// ===============================================================================
+//                                       Cloaks  
+// ===============================================================================
+
+// ========================== Cloak of Elemental Absorption ==========================
+// Absorb Elements: cooldown reduced to once per combat
+new entry "MAG_Interrupt_MAG_Interrupt_AbsorbElements_Resource_Passive"
+type "PassiveData"
+using "MAG_Interrupt_MAG_Interrupt_AbsorbElements_Resource_Passive"
+// data "Properties" "IsHidden;OncePerShortRest"
+data "Properties" "IsHidden;OncePerCombat"
+// data "StatsFunctorContext" "OnCreate;OnShortRest;OnLongRest"
+data "StatsFunctorContext" "OnCreate;OnCombatStarted;OnShortRest;OnLongRest"
+
+// ========================== Wavemother's Cloak ==========================
+// Add +1 AC
+new entry "MAG_LC_Umberlee_Protection_Cape"
+type "Armor"
+using "MAG_LC_Umberlee_Protection_Cape"
+// data "Boosts" ""
+data "Boosts" "AC(1)"
+
+// ========================== Komira's Locket ==========================
+// Add special nerfed version of Otto's Irresistible Dance:
+// Doesn't give disadvantage on attack rolls and DEX saving throws, lasts 3 turns only, requires a Wisdom saving throw on the initial cast. Short rest cooldown
+new entry "DEN_Arabella_Locket"
+type "Armor"
+using "DEN_Arabella_Locket"
+// data "Boosts" "UnlockSpell(Target_DEN_DancingLights_Arabella_Locket)"
+data "Boosts" "UnlockSpell(Target_DEN_DancingLights_Arabella_Locket);UnlockSpell(CHT_IrresistibleDance_Arabella_Locket)"
+
+new entry "CHT_IrresistibleDance_Arabella_Locket"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_IrresistibleDance"
+data "Level" "1"
+// data "SpellProperties" "ApplyStatus(IRRESISTIBLE_DANCE,100,10)"
+data "SpellProperties" ""
+// data "SpellRoll" ""
+data "SpellRoll" "not SavingThrow(Ability.Wisdom, SourceSpellDC())"
+// data ""
+data "SpellSuccess" "ApplyStatus(CHT_ARABELLA_DANCE,100,3)"
+// Arabella's Gleeful Dance
+data "DisplayName" "h37aae19ag50ddg4dc5gb8e5gdf824c1adc8e;1"
+// Cause a creature to start dancing, making it unable to take &lt;LSTag Tooltip="Action"&gt;actions&lt;/LSTag&gt; or move. Its attackers have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. The target can make a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; every turn and upon taking damage to break free.
+data "Description" "h0f467088g08c2g4154g8af4gb9cdcc3b4fb3;1"
+// The dancer has <LSTag Tooltip="Disadvantage">Disadvantage</LSTag> on <LSTag Tooltip="AttackRoll">Attack Rolls</LSTag> and Dexterity <LSTag Tooltip="SavingThrow">Saving Throws</LSTag>.
+// data "ExtraDescription" "h6aeff13cg4c03g4ae9g923dg04bafb7981e7;2"
+data "ExtraDescription" ""
+// data "TooltipStatusApply" "ApplyStatus(IRRESISTIBLE_DANCE,100,10)"
+data "TooltipStatusApply" "ApplyStatus(CHT_ARABELLA_DANCE,100,3)"
+// data "Cooldown" ""
+data "Cooldown" "OncePerRestPerItem"
+// data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:6"
+data "UseCosts" "ActionPoint:1"
+
+new entry "CHT_ARABELLA_DANCE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "IRRESISTIBLE_DANCE"
+// data "Boosts" "Advantage(AttackTarget);Disadvantage(AttackRoll);ActionResourceBlock(Movement);ActionResourceBlock(ActionPoint);Disadvantage(SavingThrow,Dexterity)"
+data "Boosts" "Advantage(AttackTarget);ActionResourceBlock(Movement);ActionResourceBlock(ActionPoint)"
+// data "RemoveEvents" "OnTurn"
+data "RemoveEvents" "OnTurn;OnDamage"
+
+// ===============================================================================
+//                                       Shields  
+// ===============================================================================
+
+// ========================== Glowing Shield ==========================
+// Loving Protection: increase temporary hp to 12
+new entry "MAG_LowHP_TemporaryHP_Passive"
+type "PassiveData"
+using "MAG_LowHP_TemporaryHP_Passive"
+// Once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, if you are below [1] &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; and take damage, you gain [2] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;.
+data "Description" "h644f1487gc26dg40e7gacaag5e3899554a3d;1"
+// data "DescriptionParams" ""
+data "DescriptionParams" "50%;12"
+// data "StatsFunctors" "ApplyStatus(MAG_TEMPORARY_HP_8,100,-1)"
+data "StatsFunctors" "ApplyStatus(CHT_MAG_TEMPORARY_HP_12,100,-1)"
+
+// ========================== Shield of Shielding ==========================
+// Shield: decrease cooldown to per short rest
+new entry "Shout_MAG_Shield"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_MAG_Shield"
+// data "Cooldown" "OncePerRestPerItem"
+data "Cooldown" "OncePerShortRestPerItem"
+
+
+
+// ========================== Luminous Armour ==========================
+// Change quality to Rare to reflect it being BiS endgame gear for some builds still
+new entry "MAG_Radiant_RadiatingOrb_Armor"
+type "Armor"
+using "MAG_Radiant_RadiatingOrb_Armor"
+// data "Rarity" "Uncommon"
+data "Rarity" "Rare"
+// data "ValueUUID" "be545ee9-311c-4ab8-ab14-fefcc552cace"
+data "ValueUUID" "240eb257-ef20-4877-89bd-6956b4b7c41a"
+
+// ===============================================================================
+//                                       Handwear  
+// ===============================================================================
+
+// ========================== Luminous Gloves ==========================
+// Change quality to Rare to reflect it being BiS endgame gear for some builds still
+new entry "MAG_Radiant_RadiatingOrb_Gloves"
+type "Armor"
+using "MAG_Radiant_RadiatingOrb_Gloves"
+// data "Rarity" "Uncommon"
+data "Rarity" "Rare"
+// data "ValueUUID" "f0e7be35-8be4-483d-afa8-dc9a104ea758"
+data "ValueUUID" "a229f048-70b0-4b0c-88cb-29b5c6bdb2d0"
+
+
+// ========================== Swordmaster Gloves ==========================
+// Sword Mastery: attack roll bonus increased to +2
+new entry "MAG_OfSwordmaster_Gloves_Passive"
+type "PassiveData"
+using "MAG_OfSwordmaster_Gloves_Passive"
+// data "DescriptionParams" "1"
+data "DescriptionParams" "2"
+// data "Boosts" "Proficiency(Shortswords);Proficiency(Longswords);Proficiency(Greatswords);RollBonus(MeleeWeaponAttack, 1)"
+data "Boosts" "Proficiency(Shortswords);Proficiency(Longswords);Proficiency(Greatswords);RollBonus(MeleeWeaponAttack, 2)"
+
+// ========================== Martial Exertion Gloves ==========================
+// Martial Exertion: decrease self-damage to 3d6
+new entry "Shout_MAG_Martial_Exertion"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_MAG_Martial_Exertion"
+// data "SpellProperties" "IF(HasAnyExtraAttack(context.Source)):ApplyStatus(MAG_MARTIAL_EXERTION_Q,100,1);IF(not HasAnyExtraAttack(context.Source)):ApplyStatus(MAG_MARTIAL_EXERTION,100,1);DealDamage(6d6, Piercing)"
+data "SpellProperties" "IF(HasAnyExtraAttack(context.Source)):ApplyStatus(MAG_MARTIAL_EXERTION_Q,100,1);IF(not HasAnyExtraAttack(context.Source)):ApplyStatus(MAG_MARTIAL_EXERTION,100,1);DealDamage(3d6, Piercing)"
+// data "DescriptionParams" "DealDamage(6d6, Piercing)"
+data "DescriptionParams" "DealDamage(3d6, Piercing)"
+
+// ========================== Blackguard's Gauntlets ==========================
+// Rarity increased to Very Rare
+new entry "MAG_OB_Paladin_DeathKnight_Gloves"
+type "Armor"
+using "MAG_OB_Paladin_DeathKnight_Gloves"
+// data "ValueUUID" "240eb257-ef20-4877-89bd-6956b4b7c41a"
+data "ValueUUID" "adfdafe5-f4da-4c64-a1e6-a33d626437d2"
+// data "Rarity" "Rare"
+data "Rarity" "VeryRare"
+// data "PassivesOnEquip" ""
+data "PassivesOnEquip" "CHT_BlackguardGauntlets_SpellAdvantage_Passive"
+
+// New passive: grants advantage on melee spell attack rolls
+new entry "CHT_BlackguardGauntlets_SpellAdvantage_Passive"
+type "PassiveData"
+// Touch of Death
+data "DisplayName" "h4cd883a0ge3ddg495agafb9g999236995f9c;1"
+// You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on all &lt;LSTag Tooltip="MeleeSpellAttack"&gt;Melee Spell Attacks&lt;/LSTag&gt;.
+data "Description" "h5669904cg31d2g4013g8ee2g358bed898c58;1"
+data "Boosts" "IF(IsMeleeSpellAttack()):Advantage(AttackRoll)"
+
+// ========================== Dark Justiciar Boots ==========================
+// Shadow Teleportation: change cost to bonus action and decrease cooldown to per combat
+new entry "Target_MAG_Shadow_Shadowstep"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MAG_Shadow_Shadowstep"
+// data "Cooldown" "OncePerShortRestPerItem"
+data "Cooldown" "OncePerCombat"
+// data "UseCosts" "ActionPoint:1"
+data "UseCosts" "BonusActionPoint:1"
+
+// ========================== Blackguard's Greaves ==========================
+// Rarity increased to Very Rare and replaced Longstrider with new separate passive
+new entry "MAG_OB_Paladin_DeathKnight_Boots"
+type "Armor"
+using "MAG_OB_Paladin_DeathKnight_Boots"
+// data "ValueUUID" "240eb257-ef20-4877-89bd-6956b4b7c41a"
+data "ValueUUID" "adfdafe5-f4da-4c64-a1e6-a33d626437d2"
+// data "Rarity" "Rare"
+data "Rarity" "VeryRare"
+// data "PassivesOnEquip" "MAG_Longstrider_Passive"
+data "PassivesOnEquip" "CHT_BlackguardGreaves_Movement_Passive"
+// data "StatusOnEquip" "MAG_END_GAME_LONGSTRIDER"
+data "StatusOnEquip" ""
+
+// New passive: gives 3m movement speed (so stacks with Longstrider). When jumping, can possibly fear enemies in a 3m radius upon landing if they fail a DC 17 WIS saving throw
+new entry "CHT_BlackguardGreaves_Movement_Passive"
+type "PassiveData"
+// Dreaded Entrance
+data "DisplayName" "h569a8dc5g8cebg4a4eg9d75gb54d9e1f48df;1"
+// Your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases by [1].&lt;br&gt;&lt;br&gt;When you &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt;, enemies in a [2] radius where you land must succeed a DC [3] Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or be &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Feared&lt;/LSTag&gt; for [4] turns. You can toggle this effect off.
+data "Description" "hb4eb78fdg5538g495cg9357gccca6477bc3e;1"
+data "DescriptionParams" "Distance(3);Distance(3);17;2"
+data "Properties" "IsToggled;Temporary;ToggledDefaultOn"
+data "StatsFunctorContext" "OnProjectileExploded"
+data "Conditions" "SpellCategoryIs(SpellCategory.Jump)"
+data "StatsFunctors" "PROJECTILE:CreateExplosion(CHT_BlackguardGreaves_Jump_Explosion);RemoveStatus(SG_Invisible)"
+
+new entry "CHT_BlackguardGreaves_Jump_Explosion"
+type "SpellData"
+data "SpellType" "Projectile"
+data "AreaRadius" "3"
+data "ExplodeRadius" "3"
+data "SpellRoll" "not SavingThrow(Ability.Wisdom, 17, AdvantageOnFrightened(), DisadvantageOnFrightened())"
+data "SpellSuccess" "ApplyStatus(FEARED,100,2);IF(HasWeaponInMainHand()):ApplyStatus(DISARM,100,1)"
+data "SpellFail" "ApplyStatus(SAVED_AGAINST_HOSTILE_SPELL, 100, 0)"
+data "TargetConditions" "Character() and not Self() and not Ally() and not Dead() and not IsImmuneToStatus('FEARED')"
+data "Trajectories" "0be6e4d7-55fe-4ee0-8acc-94fc3b474817,78f998fb-2bb4-c8bd-c170-fcd899abc905,a62c27e3-86c0-db69-8f04-0ea3074cae7a"
+data "Icon" "PassiveFeature_Generic_Explosion"
+data "SpellFlags" "IsTrap;IsHarmful"
+data "TargetEffect" "b460b24b-23e4-4f8f-a533-4d82512bedeb"
+
+// ===============================================================================
+//                                       Amulets  
+// ===============================================================================
+
+// ========================== Amulet of Silvanus ==========================
+// Lesser Restoration: cost changed to bonus action to be consistent with changes to the spell
+new entry "Target_DEN_BearReward_LesserRestoration"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_DEN_BearReward_LesserRestoration"
+// data "UseCosts" "ActionPoint:1"
+data "UseCosts" "BonusActionPoint:1"

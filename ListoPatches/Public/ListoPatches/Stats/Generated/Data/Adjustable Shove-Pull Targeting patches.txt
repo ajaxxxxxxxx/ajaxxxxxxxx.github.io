@@ -1,0 +1,150 @@
+// ==================================== Patching in additional vanilla entries "Target_PsionicPull" found in "Fix Hex inheritence for multiple vanilla pull actions.txt" ====================================
+
+new entry "Target_MAG_RetrievingShot"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MAG_RetrievingShot"
+data "SpellSuccess" "Force(-9, OriginToTarget, Neutral);DealDamage(MainRangedWeapon/2, MainRangedWeaponDamageType)"
+
+new entry "Target_SteelWatcher_Biped_RetrievingShot"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SteelWatcher_Biped_RetrievingShot"
+data "SpellSuccess" "Force(-11, OriginToTarget, Neutral);IF(not Ally()):DealDamage(3d8,Bludgeoning)"
+
+new entry "ThunderboltStrike"
+type "PassiveData"
+using "ThunderboltStrike"
+data "StatsFunctors" "Force(3, OriginToTarget, Aggressive);ApplyStatus(THUNDERBOLT_STRIKE,100,1)"
+
+// ==================================== Patching in Adjustable Shove-Pull Targeting with Expansion, Bard Fixes and Tweaks and overwriting Rebalance Cantrips changes to Thorn Whip ====================================
+
+// Also does a Goon rebalance of the spell
+new entry "Target_ThornWhip"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_ThornWhip"
+data "DescriptionParams" "Distance(5)"
+data "TooltipDamageList" "DealDamage(LevelMapValue(D8Cantrip),Piercing);"
+data "SpellSuccess" "TARGET:IF(not Grounded() and TargetSizeEqualOrSmaller(Size.Large)):Force(-5, OriginToTarget, Neutral);IF(not CharacterLevelGreaterThan(16)):DealDamage(LevelMapValue(D8Cantrip),Piercing,Magical);IF(CharacterLevelGreaterThan(16)):DealDamage(4d6,Piercing,Magical)"
+data "UseCosts" "ActionPoint:1"
+
+new entry "Target_BladeFlourish_Mobile"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_BladeFlourish_Mobile"
+data "SpellSuccess" "IF(not HasStatus('MASTERS_FLOURISH',context.Source)):DealDamage(max(1,MainMeleeWeapon + LevelMapValue(BardicInspiration)), MainMeleeWeaponDamageType);IF(HasStatus('MASTERS_FLOURISH',context.Source)):DealDamage(max(1,MainMeleeWeapon), MainMeleeWeaponDamageType);ExecuteWeaponFunctors(MainHand);Force(6,OriginToTarget,Aggressive);ApplyStatus(BLADE_FLOURISH_MOBILE_TARGET,100,1);ApplyStatus(SELF,BLADE_FLOURISH_MOBILE,100,1)"
+
+new entry "Projectile_BladeFlourish_Mobile"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_BladeFlourish_Mobile"
+data "SpellSuccess" "IF(not HasStatus('MASTERS_FLOURISH',context.Source)):DealDamage(max(1,MainRangedWeapon + LevelMapValue(BardicInspiration)), MainRangedWeaponDamageType);IF(HasStatus('MASTERS_FLOURISH',context.Source)):DealDamage(max(1,MainRangedWeapon), MainRangedWeaponDamageType);ExecuteWeaponFunctors(MainHand);Force(6,OriginToTarget,Aggressive); ApplyStatus(BLADE_FLOURISH_MOBILE_TARGET,100,1);ApplyStatus(SELF,BLADE_FLOURISH_MOBILE,100,1)"
+
+// ==================================== All the Eldritch Blasts, both vanilla and Scarlet Warlock ====================================
+
+new entry "Projectile_EldritchBlast"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_EldritchBlast"
+data "SpellSuccess" "DealDamage(1d10,Force,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive)"
+
+new entry "Projectile_EldritchBlast_Force_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Force_Spell"
+data "SpellSuccess" "DealDamage(1d10,Force,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Force_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Hexblade_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Hexblade_Spell"
+data "SpellSuccess" "DealDamage(1d10,Force,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Hexblade_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Psychic_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Psychic_Spell"
+data "SpellSuccess" "DealDamage(1d10,Psychic,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Psychic_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Fairy_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Fairy_Spell"
+data "SpellSuccess" "DealDamage(1d10,Psychic,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Fairy_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Radiant_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Radiant_Spell"
+data "SpellSuccess" "DealDamage(1d10,Radiant,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Radiant_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Lunar_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Lunar_Spell"
+data "SpellSuccess" "DealDamage(1d10,Radiant,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Lunar_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Acid_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Acid_Spell"
+data "SpellSuccess" "DealDamage(1d10,Acid,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Acid_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Void_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Void_Spell"
+data "SpellSuccess" "DealDamage(1d10,Acid,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Void_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Poison_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Poison_Spell"
+data "SpellSuccess" "DealDamage(1d10,Poison,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Poison_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Blight_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Blight_Spell"
+data "SpellSuccess" "DealDamage(1d10,Poison,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Blight_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Necrotic_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Necrotic_Spell"
+data "SpellSuccess" "DealDamage(1d10,Necrotic,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Necrotic_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Blood_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Blood_Spell"
+data "SpellSuccess" "DealDamage(1d10,Necrotic,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Blood_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Fire_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Fire_Spell"
+data "SpellSuccess" "DealDamage(1d10,Fire,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Fire_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Felfire_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Felfire_Spell"
+data "SpellSuccess" "DealDamage(1d10,Fire,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Felfire_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Cold_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Cold_Spell"
+data "SpellSuccess" "DealDamage(1d10,Cold,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Cold_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Water_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Water_Spell"
+data "SpellSuccess" "DealDamage(1d10,Cold,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Water_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Lightning_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Lightning_Spell"
+data "SpellSuccess" "DealDamage(1d10,Lightning,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Lightning_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Electricity_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Electricity_Spell"
+data "SpellSuccess" "DealDamage(1d10,Lightning,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Electricity_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Thunder_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Thunder_Spell"
+data "SpellSuccess" "DealDamage(1d10,Thunder,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Thunder_ChainCheat)"
+
+new entry "Projectile_EldritchBlast_Darkness_Spell"
+type "SpellData"
+using "Projectile_EldritchBlast_Darkness_Spell"
+data "SpellSuccess" "DealDamage(1d10,Thunder,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive);IF(HasPassive('GraspOfHadar',context.Source)):Force(-4.5);IF(HasPassive('Passive_Soulstone_Cheats_ChainSpell',context.Source)):SpawnExtraProjectiles(Projectile_EldritchBlast_Darkness_ChainCheat)"

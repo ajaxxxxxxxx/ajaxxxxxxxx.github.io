@@ -1,0 +1,13 @@
+new entry "CRE_MAG_LATHANDER_PUZZLE_BOON"
+type "StatusData"
+data "StatusType" "BOOST"
+using "CRUSADERS_MANTLE_AURA"
+// Morninglord's Radiance
+data "DisplayName" "hd487600bgea5fg466cg9d20gc60690bf8a0a;1"
+// Your weapon attacks deal an additional [1].
+data "Description" "h00e06f61g7f21g4605g872bg3a8f9ca72f31;1"
+data "Icon" "GenericIcon_DamageType_Radiant"
+data "StackId" "CRE_MAG_LATHANDER_PUZZLE_BOON"
+data "Boosts" "IF(not Tagged('UNDEAD')):CharacterWeaponDamage(1d4,Radiant)"
+data "RemoveEvents" "OnStatusApplied"
+data "RemoveConditions" "HasStatus('LONG_REST')"

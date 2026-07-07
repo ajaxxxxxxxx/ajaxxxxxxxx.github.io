@@ -1,0 +1,22 @@
+new treasuretable "GOB_WaterfallChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_HAV_Ambusher_Scimitar",1,0,0,0,0,0,0,0
+
+
+new treasuretable "HAV_HoneymoonLodge_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_Cine_WPN_HUM_Scimitar_Ice",1,0,0,0,0,0,0,0
+
+
+new treasuretable "LOW_Prison_Rat"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_TheClover_Scimitar_of_Thay",1,0,0,0,0,0,0,0
+
+
+new treasuretable "SCL_DarkShamblingMound"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_HAV_Holdfast_Scimitar",1,0,0,0,0,0,0,0

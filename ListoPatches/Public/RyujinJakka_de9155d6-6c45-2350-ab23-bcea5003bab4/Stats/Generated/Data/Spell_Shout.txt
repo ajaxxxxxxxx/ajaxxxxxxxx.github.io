@@ -1,0 +1,11 @@
+new entry "Shout_MAG_WhirlwindJakka"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Whirlwind"
+data "Cooldown" "OncePerCombat"
+data "AreaRadius" "5"
+data "DisplayName" "hd6f3fa7cgc0ffg1313gfc7cg98ecead6b9ab;1"
+data "SpellFlags" "IsMelee;IsHarmful;IsDefaultWeaponAction"
+data "RequirementConditions" "CanUseWeaponActions() and IsProficientWithEquippedWeapon()"
+data "PrepareEffect" "fdbf8e88-c3a5-4151-a81d-429985de422c"
+

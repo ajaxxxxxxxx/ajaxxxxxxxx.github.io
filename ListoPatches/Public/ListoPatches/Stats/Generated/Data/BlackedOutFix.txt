@@ -1,0 +1,17 @@
+new entry "TWN_DISTILLERY_DRUNK_01"
+type "StatusData"
+data "StatusType" "BOOST"
+using "TWN_DISTILLERY_DRUNK_01"
+data "StatusGroups" "SG_Condition"
+
+new entry "TWN_DISTILLERY_DRUNK_02"
+type "StatusData"
+data "StatusType" "BOOST"
+using "TWN_DISTILLERY_DRUNK_02"
+data "StatusGroups" "SG_Condition"
+
+new entry "TWN_DISTILLERY_DRUNK_03"
+type "StatusData"
+data "StatusType" "KNOCKED_DOWN"
+using "TWN_DISTILLERY_DRUNK_03"
+data "StatusGroups" "SG_Condition"

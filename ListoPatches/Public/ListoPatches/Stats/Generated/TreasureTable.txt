@@ -1,0 +1,2423 @@
+new treasuretable "UND_Bulette"
+CanMerge 1
+new subtable "1,1"
+object category "I_UND_Noblestalk",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_Tower_SecretCellar_RewardChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_UND_Noblestalk",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Plain",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Piercing_Light",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_ARA_Cloak_Common",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_RANG_DMG",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_ELE_DMG",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_TANK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Chilled_Battleaxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Charged_Warhammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Rapier",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Scimitar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Caustic_Longbow",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Church_of_Orian_Radiance",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_RANG_ROLL",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_SPELL_ROLL",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Quartermaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Marauder",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Lightreaper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Garish_Display",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Battleaxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Caustic_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Caustic_Sickle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Crit_Dagger",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_ZhentQuartermaster"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle_1",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_InfernalTrader_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_OfSwordmaster_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Shadow_FogOfCloudDisengage_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Evasive_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Harpers_RingOfAttraction",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Acrobat_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_OfAutomaton_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Spear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Trident",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Warhammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_WarPick",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Longbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Longsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Maul",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Morningstar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Pike",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Sentinel_1_Warhammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Sentinel_1_WarPick",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Dagger_GluttonousPrince_B",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_YOS_Netherese_Enchantment_Crystal",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Ironhand_Merchant"
+CanMerge 1
+new subtable "1,1"
+object category "I_BOOK_SteelWatch_Blueprints",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Sentinel_1_Pike",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_RuinedFortExploration"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_Selunite_Isobel_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_DarkUrge_Bhaal_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ORI_Wyll_Infernal_Robe",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_VoicelessPenitent"
+CanMerge 1
+new subtable "1,1"
+object category "T_LOW_MurderTribunal_ViciousWeapon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Bhaalist_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Bhaalist_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Bhaalist_Hat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Critical_Force_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_LC_Fleshrend_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Zhentarim_SleeperDagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_EndGame_Metal_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_EndGame_Plate_Armor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_BG_OfTheMasters_Legacy_Gauntlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_DevilsBlackmith_ScaleMail",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARA_Cloak_Legendary_Bhaalist",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_ServantOfTheRaven_Inventory"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_HAV_ThornBlade_Scimitar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Shadow_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_BG_Darkfire_Shortbow",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_HeWhoWas"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Sickle",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearVendor_PrivateStash"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_BG_Harmonium_Halberd",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_PHB_OfLifestealing_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Fire_HeatOnWeaponDamage_Battleaxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Bonded_Shocking_Warhammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_HillGiant_Dagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_HillGiant_Greatclub",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_OrinsImpersonation_Smith"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_Frost_Offhand_Dagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_PHB_DwarvenThrower_Warhammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WYR_Hellrider_Longbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_OfArcanicDefense_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_SpiritualStand_Greataxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Artificer_Alchemist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Artificer_Artillerist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Artificer_Armorer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Artificer_BattleSmith",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_ArtificerHammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_ArtificerHammer_Leg",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artillerist_Pistol_Firearm_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Artificer_Rifle_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARA_Cloak_Legendary_Bonespike",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_Festivities_Trader_GoblinWeapons"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_PHB_Ring_Of_Protection",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Toxic_Shortbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Sickle",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Volo_Trade_Book"
+CanMerge 1
+new subtable "1,1"
+object category "BookScholar",1,0,0,0,0,0,0,0
+object category "BookTravel",1,0,0,0,0,0,0,0
+object category "BookMonsters",1,0,0,0,0,0,0,0
+object category "BookPolitics",1,0,0,0,0,0,0,0
+object category "BookEntertainment",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Volo_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "T_Gold_Trader_Modest",1,0,0,0,0,0,0,0
+new subtable "2,1"
+object category "T_DEN_Volo_Trade_Book",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_EquipmentTrader_Scrolls",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_EquipmentTrader_Flasks",1,0,0,0,0,0,0,0
+new subtable "3,1"
+object category "I_OBJ_Potion_Healing",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_GreaseBottle",1,0,0,0,0,0,0,0
+new subtable "4,1;5,1;6,1"
+object category "I_OBJ_Kit_ThievesTools",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_UNI_MassHealRing",1,0,0,0,0,0,0,0
+new subtable "5,1"
+object category "I_OBJ_Potion_Of_Animal_Speaking",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Supplies_Vendor_Poor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_MageHand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ThornWhip",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Command",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Entangle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_DisguiseSelf",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_LesserRestoration",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_DeathWard",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Darkness",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Enlarge",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Telekinesis",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_GreaseBottle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Underwear_Incubus",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARMBEALUS_AND_HRINGS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_TrickOrTreat",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Guildhall_FetchersBrat_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_BOOK_SteelWatch_Blueprints",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
+CanMerge 1
+new subtable "1,1"
+object category "I_BEDIZENED_HALS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BATTLEWORN_SHIELD",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Sentinel_1_Dagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Gale_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Entrance_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_BALDURSTOCKS_GOOD_JOKES_NEVER_DIE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Blackfeather_Ranger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Toxic_WarPick",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Toxic_Battleaxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Toxic_Dagger",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_ZhentQuarters"
+CanMerge 1
+new subtable "1,1"
+object category "I_MINSTRELS_NIGHT_GARB",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BALDURSTOCKS_CAMP",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SorcerousSundries_SecretRoom3_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_Endgame_caster_Robe",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SorcerousSundries_MystraVault_Weapon_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_Endgame_caster_headwear",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_Armor"
+CanMerge 1
+new subtable "1,1"
+object category "I_Endgame_caster_Boots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_ARA_Cloak_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TEM_Headwear",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_Weapons"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Sentinel_1_Spear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Sentinel_1_Trident",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SorcerousSundries_Trade_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_Endgame_caster_Gloves",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Angel_Aegis",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Caustic_Javelin",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Caustic_Mace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Glaive",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_HeavyCrossbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_LightCrossbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Charged_Club",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Charged_Flail",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Charged_Greatclub",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Charged_Shortbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Chilled_Javelin",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Chilled_LightCrossbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Chilled_Sickle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Battleaxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_HillGiant_Maul",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_HillGiant_Warhammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_HillGiant_WarPick",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_StormshoreTabernacle_Guardian"
+CanMerge 1
+new subtable "1,1"
+object category "I_Endgame_caster_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_SPELL_WIS",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_SPELL_INT",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_SPELL_CHA",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TEM_Body",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_JungleOfChult_Arcanic_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Dragon_Gold_Balanced",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Ironhand_Magic_Merchant"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Noble_Knight_Gold_Balanced",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Royal_Guard_Gold_Balanced",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Caustic_Greataxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Caustic_Halberd",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Halberd",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Handaxe",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_ArkleiaOloril"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Holy_Warrior_Gold_Balanced",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_CazBallrm_OpuChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Bodies_Bloody_Balanced",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBSC_Superius_Upgrade_4",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Lyrthindor"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Bodies_Bronze_Balanced",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Whispers",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARA_Cloak_Legendary_Justiciar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Sentinel_1_Sickle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Bat_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Holvik"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Bodies_Stone_Balanced",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_MRT_KethRoom_Plank"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Holy_Warrior_Silver_Balanced",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Fentonson"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Dragon_Silver_Balanced",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_VicHumbletoes"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Divine_Sentinel_Gold_Balanced",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Celestial_Silver_Balanced",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Vault2"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Royal_Guard_Silver_Balanced",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Vault3"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Divine_Sentinel_Silver_Balanced",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Vault8"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Noble_Knight_Silver_Balanced",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_RaphaelVault"
+CanMerge 1
+new subtable "1,1"
+object category "I_BT_ES_WPN_HUM_Shield_Celestial_Gold_Balanced",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_GoblinRaider_Captain"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Captain",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_Mimic_BardReward"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Crimson_Rector",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Sentinel_1_Greataxe",1,0,0,0,0,0,0,0
+
+new treasuretable "COL_Barracks_MistressOfSouls"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Dark_Templar_Champion",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Durge_Dagger",1,0,0,0,0,0,0,0
+
+new treasuretable "HAG_GurHunter_Backpack"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Envenomed",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_CountingHouse_CommonVault_4_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Fulvirano",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster_Magic_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Miner_Desperation",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Brother_Knight",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_YOS_Frostmaiden_tear",1,0,0,0,0,0,0,0
+
+new treasuretable "SHA_MerregonTrader"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Moonlit_Emissary",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_HillGiant_Morningstar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Shortbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Chilled_Greatsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Brimstone_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_RooftopExploration_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Orian_Preacher",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_PriestChanber_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Pale_Eye",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_ConflictedFlind"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Skin_Stealer",1,0,0,0,0,0,0,0
+
+new treasuretable "HAG_Swamp_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Swamp_Knight",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_DruidLeader_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_The_First_of_the_Beasts",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_Tower_SecretCellar_RewardChest"
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Thunder",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Sentinel_1_HandCrossbow",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_SeluneOutpost_Paladin_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Trinity",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Blade_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_Supplies_Gith_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Venatorix",1,0,0,0,0,0,0,0
+
+new treasuretable "ARA_Cloak_Common"
+CanMerge 1
+new subtable "5,1"
+object category "I_ARA_Cloak_Common_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Common_2",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Common_3",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Common_4",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Common_5",1,0,0,0,0,0,0,0
+
+new treasuretable "ARA_Cloak_Uncommon"
+CanMerge 1
+new subtable "12,1"
+object category "I_ARA_Cloak_Uncommon_Barbarian_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Uncommon_Bard_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Uncommon_Cleric_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Uncommon_Druid_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Uncommon_Fighter_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Uncommon_Monk_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Uncommon_Paladin_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Uncommon_Ranger_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Uncommon_Rogue_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Uncommon_Sorcerer_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Uncommon_Warlock_1",1,0,0,0,0,0,0,0
+object category "I_ARA_Cloak_Uncommon_Wizard_1",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Circus_KoboldMerchant"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARA_Cloak_Rare_Protection",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster"
+CanMerge 1
+new subtable "1,1"
+object category "T_ARA_Cloak_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Spear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Trident",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_DevilsFee_Diabolist_Trade"
+CanMerge 1
+new subtable "2,1"
+object category "I_ARA_Cloak_Legendary_Helldusk",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_BugBearvendor_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARA_Cloak_VeryRare_NullMagicMantle",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_GithQuartermistress_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_ALYN_Cloak_Protection",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARA_Cloak_Rare_Parry",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_MonsterHunter_LightCrossbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Gith_Sword",1,0,0,0,0,0,0,0
+
+new treasuretable "TWN_Brewer_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARA_Cloak_VeryRare_BonusAction",1,0,0,0,0,0,0,0
+
+new treasuretable "TWN_Brewer"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_CRIT_IMMUNE",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_AdamantineGolem"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARA_Cloak_Rare_Reeling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Voltstrike_Blade_Broken",1,0,0,0,0,0,0,0
+
+new treasuretable "HAG_WoodWoad_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARA_Cloak_Rare_Lightning",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_MimicReward"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARA_Cloak_VeryRare_ManyEyes",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_TollHouseExplorationChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARA_Cloak_Rare_Rainbow",1,0,0,0,0,0,0,0
+
+new treasuretable "FOR_Spiders_SpiderQueen"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARA_Cloak_Legendary_PaleWidow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Morningstar_Lloth",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_ServantOfTheRaven_Reward"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARA_Cloak_VeryRare_Eldritch",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_DarkShamblingMound"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARA_Cloak_VeryRare_Symbiote",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_Expeditioner_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARA_Cloak_Rare_Lightwork",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_MonsterHunter_Sickle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_MonsterHunter_Spear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_WPN_Rapier_EmperorStag",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Fire_RyujinJakka",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Bearstaff",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Thornsong",1,0,0,0,0,0,0,0
+
+new treasuretable "CHA_Exterior_Bandit_Leader"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_WPN_DaringBlade",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_GremishkaNest"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_MystralWand",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_MEL_STR",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_RANG_DEX",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_AC_CON",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_TrappedChasmChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_REEL",1,0,0,0,0,0,0,0
+
+new treasuretable "PLA_Tavern_Chest_Guest"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_REGEN_HALF",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_KethhericPersonalBelonging_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_CHEAT_DEATH",1,0,0,0,0,0,0,0
+
+new treasuretable "SHA_Orthon_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_SHAPESHIFT",1,0,0,0,0,0,0,0
+
+new treasuretable "CHA_Exterior_Bandit_Caster"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_LIGHT_MINOR_ILL",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBSC_Superius_Hat_0",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_WITCH_HAT",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Warehouse_Major"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_PERS",1,0,0,0,0,0,0,0
+
+new treasuretable "CRA_LockedCrate"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_MOVEMENT",1,0,0,0,0,0,0,0
+
+new treasuretable "FOR_UnfortunateGnome_MillCellarChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_INVIS",1,0,0,0,0,0,0,0
+
+new treasuretable "FOR_DeathOfATrueSoul_SeluneStash"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_SAVT",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_HillGiant_Club",1,0,0,0,0,0,0,0
+
+new treasuretable "GOB_King_Treasures"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_REAC_TAKE_DMG",1,0,0,0,0,0,0,0
+
+new treasuretable "COF_LEG_CHEST"
+CanMerge 1
+new subtable "1,1"
+object category "I_COF_BONUS_A",1,0,0,0,0,0,0,0
+
+new treasuretable "MOO_SecretStudyTreasure_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Shortbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Scimitar",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_MRT_Balthazar_SecretRm_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Sickle",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_ByOliverShed_WdnChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Toxic_HandCrossbow",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_CursedKuoChiefCursed"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Javelin",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Chilled_Trident",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_BlushingMermaid_Barkeep"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Battleaxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Club",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Glaive",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Greataxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Greatclub",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Greatsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Halberd",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Handaxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_HandCrossbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_HeavyCrossbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_LightCrossbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_LightHammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Longsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Mace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Maul",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Morningstar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Pike",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Quarterstaff",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Rapier",1,0,0,0,0,0,0,0
+
+new treasuretable "FOR_BlacksmithsCellar_FineWeapon"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Warhammer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_MonsterHunter_Dagger",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_FireworksHouse_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Quarterstaff",1,0,0,0,0,0,0,0
+
+new treasuretable "CRA_HarperTreasureBox"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Dagger",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_BardChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_MonsterHunter_Shortsword",1,0,0,0,0,0,0,0
+
+new treasuretable "DEN_Ethel"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Toxic_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Toxic_Sickle",1,0,0,0,0,0,0,0
+
+new treasuretable "FOR_Goblin_OverlookChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_MonsterHunter_Shortbow",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Waterfall_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Moist_Scimitar",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_MatriarchSpider"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Toxic_HeavyCrossbow",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_SpiderHermit_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Chilled_Maul",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBSC_Superius_Gloves_0",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Derryth_B"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Sentinel_1_Rapier",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_KressaBone"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Charged_Morningstar",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_MRT_Linsella"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_LightCrossbow",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Brem_Common"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Chilled_Longbow",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_ThrinnChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Caustic_HandCrossbow",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KuoToa_MushroomChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Charged_Trident",1,0,0,0,0,0,0,0
+
+new treasuretable "CRE_Axemaster_Buried_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Caustic_Handaxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Cauterising_Greataxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_WPN_DancingFlame",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_DevilsFee_HelsikChest_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_Shar_Mace",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_CazadorPalace_DeadGirlChest_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_MonsterHunter_Longbow",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_DeathKnight_Elite_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_ARM_REQ_DarkUrge_Bhaal_Ring",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_DeathKnight_Weak_Treasure_1"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_ARM_REQ_DarkUrge_Bhaal_Amulet",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Filro"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Mace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBSC_Superius_Cloak_0",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_Distillery_BrewerRoseStash_Additional"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Dagger",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_ShadowMastiffAlpha"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_HillGiant_Greataxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_NAI_Theifs_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_NAI_Theifs_Amulet",1,0,0,0,0,0,0,0
+
+new treasuretable "SHA_HiddenRoom_Magic_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_HillGiant_Mace",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_TEM_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SaveHaggedChild_LoraQuestReward"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_TEM",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_Sarevok_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_TEM_Boots",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_MysticCarrion_Hoard_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_TEM_Gloves",1,0,0,0,0,0,0,0
+
+new treasuretable "TWN_ZealousAssistant1_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Caustic_Flail",1,0,0,0,0,0,0,0
+
+new treasuretable "TWN_ZealousAssistant2_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Doom_Club",1,0,0,0,0,0,0,0
+
+new treasuretable "TWN_ZealousAssistant3_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Chilled_Pike",1,0,0,0,0,0,0,0
+
+new treasuretable "TWN_ZealousAssistant4_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Charged_Shortsword",1,0,0,0,0,0,0,0
+
+new treasuretable "UND_KC_Trader_Weapons"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_Dagger_GluttonousPrince_A",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_Minthara_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_Dagger_GluttonousPrince_C",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Roah_M"
+CanMerge 1
+new subtable "1,1"
+object category "I_MOD_WPN_Mabs_Dagger_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Shortsword_GoblinSlayer",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_GobCamp_BigTreasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_MOD_WPN_TataniaStaff_1",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Dondo"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_AbyssalEdge",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_HollowArmr"
+CanMerge 1
+new subtable "1,1"
+object category "I_WPN_ChaosFang",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Voltstrike_Broken_Blade",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_TollHouse_Hidden"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_GoblinSlayer_Shield",1,0,0,0,0,0,0,0
+
+new treasuretable "COL_Barracks_SkullLasher"
+CanMerge 1
+new subtable "1,1"
+object category "I_Lathander_Weapon_Longsword",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SharessCaress_Mamzell"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_Scroll_MageHand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_ThornWhip",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Command",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Entangle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_DisguiseSelf",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_LesserRestoration",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_DeathWard",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_GreaterRestoration",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Heal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_HoldPerson",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Darkness",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Enlarge",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Blindness",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Slow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Haste",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_BlackTentacles",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_DominatePerson",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_HoldMonster",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Scroll_Telekinesis",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_GreaseBottle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Underwear_Incubus",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Potion_Of_Speed",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ALCH_Solution_Elixir_Enlarge",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CONS_Drug_Terazul",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_GARISH_GEWDIAN",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_MEL_ROLL",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_COF_MEL_DMG",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_LuckySeven_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_BarbMonk_Leather_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_CharismaCaster_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_LC_Nymph_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Therezzyn"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBSC_Superius_Upgrade_1",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_MasonGuild_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBSC_Superius_Upgrade_2",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_SmugglerCave_Basement_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBSC_Superius_Upgrade_3",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Blurg"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBSC_Superius_Body_0",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_ArcaneTower_GildChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBSC_Superius_Boots_0",1,0,0,0,0,0,0,0
+
+new treasuretable "TWN_Hospital_CorpseTender"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_Sharran_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_OpenHand_Sarcophagus"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_Selunite_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Bridge_Trader_Clothes"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_Halsin_Cloak",1,0,0,0,0,0,0,0
+
+new treasuretable "FOR_ThayanCellar_JewelledChest_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "I_YOS_Darith_Helzar",1,0,0,0,0,0,0,0
+
+new treasuretable "SCL_DriderCaravan_DriderInventory"
+CanMerge 1
+new subtable "1,1"
+object category "I_ARM_Quiver_Freya",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Dragon_Legendary_Trident_Treasure"
+CanMerge 1
+new subtable "-1"
+object category "I_OBJ_Ansurs_Bone",1,0,0,0,0,0,0,0
+
+new treasuretable "TUT_Backpack_Thief"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_AS_DyeBundle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_FDs_DYE_DisasterPack",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_FDs_DYE_CleanPack",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_FDs_DYE_PracticalPouch",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_FDs_DYE_TacticalPouch",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DoF_Dyes_Bag",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Floral_Dye_Bundle",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Backpack_Boring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_IZ_DyeBox",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Container_Goth_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Container_Goth_Dyes_Dark",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_P4_Dye_NPC",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_P4_Dye_Outfit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_P4_Dye_Class",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Red_Wizards",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_Elven_Armour",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_DeepBlue",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_NightWarden",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_RedGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_BlackBrown",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_Luminous",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_masterworkRed",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_masterworkGrey",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_SILVER",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_SHAR_NIGHT",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_SHAR_GOLD",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_Silver_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_Elven_Armour",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_IceCream_02",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_IceCream_02",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_IceCream_02",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_Silver_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MOD_OBJ_Dye_Elven_Armour",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_DrowBlack",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_NightBlack",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_PureWhite",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_GoldWhite",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_GoldBlack",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_BlackViolet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_MilkHoney",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_MilkGoldHoney",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_CoffeeCream",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_Lavender",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_OceanTides",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_LowTide",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_MossBlueberry",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_DecadenceDecay",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_BogWitch",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_Mysticism",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_TwinPeaks",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_Emerald",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_Lagoon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_NatureGift",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_PurpleAmber",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_Woodland",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_Rustic",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_RusticSilver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_AutumnDruid",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_Potent",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_CoalRed",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_BloodChocolate",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_BloodSweets",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_PrettyPink",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_PalePink",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_Mulberry",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_Helldusk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_Sporekeeper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_BruiseBlack",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_BruiseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_Selunite",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_CiderOak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_HarvestMoon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_BloomingRust",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_BlushMaiden",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AS_Dye_MidnightReverie",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_AberrantMindDye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_DyeRemover",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_NoNonsenseBROWN",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_SomeNonsenseBROWN",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_NonsensicalBROWN",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_AltNonsensicalBROWN",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_MycologistsChoiceFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_RainyDayGRAY",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_StormcloudGRAY",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_StayInsideGRAY",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_RangerGREEN",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_ForestDwellerGREEN",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_NatureLoverGREEN",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TidepoolBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_WavestriderBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_SeafloorBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_AltSeafloorBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_DebutanteDyeFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_IllusionistIndigoFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_CherryRED",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_BrickRED",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_BluntTraumaRED",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_AdderDyeFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_ThickHeadedFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_NecromancerPURPLE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PhilosopherDyeFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_DoomspeakerDyeFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_AltDoomspeakerDyeFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_AltCleanSlateWHITE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_CleanSlateWHITE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_GentleTwilightFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_DaybreakYELLOW",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_SunflowerYELLOW",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_BrokerBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_FDs_DYE_PracticalPouch",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_FDs_DYE_TacticalPouch",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalIronRED",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalSilverRED",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalGoldRED",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalIronBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalSilverBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalGoldBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalIronYELLOW",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalSilverYELLOW",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalGoldYELLOW",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalIronBLACK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalSilverBLACK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalGoldBLACK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalIronGRAY",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalSilverGRAY",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalGoldGRAY",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalIronWHITE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalSilverWHITE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalGoldWHITE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalRangerGREEN",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalDebutanteFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalDoomspeakerFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalAltDoomspeakerFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalBrokerBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_PracticalCherryRED",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalIronRED",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalSilverRED",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalGoldRED",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalIronBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalSilverBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalGoldBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalIronYELLOW",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalSilverYELLOW",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalGoldYELLOW",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalIronBLACK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalSilverBLACK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalGoldBLACK",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalIronGRAY",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalSilverGRAY",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalGoldGRAY",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalIronWHITE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalSilverWHITE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalGoldWHITE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalRangerGREEN",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalDebutanteFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalDoomspeakerFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalAltDoomspeakerFREE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalBrokerBLUE",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_FDs_DYE_TacticalCherryRED",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_CalimshanTale_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_CalimshanFairytale_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Purrpurr_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_StormingDay_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_NightWatch_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_SnowBerry_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_DesertSun_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_PrincessDream_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_PoppyBloom_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_AuroraBorealis_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_FairyForest_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_EnchantedDream_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_BloomingGarden_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_ShiningStars_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_OldLibrary_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Moth_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_MasterOfIntrigue_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_BrassAndOil_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_LandOfFire_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Underdark_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_ForgetMeNot_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_BlueLady_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_Hydrangea_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_MorningGlory_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_StripedSquill_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_Larkspur_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_Tweedia_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_BluePoppy_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_WildBergamot_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_Foxglove_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_SeaHolly_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_TurquoiseIxia_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_MountainMint_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_BirdOfParadise_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_Frangipani_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_Clover_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Floral_CreepingThyme_Dye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Silver_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Silver_Leather_Black_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Red_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Red_Leather_Black_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Purple_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Purple_Leather_Black_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Darkblue_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Darkblue_Leather_Black_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Teal_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Teal_Leather_Black_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Pink_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Pink_Leather_Black_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Green_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Green_Leather_Black_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Black_Cloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Remover",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Silver_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Silver_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Red_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Red_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Purple_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Purple_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Darkblue_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Darkblue_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Teal_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Teal_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Pink_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Pink_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Green_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Green_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Black_Leather_Black_Cloth_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_PO_Goth_Dyes_Remover_Dark_Metal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye5",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye6",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye7",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye8",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye9",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye10",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye11",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye12",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye13",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye14",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye15",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye16",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye17",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye18",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye19",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye20",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye21",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye22",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye23",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye24",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye25",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye26",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye27",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye28",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye29",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye30",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye31",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye32",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye33",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye34",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye35",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye36",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye37",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye38",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye39",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye40",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye41",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye42",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye43",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye44",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye45",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye46",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye47",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye48",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye49",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye50",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye51",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye52",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye53",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye54",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye55",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye56",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye57",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye58",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye59",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_HW_Dye60",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Antique",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Archaic",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Artery",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Carnival",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Cathedral",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Convent",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Cirrus",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Debris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Detritus",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Devout",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Diligent",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Eventide",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Exorcism",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Feisty",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Ambrosia",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Insomniac",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Juniper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Luster",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Manuscript",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Monarch",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Orbit",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Outpost",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Outskirts",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Pantheon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Persephone",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Precipice",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Ravine",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Smoldering",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Snapdragon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Sweet Pea",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Tapestry",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Triptych",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Trance",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Undergrowth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Verdant",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Vessel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Vista",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Wheatgrass",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_Winterberry",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_RW_01",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_RW_02",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_RW_03",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_RW_04",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Dye_RW_05",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Beach_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Beach_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Beach_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Beach_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Beach_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Beach_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Beach_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Beach_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Beach_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_CoralReef_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_CoralReef_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_CoralReef_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_CoralReef_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_CoralReef_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_CoralReef_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_CoralReef_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_CoralReef_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_CoralReef_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Galaxy_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Galaxy_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Galaxy_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Galaxy_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Galaxy_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Galaxy_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Galaxy_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Galaxy_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Galaxy_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Lilac_Fibrecap_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Lilac_Fibrecap_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Lilac_Fibrecap_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Lilac_Fibrecap_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Lilac_Fibrecap_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Lilac_Fibrecap_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Lilac_Fibrecap_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Lilac_Fibrecap_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Lilac_Fibrecap_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Midnight_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Midnight_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Midnight_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Midnight_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Midnight_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Midnight_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Midnight_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Midnight_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Midnight_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Peacock_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Peacock_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Peacock_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Peacock_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Peacock_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Peacock_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Peacock_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Peacock_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Peacock_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Raspberry_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Raspberry_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Raspberry_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Raspberry_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Raspberry_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Raspberry_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Raspberry_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Raspberry_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Raspberry_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Royal_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Royal_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Royal_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Royal_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Royal_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Royal_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Royal_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Royal_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Royal_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Serenity_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Serenity_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Serenity_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Serenity_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Serenity_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Serenity_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Serenity_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Serenity_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Serenity_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Sunkissed_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Sunkissed_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Sunkissed_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Sunkissed_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Sunkissed_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Sunkissed_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Sunkissed_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Sunkissed_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Sunkissed_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Tree_Hugger_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Tree_Hugger_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Tree_Hugger_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Tree_Hugger_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Tree_Hugger_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Tree_Hugger_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Tree_Hugger_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Tree_Hugger_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Tree_Hugger_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Ascendant_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Ascendant_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Ascendant_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Ascendant_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Ascendant_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Ascendant_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Ascendant_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Ascendant_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Ascendant_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Spawn_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Spawn_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Spawn_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Spawn_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Spawn_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Spawn_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Spawn_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Spawn_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Vampire_Spawn_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_VampireConsort_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_VampireConsort_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_VampireConsort_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_VampireConsort_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_VampireConsort_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_VampireConsort_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_VampireConsort_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_VampireConsort_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_VampireConsort_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Violet_Night_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Violet_Night_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Violet_Night_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Violet_Night_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Violet_Night_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Violet_Night_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Violet_Night_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Violet_Night_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Violet_Night_9Verdigris",1,0,0,0,0,0,0,0
+new treasuretable "CONT_Freja_Dyes_Bag_V2"
+CanMerge 1
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Aurora_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Aurora_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Aurora_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Aurora_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Aurora_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Aurora_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Aurora_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Aurora_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Aurora_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CottonCandy_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CottonCandy_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CottonCandy_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CottonCandy_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CottonCandy_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CottonCandy_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CottonCandy_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CottonCandy_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CottonCandy_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CreamLatte_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CreamLatte_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CreamLatte_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CreamLatte_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CreamLatte_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CreamLatte_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CreamLatte_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CreamLatte_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_CreamLatte_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_DarkBloom_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_DarkBloom_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_DarkBloom_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_DarkBloom_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_DarkBloom_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_DarkBloom_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_DarkBloom_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_DarkBloom_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_DarkBloom_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Festive_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Festive_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Festive_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Festive_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Festive_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Festive_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Festive_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Festive_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Festive_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Frosty_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Frosty_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Frosty_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Frosty_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Frosty_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Frosty_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Frosty_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Frosty_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Frosty_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Romantic_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Romantic_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Romantic_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Romantic_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Romantic_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Romantic_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Romantic_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Romantic_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Romantic_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Traveler_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Traveler_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Traveler_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Traveler_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Traveler_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Traveler_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Traveler_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Traveler_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Traveler_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Umberlee_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Umberlee_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Umberlee_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Umberlee_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Umberlee_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Umberlee_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Umberlee_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Umberlee_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Umberlee_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Wildflower_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Wildflower_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Wildflower_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Wildflower_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Wildflower_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Wildflower_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Wildflower_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Wildflower_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Wildflower_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_WineChocolate_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_WineChocolate_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_WineChocolate_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_WineChocolate_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_WineChocolate_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_WineChocolate_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_WineChocolate_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_WineChocolate_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_WineChocolate_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_YinYang_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_YinYang_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_YinYang_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_YinYang_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_YinYang_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_YinYang_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_YinYang_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_YinYang_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_YinYang_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE__V2_Phoenix_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Phoenix_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Phoenix_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Phoenix_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Phoenix_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Phoenix_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Phoenix_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Phoenix_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Phoenix_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Bumblebee_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Bumblebee_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Bumblebee_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Bumblebee_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Bumblebee_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Bumblebee_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Bumblebee_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Bumblebee_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_V2_Bumblebee_9Verdigris",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Mitsuri_1LightGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Mitsuri_2Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Mitsuri_3Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Mitsuri_4Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Mitsuri_5Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Mitsuri_6Iron",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Mitsuri_7Steel",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Mitsuri_8RoseGold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Obj_Freja_DYE_Mitsuri_9Verdigris",1,0,0,0,0,0,0,0

@@ -1,0 +1,79 @@
+new entry "Target_Darkness_Void"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Darkness_Void"
+data "Level" ""
+data "SpellSchool" ""
+data "Cooldown" "OncePerShortRest"
+data "UseCosts" "ActionPoint:1"
+data "SpellProperties" "Force(-6, TargetToEntity, Neutral, false, true);GROUND:CreateSurface(4,5,DarknessCloud,true);ApplyStatus(SHAR_DEEP_DARKNESS,100,3)"
+data "TargetRadius" "14"
+data "AreaRadius" "4"
+data "SpellRoll" "not SavingThrow(Ability.Wisdom, SourceSpellDC())"
+data "SpellSuccess" "ApplyStatus(SHAR_DEEP_DARKNESS,100,3)"
+data "DescriptionParams" "GROUND:CreateSurface(4,3,DarknessCloud,true)"
+data "TooltipDamageList" "ad727a13-c6f0-4b5b-aefd-aac79c6ed46e"
+data "SpellFail" ""
+data "TargetConditions" "not Self() and not Ally()"
+data "AoEConditions" "Character() and not Self() and Enemy()"
+data "Icon" "Action_AccursedSpecter_SoulSeize"
+data "DisplayName" "hd64f7732g6fcbg4affg9707g2f2a3da73bd4;1"
+// Create a dark shroud that Heavily Obscures and <LSTag Type="Status" Tooltip="BLINDED">Blinds</LSTag> creatures within. Creatures cannot make ranged attacks into or out of it.
+data "Description" "h64652503g229ag4f9ag819cg8d9411c66209;4"
+data "ExtraDescription" ""
+data "TooltipAttackSave" "Wisdom"
+data "TooltipStatusApply" "GROUND:CreateSurface(4,4,DarknessCloud,true);ApplyStatus(SHAR_DEEP_DARKNESS,100,2)"
+data "VerbalIntent" "Control"
+data "HitAnimationType" "MagicalNonDamage"
+data "SpellAnimationIntentType" "Peaceful"
+data "Sheathing" "Sheathed"
+data "DamageType" "Necrotic"
+data "DeathType" "Necrotic"
+data "CastTextEvent" "Cast"
+
+// DANWSTAR NECRO MOD SEANCE SPELL ANIM A GENOUX => anim unique mais utilise que anim vanilla //
+data "SpellAnimation" "12c9c463-0762-4ef3-a24e-29b5254f580f,,;,,;ab17f201-8251-4690-bfac-b42c8561fc91,,;7e13b95d-d114-4c1b-baa9-d29fd71b8be9,,;45b1a54b-b127-46d2-bfe6-daa8963398ea,,;,,;c6951776-8830-4d97-9286-35899fe08d0b,,;,,;,,"
+
+
+//---BECKONING DARKNESS---//
+data "CastSound" "CrSpell_Cast_BeckoningDarkness"
+data "TargetSound" "CrSpell_Impact_BeckoningDarkness"
+
+data "PrepareSound" "CrSpell_Cast_MindBlast"
+
+
+// SPEAK DEAD green glow autour perso + hadar cercle et fumée noire //
+data "PrepareEffect" "VFX_Spells_Prepare_Arcane_Intent_Utility_SpeakWithDead_Root_01;VFX_Spells_Prepare_Warlock_ArmsOfHadar_GroundFX_Textkey_01"
+
+// position circle of death => green orb explosion //
+data "PositionEffect" "051cdc72-08e5-4684-82ba-1d23fb8e219b"
+
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;HasHighGroundRangeExtension;RangeIgnoreVerticalThreshold;IsHarmful"
+
+// tenebrae ! nocturnys! //
+data "VocalComponentSound" "Vocal_Component_Dark"
+
+data "SpellSoundMagnitude" "Big"
+
+///////////////////////////////////////////////// SHAR_DEEP_DARKNESS  //////////////////////////////////////
+
+
+new entry "SHAR_DEEP_DARKNESS"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SHAR_DEEP_DARKNESS"
+// Beckoning Darkness
+data "DisplayName" "h43169bafgdeb9g46c7gb6e9g8b543ee7fee7;2"
+// Haunted by darkness.<br><br>Affected entity takes [1] if it enters or starts its turn in a Lightly or Heavily Obscured area.
+data "Description" "h35f6f96cg47acg4ca7g8686gfea9ebad4861;5"
+data "DescriptionParams" "DealDamage(1d6,Necrotic,Magical)"
+data "Icon" "GenericIcon_DamageType_Necrotic"
+data "FormatColor" "Green"
+data "StackType" "Ignore"
+data "TickType" "StartTurn"
+data "TooltipDamage" "DealDamage(1d6,Necrotic,Magical,,,ad727a13-c6f0-4b5b-aefd-aac79c6ed46e)"
+data "TickFunctors" "IF(not HasObscuredState(ObscuredState.Clear)):DealDamage(1d6,Necrotic,Magical)"
+data "ApplyEffect" "4bdc5c31-29da-45b8-b9de-bc800839ce96"
+data "StatusEffect" "e69d85dc-f362-4c04-a0ea-42bfe568c24e"
+data "StatusEffectOnTurn" "d25d554c-6e3a-4c34-a700-9652b1ee7600"
+

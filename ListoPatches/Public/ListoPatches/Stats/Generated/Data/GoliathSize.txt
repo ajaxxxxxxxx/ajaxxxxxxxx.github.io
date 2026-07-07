@@ -1,0 +1,6 @@
+new entry "BiggerGoliath"
+type "PassiveData"
+data "DisplayName" "hef138800gcbc4g403bga5e0g21d1a02ed032;1"
+data "Properties" "IsHidden"
+data "Icon" "Spell_Transmutation_Reduce"
+data "Boosts" "ScaleMultiplier(1.1)"

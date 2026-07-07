@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="6" build="5" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="hb4df2dd2g3909g4c75ga6d5g41eabd4d157a" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h13c56f7bgbac1g4af7g8092g249e911ef4d0" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="17c22435-df32-4bc5-b50b-5630c6d5c8a1" />
+					<attribute id="Name" type="LSString" value="SurfaceCrawlerMucusCloud" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1cdb25bc-8026-4ea4-adcf-04476755eee4" />
+					<attribute id="RollConditions" type="LSString" value="Character() and not SavingThrow(Ability.Constitution, SourceSpellDC(math.max(11, ManeuverSaveDC()-2)), AdvantageOnPoisoned())" />
+					<attribute id="Seed" type="uint32" value="0" />
+					<attribute id="Type" type="FixedString" value="surface" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692654" />
+					<children>
+						<node id="FX" />
+						<node id="InstanceVisual">
+							<children>
+								<node id="InstanceVisual">
+									<attribute id="GridSize" type="float" value="1" />
+									<attribute id="Height" type="fvec2" value="0 0" />
+									<attribute id="RandomPlacement" type="float" value="0.5" />
+									<attribute id="Rotation" type="ivec2" value="0 0" />
+									<attribute id="Scale" type="fvec2" value="0.75 1.5" />
+									<attribute id="SpawnCell" type="int32" value="100" />
+									<attribute id="SurfaceNeeded" type="float" value="0" />
+									<attribute id="SurfaceRadiusMax" type="float" value="0" />
+									<attribute id="Visual" type="FixedString" value="a9d45e22-0241-63c9-819c-2050d413bf2a" />
+								</node>
+							</children>
+						</node>
+						<node id="IntroFX" />
+						<node id="StatusData">
+							<children>
+								<node id="StatusData">
+									<attribute id="AffectedByRoll" type="bool" value="True" />
+									<attribute id="ApplyToCharacters" type="bool" value="True" />
+									<attribute id="ApplyToItems" type="bool" value="False" />
+									<attribute id="ApplyTypes" type="uint8" value="11" />
+									<attribute id="Chance" type="float" value="1" />
+									<attribute id="DontTickWhileOnSurface" type="bool" value="False" />
+									<attribute id="Duration" type="float" value="6" />
+									<attribute id="Force" type="bool" value="False" />
+									<attribute id="KeepAlive" type="bool" value="False" />
+									<attribute id="OnlyOncePerTurn" type="bool" value="False" />
+									<attribute id="Remove" type="bool" value="False" />
+									<attribute id="StatusId" type="FixedString" value="POISON_CRAWLER_MUCUS_CONDITION" />
+									<attribute id="VanishOnApply" type="bool" value="False" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DecalMaterial" type="FixedString" value="42a4d91b-7e02-ce97-96c3-d99ccdfff4c1" />
+					<attribute id="Description" type="TranslatedString" handle="h24371c11g87fbg4663gb511gef9af33f5cff" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h97ebb0aeg97c3g46c3ga0c4g04d9f614d21d" version="1" />
+					<attribute id="Icon" type="FixedString" value="Surface_SerpentVenom" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6813cb01-2dee-492f-94be-6690fa15fb6b" />
+					<attribute id="Name" type="LSString" value="SurfaceSerpentVenom" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f58b42b0-ab8e-4342-b7e2-daa61ee97628" />
+					<attribute id="RollConditions" type="LSString" value="Character() and not SavingThrow(Ability.Constitution, math.max(13, ManeuverSaveDC()),AdvantageOnPoisoned())" />
+					<attribute id="Type" type="FixedString" value="surface" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="FX" />
+						<node id="InstanceVisual" />
+						<node id="IntroFX" />
+						<node id="StatusData">
+							<children>
+								<node id="StatusData">
+									<attribute id="AffectedByRoll" type="bool" value="True" />
+									<attribute id="ApplyToCharacters" type="bool" value="True" />
+									<attribute id="ApplyToItems" type="bool" value="False" />
+									<attribute id="ApplyTypes" type="uint8" value="11" />
+									<attribute id="Chance" type="float" value="1" />
+									<attribute id="DontTickWhileOnSurface" type="bool" value="False" />
+									<attribute id="Duration" type="float" value="6" />
+									<attribute id="Force" type="bool" value="False" />
+									<attribute id="KeepAlive" type="bool" value="False" />
+									<attribute id="OnlyOncePerTurn" type="bool" value="False" />
+									<attribute id="Remove" type="bool" value="False" />
+									<attribute id="StatusId" type="FixedString" value="ALCH_TOXIN_SERPENTVENOM_CONDITION" />
+									<attribute id="VanishOnApply" type="bool" value="False" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DecalMaterial" type="FixedString" value="6756aa40-1005-7b5a-1886-746ee131d65e" />
+					<attribute id="Description" type="TranslatedString" handle="h81413759g8824g4f4bg93fdgfc49e9fa27d3" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h54f898d2gb2bbg4c48gb14ag99378c487362" version="1" />
+					<attribute id="Icon" type="FixedString" value="Surface_PurpleWormPoison" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="afc1f27f-526d-4a12-bc39-8f5c551fefa4" />
+					<attribute id="Name" type="LSString" value="SurfacePurpleWormPoison" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f58b42b0-ab8e-4342-b7e2-daa61ee97628" />
+					<attribute id="RollConditions" type="LSString" value="Character() and not SavingThrow(Ability.Constitution, math.max(19, ManeuverSaveDC()+6),AdvantageOnPoisoned())" />
+					<attribute id="Type" type="FixedString" value="surface" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+					<children>
+						<node id="FX" />
+						<node id="InstanceVisual" />
+						<node id="IntroFX" />
+						<node id="StatusData">
+							<children>
+								<node id="StatusData">
+									<attribute id="AffectedByRoll" type="bool" value="True" />
+									<attribute id="ApplyToCharacters" type="bool" value="True" />
+									<attribute id="ApplyToItems" type="bool" value="False" />
+									<attribute id="ApplyTypes" type="uint8" value="11" />
+									<attribute id="Chance" type="float" value="1" />
+									<attribute id="Duration" type="float" value="6" />
+									<attribute id="Force" type="bool" value="False" />
+									<attribute id="KeepAlive" type="bool" value="False" />
+									<attribute id="OnlyOncePerTurn" type="bool" value="False" />
+									<attribute id="Remove" type="bool" value="False" />
+									<attribute id="StatusId" type="FixedString" value="ALCH_TOXIN_PURPLEWORM_CONDITION" />
+									<attribute id="VanishOnApply" type="bool" value="False" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="DecalMaterial" type="FixedString" value="41eee9bd-8943-3c0f-bb79-6243f66eed86" />
+					<attribute id="Description" type="TranslatedString" handle="h46948046g7eaag4739g8f43g06723f2ff5e0" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h765be1f4g10e2g436dg8e51g83281e6cd714" version="1" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="Icon" type="FixedString" value="Surface_Poison_Cloud" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="1cdb25bc-8026-4ea4-adcf-04476755eee4" />
+					<attribute id="MaterialType" type="uint8" value="11" />
+					<attribute id="Name" type="LSString" value="SurfacePoisonCloud" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="RollConditions" type="LSString" value="Character() and not SavingThrow(Ability.Constitution, SourceSpellDC(math.max(11, ManeuverSaveDC()-2)), AdvantageOnPoisoned())" />
+					<attribute id="Seed" type="uint32" value="666" />
+					<attribute id="Summon" type="FixedString" value="cabefda4-6839-44e7-8e5e-7c1942fc13ca" />
+					<attribute id="SurfaceCategory" type="uint8" value="12" />
+					<attribute id="Type" type="FixedString" value="surface" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+					<children>
+						<node id="FX" />
+						<node id="InstanceVisual">
+							<children>
+								<node id="InstanceVisual">
+									<attribute id="GridSize" type="float" value="2" />
+									<attribute id="Height" type="fvec2" value="-0.2 0.1" />
+									<attribute id="RandomPlacement" type="float" value="10" />
+									<attribute id="Rotation" type="ivec2" value="0 0" />
+									<attribute id="Scale" type="fvec2" value="1 1.5" />
+									<attribute id="SpawnCell" type="int32" value="75" />
+									<attribute id="SurfaceNeeded" type="float" value="0" />
+									<attribute id="SurfaceRadiusMax" type="float" value="0" />
+									<attribute id="Visual" type="FixedString" value="0e774a68-a325-98d9-1464-9c9b9635902e" />
+								</node>
+							</children>
+						</node>
+						<node id="IntroFX" />
+						<node id="StatusData">
+							<children>
+								<node id="StatusData">
+									<attribute id="AffectedByRoll" type="bool" value="True" />
+									<attribute id="ApplyToCharacters" type="bool" value="True" />
+									<attribute id="ApplyToItems" type="bool" value="False" />
+									<attribute id="ApplyTypes" type="uint8" value="11" />
+									<attribute id="Chance" type="float" value="1" />
+									<attribute id="Duration" type="float" value="6" />
+									<attribute id="Force" type="bool" value="False" />
+									<attribute id="KeepAlive" type="bool" value="False" />
+									<attribute id="OnlyOncePerTurn" type="bool" value="False" />
+									<attribute id="Remove" type="bool" value="False" />
+									<attribute id="StatusId" type="FixedString" value="POISONED" />
+									<attribute id="VanishOnApply" type="bool" value="False" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="DecalMaterial" type="FixedString" value="b3ea9ec3-8ab9-3661-2ed1-4e81edbd2a62" />
+					<attribute id="Description" type="TranslatedString" handle="h15df31bdg4e50g4e9fga315gdea07ee5dee3" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h3252bb32g9bcfg4dd4gbc9dg5839ad5b509a" version="3" />
+					<attribute id="EnableLightSpawning" type="bool" value="True" />
+					<attribute id="FadeOutSpeed" type="float" value="5" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="Icon" type="FixedString" value="Surface_Poison" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f58b42b0-ab8e-4342-b7e2-daa61ee97628" />
+					<attribute id="MaterialType" type="uint8" value="11" />
+					<attribute id="Name" type="LSString" value="SurfacePoison" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="RollConditions" type="LSString" value="Character() and not SavingThrow(Ability.Constitution, SourceSpellDC(math.max(11, ManeuverSaveDC()-2)),AdvantageOnPoisoned())" />
+					<attribute id="SpawnLightRandomVerticalRangeOffset" type="fvec2" value="0 0.15" />
+					<attribute id="SpawnLightTemplateID" type="FixedString" value="553d43bc-a8c7-41f8-9cab-f94fa5d37557" />
+					<attribute id="Summon" type="FixedString" value="cabefda4-6839-44e7-8e5e-7c1942fc13ca" />
+					<attribute id="SurfaceCategory" type="uint8" value="4" />
+					<attribute id="Type" type="FixedString" value="surface" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+					<children>
+						<node id="FX" />
+						<node id="InstanceVisual" />
+						<node id="IntroFX" />
+						<node id="StatusData">
+							<children>
+								<node id="StatusData">
+									<attribute id="AffectedByRoll" type="bool" value="True" />
+									<attribute id="ApplyToCharacters" type="bool" value="True" />
+									<attribute id="ApplyToItems" type="bool" value="False" />
+									<attribute id="ApplyTypes" type="uint8" value="11" />
+									<attribute id="Chance" type="float" value="1" />
+									<attribute id="Duration" type="float" value="6" />
+									<attribute id="Force" type="bool" value="False" />
+									<attribute id="KeepAlive" type="bool" value="False" />
+									<attribute id="OnlyOncePerTurn" type="bool" value="False" />
+									<attribute id="Remove" type="bool" value="False" />
+									<attribute id="StatusId" type="FixedString" value="ALCH_TOXIN_BASIC_CONDITION" />
+									<attribute id="VanishOnApply" type="bool" value="False" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DecalMaterial" type="FixedString" value="42262ee8-637e-7e56-1809-d71933dbbe1b" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h13e32318gbeedg4ed2gb56bgb3e7f4efcd7d" version="1" />
+					<attribute id="Icon" type="FixedString" value="Surface_WyvernPoison" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="36291114-4e07-45be-b512-64170692a38b" />
+					<attribute id="Name" type="LSString" value="SurfaceWyvernPoison" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f58b42b0-ab8e-4342-b7e2-daa61ee97628" />
+					<attribute id="RollConditions" type="LSString" value="Character() and not SavingThrow(Ability.Constitution, math.max(15, ManeuverSaveDC()+2),AdvantageOnPoisoned())" />
+					<attribute id="Type" type="FixedString" value="surface" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+					<children>
+						<node id="FX" />
+						<node id="InstanceVisual" />
+						<node id="IntroFX" />
+						<node id="StatusData">
+							<children>
+								<node id="StatusData">
+									<attribute id="AffectedByRoll" type="bool" value="True" />
+									<attribute id="ApplyToCharacters" type="bool" value="True" />
+									<attribute id="ApplyToItems" type="bool" value="False" />
+									<attribute id="ApplyTypes" type="uint8" value="11" />
+									<attribute id="Chance" type="float" value="1" />
+									<attribute id="Duration" type="float" value="6" />
+									<attribute id="Force" type="bool" value="False" />
+									<attribute id="KeepAlive" type="bool" value="False" />
+									<attribute id="OnlyOncePerTurn" type="bool" value="False" />
+									<attribute id="Remove" type="bool" value="False" />
+									<attribute id="StatusId" type="FixedString" value="ALCH_TOXIN_WYVERN_CONDITION" />
+									<attribute id="VanishOnApply" type="bool" value="False" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DecalMaterial" type="FixedString" value="" />
+					<attribute id="Description" type="TranslatedString" handle="hae59cd84g3939g4092ga882g5e3c7478c315" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h56292b0bgac02g4b7dg8c3aga7f5b5477fc9" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="785273d9-20b4-4e87-b540-c5873e6f9d12" />
+					<attribute id="Name" type="LSString" value="SurfaceDrowPoison" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f58b42b0-ab8e-4342-b7e2-daa61ee97628" />
+					<attribute id="RollConditions" type="LSString" value="Character() and not SavingThrow(Ability.Constitution, SourceSpellDC(math.max(11, ManeuverSaveDC()-2)),AdvantageOnPoisoned())" />
+					<attribute id="Type" type="FixedString" value="surface" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209007" />
+					<children>
+						<node id="FX" />
+						<node id="InstanceVisual" />
+						<node id="IntroFX" />
+						<node id="StatusData">
+							<children>
+								<node id="StatusData">
+									<attribute id="AffectedByRoll" type="bool" value="True" />
+									<attribute id="ApplyToCharacters" type="bool" value="True" />
+									<attribute id="ApplyToItems" type="bool" value="False" />
+									<attribute id="ApplyTypes" type="uint8" value="11" />
+									<attribute id="Chance" type="float" value="1" />
+									<attribute id="Duration" type="float" value="6" />
+									<attribute id="Force" type="bool" value="False" />
+									<attribute id="KeepAlive" type="bool" value="False" />
+									<attribute id="OnlyOncePerTurn" type="bool" value="False" />
+									<attribute id="Remove" type="bool" value="False" />
+									<attribute id="StatusId" type="FixedString" value="POISON_DROW" />
+									<attribute id="VanishOnApply" type="bool" value="False" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hb0c29d8bge57fg4662gbd11g81842704e808" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e7e6d7dd-043d-4d05-bf03-bfe77b664e22" />
+					<attribute id="Name" type="LSString" value="SurfaceDrowPoisonCloud" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1cdb25bc-8026-4ea4-adcf-04476755eee4" />
+					<attribute id="RollConditions" type="LSString" value="Character() and not SavingThrow(Ability.Constitution, math.max(13, ManeuverSaveDC()), AdvantageOnPoisoned())" />
+					<attribute id="Seed" type="uint32" value="0" />
+					<attribute id="Type" type="FixedString" value="surface" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115209550692654" />
+					<children>
+						<node id="FX" />
+						<node id="InstanceVisual">
+							<children>
+								<node id="InstanceVisual">
+									<attribute id="GridSize" type="float" value="1" />
+									<attribute id="Height" type="fvec2" value="0 0" />
+									<attribute id="RandomPlacement" type="float" value="0.5" />
+									<attribute id="Rotation" type="ivec2" value="0 0" />
+									<attribute id="Scale" type="fvec2" value="0.75 1.5" />
+									<attribute id="SpawnCell" type="int32" value="100" />
+									<attribute id="SurfaceNeeded" type="float" value="0" />
+									<attribute id="SurfaceRadiusMax" type="float" value="0" />
+									<attribute id="Visual" type="FixedString" value="4a2287be-524d-bafd-95aa-a0a0db9aa8b5" />
+								</node>
+							</children>
+						</node>
+						<node id="IntroFX" />
+						<node id="StatusData">
+							<children>
+								<node id="StatusData">
+									<attribute id="AffectedByRoll" type="bool" value="True" />
+									<attribute id="ApplyToCharacters" type="bool" value="True" />
+									<attribute id="ApplyToItems" type="bool" value="False" />
+									<attribute id="ApplyTypes" type="uint8" value="11" />
+									<attribute id="Chance" type="float" value="1" />
+									<attribute id="DontTickWhileOnSurface" type="bool" value="False" />
+									<attribute id="Duration" type="float" value="-6" />
+									<attribute id="Force" type="bool" value="False" />
+									<attribute id="KeepAlive" type="bool" value="True" />
+									<attribute id="OnlyOncePerTurn" type="bool" value="False" />
+									<attribute id="Remove" type="bool" value="False" />
+									<attribute id="StatusId" type="FixedString" value="POISON_DROW_CONDITION" />
+									<attribute id="VanishOnApply" type="bool" value="False" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DecalMaterial" type="FixedString" value="399b7f8b-1638-508d-8e50-1444d5ee06cd" />
+					<attribute id="Description" type="TranslatedString" handle="h82b9cd46ga364g4ffdg8413g950038d6e767" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hf7098895ga026g481ega97cg27932f8f03f6" version="1" />
+					<attribute id="Icon" type="FixedString" value="Surface_Malice" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="721953a5-f665-4bc1-8cb9-647832fe4798" />
+					<attribute id="Name" type="LSString" value="SurfaceMaliceCloud" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1be6dd13-da3c-461e-a055-0ca063d71967" />
+					<attribute id="RollConditions" type="LSString" value="Character() and not SavingThrow(Ability.Constitution, math.max(10, ManeuverSaveDC()-3), AdvantageOnPoisoned())" />
+					<attribute id="Type" type="FixedString" value="surface" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209035" />
+					<children>
+						<node id="FX" />
+						<node id="InstanceVisual">
+							<children>
+								<node id="InstanceVisual">
+									<attribute id="GridSize" type="float" value="4" />
+									<attribute id="Height" type="fvec2" value="-0.2 0.1" />
+									<attribute id="RandomPlacement" type="float" value="0" />
+									<attribute id="Rotation" type="ivec2" value="0 0" />
+									<attribute id="Scale" type="fvec2" value="0.5 1" />
+									<attribute id="SpawnCell" type="int32" value="50" />
+									<attribute id="SurfaceNeeded" type="float" value="0" />
+									<attribute id="SurfaceRadiusMax" type="float" value="0" />
+									<attribute id="Visual" type="FixedString" value="d4cfd9df-1b05-ae16-0fe3-15747219ed2c" />
+								</node>
+								<node id="InstanceVisual">
+									<attribute id="GridSize" type="float" value="1" />
+									<attribute id="Height" type="fvec2" value="0.5 0.1" />
+									<attribute id="RandomPlacement" type="float" value="10" />
+									<attribute id="Rotation" type="ivec2" value="0 0" />
+									<attribute id="Scale" type="fvec2" value="0.8 1.2" />
+									<attribute id="SpawnCell" type="int32" value="30" />
+									<attribute id="SurfaceNeeded" type="float" value="0.5" />
+									<attribute id="SurfaceRadiusMax" type="float" value="0" />
+									<attribute id="Visual" type="FixedString" value="b66194cb-a22b-d383-c667-45333ac73731" />
+								</node>
+							</children>
+						</node>
+						<node id="IntroFX" />
+						<node id="StatusData">
+							<children>
+								<node id="StatusData">
+									<attribute id="AffectedByRoll" type="bool" value="True" />
+									<attribute id="ApplyToCharacters" type="bool" value="True" />
+									<attribute id="ApplyToItems" type="bool" value="False" />
+									<attribute id="ApplyTypes" type="uint8" value="11" />
+									<attribute id="Chance" type="float" value="1" />
+									<attribute id="DontTickWhileOnSurface" type="bool" value="False" />
+									<attribute id="Duration" type="float" value="6" />
+									<attribute id="Force" type="bool" value="False" />
+									<attribute id="KeepAlive" type="bool" value="False" />
+									<attribute id="OnlyOncePerTurn" type="bool" value="False" />
+									<attribute id="Remove" type="bool" value="False" />
+									<attribute id="StatusId" type="FixedString" value="POISON_MALICE_CONDITION" />
+									<attribute id="VanishOnApply" type="bool" value="False" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

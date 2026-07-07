@@ -1,0 +1,36 @@
+new entry "GOB_CALMNESS_IN_PAIN"
+type "StatusData"
+data "StatusType" "BOOST"
+using "GOB_CALMNESS_IN_PAIN"
+// Remove removal on death:
+data "RemoveConditions" ""
+data "RemoveEvents" ""
+// Hide from portrait indicator:
+data "StatusPropertyFlags" "DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
+
+new entry "GOB_CalmnessInPain"
+type "PassiveData"
+using "GOB_CalmnessInPain"
+// Loviatar's Love
+data "DisplayName" "h80729873g86d9g4ddbga01egeebe788f1733;2"
+// Pain is the path to clarity. When you have 30% <LSTag Tooltip="HitPoints">hit points</LSTag> or less, you gain a +2 bonus to <LSTag Tooltip="AttackRoll">Attack Rolls</LSTag> and Wisdom <LSTag Tooltip="SavingThrow">Saving Throws</LSTag> for 3 turns.
+data "Description" "hef31fe63ga576g45c0ga580gf2b0d8fa0b35;3"
+data "Icon" "statIcons_GOB_CalmnessInPain"
+// Remove IsHidden:
+data "Properties" ""
+data "StatsFunctorContext" ""
+data "Conditions" ""
+data "StatsFunctors" ""
+
+new entry "GOB_CalmnessInPainDeathCheck"
+type "PassiveData"
+using "GOB_CalmnessInPainDeathCheck"
+// Remove logic to remove Loviatar's Love on death:
+data "StatsFunctors" "IF(HasStatus('GOB_CALMNESS_IN_PAIN_ACTIVE') and Dead()): RemoveStatus(GOB_CALMNESS_IN_PAIN_ACTIVE)"
+
+new entry "GOB_CalmnessInPainActive"
+type "PassiveData"
+using "GOB_CalmnessInPainActive"
+data "StatsFunctorContext" ""
+data "Conditions" ""
+data "StatsFunctors" ""

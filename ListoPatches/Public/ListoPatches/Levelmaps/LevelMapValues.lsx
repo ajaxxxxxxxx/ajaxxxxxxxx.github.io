@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328"/>
+	<region id="LevelMapValues">
+		<node id="root">
+			<children>
+				<node id="LevelMapSeries">
+					<attribute id="FallbackValue" type="LSString" value="1d8"/>
+					<attribute id="Level1" type="LSString" value="1d8"/>
+					<attribute id="Level2" type="LSString" value="1d8"/>
+					<attribute id="Level4" type="LSString" value="2d8"/>
+					<attribute id="Level6" type="LSString" value="3d8"/>
+					<attribute id="Level8" type="LSString" value="4d8"/>
+					<attribute id="Level10" type="LSString" value="5d8"/>
+					<attribute id="Level12" type="LSString" value="6d8"/>
+					<attribute id="Level14" type="LSString" value="7d8"/>
+					<attribute id="Level16" type="LSString" value="8d8"/>
+					<attribute id="Level18" type="LSString" value="9d8"/>
+					<attribute id="Level20" type="LSString" value="10d8"/>
+					<attribute id="Name" type="FixedString" value="CHT_VV_Heartstopper"/>
+					<attribute id="PreferredClassUUID" type="guid" value="e8b1eab0-ef11-40a2-8a0b-cee8d062bf2a"/>
+					<attribute id="UUID" type="guid" value="de259bcb-1da9-4df6-b9c5-067ccc335a05"/>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

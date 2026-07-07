@@ -1,0 +1,21 @@
+new entry "SHAR_BLOOD"
+type "StatusData" 
+data "StatusType" "BOOST"
+using "SHAR_BLOOD"
+data "DisplayName" "hbc6df090298f4cf7a92110decf23fe71;1"
+data "Description" "h78995f638f8942189262a7143ca85bcd;1"
+data "Icon" "Item_LOOT_GEN_Idol_Shar_Onyx_A"
+data "StackId" "" 
+data "OnApplyFunctors" "ApplyStatus(STUNNED,100,3);DealDamage(SELF,3,Psychic);DealDamage(SELF,3,Radiant);DealDamage(SELF,3,Necrotic)"
+data "Boosts" "UnlockSpell(Target_Darkness_Beam);UnlockSpell(Target_Darkness_Void)"
+data "Passives" "DevilsSight;Darkvision;Shar_Revenge;SHAR_DARK_COATING"
+data "StatusPropertyFlags" "ApplyToDead;IgnoreResting;DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
+
+new entry "Shar_Revenge"
+type "PassiveData"
+using "UND_Justiciar_ChainShirt_Magic_Passive"
+// Nightsinger's Reply
+data "DisplayName" "h6f660270g3b0eg413fga429g3b2d3327c01d;1"
+// While Obscured by shadow, the wearer deals [1] to attackers that hit them with a melee attack.
+data "Icon" "Spell_Divination_TrueStrike"

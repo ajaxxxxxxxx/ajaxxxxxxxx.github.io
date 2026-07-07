@@ -1,0 +1,7 @@
+new entry "DeGreaser_Shield_of_Spell_Reflection"
+type "Armor"
+using "DeGreaser_Shield_of_Spell_Reflection"
+data "Rarity" "Legendary"
+data "Boosts" "CriticalHit(AttackTarget,Success,Never);Resistance(Cold, Resistant);Resistance(Acid, Resistant)"
+data "ValueScale" "5.5"
+data "PassivesOnEquip" "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Shield_Passive;MOD_AdamantineClad_Shield;MAG_ShieldRiposte_Passive;MageSlayer_Advantage;MageSlayer_AttackCaster;MageSlayer_BreakConcentration"

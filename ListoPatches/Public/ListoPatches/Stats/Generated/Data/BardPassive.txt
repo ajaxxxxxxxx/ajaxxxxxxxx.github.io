@@ -1,0 +1,10 @@
+new entry "JackOfAllTrades"
+type "PassiveData"
+// Jack of All Trades
+data "DisplayName" "h349a15dfgb413g462bg99cdgcfff15955948;1"
+// Your vast experiences make you more likely to succeed in any undertaking. Add half of your <LSTag Tooltip="ProficiencyBonus">Proficiency Bonus</LSTag> (rounded down) to <LSTag Tooltip="AbilityCheck">Ability Checks</LSTag> that you are not <LSTag Tooltip="Proficiency">Proficient</LSTag> in.
+data "Description" "h0bcd4b15gacb3g47d2g9936g86953e2fed10;1"
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "Properties" "Highlighted"
+data "Boosts" "IF(not HasProficiencyBonus(context.CheckedAbility,context.CheckedSkill,context.Source)):RollBonus(SkillCheck,ProficiencyBonus/2);IF(not HasProficiencyBonus(context.CheckedAbility,context.CheckedSkill,context.Source)):RollBonus(RawAbility,ProficiencyBonus/2);IF(ConditionResult(context.Source.ProficiencyBonus >= 2)):Initiative(1);IF(ConditionResult(context.Source.ProficiencyBonus >= 4)):Initiative(1);IF(ConditionResult(context.Source.ProficiencyBonus >= 6)):Initiative(1)"
+
