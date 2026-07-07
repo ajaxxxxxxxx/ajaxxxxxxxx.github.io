@@ -1,0 +1,82 @@
+new entry "PO_Container_Goth_Dyes"
+type "Object"
+using "_Container"
+data "RootTemplate" "956026f7-91cf-4e3d-aee1-c8aae1853f03"
+data "Priority" "1"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+data "Rarity" "Common"
+
+new entry "PO_Goth_Dyes_Template"
+using "_Dyes"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "PO_Goth_Dyes_Black_Leather_Silver_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "c26d7d89-de3b-4e29-815c-7edebd078090"
+
+new entry "PO_Goth_Dyes_Silver_Leather_Black_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "01173542-f390-4584-9b45-cce373dad59b"
+
+new entry "PO_Goth_Dyes_Black_Leather_Red_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "06020ba5-38a9-4e26-8bc1-832cb55e8453"
+
+new entry "PO_Goth_Dyes_Red_Leather_Black_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "5856d427-e3be-45fe-9dbd-c54dd22b1bba"
+
+new entry "PO_Goth_Dyes_Black_Leather_Purple_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "a8da1200-e2ae-4819-8a4f-2f505d44d63a"
+
+new entry "PO_Goth_Dyes_Purple_Leather_Black_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "e66189ab-6cdf-4d00-a88b-8cdd0ffe2c3e"
+
+new entry "PO_Goth_Dyes_Black_Leather_Darkblue_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "faf8b4f6-c23d-4d25-8319-66dbf669d9d7"
+
+new entry "PO_Goth_Dyes_Darkblue_Leather_Black_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "7956721e-ed5f-4d62-a195-dc16ee8b65e4"
+
+new entry "PO_Goth_Dyes_Black_Leather_Teal_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "580e6c6c-b0a4-41bd-b370-e2fabd5edde0"
+
+new entry "PO_Goth_Dyes_Teal_Leather_Black_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "eb245e2f-2031-47e4-8f4f-449babc57e3a"
+
+new entry "PO_Goth_Dyes_Black_Leather_Pink_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "b015d1b9-b482-4b02-b549-35adf605cd1d"
+
+new entry "PO_Goth_Dyes_Pink_Leather_Black_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "2faeaaf3-1415-472a-8470-0749f1ba5231"
+
+new entry "PO_Goth_Dyes_Black_Leather_Green_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "3a7fc646-e88f-407a-aeb6-43957acf09ea"
+
+new entry "PO_Goth_Dyes_Green_Leather_Black_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "6fbdcf71-3dc8-469e-b7a8-4aad9c060de4"
+
+new entry "PO_Goth_Dyes_Black_Leather_Black_Cloth"
+using "PO_Goth_Dyes_Template"
+data "RootTemplate" "18b9b1ea-b13d-4ae2-a67e-98d891997373"
+
+new entry "PO_Goth_Dyes_Remover"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "2549999f-8792-439e-b9db-fa1c06721b24"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "VeryRare"

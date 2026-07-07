@@ -1,0 +1,10 @@
+new entry "BW_SOTF_DEN_HellridersPride_Passive"
+type "PassiveData"
+using "DEN_HellridersPride_Passive"
+data "DisplayName" "h495ad27agf222gfa4ag7c2aga10fcd8eda17;1"
+
+new entry "BW_SOTF_MAG_SHA_SeluneBlessing_Spear_Passive"
+type "PassiveData"
+using "MAG_SHA_SeluneBlessing_Spear_Passive"
+data "DisplayName" "h7b31ce82g5747g10d0g8bbdg8c108260fd11;1"
+

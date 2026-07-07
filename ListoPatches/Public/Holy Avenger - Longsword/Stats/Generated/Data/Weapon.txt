@@ -1,0 +1,19 @@
+new entry "LHB_HA_HolyAvenger"
+type "Weapon"
+using "WPN_Longsword_2"
+data "RootTemplate" "4b54d7bb-4063-470f-8f86-d921879007b9"
+data "Rarity" "Legendary"
+data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical)"
+data "PassivesOnEquip" "LHB_HA_HolyAegis;LHB_HA_HolyAegis_Upgrade;LHB_HA_HolyJustice"
+data "Weapon Properties" "Versatile;Melee;Dippable;Magical"
+data "StatusOnEquip" "LHB_SPELLGUARDAURA_REMOVER"
+data "Unique" "1"
+
+
+
+new entry "LHB_Holy_Avenger_Alternate"
+type "Weapon"
+using "WPN_Longsword_2"
+data "RootTemplate" "5e7030e9-d59c-4edf-8278-8981a8e8baef"
+data "Rarity" "Rare"
+data "Unique" "1"

@@ -1,0 +1,1087 @@
+new ItemCombination "FDs_DYE_DyeRemover"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_DyeRemover"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "cbbb4163-efc6-4d3d-a460-4cee224147df"
+
+new ItemCombinationResult "FDs_DYE_DyeRemover_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_CleanPack"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_DyeRemover"
+data "Transform 1" "None"
+data "Type 2" "Object"
+data "Object 2" "OBJ_FDs_DYE_DisasterPack"
+data "Transform 2" "Consume"
+
+new ItemCombinationResult "FDs_DYE_CleanPack_1"
+data "ResultAmount 1" "1"
+data "Result 1" "OBJ_FDs_DYE_CleanPack"
+data "PreviewStatsID" "OBJ_FDs_DYE_CleanPack"
+
+
+new ItemCombination "FDs_DYE_DisasterPack"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_DyeRemover"
+data "Transform 1" "None"
+data "Type 2" "Object"
+data "Object 2" "OBJ_FDs_DYE_CleanPack"
+data "Transform 2" "Consume"
+
+new ItemCombinationResult "FDs_DYE_DisasterPack_1"
+data "ResultAmount 1" "1"
+data "Result 1" "OBJ_FDs_DYE_DisasterPack"
+data "PreviewStatsID" "OBJ_FDs_DYE_DisasterPack"
+
+
+
+
+
+new ItemCombination "FDs_DYE_NoNonsenseBROWN"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_NoNonsenseBROWN"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "48cbe344-3437-493c-9513-1e093723e8ec"
+
+new ItemCombinationResult "FDs_DYE_NoNonsenseBROWN_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_SomeNonsenseBROWN"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_SomeNonsenseBROWN"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "26a32ff3-1c58-43d7-ae0a-751abc854658"
+
+new ItemCombinationResult "FDs_DYE_SomeNonsenseBROWN_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_NonsensicalBROWN"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_NonsensicalBROWN"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "d10c0cc5-065d-4f3b-9079-fb84ff68cdc3"
+
+new ItemCombinationResult "FDs_DYE_NonsensicalBROWN_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_AltNonsensicalBROWN"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_AltNonsensicalBROWN"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "6834adb3-4eff-4eb2-80c6-58845510760c"
+
+new ItemCombinationResult "FDs_DYE_NonsensicalBROWN_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_RainyDayGRAY"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_RainyDayGRAY"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "26de764f-060e-4450-bac9-37991f186a91"
+
+new ItemCombinationResult "FDs_DYE_RainyDayGRAY_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_StormcloudGRAY"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_StormcloudGRAY"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "82a48e85-8422-4e57-a10b-58e7e5b5604b"
+
+new ItemCombinationResult "FDs_DYE_StormcloudGRAY_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_StayInsideGRAY"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_StayInsideGRAY"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "29932ff3-1c58-43d7-ae0a-751abc854658"
+
+new ItemCombinationResult "FDs_DYE_StayInsideGRAY_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_RangerGREEN"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_RangerGREEN"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "99496165-048b-45ef-ba3e-96396ff8a953"
+
+new ItemCombinationResult "FDs_DYE_RangerGREEN_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_ForestDwellerGREEN"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_ForestDwellerGREEN"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "57edb1fd-fad0-4940-930b-935f9a90cd52"
+
+new ItemCombinationResult "FDs_DYE_ForestDwellerGREEN_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_NatureLoverGREEN"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_NatureLoverGREEN"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "3528412c-2e54-4537-ab41-61f1d8305f6f"
+
+new ItemCombinationResult "FDs_DYE_NatureLoverGREEN_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_NecromancerPURPLE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_NecromancerPURPLE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "44d198b1-cef5-44c6-ba64-d1a7fe7cab47"
+
+new ItemCombinationResult "FDs_DYE_NecromancerPURPLE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_MycologistsChoiceFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_MycologistsChoiceFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "c128dba5-59b5-4365-aa5a-4db6dbf85255"
+
+new ItemCombinationResult "FDs_DYE_MycologistsChoiceFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_AdderDyeFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_AdderDyeFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "e97240ae-f1cf-4370-85a6-af7bf8996e18"
+
+new ItemCombinationResult "FDs_DYE_AdderDyeFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TidepoolBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TidepoolBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "8b45d88c-c4d7-44a2-bb61-1918d36e72b9"
+
+new ItemCombinationResult "FDs_DYE_TidepoolBLUE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_WavestriderBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_WavestriderBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "31d911f7-8ce1-476f-b9ce-fce69e9fba50"
+
+new ItemCombinationResult "FDs_DYE_WavestriderBLUE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_SeafloorBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_SeafloorBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "24619e78-72f4-4ebf-9c46-342a708448d7"
+
+new ItemCombinationResult "FDs_DYE_SeafloorBLUE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_AltSeafloorBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_AltSeafloorBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "e514eede-ab4d-42db-88fb-ab7a8497fa71"
+
+new ItemCombinationResult "FDs_DYE_AltSeafloorBLUE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_DebutanteDyeFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_DebutanteDyeFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "ce65583a-6292-4f40-aba7-ac153aa31dc5"
+
+new ItemCombinationResult "FDs_DYE_DebutanteDyeFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_IllusionistIndigoFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_IllusionistIndigoFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "24f63e05-c6b8-4ede-bf03-0e37e462a10c"
+
+new ItemCombinationResult "FDs_DYE_IllusionistIndigoFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_CherryRED"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_CherryRED"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "b5e6621d-ffe7-487d-90a7-da6cb7981870"
+
+new ItemCombinationResult "FDs_DYE_CherryRED_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_BrickRED"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_BrickRED"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "bd2584c7-8f7d-4aee-8cc4-72805ad90bf0"
+
+new ItemCombinationResult "FDs_DYE_BrickRED_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_BluntTraumaRED"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_BluntTraumaRED"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "79b8175d-7ed7-4efc-affe-bcc3da5e6bb8"
+
+new ItemCombinationResult "FDs_DYE_BluntTraumaRED_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_ThickHeadedFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_ThickHeadedFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "ca2815e5-b6f5-432f-bd13-b6f0aea5c9b5"
+
+new ItemCombinationResult "FDs_DYE_ThickHeadedFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PhilosopherDyeFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PhilosopherDyeFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "e8d4dad7-d030-46fc-86c7-238e70faecc1"
+
+new ItemCombinationResult "FDs_DYE_PhilosopherDyeFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_DoomspeakerDyeFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_DoomspeakerDyeFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "30205c1e-f0dd-4f07-a58d-20b052d96364"
+
+new ItemCombinationResult "FDs_DYE_DoomspeakerDyeFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_AltDoomspeakerDyeFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_AltDoomspeakerDyeFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "ff00bf68-05de-4294-869a-06ea6b6c557d"
+
+new ItemCombinationResult "FDs_DYE_AltDoomspeakerDyeFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_CleanSlateWHITE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_CleanSlateWHITE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "2dd88435-cd09-4792-9620-0afb4ed7585d"
+
+new ItemCombinationResult "FDs_DYE_CleanSlateWHITE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_AltCleanSlateWHITE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_AltCleanSlateWHITE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "e132a395-a70a-4e98-a05c-ac2240a95f6a"
+
+new ItemCombinationResult "FDs_DYE_AltCleanSlateWHITE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_GentleTwilightFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_GentleTwilightFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "30ca18d4-e4c1-496c-ad06-9d77bf04b39d"
+
+new ItemCombinationResult "FDs_DYE_GentleTwilightFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_DaybreakYELLOW"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_DaybreakYELLOW"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "f8356e1b-c303-4c49-ad51-3a95f75762fe"
+
+new ItemCombinationResult "FDs_DYE_DaybreakYELLOW_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_SunflowerYELLOW"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_SunflowerYELLOW"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "89c8a1ec-1c23-428e-89c6-3fc4c2e4ee7d"
+
+new ItemCombinationResult "FDs_DYE_SunflowerYELLOW_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_BrokerBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_BrokerBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "c632503f-5c94-48bf-8ecf-ef7a46239556"
+
+new ItemCombinationResult "FDs_DYE_BrokerBLUE_1"
+data "ResultAmount 1" "1"
+
+
+- PRACTICALS -
+
+
+new ItemCombination "FDs_DYE_PracticalIronRED"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalIronRED"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "c3367a1d-2d72-4e62-b904-3a4ada8303ce"
+
+new ItemCombinationResult "FDs_DYE_PracticalIronRED_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalSilverRED"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalSilverRED"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "394f0f7d-217f-4ccf-af92-9ca3cbd191c5"
+
+new ItemCombinationResult "FDs_DYE_PracticalSilverRED_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalGoldRED"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalGoldRED"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "a40ad087-5331-4135-afb1-a986c3a4fd35"
+
+new ItemCombinationResult "FDs_DYE_PracticalGoldRED_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalIronBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalIronBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "158d857a-5e09-40e6-a02b-968daaa2160b"
+
+new ItemCombinationResult "FDs_DYE_PracticalIronBLUE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalSilverBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalSilverBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "14b0971d-ae45-4439-b0ea-cb5d9e8f1b51"
+
+new ItemCombinationResult "FDs_DYE_PracticalSilverBLUE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalGoldBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalGoldBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "160f0ba7-b84c-4ff2-8db3-c8539098d7f6"
+
+new ItemCombinationResult "FDs_DYE_PracticalGoldBLUE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalIronYELLOW"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalIronYELLOW"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "f4420525-6920-450c-ab9d-1a399ff5b74a"
+
+new ItemCombinationResult "FDs_DYE_PracticalIronYELLOW_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalSilverYELLOW"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalSilverYELLOW"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "6c48b9cf-7589-4dcb-8a4a-d39c92a3eff1"
+
+new ItemCombinationResult "FDs_DYE_PracticalSilverYELLOW_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalGoldYELLOW"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalGoldYELLOW"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "6de8e468-76a9-4a9a-b468-437408d6e7e4"
+
+new ItemCombinationResult "FDs_DYE_PracticalGoldYELLOW_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalIronBLACK"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalIronBLACK"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "1af1471b-372c-4e2b-b253-08c59e9937d4"
+
+new ItemCombinationResult "FDs_DYE_PracticalIronBLACK_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalSilverBLACK"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalSilverBLACK"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "817b57a1-af57-4651-8919-6aaa7a468125"
+
+new ItemCombinationResult "FDs_DYE_PracticalSilverBLACK_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalGoldBLACK"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalGoldBLACK"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "b1e6ac61-c6ff-4dcc-b571-aa4d6e205233"
+
+new ItemCombinationResult "FDs_DYE_PracticalGoldBLACK_1"
+data "ResultAmount 1" "1"
+
+
+
+new ItemCombination "FDs_DYE_PracticalIronWHITE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalIronWHITE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "952021d0-648b-4329-a030-9ffaa54418c1"
+
+new ItemCombinationResult "FDs_DYE_PracticalIronWHITE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalSilverWHITE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalSilverWHITE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "c9f646a0-221b-48e1-8504-688cd1b47dae"
+new ItemCombinationResult "FDs_DYE_PracticalSilverWHITE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalGoldWHITE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalGoldWHITE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "a89197da-f30a-4b2b-8923-fe72b94b4d84"
+
+new ItemCombinationResult "FDs_DYE_PracticalGoldWHITE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalIronGRAY"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalIronGRAY"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "d5f101d5-6e3f-46fe-8015-79c34bc9dd9d"
+
+new ItemCombinationResult "FDs_DYE_PracticalIronGRAY_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalSilverGRAY"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalSilverGRAY"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "d498ef54-bbac-45f8-8f18-12428740880f"
+
+new ItemCombinationResult "FDs_DYE_PracticalSilverGRAY_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalGoldGRAY"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalGoldGRAY"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "0e4ca2b5-186f-4adc-8e43-11b7b2efbeda"
+
+new ItemCombinationResult "FDs_DYE_PracticalGoldGRAY_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalRangerGREEN"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalRangerGREEN"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "10ac69fd-96d0-40b7-85e1-c815b5932e51"
+
+new ItemCombinationResult "FDs_DYE_PracticalRangerGREEN_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalDebutanteFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalDebutanteFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "6cc8fba3-0f57-4a62-a934-6efa5e88ef64"
+
+new ItemCombinationResult "FDs_DYE_PracticalDebutanteFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalDoomspeakerFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalDoomspeakerFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "aa205c1e-f0dd-4f07-a58d-20b052d96364"
+
+new ItemCombinationResult "FDs_DYE_PracticalDoomspeakerFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalAltDoomspeakerFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalAltDoomspeakerFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "aa00bf68-05de-4294-869a-06ea6b6c557d"
+
+new ItemCombinationResult "FDs_DYE_PracticalAltDoomspeakerFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalCherryRED"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalCherryRED"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "72ce502c-827d-4056-8459-42c8c0de5fee"
+
+new ItemCombinationResult "FDs_DYE_PracticalCherryRED_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_PracticalBrokerBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_PracticalBrokerBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "b7b9b4ca-6e71-4b73-a8de-4ace0f50da8b"
+
+new ItemCombinationResult "FDs_DYE_PracticalBrokerBLUE_1"
+data "ResultAmount 1" "1"
+
+
+------ TACTICALS --------
+
+new ItemCombination "FDs_DYE_TacticalIronRED"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalIronRED"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "5738e8dc-dbc9-46cf-b17c-8e95431709c0"
+
+new ItemCombinationResult "FDs_DYE_TacticalIronRED_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalSilverRED"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalSilverRED"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "ccaea1c1-0822-404e-8dea-2b335b5e62ee"
+
+new ItemCombinationResult "FDs_DYE_TacticalSilverRED_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalGoldRED"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalGoldRED"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "695f5f7f-0f64-425c-a144-fd462f79e122"
+
+new ItemCombinationResult "FDs_DYE_TacticalGoldRED_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalIronBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalIronBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "6e0b0443-e991-40da-a4e8-d48608a635a5"
+
+new ItemCombinationResult "FDs_DYE_TacticalIronBLUE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalSilverBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalSilverBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "71e5dcb5-0bbe-408b-b75a-4cfe735d6a26"
+
+new ItemCombinationResult "FDs_DYE_TacticalSilverBLUE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalGoldBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalGoldBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "1b06c2f9-4a68-40c3-8eac-15d45c2b1338"
+
+new ItemCombinationResult "FDs_DYE_TacticalGoldBLUE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalIronYELLOW"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalIronYELLOW"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "b4500c63-1c83-444d-8dd5-f980840cd902"
+
+new ItemCombinationResult "FDs_DYE_TacticalIronYELLOW_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalSilverYELLOW"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalSilverYELLOW"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "643b9b40-846b-4980-abea-eeb25050f921"
+
+new ItemCombinationResult "FDs_DYE_TacticalSilverYELLOW_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalGoldYELLOW"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalGoldYELLOW"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "83a35002-4113-4443-baef-3f7d391cc488"
+
+new ItemCombinationResult "FDs_DYE_TacticalGoldYELLOW_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalIronBLACK"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalIronBLACK"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "5deb3a5f-91bb-4444-b755-568870a5b4d0"
+
+new ItemCombinationResult "FDs_DYE_TacticalIronBLACK_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalSilverBLACK"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalSilverBLACK"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "92dcd8b4-8d7d-4af1-b467-df25f26b280b"
+
+new ItemCombinationResult "FDs_DYE_TacticalSilverBLACK_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalGoldBLACK"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalGoldBLACK"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "35d1f78e-2d7e-49da-a50c-f0a4cf343595"
+
+new ItemCombinationResult "FDs_DYE_TacticalGoldBLACK_1"
+data "ResultAmount 1" "1"
+
+
+
+new ItemCombination "FDs_DYE_TacticalIronWHITE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalIronWHITE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "f5dc16ea-578f-4799-87b2-f584453b9024"
+
+new ItemCombinationResult "FDs_DYE_TacticalIronWHITE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalSilverWHITE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalSilverWHITE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "0e2301d3-7eff-49b4-b91b-c919fed04a9e"
+new ItemCombinationResult "FDs_DYE_TacticalSilverWHITE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalGoldWHITE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalGoldWHITE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "89153bf4-880b-4385-ac0d-96db78f32c2b"
+
+new ItemCombinationResult "FDs_DYE_TacticalGoldWHITE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalIronGRAY"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalIronGRAY"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "d2bf1269-8b28-45af-9bd9-1f1dffb4cc63"
+
+new ItemCombinationResult "FDs_DYE_TacticalIronGRAY_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalSilverGRAY"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalSilverGRAY"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "3f189d81-98f9-4c88-9487-a0df9d3ec2b9"
+
+new ItemCombinationResult "FDs_DYE_TacticalSilverGRAY_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalGoldGRAY"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalGoldGRAY"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "b3a8e864-74eb-494c-a611-873349631aa0"
+
+new ItemCombinationResult "FDs_DYE_TacticalGoldGRAY_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalRangerGREEN"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalRangerGREEN"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "e72dc745-d997-40a9-97d5-306e9ee77af7"
+
+new ItemCombinationResult "FDs_DYE_TacticalRangerGREEN_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalDebutanteFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalDebutanteFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "9dcb4943-e2be-4f82-8718-e2272d74f877"
+
+new ItemCombinationResult "FDs_DYE_TacticalDebutanteFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalDoomspeakerFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalDoomspeakerFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "c8d51b8b-4c3e-4bcd-bc01-310da4a559a4"
+
+new ItemCombinationResult "FDs_DYE_TacticalDoomspeakerFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalAltDoomspeakerFREE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalAltDoomspeakerFREE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "aa111537-d4dc-44da-b646-f01107b32ab4"
+
+new ItemCombinationResult "FDs_DYE_TacticalAltDoomspeakerFREE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalBrokerBLUE"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalBrokerBLUE"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "4f8830b7-5283-4a12-9b57-2bd50ac751c1"
+
+new ItemCombinationResult "FDs_DYE_TacticalBrokerBLUE_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "FDs_DYE_TacticalCherryRED"
+data "Type 1" "Object"
+data "Object 1" "FDs_DYE_TacticalCherryRED"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "286caa92-904e-45be-90b0-4281b8c5a73a"
+
+new ItemCombinationResult "FDs_DYE_TacticalCherryRED_1"
+data "ResultAmount 1" "1"

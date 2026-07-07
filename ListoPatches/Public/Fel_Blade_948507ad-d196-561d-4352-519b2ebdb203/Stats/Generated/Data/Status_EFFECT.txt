@@ -1,0 +1,8 @@
+new entry "Fel_Corruption"
+type "StatusData"
+data "StatusType" "EFFECT"
+data "DisplayName" "h1dabc426g98e2gcc53g782ag58c0c7e4bdb8;1"
+data "Description" "h04186540gd231ga637g3757gfc5c99a9f0bb;1"
+data "Icon" "GenericIcon_Intent_Debuff"
+data "StatusPropertyFlags" "BringIntoCombat;ForceOverhead"
+

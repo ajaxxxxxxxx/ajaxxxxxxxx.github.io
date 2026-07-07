@@ -1,0 +1,7 @@
+new entry "DoF_Dyes_Bag"
+type "Object"
+using "_Container"
+data "RootTemplate" "8e652f2f-a523-485f-80e6-0997a6746a06"
+data "ValueOverride" "1"
+data "Rarity" "Common"
+data "Weight" "0.1"

@@ -1,0 +1,6 @@
+new entry "AARDI_CONT_GEN_Chest_KnightsandDames"
+type "Object"
+using "_Container"
+data "RootTemplate" "2d59f7a4-2d35-45be-ab19-06b077fc0394"
+data "Rarity" "Legendary"
+

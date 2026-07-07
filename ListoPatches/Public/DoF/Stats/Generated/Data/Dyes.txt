@@ -1,0 +1,138 @@
+new entry "OBJ_CalimshanTale_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "5c590ff3-daf8-4ffc-bdbc-f79ed3302234"
+data "Priority" "1"
+
+
+new entry "OBJ_CalimshanFairytale_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "3faa8ba9-6533-44a1-afc7-542620f26651"
+data "Priority" "1"
+
+
+new entry "OBJ_Purrpurr_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "31f2b042-a64e-4225-99af-81c659360744"
+data "Priority" "1"
+
+
+new entry "OBJ_StormingDay_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "4186d7eb-ec00-4a28-be62-199027d21e88"
+data "Priority" "1"
+
+
+new entry "OBJ_NightWatch_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "c20fb7be-555b-4253-91c1-443b471b298a"
+data "Priority" "1"
+
+
+new entry "OBJ_SnowBerry_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "1d2695cd-4c05-4eea-8b29-98d0884d211b"
+data "Priority" "1"
+
+
+new entry "OBJ_DesertSun_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "704b95eb-27a7-483b-b16b-cbd986edf504"
+data "Priority" "1"
+
+
+new entry "OBJ_PrincessDream_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "4ebdcb0a-e863-4218-9586-2ecebef15dc2"
+data "Priority" "1"
+
+
+new entry "OBJ_PoppyBloom_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "d6dc7d21-f27b-4494-8eb0-2f29c74220b4"
+data "Priority" "1"
+
+
+new entry "OBJ_AuroraBorealis_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "8c2fbb8a-e588-4a2c-b955-c7b91aee60ad"
+data "Priority" "1"
+
+
+new entry "OBJ_FairyForest_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "cf565fbb-afdd-4186-bd01-5e16dc236397"
+data "Priority" "1"
+
+
+new entry "OBJ_EnchantedDream_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "220a8d08-060e-4f84-b996-f8dcb897de17"
+data "Priority" "1"
+
+
+new entry "OBJ_BloomingGarden_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "d6dd400d-6c6e-4d31-94c2-a4f6179e30f0"
+data "Priority" "1"
+
+
+new entry "OBJ_ShiningStars_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "98548729-0267-43e0-b7a9-6f175f8a3968"
+data "Priority" "1"
+
+
+new entry "OBJ_OldLibrary_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "e5a15021-ebf7-416c-a0be-ddb723743fce"
+data "Priority" "1"
+
+
+new entry "OBJ_Moth_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "5a134442-4b76-49d2-b903-1887e12b476e"
+data "Priority" "1"
+
+
+new entry "OBJ_MasterOfIntrigue_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "ef141a80-04d5-4108-bdf3-e07a7b5ae71a"
+data "Priority" "1"
+
+
+new entry "OBJ_BrassAndOil_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "b7845dbf-96c0-4265-91df-42a718575ab6"
+data "Priority" "1"
+
+
+new entry "OBJ_LandOfFire_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "540800d5-908b-4dea-9db5-bdbe75ff24bb"
+data "Priority" "1"
+
+
+new entry "OBJ_Underdark_Dye"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "0ea717d0-82aa-48b6-b1e5-673e58db50b6"
+data "Priority" "1"

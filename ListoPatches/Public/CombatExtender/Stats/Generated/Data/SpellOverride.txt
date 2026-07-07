@@ -1,0 +1,11 @@
+// new entry "Target_HuntersMark"
+// type "SpellData"
+// data "SpellType" "Target"
+// using "Target_HuntersMark"
+// data "Cooldown" "OncePerTurn"
+
+// new entry "Target_Silence"
+// type "SpellData"
+// data "SpellType" "Target"
+// using "Target_Silence"
+// data "Cooldown" "OncePerTurn"

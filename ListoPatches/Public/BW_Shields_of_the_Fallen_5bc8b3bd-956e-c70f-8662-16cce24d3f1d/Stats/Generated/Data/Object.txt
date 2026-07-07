@@ -1,0 +1,7 @@
+new entry "BW_SOTF_Container"
+type "Object"
+using "OBJ_Chest"
+data "RootTemplate" "0a9852e3-15a8-40e9-918b-99a156427670"
+data "Rarity" "Legendary"
+data "Weight" "15"
+

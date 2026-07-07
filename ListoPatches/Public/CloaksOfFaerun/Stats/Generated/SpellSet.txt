@@ -1,0 +1,8 @@
+new spellset "ARA_XivuCompanion_ExceptionalTraining"
+add spell "Shout_Dash_NPC"
+add spell "Shout_Dash_BonusAction_NPC"
+add spell "Shout_Hide"
+add spell "Shout_Disengage"
+add spell "Shout_Disengage_BonusAction"
+add spell "Target_Help"
+add spell "Target_Help_BonusAction"

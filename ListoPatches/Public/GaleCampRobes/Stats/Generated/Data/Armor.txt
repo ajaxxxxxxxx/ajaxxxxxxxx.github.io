@@ -1,0 +1,5 @@
+new entry "SPRW_Camp_Body_GaleRobes"
+type "Armor"
+using "ARM_Camp_Body"
+data "RootTemplate" "71b7f9b1-1944-46c3-9af3-aa1b48ec9297"
+data "ValueOverride" "1"

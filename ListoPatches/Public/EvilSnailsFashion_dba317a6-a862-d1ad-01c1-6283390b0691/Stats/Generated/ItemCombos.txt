@@ -1,0 +1,12 @@
+new ItemCombination "OBJ_Dye_BlackGold"
+data "Type 1" "Object"
+data "Object 1" "OBJ_Dye_BlackGold"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "004090d8-f5c3-26a8-2811-be0fc79041c4"
+
+new ItemCombinationResult "OBJ_Dye_BlackGold_1"
+data "ResultAmount 1" "1"
+

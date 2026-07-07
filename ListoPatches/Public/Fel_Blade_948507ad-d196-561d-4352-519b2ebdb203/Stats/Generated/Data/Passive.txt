@@ -1,0 +1,30 @@
+new entry "Exploit_Weakness"
+type "PassiveData"
+data "DisplayName" "hff0d6ac1g8322g439agcea4g8bcc1af355dc;1"
+data "Description" "hcffc5ddbg975ag3d03gfd6dg8753eb61ecbe;1"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "ApplyStatus(MAG_BHAALIST_AURA_OF_MURDER, 100, 1)"
+
+new entry "Fel_Corruption"
+type "PassiveData"
+data "DisplayName" "h6af2b253gdcc7g41e1ge428g07d20facbe76;1"
+data "Description" "hb5b47e49g22b0g3c22gd826ge53f1965ec2e;1"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()
+"
+data "StatsFunctors" "ApplyStatus(Fel_Corruption_Status,100,1)"
+
+new entry "Prey_Weak"
+type "PassiveData"
+data "DisplayName" "hcc4f9520g99b5g5094gd89egd3dc91c2fb30;1"
+data "Description" "he620e275gda58ged73g9fb3g01b5783507f3;1"
+data "DescriptionParams" "DealDamage(1d4, Piercing);50"
+data "TooltipConditionalDamage" "DealDamage(1d4, Piercing)"
+
+new entry "H_Heroes_Journey_Abbalar"
+type "PassiveData"
+data "DisplayName" "h261d7812ge6d9gcbb9gdf03gda2c1ad6ded3;1"
+data "Description" "f59918d7-7add-4d7a-8484-834b633e4b6b;1"
+data "Icon" "Spell_Abjuration_Sanctuary"
+

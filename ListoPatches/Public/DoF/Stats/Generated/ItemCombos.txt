@@ -1,0 +1,258 @@
+new ItemCombination "OBJ_CalimshanTale_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_CalimshanTale_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "6967c31b-26ae-4cec-bb90-d3beceb7e01e"
+
+new ItemCombinationResult "OBJ_CalimshanTale_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_CalimshanFairytale_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_CalimshanFairytale_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "28949bf5-c72d-4c86-8145-5b637785118c"
+
+new ItemCombinationResult "OBJ_CalimshanFairytale_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_Purrpurr_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_Purrpurr_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "752ff7df-a1cc-4987-b9a2-6d4532884abc"
+
+new ItemCombinationResult "OBJ_Purrpurr_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_StormingDay_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_StormingDay_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "925baf13-83da-4b2a-b708-5c0ece1fa56a"
+
+new ItemCombinationResult "OBJ_StormingDay_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_NightWatch_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_NightWatch_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "ac767b04-91f9-4550-867f-42cf5575e523"
+
+new ItemCombinationResult "OBJ_NightWatch_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_SnowBerry_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_SnowBerry_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "ed738fad-3b08-4b8d-8c7a-5372117b8bce"
+
+new ItemCombinationResult "OBJ_SnowBerry_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_DesertSun_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_DesertSun_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "c9bfbd8e-e2ea-4906-a880-cd840a4c6182"
+
+new ItemCombinationResult "OBJ_DesertSun_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_PrincessDream_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_PrincessDream_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "86ec1f82-3b35-4e28-beda-9822eb22f91a"
+
+new ItemCombinationResult "OBJ_PrincessDream_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_PoppyBloom_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_PoppyBloom_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "10c15a0c-52ef-44f7-9338-3eae83603ae8"
+
+new ItemCombinationResult "OBJ_PoppyBloom_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_AuroraBorealis_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_AuroraBorealis_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "d3af80b8-6ca1-4aa4-874a-1f1248b1ce32"
+
+new ItemCombinationResult "OBJ_AuroraBorealis_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_FairyForest_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_FairyForest_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "61f49625-579d-4baf-a90d-a85985469687"
+
+new ItemCombinationResult "OBJ_FairyForest_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_EnchantedDream_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_EnchantedDream_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "cc59185a-a5bb-4c08-a25c-32dbc9f9ad6a"
+
+new ItemCombinationResult "OBJ_EnchantedDream_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_BloomingGarden_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_BloomingGarden_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "91163da6-4ec2-4f9a-b0a1-2d9cf477d17a"
+
+new ItemCombinationResult "OBJ_BloomingGarden_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_ShiningStars_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_ShiningStars_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "4a00e649-fbb5-4bc7-96ae-3d932e52d624"
+
+new ItemCombinationResult "OBJ_ShiningStars_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_OldLibrary_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_OldLibrary_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "cdefcc78-fb85-408a-a781-419da4dcada2"
+
+new ItemCombinationResult "OBJ_OldLibrary_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_Moth_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_Moth_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "eaa32299-4ab8-454b-b08c-f1a0b9cc0ec1"
+
+new ItemCombinationResult "OBJ_Moth_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_MasterOfIntrigue_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_MasterOfIntrigue_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "0029aa17-afb7-413c-a731-16f85090a06b"
+
+new ItemCombinationResult "OBJ_MasterOfIntrigue_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_BrassAndOil_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_BrassAndOil_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "a44d7bf1-d434-4b72-a31c-c70dd3d018bd"
+
+new ItemCombinationResult "OBJ_BrassAndOil_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_LandOfFire_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_LandOfFire_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "abca7027-dafc-48ae-be2f-dae1cb8a7e88"
+
+new ItemCombinationResult "OBJ_LandOfFire_Dye_1"
+data "ResultAmount 1" "1"
+
+
+new ItemCombination "OBJ_Underdark_Dye"
+data "Type 1" "Object"
+data "Object 1" "OBJ_Underdark_Dye"
+data "Transform 1" "None"
+data "Type 2" "Category"
+data "Object 2" "DyableArmor"
+data "Transform 2" "Dye"
+data "DyeColorPresetResource" "c7618d2e-a276-49fe-8071-63334988f3e1"
+
+new ItemCombinationResult "OBJ_Underdark_Dye_1"
+data "ResultAmount 1" "1"

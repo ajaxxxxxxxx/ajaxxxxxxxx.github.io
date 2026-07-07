@@ -1,0 +1,82 @@
+new entry "PO_Container_Goth_Dyes_Dark"
+type "Object"
+using "_Container"
+data "RootTemplate" "5faff63c-8a49-460f-8f35-bf828e17dead"
+data "Priority" "1"
+data "ValueOverride" "1"
+data "Weight" "0.1"
+data "Rarity" "Common"
+
+new entry "PO_Goth_Dyes_Dark_Template"
+using "_Dyes"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+
+new entry "PO_Goth_Dyes_Black_Leather_Silver_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "c0b87fb1-d7c7-4509-b22d-3cbc9d401b5b"
+
+new entry "PO_Goth_Dyes_Silver_Leather_Black_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "939d6602-0acc-4323-bad2-4fa0139a57c8"
+
+new entry "PO_Goth_Dyes_Black_Leather_Red_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "09e3f24e-18c1-4253-b58e-00e0574d87d6"
+
+new entry "PO_Goth_Dyes_Red_Leather_Black_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "85bd2dab-da06-498d-b9c0-cba83a9e63dc"
+
+new entry "PO_Goth_Dyes_Black_Leather_Purple_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "3b425266-f09c-46eb-961d-38cbbf1ac715"
+
+new entry "PO_Goth_Dyes_Purple_Leather_Black_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "37d71335-458c-4d32-95f8-3b383b91974b"
+
+new entry "PO_Goth_Dyes_Black_Leather_Darkblue_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "50deaf25-7266-4885-af93-7c30141783da"
+
+new entry "PO_Goth_Dyes_Darkblue_Leather_Black_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "6666cab0-1c88-4a98-9e34-4c962b0e505d"
+
+new entry "PO_Goth_Dyes_Black_Leather_Teal_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "8507a9bc-df88-4184-b5d7-22c868f0c4e8"
+
+new entry "PO_Goth_Dyes_Teal_Leather_Black_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "77893673-8d53-4e95-b48f-d7d4c080b80c"
+
+new entry "PO_Goth_Dyes_Black_Leather_Pink_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "bbc22300-644e-44a5-8c72-59ce50ca7a84"
+
+new entry "PO_Goth_Dyes_Pink_Leather_Black_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "391697fb-e3b4-42b8-9d82-2300771f05c6"
+
+new entry "PO_Goth_Dyes_Black_Leather_Green_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "e83c0584-efa3-4930-8e28-96a8adf5a3a1"
+
+new entry "PO_Goth_Dyes_Green_Leather_Black_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "257c2602-96af-476f-a3e4-375ca968180b"
+
+new entry "PO_Goth_Dyes_Black_Leather_Black_Cloth_Dark_Metal"
+using "PO_Goth_Dyes_Dark_Template"
+data "RootTemplate" "10648aa7-c286-4ffe-9f65-4235b88546c7"
+
+new entry "PO_Goth_Dyes_Remover_Dark_Metal"
+type "Object"
+using "_Dyes"
+data "RootTemplate" "6a1305db-824d-4333-aae6-2eaf3a125a57"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "VeryRare"
