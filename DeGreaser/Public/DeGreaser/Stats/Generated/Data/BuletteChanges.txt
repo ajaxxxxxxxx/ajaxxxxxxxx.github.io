@@ -1,0 +1,12 @@
+new entry "UND_BULETTE_HARDCORE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "UND_BULETTE_HARDCORE"
+data "StackId" "UND_BULETTE_HARDCORE"
+data "Boosts" "Resistance(Acid, None);Resistance(Slashing,ResistantToNonMagical);Resistance(Piercing,ResistantToNonMagical);Resistance(Bludgeoning,Vulnerable)"
+
+new entry "DIAMONDSCALES_BULETTE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "DIAMONDSCALES_BULETTE"
+data "Boosts" "Attribute(Grounded);IgnoreDamageThreshold(All,10);TemporaryHP(125)"

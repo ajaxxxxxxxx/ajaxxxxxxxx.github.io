@@ -1,0 +1,7 @@
+new entry "Target_LOW_FatherCarrion_FatherOfTheDead"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_LOW_FatherCarrion_FatherOfTheDead"
+data "TargetConditions" "Character() and not Dead() and not Player() and Tagged('UNDEAD') and not HasStatus('LOW_FATHERCARRION_FATHEROFTHEDEAD')"
+// Mortal Uncoiling
+data "DisplayName" "hd7f77b99ga21dg4182ga107g7bfbce49386e;3"

@@ -1,0 +1,49 @@
+new entry "HALSIN_SHADOWPORTAL_HARDCORE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "HALSIN_SHADOWPORTAL_HARDCORE"
+data "Boosts" ""
+
+new entry "QUEST_CRA_IntDev_Weakened"
+type "PassiveData"
+using "QUEST_CRA_IntDev_Weakened"
+// Weakened
+data "DisplayName" "h2db07054gaba4g4ff7g9884gbabb81d61c76;1"
+// Its journey through hell has severely weakened this creature's defences.
+data "Description" "h779ea992g1853g4ba6ga215g25f805b0c078;2"
+data "Icon" "GenericIcon_Intent_Debuff"
+data "Boosts" "IncreaseMaxHP(-20%);ActionResource(Movement,-2,0);AC(-5);Resistance(Psychic,Vulnerable);Resistance(Fire,Vulnerable);IF(IsInSunlight(context.Target)):Disadvantage(AttackRoll);IF(IsInSunlight(context.Target)):Disadvantage(Skill,Perception);RollBonus(SavingThrow, -2);RollBonus(MeleeSpellAttack,-2);RollBonus(Attack,-2);RollBonus(Damage,-1);RollBonus(RangedSpellAttack, -2)"
+
+new entry "AJ_SHG"
+type "PassiveData"
+data "Boosts" "IncreaseMaxHP(-15%);ActionResource(Movement,-1,0);AC(-1);RollBonus(SavingThrow, -1);Resistance(Acid,Vulnerable);Resistance(Fire,Vulnerable);RollBonus(MeleeSpellAttack,-1);RollBonus(Attack,-1);RollBonus(Damage,-2);RollBonus(RangedSpellAttack,-1)"
+data "DisplayName" "h8f5faf91g4293g440fg99f1g86972a1b7455;1"
+data "Description" "hef222708ge492g452bgb6a4gbee0d49b1c1b;1"
+
+new entry "AJ_RGG"
+type "PassiveData"
+data "Boosts" "IncreaseMaxHP(-25%);AC(-3);RollBonus(SavingThrow,-1);RollBonus(MeleeSpellAttack,-1);RollBonus(Attack,-1);RollBonus(Damage,-2);RollBonus(RangedSpellAttack,-1)"
+data "DisplayName" "hc0b0a888g7404g4d7agb223g53e9e4ac8208;1"
+data "Description" "hd3544834g859dg4f66g8e43gb3c83d154011;1"
+
+new entry "AJ_RM"
+type "PassiveData"
+data "Boosts" "IncreaseMaxHP(-20%);AC(-2);RollBonus(SavingThrow,-2);RollBonus(MeleeSpellAttack,-2);RollBonus(Attack,-2);RollBonus(Damage,-2);RollBonus(RangedSpellAttack,-2);ActionResource(Movement,-2,0)"
+data "DisplayName" "h11d184b2geb74g4585ga68fg97adc7e260bd;1"
+data "Description" "hae45bd01gdde0g48f5g84fcg30ffeea71baf;1"
+
+new entry "AJ_BarbSize"
+type "PassiveData"
+data "Boosts" "ScaleMultiplier(1.10)"
+
+new entry "AJ_RogueSize"
+type "PassiveData"
+data "Boosts" "ScaleMultiplier(0.90)"
+
+new entry "Projectile_SynapticDischarge_IntDev"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_SynapticDischarge_IntDev"
+data "TargetRadius" "12"
+data "SpellSuccess" "DealDamage(1d6,Psychic)"
+data "TooltipDamageList" "DealDamage(1d6,Psychic)"
