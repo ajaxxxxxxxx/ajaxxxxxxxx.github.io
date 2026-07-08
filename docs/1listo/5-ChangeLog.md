@@ -77,18 +77,18 @@ Save safe? No.
 45. Added Sword of Justice Upgradeable. And nerfed.
 46. Added Mordekainen Presents Lizardfolk.
 47. Added Sheltering Steel. And nerfed.
-48. Added my own take on "Unique Stat Bonus for Companions." Reducing the bonuses to all origins (mostly) to +1 to 2 stats, and +1 to 2 skills.
-    * Asterion has +1 DEX/CHA, performance/acrobatics.
-    * Jaheira has +1 DEX/WIS, history/survival.
-    * Shadowheart has +1 DEX/WIS, arcana/religion.
-    * Lae'zel has +1 STR/INT, intimidation/perception.
-    * Halsin has +1 CON/WIS, nature/medicine.
-    * Minthara has +1 CON/CHA, intimidation/religion.
-    * Gale has +1 INT/WIS, arcana/history.
-    * Minsc has +2 STR/CON, intimidation/acrobatics.
-    * Karlach has +1 STR/CON, intimidation/religion.
-    * Wyll has +1 CHA/INT, persuasion/investigation.
-    * The Dark Urge has +1 CHA/CON, intimidation/deception.
+48. Added my own take on "Unique Stat Bonus for Companions." Reducing the bonuses to all origins (mostly) to ~~+1 to 2~~ +0 for stats, and +1 to 2 skills.
+    * Asterion has +1 ~~DEX/CHA,~~ performance/acrobatics.
+    * Jaheira has +1 ~~DEX/WIS,~~ history/survival.
+    * Shadowheart has +1 ~~DEX/WIS,~~ arcana/religion.
+    * Lae'zel has +1 ~~STR/INT,~~ intimidation/perception.
+    * Halsin has +1 ~~CON/WIS,~~ nature/medicine.
+    * Minthara has +1 ~~CON/CHA,~~ intimidation/religion.
+    * Gale has +1 ~~INT/WIS,~~ arcana/history.
+    * Minsc has +2 ~~STR/CON,~~ intimidation/acrobatics.
+    * Karlach has +1 ~~STR/CON,~~ intimidation/religion.
+    * Wyll has +1 ~~CHA/INT,~~ persuasion/investigation.
+    * The Dark Urge has +1 ~~CHA/CON,~~ intimidation/deception.
     * Re-assigned gods to origin characters because those were lost at some point.
 49. ~~Added A Human's Random Loot (with very narrow options enabled).~~ nah
 50. Removed Druid Wildshape Items.
@@ -144,6 +144,8 @@ Save safe? No.
 96. Added Darker Shar Temple, Shadowlands, and Cazador's Palace.
 97. Added Oath of the Moon Paladin.
 98. Added 2 patches from CatDude55 fixing Mizora's Rewards and Moon Paladins.
+99. Listo has its first Github open-source pull request based improvement, fixing issues with Shillelagh being permanently stuck on gear and not working as intended.
+100. Added Lightning Vessel Barbarian, with CD's nerf patch.
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
