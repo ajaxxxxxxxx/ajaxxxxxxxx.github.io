@@ -1,0 +1,22 @@
+{
+    "General": {
+        "auto_enter_mirror": true,
+        "auto_generate_portrait": false,
+        "list_private_parts": false
+    },
+    "debug": {
+        "debug": {
+            "debug_level": 0
+        }
+    },
+    "preset_manager": {
+        "open_cpf": {
+            "Keyboard": {
+                "Key": "P",
+                "ModifierKeys": [
+                    "LShift"
+                ]
+            }
+        }
+    }
+}

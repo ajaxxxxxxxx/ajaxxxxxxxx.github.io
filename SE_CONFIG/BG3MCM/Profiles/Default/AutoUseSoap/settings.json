@@ -1,0 +1,15 @@
+{
+    "debug": {
+        "debugging_settings": {
+            "debug_level": 0
+        }
+    },
+    "features": {
+        "Features": {
+            "add_soap_items": true,
+            "mod_enabled": true,
+            "use_after_combat": false,
+            "use_when_entering_camp": true
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "conditions": {
+        "postponement": {
+            "postpone_on_combat": true,
+            "postpone_on_combat_turn": true,
+            "postpone_on_dialogue": true,
+            "postpone_on_idle": true,
+            "postpone_on_lockpicking": true,
+            "postpone_on_looting_characters": true,
+            "postpone_on_movement": true,
+            "postpone_on_respec_and_mirror": true,
+            "postpone_on_trade": true,
+            "postpone_on_turn_based_mode": true,
+            "postpone_on_using_items": true
+        },
+        "timer_settings": {
+            "autosaving_period_in_minutes": 15,
+            "save_aware": true
+        }
+    },
+    "general": {
+        "debugging_settings": {
+            "debug_level": 0,
+            "timer_in_seconds": false
+        },
+        "general_settings": {
+            "mod_enabled": true
+        }
+    },
+    "slot_limits": {
+        "additional_override_settings": {
+            "max_nr_of_autosaves": 100,
+            "max_nr_of_quicksaves": 100
+        },
+        "override_settings": {
+            "nr_of_autosaves": 100,
+            "nr_of_quicksaves": 100,
+            "override_vanilla_limits": true
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "General": {
+        "debug": {
+            "auto_reset_on_save": true,
+            "debug_level": 0
+        },
+        "general": {
+            "mod_enabled": true,
+            "update_rule_id_from_label": false
+        }
+    }
+}

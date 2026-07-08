@@ -1,0 +1,58 @@
+{
+    "extras": {
+        "prone": {
+            "SA_metal_chars_applies_on_condition": "Party Members",
+            "SA_metal_chars_attract_context_condition": "Only In Combat",
+            "SA_metal_chars_attract_enemies_when_knocked_prone": false,
+            "SA_metal_chars_attract_type_condition": "All",
+            "SA_metal_equipment_base_radius": 5,
+            "SA_metal_equipment_count_weight": 1
+        },
+        "surprise": {
+            "SA_resist_surprise_ability": "Wisdom",
+            "SA_resist_surprise_dc": 15,
+            "SA_surprise_applies_to_condition": "All",
+            "SA_surprise_enabled": true
+        }
+    },
+    "general": {
+        "general-mod-behavior": {
+            "SA_enabled": true,
+            "SA_log_level": 0,
+            "SA_show_surface_for_radius_settings": true
+        }
+    },
+    "rules": {
+        "distance": {
+            "SA_distance_enable": true,
+            "SA_distance_from_combat_member": 20
+        },
+        "sneaking": {
+            "SA_hide_sneaking_char_ghost": true,
+            "SA_invisible_chars_are_eligible": true,
+            "SA_sneaking_char_roll_stealth": true,
+            "SA_sneaking_char_roll_stealth_with_advantage": true,
+            "SA_sneaking_chars_are_eligible": true,
+            "SA_sneaking_chars_can_trip": false,
+            "SA_sneaking_chars_get_stealth_back": true
+        },
+        "summons": {
+            "SA_summons_copy_summoner": true
+        }
+    },
+    "stealh_combat": {
+        "in_combat": {
+            "SA_action_counter_divisor": 1.5,
+            "SA_enable_in_combat_behavior": true,
+            "SA_ghost_radius_obscurity_multiplier": 2.0,
+            "SA_max_radius_for_ghost_on_action": 10
+        },
+        "out_of_combat": {
+            "SA_delay_on_applying_sneak_out_of_combat": 2.0,
+            "SA_enable_out_of_combat_action_behavior": true
+        },
+        "shared": {
+            "SA_stealth_actions_requires_stealth_proficiency": true
+        }
+    }
+}

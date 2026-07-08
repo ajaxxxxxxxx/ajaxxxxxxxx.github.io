@@ -1,0 +1,317 @@
+{
+    "general_settings": {
+        "ability_points": {
+            "Bosses_AbilityPoints_BoostPerIncrement": 1,
+            "Bosses_AbilityPoints_LevelIncrement": 4,
+            "Bosses_AbilityPoints_StaticBoost": 1,
+            "Enemies_AbilityPoints_BoostPerIncrement": 1,
+            "Enemies_AbilityPoints_LevelIncrement": 6,
+            "Enemies_AbilityPoints_StaticBoost": 1
+        },
+        "armour_class": {
+            "Bosses_ArmourClass_BoostPerIncrement": 1,
+            "Bosses_ArmourClass_LevelIncrement": 4,
+            "Bosses_ArmourClass_StaticBoost": 1,
+            "Enemies_ArmourClass_BoostPerIncrement": 1,
+            "Enemies_ArmourClass_LevelIncrement": 4,
+            "Enemies_ArmourClass_StaticBoost": 0
+        },
+        "damage": {
+            "Bosses_DamagePerIncrement": 1,
+            "Bosses_LevelIncrement": 4,
+            "Bosses_StaticDamageBoost": 1,
+            "Enemies_DamagePerIncrement": 1,
+            "Enemies_LevelIncrement": 6,
+            "Enemies_StaticDamageBoost": 1
+        },
+        "extra_action": {
+            "Bosses_ExtraAction_Action_Additional": 0,
+            "Bosses_ExtraAction_BonusAction_Additional": 0,
+            "Enemies_ExtraAction_Action_Additional": 0,
+            "Enemies_ExtraAction_BonusAction_Additional": 1
+        },
+        "general_info": {
+            "Use_MCM_Settings": false
+        },
+        "health": {
+            "Allies_HealthMultiplier": 0.0,
+            "Allies_HealthPerLevel": 0.0,
+            "Allies_StaticBoost": 0.0,
+            "Bosses_HealthMultiplier": 0.0,
+            "Bosses_HealthPerLevel": 0.02,
+            "Bosses_StaticBoost": 0.1,
+            "Enable_Allies_Health_Overrides": false,
+            "Enemies_HealthMultiplier": 0.0,
+            "Enemies_HealthPerLevel": 0.01,
+            "Enemies_StaticBoost": 0.1,
+            "Health_Multiplier_Party_Scaling": 0
+        },
+        "movement": {
+            "Bosses_Movement_StaticBoost": 3,
+            "Enemies_Movement_StaticBoost": 1
+        },
+        "rolls": {
+            "Bosses_Rolls_Attack_LevelIncrement": 4,
+            "Bosses_Rolls_Attack_RollBonusPerIncrement": 1,
+            "Bosses_Rolls_Attack_StaticRollBonus": 1,
+            "Bosses_Rolls_SavingThrow_LevelIncrement": 4,
+            "Bosses_Rolls_SavingThrow_RollBonusPerIncrement": 1,
+            "Bosses_Rolls_SavingThrow_StaticRollBonus": 1,
+            "Enemies_Rolls_Attack_LevelIncrement": 8,
+            "Enemies_Rolls_Attack_RollBonusPerIncrement": 1,
+            "Enemies_Rolls_Attack_StaticRollBonus": 1,
+            "Enemies_Rolls_SavingThrow_LevelIncrement": 8,
+            "Enemies_Rolls_SavingThrow_RollBonusPerIncrement": 1,
+            "Enemies_Rolls_SavingThrow_StaticRollBonus": 1
+        },
+        "spell_save_dc": {
+            "Bosses_SpellSaveDC_BoostPerIncrement": 1,
+            "Bosses_SpellSaveDC_LevelIncrement": 8,
+            "Bosses_SpellSaveDC_StaticBoost": 1,
+            "Enemies_SpellSaveDC_BoostPerIncrement": 1,
+            "Enemies_SpellSaveDC_LevelIncrement": 8,
+            "Enemies_SpellSaveDC_StaticBoost": 1
+        }
+    },
+    "level_scaling": {
+        "level_scaling_settings": {
+            "Bosses_Act1_MaxLevel": 20,
+            "Bosses_Act1_Offset": 0,
+            "Bosses_Act2_MaxLevel": 20,
+            "Bosses_Act2_Offset": 0,
+            "Bosses_Act3_MaxLevel": 20,
+            "Bosses_Act3_Offset": 0,
+            "Characters_Act1_MaxLevel": 20,
+            "Characters_Act1_Offset": 0,
+            "Characters_Act2_MaxLevel": 20,
+            "Characters_Act2_Offset": 0,
+            "Characters_Act3_MaxLevel": 20,
+            "Characters_Act3_Offset": 0,
+            "Use_Level_Scaling": false
+        }
+    },
+    "passives": {
+        "barbarian": {
+            "CX_Barbarian_Boost_Act1_ExtraPassives": [],
+            "CX_Barbarian_Boost_Act1_Spells": [
+                "Throw_FrenziedThrow",
+                "Target_FrenziedStrike",
+                "Target_RecklessAttack"
+            ],
+            "CX_Barbarian_Boost_Act2_ExtraPassives": [
+                "MindlessRage",
+                "FeralInstinct"
+            ],
+            "CX_Barbarian_Boost_Act2_Spells": [],
+            "CX_Barbarian_Boost_Act3_ExtraPassives": [
+                "BrutalCritical",
+                "RelentlessRage"
+            ],
+            "CX_Barbarian_Boost_Act3_Spells": []
+        },
+        "cleric": {
+            "CX_Cleric_Boost_Act1_ExtraPassives": [],
+            "CX_Cleric_Boost_Act1_Spells": [
+                "Projectile_GuidingBolt",
+                "Target_InflictWounds",
+                "Target_HealingWord",
+                "Shout_HealingWord_Mass"
+            ],
+            "CX_Cleric_Boost_Act2_ExtraPassives": [
+                "PotentSpellcasting"
+            ],
+            "CX_Cleric_Boost_Act2_Spells": [
+                "Shout_SpiritGuardians"
+            ],
+            "CX_Cleric_Boost_Act3_ExtraPassives": [],
+            "CX_Cleric_Boost_Act3_Spells": [
+                "Target_FlameStrike",
+                "Target_Contagion"
+            ]
+        },
+        "fighter": {
+            "CX_Fighter_Boost_Act1_ExtraPassives": [
+                "Riposte",
+                "FightingStyle_GreatWeaponFighting",
+                "FightingStyle_TwoWeaponFighting",
+                "FightingStyle_Protection",
+                "FightingStyle_Dueling"
+            ],
+            "CX_Fighter_Boost_Act1_Spells": [
+                "Target_DistractingStrike",
+                "Target_PushingAttack",
+                "Target_FeintingAttack"
+            ],
+            "CX_Fighter_Boost_Act2_ExtraPassives": [],
+            "CX_Fighter_Boost_Act2_Spells": [],
+            "CX_Fighter_Boost_Act3_ExtraPassives": [
+                "Indomitable",
+                "ImprovedCombatSuperiority"
+            ],
+            "CX_Fighter_Boost_Act3_Spells": [
+                "Zone_SweepingAttack"
+            ]
+        },
+        "monk": {
+            "CX_Monk_Boost_Act1_ExtraPassives": [],
+            "CX_Monk_Boost_Act1_Spells": [],
+            "CX_Monk_Boost_Act2_ExtraPassives": [],
+            "CX_Monk_Boost_Act2_Spells": [],
+            "CX_Monk_Boost_Act3_ExtraPassives": [],
+            "CX_Monk_Boost_Act3_Spells": [
+                "Target_WaterWhip",
+                "Projectile_FangsOfTheFireSnake",
+                "Zone_Thunderwave_Monk",
+                "Target_FistOfUnbrokenAir"
+            ]
+        },
+        "paladin": {
+            "CX_Paladin_Boost_Act1_ExtraPassives": [
+                "FightingStyle_GreatWeaponFighting",
+                "FightingStyle_TwoWeaponFighting",
+                "FightingStyle_Protection",
+                "FightingStyle_Dueling"
+            ],
+            "CX_Paladin_Boost_Act1_Spells": [
+                "Target_Smite_Thunderous",
+                "Target_Smite_Wrathful",
+                "Target_Smite_Searing",
+                "Target_Smite_Divine"
+            ],
+            "CX_Paladin_Boost_Act2_ExtraPassives": [],
+            "CX_Paladin_Boost_Act2_Spells": [],
+            "CX_Paladin_Boost_Act3_ExtraPassives": [
+                "ImprovedDivineSmite"
+            ],
+            "CX_Paladin_Boost_Act3_Spells": [
+                "Target_Smite_Blinding"
+            ]
+        },
+        "ranger": {
+            "CX_Ranger_Boost_Act1_ExtraPassives": [
+                "FightingStyle_Archery"
+            ],
+            "CX_Ranger_Boost_Act1_Spells": [
+                "Target_HuntersMark",
+                "Projectile_HailOfThorns"
+            ],
+            "CX_Ranger_Boost_Act2_ExtraPassives": [
+                "MultiattackDefense"
+            ],
+            "CX_Ranger_Boost_Act2_Spells": [
+                "Target_MistyStep"
+            ],
+            "CX_Ranger_Boost_Act3_ExtraPassives": [],
+            "CX_Ranger_Boost_Act3_Spells": [
+                "Shout_HideInPlainSight",
+                "Target_Volley",
+                "Shout_Whirlwind"
+            ]
+        },
+        "rogue": {
+            "CX_Rogue_Boost_Act1_ExtraPassives": [
+                "UncannyDodge"
+            ],
+            "CX_Rogue_Boost_Act1_Spells": [
+                "Projectile_SneakAttack",
+                "Target_SneakAttack"
+            ],
+            "CX_Rogue_Boost_Act2_ExtraPassives": [
+                "Evasion"
+            ],
+            "CX_Rogue_Boost_Act2_Spells": [],
+            "CX_Rogue_Boost_Act3_ExtraPassives": [
+                "ReliableTalent"
+            ],
+            "CX_Rogue_Boost_Act3_Spells": []
+        }
+    },
+    "spells": {
+        "spells_l1": {
+            "CX_Spells_L1": [
+                "Projectile_IceKnife",
+                "Projectile_MagicMissile",
+                "Projectile_RayOfSickness",
+                "Zone_Thunderwave",
+                "Projectile_ChromaticOrb"
+            ],
+            "CX_Spells_L1_ExtraSpellSlots": 1
+        },
+        "spells_l1c": {
+            "CX_Spells_L1C": [
+                "Target_FogCloud",
+                "Target_Grease"
+            ]
+        },
+        "spells_l2": {
+            "CX_Spells_L2": [
+                "Projectile_AcidArrow",
+                "Projectile_ScorchingRay",
+                "Target_CloudOfDaggers",
+                "Zone_GustOfWind",
+                "Target_Shatter",
+                "Target_MistyStep"
+            ],
+            "CX_Spells_L2_ExtraSpellSlots": 1
+        },
+        "spells_l2c": {
+            "CX_Spells_L2C": [
+                "Target_HoldPerson",
+                "Target_Silence"
+            ]
+        },
+        "spells_l3": {
+            "CX_Spells_L3": [
+                "Projectile_Fireball",
+                "Target_CallLightning",
+                "Zone_LightningBolt"
+            ],
+            "CX_Spells_L3_ExtraSpellSlots": 1
+        },
+        "spells_l3c": {
+            "CX_Spells_L3C": [
+                "Target_HypnoticPattern",
+                "Zone_Fear"
+            ]
+        },
+        "spells_l4": {
+            "CX_Spells_L4": [
+                "Target_Blight",
+                "Target_IceStorm"
+            ],
+            "CX_Spells_L4_ExtraSpellSlots": 1
+        },
+        "spells_l4c": {
+            "CX_Spells_L4C": [
+                "Target_Banishment"
+            ]
+        },
+        "spells_l5": {
+            "CX_Spells_L5": [
+                "Target_Cloudkill",
+                "Zone_ConeOfCold"
+            ],
+            "CX_Spells_L5_ExtraSpellSlots": 1
+        },
+        "spells_l5c": {
+            "CX_Spells_L5C": [
+                "Throw_Telekinesis",
+                "Target_DominatePerson"
+            ]
+        },
+        "spells_l6": {
+            "CX_Spells_L6": [
+                "Projectile_Disintegrate",
+                "Target_CircleOfDeath",
+                "Projectile_ChainLightning",
+                "Zone_Sunbeam"
+            ],
+            "CX_Spells_L6_ExtraSpellSlots": 1
+        },
+        "spells_l6c": {
+            "CX_Spells_L6C": [
+                "Target_FleshToStone"
+            ]
+        }
+    }
+}

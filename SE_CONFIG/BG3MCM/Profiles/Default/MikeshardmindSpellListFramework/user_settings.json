@@ -1,0 +1,8 @@
+{
+    "active_user_rules": [
+        "examples.BladeCantrips"
+    ],
+    "user_rule_namespaces": [
+        "examples"
+    ]
+}

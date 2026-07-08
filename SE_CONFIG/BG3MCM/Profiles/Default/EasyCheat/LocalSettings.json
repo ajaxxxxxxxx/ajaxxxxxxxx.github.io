@@ -1,0 +1,28 @@
+{
+    "OpenCloseSidekick": {
+        "Callback": "function: 0000017826706080",
+        "Identifier": "8922e9aa-5e40-4042-8bd2-f2db01d75843",
+        "Modifiers": [
+            "NONE"
+        ],
+        "ScanCode": "R"
+    },
+    "SettingsAutoResize": true,
+    "SidekickAutoResize": true,
+    "ToggleImmortality": {
+        "Callback": "function: 00007FF3FE754100",
+        "Identifier": "6024bb1e-152f-45a3-a842-fd807a7e5cd9",
+        "Modifiers": [
+            "NONE"
+        ],
+        "ScanCode": "NONE"
+    },
+    "ToggleQuickTeleport": {
+        "Callback": "function: 00007FF3FE8C0F00",
+        "Identifier": "34468026-0258-4c47-a53e-9070d99366b5",
+        "Modifiers": [
+            "NONE"
+        ],
+        "ScanCode": "NONE"
+    }
+}

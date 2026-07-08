@@ -1,0 +1,17 @@
+{
+    "general": {
+        "debug": {
+            "debug_level": 0
+        },
+        "performance": {
+            "enable_cache": false
+        },
+        "slots": {
+            "patch_slot_beard": true,
+            "patch_slot_hair": true,
+            "patch_slot_head": true,
+            "patch_slot_horns": true,
+            "patch_slot_tail": true
+        }
+    }
+}

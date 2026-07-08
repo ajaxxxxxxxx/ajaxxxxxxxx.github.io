@@ -1,0 +1,125 @@
+{
+    "Regions": {
+        "BGO": {
+            "Entries": [
+                {
+                    "SpawnTemplate": "6SmallDrunkKobold",
+                    "Weight": 15
+                }
+            ]
+        },
+        "CRE": {
+            "Entries": [
+                {
+                    "SpawnTemplate": "RangerDrunkWildMagic",
+                    "Weight": 20
+                }
+            ]
+        },
+        "HOH": {
+            "Entries": [
+                {
+                    "SpawnTemplate": "3Imps",
+                    "Weight": 100
+                }
+            ]
+        },
+        "SCL": {
+            "Entries": [
+                {
+                    "SpawnTemplate": "SCL_KoboldEncounter",
+                    "Weight": 100
+                }
+            ]
+        },
+        "WLD": {
+            "Entries": [
+                {
+                    "TemplateID": "45e31b7d-32ec-4f3d-8067-79061aeec77b",
+                    "Weight": 25
+                }
+            ]
+        },
+        "WLD_Hag": {
+            "Entries": [
+                {
+                    "SpawnTemplate": "DrunkRedcap",
+                    "Weight": 30
+                },
+                {
+                    "Statuses": [
+                        "DRUNK",
+                        "HASTE"
+                    ],
+                    "TemplateID": "08f651c6-d6ca-44c9-bae0-eb0318c4ca6b",
+                    "Weight": 25
+                }
+            ]
+        }
+    },
+    "SpawnTemplatesDefs": {
+        "3Imps": {
+            "Quantity": {
+                "fixed": 3
+            },
+            "Statuses": [
+                "DRUNK"
+            ],
+            "TemplateID": "feb1d610-4644-4dd0-8432-6e6a7be130d5"
+        },
+        "6SmallDrunkKobold": {
+            "Quantity": {
+                "fixed": 6
+            },
+            "Statuses": [
+                "DRUNK",
+                "REDUCE"
+            ],
+            "TemplateID": "45e31b7d-32ec-4f3d-8067-79061aeec77b"
+        },
+        "DrunkKobold": {
+            "Statuses": [
+                "DRUNK"
+            ],
+            "TemplateID": "45e31b7d-32ec-4f3d-8067-79061aeec77b"
+        },
+        "DrunkRedcap": {
+            "Statuses": [
+                "DRUNK"
+            ],
+            "TemplateID": "c27dd409-9c26-458b-a845-03a8de78e330"
+        },
+        "DualMeleeInvisible": {
+            "Quantity": {
+                "fixed": 2
+            },
+            "Statuses": [
+                "INVISIBLE"
+            ],
+            "TemplateID": "dfdcfbaa-ed9b-48ba-8302-927c5f5af12d"
+        },
+        "RangerDrunkWildMagic": {
+            "Statuses": [
+                "DRUNK",
+                "WILD_MAGIC"
+            ],
+            "TemplateID": "1ad1fdb1-ea7f-492d-a72a-e282d9965b47"
+        },
+        "SCL_KoboldEncounter": {
+            "Members": [
+                {
+                    "SpawnTemplate": "TwoNormalKobolds"
+                },
+                {
+                    "SpawnTemplate": "DrunkKobold"
+                }
+            ]
+        },
+        "TwoNormalKobolds": {
+            "Quantity": {
+                "fixed": 2
+            },
+            "TemplateID": "45e31b7d-32ec-4f3d-8067-79061aeec77b"
+        }
+    }
+}

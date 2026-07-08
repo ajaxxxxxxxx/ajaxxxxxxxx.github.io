@@ -1,0 +1,12 @@
+{
+    "AmbientAI_Main": {
+        "AmbientAI_Config": {
+            "AmbientAI_AnimFreq": 0.2,
+            "AmbientAI_Debug": false,
+            "AmbientAI_FlavorCooldown": 20000,
+            "AmbientAI_LootMode": 1,
+            "AmbientAI_ReadingXP": false,
+            "AmbientAI_SearchRadius": 30.0
+        }
+    }
+}

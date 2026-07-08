@@ -1,0 +1,16 @@
+{
+    "debug": {
+        "debug_level": 0
+    },
+    "features": {
+        "GENERAL_SETTINGS": {
+            "RARITY": 1,
+            "READ_BOOK_PREFIX": "x ",
+            "READ_BOOK_SUFFIX": " [already read]",
+            "UPDATE_RARITY": false
+        }
+    },
+    "general": {
+        "MOD_ENABLED": true
+    }
+}

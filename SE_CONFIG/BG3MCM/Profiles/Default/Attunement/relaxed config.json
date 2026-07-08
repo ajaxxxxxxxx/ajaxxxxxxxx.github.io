@@ -1,0 +1,4624 @@
+{
+	"items" : 
+	{
+		"attunementRarityThreshold" : "Legendary",
+		"rarityOverrides" : 
+		{
+			"ARA_Cloak_Legendary_PaleWidow" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"ARA_Cloak_Paladin1_2" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ARA_Cloak_Uncommon_Barbarian_1" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"ARA_Cloak_Uncommon_Bard_1" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"ARA_Cloak_Uncommon_Ranger_1" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ARA_Cloak_Uncommon_Warlock_1" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ARMBEALUS_AND_HRINGS" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ARM_Artificer_Alchemist" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ARM_Artificer_Artillerist" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ARM_Artificer_BattleSmith" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ARM_Bububull_Cape_of_the_Archfey" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"ARM_Bububull_Cape_of_the_Archfey_ALT" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"ARM_DIABLO_BHAALCHOSEN_BOOTS" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"ARM_DIABLO_BHAALCHOSEN_GLOVES" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"ARM_DIABLO_BHAALCHOSEN_MASK" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"ARM_DIABLO_MATRON" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"ARM_DIABLO_MATRON_BOOTS" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"ARM_DIABLO_MATRON_GLOVES" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"ARM_DIABLO_MATRON_MASK" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ARM_DIABLO_OAKGUARDIAN" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"ARM_DIABLO_OAKGUARDIAN_BOOTS" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"ARM_DIABLO_OAKGUARDIAN_GLOVES" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"ARM_DIABLO_OAKGUARDIAN_HELMET" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "VeryRare"
+			},
+			"ARM_DrunkGoblinRing" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"ARM_HeadbandOfIntellect" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"ARM_Instrument_Mistcaller_Legendary" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"ARM_MYCELLIA_BASKET" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "VeryRare"
+			},
+			"ARM_Mesmerist_VeryRareMail" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"ARM_Minotaur_ARMOR" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"ARM_Minotaur_BOOTS" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"ARM_Minotaur_GLOVES" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"ARM_Minotaur_HELMET" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Legendary"
+			},
+			"ARM_Mycellia_Body" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Common"
+			},
+			"ARM_Mystic_AvatarChest_Body" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"ARM_Mystic_ImmortalChest_Body" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"ARM_Mystic_PotentPsionics_Ring" : 
+			{
+				"New" : "Legendary",
+				"Original" : "Uncommon"
+			},
+			"ARM_Mystic_SoulKnifeChest_Body" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"ARM_Plate_Body_1" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"ARM_Plate_Body_2" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"ARM_Ring_E_Gold_A_Hateboss" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"ARM_Seasons_Boots" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "VeryRare"
+			},
+			"ARM_Shield" : 
+			{
+				"New" : "Common",
+				"Original" : "Common"
+			},
+			"ARM_Shield_1" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"ARM_TEM_Cloak" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"ARM_TEM_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"ARM_UrsaNoctua_Body" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ARM_UrsaNoctua_gloves" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ARM_diablo4_beautyIsSin" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"ARM_diablo4_beautyIsSin_BOOTS" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"ARM_diablo4_beautyIsSin_GLOVES" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"BALDURSTOCKS_GOOD_JOKES_NEVER_DIE" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"BB_LoyalSpiritWhistle" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"BB_PreciseStrike" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"BEDIZENED_HALS" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"BSM_BS_TheBerserkerPact" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"BSM_BS_TheOniSkin" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"BSM_BS_TheUnstopableWrath" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"CC_Sorcerer_Equipment_Boots_of_Arcane_Haste" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"CC_Sorcerer_Equipment_Cape_of_the_Fluctuating_Ward" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CC_Sorcerer_Equipment_Gloves_of_Sorcerous_Might" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"CC_Sorcerer_Equipment_Mantle_of_the_Spell_Current" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CC_Sorcerer_Equipment_Pendant_of_Arcane_Augmentation" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"CC_Sorcerer_Equipment_Pouch_of_Sorcerous_Sand" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CC_Sorcerer_Equipment_Ring_of_Subtle_Sorcery" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CC_Sorcerer_Equipment_Shoes_of_the_Spatial_Swap" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"CL_ARM_REQ_DarkUrge_Bhaal_Amulet" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CL_ARM_REQ_DarkUrge_Bhaal_Ring" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CL_WPN_MAG_Bright_Club" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Dagger" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Dart" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Flail" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Glaive" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Greataxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Greatclub" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Greatsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Halberd" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_HandCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Handaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_HeavyCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Javelin" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_LightCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_LightHammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Longbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Longsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Mace" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Maul" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Morningstar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Pike" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Quarterstaff" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Rapier" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Scimitar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Shortbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Shortsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Sickle" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Sling" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Spear" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_WarPick" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Bright_Warhammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Battleaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Club" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Dagger" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Dart" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Flail" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Glaive" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Greataxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Greatclub" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Greatsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Halberd" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_HandCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Handaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_HeavyCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Javelin" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_LightCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_LightHammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Longbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Longsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Mace" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Maul" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Morningstar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Pike" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Quarterstaff" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Rapier" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Scimitar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Shortbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Shortsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Sickle" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Sling" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Spear" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Trident" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_WarPick" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Caustic_Warhammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Battleaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Club" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Dagger" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Dart" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Flail" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Glaive" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Greataxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Greatclub" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Greatsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Halberd" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_HandCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Handaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_HeavyCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Javelin" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_LightCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_LightHammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Longbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Longsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Mace" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Maul" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Morningstar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Pike" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Quarterstaff" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Rapier" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Scimitar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Shortbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Shortsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Sickle" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Sling" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Spear" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Trident" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_WarPick" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Cauterising_Warhammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Battleaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Club" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Dagger" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Dart" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Flail" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Glaive" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Greataxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Greatclub" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Greatsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Halberd" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_HandCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Handaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_HeavyCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Javelin" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_LightCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_LightHammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Longbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Longsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Mace" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Maul" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Morningstar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Pike" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Quarterstaff" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Rapier" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Scimitar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Shortbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Shortsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Sickle" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Sling" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Spear" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Trident" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_WarPick" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Charged_Warhammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Battleaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Club" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Dagger" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Dart" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Flail" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Glaive" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Greataxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Greatclub" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Greatsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Halberd" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_HandCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Handaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_HeavyCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Javelin" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_LightCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_LightHammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Longbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Longsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Mace" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Maul" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Morningstar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Pike" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Quarterstaff" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Rapier" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Scimitar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Shortbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Shortsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Sickle" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Sling" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Spear" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Trident" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_WarPick" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Chilled_Warhammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Battleaxe" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Dagger" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Dart" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Flail" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Glaive" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Greataxe" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Greatclub" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Greatsword" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Halberd" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Handaxe" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Javelin" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_LightHammer" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Longbow" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Longsword" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Mace" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Maul" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Morningstar" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Pike" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Quarterstaff" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Rapier" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Scimitar" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Shortbow" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Shortsword" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Sickle" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Sling" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Spear" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Trident" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_WarPick" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_HillGiant_Warhammer" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Salami_Soggy" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Battleaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Club" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Dagger" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Dart" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Flail" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Glaive" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Greataxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Greatclub" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Greatsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Halberd" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_HandCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Handaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_HeavyCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Javelin" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_LightCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_LightHammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Longbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Longsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Mace" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Maul" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Morningstar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Pike" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Quarterstaff" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Rapier" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Scimitar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Shortbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Shortsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Sickle" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Sling" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Spear" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Trident" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_WarPick" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Sentinel_1_Warhammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Battleaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Dagger" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Dart" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Flail" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Glaive" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Greataxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Greatclub" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Greatsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Halberd" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_HandCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Handaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_HeavyCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Javelin" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_LightCrossbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_LightHammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Longbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Longsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Mace" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Maul" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Morningstar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Pike" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Quarterstaff" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Rapier" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Scimitar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Shortbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Shortsword" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Sickle" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Sling" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Spear" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Trident" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CL_WPN_MAG_Toxic_Warhammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"COF_CRIT_IMMUNE" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"COF_ELE_DMG_TUT" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"COF_PERS" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"COF_REAC_TAKE_DMG" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"COF_REEL" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"COF_REGEN_HALF" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"COF_SAVT" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CRE_Hatchery_AcidPoisonImmunity_Boots" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"CSS_LATHANDER_MonkNklc_New" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"CSS_Lathander_BootsPlateB" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"CSS_Lathander_Circ_Band_A" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"CSS_Lathander_Glove_SunPlate" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"CSS_Lathander_Ring_RoseWheel" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"CSS_Lathander_Ring_SkyCompass" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"CSS_Lathander_SunSperm_Cape" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"CSS_Lathander_WPN_DawnDrum" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"CSS_Lathander_WPN_SunLyre" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"CSS_Shield_LathanderCircle_Enamel" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CSS_Shield_LathanderCircle_NewPlayer" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"CSS_WPN_LATHANDER_GRDOFATH_A" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"CUST_Armor_Devastating_Spells" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"CUST_Armor_High_Spellcasting" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"CUST_Boots_Heavy" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"CUST_Cloak_Hitpoints" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CUST_Cloak_Vampiric" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"CUST_Gloves_Necrotic_And_Poison" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"CUST_Halberd_ExtraAttack" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CUST_Hat_Critical" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CUST_Hat_Smites" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"CUST_Rapier_EvilAndGood" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CUST_Ring_MageAndWarrior" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"CUST_Ring_Necrotic_Vulnerable" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"CUST_Ring_Weapon_Master" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CUST_Shield_No_Surprise" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"CUST_Shortsword_Critical" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CUST_Shortsword_Flaming" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CUST_Spear_CloudOfDaggers" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CUST_Trident_Sneaky" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"CUST_Weapon_Powerful_Cantrips" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"ClericEquipmentAct1_Celestial_Tears" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ClericEquipmentAct1_Gloves_of_Renewed_Fortune" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"ClericEquipmentAct1_Grove_Protectors_Mantle" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"ClericEquipmentAct2_Ring_of_the_Twilight_Cleric" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"ClericEquipmentAct2_Shield_of_the_Azure_Star" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"ClericEquipmentAct3_Boots_of_the_Blessed_Step" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"ClericEquipmentAct3_Cape_of_the_Devout" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"ClericEquipmentAct3_Holy_Symbol_of_Shared_Fortitude" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"ClericEquipmentAct3_Staff_of_Healing" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"DEN_FaithwardenStaff_Bossstaff" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"DLC_DD_Lohses_Lute" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"DWE_EK_ReclaimPotential_Ring" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"DWE_EK_ShadowMartyr_Ring" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"DeGreaser_Cloak_of_Supreme_Defenses" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"DeGreaser_Devilstring_Bow" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"DeGreaser_Gloves_of_Gecko_Grip" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"DeGreaser_Mantle_of_Ajax" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Legendary"
+			},
+			"DeGreaser_Moghadam" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"DeGreaser_Necrotic_Conduit" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"DeGreaser_Radiant_Conduit" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"DeGreaser_Shield_of_Spell_Reflection" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"DeGreaser_Yaccocmuuds_Yang" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"DruidEquipmentAct1_Thornlash_Gauntlets" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"DruidEquipmentAct2_Blightwood_Embrace" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"DruidEquipmentAct2_Briarwood_Cuirass" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"DruidEquipmentAct2_Moon_Sickle" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"DruidEquipmentAct2_Tangledroot_Treads" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"DruidEquipmentAct2_Wildwood_Gauntlets" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"DruidEquipmentAct3_Mantle_of_the_Whispering_Winds" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"END_Emperor_Staff" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"EO_AcidDamageOnWeaponAttack_Ring" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"EO_ArmorOfShadows" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"EO_BlightBringer_Shortbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"EO_Infernal_Hellbeard_Halberd" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"EO_Marksmanship_Hat" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"EO_MassHealRing" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"EO_Monk_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"EO_Monk_Magic_Boots" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"EO_Slicing_Shortsword" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"EO_SpellSlotRestoration_Amulet" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"EO_Tiara_Dominator" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"EO_Tidecaller_Ring" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"Eladrin_Bow" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"Endgame_caster_Cloak" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"Endgame_caster_Robe" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"FOR_WebStaff" : 
+			{
+				"New" : "Legendary",
+				"Original" : "Uncommon"
+			},
+			"GARISH_GEWDIAN" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"GOB_Torturer_Spear" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"GT_Necro_halberd" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"GT_Necrotic_Metal_Gloves" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"GW_WPN_GenieScimitarOfSpeed_Marid" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"GotA_Equipment_Absolutes_Dominion" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"GotA_Equipment_Absolutes_Scourge" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"GotA_Equipment_Absolutes_Touch" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"GotA_Equipment_Absolutes_Trickery" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"GotA_Equipment_The_Absolutes_Embrace" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"GotA_Equipment_The_Absolutes_Gaze" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"JWL_ARM_Instrument_Test" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"JWL_DiscordantInstruments_BagHolding" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"JWL_DiscordantInstruments_BannerGoblin" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"JWL_DiscordantInstruments_BeltDwarven" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"JWL_DiscordantInstruments_BeltForbiddenHarmony" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"JWL_DiscordantInstruments_BeltFrostGiant" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_BeltRaidLeader" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_BlackCrystalTablet" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"JWL_DiscordantInstruments_BloodwellGoblin" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"JWL_DiscordantInstruments_BloodwellSorcerous" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_BookCelestialHealing" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"JWL_DiscordantInstruments_ComfyBackpack" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"JWL_DiscordantInstruments_Crowbar" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"JWL_DiscordantInstruments_CuriousCoin" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"JWL_DiscordantInstruments_CuriousCoin_Illusion" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"JWL_DiscordantInstruments_FaerunMap" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"JWL_DiscordantInstruments_FlyingCarpet" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_HandyHaversack" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_HolyCandle" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"JWL_DiscordantInstruments_IounBlue" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_IounGreen" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_IounPurple" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_IounRed" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_LuckyDice" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_Mimir" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_MourningsteelCoin" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"JWL_DiscordantInstruments_QuiverBrambleheart" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"JWL_DiscordantInstruments_QuiverChaos" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_QuiverEfficient" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"JWL_DiscordantInstruments_SerpentsPin" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_ShieldingBrooch" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"JWL_DiscordantInstruments_StoneGoodLuck" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_SymbolCorellon" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"JWL_DiscordantInstruments_SymbolEllistrae" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_SymbolIlmater" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"JWL_DiscordantInstruments_SymbolKelemvor" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"JWL_DiscordantInstruments_SymbolLolth" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"JWL_DiscordantInstruments_SymbolMeilikki" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_SymbolSylvanus" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"JWL_DiscordantInstruments_TotemDread" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"JWL_DiscordantInstruments_WatchBadge" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"JWL_DiscordantInstruments_Whetstone" : 
+			{
+				"New" : "Common",
+				"Original" : "Rare"
+			},
+			"JWL_DiscordantInstruments_WhistleWitch" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"JWL_DiscordantInstruments_WorghideWeaponStrap" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"LOW_Elfsong_EmperorSword_LongSword" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"LOW_OfWindrider_Amulet" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"LOW_OskarsBeloved_TorchOfRevocation" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "VeryRare"
+			},
+			"LOW_PendulumOfMalagard" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Legendary"
+			},
+			"MAG_Acid_AcidMeleeCounter_Cloak" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Acid_NoxiousFumes_Gloves" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Acrobat_Shoes" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_BBB_ScarLetterReforged" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"MAG_BG_Harmonium_Halberd" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_BG_Nimblefinger_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_BG_OfDevotion_Shield" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_BG_OfEasthaven_Defender_Flail" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Banites_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_BarbMonk_Defensive_Cloth" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_BarbMonk_Offensive_Cloth" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Barbarian_BoneSpike_Helmet" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_Barbarian_Magic_Armor_1" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_BasicEnchanted_Quarterstaff" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Bhaalist_Gloves" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_Bhaalist_Hat" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_Bhaalist_Paralyzing_Dagger" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_BloodwellVial2_Amulet" : 
+			{
+				"New" : "Legendary",
+				"Original" : "Rare"
+			},
+			"MAG_Bonded_Baneful_Shortsword" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_Bonded_Shield" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_BonusAttack_AgainstMarked_Circlet" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_CQCaster_ArcaneChargeAfterDash_Boots" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_CQCaster_GainArcaneChargeOnDamage_Quarterstaff" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_ChargedLightning_AbilityCheckBoost_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_ChargedLightning_Resistance_Ring" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_CharismaCaster_Robe" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MAG_Cleric_Devotees_Mace" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"MAG_Colossal_Greatsword_ABW" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MAG_Corrosive_Flail" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_Critical_ArcanicCritical_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Critical_CriticalSwiftness_Boots" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_Critical_HidingCritical_Cloak" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_DarkJusticiar_HalfPlate" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_DeadShot_Longbow" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MAG_DevilsBlackmith_Boots" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_DevilsBlackmith_ScaleMail" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Drowelf_SpiderSnare_Longsword" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_Druid_Magic_StuddedLeather_Armor" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_Duergar_Sword_KingsKnife" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MAG_EndGame_HalfPlate" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MAG_EndGame_Plate_Armor" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MAG_EvilEssenceShard_Ring" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_FarRealmShard_Ring" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Finesse_Glaive" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_FireEssenceShard_Ring" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Fire_RyujinJakka" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_Force_Pike" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Frost_GenerateFrostOnDamage_Robe" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Frost_GenerateFrostOnStatusApply_Hat" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Gish_PsychicDamageBonusWhileConcentrating_Ring" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Githborn_MageHandSupport_Gloves" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_Githborn_PsionicMovement_Boots" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_GoodEssenceShard_Ring" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Gortash_Boots" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_HAV_Sylvan_Scimitar" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Healer_DisengageOnHeal_ChainShirt" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Healer_HealSelf_Helmet" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Heat_Fire_Robe" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_HigherNecromancy_Staff" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Hunting_Shortbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Illithid_CharmPerson_Ring" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_Infernal_Mace" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_JusticiarArmor_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Ketheric_Shield" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Kithraki_Cloak" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MAG_Kuotoa_Lightning_Spear" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_LC_BurnOnDamage_Scimitar" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_LC_ChainDevil_Flail" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_LC_DrowSpider_Gloves" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_LC_Fleshrend_Shortsword" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_LC_Frigid_Trident" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_LC_Jannath_Hat" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_LC_Umberlee_Cold_Sickle" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_LC_Umberlee_Protection_Cape" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_LC_UndeadSlayer_Crossbow" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_LC_Wave_Trident" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_Lesser_Infernal_Metal_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_LowHP_IncreasedSpellDamage_Amulet" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Mesmerist_Mindwalkers" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_Mesmerist_Ring_Adamant" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Mesmerist_Ring_Valiant" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Mesmerist_WatcherDiadem" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Mobility_ExplosionOnJump_Maul" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Mobility_MomentumOnCombatStart_Helmet" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_Monk_Cold_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Monk_Lightning_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Monk_Magic_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Monk_Thunder_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Moonlight_Glaive" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_OB_Paladin_DeathKnight_Boots" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_OB_Paladin_DeathKnight_Longsword" : 
+			{
+				"New" : "Legendary",
+				"Original" : "Rare"
+			},
+			"MAG_OfBlink_Ring" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_OfGreaterSorcery_Amulet" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_OfRupture_Rapier" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"MAG_OfSpellResistance_Robe" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_OfTheShapeshifter_Mask" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"MAG_OpenHand_Radiant_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Orpheus_Ring" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_PHB_ElvenChain_Armor" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_PHB_PeriaptofWoundClosure_Amulet" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_PHB_Sentinel_Shield" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Paladin_SmiteSpellsSupport_Helmet" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_ParalyzingRay_Ring" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_PendantOfLesserFey" : 
+			{
+				"New" : "Rare",
+				"Original" : "Legendary"
+			},
+			"MAG_Primeval_Silver_Longsword_Headless" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MAG_Psychic_MentalFatigue_Gloves" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Radiant_CrusaderMantle_Cloak" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_Radiant_RadiatingOrb_Armor" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Raven_Gloves" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MAG_Restoration_SpellSlotRestoration_Amulet" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_SWA_Roaring_Maul" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Selunite_Cloak" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MAG_Sharran_Cloak" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MAG_SpectatorEye_Amulet" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_Spellbreaker_Battleaxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_StaffForceBurn" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_TWN_Taxblade_Morningstar" : 
+			{
+				"New" : "Common",
+				"Original" : "Rare"
+			},
+			"MAG_Taras_Collar_Amulet" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_Thunder_ReverberationOnRangeSpellDamage_Amulet" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Thunder_Reverberation_Gloves" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Tyrrant_Warhammer" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_Vampiric_Gloves" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_Violence_ViolenceOnDash_Boots" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_WYRM_Commander_Longsword" : 
+			{
+				"New" : "Legendary",
+				"Original" : "Rare"
+			},
+			"MAG_WYRM_Farlin_Dagger" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_WYRM_UndeadBane_GreatAxe" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_WYRM_UndeadProtector_Robe" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MAG_WYR_Hellrider_Longbow" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_WaterEssenceShard_Ring" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MAG_ZOC_ForceConduitWhileSurounded_Boots" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MAG_ZOC_ForceConduit_Halberd" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"MAG_Zhentarim_BloodfeederBlade_Rapier" : 
+			{
+				"New" : "Legendary",
+				"Original" : "Uncommon"
+			},
+			"MAG_Zhentarim_SleeperDagger" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MM_Fighter_Equipment_Cloak_of_the_Last_Stand" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MM_Fighter_Equipment_Gauntlets_of_the_Battle_Fury" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MM_Fighter_Equipment_Golden_Cloak_of_Resilience" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MM_Fighter_Equipment_Helm_of_the_Fearless" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MM_Fighter_Equipment_Pendant_of_Shielding" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MM_Fighter_Equipment_Ring_of_Deflection" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MM_Fighter_Equipment_Ring_of_Razors_Edge" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"MM_Fighter_Equipment_Ring_of_the_Bold" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MM_Fighter_Equipment_Ring_of_the_Enduring_Warrior" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"MOD_Erinyes_Bow" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"MOD_ICEPICK_Dagger" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MOD_Icingdeath" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"MOD_IrenicusMace" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"MOD_Matalotok" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"MOD_Meph_Ranseur" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"MOD_Solar_Bow" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"MOD_Twinkle" : 
+			{
+				"New" : "Common",
+				"Original" : "Rare"
+			},
+			"MOD_ZOC_ForceConduit_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MOD_ZOC_ForceConduit_Helmet" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MOD_Zariel_Flail" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"MonkEquipmentA1Staff_Staff_of_the_Unyielding_Tree" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MonkEquipmentAct1_Boots_of_the_Marsh_Strider" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MonkEquipmentAct1_Oxs_Heart" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MonkEquipmentAct1_Ring_of_Corrosive_Touch" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MonkEquipmentAct1_Ring_of_the_Nimble_Monkey" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"MonkEquipmentAct2_Blood_Spear" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"MonkEquipmentAct2_Ring_of_Quickness_of_Action" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MonkEquipmentAct2_Storms_Reach_Mace" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MonkEquipmentAct2_Sunspark_Shortbow" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"MonkEquipmentAct3_Boots_of_the_Charging_Tiger" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"MonkEquipmentAct3_Ring_of_the_Weaving_Hummingbird" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"NAT_Chrai_Armour" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"NAT_Therezzyn_Circlet" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"NAT_Wwargaz_Circlet" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"OBJ_Spjm_FishSuit_Helmet_Template" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"OBJ_Spjm_GythkaHalberd_Wpn_Template" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"OBJ_Tool_Artificer_Hammer_Craft" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"OO_Paladin_Equipment_Breastplate_of_Celestial_Judgement" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"OO_Paladin_Equipment_Breastplate_of_the_Monster_Slayer" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"OO_Paladin_Equipment_Breastplate_of_the_Radiant_Defender" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"OO_Paladin_Equipment_Greaves_of_Searing_Light" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"OO_Paladin_Equipment_Helm_of_the_Vigilant_Watchman" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"OO_Paladin_Equipment_Helmet_of_the_Fiend_Hunter" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"OO_Paladin_Equipment_Orb_of_Celestial_Wrath" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"PLA_WPN_SwordOfJustice" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"PP_Warlock_Equipment_Band_of_the_Shifting_Sands" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"PP_Warlock_Equipment_Bloodstone_Ring" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"PP_Warlock_Equipment_Boots_of_the_Devouring_Void" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"PP_Warlock_Equipment_Boots_of_the_Shadowed_Pact" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"PP_Warlock_Equipment_Gauntlets_of_the_Pactkeeper" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"PP_Warlock_Equipment_Gloves_of_Eldritch_Power" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"PP_Warlock_Equipment_Gloves_of_the_Pact_Weaver" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"PP_Warlock_Equipment_Grimoire_of_Whispers" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"PP_Warlock_Equipment_Leechstone_Amulet" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"PP_Warlock_Equipment_Shortbow_of_Hellish_Flames" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"Planetar_Blade" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"Quest_GLO_Moonlantern_Gale" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"REPLICA_Flying_Boots" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"REPLICA_OfGiantHillStrength_Gloves" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"REPLICA_OfUndeadServant_Ring" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"REPLICA_ReadThoughts_Circlet" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"REPLICA_ofGreaterHealth_Amulet" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"RR_Barbarian_Equipment_Boots_Of_Striding_And_Springing" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"RR_Barbarian_Equipment_Breastplate_of_the_Titans_Fortitude" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"RR_Barbarian_Equipment_Cloak_of_the_Storms_Fury" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"RR_Barbarian_Equipment_Ring_of_the_Berserkers_Might" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"RR_Barbarian_Equipment_Ring_of_the_Blood_Frenzy" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"RR_Barbarian_Equipment_Ring_of_the_Relinquished_Rage" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"RR_Barbarian_Equipment_The_Wrathful_Maul" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"RangerEquipmentAIO_Boots_of_the_Swift_Stalker" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"RangerEquipmentAIO_Deadeyes_Breastplate" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"RangerEquipmentAIO_Ring_of_the_Primal_Hunter" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"RangerEquipmentAIO_Stripping_Talons_Charm" : 
+			{
+				"New" : "Legendary",
+				"Original" : "Rare"
+			},
+			"SHA_JusticiarArmor_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"SS_Bard_Equipment_Amulet_of_Thunderous_Voice" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"SS_Bard_Equipment_Boots_of_the_Quickblade" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"SS_Bard_Equipment_Hat_of_the_Sirens_Call" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"SS_Bard_Equipment_Lyre_of_the_Wanderer" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"SS_Bard_Equipment_Ring__Ring_of_the_Master_Performer" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"SS_Bard_Equipment_Vest_of_the_Vaudeville_Veteran" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"SYR_Armor_Absolute_TheWardensArmor" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"SYR_Druid_Headwear_DruidCrown" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"SYR_Footwear_Druid_CreateWater" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"SYR_Footwear_Druid_Shadowboots" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"SYR_Gloves_Druid_ChargedLightning" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"SYR_Ring_Druid_Sanguine" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"SYR_Ring_Druid_SeethingFury" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"SYR_Ring_Druid_Thorns" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"SYR_Robe_Absolute_DiscipleZrellsRobe" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"SYR_Robe_Absolute_DrowNeresRobe" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"SYR_Spear_MoonDruid_Radiant" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"SYR_Spear_MoonDruid_Radiant_Upgraded" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"Sailor_MAG_Steadfast_Maul_VSENC" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"Siael_Illithid_RingConquest" : 
+			{
+				"New" : "Legendary",
+				"Original" : "Rare"
+			},
+			"TENSA_ZANGETSU" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"TWN_BondedByLove_HusbandsRing" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"TWN_BondedByLove_WifesRing" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"TWN_BootsOfApparentDeath" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"Template_MAG_Paitm_DakZerthBlade" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Legendary"
+			},
+			"UND_DuergarRaft_GruesomeHammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"UND_Justiciar_Chainshirt_Magic" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"UND_MyconidAmulet_Evil" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"UND_MyconidAmulet_Good" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"UND_SocietyOfBrilliance_MagicMissileNecklace" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"UND_SocietyOfBrilliance_PullingRing" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"UND_StrengthChair_Leg" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"UND_Tower_StaffBlessMystra" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"UNI_ARM_OfArchery_Gloves" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"UNI_DarkUrge_Bhaal_Cloak" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"UNI_DoomHammer" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"UNI_Druid_Helmet_Circlet" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"UNI_LOW_KiamGodasKilatDrum" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"UNI_SHA_DarkJusticiar_Boots" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"VV_Rogue_Equipment_Amulet_of_the_Mastermind" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"VV_Rogue_Equipment_Bloodletters_Band" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"VV_Rogue_Equipment_Boots_of_the_Living_Shadow" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"VV_Rogue_Equipment_Bracers_of_Flying_Daggers" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"VV_Rogue_Equipment_Cloak_of_the_Vanishing_Mist" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"VV_Rogue_Equipment_Helmet_of_the_Assassins_Eye" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"VV_Rogue_Equipment_Ring_of_the_Steady_Hand" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"VV_Rogue_Equipment_Skeleton_Key" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Legendary"
+			},
+			"VV_Rogue_Equipment_The_Fate_Weavers_Knife" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"VV_Rogue_Equipment_Whispering_Wind_Hand_Crossbow" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"WI_Tablecloth_Cloak" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"WPN_Armorer_Gauntlets_Guardian_Left" : 
+			{
+				"New" : "Common",
+				"Original" : "Rare"
+			},
+			"WPN_Armorer_Gauntlets_Guardian_Right" : 
+			{
+				"New" : "Common",
+				"Original" : "Rare"
+			},
+			"WPN_Armorer_Gauntlets_Infiltrator_Left" : 
+			{
+				"New" : "Common",
+				"Original" : "Rare"
+			},
+			"WPN_Armorer_Gauntlets_Infiltrator_Right" : 
+			{
+				"New" : "Common",
+				"Original" : "Rare"
+			},
+			"WPN_ChaosFang" : 
+			{
+				"New" : "Rare",
+				"Original" : "Common"
+			},
+			"WPN_Dagger_Rusty_PooScraper" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"WPN_HUM_Gortash_Cane" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"WPN_HUM_Greatsword_Sussur_A_Juno_Aza" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_HUM_Rapier_Necro_Aza_Juno" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_Mesmerist_AstralEcho" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"WPN_Mesmerist_Voidpiercer" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_Mystic_EruditeSpear" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"WPN_Mystic_SoulKnife_SoulKnife_Left_Handaxe" : 
+			{
+				"New" : "Common",
+				"Original" : "Rare"
+			},
+			"WPN_Mystic_SoulKnife_SoulKnife_Right" : 
+			{
+				"New" : "Common",
+				"Original" : "Rare"
+			},
+			"WPN_Mystic_SoulKnife_SoulKnife_Right_Scimitar" : 
+			{
+				"New" : "Common",
+				"Original" : "Rare"
+			},
+			"WPN_Mystic_SoulKnife_SoulKnife_Right_Warhammer" : 
+			{
+				"New" : "Common",
+				"Original" : "Rare"
+			},
+			"WPN_Mystic_SoulKnife_UltimateDagger_Right" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"WPN_Mystic_SoulKnife_UltimateHandaxe_Right" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"WPN_Mystic_SoulKnife_UltimateScimitar_Right" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"WPN_Mystic_SoulKnife_UltimateWarhammer_Left" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"WPN_Mystic_Thoughtpiercer" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_Mystic_WanderersBow" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"WPN_Paitm_AnnahDagger_Template" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"WPN_Paitm_BurnishedBlade_Template" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_Paitm_ElectrifiedMancatcher_Template" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"WPN_Paitm_EntropicBlade_Template" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_Paitm_EntropicGreatsword_Template" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_Paitm_EntropicJavelin_Template" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_Paitm_ForceDagger_Template" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_Paitm_HarmoniumBlade_Template" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_Paitm_HavocHammer_Template" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_Paitm_ShiningBlade_Template" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"WPN_Paitm_UnerringBlade_Template" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WPN_ShadowBlade" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"WW_Wizard_Equipment_Band_of_Minor_Arcana" : 
+			{
+				"New" : "Rare",
+				"Original" : "Uncommon"
+			},
+			"WW_Wizard_Equipment_Boots_of_the_Icy_Blink" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"WW_Wizard_Equipment_Cloak_of_the_Reapers_Harvest" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"WW_Wizard_Equipment_Forceweavers_Gauntlets" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Uncommon"
+			},
+			"WW_Wizard_Equipment_Professors_Ring_of_Intellect" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"WW_Wizard_Equipment_Ring_of_the_Stalwart_Scholar" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "Rare"
+			},
+			"WW_Wizard_Equipment_Robe_of_the_Crimson_Conduit" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"WYR_Circus_WetCloak" : 
+			{
+				"New" : "Common",
+				"Original" : "Uncommon"
+			},
+			"WYR_MonkAmulet_Amulet_AfterCombat" : 
+			{
+				"New" : "Uncommon",
+				"Original" : "VeryRare"
+			},
+			"YOS_Darith_Helzar_Unleashed" : 
+			{
+				"New" : "Legendary",
+				"Original" : "VeryRare"
+			},
+			"_ARA_Cloak_Rare_Reeling" : 
+			{
+				"New" : "VeryRare",
+				"Original" : "Rare"
+			},
+			"_ARA_Cloak_Uncommon_Druid_1" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"_ARA_Cloak_Uncommon_Fighter_1" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"_ARA_Cloak_VeryRare_Symbiote" : 
+			{
+				"New" : "Rare",
+				"Original" : "VeryRare"
+			},
+			"mWarlock_OB_PactChalice3" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"mWarlock_OB_PactChalice5" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"mWarlock_OB_PactHourglass3" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"mWarlock_OB_PactHourglass5" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"mWarlock_OB_PactShroud3" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"mWarlock_OB_PactShroud5" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			},
+			"mWarlock_OB_PactString3" : 
+			{
+				"New" : "Common",
+				"Original" : "VeryRare"
+			},
+			"mWarlock_OB_PactString5" : 
+			{
+				"New" : "Common",
+				"Original" : "Legendary"
+			}
+		},
+		"requiresAttunementOverrides" : 
+		{
+			"ARA_Cloak_Cleric1_2" : true,
+			"ARA_Cloak_Rare_Protection" : true,
+			"ARA_Cloak_Uncommon_Barbarian_1" : true,
+			"ARA_Cloak_Uncommon_Warlock_1" : true,
+			"ARA_Cloak_Uncommon_Wizard_1" : true,
+			"ARA_Cloak_VeryRare_BonusAction" : true,
+			"ARA_Cloak_VeryRare_ManyEyes" : true,
+			"ARA_Cloak_VeryRare_NullMagicMantle" : true,
+			"ARM_Amulet_Necklace_B_Gold_A_HatebossSkull" : true,
+			"ARM_DIABLO_OAKGUARDIAN_GLOVES" : false,
+			"ARM_Mesmerist_RareMail" : true,
+			"ARM_Mycellia_Body" : true,
+			"ARM_Mystic_AwakenedChest_Body" : true,
+			"ARM_Mystic_EndlessKnowledge_Circlet" : true,
+			"ARM_Mystic_PsionicInterference_Cloak" : true,
+			"ARM_Mystic_Wanderlust_Boots" : true,
+			"ARM_Ring_E_Gold_A_Hateboss" : true,
+			"ARM_Seasons_Body" : true,
+			"ARM_TEM_Body" : false,
+			"ARM_UrsaNoctua_helmet" : true,
+			"BALDURSTOCKS_GOOD_JOKES_NEVER_DIE" : true,
+			"BB_ElusiveSerpent_Halberd" : true,
+			"BB_LoneWolfVestment_A" : true,
+			"BB_LoyalSpiritWhistle" : false,
+			"BB_MasterTrackerHeadguard_A" : true,
+			"BSM_BS_TheUnstopableWrath" : true,
+			"CC_Sorcerer_Equipment_Amethyst_Heartstone" : true,
+			"CC_Sorcerer_Equipment_Essence_Weavers_Gloves" : true,
+			"CC_Sorcerer_Equipment_Gloves_of_the_Arcanists_Gambit" : true,
+			"CC_Sorcerer_Equipment_Grimoire_of_the_First_Sorcerer" : true,
+			"CC_Sorcerer_Equipment_Hood_of_Spell_Mastery" : true,
+			"CC_Sorcerer_Equipment_Light_Crossbow_of_Arcane_Amplification" : true,
+			"CC_Sorcerer_Equipment_Mantle_of_the_Spell_Current" : true,
+			"CC_Sorcerer_Equipment_Staff_of_Channeled_Power" : true,
+			"CL_ARM_REQ_DarkUrge_Bhaal_Amulet" : true,
+			"CL_ARM_REQ_DarkUrge_Bhaal_Ring" : true,
+			"CL_WPN_MAG_HillGiant_Battleaxe" : true,
+			"CL_WPN_MAG_Sentinel_1_Battleaxe" : true,
+			"CL_WPN_MAG_Sentinel_1_Club" : true,
+			"CL_WPN_MAG_Sentinel_1_Dagger" : true,
+			"CL_WPN_MAG_Sentinel_1_Dart" : true,
+			"CL_WPN_MAG_Sentinel_1_Flail" : true,
+			"CL_WPN_MAG_Sentinel_1_Glaive" : true,
+			"CL_WPN_MAG_Sentinel_1_Greataxe" : true,
+			"CL_WPN_MAG_Sentinel_1_Greatclub" : true,
+			"CL_WPN_MAG_Sentinel_1_Greatsword" : true,
+			"CL_WPN_MAG_Sentinel_1_Halberd" : true,
+			"CL_WPN_MAG_Sentinel_1_HandCrossbow" : true,
+			"CL_WPN_MAG_Sentinel_1_Handaxe" : true,
+			"CL_WPN_MAG_Sentinel_1_HeavyCrossbow" : true,
+			"CL_WPN_MAG_Sentinel_1_Javelin" : true,
+			"CL_WPN_MAG_Sentinel_1_LightCrossbow" : true,
+			"CL_WPN_MAG_Sentinel_1_LightHammer" : true,
+			"CL_WPN_MAG_Sentinel_1_Longbow" : true,
+			"CL_WPN_MAG_Sentinel_1_Longsword" : true,
+			"CL_WPN_MAG_Sentinel_1_Mace" : true,
+			"CL_WPN_MAG_Sentinel_1_Maul" : true,
+			"CL_WPN_MAG_Sentinel_1_Morningstar" : true,
+			"CL_WPN_MAG_Sentinel_1_Pike" : true,
+			"CL_WPN_MAG_Sentinel_1_Quarterstaff" : true,
+			"CL_WPN_MAG_Sentinel_1_Rapier" : true,
+			"CL_WPN_MAG_Sentinel_1_Scimitar" : true,
+			"CL_WPN_MAG_Sentinel_1_Shortbow" : true,
+			"CL_WPN_MAG_Sentinel_1_Shortsword" : true,
+			"CL_WPN_MAG_Sentinel_1_Sickle" : true,
+			"CL_WPN_MAG_Sentinel_1_Sling" : true,
+			"CL_WPN_MAG_Sentinel_1_Spear" : true,
+			"CL_WPN_MAG_Sentinel_1_Trident" : true,
+			"CL_WPN_MAG_Sentinel_1_WarPick" : true,
+			"CL_WPN_MAG_Sentinel_1_Warhammer" : true,
+			"CL_WPN_Necrosword" : true,
+			"COF_AC_CON" : true,
+			"COF_CHEAT_DEATH" : true,
+			"COF_SPELL_INT" : true,
+			"CRE_Hatchery_AcidPoisonImmunity_Boots" : true,
+			"CRE_MAG_Githborn_Amulet" : true,
+			"CSS_LATHANDER_CREST_TRINKET" : true,
+			"CSS_Lathander_ARM_PaladinACT2" : true,
+			"CSS_Lathander_Glove_SunPlate" : false,
+			"CSS_Shield_LathanderCircle_Plain" : true,
+			"CSS_Shield_LathanderKite" : false,
+			"CSS_Shield_LathyKitePortrait" : false,
+			"CUST_Armor_Bear_Barbarian" : true,
+			"CUST_Cloak_Hitpoints" : true,
+			"CUST_Club_Force" : true,
+			"CUST_Flail_AttackRoll_Bonus" : false,
+			"CUST_Gloves_Medium" : true,
+			"CUST_Gloves_Thunder_And_Lightning" : true,
+			"CUST_Hat_Critical" : true,
+			"CUST_Hat_Medium" : true,
+			"CUST_Hat_Stoneskin" : true,
+			"CUST_Rapier_EvilAndGood" : true,
+			"CUST_Ring_EldritchBlast" : true,
+			"CUST_Ring_Weapon_Master" : true,
+			"CUST_Scimitar_Elemental" : true,
+			"CUST_Shortsword_Critical" : true,
+			"CUST_Shortsword_Flaming" : true,
+			"CUST_Trident_Sneaky" : true,
+			"CUST_Weapon_Advantage_Humanoid_Shortbow" : true,
+			"ClericEquipmentAct1_Gloves_of_Renewed_Fortune" : true,
+			"ClericEquipmentAct1_Nimblefoot_Boots" : true,
+			"ClericEquipmentAct2_Ring_of_the_Twilight_Cleric" : true,
+			"ClericEquipmentAct2_Shield_of_the_Azure_Star" : true,
+			"ClericEquipmentAct2_Symbol_of_Hope" : true,
+			"ClericEquipmentAct3_Cape_of_the_Devout" : true,
+			"ClericEquipmentAct3_Crusade_Halfplate" : true,
+			"DEN_HalsinBlade_Legendary" : false,
+			"DEN_HellridersPride" : true,
+			"DEN_TunnelStaff" : true,
+			"DeGreaser_Galloways_Goggles_of_True_Sight" : true,
+			"DeGreaser_Jarlaxles_Piwafwa" : true,
+			"DeGreaser_Mantle_of_Ajax" : false,
+			"DeGreaser_Sorasthrix_Scalemail_Coat" : true,
+			"DruidEquipmentAct1_Oakensingers_Staff" : true,
+			"DruidEquipmentAct1_Thornlash_Gauntlets" : true,
+			"DruidEquipmentAct1_Verdant_Ward" : true,
+			"DruidEquipmentAct2_Emeraldwood_Circlet" : true,
+			"DruidEquipmentAct2_Moon_Sickle" : true,
+			"DruidEquipmentAct2_Staff_of_the_Blossoming_Tempest" : true,
+			"DruidEquipmentAct2_Wildwood_Gauntlets" : true,
+			"DruidEquipmentAct3_Amulet_of_Primal_Terror" : true,
+			"DruidEquipmentAct3_Bark_of_the_Bramblewood" : true,
+			"DruidEquipmentAct3_Gloves_of_Rot_and_Ruin" : true,
+			"DruidEquipmentAct3_Mantle_of_the_Whispering_Winds" : true,
+			"DruidEquipmentAct3_Soul_Serpents_Fang" : true,
+			"EO_AcidDamageOnWeaponAttack_Ring" : true,
+			"EO_Druid_Spore_Magic_Leather_Armor" : true,
+			"EO_Marksmanship_Hat" : true,
+			"EO_Monk_Magic_Boots" : true,
+			"Eladrin_Bow" : false,
+			"Endgame_caster_Boots" : true,
+			"Endgame_caster_headwear" : true,
+			"GT_Necro_halberd" : true,
+			"GotA_Equipment_Absolutes_Scourge" : true,
+			"JWL_DiscordantInstruments_BannerConsecrated" : true,
+			"JWL_DiscordantInstruments_BannerGoblin" : true,
+			"JWL_DiscordantInstruments_BannerMourningsteel" : true,
+			"JWL_DiscordantInstruments_BeltDwarven" : true,
+			"JWL_DiscordantInstruments_BeltFrostGiant" : true,
+			"JWL_DiscordantInstruments_BeltPrimalRecall" : true,
+			"JWL_DiscordantInstruments_BloodwellSorcerous" : true,
+			"JWL_DiscordantInstruments_BookCelestialHealing" : true,
+			"JWL_DiscordantInstruments_BookInfernalArchive" : true,
+			"JWL_DiscordantInstruments_BookManySpells" : true,
+			"JWL_DiscordantInstruments_EndlessMead" : true,
+			"JWL_DiscordantInstruments_MourningsteelCoin" : true,
+			"JWL_DiscordantInstruments_QuiverBrambleheart" : true,
+			"JWL_DiscordantInstruments_QuiverEfficient" : true,
+			"JWL_DiscordantInstruments_ShieldingBrooch" : true,
+			"JWL_DiscordantInstruments_SymbolKelemvor" : true,
+			"JWL_DiscordantInstruments_SymbolLolth" : true,
+			"JWL_DiscordantInstruments_SymbolSylvanus" : true,
+			"JWL_DiscordantInstruments_WhistleWitch" : true,
+			"LHB_AB_AcheronBlade" : true,
+			"MAG_Acid_NoxiousFumes_Gloves" : true,
+			"MAG_Arcanist_Gloves" : true,
+			"MAG_BBB_ScarLetterReforged" : false,
+			"MAG_BG_Nimblefinger_Gloves" : true,
+			"MAG_BG_OfTheMasters_Legacy_Gauntlet" : true,
+			"MAG_BarbMonk_Defensive_Cloth" : true,
+			"MAG_BarbMonk_Offensive_Cloth" : true,
+			"MAG_Barbarian_BoneSpike_Armor" : true,
+			"MAG_Barbarian_BoneSpike_Gloves" : true,
+			"MAG_Bhaalist_Armor" : true,
+			"MAG_Blade_Cloak" : true,
+			"MAG_CQCaster_ArcaneChargeAfterDash_Boots" : true,
+			"MAG_CQCaster_CloseRangedSpellMastery_Gloves" : true,
+			"MAG_ChargedLightning_Dash_Boots" : true,
+			"MAG_Cold_IncreaseColdDamageOnCast_Staff" : false,
+			"MAG_Crit_Dagger" : false,
+			"MAG_Critical_BolsteringCritical_Armor" : true,
+			"MAG_Druid_Wildshape_Hat" : true,
+			"MAG_Drunken_Cloth" : true,
+			"MAG_ElementalGish_CantripBooster_Amulet" : true,
+			"MAG_EndGame_Metal_Boots" : true,
+			"MAG_EvilEssenceShard_Ring" : true,
+			"MAG_FarRealmShard_Ring" : true,
+			"MAG_FireEssenceShard_Ring" : true,
+			"MAG_Fire_IncreaseSlashingDamageToBurning_Handaxe" : true,
+			"MAG_GoodEssenceShard_Ring" : true,
+			"MAG_Gortash_Gloves" : true,
+			"MAG_GreaterNecromancy_Staff" : true,
+			"MAG_GreaterSilver_Greatsword" : false,
+			"MAG_Greenstone_Amulet" : true,
+			"MAG_Halsin_Cloak" : true,
+			"MAG_Harpers_JhannylGloves" : true,
+			"MAG_Harpers_RingOfProjection" : true,
+			"MAG_Healer_HealSelf_Helmet" : true,
+			"MAG_HigherNecromancy_Staff" : true,
+			"MAG_Illithid_Carapace_Armor" : true,
+			"MAG_Illithid_Carapace_Gloves" : true,
+			"MAG_Illithid_Regen_Circlet" : true,
+			"MAG_Infernal_Metal_Boots" : true,
+			"MAG_Infernal_Metal_Gloves" : true,
+			"MAG_Infernal_Metal_Helmet" : true,
+			"MAG_LC_CazadorVampiric_Quarterstaff" : true,
+			"MAG_LC_Umberlee_Regeneration_Robe" : true,
+			"MAG_Lesser_Infernal_Metal_Gloves" : true,
+			"MAG_LowHP_IncreasedSpellDamage_Amulet" : true,
+			"MAG_MeleeDebuff_AttackDebuff1_OnDamage_Helmet" : true,
+			"MAG_MeleeDebuff_AttackDebuff1_OnDamage_Shield" : true,
+			"MAG_MeleeDebuff_AttackDebuff2_OnDamage_SplintMail" : true,
+			"MAG_Mesmerist_MysticWrap" : true,
+			"MAG_Mesmerist_PsionShroud" : true,
+			"MAG_Mesmerist_Ring_Adamant" : true,
+			"MAG_Mesmerist_Ring_ForceOfWill" : true,
+			"MAG_Mobility_ExplosionOnJump_Maul" : true,
+			"MAG_Monk_Fire_Gloves" : true,
+			"MAG_Monk_SoulPerception_Hat" : true,
+			"MAG_Myrkulites_CircletOfMyrkul_Circlet" : true,
+			"MAG_OB_Paladin_DeathKnight_Shield" : true,
+			"MAG_OfArcanicAssault_Robe" : true,
+			"MAG_OfTheDevout_Amulet" : true,
+			"MAG_OfTheShapeshifter_Mask" : false,
+			"MAG_OfWarMaster_Gloves" : true,
+			"MAG_PHB_CloakOfDisplacement_Cloak" : true,
+			"MAG_PHB_ElvenChain_Armor" : true,
+			"MAG_PHB_OfRegeneration_Ring" : true,
+			"MAG_PHB_PeriaptofWoundClosure_Amulet" : true,
+			"MAG_Psychic_MentalOverload_Ring" : true,
+			"MAG_RadiantLight_Morningstar" : true,
+			"MAG_Radiant_DamageBonusOnIlluminatedTarget_Ring" : true,
+			"MAG_RiskyAttack_Ring" : true,
+			"MAG_SHA_SeluneBlessing_Spear" : false,
+			"MAG_SHA_SharBlessing_Spear" : false,
+			"MAG_ShapeshiftersBurgeon_Ring" : true,
+			"MAG_Shove_ACboost_Ring" : true,
+			"MAG_StaffForceBurn" : true,
+			"MAG_TheChromatic_Staff" : false,
+			"MAG_TheThorns_Trident" : false,
+			"MAG_Thunder_ReverberationOnRangeSpellDamage_Amulet" : true,
+			"MAG_Thunder_ThunderClap_Quarterstaff" : true,
+			"MAG_Violence_ViolenceOnDash_Boots" : true,
+			"MAG_Warlock_Quickened_Gloves" : true,
+			"MAG_Warlock_Twinned_Gloves" : true,
+			"MAG_WaterEssenceShard_Ring" : true,
+			"MM_Fighter_Equipment_Boots_of_the_Ironclad_Champion" : true,
+			"MM_Fighter_Equipment_Gauntlets_of_Calculated_Carnage" : true,
+			"MM_Fighter_Equipment_Gauntlets_of_the_Battle_Fury" : true,
+			"MM_Fighter_Equipment_Golden_Cloak_of_Resilience" : true,
+			"MM_Fighter_Equipment_Pendant_of_Shielding" : true,
+			"MM_Fighter_Equipment_Ring_of_Razors_Edge" : true,
+			"MM_Fighter_Equipment_Ring_of_the_Disarming_Riposte" : true,
+			"MM_Fighter_Equipment_Shield_of_the_Spiked_Shell" : true,
+			"MOD_Solar_Bow" : false,
+			"MOD_ZOC_ForceConduit_Gloves" : true,
+			"MOD_ZOC_ForceConduit_Helmet" : true,
+			"MOO_Ketheric_Armor" : true,
+			"MonkEquipmentAct1_Helm_of_Spirit_Reach" : true,
+			"MonkEquipmentAct3_Drape_of_the_Stone_Guardian" : true,
+			"MonkEquipmentAct3_Mask_of_the_Minds_Barrier" : true,
+			"NAT_Voss_Gauntlets" : false,
+			"NecromancerStaff" : true,
+			"OO_Paladin_Equipment_Amulet_of_Sacred_Recovery" : true,
+			"OO_Paladin_Equipment_Helmet_of_the_Fiend_Hunter" : true,
+			"OO_Paladin_Equipment_Oathkeepers_Blade" : true,
+			"OO_Paladin_Equipment_Ring_of_Healing_Light" : true,
+			"PLA_ConflictedFlind_Flail_Broken" : true,
+			"PP_Warlock_Equipment_Band_of_the_Shifting_Sands" : true,
+			"PP_Warlock_Equipment_Bloodstone_Ring" : true,
+			"PP_Warlock_Equipment_Gloves_of_Eldritch_Power" : true,
+			"PP_Warlock_Equipment_Grimoire_of_Whispers" : true,
+			"PP_Warlock_Equipment_Ring_of_the_Swarm" : true,
+			"PP_Warlock_Equipment_Stone_of_Good_Luck" : true,
+			"PP_Warlock_Equipment_Tunic_of_the_Ravenous_Soul" : true,
+			"PP_Warlock_Equipment_Visage_of_the_Inner_Demon" : true,
+			"PersonalSet_The_Mouth_of_the_Abyss_Ring" : true,
+			"RR_Barbarian_Equipment_Bloodaxe" : true,
+			"RR_Barbarian_Equipment_Boots_of_the_Earthshaker" : true,
+			"RR_Barbarian_Equipment_Cloak_of_the_Storms_Fury" : true,
+			"RR_Barbarian_Equipment_Gauntlets_of_the_Titans_Grip" : true,
+			"RR_Barbarian_Equipment_Helm_of_the_Mountain_King" : true,
+			"RR_Barbarian_Equipment_Ring_of_Primitive_Fury" : true,
+			"RR_Barbarian_Equipment_Ring_of_the_Rampaging_Bull" : true,
+			"RR_Barbarian_Equipment_Warhammer_of_Thunder" : true,
+			"RangerEquipmentAIO_Deadeyes_Breastplate" : true,
+			"RangerEquipmentAIO_Ring_of_the_Primal_Hunter" : true,
+			"RangerEquipmentAIO_Vinewoven_Shortbow" : true,
+			"SEM_Item_MonkeysPawSweater" : true,
+			"SHA_JusticiarArmor_Gloves" : true,
+			"SS_Bard_Equipment_Amulet_of_Thunderous_Voice" : true,
+			"SS_Bard_Equipment_Boots_of_the_Quickblade" : true,
+			"SS_Bard_Equipment_Gloves_of_the_Maestro" : true,
+			"SS_Bard_Equipment_Hat_of_Persuasion" : true,
+			"SS_Bard_Equipment_Rhythm_Makers_Drum" : true,
+			"SS_Bard_Equipment_Ring_of_the_Phantom_Ensemble" : true,
+			"SS_Bard_Equipment_The_Luck_Blade" : false,
+			"SS_Bard_Equipment_Tunic_of_the_Inspiring_Leader" : true,
+			"SYR_Amulet_Druid_ColdDamage" : true,
+			"SYR_Amulet_Druid_Sanctuary_VeryRare" : true,
+			"SYR_Armor_Druid_Rare" : true,
+			"SYR_Cloak_Druid_Dex" : true,
+			"SYR_Cloak_Druid_StrDex" : true,
+			"SYR_Druid_Headwear_DruidCrown" : true,
+			"SYR_Footwear_Druid_Dash" : true,
+			"SYR_Helmet_Druid_Rare" : true,
+			"SYR_Quarterstaff_MoonDruid_Shadowcursed" : true,
+			"SYR_Ring_Druid_Tempest_Displacer" : true,
+			"SYR_Spear_MoonDruid_Radiant" : true,
+			"Sailor_Alchemist_Gloves_VSENC" : true,
+			"Siael_EmperorCape" : true,
+			"Siael_Illithid_Amulet" : true,
+			"Siael_Illithid_RingConquest" : true,
+			"TENSA_ZANGETSU" : false,
+			"Template_MAG_Paitm_DakZerthBlade" : false,
+			"UND_SocietyOfBrilliance_MagicMissileNecklace" : true,
+			"UND_SocietyOfBrilliance_PullingRing" : true,
+			"UND_SocietyOfBrilliance_ResonanceStaff" : true,
+			"UND_StrengthChair_Leg" : true,
+			"UND_Tower_StaffBlessMystra" : true,
+			"UNI_ARM_OfDefense_Gloves" : true,
+			"UNI_ARM_Sarevok_Armor" : true,
+			"UNI_DarkUrge_Bhaal_Cloak" : true,
+			"UNI_Ravengard_Plate" : true,
+			"UNI_RobeOfSummer" : true,
+			"UNI_UND_RingOfMindShielding" : true,
+			"UTAM_Armor_OBJ_13804950-8f02-4087-af6d-35986689863f" : true,
+			"UTAM_Armor_OBJ_15aed383-ebea-43c3-9203-e6c626bbd158" : true,
+			"UTAM_Armor_OBJ_16883563-5612-4bfc-9e28-ff93ccf700c4" : true,
+			"UTAM_Armor_OBJ_20aede40-553a-45b8-a42c-37506917b3f0" : true,
+			"UTAM_Armor_OBJ_5de44804-315b-4f16-b767-67a3cc73ba2e" : true,
+			"UTAM_Armor_OBJ_e6de31c1-8a02-49ce-802a-184a71c1f666" : true,
+			"VV_Rogue_Equipment_Amulet_of_the_Mastermind" : true,
+			"VV_Rogue_Equipment_Bracers_of_Flying_Daggers" : true,
+			"VV_Rogue_Equipment_Helm_of_the_First_Strike" : true,
+			"VV_Rogue_Equipment_Nine_Lives_Stealer" : true,
+			"VV_Rogue_Equipment_Ring_of_the_Nightwhisper" : true,
+			"VV_Rogue_Equipment_Ring_of_the_Phantoms_Mark" : true,
+			"VV_Rogue_Equipment_Skeleton_Key" : false,
+			"VV_Rogue_Equipment_The_Backstabbers_Blade" : false,
+			"VV_Rogue_Equipment_Vest_of_the_Trickster" : true,
+			"WI_Tablecloth_Cloak" : true,
+			"WPN_ChaosFang" : true,
+			"WPN_Dagger_GluttonousPrince_B" : true,
+			"WPN_HUM_LongswordNecro_A_2_Aza_Juno" : true,
+			"WPN_HUM_WarhammerNecro_Aza_Juno" : true,
+			"WPN_MOD_Broken_Heirloom_New_ID" : false,
+			"WPN_Mace_Deva_copy" : true,
+			"WPN_Mystic_EruditeSpear" : true,
+			"WPN_Mystic_Failnaught" : true,
+			"WPN_Mystic_WanderersBow" : true,
+			"WPN_Paitm_HarmoniumBlade_Template" : true,
+			"WPN_PlanarGlaive_VSC" : false,
+			"WPN_Voltstrike_Blade_Acended" : false,
+			"WW_Wizard_Equipment_Amulet_of_Arcane_Renewal" : true,
+			"WW_Wizard_Equipment_Arcanum_Repeater" : true,
+			"WW_Wizard_Equipment_Band_of_Minor_Arcana" : true,
+			"WW_Wizard_Equipment_Band_of_the_Ascendant_Spellcaster" : true,
+			"WW_Wizard_Equipment_Boots_of_the_Frostwalker" : true,
+			"WW_Wizard_Equipment_Forceweavers_Gauntlets" : true,
+			"WW_Wizard_Equipment_Ring_of_Arcane_Surge" : true,
+			"WW_Wizard_Equipment_Spell_Bottle" : false,
+			"WW_Wizard_Equipment_Staff_of_Whispering_Thoughts" : true,
+			"_ARA_Cloak_Uncommon_Rogue_1" : true,
+			"_ARA_Cloak_Uncommon_Sorcerer_1" : true,
+			"_ARA_Cloak_VeryRare_Eldritch" : true,
+			"mWarlock_OB_PactChalice5" : false,
+			"mWarlock_OB_PactHourglass5" : false,
+			"mWarlock_OB_PactShroud5" : false,
+			"mWarlock_OB_PactString5" : false
+		}
+	},
+	"rules" : 
+	{
+		"attunementGuiRules" : 
+		{
+			"resource" : false,
+			"statusOnLimit" : true
+		},
+		"difficulties" : 
+		{
+			"Base" : 
+			{
+				"rarityGuiDisplay" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"rarityLimits" : 
+				{
+					"Legendary" : 
+					{
+						"Accessories" : 3,
+						"Armor" : 3,
+						"Attunement Slots" : 1,
+						"Total" : 4,
+						"Weapons" : 3
+					},
+					"Rare" : 
+					{
+						"Accessories" : 5,
+						"Armor" : 5,
+						"Attunement Slots" : 1,
+						"Total" : 7,
+						"Weapons" : 4
+					},
+					"Uncommon" : 
+					{
+						"Accessories" : 5,
+						"Armor" : 6,
+						"Attunement Slots" : 1,
+						"Total" : 13,
+						"Weapons" : 4
+					},
+					"VeryRare" : 
+					{
+						"Accessories" : 4,
+						"Armor" : 4,
+						"Attunement Slots" : 1,
+						"Total" : 6,
+						"Weapons" : 3
+					}
+				},
+				"totalAttunementLimit" : 6
+			},
+			"EASY" : 
+			{
+				"rarityGuiDisplay" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"rarityLimits" : 
+				{
+					"Legendary" : 
+					{
+						"Accessories" : 3,
+						"Armor" : 3,
+						"Attunement Slots" : 1,
+						"Total" : 4,
+						"Weapons" : 3
+					},
+					"Rare" : 
+					{
+						"Accessories" : 5,
+						"Armor" : 5,
+						"Attunement Slots" : 1,
+						"Total" : 7,
+						"Weapons" : 4
+					},
+					"Uncommon" : 
+					{
+						"Accessories" : 5,
+						"Armor" : 6,
+						"Attunement Slots" : 1,
+						"Total" : 13,
+						"Weapons" : 4
+					},
+					"VeryRare" : 
+					{
+						"Accessories" : 4,
+						"Armor" : 4,
+						"Attunement Slots" : 1,
+						"Total" : 6,
+						"Weapons" : 3
+					}
+				},
+				"totalAttunementLimit" : 6
+			},
+			"HARD" : 
+			{
+				"rarityGuiDisplay" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"rarityLimits" : 
+				{
+					"Legendary" : 
+					{
+						"Accessories" : 3,
+						"Armor" : 3,
+						"Attunement Slots" : 1,
+						"Total" : 4,
+						"Weapons" : 3
+					},
+					"Rare" : 
+					{
+						"Accessories" : 5,
+						"Armor" : 5,
+						"Attunement Slots" : 1,
+						"Total" : 7,
+						"Weapons" : 4
+					},
+					"Uncommon" : 
+					{
+						"Accessories" : 5,
+						"Armor" : 6,
+						"Attunement Slots" : 1,
+						"Total" : 13,
+						"Weapons" : 4
+					},
+					"VeryRare" : 
+					{
+						"Accessories" : 4,
+						"Armor" : 4,
+						"Attunement Slots" : 1,
+						"Total" : 6,
+						"Weapons" : 3
+					}
+				},
+				"totalAttunementLimit" : 6
+			},
+			"HONOUR" : 
+			{
+				"rarityGuiDisplay" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"rarityLimits" : 
+				{
+					"Legendary" : 
+					{
+						"Accessories" : 3,
+						"Armor" : 3,
+						"Attunement Slots" : 1,
+						"Total" : 4,
+						"Weapons" : 3
+					},
+					"Rare" : 
+					{
+						"Accessories" : 5,
+						"Armor" : 5,
+						"Attunement Slots" : 1,
+						"Total" : 7,
+						"Weapons" : 4
+					},
+					"Uncommon" : 
+					{
+						"Accessories" : 5,
+						"Armor" : 6,
+						"Attunement Slots" : 1,
+						"Total" : 13,
+						"Weapons" : 4
+					},
+					"VeryRare" : 
+					{
+						"Accessories" : 4,
+						"Armor" : 4,
+						"Attunement Slots" : 1,
+						"Total" : 6,
+						"Weapons" : 3
+					}
+				},
+				"totalAttunementLimit" : 6
+			},
+			"MEDIUM" : 
+			{
+				"rarityGuiDisplay" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"rarityLimits" : 
+				{
+					"Legendary" : 
+					{
+						"Accessories" : 3,
+						"Armor" : 3,
+						"Attunement Slots" : 1,
+						"Total" : 4,
+						"Weapons" : 3
+					},
+					"Rare" : 
+					{
+						"Accessories" : 5,
+						"Armor" : 5,
+						"Attunement Slots" : 1,
+						"Total" : 7,
+						"Weapons" : 4
+					},
+					"Uncommon" : 
+					{
+						"Accessories" : 5,
+						"Armor" : 6,
+						"Attunement Slots" : 1,
+						"Total" : 13,
+						"Weapons" : 4
+					},
+					"VeryRare" : 
+					{
+						"Accessories" : 4,
+						"Armor" : 4,
+						"Attunement Slots" : 1,
+						"Total" : 6,
+						"Weapons" : 3
+					}
+				},
+				"totalAttunementLimit" : 6
+			}
+		},
+		"rarityGuiRules" : 
+		{
+			"Legendary" : 
+			{
+				"Accessories" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Armor" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Attunement Slots" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Total" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Weapons" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				}
+			},
+			"Rare" : 
+			{
+				"Accessories" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Armor" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Attunement Slots" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Total" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Weapons" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				}
+			},
+			"Uncommon" : 
+			{
+				"Accessories" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Armor" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Attunement Slots" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Total" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Weapons" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				}
+			},
+			"VeryRare" : 
+			{
+				"Accessories" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Armor" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Attunement Slots" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Total" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				},
+				"Weapons" : 
+				{
+					"resource" : false,
+					"statusOnLimit" : true
+				}
+			}
+		},
+		"uncapAttunementLimit" : false
+	}
+}

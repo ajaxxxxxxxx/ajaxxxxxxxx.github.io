@@ -1,0 +1,10 @@
+{
+    "CYC_Settings": {
+        "CYC_Bool_Controlled": true,
+        "CYC_Bool_Highlander": "No Limit",
+        "CYC_Bool_QuestFinished": true,
+        "CYC_Bool_SingleUse": false,
+        "CYC_Enum_FriendshipLevel": "High",
+        "CYC_MCM_Global_Debug_Verbosity": 0
+    }
+}

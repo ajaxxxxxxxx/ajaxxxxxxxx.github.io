@@ -1,0 +1,14 @@
+{
+    "cgbp_main": {
+        "debug_options": {
+            "debug_level": 0
+        },
+        "general_settings": {
+            "check_consciousness": true,
+            "check_sight": true,
+            "check_silenced": true,
+            "cluster_radius": 10,
+            "mod_enabled": true
+        }
+    }
+}

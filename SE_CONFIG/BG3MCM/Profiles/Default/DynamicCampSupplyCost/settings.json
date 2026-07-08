@@ -1,0 +1,97 @@
+{
+    "ActorOverrides": {
+        "additional_camp_followers": {
+            "actor_alfira_override_enabled": false,
+            "actor_alfira_override_value": 0,
+            "actor_arabella_override_enabled": false,
+            "actor_arabella_override_value": 0,
+            "actor_arnell_hallowleaf_override_enabled": false,
+            "actor_arnell_hallowleaf_override_value": 0,
+            "actor_barcus_override_enabled": false,
+            "actor_barcus_override_value": 0,
+            "actor_dame_aylin_override_enabled": true,
+            "actor_dame_aylin_override_value": 0,
+            "actor_elminster_override_enabled": false,
+            "actor_elminster_override_value": 0,
+            "actor_emmeline_hallowleaf_override_enabled": false,
+            "actor_emmeline_hallowleaf_override_value": 0,
+            "actor_grub_override_enabled": false,
+            "actor_grub_override_value": 0,
+            "actor_isobel_override_enabled": false,
+            "actor_isobel_override_value": 0,
+            "actor_mizora_override_enabled": true,
+            "actor_mizora_override_value": 0,
+            "actor_oathbreaker_knight_override_enabled": true,
+            "actor_oathbreaker_knight_override_value": 0,
+            "actor_owlbear_cub_override_enabled": false,
+            "actor_owlbear_cub_override_value": 0,
+            "actor_scratch_override_enabled": false,
+            "actor_scratch_override_value": 0,
+            "actor_tara_override_enabled": true,
+            "actor_tara_override_value": 0,
+            "actor_thaniel_override_enabled": false,
+            "actor_thaniel_override_value": 0,
+            "actor_ulder_ravengard_override_enabled": false,
+            "actor_ulder_ravengard_override_value": 0,
+            "actor_volo_override_enabled": false,
+            "actor_volo_override_value": 0,
+            "actor_withers_override_enabled": true,
+            "actor_withers_override_value": 0,
+            "actor_yenna_override_enabled": false,
+            "actor_yenna_override_value": 0
+        },
+        "halsin_foraging": {
+            "halsin_foraging_chance": 60,
+            "halsin_foraging_enabled": true,
+            "halsin_foraging_max_quantity": 5
+        },
+        "origins": {
+            "actor_astarion_override_enabled": true,
+            "actor_astarion_override_value": 5,
+            "actor_gale_override_enabled": false,
+            "actor_gale_override_value": 0,
+            "actor_halsin_override_enabled": false,
+            "actor_halsin_override_value": 0,
+            "actor_jaheira_override_enabled": false,
+            "actor_jaheira_override_value": 0,
+            "actor_karlach_override_enabled": false,
+            "actor_karlach_override_value": 0,
+            "actor_laezel_override_enabled": false,
+            "actor_laezel_override_value": 0,
+            "actor_minsc_override_enabled": false,
+            "actor_minsc_override_value": 0,
+            "actor_minthara_override_enabled": false,
+            "actor_minthara_override_value": 0,
+            "actor_shadowheart_override_enabled": false,
+            "actor_shadowheart_override_value": 0,
+            "actor_wyll_override_enabled": false,
+            "actor_wyll_override_value": 0
+        }
+    },
+    "Categories": {
+        "core_categories": {
+            "category_active_party_multiplier": 1.0,
+            "category_children": 0.44999995827674866,
+            "category_hireling_multiplier": 0.25,
+            "category_idle_follower_multiplier": 0.30000001192092896,
+            "category_pet_multiplier": 0.25,
+            "category_supernatural_multiplier": 0.0,
+            "category_unknown_multiplier": 0.4000000059604645
+        }
+    },
+    "General": {
+        "act_scaling": {
+            "act1_multiplier": 1.0750000476837158,
+            "act2_multiplier": 1.1749999523162842,
+            "act3_multiplier": 1.149999976158142
+        },
+        "debug": {
+            "debug_level": 0
+        },
+        "general": {
+            "global_multiplier": 1.0,
+            "mod_enabled": true,
+            "round_to_nearest_ten": true
+        }
+    }
+}

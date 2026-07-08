@@ -1,0 +1,37 @@
+{
+    "companions": {
+        "0de603c5-42e2-4811-9dad-f652de080eba": {
+            "negFlat": 1,
+            "negMultiplier": 1.25,
+            "posFlat": 3,
+            "posMultiplier": 0.75
+        },
+        "25721313-0c15-4935-8176-9f134385451b": {
+            "negFlat": 1,
+            "negMultiplier": 1.25,
+            "posFlat": 1,
+            "posMultiplier": 0.75
+        },
+        "7628bc0e-52b8-42a7-856a-13a6fd413323": {
+            "negFlat": 1,
+            "negMultiplier": 1.25,
+            "posFlat": 1,
+            "posMultiplier": 0.75
+        },
+        "91b6b200-7d00-4d62-8dc9-99e8339dfa1a": {
+            "negFlat": 1,
+            "negMultiplier": 1.25,
+            "posFlat": 1,
+            "posMultiplier": 0.75
+        }
+    },
+    "debug": false,
+    "exact": [],
+    "global": {
+        "negFlat": 0,
+        "negMultiplier": 1.25,
+        "posFlat": 0,
+        "posMultiplier": 0.75
+    },
+    "version": 1
+}

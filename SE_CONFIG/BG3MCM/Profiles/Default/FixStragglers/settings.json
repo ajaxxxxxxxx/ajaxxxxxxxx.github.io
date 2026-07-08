@@ -1,0 +1,49 @@
+{
+    "features": {
+        "distance-based_teleporting_method": {
+            "distance_threshold_no_jump": 50,
+            "teleporting_method_distance_enabled": false
+        },
+        "fall_damage_settings": {
+            "ignore_if_fall_damage": true
+        },
+        "jump_boosting_method": {
+            "jump_boosting_method_enabled": true
+        },
+        "teleporting_method": {
+            "avoid_dangerous_terrain": true,
+            "distance_threshold": 24,
+            "jump_check_interval": 2,
+            "stop_threshold_time": 30,
+            "teleporting_method_enabled": false
+        }
+    },
+    "general": {
+        "general": {
+            "debug_level": 0,
+            "mod_enabled": true
+        },
+        "teleport_party_to_you": {
+            "always_force_teleport": false,
+            "key_teleport_party_to_you": {
+                "AllowConflict": true,
+                "Enabled": true,
+                "Keyboard": {
+                    "Key": "T",
+                    "ModifierKeys": [
+                        "LShift"
+                    ]
+                }
+            }
+        }
+    },
+    "party_checks": {
+        "party_checks": {
+            "enable_str_check": false,
+            "ignore_on_dialogue": true,
+            "ignore_restricted_characters": true,
+            "ignore_summons": true,
+            "only_linked_characters": true
+        }
+    }
+}

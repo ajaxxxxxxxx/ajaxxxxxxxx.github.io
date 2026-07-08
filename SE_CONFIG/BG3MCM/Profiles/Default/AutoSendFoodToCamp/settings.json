@@ -1,0 +1,96 @@
+{
+    "general": {
+        "debugging_settings": {
+            "debug_level": 0,
+            "ticks_to_wait_for_delivery": 2
+        },
+        "general_settings": {
+            "mod_enabled": true
+        }
+    },
+    "ignore_settings": {
+        "ignore_settings": {
+            "ignore_healing": {
+                "elements": [
+                    {
+                        "enabled": true,
+                        "name": "UNI_CONS_Goodberry"
+                    },
+                    {
+                        "enabled": true,
+                        "name": "GEN_CONS_Berry"
+                    },
+                    {
+                        "enabled": true,
+                        "name": "QUEST_GOB_SuspiciousMeat"
+                    },
+                    {
+                        "enabled": true,
+                        "name": "DEN_UNI_Thieflings_Gruel"
+                    },
+                    {
+                        "enabled": true,
+                        "name": "CONS_FOOD_Fruit_Apple_A"
+                    }
+                ],
+                "enabled": true
+            },
+            "ignore_quests": {
+                "elements": [
+                    {
+                        "enabled": true,
+                        "name": "Quest_CON_OwlBearEgg"
+                    },
+                    {
+                        "enabled": true,
+                        "name": "S_FOR_OwlBear_Egg"
+                    },
+                    {
+                        "enabled": true,
+                        "name": "S_GLO_DevilishOx_AppleForm"
+                    },
+                    {
+                        "enabled": true,
+                        "name": "GLO_DevilishOx_Fruit_Apple"
+                    }
+                ],
+                "enabled": true
+            },
+            "ignore_user_defined": {
+                "elements": [
+                    {
+                        "enabled": true,
+                        "name": "ADD_ITEMS_TEMPLATES_NAMES_HERE"
+                    }
+                ],
+                "enabled": true
+            },
+            "ignore_weapons": {
+                "elements": [
+                    {
+                        "enabled": true,
+                        "name": "WPN_HUM_Salami_A"
+                    }
+                ],
+                "enabled": false
+            }
+        }
+    },
+    "items_to_send_to_camp": {
+        "food_management": {
+            "maximum_rarity": "Rare",
+            "move_alcohol": true,
+            "move_bought_food": true,
+            "move_consumable": true,
+            "move_food": true,
+            "send_items_moved_automatically": true
+        },
+        "inventory_management": {
+            "create_supply_sack": true,
+            "minimum_food_to_keep": 0,
+            "nested_containers": true,
+            "send_existing_food": true,
+            "send_to_supply_sack": true
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "general": {
+        "NumCombatants": 5,
+        "RandomSittingOut": true,
+        "SummonsSitOut": true
+    }
+}

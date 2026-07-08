@@ -1,0 +1,384 @@
+{
+	"Boss" : 
+	{
+		"Boss_Cosmetic" : 
+		{
+			"B_CosmeticRate" : 250.0
+		},
+		"Boss_MultiLoot" : 
+		{
+			"B_DifferentType" : true,
+			"B_IgnoreFail" : true,
+			"B_MultiLootUnique" : 3,
+			"B_UniquePenalty" : 0,
+			"B_UniqueRate" : 3.33
+		},
+		"Boss_Usable" : 
+		{
+			"B_UsableRate" : 50.0
+		}
+	},
+	"Consumable" : 
+	{
+		"Arrow" : 
+		{
+			"A_IgnoreFail" : false,
+			"A_Rate_Multiplier" : 0,
+			"A_common" : 5,
+			"A_rare" : 0.089,
+			"A_total_count" : 1,
+			"A_uncommon" : 0.90,
+			"A_veryrare" : 0.01
+		},
+		"Potion" : 
+		{
+			"P_HealingRate" : 50.0,
+			"P_IgnoreFail" : false,
+			"P_Rate_Multiplier" : 0,
+			"P_common" : 9,
+			"P_rare" : 0.089,
+			"P_total_count" : 2,
+			"P_uncommon" : 0.90,
+			"P_veryrare" : 0.01
+		},
+		"Scroll" : 
+		{
+			"S_IgnoreFail" : false,
+			"S_Rate_Multiplier" : 0,
+			"S_common" : 5,
+			"S_rare" : 0.089,
+			"S_total_count" : 2,
+			"S_uncommon" : 0.90,
+			"S_veryrare" : 0.0089
+		}
+	},
+	"Cosmetic" : 
+	{
+		"Cosmetic" : 
+		{
+			"Cosmetic" : 10,
+			"MahoganyCosmetic" : 75,
+			"NormalCosmetic" : 50,
+			"ShabbyCosmetic" : 25,
+			"Unique_Cosmetic" : true
+		},
+		"Non_wardrobe_MultiLoot" : 
+		{
+			"NW_IgnoreFail" : true,
+			"NW_MultiLootUnique" : 1,
+			"NW_UniquePenalty" : 0
+		},
+		"Wardrobe_MultiLoot" : 
+		{
+			"W_IgnoreFail" : false,
+			"W_MultiLootUnique" : 3,
+			"W_UniquePenalty" : 0
+		}
+	},
+	"DLC" : 
+	{
+		"Anycontainer" : 
+		{
+			"AnyContainer" : "",
+			"HH_CosmeticRate" : 100,
+			"HH_DifferentType" : false,
+			"HH_IgnoreFail" : true,
+			"HH_MultiLootUnique" : 1,
+			"HH_UniquePenalty" : 0,
+			"HH_UsableRate" : 100
+		},
+		"BlackList" : 
+		{
+			"BlackList" : 
+			{
+				"elements" : 
+				[
+					{
+						"enabled" : false,
+						"name" : "Adventure Backpack"
+					},
+					{
+						"enabled" : true,
+						"name" : "Assassin's Pouch"
+					},
+					{
+						"enabled" : true,
+						"name" : "Bombardier's Satchel"
+					},
+					{
+						"enabled" : true,
+						"name" : "Boundless Quiver"
+					},
+					{
+						"enabled" : true,
+						"name" : "Collector's Scroll Tome"
+					},
+					{
+						"enabled" : true,
+						"name" : "Extradimensional Storage"
+					},
+					{
+						"enabled" : true,
+						"name" : "Fortified Elixir Case"
+					},
+					{
+						"enabled" : true,
+						"name" : "Fortified Potion Case"
+					},
+					{
+						"enabled" : true,
+						"name" : "Master Sorting Pack"
+					},
+					{
+						"enabled" : true,
+						"name" : "Rack of Dyes"
+					},
+					{
+						"enabled" : true,
+						"name" : "Reader's Book Stack"
+					},
+					{
+						"enabled" : true,
+						"name" : "Reader's Book Stack"
+					},
+					{
+						"enabled" : true,
+						"name" : "Trinket Lockbox"
+					},
+					{
+						"enabled" : true,
+						"name" : "Trunk of Armament"
+					},
+					{
+						"enabled" : true,
+						"name" : "Trunk of Protection"
+					},
+					{
+						"enabled" : false,
+						"name" : "Vanity Wardrobe"
+					}
+				],
+				"enabled" : true
+			}
+		},
+		"DLCcontent" : 
+		{
+			"ContinuumTimer" : 60,
+			"Debugger" : false,
+			"DisableMessageBoxes" : false,
+			"EnableContinuum" : false,
+			"EnableInsurance" : false,
+			"Gacha_Price" : 100,
+			"LagKiller" : true,
+			"Logging" : true,
+			"LootInjectionAuto" : "None",
+			"Pity" : true,
+			"PityCount" : 33,
+			"Sacrifice" : false,
+			"SacrificeCount" : 4,
+			"SacrificeLegendaryCount" : 1
+		}
+	},
+	"Diversity" : 
+	{
+		"Chest_Cosmetic" : 
+		{
+			"C_CosmeticRate" : 0
+		},
+		"Chest_Identifier" : 
+		{
+			"1Cosmetic" : 54.09,
+			"1legendary" : 0,
+			"1rare" : 4.057,
+			"1uncommon" : 48.68,
+			"1veryrare" : 1.352,
+			"2Cosmetic" : 77.045,
+			"2legendary" : 0.341,
+			"2rare" : 28.977,
+			"2uncommon" : 43.636,
+			"2veryrare" : 4.091,
+			"3Cosmetic" : 100,
+			"3legendary" : 0.682,
+			"3rare" : 53.89,
+			"3uncommon" : 38.59,
+			"3veryrare" : 6.83,
+			"enableChestSpecific" : false
+		},
+		"Chest_MultiLoot" : 
+		{
+			"C_DifferentType" : false,
+			"C_IgnoreFail" : true,
+			"C_MultiLootUnique" : 1,
+			"C_UniquePenalty" : 0
+		},
+		"Chest_Usable" : 
+		{
+			"C_UsableRate" : 100
+		}
+	},
+	"General" : 
+	{
+		"Duplicate" : 
+		{
+			"L_Duplicate" : false,
+			"R_Duplicate" : false,
+			"U_Duplicate" : false,
+			"V_Duplicate" : false
+		},
+		"General_rate" : 
+		{
+			"BossVisible" : true,
+			"ChestVisible" : false,
+			"ClearLooted" : true,
+			"Compensate" : true,
+			"ConsumableVisible" : true,
+			"CosmeticVisible" : true,
+			"Dicesize" : 4,
+			"LevelBasedVisible" : false,
+			"MaxSize" : 300,
+			"MobVisible" : false,
+			"Ontology" : false,
+			"REL_Override" : true,
+			"TraderVisible" : true,
+			"legendary" : 1.0,
+			"rare" : 15.0,
+			"uncommon" : 25.0,
+			"veryrare" : 3.0
+		},
+		"Restriction" : 
+		{
+			"Enable_Restriction" : false,
+			"L_LB" : 6,
+			"L_UB" : 30,
+			"LootBreak" : 0,
+			"R_LB" : 1,
+			"R_UB" : 16,
+			"U_LB" : 1,
+			"U_UB" : 12,
+			"V_LB" : 6,
+			"V_UB" : 30
+		}
+	},
+	"Levelbased" : 
+	{
+		"LevelBaseEpic" : 
+		{
+			"LB_E_EndRate" : 15,
+			"LB_E_Formula_type" : "Linear",
+			"LB_E_MidLevel" : 6,
+			"LB_E_MidRate" : 6,
+			"LB_E_StartRate" : 5
+		},
+		"LevelBaseLegendary" : 
+		{
+			"LB_L_EndRate" : 5,
+			"LB_L_Formula_type" : "Linear",
+			"LB_L_MidLevel" : 6,
+			"LB_L_MidRate" : 2,
+			"LB_L_StartRate" : 1
+		},
+		"LevelBasedGeneral" : 
+		{
+			"LB_Boss_Override" : false,
+			"LB_Ceiling" : 12,
+			"LB_Enabled" : false,
+			"LB_Floor" : 1,
+			"LB_Mob_Override" : false,
+			"LB_Use_NPC_Level" : false
+		},
+		"LevelBasedRare" : 
+		{
+			"LB_R_EndRate" : 25,
+			"LB_R_Formula_type" : "Linear",
+			"LB_R_MidLevel" : 6,
+			"LB_R_MidRate" : 12.5,
+			"LB_R_StartRate" : 15
+		},
+		"LevelBasedUncommon" : 
+		{
+			"LB_U_EndRate" : 25,
+			"LB_U_Formula_type" : "Linear",
+			"LB_U_MidLevel" : 6,
+			"LB_U_MidRate" : 35,
+			"LB_U_StartRate" : 30
+		}
+	},
+	"Mob" : 
+	{
+		"Mob_Cosmetic" : 
+		{
+			"M_CosmeticRate" : 0
+		},
+		"Mob_MultiLoot" : 
+		{
+			"IncludeAlly" : false,
+			"IncludeNeutral" : false,
+			"M_DifferentType" : false,
+			"M_IgnoreFail" : true,
+			"M_MultiLootUnique" : 1,
+			"M_UniquePenalty" : 0,
+			"M_UniqueRate" : 1
+		},
+		"Mob_Usable" : 
+		{
+			"M_UsableRate" : 100
+		}
+	},
+	"RandomDrop" : 
+	{
+		"RandomDropChance" : 
+		{
+			"enableRandomizedChance" : 0,
+			"enableScaling" : false,
+			"max" : 1,
+			"maxTotal" : 25,
+			"min" : -0.5
+		}
+	},
+	"RandomMethod" : 
+	{
+		"RandomType" : 
+		{
+			"EnableWeightedTypeDrop" : false,
+			"amuletsrate" : 10,
+			"armorrate" : 10,
+			"bootsrate" : 10,
+			"cloaksrate" : 10,
+			"clothesrate" : 10,
+			"glovesrate" : 10,
+			"hatsrate" : 10,
+			"otherrate" : 10,
+			"ringsrate" : 10,
+			"shieldsrate" : 10,
+			"weaponsrate" : 10
+		}
+	},
+	"Trader" : 
+	{
+		"NewFeatures" : 
+		{
+			"IncludeOrigins" : true,
+			"LongRestRate" : 100,
+			"NonUniqueShuffle" : true,
+			"RandomizedShuffle" : true,
+			"RealEconomy" : true,
+			"ShortRestRate" : 50,
+			"SoldShuffle" : false
+		},
+		"Trader_Cosmetic" : 
+		{
+			"T_CosmeticRate" : 0
+		},
+		"Trader_MultiLoot" : 
+		{
+			"T_DifferentType" : true,
+			"T_IgnoreFail" : true,
+			"T_MultiLootUnique" : 2,
+			"T_UniquePenalty" : 0
+		},
+		"Trader_Usable" : 
+		{
+			"T_UsableRate" : 100
+		}
+	}
+}

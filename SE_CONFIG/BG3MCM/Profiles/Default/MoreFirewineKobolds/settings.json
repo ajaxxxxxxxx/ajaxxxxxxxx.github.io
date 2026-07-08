@@ -1,0 +1,19 @@
+{
+    "General": {
+        "debug": {
+            "debug_level": 0
+        },
+        "general_settings": {
+            "global_spawn_rate": 5,
+            "mod_enabled": true,
+            "use_advanced_settings": true
+        },
+        "region_spawn_rates": {
+            "BGO_spawn_rate": 10,
+            "CRE_spawn_rate": 33,
+            "SCL_spawn_rate": 3,
+            "WLD_Hag_spawn_rate": 50,
+            "WLD_spawn_rate": 4
+        }
+    }
+}

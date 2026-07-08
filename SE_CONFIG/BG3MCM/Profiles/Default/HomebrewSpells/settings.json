@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "remove_hb_spells": {
+            "1stLevelSpells": false,
+            "2ndLevelSpells": false,
+            "3rdLevelSpells": false,
+            "4thLevelSpells": false,
+            "5thLevelSpells": false,
+            "Cantrips": false
+        }
+    }
+}

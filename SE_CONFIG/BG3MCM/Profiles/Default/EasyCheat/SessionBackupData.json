@@ -1,0 +1,128 @@
+{
+    "AID": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "AID_3": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "AID_4": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "AID_5": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "AID_6": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "AID_7": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "AID_8": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "AID_9": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "ALCH_ELIXIR_BLOODLUST": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "DARKVISION": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": "4a00f418-fce5-463f-9436-d2a761a27907"
+    },
+    "DEATH_WARD": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": "515e6133-db71-4fbd-8b2f-fd9380dc4171"
+    },
+    "DETECT_THOUGHTS": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "EC_FEATHER_FALL": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "FREEDOM_OF_MOVEMENT": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": "ac4aaa41-0e86-4bb9-b8b7-34cb619ea86c"
+    },
+    "GUIDANCE": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "HEROES_FEAST": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "LONGSTRIDER": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "LONG_JUMP": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "MAGE_ARMOR": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "PETPAL": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    },
+    "PROTECTION_FROM_POISON": {
+        "ManagedStatusEffectGroup": "",
+        "SoundLoop": "",
+        "SoundVocalLoop": "NONE",
+        "StatusEffect": ""
+    }
+}

@@ -1,0 +1,11 @@
+[rulegroup]
+name: BladeCantrips
+description: Add Blade Cantrips to anyone with any blade cantrip, trimming to preferences
+has_any: Target_BoomingBlade_5e, Target_BoomingBlade, Target_Sparking_Blade, Target_GreenFlameBlade, Target_BoomingBladeMove, Target_GreenFlameBlade
+add: Target_BoomingBlade_5e, Target_BoomingBlade, Target_Sparking_Blade, Target_GreenFlameBlade, Target_BoomingBladeMove, Target_GreenFlameBlade
+prefer: Target_BoomingBlade_5e, Target_BoomingBlade, Target_BoomingBladeMove, Target_BoomingBlade_ClassSpell
+
+[rulegroup]
+name: MindSliver
+description: prefer mindsliver from 5eSpells, then Spells Extra, then Mystra's Spells
+prefer: Target_MindSliver, Target_LHB_SEL_Mind_Sliver, Projectile_MindSliver

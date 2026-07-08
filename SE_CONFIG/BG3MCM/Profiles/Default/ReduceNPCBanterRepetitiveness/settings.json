@@ -1,0 +1,26 @@
+{
+    "debug": {
+        "debug": {
+            "debug_level": 0
+        }
+    },
+    "distance-based_scaling": {
+        "distance_factor_scaling_enabled": true,
+        "distance_factor_scaling_max_distance": 20,
+        "distance_factor_scaling_max_penalty_factor": 1.0,
+        "distance_factor_scaling_min_distance": 1,
+        "distance_factor_scaling_min_penalty_factor": 2.0
+    },
+    "general": {
+        "max_occurrences": -1,
+        "min_distance": 50,
+        "mod_enabled": true
+    },
+    "interval_management": {
+        "first_silence_step": 30,
+        "max_interval_bonus": 400,
+        "min_interval_bonus": 10,
+        "random_intervals": true,
+        "reset_on_timer": 3600
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "automation": {
+        "appearance_edit_enhanced_automation": {
+            "cmh_appearance_edit_enhanced_auto_clean_on_join": false
+        },
+        "cerberry_hugs_automation": {
+            "cmh_cerberry_hugs_auto_clean_on_join": false
+        },
+        "cerberry_kisses_automation": {
+            "cmh_cerberry_kisses_auto_clean_on_join": false
+        },
+        "custom_faction_battle_automation": {
+            "cmh_custom_faction_battle_auto_clean_on_join": false
+        },
+        "emotes_automation": {
+            "cmh_emotes_auto_clean_on_join": false
+        },
+        "please_stay_automation": {
+            "cmh_please_stay_auto_clean_on_join": false,
+            "cmh_please_stay_auto_clean_passives": false
+        },
+        "sit_happens_automation": {
+            "cmh_sit_happens_auto_clean_on_join": false
+        },
+        "sit_on_ground_automation": {
+            "cmh_sit_on_ground_auto_clean_on_join": false,
+            "cmh_sit_on_ground_auto_clean_passives": false
+        },
+        "spawn_tutorial_chest_automation": {
+            "cmh_spawn_tutorial_chest_auto_clean_on_join": false
+        },
+        "tutorial_chest_automation": {
+            "cmh_tutorial_chest_auto_clean_on_join": false
+        }
+    },
+    "maintenance": {
+        "internal_detection_state": {
+            "cmh_detected_appearance_edit_enhanced": false,
+            "cmh_detected_cerberry_hugs": false,
+            "cmh_detected_cerberry_kisses": false,
+            "cmh_detected_custom_faction_battle": false,
+            "cmh_detected_emotes": false,
+            "cmh_detected_please_stay": false,
+            "cmh_detected_sit_happens": false,
+            "cmh_detected_sit_on_ground": false,
+            "cmh_detected_spawn_tutorial_chest": false,
+            "cmh_detected_tutorial_chest": false,
+            "cmh_internal_show_detection_state": false
+        },
+        "maintenance_saved_preferences": {
+            "cmh_confirm_restore_and_clear_preferences": false
+        }
+    },
+    "party_actions": {
+        "appearance_edit_enhanced_group_actions": {},
+        "cerberry_hugs_group_actions": {},
+        "cerberry_kisses_group_actions": {},
+        "custom_faction_battle_group_actions": {},
+        "emotes_group_actions": {},
+        "please_stay_group_actions": {},
+        "sit_happens_group_actions": {},
+        "sit_on_ground_group_actions": {},
+        "spawn_tutorial_chest_group_actions": {},
+        "tutorial_chest_group_actions": {}
+    },
+    "selected_entity": {
+        "appearance_edit_enhanced_selected_entity": {},
+        "cerberry_hugs_selected_entity": {},
+        "cerberry_kisses_selected_entity": {},
+        "custom_faction_battle_selected_entity": {},
+        "emotes_selected_entity": {},
+        "no_integrations_detected": {
+            "cmh_no_integrations_text": "No supported optional integrations were detected in the current load order."
+        },
+        "please_stay_selected_entity": {},
+        "sit_happens_selected_entity": {},
+        "sit_on_ground_selected_entity": {},
+        "spawn_tutorial_chest_selected_entity": {},
+        "tutorial_chest_selected_entity": {}
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "difficulty": {
+        "difficulty": {
+            "advanced_mode": true,
+            "boss_tier_boost": 2,
+            "enemy_tier_boost": 1,
+            "preset_extreme": false,
+            "preset_hard": true,
+            "preset_normal": false
+        },
+        "tier_weights_list": {
+            "eight_weight": 2,
+            "five_weight": 10,
+            "four_weight": 14,
+            "nine_weight": 1,
+            "one_weight": 20,
+            "seven_weight": 4,
+            "six_weight": 6,
+            "three_weight": 16,
+            "two_weight": 18,
+            "zero_weight": 20
+        }
+    },
+    "general": {
+        "general_settings": {
+            "gm_mode": false,
+            "mod_enabled": true,
+            "rando_seed": 140671784,
+            "randomize_allies": false,
+            "randomize_summons": true,
+            "soe_loaded": true,
+            "unique_bosses": false
+        },
+        "monster_lists": {
+            "att_mon": true,
+            "soe_mon": false,
+            "vanilla_mon": true
+        }
+    },
+    "randomization": {
+        "randomization": {
+            "advanced_rando_mode": true,
+            "chaos_mode": false,
+            "enemy_tier_max": 3,
+            "enemy_tier_min": 2
+        }
+    }
+}

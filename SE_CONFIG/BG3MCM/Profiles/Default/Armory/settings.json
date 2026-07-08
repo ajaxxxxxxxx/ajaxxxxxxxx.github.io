@@ -1,0 +1,16 @@
+{
+    "general": {
+        "general-mod-behavior": {
+            "launch_vanity": {
+                "Keyboard": {
+                    "Key": "V",
+                    "ModifierKeys": [
+                        "LAlt",
+                        "LCtrl"
+                    ]
+                }
+            },
+            "log_level": 0
+        }
+    }
+}

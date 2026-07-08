@@ -1,0 +1,89 @@
+{
+    "debug": {
+        "debug_settings": {
+            "debug_level": 0,
+            "print_deprecation_warnings": false,
+            "reset_lua_both": {
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            },
+            "reset_lua_client": {
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            },
+            "reset_lua_server": {
+                "Keyboard": {
+                    "Key": "",
+                    "ModifierKeys": []
+                }
+            }
+        },
+        "log_types": {
+            "log_level_debug": true,
+            "log_level_info": true,
+            "log_level_print": true,
+            "log_level_success": true,
+            "log_level_warn": true
+        }
+    },
+    "load_order_checks": {
+        "health_check_toggles": {
+            "enable_invalid_meta_check": true,
+            "enable_loadorder_dependencies_check": true,
+            "enable_mcmprecedence_check": true,
+            "enable_modconflicts_check": true,
+            "enable_npakm_check": true
+        }
+    },
+    "sidebar": {
+        "sidebar_settings": {
+            "animation_duration": 200,
+            "collapsed_by_default": false,
+            "enable_auto_collapse": false,
+            "enable_hover": true,
+            "sidebar_width": 390,
+            "toggle_mcm_sidebar_keybinding": {
+                "Enabled": false,
+                "Keyboard": {
+                    "Key": "CAPSLOCK"
+                }
+            }
+        }
+    },
+    "window": {
+        "advanced_settings": {
+            "hide_main_menu_mcm_button": false
+        },
+        "interface_preferences": {
+            "font_size": "Medium",
+            "open_on_start": false,
+            "restore_last_page": false,
+            "restore_last_subtab": false,
+            "typeface": ""
+        },
+        "multiplayer_settings": {
+            "host-only_mode": true
+        },
+        "window_behavior": {
+            "close_mcm_keybinding": {
+                "Enabled": true,
+                "Keyboard": {
+                    "Key": "ESCAPE",
+                    "ModifierKeys": []
+                }
+            },
+            "reposition_window_if_out_of_bounds": true,
+            "toggle_detached_with_main": true,
+            "toggle_mcm_keybinding": {
+                "Keyboard": {
+                    "Key": "SEMICOLON",
+                    "ModifierKeys": []
+                }
+            }
+        }
+    }
+}

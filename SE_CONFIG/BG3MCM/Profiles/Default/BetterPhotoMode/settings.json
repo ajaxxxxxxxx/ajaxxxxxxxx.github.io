@@ -1,0 +1,38 @@
+{
+    "PhotoModeParameters": {
+        "camera_behavior": {
+            "camera_lookat_smoothing": 20
+        },
+        "camera_distance": {
+            "camera_floor_distance": 0.05,
+            "camera_range": 25,
+            "unlimited_camera_range": true
+        },
+        "camera_movement": {
+            "camera_movement_speed": 6.0,
+            "camera_rotation_speed": 1.2,
+            "fast_mode_speed": 15,
+            "slow_mode_speed": 1.0
+        },
+        "general_settings": {
+            "key_fast_mode": {
+                "Keyboard": {
+                    "Key": "F",
+                    "ModifierKeys": []
+                }
+            },
+            "key_slow_mode": {
+                "Keyboard": {
+                    "Key": "G",
+                    "ModifierKeys": []
+                }
+            },
+            "mod_enabled": true
+        }
+    },
+    "debug": {
+        "debug": {
+            "debug_level": 0
+        }
+    }
+}

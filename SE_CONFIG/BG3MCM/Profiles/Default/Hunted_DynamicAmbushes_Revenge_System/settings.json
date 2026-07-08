@@ -1,0 +1,55 @@
+{
+    "tab_balance_core": {
+        "section_balance_core": {
+            "MCM_AmbushIntensity": 0.9,
+            "MCM_BalanceProfile": "Extended 13-20",
+            "MCM_EnableReputation": true,
+            "MCM_PartyScalingCap": 6,
+            "MCM_ReputationDecayRate": 0.25,
+            "MCM_ScaleWithPartySize": true,
+            "MCM_StrictProgressionGates": true,
+            "MCM_UseCompositionGuards": true
+        }
+    },
+    "tab_diagnostics": {
+        "section_diagnostics": {
+            "MCM_EnableDebugLogging": false
+        }
+    },
+    "tab_presets": {
+        "section_presets": {
+            "MCM_AdvancedMode": true,
+            "MCM_CombatExtenderMode": true,
+            "MCM_CustomBasePreset": "Marked",
+            "MCM_DifficultyPreset": "Marked"
+        }
+    },
+    "tab_rest_frequency": {
+        "section_rest_frequency": {
+            "MCM_AllowLowerCityAmbushes": true,
+            "MCM_AmbushCooldownMinutes": 45,
+            "MCM_CampAmbushes": false,
+            "MCM_EnableAmbushCooldown": true,
+            "MCM_EnableOnRest": true,
+            "MCM_EnableTimeInDangerPressure": false,
+            "MCM_SafetyChecks": true
+        }
+    },
+    "tab_rewards": {
+        "section_rewards": {
+            "MCM_AllowChampionLoot": true,
+            "MCM_AmbushXPPercent": 30,
+            "MCM_DisableAmbushLoot": false
+        }
+    },
+    "tab_spawn_behavior": {
+        "section_spawn_behavior": {
+            "MCM_ApplyPartySurprised": true,
+            "MCM_ArrivalCuePolicy": "Balanced",
+            "MCM_EnableAmbusherEscape": true,
+            "MCM_EnableSummons": true,
+            "MCM_EnableVanillaSummons": true,
+            "MCM_SpawnPlacementMode": "Create OOS Only"
+        }
+    }
+}

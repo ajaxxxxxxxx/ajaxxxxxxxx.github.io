@@ -1,0 +1,22 @@
+{
+    "features": {
+        "General features": {
+            "pick_containers": true,
+            "pick_doors": true,
+            "pick_owned_locks": true
+        },
+        "sneaking": {
+            "pick_containers_sneaking": true,
+            "pick_doors_sneaking": true,
+            "pick_owned_locks_sneaking": true
+        }
+    },
+    "general": {
+        "debugging_settings": {
+            "debug_level": 0
+        },
+        "general_settings": {
+            "mod_enabled": true
+        }
+    }
+}
