@@ -1,47 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="746e6e75-5a2e-4823-b872-4920f10ec79b" version="2">Origin: The Pale Elf</content>
-	<content contentuid="9ebc4f18-1716-4522-a054-54f6fca5cdab" version="2">After countless years serving a cruel master, Astarion is finally free. Right?
-
-Astarion has +1 &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; and &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt;.</content>
+	<content contentuid="9ebc4f18-1716-4522-a054-54f6fca5cdab" version="2">After countless years serving a cruel master, Astarion is finally free. Right?</content>
 	<content contentuid="b7d450d0-2d63-4ae3-9f71-8b8f6f1443dd" version="2">Origin: The High Harper</content>
-	<content contentuid="c71febe7-15e6-49ea-ab28-0c2855ec1237" version="2">A battle-hardened Harper veteran, Jaheira is a venerable champion against evil.
-
-Jaheira gains +1 &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;.</content>
+	<content contentuid="c71febe7-15e6-49ea-ab28-0c2855ec1237" version="2">A battle-hardened Harper veteran, Jaheira is a venerable champion against evil.</content>
 	<content contentuid="0b450a8b-bf50-44e0-8c65-0b8a9d59bcca" version="2">Origin: The Daughter of Darkness</content>
-	<content contentuid="17175127-9e47-41b6-92dd-fea447d9d319" version="2">Shadowheart is not like other Clerics, with training focused on faith and dexterity to fulfil the wishes of her dark Goddess.
-
-Shadowheart has +1 &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt;, and &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;.</content>
+	<content contentuid="17175127-9e47-41b6-92dd-fea447d9d319" version="2">Shadowheart is not like other Clerics, with training focused on faith and dexterity to fulfil the wishes of her dark Goddess.</content>
 	<content contentuid="fa99bb2e-d425-4555-b1df-9f456aa1b0a1" version="2">Origin: The Githyanki Mind-Warrior</content>
-	<content contentuid="514d9c0b-ae9f-4965-83b7-5a1b58819739" version="2">Fighting from the moment of her birth with a mind honed for superiority through violence, Lae'zel keeps her mind and body sharp.
-
-Lae'zel has +1 &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; and &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt;.</content>
+	<content contentuid="514d9c0b-ae9f-4965-83b7-5a1b58819739" version="2">Fighting from the moment of her birth with a mind honed for superiority through violence, Lae'zel keeps her mind and body sharp.</content>
 	<content contentuid="50f0ffd9-c11a-4118-a7a1-6eba96fe2cda" version="2">Origin: The Oak-Father</content>
-	<content contentuid="9ef89d64-70ab-4f86-9265-fcc7cd879b52" version="2">An ancient druid of the Grove, calm guardian of nature’s balance.
-
-Halsin has +1 &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; and +2 &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;.</content>
+	<content contentuid="9ef89d64-70ab-4f86-9265-fcc7cd879b52" version="2">An ancient druid of the Grove, calm guardian of nature’s balance.</content>
 	<content contentuid="56804f32-3fda-40c2-9910-13e8f132f4f4" version="2">Origin: The Conquering Soul Soul</content>
-	<content contentuid="d779c668-1ccd-4e8d-990d-822dfa7b4225" version="2">A commanding drow champion, ruthless and unyielding in her convictions.
-
-Minthara has +1 &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; and &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt;.</content>
+	<content contentuid="d779c668-1ccd-4e8d-990d-822dfa7b4225" version="2">A commanding drow champion, ruthless and unyielding in her convictions.</content>
 	<content contentuid="76efb4f4-3134-4ebb-9ed9-d9491b874b27" version="2">Origin: The Wizard of Waterdeep</content>
-	<content contentuid="42af10b9-bfcb-4c7d-b731-88073e5ead74" version="2">A brilliant wizard from Waterdeep whose ambition almost cost him everything.
-
-Gale has +1 &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; and +2 &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt;.</content>
+	<content contentuid="42af10b9-bfcb-4c7d-b731-88073e5ead74" version="2">A brilliant wizard from Waterdeep whose ambition almost cost him everything.</content>
 	<content contentuid="5eb75845-14b2-421e-92b2-3d905325ee92" version="2">Origin: The Mad Rashemaar</content>
-	<content contentuid="46252681-32d8-419b-aced-e439dc3bb3b8" version="2">A towering berserker with his hamster companion named Boo, as mad as he is mighty.
-
-Minsc has +2 &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;, and +2 &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;.</content>
+	<content contentuid="46252681-32d8-419b-aced-e439dc3bb3b8" version="2">A towering berserker with his hamster companion named Boo, as mad as he is mighty.</content>
 	<content contentuid="6a647682-3488-4fb4-ac12-19057181d2b8" version="2">Origin: The Fury of Avernus</content>
-	<content contentuid="c641f8a0-6474-4d38-85e8-dc6cba4ba5d5" version="2">Karlach has escaped ten years of service in the Hells with nothing but the axe on her back and many bones to pick.
-
-Karlach has +1 &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; and +1 &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;.</content>
+	<content contentuid="c641f8a0-6474-4d38-85e8-dc6cba4ba5d5" version="2">Karlach has escaped ten years of service in the Hells with nothing but the axe on her back and many bones to pick..</content>
 	<content contentuid="768f6763-4062-47c9-a323-c262723ffb5e" version="2">Origin: The Blade of Frontiers</content>
-	<content contentuid="30df005d-67c0-4e68-bc95-8bcc3566ab14" version="2">The charismatic Blade of Frontiers, hero to the people and hunter of devils. City-educated and suave.
-
-Wyll has +1 &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; and &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt;.</content>
+	<content contentuid="30df005d-67c0-4e68-bc95-8bcc3566ab14" version="2">The charismatic Blade of Frontiers, hero to the people and hunter of devils. City-educated and suave.</content>
 	<content contentuid="2c1e0879-92ee-4eb0-9556-8e4c82e371d1" version="2">Origin: The Dark Urge</content>
-	<content contentuid="fc994b21-2387-4cd3-9893-91954139de4b" version="2">Kill. Murder. Kill. Blood. Kill. Slaughter. Kill. Kill. Kill. Make them trust you, then twist the knife. Yes. Kill. Kill.
-
-The Dark Urge has +1 &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; and &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt;.</content>
+	<content contentuid="fc994b21-2387-4cd3-9893-91954139de4b" version="2">Kill. Murder. Kill. Blood. Kill. Slaughter. Kill. Kill. Kill. Make them trust you, then twist the knife. Yes. Kill. Kill.</content>
 </contentList>
