@@ -98,6 +98,7 @@ Save safe? No.
     * Adjusted scaling food camp supplies to x1.05 in Act 1 (+5%); x1.25 in Act 2 (25%); and x1.15 in Act 3 (15%).
     * Supernatural camp members (Aylin, Withers) never increase the cost of long rests. Asterion has a very minimal impact. Pets and children contribute less than a full person, and hirelings contribute very little.
     * Reduced the intensity of HUNTED - DYNAMIC AMBUSHES slightly. Changed some settings to interact with Sit This One Out better.
+    * Increased the agro range to 10m to improve the chances of overlapping extra encounter mods actually pretending to work together.
 54. Added Mazzle Group Climbing. No more waiting one at a time to climb stuff.
 55. Added More Camp Idles for Karlach and Shadowheart.
 56. Official release of Paragon!
@@ -141,6 +142,8 @@ Save safe? No.
 94. Added New Dialogues Notifications.
 95. Added Minthara Poison Resistance.
 96. Added Darker Shar Temple, Shadowlands, and Cazador's Palace.
+97. Added Oath of the Moon Paladin.
+98. Added 2 patches from CatDude55 fixing Mizora's Rewards and Moon Paladins.
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
