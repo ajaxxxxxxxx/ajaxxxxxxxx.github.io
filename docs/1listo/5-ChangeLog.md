@@ -23,8 +23,8 @@ Save safe? No.
 2. Removed RootBuilder from Listo.
 3. Created a new "optional" category for "Expanded Game Content" - a place for mods that I really like, but don't want to actively maintain support/patching/compabibility for as the core experience.
      * Moved "Features From DnD 5E Spelljammer" here - the mini-expansion that adds a short Act 3 quest to obtain a void-ship from Propper.
-     * Moved Justice for Nessa, Tusk Evolved, ~~Owlbear Cub Evolved~~ (removed), and Bernard Evolved here.
-     * Moved Path of Undeath and Path of the Righteous here.
+     * Moved Justice for Nessa, ~~Tusk Evolved~~ (removed), ~~Owlbear Cub Evolved~~ (removed), and Bernard Evolved here.
+     * Moved Path of Undeath, Path of Undeath 2, and Path of the Righteous here.
      * Moved Holy Avenger, Foe Bane, The Burning Earth, Eye of Vecna, Hand of Vecna, Robe of Vecna here.
      * Moved Illithid Powers Overhaul 2 here.
      * ~~Moved Shar's Blood here.~~ removed.
@@ -134,6 +134,10 @@ Save safe? No.
 87. Added Miria Head.
 88. Added Mizora's Milk.
 89. Added Speak With Dead Always Highlights Corpses.
+90. Removed Rebalance - Class Spells.
+91. Removed Secret Scrolls (and its children).
+92. Removed Better (But Balanced) Hypnotic Gaze.
+93. Updated to the latest package of NPC overhaul mods from Goon + Team. Hopefully I grabbed the right ones.
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
