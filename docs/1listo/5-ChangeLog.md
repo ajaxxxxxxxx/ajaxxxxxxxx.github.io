@@ -146,6 +146,7 @@ Save safe? No.
 98. Added 2 patches from CatDude55 fixing Mizora's Rewards and Moon Paladins.
 99. Listo has its first Github open-source pull request based improvement, fixing issues with Shillelagh being permanently stuck on gear and not working as intended.
 100. Added Lightning Vessel Barbarian, with CD's nerf patch.
+101. Removed Wild Magic from magma mephits. Removed Wild Magic Allergy from non-primary-caster Kuo Toa.
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
