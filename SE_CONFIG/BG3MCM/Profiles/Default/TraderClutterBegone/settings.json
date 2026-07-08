@@ -1,0 +1,20 @@
+{
+	"feature1" : 
+	{
+		"General" : 
+		{
+			"Include_sold" : true,
+			"Names" : 
+			{
+				"elements" : 
+				[
+					{
+						"enabled" : true
+					}
+				],
+				"enabled" : true
+			},
+			"Restriction" : true
+		}
+	}
+}

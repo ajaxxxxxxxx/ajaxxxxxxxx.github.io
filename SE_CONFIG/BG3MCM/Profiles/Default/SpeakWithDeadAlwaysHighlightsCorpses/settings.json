@@ -1,0 +1,10 @@
+{
+    "General": {
+        "mod_enabled": true
+    },
+    "debug": {
+        "debug": {
+            "debug_level": 0
+        }
+    }
+}

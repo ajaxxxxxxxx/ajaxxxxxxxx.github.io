@@ -1,0 +1,17 @@
+{
+	"general" : 
+	{
+		"debug" : 
+		{
+			"debug_level" : 0
+		},
+		"features" : 
+		{
+			"waypoint_destination" : "Arron"
+		},
+		"general" : 
+		{
+			"mod_enabled" : true
+		}
+	}
+}
