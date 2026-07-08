@@ -120,7 +120,7 @@ Save safe? No.
 73. Added Guardian of Faith Fixes.
 74. Added (optional) Role-Play Partial Rest. Despite the intent of the mod being something different, I am testing if adding this to Listo - alongside the increased camp supply costs - creates a situation where players can always get SOME resources back, and progress camp events, with a little less frustration if you run out of food.
 75. Added (optional) Dynamic Difficulty Scaling.
-76. Replaced Native Camera Tweaks with NCT with GUI.
+76. ~~Replaced Native Camera Tweaks with NCT with GUI~~ nvm the "improved" version gives me CTD.
 77. Added Luna Head.
 78. Added Mizora Always Joins Gather Your Allies.
 79. Added Hair Catalog Volume 2.
@@ -138,6 +138,9 @@ Save safe? No.
 91. Removed Secret Scrolls (and its children).
 92. Removed Better (But Balanced) Hypnotic Gaze.
 93. Updated to the latest package of NPC overhaul mods from Goon + Team. Hopefully I grabbed the right ones.
+94. Added New Dialogues Notifications.
+95. Added Minthara Poison Resistance.
+96. Added Darker Shar Temple, Shadowlands, and Cazador's Palace.
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
