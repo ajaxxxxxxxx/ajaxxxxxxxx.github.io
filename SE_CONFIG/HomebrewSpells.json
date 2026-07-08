@@ -1,0 +1,10 @@
+{
+  "Spells":{
+    "Cantrips":{
+      "Enabled":true
+    },
+    "Spells":{
+      "Enabled":true
+    }
+  }
+}

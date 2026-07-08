@@ -1,0 +1,12 @@
+{
+	"Long" : 
+	{
+		"Options" : "The range is in meters! BG3 uses 30 as maxium for all weapons, DnD 5e 182.",
+		"Range" : 30
+	},
+	"Normal" : 
+	{
+		"Options" : "DnD5e or BG3 - Please choose one and put it into Ruleset field.",
+		"Ruleset" : "DnD5e"
+	}
+}

@@ -1,0 +1,41 @@
+{
+    "advancedCustomClasses": [
+        {
+            "alwaysGrantFeatLevels_Str": "11",
+            "featFrequency": 3,
+            "name": "Mesmerist"
+        },
+        {
+            "alwaysGrantFeatLevels_Str": "11",
+            "featFrequency": 3,
+            "name": "Artificer"
+        },
+        {
+            "alwaysGrantFeatLevels_Str": "",
+            "featFrequency": 3,
+            "name": "Inquisitor"
+        },
+        {
+            "alwaysGrantFeatLevels_Str": "",
+            "featFrequency": 3,
+            "name": "BloodHunter"
+        },
+        {
+            "alwaysGrantFeatLevels_Str": "",
+            "featFrequency": 3,
+            "name": "DeathKnight"
+        }
+    ],
+    "alwaysGrantFeatAtLevels": {
+        "13": true
+    },
+    "customClassFeat": "None",
+    "customClassFeatLevels": 1,
+    "customGrantFeatAtLevels": [],
+    "enableAdvancedSettings": false,
+    "enableMod": true,
+    "featFrequency": 3,
+    "fighterfeat": 11,
+    "multiclassFeatAtLevel1": false,
+    "roguefeat": 11
+}

@@ -1,0 +1,17 @@
+{
+    "DBs.AllowMutate": false,
+    "DBs.Mutate_DB_InCamp": false,
+    "KVCE_INSTALL_STATE": "INSTALLED",
+    "KVS_LOG_LEVEL": 2,
+    "KV_MOD_VERSION": {
+        "build": "0",
+        "major": "0",
+        "minor": "4",
+        "revision": "5"
+    },
+    "Notifications.CNE_UseExclamation": true,
+    "Notifications.CNE_UseStatus": true,
+    "Notifications.RD_UseExclamation": true,
+    "Notifications.RD_UseStatus": true,
+    "Workarounds.MintharaAtMoonrise": false
+}

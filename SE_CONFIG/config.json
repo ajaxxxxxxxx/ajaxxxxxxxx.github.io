@@ -1,0 +1,6 @@
+{
+	"How many people should participate in each combat?" : 4,
+	"Should random people sit out if you would have too many combatants?" : false,
+	"Should summons always Sit Out when their masters do?" : true,
+	"Which party members, if any, should always fight instead of randomly sitting out?" : []
+}

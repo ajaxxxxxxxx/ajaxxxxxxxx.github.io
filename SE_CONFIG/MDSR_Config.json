@@ -1,0 +1,19 @@
+{
+    "BuffDuration": 10,
+    "DiminishChance1": 50,
+    "DiminishChance2": 20,
+    "DiminishCount1": 6,
+    "DiminishCount2": 10,
+    "ExtraSpawnOffset": 0,
+    "ForceRareMode": false,
+    "MaxActiveSpawn": 10,
+    "MinEnemies": 4,
+    "NerfLowLevel": true,
+    "OnlyBossMode": false,
+    "RarePityCount": 4,
+    "SSRPityLimit": 100,
+    "SpawnMultiplier": 1,
+    "SpawnToggle": true,
+    "TierOffset": 0,
+    "TotalSpawnLimit": 15
+}
