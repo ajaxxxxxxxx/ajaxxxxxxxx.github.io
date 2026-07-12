@@ -1,0 +1,256 @@
+// changes
+
+// === aljo's "fixes"
+// Changes Arcane Eye to be UntilLongRest (was 1 hour). The spell is concentration and it's kind of like a summon so it should be long rest.
+// based on BG3 summon rules it should probably also lose concentration requirement, but this spell is a non combat summon so . . . . who cares
+new entry "Target_ArcaneEye"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_ArcaneEye"
+data "SpellProperties" "GROUND:Summon(d4fb356f-5f8b-43f8-9beb-74596b3d507b, UntilLongRest,,,,UNSUMMON_ABLE)"
+
+// Changes Charm Monster from 1 hour to 1 minute for consistency with other Charmed and Control spells
+new entry "Target_CharmMonster"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_CharmMonster"
+data "SpellSuccess" "ApplyStatus(CHARMED,100,10)"
+data "TooltipStatusApply" "ApplyStatus(CHARMED,100,10)"
+
+// Changes Summon Beholderkin to be BG3-rules summon (UntilLongRest, no Concentration requirement)
+new entry "Target_SummonBeholderkin"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonBeholderkin"
+data "SpellProperties" "GROUND:IF(ConditionResult(context.Source.ProficiencyBonus < 5)):Summon(b4a3a80f-373b-4932-b2b6-8bb3fa179f74, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 5)):Summon(b4a3a80f-373b-4932-b2b6-8bb3fa179f74, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_5,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 6)):Summon(b4a3a80f-373b-4932-b2b6-8bb3fa179f74, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_6,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+data "SpellFlags" "IsSpell;HasVerbalComponent;HasSomaticComponent;CannotTargetItems;CannotTargetCharacter"
+
+new entry "Target_SummonBeholderkin_5"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonBeholderkin_5"
+data "SpellProperties" "GROUND:IF(ConditionResult(context.Source.ProficiencyBonus < 5)):Summon(58993f0d-95a0-49c6-8b45-4c38c59ea8b8, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 5)):Summon(58993f0d-95a0-49c6-8b45-4c38c59ea8b8, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_5,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 6)):Summon(58993f0d-95a0-49c6-8b45-4c38c59ea8b8, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_6,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonBeholderkin_6"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonBeholderkin_6"
+data "SpellProperties" "GROUND:IF(ConditionResult(context.Source.ProficiencyBonus < 5)):Summon(f1a184b5-7b38-449b-907d-863b3750f196, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 5)):Summon(f1a184b5-7b38-449b-907d-863b3750f196, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_5,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 6)):Summon(f1a184b5-7b38-449b-907d-863b3750f196, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_6,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonBeholderkin_7"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonBeholderkin_7"
+data "SpellProperties" "GROUND:IF(ConditionResult(context.Source.ProficiencyBonus < 5)):Summon(bd5667ea-2c2c-40eb-9000-d93fb8f9f70d, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 5)):Summon(bd5667ea-2c2c-40eb-9000-d93fb8f9f70d, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_5,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 6)):Summon(bd5667ea-2c2c-40eb-9000-d93fb8f9f70d, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_6,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonBeholderkin_8"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonBeholderkin_8"
+data "SpellProperties" "GROUND:IF(ConditionResult(context.Source.ProficiencyBonus < 5)):Summon(06871ec0-30d9-4acd-9de3-42c8124a670b, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 5)):Summon(06871ec0-30d9-4acd-9de3-42c8124a670b, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_5,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 6)):Summon(06871ec0-30d9-4acd-9de3-42c8124a670b, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_6,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonBeholderkin_9"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonBeholderkin_9"
+data "SpellProperties" "GROUND:IF(ConditionResult(context.Source.ProficiencyBonus < 5)):Summon(7ffaaf13-3ad4-4e24-87a6-77696341acde, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 5)):Summon(7ffaaf13-3ad4-4e24-87a6-77696341acde, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_5,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK);GROUND:IF(ConditionResult(context.Source.ProficiencyBonus == 6)):Summon(7ffaaf13-3ad4-4e24-87a6-77696341acde, UntilLongRest,,,'SummonBeholderkin',SUMMON_ABERRATION_6,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+// Changes Summon Construct to be BG3-rules summon (UntilLongRest, no Concentration requirement)
+new entry "Target_SummonConstruct"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonConstruct"
+data "SpellProperties" "GROUND:Summon(8c2697dd-518f-49ec-a457-67da472aa5ef,UntilLongRest,,,'SummonMetalConstruct',SUMMON_CONSTRUCT_4,UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)"
+data "SpellFlags" "HasVerbalComponent;HasSomaticComponent;IsSpell;CannotTargetItems;CannotTargetCharacter"
+
+new entry "Target_SummonConstruct_5"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonConstruct_5"
+data "SpellProperties" "GROUND:Summon(364749f8-9c1d-4b11-83a0-e587ac1f6f0b,UntilLongRest,,,'SummonMetalConstruct',SUMMON_CONSTRUCT_5,UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonConstruct_6"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonConstruct_6"
+data "SpellProperties" "GROUND:Summon(f0331146-6ae9-43a1-b51d-aa28a1e78faf,UntilLongRest,,,'SummonMetalConstruct',SUMMON_CONSTRUCT_6,UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonConstruct_7"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonConstruct_7"
+data "SpellProperties" "GROUND:Summon(6e1ae364-9019-4abb-ae75-aae61eda0fb9,UntilLongRest,,,'SummonMetalConstruct',SUMMON_CONSTRUCT_7,UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonConstruct_8"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonConstruct_8"
+data "SpellProperties" "GROUND:Summon(4c47cd1f-a60c-497c-afe4-c8e3370b8097,UntilLongRest,,,'SummonMetalConstruct',SUMMON_CONSTRUCT_8,UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonConstruct_9"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonConstruct_9"
+data "SpellProperties" "GROUND:Summon(e0438d6c-5a78-4644-83c5-132cf276389e,UntilLongRest,,,'SummonMetalConstruct',SUMMON_CONSTRUCT_9,UNSUMMON_ABLE,SHADOWCURSE_SUMMON_CHECK)"
+
+// Changes Summon Elemental to be BG3-rules summon (UntilLongRest, no Concentration requirement)
+// Reduce the target radius from 27m to 18m for consistency
+new entry "Target_SummonElemental"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental"
+data "TargetRadius" "18"
+data "SpellFlags" "HasSomaticComponent;HasVerbalComponent;IsLinkedSpellContainer;IsSpell"
+
+new entry "Target_SummonElemental_Air"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Air"
+data "SpellProperties" "GROUND:Summon(0d8cacda-37c6-11ee-be56-0242ac120002,UntilLongRest,,,,AIR_ELEMENTAL,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Earth"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Earth"
+data "SpellProperties" "GROUND:Summon(2d9d7a14-67f8-4ba4-a590-9435e66022b5,UntilLongRest,,,,EARTH_ELEMENTAL,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Fire"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Fire"
+data "SpellProperties" "GROUND:Summon(990b2e31-f2d3-45f1-a906-354fd1f22aa3,UntilLongRest,,,,FIRE_ELEMENTAL,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Water"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Water"
+data "SpellProperties" "GROUND:Summon(570e02e6-01ee-4e81-8860-467e52ceb7d9,UntilLongRest,,,,WATER_ELEMENTAL,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Air_5"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Air"
+data "SpellProperties" "GROUND:Summon(0d8cacda-37c6-11ee-be56-0242ac120002,UntilLongRest,,,,AIR_ELEMENTAL_5,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Earth_5"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Earth_5"
+data "SpellProperties" "GROUND:Summon(2d9d7a14-67f8-4ba4-a590-9435e66022b5,UntilLongRest,,,,EARTH_ELEMENTAL_5,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Fire_5"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Fire_5"
+data "SpellProperties" "GROUND:Summon(990b2e31-f2d3-45f1-a906-354fd1f22aa3,UntilLongRest,,,,FIRE_ELEMENTAL_5,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Water_5"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Water_5"
+data "SpellProperties" "GROUND:Summon(570e02e6-01ee-4e81-8860-467e52ceb7d9,UntilLongRest,,,,WATER_ELEMENTAL_5,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Air_6"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Air"
+data "SpellProperties" "GROUND:Summon(0d8cacda-37c6-11ee-be56-0242ac120002,UntilLongRest,,,,AIR_ELEMENTAL_6,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Earth_6"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Earth_6"
+data "SpellProperties" "GROUND:Summon(2d9d7a14-67f8-4ba4-a590-9435e66022b5,UntilLongRest,,,,EARTH_ELEMENTAL_6,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Fire_6"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Fire_6"
+data "SpellProperties" "GROUND:Summon(990b2e31-f2d3-45f1-a906-354fd1f22aa3,UntilLongRest,,,,FIRE_ELEMENTAL_6,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Water_6"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Water_6"
+data "SpellProperties" "GROUND:Summon(570e02e6-01ee-4e81-8860-467e52ceb7d9,UntilLongRest,,,,WATER_ELEMENTAL_6,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Air_7"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Air_7"
+data "SpellProperties" "GROUND:Summon(0d8cacda-37c6-11ee-be56-0242ac120002,UntilLongRest,,,,AIR_ELEMENTAL_7,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Earth_7"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Earth_7"
+data "SpellProperties" "GROUND:Summon(2d9d7a14-67f8-4ba4-a590-9435e66022b5,UntilLongRest,,,,EARTH_ELEMENTAL_7,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Fire_7"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Fire_7"
+data "SpellProperties" "GROUND:Summon(990b2e31-f2d3-45f1-a906-354fd1f22aa3,UntilLongRest,,,,FIRE_ELEMENTAL_7,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Water_7"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Water_7"
+data "SpellProperties" "GROUND:Summon(570e02e6-01ee-4e81-8860-467e52ceb7d9,UntilLongRest,,,,WATER_ELEMENTAL_7,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Air_8"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Air_8"
+data "SpellProperties" "GROUND:Summon(0d8cacda-37c6-11ee-be56-0242ac120002,UntilLongRest,,,,AIR_ELEMENTAL_8,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Earth_8"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Earth_8"
+data "SpellProperties" "GROUND:Summon(2d9d7a14-67f8-4ba4-a590-9435e66022b5,UntilLongRest,,,,EARTH_ELEMENTAL_8,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Fire_8"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Fire_8"
+data "SpellProperties" "GROUND:Summon(990b2e31-f2d3-45f1-a906-354fd1f22aa3,UntilLongRest,,,,FIRE_ELEMENTAL_8,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Water_8"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Water_8"
+data "SpellProperties" "GROUND:Summon(570e02e6-01ee-4e81-8860-467e52ceb7d9,UntilLongRest,,,,WATER_ELEMENTAL_8,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Air_9"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Air_9"
+data "SpellProperties" "GROUND:Summon(0d8cacda-37c6-11ee-be56-0242ac120002,UntilLongRest,,,,AIR_ELEMENTAL_9,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Earth_9"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Earth_9"
+data "SpellProperties" "GROUND:Summon(2d9d7a14-67f8-4ba4-a590-9435e66022b5,UntilLongRest,,,,EARTH_ELEMENTAL_9,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Fire_9"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Fire_9"
+data "SpellProperties" "GROUND:Summon(990b2e31-f2d3-45f1-a906-354fd1f22aa3,UntilLongRest,,,,FIRE_ELEMENTAL_9,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+new entry "Target_SummonElemental_Water_9"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SummonElemental_Water_9"
+data "SpellProperties" "GROUND:Summon(570e02e6-01ee-4e81-8860-467e52ceb7d9,UntilLongRest,,,,WATER_ELEMENTAL_9,UNSUMMON_ABLE,SHARE_SUMMONER_INITIATIVE,SHADOWCURSE_SUMMON_CHECK)"
+
+// Add Shadow Of Moil's status to the tooltip because it bothered me that it didn't have this
+new entry "Shout_ShadowOfMoil"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ShadowOfMoil"
+data "TooltipStatusApply" "ApplyStatus(SHADOW_OF_MOIL,100,10)"
+
+// end

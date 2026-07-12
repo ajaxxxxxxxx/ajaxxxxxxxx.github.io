@@ -30,3 +30,12 @@ data "SpellType" "Target"
 using "Target_UnseenServant"
 data "SpellProperties" "GROUND:Summon(e75e0981-d9a2-4892-a009-ae900965ff8a, UntilLongRest,,,,UNSEEN_SERVANT,UNSUMMON_ABLE);"
 data "RitualCosts" "ActionPoint:1"
+
+// aljo's fixes
+// Detect Evil and Good now lasts UntilLongRest
+new entry "Shout_DetectEvilAndGood"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_DetectEvilAndGood"
+data "SpellProperties" "ApplyStatus(DETECT_EVIL_GOOD,100,-1)"
+data "TooltipStatusApply" "ApplyStatus(DETECT_EVIL_GOOD,100,-1)"
