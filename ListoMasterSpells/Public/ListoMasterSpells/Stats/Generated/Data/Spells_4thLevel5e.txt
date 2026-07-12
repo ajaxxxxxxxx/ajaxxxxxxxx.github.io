@@ -253,4 +253,12 @@ data "SpellType" "Shout"
 using "Shout_ShadowOfMoil"
 data "TooltipStatusApply" "ApplyStatus(SHADOW_OF_MOIL,100,10)"
 
+// Changes Aura of Life to last 10 rounds, was 100
+new entry "Shout_AuraOfLife"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_AuraOfLife"
+data "SpellProperties" "ApplyStatus(SELF,AURA_OF_LIFE_AURA,100,10)"
+data "TooltipStatusApply" "ApplyStatus(AURA_OF_LIFE_AURA,100,10)"
+
 // end

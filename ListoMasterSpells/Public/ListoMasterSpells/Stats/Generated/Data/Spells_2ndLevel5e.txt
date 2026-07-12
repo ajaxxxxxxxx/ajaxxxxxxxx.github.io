@@ -1146,4 +1146,17 @@ using "Target_ZoneofTruth"
 data "SpellProperties" "ApplyStatus(SELF,ZONE_OF_TRUTH_ADVANTAGE,100,10);GROUND:Summon(eeb7c6bc-1a2c-41c8-b61f-611a7af82ac8,10,,,,ZONE_OF_TRUTH_AURA)"
 data "TooltipStatusApply" "ApplyStatus(ZONE_OF_TRUTH,100,-1);ApplyStatus(ZONE_OF_TRUTH_ADVANTAGE,100,10)"
 
+// Changes Levitate to last 10 rounds, was 100
+new entry "Target_Levitate"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Levitate"
+data "SpellSuccess" "ApplyStatus(LEVITATE,100,10)"
+
+new entry "Target_Levitate_Action"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Levitate_Action"
+data "SpellProperties" "IF(HasStatus('LEVITATING_ACTIVE')):ApplyStatus(LEVITATING_INACTIVE,100,10);IF(HasStatus('LEVITATING_INACTIVE')):ApplyStatus(LEVITATING_ACTIVE,100,10)"
+
 // end
