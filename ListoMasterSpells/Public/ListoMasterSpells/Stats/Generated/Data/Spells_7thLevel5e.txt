@@ -1,0 +1,29 @@
+// aljo's "fixes"
+// Regenerate now lasts UntilLongRest instead of 600 turns
+new entry "Target_Regenerate"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Regenerate"
+data "SpellProperties" "RegainHitPoints(4d8+15);ApplyStatus(REGENERATE,100,-1);RemoveStatus(CAMP_VOLO_LOBOTOMY);RemoveStatus(HAG_HAGEYED);RemoveStatus(CAMP_VOLO_NEEDLE)"
+data "DescriptionParams" "RegainHitPoints(4d8+15);RegainHitPoints(1);ApplyStatus(REGENERATE,100,-1)"
+data "TooltipStatusApply" "ApplyStatus(REGENERATE,100,-1)"
+
+// Crown of Stars Lasts UntilLongRest instead of 600 or 100 turns
+new entry "Shout_CrownOfStars"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_CrownOfStars"
+data "SpellProperties" "ApplyStatus(CROWN_OF_STARS,100,-1)"
+data "TooltipStatusApply" "ApplyStatus(CROWN_OF_STARS,100,-1)"
+
+new entry "Shout_CrownOfStars_9"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_CrownOfStars_9"
+data "SpellProperties" "ApplyStatus(CROWN_OF_STARS_9,100,-1)"
+
+new entry "Shout_CrownOfStars_8"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_CrownOfStars_8"
+data "SpellProperties" "ApplyStatus(CROWN_OF_STARS_9,100,-1)"
