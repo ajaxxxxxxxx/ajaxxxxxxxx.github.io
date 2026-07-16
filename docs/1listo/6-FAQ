@@ -28,7 +28,7 @@ A: First, ensure you've followed the installation guide, including a fresh BG3 i
 
 ### Q: What are the main requirements to install Listonomicon?
 A: You'll need:
-    * Around 60 GB of disk space (some reclaimable after install).
+    * Disk space (some reclaimable after install).
     * A legal copy of Baldur's Gate 3, launched at least once vanilla.
     * Wabbajack installed.
     * A Nexus account (Premium is recommended for speed).
@@ -47,9 +47,6 @@ A:
     6.  Configure Steam to "Only Update This Game When I Launch It" for BG3 and avoid launching BG3 through Steam.
     7.  Launch ModOrganizer.exe from the folder where you installed Listonomicon. Verify the profile at the top says "Listonomicon v[whatever version you are trying to play]" and that the active mod count matches the info on the Listo install instructions page.
     8.  Launch the game (Vulkan or DX11) through MO2.
-
-### Q: What if I install Listo on a different drive than BG3 and the game doesn't launch?
-A: In MO2, go to the puzzle pieces icon (Tools) -> Rootbuilder -> Open Rootbuilder. On the first page, change the mode from “Link” to “Copy”. You will have to repeat this step after updating Listo.
 
 ### Q: What in-game settings are crucial?
 A: You **must** change "Animation Level of Detail" to "High" in your Visual Settings to avoid visual bugs with modded heads. Other graphics settings can be adjusted to your PC's performance.
@@ -78,7 +75,7 @@ A: Listonomicon uses mods like "More Enemies in Basic Fights", "Encounters Overh
 A: 4 to 6 party members. Using more will decrease difficulty, fewer will increase it. Be aware that having more than 4 party members can cause issues with some in-game events (e.g. riding boats to Grymforge) or characters falling off elevators.
 
 ### Q: How does Initiative work?
-A: Initiative is rolled as d8 + dexterity modifier + bonuses. This can be changed via the Mod Configuration Menu (MCM).
+A: Initiative is rolled as d10 + dexterity modifier + bonuses. This can be changed via the Mod Configuration Menu (MCM).
 
 ### Q: How can I adjust the difficulty?
 A:
@@ -86,9 +83,8 @@ A:
         1.  In Custom Difficulty settings, reduce the trader price penalty (e.g., to x3.5) and camp supply cost.
         2.  Use the "Easy CombatExtender.json" file by renaming the existing `CombatExtender.json` in `[Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG` and then renaming `Easy CombatExtender.json` to `CombatExtender.json`.
     * **Harder**:
-        1.  Enable optional mods like "Absolute Wrath" and/or "Champions of Faerun".
+        1.  Enable optional mods like "Absolute Wrath."
         2.  Use the "Hard CombatExtender.json" file similarly by renaming it to `CombatExtender.json`.
-        3.  Consider enabling "Deadlier Honour Mode (DHM) Bosses and Encounters" for very challenging optional content.
 
 ### Q: What is the Mod Configuration Menu (MCM)?
 A: The MCM allows you to tweak settings for various mods. You can access it by pausing the game and selecting the MCM option, or by pressing the semicolon key (`;`). You may need to save and reload a new game once for it to become fully functional.
@@ -96,33 +92,20 @@ A: The MCM allows you to tweak settings for various mods. You can access it by p
 ## Spells, Feats, Classes & Items
 
 ### Q: Are there new spells in Listonomicon?
-A: Yes, many. Listonomicon includes spells from "5e Spells," "Homebrew Spells," "Spells Extra," a patched version of "PF2e Spells," "Mystra Spells" (from Mod.io), "Veenab Spells," Dawnstar's "Psychic Spells" and "Water Spells," among others. Many of these are also available to enemies.
+A: Yes, many. Listonomicon includes spells from "5e Spells," "Homebrew Spells," "Spells Extra," a patched version of "PF2e Spells," "Mystra Spells" (from Mod.io), Vulkrana's Spellbook, among others. Many of these are also available to enemies.
 
 ### Q: How are existing spells rebalanced?
 A: Spells are rebalanced based on Valdacil's adjustment mods, with additional changes from Syrchalis, Cahoot, and Ajax. Examples:
     * Hex and Hunter's Mark are cast once to prepare, then a separate "Hex Target" or "Mark Target" ability is used as a bonus action to apply/reapply the effect without using more spell slots.
     * Shield of Faith lasts until long rest and doesn't require concentration.
     * Speak with Animals and Longstrider are AoE and last until long rest.
-    * Shillelagh is permanent (cast again to disable the effect) and applies to more weapon types.
-    * Illithid Powers are significantly revamped.
+    * Shillelagh is a leveled spell and applies to more weapon types.
 
 ### Q: How do Feats work?
 A: All classes get a feat every 3 levels (3, 6, 9, 12, 15, 18). Fighters, Mesmerists, and Rogues get an additional feat at level 11. Many vanilla feats are rebalanced (e.g., GWM/Sharpshooter, Tough, Durable), and new feats like Arcanist Feat, Essential Feats (War Magic, Deadly Alacrity, Alchemist, etc.), Enweaved, Experimental Alchemy Feat, and Dirty Fighting are added.
 
 ### Q: Are there new classes or subclasses?
-A: Yes. Listonomicon adds many new subclasses for existing classes and entirely new classes like Artificer, Mystic, and Mesmerist. All classes/subclasses can be played to level 20 and/or multiclassed:
-    * **Barbarian**: Path of the Zealot, Ancestral Guardian, Storm Herald, Giant, Beast, Battlerager, Juggernaut.
-    * **Bard**: College of Eloquence, Dance, Tragedy, Whispers.
-    * **Cleric**: Zeal, Strength, Ambition, Solidarity, Inquisition, Night, Eldritch, Grave, Arcana, Order, Twilight Domains.
-    * **Druid**: Circle of Stormchasers, Winter. Plus QoL for Wildshape and Spores.
-    * **Fighter**: Banneret, Brute, Rune Knight, Samurai, Cavalier, Echo Knight, Psi Warrior.
-    * **Monk**: Way of the Long Death, Astral Self, Sun Soul, Ascendant Dragon, Kensei, Drunken Master, Mercy.
-    * **Paladin**: Oath of Zeal, Conquest, Bleak Walkers. Start as Oathbreaker option.
-    * **Ranger**: Fey Wanderer, Horizon Walker, Monster Slayer, Primeval Guardian.
-    * **Rogue**: Grim Surgeon, Misfortune Bringer, Debonaire.
-    * **Sorcerer**: Aberrant Mind, Favored Soul. More Draconic options, Metamagic Extended.
-    * **Warlock**: The Undead, Celestial, Genie, Fathomless. Invocations Expanded.
-    * **Wizard**: Hierophant, Hexcraft, Graviturgy.
+A: Yes. Listonomicon adds many new subclasses for existing classes and entirely new classes like Artificer, Paragon, and Mesmerist.
 
 ### Q: How is Wild Magic affected?
 A: Wild Magic Sorcerers and Barbarians have access to more effects (over 220+ total from multiple mods). Surge risk for Sorcerers increases by 5% per spell cast in combat until a surge, which then recharges Tides of Chaos. If Volo dies, all magic becomes wild magic. Many enemies use Wild Magic-adjacent mechanics like magic allergy or Controlled Chaos.
@@ -137,5 +120,6 @@ A:
     * "WiFi Potions" allow you to use healing potions from any party member's inventory by having one of that type on your hotbar.
     * Food is automatically sent to the camp chest.
     * Withers is a merchant for dyes, camp clothes, and miscellaneous items, and has 50,000 gold.
+    * Long Rests require more Camp Supplies and many food items are worth less Camp Supplies.
 
 This FAQ should cover many common questions. For more detailed information, please refer to the full documentation on the relevant Listo page and join the Discord community.
