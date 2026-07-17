@@ -241,7 +241,6 @@ data "ActionResources" "ActionPoint:1;BonusActionPoint:1;Movement:12;ReactionAct
 data "Passives" "SpiderWalk;AttackOfOpportunity;Darkvision;DarknessRules;AversionOfFire;Spider_Infestation;SpiderFallResistance"
 data "DarkvisionRange" "12"
 data "PoisonResistance" "Resistant"
-data "DarkvisionRange" "12"
 
 new entry "Spider_Tiny"
 type "Character"
@@ -933,13 +932,16 @@ data "Progressions" "532203c2-7bcb-4162-9a7c-2bb20e227a30"
 new entry "SHA_Nightsong"
 type "Character"
 using "SHA_Nightsong"
-data "Passives" "CX_Boss_Boost;CX_Paladin_Vengeance_Boost;AttackOfOpportunity;DarknessRules;ExtraAttack;ImmuneToDisarm;MagicResistance;;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;GuardianOfFaith_Attack;GuardianOfFaith_Retaliate;Goon_Sanctuary_Auto_Cast_Start_Combat;NPC_CbD;ArmyArcana;CC_CharismaticForce_Passive;CC_AugmentedRetaliation_Passive"
+data "Passives" "CX_Paladin_Vengeance_Boost;AttackOfOpportunity;DarknessRules;ExtraAttack;ImmuneToDisarm;MagicResistance;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;GuardianOfFaith_Attack;GuardianOfFaith_Retaliate;NPC_CbD;ArmyArcana;CC_CharismaticForce_Passive;CC_AugmentedRetaliation_Passive"
 data "DefaultBoosts" "IgnoreFallDamage(); BlockRegainHP(Undead;Construct);StatusImmunity(SG_Frightened);StatusImmunity(SG_Stunned);StatusImmunity(SG_Poisoned);StatusImmunity(SG_Surface);StatusImmunity(SG_Polymorph);StatusImmunity(SG_Charmed);StatusImmunity(BURNING);StatusImmunity(WILD_MAGIC_BURNING);StatusImmunity(BURNING_HOLY);StatusImmunity(WET)"
 data "Vitality" "99"
 data "PersonalStatusImmunities" "SG_Charmed;SG_Frightened;SG_DifficultTerrain;SG_Exhausted;SG_Poisoned;SG_Sleeping;STUNNED"
 data "BludgeoningResistance" "ResistantToNonMagical"
 data "SlashingResistance" "ResistantToNonMagical"
 data "PiercingResistance" "ResistantToNonMagical"
+data "NecroticResistance" "Resistant"
+data "RadiantResistance" "Resistant"
+data "PoisonResistance" "Immune"
 
 ///Slivers
 
