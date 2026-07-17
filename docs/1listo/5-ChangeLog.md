@@ -147,6 +147,12 @@ Save safe? No.
 99. Listo has its first Github open-source pull request based improvement, fixing issues with Shillelagh being permanently stuck on gear and not working as intended.
 100. Added Lightning Vessel Barbarian, with CD's nerf patch.
 101. Removed Wild Magic from magma mephits. Removed Wild Magic Allergy from non-primary-caster Kuo Toa.
+102. Combat Extender and creature.txt edits:
+     * Removed Boss tag and shuffled some passives for Aylin to hopefully improve her performance/AI brain/not have her spam inappropriate effects while sitting idly in your camp.
+     * Moved some of Raphael's abilities (burning fiercly, health regen) to his stat block and out of CX. EASY config removed burning fiercly and health regen from his cambions.
+     * NPC Emergency Action Surge now cannot be used until they drop below 26% HP.
+     * NPC Emergency Second Wind now cannot be used until they drop below 26% HP.
+     * NPC Emergency Power Word: Kill cannot be used until they drop below 12% HP.
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
