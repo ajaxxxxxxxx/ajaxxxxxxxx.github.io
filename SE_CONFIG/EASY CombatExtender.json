@@ -1651,31 +1651,31 @@
 		"HealthOverride": 66
 	},
 	  "S_GLO_Monitor_f65becd6-5cd7-4c88-b85e-6dd06b60f7b8": {
-		"Passives": ["ImmuneToDisarm","ElementalAdept_Fire","LOW_Chasm_Mangle_Pushback","ThirdEye","DevilsSight","Blindsight","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","BSM_BS_OniSkin_Passive","CC_CharismaticForce_Passive","CC_AugmentedRetaliation_Passive","AJ_NPC_HPR"],
+		"Passives": ["ImmuneToDisarm","ElementalAdept_Fire","LOW_Chasm_Mangle_Pushback","ThirdEye","DevilsSight","Blindsight","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","BSM_BS_OniSkin_Passive","CC_CharismaticForce_Passive","CC_AugmentedRetaliation_Passive"],
 		"Spells": ["AJ_AotA"]
 	},
 	  "S_LOW_HouseOfHope_RaphaelCambion04_25c6573c-acb8-437f-9fcf-81a80c56f540": {
-		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","NPC_BF","AJ_NPC_HPR"],
+		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive"],
 		"Spells": ["AJ_WMG_Rage"]
 	},
 	  "S_LOW_HouseOfHope_RaphaelCambion02_3164499e-24cd-4417-baca-5f057b4d9518": {
-		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","NPC_BF","AJ_NPC_HPR"],
+		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive"],
 		"Spells": ["AJ_WMG_Rage"]
 	},
 	  "S_LOW_HouseOfHope_RaphaelCambion01_4535facb-487c-4ab8-82e2-0f28558a7d16": {
-		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","NPC_BF","AJ_NPC_HPR"],
+		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive"],
 		"Spells": ["AJ_WMG_Rage"]
 	},
 	  "S_LOW_HouseOfHope_RaphaelCambion03_abc96d0e-846e-4986-ae72-39befabb128b": {
-		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","NPC_BF","AJ_NPC_HPR"],
+		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive"],
 		"Spells": ["AJ_WMG_Rage"]
 	},
 	  "S_LOW_HouseOfHope_RaphaelCambion06_c9c4475f-a2e7-43d6-8df9-de081fef3f89": {
-		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","NPC_BF","AJ_NPC_HPR"],
+		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive"],
 		"Spells": ["AJ_WMG_Rage"]
 	},
 	  "S_LOW_HouseOfHope_RaphaelCambion05_f7b77fc8-d732-4cf7-a541-34d16ad01dc6": {
-		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","NPC_BF","AJ_NPC_HPR"],
+		"Passives": ["ImmuneToDisarm","RageUnlock","AJ_BarbSize","DevilsSight","ARP_Rage_1","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive"],
 		"Spells": ["AJ_WMG_Rage"]
 	},
 	  "S_GOB_Festivities_Ogre_00_ffe2ab58-fddc-47ce-b369-bdb93b4a52dd": {
