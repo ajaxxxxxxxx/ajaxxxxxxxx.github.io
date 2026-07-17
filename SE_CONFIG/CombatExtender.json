@@ -1655,7 +1655,7 @@
 		"HealthOverride": 66
 	},
 	  "S_GLO_Monitor_f65becd6-5cd7-4c88-b85e-6dd06b60f7b8": {
-		"Passives": ["ImmuneToDisarm","ElementalAdept_Fire","LOW_Chasm_Mangle_Pushback","ThirdEye","DevilsSight","Blindsight","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","BSM_BS_OniSkin_Passive","CC_CharismaticForce_Passive","CC_AugmentedRetaliation_Passive","AJ_NPC_HPR","NPC_BF"],
+		"Passives": ["ImmuneToDisarm","ElementalAdept_Fire","LOW_Chasm_Mangle_Pushback","ThirdEye","DevilsSight","Blindsight","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","BSM_BS_OniSkin_Passive","CC_CharismaticForce_Passive","CC_AugmentedRetaliation_Passive","AJ_NPC_HPR"],
 		"Spells": ["AJ_AotA"]
 	},
 	  "S_LOW_HouseOfHope_RaphaelCambion04_25c6573c-acb8-437f-9fcf-81a80c56f540": {
