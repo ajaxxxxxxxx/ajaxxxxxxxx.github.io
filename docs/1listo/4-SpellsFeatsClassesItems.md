@@ -16,9 +16,7 @@ description: Listonomicon
 [Spells Extra](https://www.nexusmods.com/baldursgate3/mods/11291) is used to cover any missing spells needed by Luma's various subclass mods.
 [PF2e Spells](https://www.nexusmods.com/baldursgate3/mods/2460) has been patched by myself, adding another ~60 spells to the game based on PF2e spells (but rebalanced to fit BG3).
 Mystra's Spells from Mod.io is used in Listo. Specifically, a limited selection of the spells that do not already exist in 5e spells.
-Veenab's Spells is in Listo. This primarily adds several spells to Warlocks themed around invoking more Great Old Ones, but that is not all that is added.
-Water Spells adds a number of hydro-themed options.
-Valkrana's, Dawnstars, and Xara add even more spells alongside Book of Ebon Tides and other smaller mods.
+Valkrana's Spellbook adds more Necromancy options.
 
 **Many of these spells are available to your enemies**, so be on your toes!
 
@@ -28,7 +26,7 @@ Valkrana's, Dawnstars, and Xara add even more spells alongside Book of Ebon Tide
 
 Listonomicon has spent a lot of time rebalancing spells to meet the needs of a coherent cRPG, compared to the various design inspirations behind each spell (such as RAW adherence in some mods versus homebrew in others).
 
-Illithid Powers are [significantly revamped](https://www.nexusmods.com/baldursgate3/mods/5105?tab=files) with Illithid Powers Overhaul 2. If you choose to use the astral tadpole, Illithid Powers are very powerful in Act 3.
+Illithid Powers are [significantly revamped](https://www.nexusmods.com/baldursgate3/mods/5105?tab=files) with Illithid Powers Overhaul 2. If you choose to use the astral tadpole, Illithid Powers are very powerful in Act 3. This mod is officially "optional" due to its significant strength, but I enjoy it.
 
 My fork/patch of the PF2e Spells mod rebalances and fixes several spells. Phase Bolt is less powerful, for example, applying only a -1 AC per effect stack instead of -2. Other features of the mod (such as the action -> bonus action conversion and other PF2e features that are not spells) are removed.
 
@@ -54,7 +52,7 @@ Vanilla feats are heavily altered by the hard work of Cahoot, who helped Ajax im
 
 # New and Changed Classes and Subclasses
 
-It's going to take a while to write up what each these changes does to the game.
+This list will only cover major alterations, mostly to class mechanics rather than subclass features.
 
 ## General Changes and Additions
 
@@ -74,8 +72,6 @@ These mods affect wild magic sorcerers, wild magic barbarians, and/or other situ
 
 ## Barbarian
 
-[Dynamic Wildheart Barbarian](https://www.nexusmods.com/baldursgate3/mods/8274) changes Wildheart Barbarians (aka "Totem") to be able to change which animal aspect is called upon when raging, which makes the subclass easier to adapt to different situations. Bear remains the most immediately powerful option (try combining the Durable feat with a Bear rage and Mageslayer, and laugh as enemies struggle to damage you!) but you can experiment more with situations where the other totems might be useful.
-
 [5e Reckless Attack Toggle](https://www.nexusmods.com/baldursgate3/mods/10924) changes the Reckless Attack feature from a reaction, to a toggled status.
 
 ## Cleric
@@ -84,11 +80,7 @@ These mods affect wild magic sorcerers, wild magic barbarians, and/or other situ
 
 ## Druid
 
-[Druid Quality of Life](https://www.nexusmods.com/baldursgate3/mods/3214) is a QoL mod (duh) that changes many spells, effects, and magic items to interact with wildshape among other fixes.
-
-[Circle of the Spores Druid Damage Choice](https://www.nexusmods.com/baldursgate3/mods/11252) gives Spore druids the choice of dealing extra necrotic, acid, or poison damage with their class abilities, reducing how much this class suffers in Act 2 and creating new paths for synergy. [Combined with Spore Druid Extra Attack](https://www.nexusmods.com/baldursgate3/mods/4018) and the improved Shillelagh spell, Spore Druids are a very respectable frontline melee combat/utility cast/healer and a good choice for players who want to play a Druid but do not want to use Wildshape.
-
-Druids always have Speak With Animals prepared. They gain find familiar and flock of familiar at the appropriate levels. The Goodberry spell is buffed. Shilelagh is more powerful, is a permanent effect, and applies to a wider variety of weapons. Animal summons are improved. While Druids may not have many subclasses added, they are significantly better in Listo.
+Druids always have Speak With Animals prepared. They gain find familiar and flock of familiar at the appropriate levels. The Goodberry spell is buffed. Shilelagh is more powerful, is a permanent effect, and applies to a wider variety of weapons. Animal summons are improved. While Druids may not have many subclasses added, they are significantly better in Listo. Spore Druids gain extra attack and the improved Shillelagh lets all Druids embrace bonking.
 
 ## Fighter
 
@@ -97,8 +89,6 @@ Eldritch Knight weapon bonds are permanent, similar to Warlock Pact of the Blade
 ## Monk
 
 [Monk 5e Adjustments](https://www.nexusmods.com/baldursgate3/mods/1411) makes key QoL changes to various aspects of monks, such as supporting unarmed strikes even while you have a weapon in your hands.
-
-Monks have [special magical unarmed attacks](https://www.nexusmods.com/baldursgate3/mods/17666).
 
 ## Paladin
 
@@ -112,17 +102,17 @@ Smites that once required concentration should not anymore. Oathbreakers should 
 
 ## Sorcerer
 
-[Tides of Chaos Recharge](https://www.nexusmods.com/baldursgate3/mods/11625) changes ToC to reset after a wild magic surge is caused, allowing you to use it multiple times per long rest (and risk multiple surges throughout the day as a result). [Metamagic Extended](https://www.nexusmods.com/baldursgate3/mods/405) implements more metamagic options from the tabletop game. The metamagic to change the damage type of your spell requires activating the metamagic, and then selecting an element out of the new pop-up options. Expand the section of your hotbar that has metamagic in it to see the new options. [Draconic bloodline sorcerers](https://www.nexusmods.com/baldursgate3/mods/13563) have significantly more options now. Othe rmods improve shadow magic, metamagic, and tides of chaos.
+[Tides of Chaos Recharge](https://www.nexusmods.com/baldursgate3/mods/11625) changes ToC to reset after a wild magic surge is caused, allowing you to use it multiple times per long rest (and risk multiple surges throughout the day as a result). [Metamagic Extended](https://www.nexusmods.com/baldursgate3/mods/405) implements more metamagic options from the tabletop game. The metamagic to change the damage type of your spell requires activating the metamagic, and then selecting an element out of the new pop-up options. Expand the section of your hotbar that has metamagic in it to see the new options. [Draconic bloodline sorcerers](https://www.nexusmods.com/baldursgate3/mods/13563) have significantly more options now.
 
 ## General
 
-There is no longer a mainted list of all the added features and sub-classes in the wiki. The intent is just to summarize major feature changes players will want to know before picking classes.
+There is no longer a maintained list of all the added features and sub-classes in the wiki. The intent is just to summarize major feature changes players will want to know before picking classes.
 
 ## Brand New Classes
 
 * [Artificer](https://www.nexusmods.com/baldursgate3/mods/1779), and all subclasses.
 * [Mesmerist](https://www.nexusmods.com/baldursgate3/mods/11854).
-* [Blackguard](https://www.nexusmods.com/baldursgate3/mods/6612).
+* [Paragon](https://www.nexusmods.com/baldursgate3/mods/23169).
 * [Inquisitor](https://www.nexusmods.com/baldursgate3/mods/18318).
 * [Bloodhunter](https://mod.io/g/baldursgate3/m/blood-hunter#description).
 
@@ -136,23 +126,21 @@ There is no longer a mainted list of all the added features and sub-classes in t
 - Overall, you should feel encouraged to change your equipment more frequently than the vanilla game, with fewer “best in slot” choices and with fewer magic items that feel like glorified Gale food.
 - Elixirs have been changed, according to [Elixirs Revised](https://www.nexusmods.com/baldursgate3/mods/10073). Please read the mod page and pay closer attention to the description of elixirs in-game, as many of them now stack or work differently. Elixirs of X Giant's Strength have been changed into +STR items, rather than potions that set your Strength to a specific number. This means that characters cannot dump STR, pop a potion, and be fine. It also means that high-Strength characters can still benefit from drinking these elixirs. Healing Potions Hardcore changes HPots to provide a limited immediate healing effect, followed by a delayed healing effect, reducing their combat usefulness compared to healing spells.
 - The overall economy and raw acquisition of gold in Listo is intentionally made harder. Between Poor Adventurer-esque changes and the custom difficulty settings, gold is both slower to accumulate and traders have worse prices when buying or selling. Keep in mind that in Listo you are expected to find significantly more magic items during your adventure, and selling anything you don't use will still allow you to afford many shiny goodies.
-- You will want to save up your pennies so that when you reach Act 3, you can afford the ship manifest that allows you to embark on the Spelljammer adventure arc. The deed for a ship (sold by Popper in the circus) is very expensive, but the reward for the quest line is having a floating artillery platform overhead for the rest of Act 3.
+- You will want to save up your pennies so that when you reach Act 3, you can afford the ship manifest that allows you to embark on the Spelljammer adventure arc. The deed for a ship (sold by Popper in the circus) is very expensive, but the reward for the quest line is having a floating artillery platform overhead for the rest of Act 3. (if using optional Spelljammer mod)
 - You are encouraged to hold onto a variety of weapons to ensure that your team has access to various damage types, as some encounters will now punish/reward the right weapon at the right time.
+- Many food items are worth less Camp Supplies, and the amount of Camp Supplies required to Long Rest increase as your camp grows and your adventures travel deeper into danger. Consider using Short Rests to progress in-game events.
 
 ## Upgrading items
 
 A handful of items in Listonomicon are able to be upgraded by combining certain materials/items.
 
 - [Phalar Aluve](https://www.nexusmods.com/baldursgate3/mods/2987) can be upgraded with a music box hidden in the Shadow Cursed Lands (Act 2), and upgraded again with a music box hidden in a special part of the Circus that only pickpockets can find (Act 3).
-- [Superius Armour](https://www.nexusmods.com/baldursgate3/mods/15568). The armor pieces themselves have been distributed throughout Act 1 (Ruins bandits, Blurg, Arcane Tower chest, Filro the Forgotten, Filro's chest), and the upgrade materials are magic orbs redistributed throughout the game (Therezzyn, Mason's Guild, Smuggler Cave, Cazador's Ballroom).
-- The [Voltstrike Blade](https://www.nexusmods.com/baldursgate3/mods/15589) can be found on Grym. The first upgrade item is a broken blade, found on the haunted Hollow Armor in Act 2; the final upgrade is Ansur's bones.
 - [Psychic Armory](https://www.nexusmods.com/baldursgate3/mods/14476) is a mix of a scavenger/treasure hunt, and upgrade path for various items included within. The Sussur Bloom found in the basement of the Arcane Tower is used for upgrading.
-- [FoeBane](https://www.nexusmods.com/baldursgate3/mods/12523) adds a great reward to the Druid Grove questline, which can further be upgraded with a magic scabard in Act 3 (Jaheira's Basement).
-- [Enchantments of Faerun](https://mod.io/g/baldursgate3/m/enchantments-of-faerun#description) is an elaborate mod that spreads materials for equipment enchantment throughout the game.
+- [FoeBane](https://www.nexusmods.com/baldursgate3/mods/12523) adds a great reward to the Druid Grove questline, which can further be upgraded with a magic scabard in Act 3 (Jaheira's Basement). (optional mod)
 
 ## Upgrading Your Avatar
 
-Over the course of playing Listonomicon, players will have two elaborate mods to interact with (or ignore):
+Over the course of playing Listonomicon, players will have two elaborate (optional) mods to interact with (or leave disabled):
 
 [Path of the Righteous](https://www.nexusmods.com/baldursgate3/mods/16597) is the traditional good guy fantasy. Collect a number of relics and undertake the quests, rituals, and spell casting necessary to restore tarnished artifacts to glory.
 
@@ -169,10 +157,10 @@ Withers is now a merchant! Press the trade button at the bottom-left when talkin
 
 ## Bows and Crossbows vs Guns
 
-Artificer and other mods add firearms. The Listo patch/Degreaser plus True Range 5e seeks to rebalance firearms as a category of weapons that is generally stronger than the equivalent bow/crossbow in terms of damage dice, however they have significantly reduced range compared to bows/crossbows. Handcrossbows now have similarly reduced range, meaning they are not able to compete with bows/crossbows for range (but can still be dual wielded).
+Artificer and other mods add firearms. The Listo patch/Degreaser seeks to rebalance firearms as a category of weapons that is generally stronger than the equivalent bow/crossbow in terms of damage dice, however they have significantly reduced range compared to bows/crossbows. Handcrossbows now have similarly reduced range, meaning they are not able to compete with bows/crossbows for range (but can still be dual wielded).
 
 There is a variety of magic pistols that can be found in Listonomicon. This is from an unreleased mod Jasperthefae was kind enough to give Listo permission to use, until the author has time to assemble a proper Nexus page. Generally, basic and +1 firearms can be purchased from Dammon and Roah Moonglow in Acts 1 and 2, and may crop up in other places here-and-there.
 
 ## The Hand, and Eye, of Vecna
 
-Consider these legendary artifacts the evil inverse of the Blood of Lathander. They offer great and tempting power to any who can acquire them, and become even more powerful when both are combined by a single owner. However they come with great risks, as Vecna exudes influence through these unliving links and the gods themselves look down on any mortal fool with the hubris to attempt wielding such profane power.
+Consider these legendary artifacts the evil inverse of the Blood of Lathander. They offer great and tempting power to any who can acquire them, and become even more powerful when both are combined by a single owner. However they come with great risks, as Vecna exudes influence through these unliving links and the gods themselves look down on any mortal fool with the hubris to attempt wielding such profane power (optional mod).

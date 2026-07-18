@@ -21,7 +21,6 @@ description: Install Info
 1. Install [Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe).
 2. Install [.NET Runtime 8.X.X Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.13-windows-x64-installer).
 3. Install [.NET 6.0 Runtime Desktop x64](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.30-windows-x64-installer).
-4. **If you install Listo to a different storage device than where you installed BG3 itself**, and the game fails to launch but does not give you an error explaining why it can't work, go to the puzzle pieces icon at the top of MO2 -> Rootbuilder -> Open Rootbuilder -> On the first page that opens, change from “Link” to “Copy” (if your Listo is working ignore this).
 :::
 
 ![Listonom](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/main/bol.png)
@@ -41,7 +40,7 @@ At no point in installing Listo do you need to manually download Mod Organizer 2
 - **Nuke BG3** (optional but _highly recommended_): Uninstall the game _completely_, delete anything left of the install folder (e.g. D:/SteamLibrary/steamapps/common/Baldurs Gate 3), and delete the folder at %localappdata%\Larian Studios. This is to ensure no errant files are leftover from previous playthroughs and is especially important for preventing data mismatches that will block multiplayer. Nuking everything improves the odds that Listo works as expected by providing a blank slate to build up from. Otherwise some files like an unwanted modsettings.lsx or Mod.io subscriptions could interfere with Listo.
 - Also ensure that your new Baldur's Gate 3 is in a steam folder on the base of your drive (IE: C:/Steam/.../BaldursGate3) if possible, Wabbajack/MO2 might struggle if it is in a default Steam location like C:/program files(86)/Steam/.../BG3.
 - Remove the BG3 Script Extender if you installed it manually (this should have happened with the nuking).
-- After reinstalling, launch the game (vanilla from Steam) and reach the main menu once to regenerate all of the folders/paths that MO2 and BG3MM need. When you reach the main menu, quit and continue to Step 3.
+- After reinstalling, launch the game (vanilla from Steam) and reach the main menu once to regenerate all of the folders/paths that MO2 needs. When you reach the main menu, quit and continue to Step 3.
 
 ### 3.) Preparing Your Listonomicon Folder
 
@@ -52,7 +51,7 @@ Create a folder named Listonomicon somewhere on your PC, the closer to the root 
 You can get a copy of Listonomicon.wabbajack from Nexus if you want/need to play an older version of the list for any reason. However, the correct method is to open Wabbajack and browse the mod gallery. You should be able to find Listonomicon easily as the list of official BG3 lists is pretty small.
 
 :::note
-"But wait, what if I don't want to download all 550+ Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option!" In that case, you can manually download Listonomicon LITE.wabbajack from Nexus. **The "lite" version of Listo will be periodically updated to match major Listonomicon revisions, but will not be kept 1:1 up to date with Listo on a regular basis.** Use Wabba’s “Install from disk" option and select Listo Lite.wabbajack as your modlist.
+"But wait, what if I don't want to download all gabillion Listonomicon mods? I want the gameplay changes, but I'm never going to use every new cosmetic option!" In that case, you can manually download Listonomicon LITE.wabbajack from Nexus. **The "lite" version of Listo will be periodically updated to match major Listonomicon revisions, but will not be kept 1:1 up to date with Listo on a regular basis.** Use Wabba’s “Install from disk" option and select Listo Lite.wabbajack as your modlist.
 :::
 
 ### 5.) Preparing Steam
@@ -72,9 +71,8 @@ BG3 should no longer receive Patches (major updates), but Hotfixes (small update
 - **Listonomicon: Your total number of active mods should be 844, and the purple seperator at the top should say Listonomicon v8.0**
 - **Listonomicon Lite: For Listo Lite, your total active mods should be 573, and the seperator should say Listo Lite v8.0**
 - At the top-right, you should be able to switch the program to launch the Vulkan or dx11 version of the game.
-- Hit "run" after selecting the EXE that works best for your system. Always launch the game this way (don't use Steam).
-- You can verify Listo's mods are all loaded correctly after install by clicking on the official mod manager and looking at the installed mods tab. Is there a long list with almost everything enabled? Good. Some mods, like overwrites to text, will not show as "Enabled" but will still be working fine.
-- **If you install Listo to a different storage device than where you installed BG3 itself**, and the game fails to launch but does not give you an error explaining why it can't work, go to the puzzle pieces icon at the top of MO2 -> Rootbuilder -> Open Rootbuilder -> On the first page that opens, change from “Link” to “Copy” (if your Listo is working ignore this).
+- Hit "run" after selecting the EXE that works best for your system (but please try DX11 first). Always launch the game this way (don't use Steam).
+- You can verify Listo's mods are all loaded correctly if the main menu has a button for the Mod Configuration Menu. It's normal if it doesn't do anything after being clicked on - just see if it's there before hitting new game.
 
 ### 7.) In-Game Settings
 
@@ -96,7 +94,7 @@ Per the image above, your difficulty settings should be as follows:
 
 * Ruleset: Honour
 * Enemy Aggression, Character Power, Enemy Loadouts, Additional Combat Mechanics: Tactician
-* Camp Cost Multiplier: 3. I have never found food to be any kind of limit by the time I reach Wuakeen's Rest. With the changes in Listo's economy, you should consider selling expensive food and alcohol; leaving this multiplier on 3 is to prevent you from selling ALL food and should not be reduced even if looking for an easier game.
+* Camp Cost Multiplier: 3. I have never found food to be any kind of limit by the time I reach Wuakeen's Rest. If you are struggling to make Long Rests work, try setting this to 2.
 * Trader Price Modificer: 4. This heavily influences the buying and sell price of everything. Maxing out the setting is not just about difficulty, it's about fighting against hyperinflation in Faerun's economy caused by all the new loot and magic items in Listo. If adjusting settings for an easier game, do not reduce this further than x3.5 or you will be swimming in so much gold that it completely trivializes the game.
 
 **If you do not enable the Honour Ruleset at the top** you will not be able to equip magic items. This is a built-in feature to punish you for not reading the instructions.
@@ -117,20 +115,29 @@ There are several optional mods packaged with Listonomicon to enable even more f
 
 ![Optional Mod Example](https://raw.githubusercontent.com/Listonomicon-Team/Listonomicon/refs/heads/main/optional%20mods2.png)
 
+**OPTIONAL MOD KEY EXPLANATION**
+
+1) + means this mod increases difficulty. More +'s means more dramatic effects.
+2) - means decreases difficulty/complexity.
+3) ^ means "enable this if using the optional mod directly above it."
+4) @ means Ajax uses this mod every time he is playing BG3 for fun.
+5) (c) means CatDude55 uses this mod and recommends it.
+6) X means this optional mod has conflicts/issues if you enable it with a lot of other X mods at the same time.
+7) % means please look at the Nexus page for this mod and understand what it is/what it does before enabling it.
+
 ### 12.) Optional Difficulty Tweaks
 
 If Listo is too hard, and you'd actually have more fun if it was a little easier, you can make a few changes:
 1. In Custom Difficulty settings, reduce the trade price penalty to x3-x3.5. If you reduce it too much, buying prices become too low and the economy really falls apart. You can reduce the long rest camp supply cost to a lower number, whatever you want.
 2. Navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Easy CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, relaxed CX configuration. The alt file will still be more difficult than vanilla BG3 and include new, tweaked, and changed enemies - but the size of the tweaks is much less dramatic with lower health, AC, attack rolls, and saving throw DC for enemies across the board, bigger increases to allied characters, and many powerful buffs and abilities taken away from bosses.
-3. Enable any of the OPTIONAL mods in the "OPTIONAL Easier Mods" section.
+3. Enable any of the OPTIONAL mods in with the "-" tag.
 4. Go to Listonomicon\mods\zzz_ListonomiconModSettings\SE_CONFIG\Attunement and replace "conmfig.json" with "relaxed config.json" (delete the first, rename the latter as config.json). This will slightly increase the number of magic items you can equip, enabling more powerful builds or at least easier combo crafting.
 
 If Listo is not hard enough,
 1. Enable Absolute Wrath (search "OPTIONAL_Absolute Wrath" or look in the optional tweaks section of MO2).
-2. If that still isn't hard enough, enable Champions of Faerun.
-3. If that still isn't hard enough, enable OPTIONAL_Valkranas Skeletal Challenge.
-4. If still that isn't hard enough, navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Hard CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, unrelaxed CX configuration. The alt file has more enemy health, more enemy buffs, and more cruel combinations of spells and abilities and features, with intentional enemy nerfs from the normal config removed.
-5. DHM and Extra Encounters and Minibosses exist more for interesting challenge content rather than changing the overall challenge of the whole experience (more like dungeons/raids rather than global modifiers). If you love BG3 combat, want more of it, and want to guarantee reaching level 18+ by the end of the game, enable as many extra encounter mods as you like.
+2. If that still isn't hard enough, begin enabling other + mods.
+3. If still that isn't hard enough, navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Hard CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, unrelaxed CX configuration. The alt file has more enemy health, more enemy buffs, and more cruel combinations of spells and abilities and features, with intentional enemy nerfs from the normal config removed.
+4. Enable optional mods that add new encounters.
 
 ### 13.) Multiplayer
 
@@ -173,7 +180,7 @@ Start Wabbajack with your Steam shortcut and Download the list. The download loc
 
 **Configuration of Mod Organizer 2**
 
-Rootbuilder needs to be changed from the link mode to copy mode. To do this, click the puzzle symbol -> root builder -> root builder and check the box next to 'copy'. 
+RootBuilder was removed from Listo as it is no longer required with the latest BG3-MO2 plugin. I am waiting for a Linux user to tell me if this impacts them or not.
 
 **Launch the game**
 
