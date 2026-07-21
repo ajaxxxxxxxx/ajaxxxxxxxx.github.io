@@ -153,6 +153,14 @@ Save safe? No.
      * NPC Emergency Action Surge now cannot be used until they drop below 26% HP.
      * NPC Emergency Second Wind now cannot be used until they drop below 26% HP.
      * NPC Emergency Power Word: Kill cannot be used until they drop below 12% HP.
+     * Easy config: Removed Ketheric's extra undead summons, Clarified Mortality, and extra blindness/darkness immunities.
+     * Normal config: Removed Ketheric's access to a specific darkness vision buff.
+     * Easy config: Removed a lot of Gortash's buffs, reducing him to magic resistance (no improved crit, no bonus damage riders).
+     * Easy and Normal config: Removed weird spell choices in global boss/miniboss buffs.
+     * Easy config: Removed Absorb Intellect from enemies.
+     * Normal config: Removed Absorb Intellect from the global GOO Warlock boost and from the Act 2 hospital assistants.
+     * Removed some erroneous references to spells/passives from mods no longer in Listo.
+103. Merged fixes/corrections to tooltips and code contributed by the community to fix spells, companion background flavor perks, and various other things. Thank you.
 
 
 ## Listonomicon v9.0.3 Fear and Hunger
