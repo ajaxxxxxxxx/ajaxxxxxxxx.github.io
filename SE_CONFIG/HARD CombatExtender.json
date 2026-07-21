@@ -245,7 +245,7 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["WarCaster_OpportunitySpell","PotentCantrip"],
-			  "Spells": ["Projectile_PhaseBolt","Projectile_ElectricArc","Zone_AetherLance","Shout_AbsorbElements","Zone_BurningHands"]
+			  "Spells": ["Projectile_PhaseBolt","Projectile_ElectricArc","Zone_AetherLance","Zone_BurningHands"]
 	  },
 			"2": {
 			  "ExtraPassives": ["SpellSniper_Empowered","SculptSpells","ArmyArcana"],
@@ -573,7 +573,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["MAG_Twilight_Damage_Passive"],
-			  "Spells": ["VBT_Spell_5_Dawn","Projectile_Fireball"]			  
+			  "Spells": ["Projectile_Fireball"]			  
 	  },
 			"3": {
 			  "ExtraPassives": ["MAG_ShatteredSun_Attack"],
@@ -1107,7 +1107,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["CC_AugmentedDefense_Passive","ARA_Cloak_DevilsSight_Passive","MAG_Myrkulites_CircletOfMyrkul_Circlet_Passive"],
-			  "Spells": ["Shout_ShadowOfMoil","VBT_Spell_4_BroodOfHadar","Projectile_RaulothimsPsychicLance","Target_CharmMonster","Target_SummonBeholderkin","Target_SynapticStatic","Target_MaddeningDarkness","Shout_DevouringDarkness","Target_EclipseBurst"]
+			  "Spells": ["Shout_ShadowOfMoil","Projectile_RaulothimsPsychicLance","Target_CharmMonster","Target_SummonBeholderkin","Target_SynapticStatic","Target_MaddeningDarkness","Shout_DevouringDarkness","Target_EclipseBurst"]
 	  }
 	  }
 	  },
