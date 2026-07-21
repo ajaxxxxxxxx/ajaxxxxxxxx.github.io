@@ -186,11 +186,11 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["ImmuneToDisarm","ImmuneToControlUndead","ImmutableForm","CAT_MultiattackDefense_75_2","FinishingStrike","MM_Unflinching_Passive","Tough"],
-			  "Spells": ["AJ_HPSecondWind","Target_ValkranaBoneLiquefaction"]
+			  "Spells": ["AJ_HPSecondWind"]
 	  },
 			"3": {
 			  "ExtraPassives": ["Blindsight","Mod_MAG_LowHP_IncreaseDamage_Passive","Overwhelm","MM_FuryFlurry_Passive","MM_FearlessResolve_Passive","Durable"],
-			  "Spells": ["AJ_MirrorImage_Emergency","Zone_ValkranaArcVivisector"]
+			  "Spells": ["AJ_MirrorImage_Emergency"]
 	  }
 	  }
 	  },
@@ -245,7 +245,7 @@
 		"Act": {
 			"1": {
 			  "ExtraPassives": ["WarCaster_OpportunitySpell","PotentCantrip"],
-			  "Spells": ["Projectile_PhaseBolt","Projectile_ElectricArc","Zone_AetherLance","Shout_AbsorbElements","Zone_BurningHands"]
+			  "Spells": ["Projectile_PhaseBolt","Projectile_ElectricArc","Zone_AetherLance","Zone_BurningHands"]
 	  },
 			"2": {
 			  "ExtraPassives": ["SpellSniper_Empowered","SculptSpells","ArmyArcana"],
@@ -573,7 +573,7 @@
 	  },
 			"2": {
 			  "ExtraPassives": ["MAG_Twilight_Damage_Passive"],
-			  "Spells": ["VBT_Spell_5_Dawn","Projectile_Fireball"]			  
+			  "Spells": ["Projectile_Fireball"]			  
 	  },
 			"3": {
 			  "ExtraPassives": ["MAG_ShatteredSun_Attack"],
@@ -1107,7 +1107,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["CC_AugmentedDefense_Passive","ARA_Cloak_DevilsSight_Passive","MAG_Myrkulites_CircletOfMyrkul_Circlet_Passive"],
-			  "Spells": ["Shout_ShadowOfMoil","VBT_Spell_4_BroodOfHadar","Projectile_RaulothimsPsychicLance","Target_CharmMonster","Target_SummonBeholderkin","Target_SynapticStatic","Target_MaddeningDarkness","Shout_DevouringDarkness","Target_EclipseBurst"]
+			  "Spells": ["Shout_ShadowOfMoil","Projectile_RaulothimsPsychicLance","Target_CharmMonster","Target_SummonBeholderkin","Target_SynapticStatic","Target_MaddeningDarkness","Shout_DevouringDarkness","Target_EclipseBurst"]
 	  }
 	  }
 	  },
@@ -1158,7 +1158,7 @@
 	  },
 			"3": {
 			  "ExtraPassives": ["MAG_Zhentarim_Demonspirit_Gloves_Passive","BeshadowedBlast"],
-			  "Spells": ["NPC_AbsorbIntellect"]			  
+			  "Spells": []			  
 	  }
 	  }
 	  },
@@ -1715,7 +1715,7 @@
 		"Spells": ["AJ_AotA"]
 	},
 	  "S_MOO_Ketheric_e9918f3e-5b87-40a3-a9bd-61545151573f": {
-		"Passives": ["ClarifiedMortality","ThirdEye","DevilsSight","Blindsight","MAG_Sarevok_HornedHelmet_DeathbringerSight_Passive","VV_KillerRespite_Passive","CAT_Autosummon_Shadow2/Wraith2_Passive","CAT_2HPKill"],
+		"Passives": ["ClarifiedMortality","ThirdEye","DevilsSight","Blindsight","VV_KillerRespite_Passive","CAT_Autosummon_Shadow2/Wraith2_Passive","CAT_2HPKill"],
 		"Spells": ["Target_HoldPerson","Target_ControlUndead","Shout_HellishRebuke","Target_CrownOfMadness","AJ_AotA"]
 	},
 	  "S_LOW_BaldursMouth_FrontDoorGuard_002_b887a1f8-dab3-4f03-98ca-a61433e9fdcd": {
@@ -2084,7 +2084,7 @@
 	},
 	"S_TWN_Hospital_ZealousAssistant_000_2250bda0-cf27-4567-8a71-b1a066113eb7": {
 		"Passives": ["BSM_BS_UnstoppableMassacre_Passive","FinishingStrike","CX_MiniBoss_Boost"],
-		"Spells": ["NPC_BloodFeast","NPC_AbsorbIntellect"],
+		"Spells": ["NPC_BloodFeast"],
 		"HealthOverride": 66
 	},
 	"S_TWN_Hospital_ZealousAssistant_002_a9e86a16-f426-4772-a187-39256c4568a1": {
