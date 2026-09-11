@@ -129,14 +129,6 @@ data "SpellType" "Target"
 using "Target_Bane"
 data "CombatAIOverrideSpell" "Target_Bane_2_AI"
 
-new entry "Target_Bane_3"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_Bane"
-data "CombatAIOverrideSpell" "Target_Bane_AI"
-
-
-// Family: target_bane_2
 new entry "Target_Bane_2_AI"
 type "SpellData"
 data "SpellType" "Target"
@@ -145,8 +137,12 @@ data "AmountOfTargets" ""
 data "MaximumTargets" "4"
 data "CombatAIOverrideSpell" ""
 
+new entry "Target_Bane_3"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_Bane"
+data "CombatAIOverrideSpell" "Target_Bane_AI"
 
-// Family: target_bane_3
 new entry "Target_Bane_3_AI"
 type "SpellData"
 data "SpellType" "Target"
@@ -327,20 +323,6 @@ data "SpellType" "Target"
 using "Target_SteelWindStrike"
 data "CombatAIOverrideSpell" "Target_SteelWindStrike_6_AI"
 
-new entry "Target_SteelWindStrike_7"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_SteelWindStrike_7"
-data "CombatAIOverrideSpell" "Target_SteelWindStrike_7_AI"
-
-new entry "Target_SteelWindStrike_7"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_SteelWindStrike"
-data "CombatAIOverrideSpell" "Target_SteelWindStrike_7_AI"
-
-
-// Family: target_steelwindstrike_6
 new entry "Target_SteelWindStrike_6_AI"
 type "SpellData"
 data "SpellType" "Target"
@@ -359,8 +341,18 @@ data "AmountOfTargets" ""
 data "MaximumTargets" "6"
 data "CombatAIOverrideSpell" ""
 
+new entry "Target_SteelWindStrike_7"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SteelWindStrike_7"
+data "CombatAIOverrideSpell" "Target_SteelWindStrike_7_AI"
 
-// Family: target_steelwindstrike_7
+new entry "Target_SteelWindStrike_7"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_SteelWindStrike"
+data "CombatAIOverrideSpell" "Target_SteelWindStrike_7_AI"
+
 new entry "Target_SteelWindStrike_7_AI"
 type "SpellData"
 data "SpellType" "Target"
