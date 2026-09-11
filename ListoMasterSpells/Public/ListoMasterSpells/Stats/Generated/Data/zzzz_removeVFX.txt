@@ -59,18 +59,6 @@ data "StatusType" "BOOST"
 using "SCL_MOONSHIELD"
 data "StatusEffect" ""
 
-new entry "HAV_SELUNEOINTMENT"
-type "StatusData"
-data "StatusType" "BOOST"
-using "HAV_SELUNEOINTMENT"
-data "StatusEffect" ""
-
-new entry "SEE_INVISIBILITY"
-type "StatusData"
-data "StatusType" "BOOST"
-using "SEE_INVISIBILITY"
-data "StatusEffect" ""
-
 new entry "SHIELD_OF_FAITH"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -88,12 +76,6 @@ type "StatusData"
 data "StatusType" "BOOST"
 using "STONESKIN"
 data "ApplyEffect" ""
-
-new entry "SYMBIOTIC_ENTITY"
-type "StatusData"
-data "StatusType" "BOOST"
-using "SYMBIOTIC_ENTITY"
-data "StatusEffect" ""
 
 new entry "WARDING_BOND"
 type "StatusData"
@@ -133,18 +115,6 @@ data "StatusType" "BOOST"
 using "ARMOR_OF_AGATHYS"
 data "SoundLoop" ""
 data "SoundStop" "Spell_Status_ArmorOfAgathys_MO_Stop"
-data "StatusEffect" ""
-
-new entry "SEE_INVISIBILITY"
-type "StatusData"
-data "StatusType" "BOOST"
-using "SEE_INVISIBILITY"
-data "StatusEffect" ""
-
-new entry "SYMBIOTIC_ENTITY"
-type "StatusData"
-data "StatusType" "BOOST"
-using "SYMBIOTIC_ENTITY"
 data "StatusEffect" ""
 
 new entry "SCL_MOONSHIELD_AURA"
@@ -280,9 +250,3 @@ data "StatusEffect" ""
 // ===============================================================
 // Blessing of Selune
 // ===============================================================
-
-new entry "HAV_SELUNEOINTMENT"
-type "StatusData"
-data "StatusType" "BOOST"
-using "HAV_SELUNEOINTMENT"
-data "StatusEffect" ""

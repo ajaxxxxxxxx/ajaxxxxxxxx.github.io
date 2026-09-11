@@ -1,0 +1,51 @@
+// Identical duplicate declarations consolidated from ListoMasterSpells and ListoPatches sub-mods.
+// Unique key: (type, entry name).
+
+new entry "PSIONICWARDEN_Cowl"
+type "Armor"
+using "PSIONICWARDEN_Cowl"
+data "RootTemplate" "8ae5968f-3555-40c0-8e50-66aab3845afb"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "Boosts" ""
+data "PassivesOnEquip" ""
+data "Proficiency Group" ""
+
+new entry "ARA_Cloak_WarlockSpellSlot_Passive"
+type "PassiveData"
+data "DisplayName" "h51ed988cg5af7g405egbe95g4716c4d21fbd;1"
+data "Description" "hbca51664g4a42g4367gb800g913a1eca7e79;1"
+data "Boosts" ""
+
+new entry "Target_LightningCharged"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_LightningCharged"
+data "SpellProperties" "ApplyStatus(LIGHTNING_CHARGED,100,10)"
+data "TooltipStatusApply" "ApplyStatus(LIGHTNING_CHARGED,100,10)"
+
+new entry "Target_LightningCharged_9"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_LightningCharged_9"
+data "SpellProperties" "ApplyStatus(LIGHTNING_CHARGED_9,100,10)"
+data "TooltipStatusApply" "ApplyStatus(LIGHTNING_CHARGED_9,100,10)"
+
+new entry "HAV_SELUNEOINTMENT"
+type "StatusData"
+data "StatusType" "BOOST"
+using "HAV_SELUNEOINTMENT"
+data "StatusEffect" ""
+
+new entry "SEE_INVISIBILITY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SEE_INVISIBILITY"
+data "StatusEffect" ""
+
+new entry "SYMBIOTIC_ENTITY"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SYMBIOTIC_ENTITY"
+data "StatusEffect" ""

@@ -1,19 +1,5 @@
 // aljo's fixes
 // change Lightning Charged from 100 rounds to 10 roundns
-new entry "Target_LightningCharged"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_LightningCharged"
-data "SpellProperties" "ApplyStatus(LIGHTNING_CHARGED,100,10)"
-data "TooltipStatusApply" "ApplyStatus(LIGHTNING_CHARGED,100,10)"
-
-new entry "Target_LightningCharged_9"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_LightningCharged_9"
-data "SpellProperties" "ApplyStatus(LIGHTNING_CHARGED_9,100,10)"
-data "TooltipStatusApply" "ApplyStatus(LIGHTNING_CHARGED_9,100,10)"
-
 new entry "Target_LightningCharged_8"
 type "SpellData"
 data "SpellType" "Target"

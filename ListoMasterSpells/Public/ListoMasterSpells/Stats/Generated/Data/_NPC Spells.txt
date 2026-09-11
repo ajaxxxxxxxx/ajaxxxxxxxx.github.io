@@ -65,12 +65,6 @@ data "CombatAIOverrideSpell" ""
 data "RootSpellID" ""
 
 // Steel Wind Strike
-new entry "Target_SteelWindStrike"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_SteelWindStrike"
-data "CombatAIOverrideSpell" "Target_SteelWindStrike_AI"
-
 new entry "Target_SteelWindStrike_AI"
 type "SpellData"
 data "SpellType" "Target"
@@ -115,13 +109,6 @@ data "RootSpellID" ""
 // ======================================== Adding AI helpers to existing spells ========================================
 
 // Artistry of War
-new entry "Projectile_CursedTome_CurriculumofStrategy"
-type "SpellData"
-data "SpellType" "Projectile"
-using "Projectile_CursedTome_CurriculumofStrategy"
-data "SpellProperties" "DealDamage(2d6+6,Force);AI_ONLY:ApplyStatus(AI_HELPER_BUFF_LARGE, 100, 5)"
-
-// Sunburst
 new entry "Target_Sunburst"
 type "SpellData"
 data "SpellType" "Target"
@@ -129,14 +116,6 @@ using "Target_Sunburst"
 data "SpellProperties" "AI_ONLY:ApplyStatus(AI_HELPER_BUFF_LARGE, 100, 5)"
 
 // Incendiary Cloud
-new entry "Target_ATT_IncendiaryCloud"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_InsectPlague"
-data "Level" "8"
-data "SpellProperties" "GROUND:Summon(fc12b3c7-d413-49dd-886f-cb626bb4e958,10,Projectile_AiHelper_Silence,,,ATT_INCENDIARY_CLOUD_AURA);ApplyStatus(ATT_INCENDIARY_CLOUD_TECHNICAL,100,1);GROUND:CreateSurface(6,10,DarknessCloud,true);GROUND:ApplyStatus(SELF,ATT_INCENDIARY_CLOUD_CASTER,100,10);AI_ONLY:ApplyStatus(AI_HELPER_BUFF_LARGE, 100, 3)"
-
-// removing the AI helper from the recast so AI don't just only spam it
 new entry "Target_ATT_IncendiaryCloud_Recast" 
 type "SpellData"
 data "SpellType" "Target"
