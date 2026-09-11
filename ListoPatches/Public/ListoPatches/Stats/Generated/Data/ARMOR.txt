@@ -1,0 +1,15 @@
+// Armor declarations moved from ListoMasterSpells
+// Consolidated from ListoMasterSpells into ListoPatches.
+// Entry identity is the exact combination of type and name.
+
+// Family: psionicwarden_cowl
+new entry "PSIONICWARDEN_Cowl"
+type "Armor"
+using "PSIONICWARDEN_Cowl"
+data "RootTemplate" "8ae5968f-3555-40c0-8e50-66aab3845afb"
+data "ValueOverride" "1"
+data "Weight" "0.01"
+data "Rarity" "Common"
+data "Boosts" ""
+data "PassivesOnEquip" ""
+data "Proficiency Group" ""
