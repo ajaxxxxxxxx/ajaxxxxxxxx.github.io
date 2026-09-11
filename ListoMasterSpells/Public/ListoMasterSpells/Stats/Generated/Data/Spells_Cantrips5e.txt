@@ -1,6 +1,0 @@
-new entry "Target_SpareTheDying"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_SpareTheDying"
-data "UseCosts" "BonusActionPoint:1"
-data "TargetRadius" "9"
