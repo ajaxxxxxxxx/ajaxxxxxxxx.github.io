@@ -15,7 +15,25 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v10.0 CatDude Edition (WIP)
+## Listonomicon v10.4 CatDude Edition (WIP)
+
+Skipping a lot of numbers internally due to testing/changes not reflected in changelog. Sorry.
+
+Save safe? No.
+
+1. Merged/consolidated/cleaned Listo's patches, Degreaser, master spells patch, and random addenda patches for a net reduction of ~12,000 lines of deleted stuff or deleted files.
+2. Deconflicted ~30 localization errors/differences/conflicts.
+3. Massively simplified the list of places that CatDude55 or other contributors have to hunt through to find issues and fix code.
+4. Updated the MO2-BG3 plugin. Hopefully improves multiplayer reliability.
+5. REMOVED Patches for CC Races because Race CC Universal Automatic Patcher should be doing the same thing. Report if certain heads are now missing on custom races/subraces or Speak With Dead VFX doesn't work.
+6. REMOVED Mizora's Milk.
+7. REMOVED (optional) Grit and Glory, Mogris's Disciples, Many More Monsters, Advanced Enemy Randomizer, Extra encounters and Minibosses.
+8. Removed Kikyo's Mountain and Wilderness Camp Overhauls.
+9. Removed More Enemies in Basic Fights.
+10. Removed Listo master spells patch, as it is now inside the general Listo patch.
+11. Updated 74 mods.
+
+## Listonomicon v10.0 CatDude Edition
 
 Save safe? No.
 
