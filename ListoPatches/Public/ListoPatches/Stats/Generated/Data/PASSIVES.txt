@@ -1,0 +1,226 @@
+// PassiveData declarations moved from ListoMasterSpells
+// Consolidated from ListoMasterSpells into ListoPatches.
+// Entry identity is the exact combination of type and name.
+
+// Family: ara_cloak_warlockspellslot_passive
+new entry "ARA_Cloak_WarlockSpellSlot_Passive"
+type "PassiveData"
+data "DisplayName" "h51ed988cg5af7g405egbe95g4716c4d21fbd;1"
+data "Description" "hbca51664g4a42g4367gb800g913a1eca7e79;1"
+data "Boosts" ""
+
+
+// Family: armorofagathys
+new entry "ArmorOfAgathys_7"
+type "PassiveData"
+using "ArmorOfAgathys"
+data "DescriptionParams" "DealDamage(35,Cold)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);DealDamage(SWAP,35,Cold, Magical)"
+
+new entry "ArmorOfAgathys_8"
+type "PassiveData"
+using "ArmorOfAgathys"
+data "DescriptionParams" "DealDamage(40,Cold)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);DealDamage(SWAP,40,Cold, Magical)"
+
+new entry "ArmorOfAgathys_9"
+type "PassiveData"
+using "ArmorOfAgathys"
+data "DescriptionParams" "DealDamage(45,Cold)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);DealDamage(SWAP,45,Cold, Magical)"
+
+
+// Family: decayingtouch
+new entry "DecayingTouch"
+type "PassiveData"
+using "DecayingTouch"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and not IsRedirectedDamage()"
+data "StatsFunctors" "DealDamage(1d6,Necrotic,Magical,,0,,true,true);CreateExplosion(Projectile_NecroticEffect_Explosion);IF(not SpellId('Target_DecayingTouch')):RemoveStatus(DECAYING_TOUCH)"
+data "StatsFunctorContext" "OnDamaged"
+
+new entry "DecayingTouch_2"
+type "PassiveData"
+using "DecayingTouch"
+data "StatsFunctors" "DealDamage(2d6,Necrotic,Magical,,0,,true,true);CreateExplosion(Projectile_NecroticEffect_Explosion);IF(not SpellId('Target_DecayingTouch')):RemoveStatus(DECAYING_TOUCH_2)"
+
+new entry "DecayingTouch_3"
+type "PassiveData"
+using "DecayingTouch"
+data "StatsFunctors" "DealDamage(3d6,Necrotic,Magical,,0,,true,true);CreateExplosion(Projectile_NecroticEffect_Explosion);IF(not SpellId('Target_DecayingTouch')):RemoveStatus(DECAYING_TOUCH_3)"
+
+new entry "DecayingTouch_4"
+type "PassiveData"
+using "DecayingTouch"
+data "StatsFunctors" "DealDamage(4d6,Necrotic,Magical,,0,,true,true);CreateExplosion(Projectile_NecroticEffect_Explosion);IF(not SpellId('Target_DecayingTouch')):RemoveStatus(DECAYING_TOUCH_4)"
+
+
+// Family: fistsoffire_bonusoverride
+new entry "FistsOfFire_BonusOverride"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "BoostContext" "OnTurn;OnCast;OnAttack;OnCreate"
+data "BoostConditions" "not HasActionResource('ActionPoint',1,0,false,false,context.Source) and HasActionResource('BonusActionPoint',1,0,false,false,context.Source)"
+data "Boosts" "AttackSpellOverride(Target_UnarmedAttack_FistsOfFire_Override_Bonus, Target_UnarmedAttack);UnlockSpellVariant(SpellId('Target_UnarmedAttack_FistsOfFire_Override_Bonus'),ModifyUseCosts(Replace,BonusActionPoint,1,0,ActionPoint),ModifyIconGlow())"
+
+
+// Family: fistsoffire_override
+new entry "FistsOfFire_Override"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "BoostContext" "OnTurn;OnCast;OnAttack;OnCreate"
+data "BoostConditions" "HasActionResource('ActionPoint',1,0,false,false,context.Source) or (not HasActionResource('ActionPoint',1,0,false,false,context.Source) and not HasActionResource('BonusActionPoint',1,0,false,false,context.Source)) or HasAnyExtraAttack()"
+data "Boosts" "AttackSpellOverride(Target_UnarmedAttack_FistsOfFire_Override, Target_UnarmedAttack)"
+
+
+// Family: flamingsphere_state
+new entry "FlamingSphere_State_7"
+type "PassiveData"
+using "FlamingSphere_State"
+data "DescriptionParams" "DealDamage(7d6,Fire)"
+data "ToggleOnFunctors" "ApplyStatus(FLAMING_SPHERE_AURA_7,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(FLAMING_SPHERE_AURA_7)"
+
+new entry "FlamingSphere_State_8"
+type "PassiveData"
+using "FlamingSphere_State"
+data "DescriptionParams" "DealDamage(8d6,Fire)"
+data "ToggleOnFunctors" "ApplyStatus(FLAMING_SPHERE_AURA_8,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(FLAMING_SPHERE_AURA_8)"
+
+new entry "FlamingSphere_State_9"
+type "PassiveData"
+using "FlamingSphere_State"
+data "DescriptionParams" "DealDamage(9d6,Fire)"
+data "ToggleOnFunctors" "ApplyStatus(FLAMING_SPHERE_AURA_9,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(FLAMING_SPHERE_AURA_9)"
+
+
+// Family: hellishrebuke
+new entry "HellishRebuke_7"
+type "PassiveData"
+data "DisplayName" "hb625c2ecg7119g43edga7b9gef18c19064ba;1"
+data "Description" "h712cc5dcg0597g4c7fg87efg120bc07fe32e;1"
+data "DescriptionParams" "DealDamage(8d10,Fire)"
+data "ExtraDescription" "ha25d0fa5g0cedg42bcg9540geab3d36f2899;2"
+data "TooltipUseCosts" "ReactionActionPoint:1"
+data "Icon" "Spell_HellishRebuke"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "HasActionResource('ReactionActionPoint', 1, 0, false) and Enemy()"
+data "StatsFunctors" "UseSpell(SWAP,Target_HellishRebuke_7,true,true,true);UseActionResource(ReactionActionPoint,1);RemoveStatus(HELLISH_REBUKE_7)"
+
+new entry "HellishRebuke_8"
+type "PassiveData"
+data "DisplayName" "hb625c2ecg7119g43edga7b9gef18c19064ba;1"
+data "Description" "h712cc5dcg0597g4c7fg87efg120bc07fe32e;1"
+data "DescriptionParams" "DealDamage(9d10,Fire)"
+data "ExtraDescription" "ha25d0fa5g0cedg42bcg9540geab3d36f2899;2"
+data "TooltipUseCosts" "ReactionActionPoint:1"
+data "Icon" "Spell_HellishRebuke"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "HasActionResource('ReactionActionPoint', 1, 0, false) and Enemy()"
+data "StatsFunctors" "UseSpell(SWAP,Target_HellishRebuke_8,true,true,true);UseActionResource(ReactionActionPoint,1);RemoveStatus(HELLISH_REBUKE_8)"
+
+new entry "HellishRebuke_9"
+type "PassiveData"
+data "DisplayName" "hb625c2ecg7119g43edga7b9gef18c19064ba;1"
+data "Description" "h712cc5dcg0597g4c7fg87efg120bc07fe32e;1"
+data "DescriptionParams" "DealDamage(10d10,Fire)"
+data "ExtraDescription" "ha25d0fa5g0cedg42bcg9540geab3d36f2899;2"
+data "TooltipUseCosts" "ReactionActionPoint:1"
+data "Icon" "Spell_HellishRebuke"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "HasActionResource('ReactionActionPoint', 1, 0, false) and Enemy()"
+data "StatsFunctors" "UseSpell(SWAP,Target_HellishRebuke_9,true,true,true);UseActionResource(ReactionActionPoint,1);RemoveStatus(HELLISH_REBUKE_9)"
+
+
+// Family: huntersmark
+new entry "HuntersMark"
+type "PassiveData"
+using "HuntersMark"
+data "Boosts" "IF(HasStatus('HUNTERS_MARK',context.Target,context.Source) and (IsWeaponAttack() or IsUnarmedAttack()) and HasDamageEffectFlag(DamageFlags.Hit)):DamageBonus(1d6)"
+data "Conditions" "HasStatus('HUNTERS_MARK',context.Target,context.Source) and (IsWeaponAttack() or IsUnarmedAttack()) and HasDamageEffectFlag(DamageFlags.Hit) and TotalAttackDamageDoneGreaterThan(0)"
+
+
+// Family: land_coast
+new entry "Land_Coast_2"
+type "PassiveData"
+using "Land_Coast_2"
+data "Boosts" "UnlockSpell(Wall_WallOfStone,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);UnlockSpell(Target_Fly,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom)"
+
+
+// Family: land_desert
+new entry "Land_Desert_2"
+type "PassiveData"
+using "Land_Desert_2"
+data "Boosts" "UnlockSpell(Wall_WallOfStone,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);UnlockSpell(Target_HypnoticPattern,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom)"
+
+new entry "Land_Desert_4"
+type "PassiveData"
+using "Land_Desert_4"
+data "Boosts" "UnlockSpell(Target_FlameStrike,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);UnlockSpell(Target_InsectPlague,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom)"
+
+
+// Family: land_mountain
+new entry "Land_Mountain_4"
+type "PassiveData"
+using "Land_Mountain_4"
+data "Boosts" "UnlockSpell(Throw_Telekinesis,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);UnlockSpell(Target_ConjureElemental_Container,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom)"
+
+
+// Family: repellingblast
+new entry "RepellingBlast"
+type "PassiveData"
+// Repelling Blast
+data "DisplayName" "hf6a72bdfg5022g4befg86c2g9382c643da51;2"
+// When you hit a creature with <LSTag Type="Spell" Tooltip="Projectile_EldritchBlast">Eldritch Blast</LSTag>, you can push the creature up to [1] away from you.
+data "Description" "h37c1bb57g04fag4e45g8953gb5bec46f0c48;3"
+data "DescriptionParams" "Distance(4.5)"
+data "Icon" "PassiveFeature_RepellingBlast"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "SpellId('Projectile_EldritchBlast') and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Strength,SourceSpellDC())):ApplyStatus(PASSIVE_REPELLING_BLAST,100,0)"
+
+
+// Family: sailor_greaterinvisibility_tracking_ar
+new entry "Sailor_GreaterInvisibility_Tracking_AR"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnCast;OnAttack"
+data "StatsFunctors" "IF((context.HasContextFlag(StatsFunctorContext.OnCast) and IsSpell() and not HasSpellFlag(SpellFlags.Invisible)) or (context.HasContextFlag(StatsFunctorContext.OnAttack) and IsHit())):ApplyStatus(SELF,SAILOR_GREATERINVIS_TECH_AR,100,0)"
+
+
+// Family: shadowblade_passive
+new entry "ShadowBlade_Passive"
+type "PassiveData"
+using "ShadowBlade_Passive"
+// data "Boosts" "IF(AttackedWithPassiveSourceWeapon() and not HasObscuredState(ObscuredState.Clear)):Advantage(AttackRoll)"
+data "Boosts" "IF(IsMeleeWeaponAttack() and not HasObscuredState(ObscuredState.Clear)):Advantage(AttackRoll)"
+
+
+// Family: syr_bestowcurse_curse_mental_passive
+new entry "Syr_Bestowcurse_Curse_Mental_Passive"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "DisplayName" "hecd9906egd25cg4cc0gb572g385100df550e;1"
+data "Description" "h42b7d1bag136dg49c5ga2d5g96b4f472cb38;1"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Wisdom,SourceSpellDC())):ApplyStatus(CURSE_SKIPPED_TURN,100,1)"
+data "StatsFunctorContext" "OnTurn"
+
+
+// Family: syr_druidqol_wildshape_action_passive
+new entry "SYR_DruidQoL_Wildshape_Action_Passive"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape);IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape_Bear_Polar);IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape_Cat);IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape_Wolf_Dire);IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape_Spider);IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape_Badger);IF(ClassLevelHigherOrEqualThan(4,'Druid')):UnlockSpell(Shout_WildShape_DeepRothe);IF(ClassLevelHigherOrEqualThan(4,'Druid')):UnlockSpell(Shout_WildShape_Raven);IF(ClassLevelHigherOrEqualThan(6,'Druid')):UnlockSpell(Shout_Wildshape_Panther);IF(ClassLevelHigherOrEqualThan(6,'Druid')):UnlockSpell(Shout_WildShape_Owlbear);IF(ClassLevelHigherOrEqualThan(8,'Druid')):UnlockSpell(Shout_Wildshape_SaberTooth_Tiger);IF(ClassLevelHigherOrEqualThan(10,'Druid')):UnlockSpell(Shout_WildShape_Dilophosaurus);IF(ClassLevelHigherOrEqualThan(10,'Druid')):UnlockSpell(Shout_WildShape_Myrmidon_Air);IF(ClassLevelHigherOrEqualThan(10,'Druid')):UnlockSpell(Shout_WildShape_Myrmidon_Fire);IF(ClassLevelHigherOrEqualThan(10,'Druid')):UnlockSpell(Shout_WildShape_Myrmidon_Water);IF(ClassLevelHigherOrEqualThan(10,'Druid')):UnlockSpell(Shout_WildShape_Myrmidon_Earth)"
+
+
+// Family: syr_false_life_dr_passive
+new entry "SYR_False_Life_DR_Passive"
+type "PassiveData"
+data "DisplayName" "ha0180935g478ag43f4ga251ga140eeb78609;1"
+data "Properties" "IsHidden"
+data "Boosts" "Resistance(Necrotic,Resistant);IF(HasStatus('FALSE_LIFE')):DamageReduction(All, Flat, 1);IF(HasStatus('FALSE_LIFE_2')):DamageReduction(All, Flat, 1);IF(HasStatus('FALSE_LIFE_3')):DamageReduction(All, Flat, 2);IF(HasStatus('FALSE_LIFE_4')):DamageReduction(All, Flat, 2);IF(HasStatus('FALSE_LIFE_5')):DamageReduction(All, Flat, 3);IF(HasStatus('FALSE_LIFE_6')):DamageReduction(All, Flat, 3);IF(HasStatus('FALSE_LIFE_7')):DamageReduction(All, Flat, 4);IF(HasStatus('FALSE_LIFE_8')):DamageReduction(All, Flat, 4);IF(HasStatus('FALSE_LIFE_9')):DamageReduction(All, Flat, 5)"

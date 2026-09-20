@@ -1,0 +1,31 @@
+// Weapon declarations moved from ListoMasterSpells
+// Consolidated from ListoMasterSpells into ListoPatches.
+// Entry identity is the exact combination of type and name.
+
+// Family: wpn_scimitar_flameblade
+new entry "WPN_Scimitar_FlameBlade"
+type "Weapon"
+// using "_BaseWeapon"
+using "WPN_Scimitar_FlameBlade"
+// data "Damage" "3d6"
+data "Damage" "1d6"
+// data "DefaultBoosts" "HiddenDuringCinematic();CannotBeDisarmed()"
+data "DefaultBoosts" "WeaponProperty(Magical);CannotBeDisarmed()"
+// data "Weapon Group" "SimpleMeleeWeapon"
+data "Weapon Group" "MartialMeleeWeapon"
+// data "Weapon Properties" "Melee;Unstowable;Light"
+data "Weapon Properties" "Finesse;Light;Melee;Dippable"
+// data "Proficiency Group" "Scimitars;SimpleWeapons"
+data "Proficiency Group" "Scimitars;MartialWeapons"
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_OpeningAttack);UnlockSpell(Target_Slash_New)"
+
+
+// Family: wpn_shadowblade
+new entry "WPN_ShadowBlade"
+type "Weapon"
+// using "WPN_Shortsword_1"
+using "WPN_ShadowBlade"
+// data "Damage" "2d8"
+data "Damage" "1d6"
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_OpeningAttack);UnlockSpell(Target_PiercingThrust)"
+data "Weapon Properties" "Finesse;Light;Melee;Dippable"

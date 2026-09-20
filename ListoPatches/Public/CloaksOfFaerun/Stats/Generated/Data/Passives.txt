@@ -270,18 +270,6 @@ data "DisplayName" "h795aecfcg0442g4c5egb6e1g1410d485eb4c;1"
 data "Description" "h3212d287g260ag4c19g805agb58c41b15fdc;1"
 data "Boosts" "StatusImmunity(ACID);Resistance(Acid, Resistant);StatusImmunity(POISONED);Resistance(Poison, Resistant)"
 
-new entry "ARA_Cloak_WarlockSpellSlot_Passive"
-type "PassiveData"
-data "DisplayName" "h51ed988cg5af7g405egbe95g4716c4d21fbd;1"
-data "Description" "hbca51664g4a42g4367gb800g913a1eca7e79;1"
-data "Boosts" ""
-
-new entry "ARA_Cloak_WarlockSpellSlot_Passive"
-type "PassiveData"
-data "DisplayName" "h51ed988cg5af7g405egbe95g4716c4d21fbd;1"
-data "Description" "hbca51664g4a42g4367gb800g913a1eca7e79;1"
-data "Boosts" ""
-
 new entry "ARA_Cloak_Hex1_Passive"
 type "PassiveData"
 data "DisplayName" "hbc8b1c44g6398g433fg901eg001a6b10bfc7;1"

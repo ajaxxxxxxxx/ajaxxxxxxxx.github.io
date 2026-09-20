@@ -1,0 +1,16 @@
+// Object declarations moved from ListoMasterSpells
+// Consolidated from ListoMasterSpells into ListoPatches.
+// Entry identity is the exact combination of type and name.
+
+// Family: obj_scroll_dimensiondoor
+new entry "OBJ_Scroll_DimensionDoor"
+type "Object"
+using "_MagicScroll"
+data "UseCosts" "BonusActionPoint:1"
+
+
+// Family: obj_wall_of_stone
+new entry "OBJ_Wall_Of_Stone"
+type "Object"
+using "OBJ_Wall_Of_Stone"
+data "Vitality" "20"
