@@ -3154,15 +3154,6 @@ data "SpellProperties" "GROUND:Summon(3b8efb07-5258-4e59-903f-d10ce3f5417b,Until
 
 // Changes Summon Shadowspawn to be BG3-rules for summons (UntilLongRest, no Concentration requirement)
 
-
-// Family: target_conjureintellectdevour
-new entry "Target_ConjureIntellectDevour"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_ConjureIntellectDevour"
-data "Cooldown" ""
-
-
 // Family: target_createwater
 new entry "Target_CreateWater"
 type "SpellData"
