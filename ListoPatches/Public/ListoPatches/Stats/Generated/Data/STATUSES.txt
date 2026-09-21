@@ -101,15 +101,6 @@ data "SoundLoop" ""
 data "StatusEffect" ""
 
 
-// Family: blessing_of_the_trickster
-new entry "BLESSING_OF_THE_TRICKSTER"
-type "StatusData"
-data "StatusType" "BOOST"
-using "BLESSING_OF_THE_TRICKSTER"
-data "SoundLoop" ""
-data "StatusEffect" ""
-
-
 // Family: calm_emotions
 new entry "CALM_EMOTIONS"
 type "StatusData"
