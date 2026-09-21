@@ -140,9 +140,6 @@ data "AmountOfTargets" ""
 data "MaximumTargets" "5"
 data "CombatAIOverrideSpell" ""
 
-// Steel Wind Strike
-
-
 // Family: target_riseundead_deathshepherd
 new entry "Target_RiseUndead_DeathShepherd"
 type "SpellData"
@@ -163,14 +160,6 @@ type "SpellData"
 data "SpellType" "Target"
 using "Target_SteelWindStrike"
 data "AreaRadius" "9"
-data "AmountOfTargets" ""
-data "MaximumTargets" "5"
-data "CombatAIOverrideSpell" ""
-
-new entry "Target_SteelWindStrike_AI"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_SteelWindStrike"
 data "AmountOfTargets" ""
 data "MaximumTargets" "5"
 data "CombatAIOverrideSpell" ""
@@ -197,24 +186,10 @@ data "MaximumTargets" "6"
 data "CombatAIOverrideSpell" ""
 data "RootSpellID" ""
 
-new entry "Target_SteelWindStrike_6_AI"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_SteelWindStrike_6"
-data "AmountOfTargets" ""
-data "MaximumTargets" "6"
-data "CombatAIOverrideSpell" ""
-
 new entry "Target_SteelWindStrike_7"
 type "SpellData"
 data "SpellType" "Target"
 using "Target_SteelWindStrike_7"
-data "CombatAIOverrideSpell" "Target_SteelWindStrike_7_AI"
-
-new entry "Target_SteelWindStrike_7"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_SteelWindStrike"
 data "CombatAIOverrideSpell" "Target_SteelWindStrike_7_AI"
 
 new entry "Target_SteelWindStrike_7_AI"
