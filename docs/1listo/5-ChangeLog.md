@@ -58,6 +58,7 @@ Save safe? No.
 35. Added Never Dark Again - Arabella Act 2 tweaks.
 36. Added G.A.R.L.I.C.
 37. Removed Fade's Equipment Distribution as apparently FADE's AIO does the same thing and having both is incorrect.
+38. Changed load order and added musicperformworkaround to make sure mods and their dependencies are in the right order. And that dependencies exist.
 
 ## Listonomicon v10.0 CatDude Edition
 
