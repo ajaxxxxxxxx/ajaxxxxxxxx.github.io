@@ -57,6 +57,7 @@ Save safe? No.
 34. Added Lie to Glut.
 35. Added Never Dark Again - Arabella Act 2 tweaks.
 36. Added G.A.R.L.I.C.
+37. Removed Fade's Equipment Distribution as apparently FADE's AIO does the same thing and having both is incorrect.
 
 ## Listonomicon v10.0 CatDude Edition
 
