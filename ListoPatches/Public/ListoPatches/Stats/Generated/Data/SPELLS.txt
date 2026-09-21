@@ -718,12 +718,6 @@ data "SpellType" "ProjectileStrike"
 using "ProjectileStrike_ConjureVolley"
 data "TargetRadius" "18"
 
-new entry "ProjectileStrike_ConjureVolley"
-type "SpellData"
-data "SpellType" "ProjectileStrike"
-using "ProjectileStrike_ConjureVolley"
-data "TargetRadius" "18"
-
 // end
 
 
