@@ -792,6 +792,7 @@ using "CSS_HelmArmor_Pass_Weavebane"
 data "Boosts" "IF(IsMeleeAttack() and IsConcentrating(context.Target)):CharacterWeaponDamage(1d6,Force);IF(IsSpell()):RollBonus(SavingThrow, Advantage)"
 data "Description" "h26e9271ag521dg49begb54eg511971cdde17"
 
+
 // Chest armour: fixes Faithguard +2 AC remaining on target even if they no longer have Shield of Faith
 new entry "CSS_HelmArmory_Pass_Faithguard"
 type "PassiveData"
@@ -825,12 +826,7 @@ using "CSS_HelmArmor_Pass_DivineVigilance"
 // You gain a +3 bonus to Initiative Rolls and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.
 data "Description" "ha910c197g7b7ag443dga5cagace2a219dde8"
 
-new entry "CSS_HelmArmor_Pass_Weavebane"
-type "PassiveData"
-using "CSS_HelmArmor_Pass_Weavebane"
-// You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against spells. This weapon deals an additional [1] to targets &lt;LSTag Tooltip="Concentration"&gt;Concentrating&lt;/LSTag&gt; on a spell.
-data "Description" "h26e9271ag521dg49begb54eg511971cdde17"
-// data "DescriptionParams" "DealDamage(1d6,Force)"
+
 
 new entry "CSS_HelmArmory_Pass_ShieldHeal"
 type "PassiveData"
