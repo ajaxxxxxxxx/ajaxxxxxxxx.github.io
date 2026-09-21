@@ -32,6 +32,31 @@ Save safe? No.
 9. Removed More Enemies in Basic Fights.
 10. Removed Listo master spells patch, as it is now inside the general Listo patch.
 11. Updated 74 mods.
+12. Added More Camp Idles for Gale and Lae'zel.
+13. Added Act Two Expansion - Custom Campaign for testing. If you want to test the mod for the most useful feedback, enable "Act Two Expansion" and play like normal. If you just want to test the mod itself as existing within Listo's other mods, enable the "Quickstart" version.
+14. Added Immersive Broodmother's Revenge.
+15. Added Immersive Ravengard Armour.
+16. Added Immersive Isobel Equipment.
+17. Added Lae'zel Died. Which sounds like a joke mod, but actually has a compelling purpose.
+18. Added Bububull hair pack 04.
+19. Added Unlocked Trajectory 2.0.
+20. Added Harvest Companion Tadpoles.
+21. Added (for testing) fall of the Valorous. If you want to provide feedback on if this mod fits Listo, do NOT enable other optional extra encounter mods so that overlap of encounters can be tested against the default list.
+22. Added Lae'zel's Cage Trap Fixed.
+23. Added True Disguise Self - Dialogues Unlocked.
+24. Added Lunomi's Horns Pt I.
+25. Added (optional) Cursed Loading Screens.
+26. Added A Beautiful Webbing and A Beautiful Webbing Act 3.
+27. Added (optional) Sassier Dream Guardian.
+28. Removed Mori's Astral Elves. Added Tepkunset's Astral Elves.
+29. Added Vulnerable Nerf. This changes the bonus damage from Vulnerable from doubling damage, to just 150% damage (1.5x instead of 2.0x). I know this departs from 5e rules but it seems like a sensible way to balance my approach to Combat Extender so that vulnerabilities are a meaningful way of playing around buffed enemies, without creating mutual rocket tag.
+30. Added Companion Combat Death Reactivity.
+31. Added Gnome Beauties Head Pack.
+32. Added Lie to Vlaakith.
+33. Added More Enemies in Boss Fights.
+34. Added Lie to Glut.
+35. Added Never Dark Again - Arabella Act 2 tweaks.
+36. Added G.A.R.L.I.C.
 
 ## Listonomicon v10.0 CatDude Edition
 
