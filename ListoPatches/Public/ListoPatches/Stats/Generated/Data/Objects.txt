@@ -912,3 +912,20 @@ data "Boosts" "StatusImmunity(SG_Disease);StatusImmunity(SG_Poisoned);Resistance
 data "OnApplyFunctors" "ApplyStatus(LOW_STORMSHORETABERNACLE_GODCURSED,100,-1)"
 data "StatusPropertyFlags" "IgnoreResting;DisableCombatlog;DisablePortraitIndicator;DisableOverhead;ApplyToDead"
 data "TickFunctors" "IF(not IsDowned() and HasHPPercentageWithoutTemporaryHPLessThan(100) and Tagged('UNDEAD')):RegainHitPoints(1d4,Undead);IF(not IsDowned() and HasHPPercentageWithoutTemporaryHPLessThan(100) and not Tagged('UNDEAD')):RegainHitPoints(1d4)"
+
+// Object declarations moved from ListoMasterSpells
+// Consolidated from ListoMasterSpells into ListoPatches.
+// Entry identity is the exact combination of type and name.
+
+// Family: obj_scroll_dimensiondoor
+new entry "OBJ_Scroll_DimensionDoor"
+type "Object"
+using "_MagicScroll"
+data "UseCosts" "BonusActionPoint:1"
+
+
+// Family: obj_wall_of_stone
+new entry "OBJ_Wall_Of_Stone"
+type "Object"
+using "OBJ_Wall_Of_Stone"
+data "Vitality" "20"
