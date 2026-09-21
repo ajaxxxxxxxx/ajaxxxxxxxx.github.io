@@ -924,21 +924,13 @@ data "Passives" "HellishRebuke_9"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
 
-// Family: hex_reapply
 new entry "HEX_REAPPLY"
 type "StatusData"
 data "StatusType" "BOOST"
 using "HEX_REAPPLY"
+data "SoundStart" ""
 data "SoundLoop" ""
-data "StatusEffect" ""
-
-new entry "HEX_REAPPLY"
-type "StatusData"
-data "StatusType" "BOOST"
-using "HEX_REAPPLY"
-data "SoundStart" "Spell_Status_Hex_Enter"
-data "SoundLoop" ""
-data "SoundStop" "Spell_Status_Hex_MO_Stop"
+data "SoundStop" ""
 data "ApplyEffect" "3b08002d-3034-46e1-a9b4-6d95eb7b70f8"
 data "StatusEffect" ""
 
