@@ -24,6 +24,13 @@ data "SpellType" "Target"
 using "Target_DisarmingAttack"
 // data "SpellSuccess" "IF(not SavingThrow(Ability.Strength, ManeuverSaveDC()+2)):ApplyStatus(DISARM,100,0);DealDamage(ImprovisedWeapon+max(DexterityModifier,StrengthModifier), MainMeleeWeaponDamageType);ExecuteWeaponFunctors(MainHand)"
 data "SpellSuccess" "IF(not SavingThrow(Ability.Strength, ManeuverSaveDC()+2)):ApplyStatus(DISARM,100,0);IF(HasAnyStatus({}, {}, {'HEXBLADE_BIND', 'PACT_BLADE', 'SHILLELAGH', 'MAG_MELEE_CASTER_BOON', 'LHB_SEL_TASHASOTHERWORLDLYGUISE_MAGICWEAPON', 'FourEle_Attuned'}, GetAttackWeapon())):DealDamage(ImprovisedWeapon+max(DexterityModifier,StrengthModifier), MainMeleeWeaponDamageType);IF(HasAnyStatus({'HEXBLADE_BIND', 'PACT_BLADE', 'SHILLELAGH', 'MAG_MELEE_CASTER_BOON', 'LHB_SEL_TASHASOTHERWORLDLYGUISE_MAGICWEAPON', 'FourEle_Attuned'}, {}, {}, GetAttackWeapon())):DealDamage(ImprovisedWeapon+max(IntelligenceModifier, WisdomModifier, CharismaModifier), MainMeleeWeaponDamageType);ExecuteWeaponFunctors(MainHand)"
+data "CombatAIOverrideSpell" "Target_DisarmingStrike_AI"
+
+new entry "Target_DisarmingStrike_AI"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_DisarmingStrike"
+data "Cooldown" "OncePerTurn"
 
 // Heartstopper
 new entry "Target_HeartStopper"
