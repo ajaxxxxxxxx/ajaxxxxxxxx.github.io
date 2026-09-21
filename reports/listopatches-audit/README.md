@@ -43,6 +43,10 @@ See [every duplicate and location](duplicates.md) and the [CSV occurrence invent
 
 Seven source-inherited Spirit Guardians `TooltipStatusApply` lines omit whitespace between the key and value. Their locations and full text appear in [validation.md](validation.md); they were left for review. This audit checks text integrity and entry structure, not all BG3 expression semantics or gameplay behavior.
 
-## Reproduce
+## Cross-mod follow-up
+
+The [DeGreaser / ListoPatches comparison](crossmod-duplicates.md) scans both complete Stats folders by `(type, name)`. It finds **2 shared identities across 4 occurrences**, both with differing declarations and none with identical content. Full declarations, source locations, and diffs are included, along with a [CSV inventory](crossmod-occurrences.csv). No mod entries were changed. Run `python tools/audit_crossmod_stats.py` to reproduce this comparison.
+
+## Reproduce the original internal audit
 
 Run `python tools/audit_listopatches.py` from the repository. It validates current text/XML, recreates the duplicate inventory and validation report, and never rewrites mod files. Locations in the reports refer to this PR's content.
