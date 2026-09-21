@@ -45,9 +45,17 @@ data "SpellSuccess" "IF(not HasStatus('MASTERS_FLOURISH',context.Source)):DealDa
 
 new entry "Projectile_EldritchBlast"
 type "SpellData"
+using "Projectile_EldritchBlast"
+data "SpellSuccess" "DealDamage(1d8,Force,Magical);IF(HasStatus('REPELLING_BLAST_TRIGGER',context.Source)):Force(4.5,OriginToTarget,Aggressive)"
+data "TooltipDamageList" "DealDamage(1d8,Force)"
+data "TargetConditions" "not Self()"
+data "CombatAIOverrideSpell" "Projectile_EldritchBlast_AI"
+
+new entry "Projectile_EldritchBlast_AI"
+type "SpellData"
 data "SpellType" "Projectile"
 using "Projectile_EldritchBlast"
-data "SpellSuccess" "DealDamage(1d8,Force,Magical);IF(HasPassive('RepellingBlast',context.Source)):Force(4.5,OriginToTarget,Aggressive)"
+data "TargetConditions" "not Self() and not Dead()"
 
 new entry "Projectile_EldritchBlast_Force_Spell"
 type "SpellData"
