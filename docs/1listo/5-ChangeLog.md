@@ -31,7 +31,7 @@ Save safe? No.
 8. Removed Kikyo's Mountain and Wilderness Camp Overhauls.
 9. Removed More Enemies in Basic Fights.
 10. Removed Listo master spells patch, as it is now inside the general Listo patch.
-11. Updated 74 mods.
+11. Updated 74+ mods.
 12. Added More Camp Idles for Gale and Lae'zel.
 13. Added Act Two Expansion - Custom Campaign for testing. If you want to test the mod for the most useful feedback, enable "Act Two Expansion" and play like normal. If you just want to test the mod itself as existing within Listo's other mods, enable the "Quickstart" version.
 14. Added Immersive Broodmother's Revenge.
@@ -59,6 +59,10 @@ Save safe? No.
 36. Added G.A.R.L.I.C.
 37. Removed Fade's Equipment Distribution as apparently FADE's AIO does the same thing and having both is incorrect.
 38. Changed load order and added musicperformworkaround to make sure mods and their dependencies are in the right order. And that dependencies exist.
+39. Identified about 136 instances of the same spell, piece of gear, status, boost, character entry, etc getting modified more than once within the same patch. Which is a lot, but not as bad as I expected. Essentially this is a stacking series of errors caused by creating a bunch of one-off "this one patch file to address this 1 thing" and not doing a good job of checking if that one thing is already also being modified somewhere else. For example, having one patch that removes VFX/SFX from spells, and a different patch to rebalance spell stats, and a different patch to give spells an updated description, and a different patch to add AI/NPC/upcast versions of those spells... This creates two problems. One, it's a gamble within the same file of which mod is going to "win" and be applied in the event that something has two+ conflicting editions. Two, if the same item gets referenced more than 5 times, it runs afoul an engine limitation and crashes the game. Referencing the same thing 3-5 times in my own patch makes hitting that engine limit inevitable. It also creates a bonus third problem: Making my patches needlessly difficult to audit and fix, which severely limits how much CatDude55 and community contributors can actually help. See: Broken eldritch glaive, eldritch blast having inconsistent stats, probably other stuff that is broken and CD thought was coded wrong but the problem is actually me being dumb.
+    * Examples include: Copy/pasting files from DIQ nerfs, files supplied directly by Goon, Cahoot fixes, files supplied directly by Cahoot, CD patches, files supplied directly by CD, creating 2-6 different places that are all nerfing/modifying JWL Instruments.
+    * Copy/pasting fixes from CD next to my own attempts to do spell rebalances next to Goon's rebalances, creating multiple entries for spell stats even before getting to small things like removing SFX/VFX, auras, and combat log spam.
+40. Redid the selection of Goon's NPC Stat Overhaul to use just 2 files as the basis and manage the rest within the master patch and/or degreaser. Semi-related to the issues above trying to reduce the number of instances where stats are being modified in a dozen different places.
 
 ## Listonomicon v10.0 CatDude Edition
 
