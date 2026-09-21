@@ -97,17 +97,6 @@ data "SpellType" "Target"
 using "Target_ATT_IncendiaryCloud"
 data "SpellProperties" "GROUND:Summon(fc12b3c7-d413-49dd-886f-cb626bb4e958,10,Projectile_AiHelper_Silence,,,ATT_INCENDIARY_CLOUD_AURA);ApplyStatus(ATT_INCENDIARY_CLOUD_TECHNICAL,100,1);GROUND:CreateSurface(6,10,DarknessCloud,true);GROUND:ApplyStatus(SELF,ATT_INCENDIARY_CLOUD_CASTER,100,10)"
 
-/////////
-
-//Special NPC Kobold Summons//
-
-new entry "Target_ATT_IncendiaryCloud_Recast" 
-type "SpellData"
-data "SpellType" "Target"
-using "Target_ATT_IncendiaryCloud"
-data "SpellProperties" "GROUND:Summon(fc12b3c7-d413-49dd-886f-cb626bb4e958,10,Projectile_AiHelper_Silence,,,ATT_INCENDIARY_CLOUD_AURA);ApplyStatus(ATT_INCENDIARY_CLOUD_TECHNICAL,100,1);GROUND:CreateSurface(6,10,DarknessCloud,true);GROUND:ApplyStatus(SELF,ATT_INCENDIARY_CLOUD_CASTER,100,10)"
-
-
 // Family: target_bane
 new entry "Target_Bane"
 type "SpellData"
