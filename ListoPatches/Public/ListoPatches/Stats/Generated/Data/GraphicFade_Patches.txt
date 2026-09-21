@@ -1254,8 +1254,3 @@ data "SpellFail" "IF(not CharacterLevelGreaterThan(11)):DealDamage((10d6+20)/2, 
 data "Description" "hadd1d9a8gdeb7g4fa6g820eg2a482306bd34;1"
 data "DescriptionParams" "DealDamage(10d6+20, Force);Distance(9);DealDamage(10d6+40, Force)"
 data "TooltipDamageList" "DealDamage(10d6+20, Force)"
-
-new entry "JWL_Passive_SymbolKelemvor"
-type "PassiveData"
-using "JWL_Passive_SymbolKelemvor"
-data "Boosts" "IF(IsMeleeWeaponAttack() or IsMeleeUnarmedAttack()):DamageBonus(1,Radiant);IF(IsMeleeWeaponAttack() or IsMeleeUnarmedAttack()):DamageBonus(1,Necrotic)"
