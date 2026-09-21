@@ -58,15 +58,6 @@ data "TickType" "StartTurn"
 data "StatusPropertyFlags" "TickingWithSource"
 data "OnApplyFunctors" "RemoveStatus(BURNING)"
 
-
-// Family: armor_of_agathys
-new entry "ARMOR_OF_AGATHYS"
-type "StatusData"
-data "StatusType" "BOOST"
-using "ARMOR_OF_AGATHYS"
-data "SoundLoop" ""
-data "StatusEffect" ""
-
 new entry "ARMOR_OF_AGATHYS"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -85,17 +76,6 @@ using "BARKSKIN"
 data "Description" "h17333006g3f7fg4fd5ga48ag573b7beaf655;1"
 data "Boosts" "ACOverrideFormula(16,false);Resistance(Bludgeoning,Resistant);DamageReduction(All,Flat,1)"
 
-new entry "BARKSKIN"
-type "StatusData"
-data "StatusType" "BOOST"
-using "BARKSKIN"
-data "StatusEffect" ""
-
-new entry "BARKSKIN"
-type "StatusData"
-data "StatusType" "BOOST"
-using "BARKSKIN"
-data "StatusEffect" ""
 
 // ===============================================================
 // PROTECTION_FROM_POISON
@@ -1383,20 +1363,6 @@ type "StatusData"
 data "StatusType" "BOOST"
 using "PROTECTION_FROM_POISON"
 data "StatusEffect" ""
-
-// ===============================================================
-// Blessing of Selune
-// ===============================================================
-
-
-// Family: ray_of_enfeeblement
-new entry "RAY_OF_ENFEEBLEMENT"
-type "StatusData"
-data "StatusType" "BOOST"
-using "RAY_OF_ENFEEBLEMENT"
-data "Description" "hd7bcf699g817dg4dccg8eaag1efaff3d16e6;1"
-data "Boosts" "HalveWeaponDamage(Strength);HalveWeaponDamage(Dexterity);Disadvantage(SavingThrow,Strength);Disadvantage(SavingThrow,Dexterity);Disadvantage(SavingThrow,Constitution)"
-data "OnApplyFunctors" "AI_ONLY:IF(not HasStatus('RAY_OF_ENFEEBLEMENT')):ApplyStatus(AI_HELPER_RAY_OF_ENFEEBLEMENT,100,10)"
 
 
 // Family: reduce
