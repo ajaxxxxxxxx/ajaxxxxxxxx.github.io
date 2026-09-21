@@ -47,15 +47,6 @@ data "SpellType" "Projectile"
 using "BB_Projectile_Farstrider"
 data "UseCosts" "ActionPoint:1"
 
-// ==================== Preventing damage rider sources ====================
-new entry "BB_PiercingWind_Passive"
-type "PassiveData"
-using "BB_PiercingWind_Passive"
-// data "StatsFunctorContext" "OnDamage"
-// data "Conditions" "IsWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
-// data "StatsFunctors" "IF(IsAttackType(AttackType.RangedWeaponAttack)):DealDamage(1d4, MainRangedWeaponDamageType)"
-data "StatsFunctors" "IF(IsAttackType(AttackType.RangedWeaponAttack)):DealDamage(1d4, MainRangedWeaponDamageType,Magical,,0,,true,true)"
-
 new entry "BB_DamageToTagged_Passive"
 type "PassiveData"
 using "BB_DamageToTagged_Passive"
@@ -720,13 +711,7 @@ using "PP_SurgeOfBrimstone_Buff"
 // data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Fire)):DealDamage(2d4,Fire,Magical);IF(HasDamageDoneForType(DamageType.Necrotic)):DealDamage(2d4,Necrotic,Magical);IF(HasDamageDoneForType(DamageType.Fire)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE);IF(HasDamageDoneForType(DamageType.Necrotic)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE)"
 data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Fire)):DealDamage(2d4,Fire,Magical,,0,,true,true);IF(HasDamageDoneForType(DamageType.Necrotic)):DealDamage(2d4,Necrotic,Magical,,0,,true,true);IF(HasDamageDoneForType(DamageType.Fire)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE);IF(HasDamageDoneForType(DamageType.Necrotic)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE)"
 
-new entry "PP_FeastOnTheWounded_Passive"
-type "PassiveData"
-using "PP_FeastOnTheWounded_Passive"
-// data "StatsFunctorContext" "OnDamage"
-// data "Conditions" "IsAttack() and HasHPPercentageWithoutTemporaryHPEqualOrLessThan(99, context.Target)"
-// data "StatsFunctors" "DealDamage(1d8,Necrotic)"
-data "StatsFunctors" "DealDamage(1d8,Necrotic,Magical,,0,,true,false)"
+
 
 // ==================================== Rage and Resilience - Barbarian Equipment ====================================
 
