@@ -3329,21 +3329,6 @@ data "TooltipStatusApply" "ApplyStatus(DETECTED_MAGIC, 100, 10)"
 data "SpellFlags" "Temporary;Wildshape;IsConcentration"
 data "RitualCosts" "ActionPoint:1"
 
-
-// Family: target_disarmingstrike
-new entry "Target_DisarmingStrike"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_DisarmingStrike"
-data "CombatAIOverrideSpell" "Target_DistStrike_AI"
-
-new entry "Target_DisarmingStrike_AI"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_DisarmingStrike"
-data "Cooldown" "OncePerTurn"
-
-
 // Family: target_dispelevilandgood_dismissal_sailor_ar
 new entry "Target_DispelEvilAndGood_Dismissal_Sailor_AR"
 type "SpellData"
