@@ -148,7 +148,6 @@ using "Target_RiseUndead_DeathShepherd"
 data "TargetConditions" "CanStand('c2a2c269-ede8-4887-99f1-e0c044cc0c75') and Tagged('UNDEAD') and Sailor_NotReanimBlocked() and not HasStatus('DEATHSHEPHERD_HARDCORE')"
 
 
-// Family: target_steelwindstrike
 new entry "Target_SteelWindStrike"
 type "SpellData"
 data "SpellType" "Target"
@@ -168,12 +167,6 @@ new entry "Target_SteelWindStrike_6"
 type "SpellData"
 data "SpellType" "Target"
 using "Target_SteelWindStrike_6"
-data "CombatAIOverrideSpell" "Target_SteelWindStrike_6_AI"
-
-new entry "Target_SteelWindStrike_6"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_SteelWindStrike"
 data "CombatAIOverrideSpell" "Target_SteelWindStrike_6_AI"
 
 new entry "Target_SteelWindStrike_6_AI"
@@ -201,37 +194,5 @@ data "AmountOfTargets" ""
 data "MaximumTargets" "7"
 data "CombatAIOverrideSpell" ""
 data "RootSpellID" ""
-
-// ======================================== Adding AI helpers to existing spells ========================================
-
-// Artistry of War
-
-new entry "Target_SteelWindStrike_7_AI"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_SteelWindStrike_7"
-data "AmountOfTargets" ""
-data "MaximumTargets" "7"
-data "CombatAIOverrideSpell" ""
-
-// ======================================== Adding AI helpers to existing spells ========================================
-
-// Artistry of War
-
-
-// Family: target_sunburst
-new entry "Target_Sunburst"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_Sunburst"
-data "SpellProperties" "AI_ONLY:ApplyStatus(AI_HELPER_BUFF_LARGE, 100, 5)"
-
-// Incendiary Cloud
-
-new entry "Target_Sunburst"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_Sunburst"
-data "SpellProperties" "AI_ONLY:ApplyStatus(AI_HELPER_BUFF_LARGE, 100, 5)"
 
 // Incendiary Cloud
