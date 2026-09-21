@@ -956,25 +956,7 @@ data "Boosts" "WeaponDamage(1d8,Radiant);WeaponProperty(Magical);GameplayLight(9
 data "StatusEffect" "f28f933a-4b35-1b3d-a0ac-386676185d49"
 data "StatusPropertyFlags" "RemoveOnLongRest"
 
-new entry "HOLY_WEAPON"
-type "StatusData"
-data "StatusType" "BOOST"
-data "DisplayName" "hd37dcc1dg1ca2g4a2cg9e4fg85359fd7c2cf;1"
-data "Description" "h6560f5d8g15d6g4392gb690g34d04ed1ba17;1"
-data "Icon" "Spell_Evocation_HolyWeapon"
-data "DescriptionParams" "1d8"
-data "StackId" "HOLY_WEAPON"
-data "Boosts" "WeaponDamage(1d8,Radiant);WeaponProperty(Magical);GameplayLight(9,false,0.1)"
-data "StatusEffect" "fbc47c6d-bee9-46c2-b522-eebb3580c197"
-data "StatusPropertyFlags" "RemoveOnLongRest"
 
-new entry "HOLY_WEAPON"
-type "StatusData"
-data "StatusType" "BOOST"
-using "HOLY_WEAPON"
-
-
-// Family: holy_weapon_technical
 new entry "HOLY_WEAPON_TECHNICAL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -984,12 +966,6 @@ data "RemoveConditions" "SpellId('Shout_HolyWeapon_Burst')"
 data "RemoveEvents" "OnSpellCast"
 data "StackId" "HOLY_WEAPON_TECHNICAL"
 data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;DisablePortraitIndicator"
-
-new entry "HOLY_WEAPON_TECHNICAL"
-type "StatusData"
-data "StatusType" "BOOST"
-data "OnRemoveFunctors" "ApplyEquipmentStatus(MainHand,HOLY_WEAPON,100,0)"
-
 
 // Family: icecloud
 new entry "ICECLOUD"
