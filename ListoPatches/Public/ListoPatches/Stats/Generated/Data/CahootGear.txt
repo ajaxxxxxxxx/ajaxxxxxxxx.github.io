@@ -558,14 +558,6 @@ using "TWN_BootsOfApparentDeath"
 // data "Boosts" "UnlockSpell(Target_TWN_FeignDeath)"
 data "Boosts" "RollBonus(SavingThrow, 1, Constitution);UnlockSpell(Target_TWN_FeignDeath)"
 
-// ========================== Spacehunt Boots ==========================
-// Dimension Door: cost changed to bonus action to be consistent with changes to the spell
-new entry "Teleportation_MAG_Dolor_DimensionDoor"
-type "SpellData"
-data "SpellType" "Shout"
-using "Teleportation_MAG_Dolor_DimensionDoor"
-// data "UseCosts" "ActionPoint:1"
-data "UseCosts" "BonusActionPoint:1"
 
 // ===============================================================================
 //                                       Cloaks  
