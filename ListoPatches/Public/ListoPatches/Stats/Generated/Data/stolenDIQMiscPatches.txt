@@ -134,13 +134,7 @@ data "StatusType" "BOOST"
 using "METAMAGIC_TRANSMUTED_THUNDER"
 data "StackId" "TRANSMUTED_SPELL"
 
-// ==================================== Make some weapons with fire VFX show in cutscenes ====================================
 
-
-new entry "WPN_Scimitar_FlameBlade"
-type "Weapon"
-using "WPN_Scimitar_FlameBlade"
-data "DefaultBoosts" "CannotBeDisarmed()"
 
 new entry "MAG_Fire_AlwaysDippedInFire_Greatsword"
 type "Weapon"
