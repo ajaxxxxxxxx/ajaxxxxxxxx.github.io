@@ -120,13 +120,13 @@ data "StatsFunctors" "RegainHitPoints(SELF, 2d4)"
 //                                       Quarterstaves  
 // ===============================================================================
 
-// ========================== Gold Wyrmling Staff ==========================
-// Also gives Searing Smite (short rest cooldown) in addition to Fire Bolt
+
 new entry "MAG_Fire_FireDamage_Quarterstaff"
 type "Weapon"
 using "MAG_Fire_FireDamage_Quarterstaff"
 // data "Boosts" "UnlockSpell(Projectile_MAG_FireBolt_Staff)"
 data "Boosts" "UnlockSpell(Projectile_MAG_FireBolt_Staff);UnlockSpell(CHT_MAG_Smite_Searing)"
+data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
 
 new entry "CHT_MAG_Smite_Searing"
 type "SpellData"
