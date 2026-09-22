@@ -24,6 +24,13 @@ data "SpellType" "Target"
 using "Target_DisarmingAttack"
 // data "SpellSuccess" "IF(not SavingThrow(Ability.Strength, ManeuverSaveDC()+2)):ApplyStatus(DISARM,100,0);DealDamage(ImprovisedWeapon+max(DexterityModifier,StrengthModifier), MainMeleeWeaponDamageType);ExecuteWeaponFunctors(MainHand)"
 data "SpellSuccess" "IF(not SavingThrow(Ability.Strength, ManeuverSaveDC()+2)):ApplyStatus(DISARM,100,0);IF(HasAnyStatus({}, {}, {'HEXBLADE_BIND', 'PACT_BLADE', 'SHILLELAGH', 'MAG_MELEE_CASTER_BOON', 'LHB_SEL_TASHASOTHERWORLDLYGUISE_MAGICWEAPON', 'FourEle_Attuned'}, GetAttackWeapon())):DealDamage(ImprovisedWeapon+max(DexterityModifier,StrengthModifier), MainMeleeWeaponDamageType);IF(HasAnyStatus({'HEXBLADE_BIND', 'PACT_BLADE', 'SHILLELAGH', 'MAG_MELEE_CASTER_BOON', 'LHB_SEL_TASHASOTHERWORLDLYGUISE_MAGICWEAPON', 'FourEle_Attuned'}, {}, {}, GetAttackWeapon())):DealDamage(ImprovisedWeapon+max(IntelligenceModifier, WisdomModifier, CharismaModifier), MainMeleeWeaponDamageType);ExecuteWeaponFunctors(MainHand)"
+data "CombatAIOverrideSpell" "Target_DisarmingStrike_AI"
+
+new entry "Target_DisarmingStrike_AI"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_DisarmingStrike"
+data "Cooldown" "OncePerTurn"
 
 // Heartstopper
 new entry "Target_HeartStopper"
@@ -48,15 +55,6 @@ data "SpellType" "Target"
 using "Target_HinderingSmash"
 // data "SpellSuccess" "IF(Character() and HasWeaponInMainHand() and not SavingThrow(Ability.Strength, ManeuverSaveDC()+2)):ApplyStatus(HINDERED,100,2);IF(not Summon() and not Tagged('UNDEAD') and not HasStatus('SG_Polymorph') and not Tagged('CONSTRUCT') and not Tagged('CREATURE_SPORE_SERVANT') and not IsImmuneToStatus('KNOCKED_OUT') ):DealDamage(ImprovisedWeapon+max(DexterityModifier,StrengthModifier), MainMeleeWeaponDamageType, Nonmagical, Nonlethal);IF(Summon() or Tagged('UNDEAD') or HasStatus('SG_Polymorph') or Tagged('CONSTRUCT') or Tagged('CREATURE_SPORE_SERVANT') or IsImmuneToStatus('KNOCKED_OUT')):DealDamage(ImprovisedWeapon+max(DexterityModifier,StrengthModifier), MainMeleeWeaponDamageType);ExecuteWeaponFunctors(MainHand)"
 data "SpellSuccess" "IF(Character() and HasWeaponInMainHand() and not SavingThrow(Ability.Strength, ManeuverSaveDC()+2)):ApplyStatus(HINDERED,100,2);IF(not Summon() and not Tagged('UNDEAD') and not HasStatus('SG_Polymorph') and not Tagged('CONSTRUCT') and not Tagged('CREATURE_SPORE_SERVANT') and not IsImmuneToStatus('KNOCKED_OUT') and HasAnyStatus({'HEXBLADE_BIND', 'PACT_BLADE', 'SHILLELAGH', 'MAG_MELEE_CASTER_BOON', 'LHB_SEL_TASHASOTHERWORLDLYGUISE_MAGICWEAPON', 'FourEle_Attuned'}, {}, {}, GetAttackWeapon())):DealDamage(ImprovisedWeapon+max(IntelligenceModifier, WisdomModifier, CharismaModifier), MainMeleeWeaponDamageType, Nonmagical, Nonlethal);IF(not Summon() and not Tagged('UNDEAD') and not HasStatus('SG_Polymorph') and not Tagged('CONSTRUCT') and not Tagged('CREATURE_SPORE_SERVANT') and not IsImmuneToStatus('KNOCKED_OUT') and HasAnyStatus({}, {}, {'HEXBLADE_BIND', 'PACT_BLADE', 'SHILLELAGH', 'MAG_MELEE_CASTER_BOON', 'LHB_SEL_TASHASOTHERWORLDLYGUISE_MAGICWEAPON', 'FourEle_Attuned'}, GetAttackWeapon())):DealDamage(ImprovisedWeapon+max(DexterityModifier,StrengthModifier), MainMeleeWeaponDamageType, Nonmagical, Nonlethal);;IF(Summon() or Tagged('UNDEAD') or HasStatus('SG_Polymorph') or Tagged('CONSTRUCT') or Tagged('CREATURE_SPORE_SERVANT') or IsImmuneToStatus('KNOCKED_OUT') and HasAnyStatus({}, {}, {'HEXBLADE_BIND', 'PACT_BLADE', 'SHILLELAGH', 'MAG_MELEE_CASTER_BOON', 'LHB_SEL_TASHASOTHERWORLDLYGUISE_MAGICWEAPON', 'FourEle_Attuned'}, GetAttackWeapon())):DealDamage(ImprovisedWeapon+max(DexterityModifier,StrengthModifier), MainMeleeWeaponDamageType);IF(not Summon() and not Tagged('UNDEAD') and not HasStatus('SG_Polymorph') and not Tagged('CONSTRUCT') and not Tagged('CREATURE_SPORE_SERVANT') and not IsImmuneToStatus('KNOCKED_OUT') and HasAnyStatus({}, {}, {'HEXBLADE_BIND', 'PACT_BLADE', 'SHILLELAGH', 'MAG_MELEE_CASTER_BOON', 'LHB_SEL_TASHASOTHERWORLDLYGUISE_MAGICWEAPON', 'FourEle_Attuned'}, GetAttackWeapon())):DealDamage(ImprovisedWeapon+max(DexterityModifier,StrengthModifier), MainMeleeWeaponDamageType, Nonmagical, Nonlethal);;IF(Summon() or Tagged('UNDEAD') or HasStatus('SG_Polymorph') or Tagged('CONSTRUCT') or Tagged('CREATURE_SPORE_SERVANT') or IsImmuneToStatus('KNOCKED_OUT') and HasAnyStatus({'HEXBLADE_BIND', 'PACT_BLADE', 'SHILLELAGH', 'MAG_MELEE_CASTER_BOON', 'LHB_SEL_TASHASOTHERWORLDLYGUISE_MAGICWEAPON', 'FourEle_Attuned'}, {}, {}, GetAttackWeapon())):DealDamage(ImprovisedWeapon+max(IntelligenceModifier, WisdomModifier, CharismaModifier), MainMeleeWeaponDamageType);ExecuteWeaponFunctors(MainHand)"
-
-// ========================== Crusader's Mantle ==========================
-// Disable combat log
-
-new entry "CRUSADERS_MANTLE"
-type "StatusData"
-data "StatusType" "BOOST"
-using "CRUSADERS_MANTLE"
-data "StatusPropertyFlags" "DisableCombatlog"
 
 // ========================== Staff of Interruption: Counterspell ==========================
 // Fix Counterspell from the weapon not actually rolling as a level 5 Counterspell

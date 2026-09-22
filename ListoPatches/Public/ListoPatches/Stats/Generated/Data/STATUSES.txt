@@ -101,15 +101,6 @@ data "SoundLoop" ""
 data "StatusEffect" ""
 
 
-// Family: blessing_of_the_trickster
-new entry "BLESSING_OF_THE_TRICKSTER"
-type "StatusData"
-data "StatusType" "BOOST"
-using "BLESSING_OF_THE_TRICKSTER"
-data "SoundLoop" ""
-data "StatusEffect" ""
-
-
 // Family: calm_emotions
 new entry "CALM_EMOTIONS"
 type "StatusData"
@@ -265,6 +256,7 @@ data "StatusType" "BOOST"
 using "CRUSADERS_MANTLE"
 data "DescriptionParams" "DealDamage(1d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(1d4,Radiant)"
+data "StatusPropertyFlags" "DisableCombatlog"
 
 new entry "CRUSADERS_MANTLE_4"
 type "StatusData"
@@ -322,6 +314,7 @@ data "StatusType" "BOOST"
 using "CRUSADERS_MANTLE_AURA"
 data "DescriptionParams" "DealDamage(1d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(1d4,Radiant)"
+data "StatusPropertyFlags" "DisableCombatlog;IgnoreResting"
 
 new entry "CRUSADERS_MANTLE_AURA_4"
 type "StatusData"
@@ -932,21 +925,13 @@ data "Passives" "HellishRebuke_9"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 
 
-// Family: hex_reapply
 new entry "HEX_REAPPLY"
 type "StatusData"
 data "StatusType" "BOOST"
 using "HEX_REAPPLY"
+data "SoundStart" ""
 data "SoundLoop" ""
-data "StatusEffect" ""
-
-new entry "HEX_REAPPLY"
-type "StatusData"
-data "StatusType" "BOOST"
-using "HEX_REAPPLY"
-data "SoundStart" "Spell_Status_Hex_Enter"
-data "SoundLoop" ""
-data "SoundStop" "Spell_Status_Hex_MO_Stop"
+data "SoundStop" ""
 data "ApplyEffect" "3b08002d-3034-46e1-a9b4-6d95eb7b70f8"
 data "StatusEffect" ""
 
@@ -972,25 +957,7 @@ data "Boosts" "WeaponDamage(1d8,Radiant);WeaponProperty(Magical);GameplayLight(9
 data "StatusEffect" "f28f933a-4b35-1b3d-a0ac-386676185d49"
 data "StatusPropertyFlags" "RemoveOnLongRest"
 
-new entry "HOLY_WEAPON"
-type "StatusData"
-data "StatusType" "BOOST"
-data "DisplayName" "hd37dcc1dg1ca2g4a2cg9e4fg85359fd7c2cf;1"
-data "Description" "h6560f5d8g15d6g4392gb690g34d04ed1ba17;1"
-data "Icon" "Spell_Evocation_HolyWeapon"
-data "DescriptionParams" "1d8"
-data "StackId" "HOLY_WEAPON"
-data "Boosts" "WeaponDamage(1d8,Radiant);WeaponProperty(Magical);GameplayLight(9,false,0.1)"
-data "StatusEffect" "fbc47c6d-bee9-46c2-b522-eebb3580c197"
-data "StatusPropertyFlags" "RemoveOnLongRest"
 
-new entry "HOLY_WEAPON"
-type "StatusData"
-data "StatusType" "BOOST"
-using "HOLY_WEAPON"
-
-
-// Family: holy_weapon_technical
 new entry "HOLY_WEAPON_TECHNICAL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1000,12 +967,6 @@ data "RemoveConditions" "SpellId('Shout_HolyWeapon_Burst')"
 data "RemoveEvents" "OnSpellCast"
 data "StackId" "HOLY_WEAPON_TECHNICAL"
 data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;DisablePortraitIndicator"
-
-new entry "HOLY_WEAPON_TECHNICAL"
-type "StatusData"
-data "StatusType" "BOOST"
-data "OnRemoveFunctors" "ApplyEquipmentStatus(MainHand,HOLY_WEAPON,100,0)"
-
 
 // Family: icecloud
 new entry "ICECLOUD"
@@ -1047,15 +1008,6 @@ using "LONGSTRIDER"
 data "SoundLoop" ""
 data "StatusEffect" ""
 
-new entry "LONGSTRIDER"
-type "StatusData"
-data "StatusType" "BOOST"
-using "LONGSTRIDER"
-data "SoundLoop" ""
-data "SoundStop" "Spell_Status_Longstrider_MO_Stop"
-data "StackId" "LONGSTRIDER"
-data "StatusEffect" ""
-
 
 // Family: mage_armor
 new entry "MAGE_ARMOR"
@@ -1078,13 +1030,10 @@ data "StatusType" "BOOST"
 using "MAGIC_WEAPON"
 data "RemoveConditions" "not HasStatus('MAGIC_WEAPON_MASTER')"
 data "RemoveEvents" "OnStatusRemoved"
-
-new entry "MAGIC_WEAPON"
-type "StatusData"
-data "StatusType" "BOOST"
-using "MAGIC_WEAPON"
 data "SoundLoop" ""
 data "SoundStop" ""
+
+
 
 // ===============================================================
 // Enlarge/Reduce
@@ -1511,11 +1460,6 @@ data "StatusType" "BOOST"
 using "SCL_MOONSHIELD"
 data "StatusEffect" ""
 
-new entry "SCL_MOONSHIELD"
-type "StatusData"
-data "StatusType" "BOOST"
-using "SCL_MOONSHIELD"
-data "StatusEffect" ""
 
 // ===============================================================
 // Enhance Leap (LONG_JUMP)
@@ -1595,26 +1539,8 @@ data "StatusType" "BOOST"
 using "SHIELD_OF_FAITH"
 data "Description" "h0a32a7c2gbed5g4fb1gaffbg54f64b3d2542;1"
 data "Boosts" "AC(1);Resistance(Radiant,Resistant)"
-
-new entry "SHIELD_OF_FAITH"
-type "StatusData"
-data "StatusType" "BOOST"
-using "SHIELD_OF_FAITH"
 data "StatusEffect" ""
 
-new entry "SHIELD_OF_FAITH"
-type "StatusData"
-data "StatusType" "BOOST"
-using "SHIELD_OF_FAITH"
-data "StatusEffect" ""
-
-// ===============================================================
-// BARKSKIN
-// ===============================================================
-//
-
-
-// Family: shillelagh
 new entry "SHILLELAGH"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1679,7 +1605,7 @@ data "Boosts" "UnlockSpell(Target_UnarmedAttack_StoneForming);CharacterUnarmedDa
 data "RemoveEvents" "OnCombatEnded"
 
 
-// Family: stoneskin
+
 new entry "STONESKIN"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1690,11 +1616,6 @@ data "Icon" "Spell_Abjuration_Stoneskin"
 data "StackId" "STONESKIN"
 data "Boosts" "Resistance(Bludgeoning,Resistant);Resistance(Piercing,Resistant);Resistance(Slashing,Resistant);ACOverrideFormula(18,false);DamageReduction(All,Flat,2)"
 data "OnApplyFunctors" "AI_ONLY:IF(not HasStatus('STONESKIN')):ApplyStatus(AI_HELPER_MAGEARMOR,100,4)"
-
-new entry "STONESKIN"
-type "StatusData"
-data "StatusType" "BOOST"
-using "STONESKIN"
 data "ApplyEffect" ""
 
 
@@ -2401,3 +2322,17 @@ type "StatusData"
 data "StatusType" "BOOST"
 using "WARDING_BOND_CASTER"
 data "StatusEffect" ""
+
+new entry "DEN_SILVANUS_BLESSING"
+type "StatusData"
+data "StatusType" "BOOST"
+using "DEN_SILVANUS_BLESSING"
+data "StatusPropertyFlags" "IgnoreResting;DisableOverhead;DisableCombatlog"
+
+
+
+new entry "BURNING"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BURNING"
+data "StatusPropertyFlags" "InitiateCombat;Burning;DisableOverhead;IgnoreResting;DisableCombatlog"

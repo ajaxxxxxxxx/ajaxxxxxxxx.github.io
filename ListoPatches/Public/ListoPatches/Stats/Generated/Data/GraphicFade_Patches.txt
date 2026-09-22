@@ -47,15 +47,6 @@ data "SpellType" "Projectile"
 using "BB_Projectile_Farstrider"
 data "UseCosts" "ActionPoint:1"
 
-// ==================== Preventing damage rider sources ====================
-new entry "BB_PiercingWind_Passive"
-type "PassiveData"
-using "BB_PiercingWind_Passive"
-// data "StatsFunctorContext" "OnDamage"
-// data "Conditions" "IsWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
-// data "StatsFunctors" "IF(IsAttackType(AttackType.RangedWeaponAttack)):DealDamage(1d4, MainRangedWeaponDamageType)"
-data "StatsFunctors" "IF(IsAttackType(AttackType.RangedWeaponAttack)):DealDamage(1d4, MainRangedWeaponDamageType,Magical,,0,,true,true)"
-
 new entry "BB_DamageToTagged_Passive"
 type "PassiveData"
 using "BB_DamageToTagged_Passive"
@@ -720,13 +711,7 @@ using "PP_SurgeOfBrimstone_Buff"
 // data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Fire)):DealDamage(2d4,Fire,Magical);IF(HasDamageDoneForType(DamageType.Necrotic)):DealDamage(2d4,Necrotic,Magical);IF(HasDamageDoneForType(DamageType.Fire)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE);IF(HasDamageDoneForType(DamageType.Necrotic)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE)"
 data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Fire)):DealDamage(2d4,Fire,Magical,,0,,true,true);IF(HasDamageDoneForType(DamageType.Necrotic)):DealDamage(2d4,Necrotic,Magical,,0,,true,true);IF(HasDamageDoneForType(DamageType.Fire)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE);IF(HasDamageDoneForType(DamageType.Necrotic)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE)"
 
-new entry "PP_FeastOnTheWounded_Passive"
-type "PassiveData"
-using "PP_FeastOnTheWounded_Passive"
-// data "StatsFunctorContext" "OnDamage"
-// data "Conditions" "IsAttack() and HasHPPercentageWithoutTemporaryHPEqualOrLessThan(99, context.Target)"
-// data "StatsFunctors" "DealDamage(1d8,Necrotic)"
-data "StatsFunctors" "DealDamage(1d8,Necrotic,Magical,,0,,true,false)"
+
 
 // ==================================== Rage and Resilience - Barbarian Equipment ====================================
 
@@ -1033,11 +1018,24 @@ data "ValueScale" "4"
 
 // ==================================== Veil and Venom - Rogue Equipment ====================================
 
-// Ring of the Assassin's Mark: add status to tooltip of Mark for Death spell
 new entry "VV_AssassinMark"
 type "SpellData"
 data "SpellType" "Target"
 using "VV_AssassinMark"
+// data "Cooldown" "OncePerRestPerItem"
+data "Cooldown" "OncePerShortRestPerItem"
+// data "TargetConditions" "Character() and not Self() and not Tagged('BLOCK_BOSS_DISTURBANCES') and not Tagged('LOW_HOUSEOFHOPE_IDENTIFY_RAPHAEL') and not Tagged('ACT3_WYR_GORTASH') and not Tagged('ACT3_LOW_VICONIA') and not Tagged('ACT3_LOW_CAZADOR') and not Tagged('LOW_RAMAZITHSTOWER_MISTYSTEP_HELPER') and not HasStatus('LEGENDARYACTION_STATUS')"
+data "TargetConditions" "Character() and Enemy() and not Self()"
+// data "SpellProperties" "ApplyStatus(VV_ASSASSINS_MARK, 100, 10)"
+data "SpellProperties" ""
+data "SpellSuccess" "ApplyStatus(VV_ASSASSINS_MARK, 100, 10)"
+data "SpellFail" "ApplyStatus(SAVED_AGAINST_HOSTILE_SPELL, 100, 0)"
+// data "SpellRoll" "not SavingThrow(Ability.Constitution,17)"
+data "SpellRoll" "not SavingThrow(Ability.Constitution,ManeuverSaveDC())"
+// Touch a creature within [1] and force them to make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. On a failed save, the &lt;LSTag Type="Status" Tooltip="VV_ASSASSINS_MARK"&gt;Mark of Death&lt;/LSTag&gt; is applied on them for 10 turns. Your attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against the marked creature and your &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt; against the marked creature deal an additional [2] damage.
+data "Description" "h90480a70ge388g4634g99c0g3bd030201c35;1"
+// data "DescriptionParams" "Distance(1.5)"
+data "DescriptionParams" "Distance(1.5);1d8"
 data "TooltipStatusApply" "ApplyStatus(VV_ASSASSINS_MARK, 100, 10)"
 
 // The Fate Weaver's Knife: increase cooldown of Threads of Fate paralyze to once per combat (previously once per turn), but also increase paralyze duration to 2 turns (previously 1 turn)
@@ -1090,24 +1088,7 @@ data "DescriptionParams" "3"
 // Ring of the Assassin's Mark: rebalance Mark for Death and fix the status always being applied even if the target succeeds their saving throw
 // Nerfs: only gives advantage to caster (previously all attackers), critical hits against marked target deal an additional 2d8 damage (previously instantly killed)
 // Buffs: short rest cooldown (previously long rest), saving throw DC changed to ManoeuverDC+1 (previously flat 17), can be cast against all enemies (previously couldn't target basically any bosses in Honour Mode)
-new entry "VV_AssassinMark"
-type "SpellData"
-data "SpellType" "Target"
-using "VV_AssassinMark"
-// data "Cooldown" "OncePerRestPerItem"
-data "Cooldown" "OncePerShortRestPerItem"
-// data "TargetConditions" "Character() and not Self() and not Tagged('BLOCK_BOSS_DISTURBANCES') and not Tagged('LOW_HOUSEOFHOPE_IDENTIFY_RAPHAEL') and not Tagged('ACT3_WYR_GORTASH') and not Tagged('ACT3_LOW_VICONIA') and not Tagged('ACT3_LOW_CAZADOR') and not Tagged('LOW_RAMAZITHSTOWER_MISTYSTEP_HELPER') and not HasStatus('LEGENDARYACTION_STATUS')"
-data "TargetConditions" "Character() and Enemy() and not Self()"
-// data "SpellProperties" "ApplyStatus(VV_ASSASSINS_MARK, 100, 10)"
-data "SpellProperties" ""
-data "SpellSuccess" "ApplyStatus(VV_ASSASSINS_MARK, 100, 10)"
-data "SpellFail" "ApplyStatus(SAVED_AGAINST_HOSTILE_SPELL, 100, 0)"
-// data "SpellRoll" "not SavingThrow(Ability.Constitution,17)"
-data "SpellRoll" "not SavingThrow(Ability.Constitution,ManeuverSaveDC())"
-// Touch a creature within [1] and force them to make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;. On a failed save, the &lt;LSTag Type="Status" Tooltip="VV_ASSASSINS_MARK"&gt;Mark of Death&lt;/LSTag&gt; is applied on them for 10 turns. Your attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against the marked creature and your &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt; against the marked creature deal an additional [2] damage.
-data "Description" "h90480a70ge388g4634g99c0g3bd030201c35;1"
-// data "DescriptionParams" "Distance(1.5)"
-data "DescriptionParams" "Distance(1.5);1d8"
+
 
 new entry "VV_ASSASSINS_MARK"
 type "StatusData"
@@ -1269,8 +1250,3 @@ data "SpellFail" "IF(not CharacterLevelGreaterThan(11)):DealDamage((10d6+20)/2, 
 data "Description" "hadd1d9a8gdeb7g4fa6g820eg2a482306bd34;1"
 data "DescriptionParams" "DealDamage(10d6+20, Force);Distance(9);DealDamage(10d6+40, Force)"
 data "TooltipDamageList" "DealDamage(10d6+20, Force)"
-
-new entry "JWL_Passive_SymbolKelemvor"
-type "PassiveData"
-using "JWL_Passive_SymbolKelemvor"
-data "Boosts" "IF(IsMeleeWeaponAttack() or IsMeleeUnarmedAttack()):DamageBonus(1,Radiant);IF(IsMeleeWeaponAttack() or IsMeleeUnarmedAttack()):DamageBonus(1,Necrotic)"

@@ -134,23 +134,7 @@ data "StatusType" "BOOST"
 using "METAMAGIC_TRANSMUTED_THUNDER"
 data "StackId" "TRANSMUTED_SPELL"
 
-// ==================================== Make some weapons with fire VFX show in cutscenes ====================================
 
-// VEO/JWL Crafting upgrade
-new entry "JWL_MAG_Fire_FireDamage_Quarterstaff_UP1"
-type "Weapon"
-using "JWL_MAG_Fire_FireDamage_Quarterstaff_UP1"
-data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical)"
-
-new entry "MAG_Fire_FireDamage_Quarterstaff"
-type "Weapon"
-using "MAG_Fire_FireDamage_Quarterstaff"
-data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
-
-new entry "WPN_Scimitar_FlameBlade"
-type "Weapon"
-using "WPN_Scimitar_FlameBlade"
-data "DefaultBoosts" "CannotBeDisarmed()"
 
 new entry "MAG_Fire_AlwaysDippedInFire_Greatsword"
 type "Weapon"
@@ -229,13 +213,6 @@ new entry "MAG_UNMOVABLE"
 type "StatusData"
 data "StatusType" "BOOST"
 data "RemoveConditions" "not HasSpellFlag(SpellFlags.Concentration)"
-
-// ==================================== Monk Equipment AIO tooltip fix ====================================
-
-new entry "MAG_Marsh_Strider_Passive"
-type "PassiveData"
-using "MAG_Marsh_Strider_Passive"
-data "Description" "h7920b39bg75f5g44ecga83dg40a756099eea"
 
 // ==================================== If Gortash bugs out and doesn't apply his buff this should stop him from spamming his 150 temp HP ====================================
 

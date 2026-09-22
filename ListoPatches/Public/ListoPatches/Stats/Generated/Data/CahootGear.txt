@@ -120,13 +120,13 @@ data "StatsFunctors" "RegainHitPoints(SELF, 2d4)"
 //                                       Quarterstaves  
 // ===============================================================================
 
-// ========================== Gold Wyrmling Staff ==========================
-// Also gives Searing Smite (short rest cooldown) in addition to Fire Bolt
+
 new entry "MAG_Fire_FireDamage_Quarterstaff"
 type "Weapon"
 using "MAG_Fire_FireDamage_Quarterstaff"
 // data "Boosts" "UnlockSpell(Projectile_MAG_FireBolt_Staff)"
 data "Boosts" "UnlockSpell(Projectile_MAG_FireBolt_Staff);UnlockSpell(CHT_MAG_Smite_Searing)"
+data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
 
 new entry "CHT_MAG_Smite_Searing"
 type "SpellData"
@@ -558,14 +558,6 @@ using "TWN_BootsOfApparentDeath"
 // data "Boosts" "UnlockSpell(Target_TWN_FeignDeath)"
 data "Boosts" "RollBonus(SavingThrow, 1, Constitution);UnlockSpell(Target_TWN_FeignDeath)"
 
-// ========================== Spacehunt Boots ==========================
-// Dimension Door: cost changed to bonus action to be consistent with changes to the spell
-new entry "Teleportation_MAG_Dolor_DimensionDoor"
-type "SpellData"
-data "SpellType" "Shout"
-using "Teleportation_MAG_Dolor_DimensionDoor"
-// data "UseCosts" "ActionPoint:1"
-data "UseCosts" "BonusActionPoint:1"
 
 // ===============================================================================
 //                                       Cloaks  
