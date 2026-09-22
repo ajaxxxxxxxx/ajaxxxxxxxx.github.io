@@ -2322,3 +2322,17 @@ type "StatusData"
 data "StatusType" "BOOST"
 using "WARDING_BOND_CASTER"
 data "StatusEffect" ""
+
+new entry "DEN_SILVANUS_BLESSING"
+type "StatusData"
+data "StatusType" "BOOST"
+using "DEN_SILVANUS_BLESSING"
+data "StatusPropertyFlags" "IgnoreResting;DisableOverhead;DisableCombatlog"
+
+
+
+new entry "BURNING"
+type "StatusData"
+data "StatusType" "BOOST"
+using "BURNING"
+data "StatusPropertyFlags" "InitiateCombat;Burning;DisableOverhead;IgnoreResting;DisableCombatlog"
