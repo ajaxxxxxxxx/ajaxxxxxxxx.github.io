@@ -1,0 +1,266 @@
+new entry "SummonBlade_Passive"
+type "PassiveData"
+using "MAG_MeleeCaster_Passive"
+data "DisplayName" "e506bdcd-34da-45b0-92d5-986ab9508298"
+//Summoned Weapon//
+//When you attack with your summoned weapon you use your spell casting ability in place of Strength or Dexterity//
+data "BoostContext" "OnAttack"
+data "Boosts" "IF(AttackedWithPassiveSourceWeapon()):WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+
+//basic shadowblade weapon//
+
+new entry "WPN_ShadowBlade"
+type "Weapon"
+using "WPN_Shortsword_1"
+data "RootTemplate" "66d6cbd5-c231-4fc4-a3b7-80f781b579f7"
+data "Damage Type" "Psychic"
+data "Damage" "1d6"
+data "ValueUUID" "86e7e503-a225-4b48-819e-2e24de1f904a"
+data "DefaultBoosts" "WeaponProperty(Magical);CannotBeDisarmed()"
+data "PersonalStatusImmunities" "WEAPON_COATED_WITH_POISON;POISON_BASIC;POISON_SERPENT_VENOM;POISON_WYVERN;POISON_WYVERN_DIPPED;POISON_PURPLE_WORM;DIPPED_FIRE;DIPPED_POISON;DIPPED_WATER"
+data "PassivesOnEquip" "ShadowBlade_Passive"
+data "Unique" "1"
+data "Weapon Group" "SimpleMeleeWeapon"
+data "Weapon Properties" "Finesse;Light;Melee;Dippable;Unstowable"
+data "Proficiency Group" "Shortswords;SimpleWeapons"
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_OpeningAttack);UnlockSpell(Target_PiercingThrust)"
+
+//upcasted boosts for SB//
+
+//3 and 4//
+new entry "SHADOW_BLADE_3"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SHADOW_BLADE"
+data "Boosts" "Attribute(InventoryBound);WeaponDamageDieOverride(2d6);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+
+//5 and 6//
+new entry "SHADOW_BLADE_5"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SHADOW_BLADE"
+data "Boosts" "Attribute(InventoryBound);WeaponDamageDieOverride(3d6);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+
+//7 and 8//
+new entry "SHADOW_BLADE_7"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SHADOW_BLADE"
+data "Boosts" "Attribute(InventoryBound);WeaponDamageDieOverride(4d6);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+
+//9//
+new entry "SHADOW_BLADE_9"
+type "StatusData"
+data "StatusType" "BOOST"
+using "SHADOW_BLADE"
+data "Boosts" "Attribute(InventoryBound);WeaponDamageDieOverride(5d6);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+
+///actual spells///
+
+new entry "Shout_ShadowBlade"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ShadowBlade"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(66d6cbd5-c231-4fc4-a3b7-80f781b579f7,-1,1,true,true,true,,,SHADOW_BLADE,SHADOW_BLADE);ApplyStatus(SELF, MAG_SHADOW_BLADE_OWNER, 100, -1)"
+data "SpellFlags" "IsSpell;HasVerbalComponent;HasSomaticComponent"
+data "DescriptionParams" "DealDamage(1d6,Psychic)"
+data "TooltipUpcastDescription" "7bbb79fa-02c7-4f45-a115-1d8e11b96ea0"
+data "TooltipUpcastDescriptionParams" "DealDamage(1d6,Psychic);2"
+data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:2"
+
+new entry "Shout_ShadowBlade_3"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ShadowBlade"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(66d6cbd5-c231-4fc4-a3b7-80f781b579f7,-1,1,true,true,true,,,SHADOW_BLADE,SHADOW_BLADE_3);ApplyStatus(SELF, MAG_SHADOW_BLADE_OWNER, 100, -1)"
+data "DescriptionParams" "DealDamage(2d6,Psychic)"
+data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:3"
+data "RootSpellID" "Shout_ShadowBlade"
+data "PowerLevel" "3"
+
+new entry "Shout_ShadowBlade_4"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ShadowBlade"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(66d6cbd5-c231-4fc4-a3b7-80f781b579f7,-1,1,true,true,true,,,SHADOW_BLADE,SHADOW_BLADE_3);ApplyStatus(SELF, MAG_SHADOW_BLADE_OWNER, 100, -1)"
+data "DescriptionParams" "DealDamage(2d6,Psychic)"
+data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:4"
+data "RootSpellID" "Shout_ShadowBlade"
+data "PowerLevel" "4"
+
+new entry "Shout_ShadowBlade_5"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ShadowBlade"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(66d6cbd5-c231-4fc4-a3b7-80f781b579f7,-1,1,true,true,true,,,SHADOW_BLADE,SHADOW_BLADE_5);ApplyStatus(SELF, MAG_SHADOW_BLADE_OWNER, 100, -1)"
+data "DescriptionParams" "DealDamage(3d6,Psychic)"
+data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:5"
+data "RootSpellID" "Shout_ShadowBlade"
+data "PowerLevel" "5"
+
+new entry "Shout_ShadowBlade_6"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ShadowBlade"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(66d6cbd5-c231-4fc4-a3b7-80f781b579f7,-1,1,true,true,true,,,SHADOW_BLADE,SHADOW_BLADE_5);ApplyStatus(SELF, MAG_SHADOW_BLADE_OWNER, 100, -1)"
+data "DescriptionParams" "DealDamage(3d6,Psychic)"
+data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:6"
+data "RootSpellID" "Shout_ShadowBlade"
+data "PowerLevel" "6"
+
+new entry "Shout_ShadowBlade_7"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ShadowBlade"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(66d6cbd5-c231-4fc4-a3b7-80f781b579f7,-1,1,true,true,true,,,SHADOW_BLADE,SHADOW_BLADE_7);ApplyStatus(SELF, MAG_SHADOW_BLADE_OWNER, 100, -1)"
+data "DescriptionParams" "DealDamage(4d6,Psychic)"
+data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:7"
+data "RootSpellID" "Shout_ShadowBlade"
+data "PowerLevel" "7"
+
+new entry "Shout_ShadowBlade_8"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ShadowBlade"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(66d6cbd5-c231-4fc4-a3b7-80f781b579f7,-1,1,true,true,true,,,SHADOW_BLADE,SHADOW_BLADE_7);ApplyStatus(SELF, MAG_SHADOW_BLADE_OWNER, 100, -1)"
+data "DescriptionParams" "DealDamage(4d6,Psychic)"
+data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:8"
+data "RootSpellID" "Shout_ShadowBlade"
+data "PowerLevel" "8"
+
+new entry "Shout_ShadowBlade_9"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_ShadowBlade"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(66d6cbd5-c231-4fc4-a3b7-80f781b579f7,-1,1,true,true,true,,,SHADOW_BLADE,SHADOW_BLADE_9);ApplyStatus(SELF, MAG_SHADOW_BLADE_OWNER, 100, -1)"
+data "DescriptionParams" "DealDamage(5d6,Psychic)"
+data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:9"
+data "RootSpellID" "Shout_ShadowBlade"
+data "PowerLevel" "9"
+
+///////////
+
+//basic fireblade weapon//
+
+new entry "WPN_Scimitar_FlameBlade"
+type "Weapon"
+using "_BaseWeapon"
+data "RootTemplate" "dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131"
+data "Damage Type" "Fire"
+data "Damage" "1d6"
+data "ValueOverride" "0"
+data "Weight" "0.5"
+data "DefaultBoosts" "WeaponProperty(Magical);CannotBeDisarmed()"
+data "PersonalStatusImmunities" "DIPPED_FIRE;DIPPED_POISON;DIPPED_WATER"
+data "Weapon Group" "SimpleMeleeWeapon"
+data "Weapon Properties" "Finesse;Light;Melee;Dippable;Unstowable"
+data "Proficiency Group" "Scimitars;SimpleWeapons"
+data "PassivesOnEquip" "SummonBlade_Passive"
+data "BoostsOnEquipMainHand" "UnlockSpell(Target_OpeningAttack);UnlockSpell(Target_Slash_New)"
+
+///basic fire blade status///
+
+new entry "FLAME_BLADE"
+type "StatusData"
+data "StatusType" "BOOST"
+using "FLAME_BLADE"
+// Flame Blade
+data "DisplayName" "h95474ef0gc4bfg47dbg80a2ge06835d0debd;1"
+// This blade deals [1]. It sheds bright light in a [2] radius and dim light in a [3] radius. <LSTag Tooltip="AttackRoll">Attack Rolls</LSTag> use the wielder's <LSTag Tooltip="SpellcastingAbilityModifier">Spellcasting Ability Modifier</LSTag>.
+data "Description" "h2ed5d93dgc7b3g4251g9a8dgf7967902a88a;5"
+data "DescriptionParams" "DealDamage(1d6,Fire);Distance(3);Distance(6)"
+data "Boosts" "Attribute(InventoryBound);GameplayLight(3,false,0.1);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+
+//upcasted boosts for FB//
+
+//3 and 4//
+new entry "FLAME_BLADE_4"
+type "StatusData"
+data "StatusType" "BOOST"
+using "FLAME_BLADE"
+data "DescriptionParams" "DealDamage(2d6,Fire);Distance(3);Distance(6)"
+data "Boosts" "Attribute(InventoryBound);WeaponDamageDieOverride(2d6);GameplayLight(3,false,0.1);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+
+//5 and 6//
+new entry "FLAME_BLADE_6"
+type "StatusData"
+data "StatusType" "BOOST"
+using "FLAME_BLADE"
+data "DescriptionParams" "DealDamage(3d6,Fire);Distance(3);Distance(6)"
+data "Boosts" "Attribute(InventoryBound);WeaponDamageDieOverride(3d6);GameplayLight(3,false,0.1);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+
+//7 and 8//
+new entry "FLAME_BLADE_8"
+type "StatusData"
+data "StatusType" "BOOST"
+using "FLAME_BLADE"
+data "DescriptionParams" "DealDamage(4d6,Fire);Distance(3);Distance(6)"
+data "Boosts" "Attribute(InventoryBound);WeaponDamageDieOverride(4d6);GameplayLight(3,false,0.1);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+
+//9//
+new entry "FLAME_BLADE_9"
+type "StatusData"
+data "StatusType" "BOOST"
+using "FLAME_BLADE"
+data "DescriptionParams" "DealDamage(5d6,Fire);Distance(3);Distance(6)"
+data "Boosts" "Attribute(InventoryBound);WeaponDamageDieOverride(5d6);GameplayLight(3,false,0.1);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+
+///actual spells///
+
+new entry "Shout_FlameBlade"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_FlameBlade"
+data "TooltipAttackSave" ""
+data "SpellProperties" "AI_IGNORE:SummonInInventory(dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131,-1,1,true,true,true,,,FLAME_BLADE,FLAME_BLADE);AI_ONLY:IF(not HasStatus('FLAME_BLADE',GetActiveWeapon())):ApplyStatus(AI_HELPER_FLAMEBLADE,100,5)"
+
+new entry "Shout_FlameBlade_3"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_FlameBlade_3"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131,-1,1,true,true,true,,,FLAME_BLADE,FLAME_BLADE_4);AI_ONLY:IF(not HasStatus('FLAME_BLADE',GetActiveWeapon())):ApplyStatus(AI_HELPER_FLAMEBLADE_4,100,5)"
+
+new entry "Shout_FlameBlade_4"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_FlameBlade_4"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131,-1,1,true,true,true,,,FLAME_BLADE,FLAME_BLADE_4);AI_ONLY:IF(not HasStatus('FLAME_BLADE',GetActiveWeapon())):ApplyStatus(AI_HELPER_FLAMEBLADE_4,100,5)"
+
+new entry "Shout_FlameBlade_5"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_FlameBlade_5"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131,-1,1,true,true,true,,,FLAME_BLADE,FLAME_BLADE_6);AI_ONLY:IF(not HasStatus('FLAME_BLADE',GetActiveWeapon())):ApplyStatus(AI_HELPER_FLAMEBLADE_4,100,5)"
+
+new entry "Shout_FlameBlade_6"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_FlameBlade_6"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131,-1,1,true,true,true,,,FLAME_BLADE,FLAME_BLADE_6);AI_ONLY:IF(not HasStatus('FLAME_BLADE',GetActiveWeapon())):ApplyStatus(AI_HELPER_FLAMEBLADE_6,100,5)"
+
+new entry "Shout_FlameBlade_7"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_FlameBlade"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131,-1,1,true,true,true,,,FLAME_BLADE,FLAME_BLADE_8);AI_ONLY:IF(not HasStatus('FLAME_BLADE',GetActiveWeapon())):ApplyStatus(AI_HELPER_FLAMEBLADE,100,5)"
+data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:7"
+data "RootSpellID" "Shout_FlameBlade"
+data "PowerLevel" "7"
+
+new entry "Shout_FlameBlade_8"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_FlameBlade"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131,-1,1,true,true,true,,,FLAME_BLADE,FLAME_BLADE_8);AI_ONLY:IF(not HasStatus('FLAME_BLADE',GetActiveWeapon())):ApplyStatus(AI_HELPER_FLAMEBLADE,100,5)"
+data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:8"
+data "RootSpellID" "Shout_FlameBlade"
+data "PowerLevel" "8"
+
+new entry "Shout_FlameBlade_9"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_FlameBlade"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(dfb5a6ef-baee-4c0e-9b9d-7f5bd9458131,-1,1,true,true,true,,,FLAME_BLADE,FLAME_BLADE_9);AI_ONLY:IF(not HasStatus('FLAME_BLADE',GetActiveWeapon())):ApplyStatus(AI_HELPER_FLAMEBLADE,100,5)"
+data "UseCosts" "BonusActionPoint:1;SpellSlotsGroup:1:1:9"
+data "RootSpellID" "Shout_FlameBlade"
+data "PowerLevel" "9"
