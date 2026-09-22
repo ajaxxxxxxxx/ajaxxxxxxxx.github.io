@@ -1996,6 +1996,7 @@ using "Shout_ShadowBlade"
 // data "SpellFlags" "IsSpell;HasVerbalComponent;HasSomaticComponent;IsConcentration"
 data "SpellFlags" "IsSpell;HasVerbalComponent;HasSomaticComponent"
 data "DescriptionParams" "DealDamage(1d6,Psychic)"
+data "SpellProperties" "AI_IGNORE:SummonInInventory(66d6cbd5-c231-4fc4-a3b7-80f781b579f7,-1,1,true,true,true,,,SHADOW_BLADE,SHADOW_BLADE);ApplyStatus(SELF, MAG_SHADOW_BLADE_OWNER, 100, -1)"
 
 new entry "Shout_ShadowBlade_3"
 type "SpellData"
@@ -2067,9 +2068,6 @@ data "SpellProperties" "AI_IGNORE:SummonInInventory(66d6cbd5-c231-4fc4-a3b7-80f7
 // data "DescriptionParams" "DealDamage(5d8,Psychic)"
 data "DescriptionParams" "DealDamage(5d6,Psychic)"
 
-// ==================================== Flame Blade ====================================
-// Flame Blade is no longer a spell attack thing, the summoned scimitar functions as a scimitar. It's a magical weapon, the summoner has innate proficiency with it, it uses the summoner's spell casting ability for attacks. Lasts until long rest. Damage starts at 1d6 and scales to 5d6 with upcasting to level 9 spell slots.
-
 
 // Family: shout_shadowofmoil
 new entry "Shout_ShadowOfMoil"
@@ -2077,8 +2075,6 @@ type "SpellData"
 data "SpellType" "Shout"
 using "Shout_ShadowOfMoil"
 data "TooltipStatusApply" "ApplyStatus(SHADOW_OF_MOIL,100,10)"
-
-// Changes Aura of Life to last 10 rounds, was 100
 
 
 // Family: shout_shillelagh
