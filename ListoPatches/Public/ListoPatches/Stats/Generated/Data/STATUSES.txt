@@ -314,6 +314,7 @@ data "StatusType" "BOOST"
 using "CRUSADERS_MANTLE_AURA"
 data "DescriptionParams" "DealDamage(1d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(1d4,Radiant)"
+data "StatusPropertyFlags" "DisableCombatlog;IgnoreResting"
 
 new entry "CRUSADERS_MANTLE_AURA_4"
 type "StatusData"
