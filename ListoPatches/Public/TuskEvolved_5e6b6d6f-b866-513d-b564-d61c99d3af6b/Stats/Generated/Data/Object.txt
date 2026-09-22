@@ -1,4 +1,0 @@
-new entry "GLO_SoulCoin"
-type "Object"
-using "GLO_SoulCoin"
-data "UseConditions" "not Tagged('XEN_TUSK_INFERNAL')"
