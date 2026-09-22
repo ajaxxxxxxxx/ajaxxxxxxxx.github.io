@@ -1007,15 +1007,6 @@ using "LONGSTRIDER"
 data "SoundLoop" ""
 data "StatusEffect" ""
 
-new entry "LONGSTRIDER"
-type "StatusData"
-data "StatusType" "BOOST"
-using "LONGSTRIDER"
-data "SoundLoop" ""
-data "SoundStop" "Spell_Status_Longstrider_MO_Stop"
-data "StackId" "LONGSTRIDER"
-data "StatusEffect" ""
-
 
 // Family: mage_armor
 new entry "MAGE_ARMOR"
@@ -1038,13 +1029,10 @@ data "StatusType" "BOOST"
 using "MAGIC_WEAPON"
 data "RemoveConditions" "not HasStatus('MAGIC_WEAPON_MASTER')"
 data "RemoveEvents" "OnStatusRemoved"
-
-new entry "MAGIC_WEAPON"
-type "StatusData"
-data "StatusType" "BOOST"
-using "MAGIC_WEAPON"
 data "SoundLoop" ""
 data "SoundStop" ""
+
+
 
 // ===============================================================
 // Enlarge/Reduce
@@ -1471,11 +1459,6 @@ data "StatusType" "BOOST"
 using "SCL_MOONSHIELD"
 data "StatusEffect" ""
 
-new entry "SCL_MOONSHIELD"
-type "StatusData"
-data "StatusType" "BOOST"
-using "SCL_MOONSHIELD"
-data "StatusEffect" ""
 
 // ===============================================================
 // Enhance Leap (LONG_JUMP)
@@ -1555,26 +1538,8 @@ data "StatusType" "BOOST"
 using "SHIELD_OF_FAITH"
 data "Description" "h0a32a7c2gbed5g4fb1gaffbg54f64b3d2542;1"
 data "Boosts" "AC(1);Resistance(Radiant,Resistant)"
-
-new entry "SHIELD_OF_FAITH"
-type "StatusData"
-data "StatusType" "BOOST"
-using "SHIELD_OF_FAITH"
 data "StatusEffect" ""
 
-new entry "SHIELD_OF_FAITH"
-type "StatusData"
-data "StatusType" "BOOST"
-using "SHIELD_OF_FAITH"
-data "StatusEffect" ""
-
-// ===============================================================
-// BARKSKIN
-// ===============================================================
-//
-
-
-// Family: shillelagh
 new entry "SHILLELAGH"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1639,7 +1604,7 @@ data "Boosts" "UnlockSpell(Target_UnarmedAttack_StoneForming);CharacterUnarmedDa
 data "RemoveEvents" "OnCombatEnded"
 
 
-// Family: stoneskin
+
 new entry "STONESKIN"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1650,11 +1615,6 @@ data "Icon" "Spell_Abjuration_Stoneskin"
 data "StackId" "STONESKIN"
 data "Boosts" "Resistance(Bludgeoning,Resistant);Resistance(Piercing,Resistant);Resistance(Slashing,Resistant);ACOverrideFormula(18,false);DamageReduction(All,Flat,2)"
 data "OnApplyFunctors" "AI_ONLY:IF(not HasStatus('STONESKIN')):ApplyStatus(AI_HELPER_MAGEARMOR,100,4)"
-
-new entry "STONESKIN"
-type "StatusData"
-data "StatusType" "BOOST"
-using "STONESKIN"
 data "ApplyEffect" ""
 
 
