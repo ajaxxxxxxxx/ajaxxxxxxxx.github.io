@@ -193,12 +193,7 @@ data "StatsFunctorContext" "OnCast;OnAttack"
 data "StatsFunctors" "IF((context.HasContextFlag(StatsFunctorContext.OnCast) and IsSpell() and not HasSpellFlag(SpellFlags.Invisible)) or (context.HasContextFlag(StatsFunctorContext.OnAttack) and IsHit())):ApplyStatus(SELF,SAILOR_GREATERINVIS_TECH_AR,100,0)"
 
 
-// Family: shadowblade_passive
-new entry "ShadowBlade_Passive"
-type "PassiveData"
-using "ShadowBlade_Passive"
-// data "Boosts" "IF(AttackedWithPassiveSourceWeapon() and not HasObscuredState(ObscuredState.Clear)):Advantage(AttackRoll)"
-data "Boosts" "IF(IsMeleeWeaponAttack() and not HasObscuredState(ObscuredState.Clear)):Advantage(AttackRoll)"
+
 
 
 // Family: syr_bestowcurse_curse_mental_passive
