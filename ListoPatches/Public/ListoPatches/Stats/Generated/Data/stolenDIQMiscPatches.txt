@@ -136,16 +136,6 @@ data "StackId" "TRANSMUTED_SPELL"
 
 // ==================================== Make some weapons with fire VFX show in cutscenes ====================================
 
-// VEO/JWL Crafting upgrade
-new entry "JWL_MAG_Fire_FireDamage_Quarterstaff_UP1"
-type "Weapon"
-using "JWL_MAG_Fire_FireDamage_Quarterstaff_UP1"
-data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical)"
-
-new entry "MAG_Fire_FireDamage_Quarterstaff"
-type "Weapon"
-using "MAG_Fire_FireDamage_Quarterstaff"
-data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
 
 new entry "WPN_Scimitar_FlameBlade"
 type "Weapon"
