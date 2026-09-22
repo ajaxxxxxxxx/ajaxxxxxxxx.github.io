@@ -5358,27 +5358,6 @@ data "TooltipStatusApply" "ApplyStatus(MISLEAD_INVISIBILITY,100,10);ApplyStatus(
 
 // Changes Circle of Power to last 10 rounds, was 100
 
-
-
-new entry "Target_MotivationalSpeech"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_MotivationalSpeech"
-data "AmountOfTargets" "3"
-data "CombatAIOverrideSpell" "Target_MotivationalSpeech_AI"
-
-// Status: increase temp hp to 15, +6 per upcast level
-
-new entry "Target_MotivationalSpeech"
-type "SpellData"
-data "SpellType" "Target"
-using "Target_MotivationalSpeech"
-data "SpellProperties" "ApplyStatus(MOTIVATIONAL_SPEECH,100,-1)"
-data "TooltipStatusApply" "ApplyStatus(MOTIVATIONAL_SPEECH,100,-1)"
-
-// aljo's changes
-// add upcast motivational speech upcast edits
-
 new entry "Target_MotivationalSpeech"
 type "SpellData"
 data "SpellType" "Target"
@@ -5387,6 +5366,12 @@ using "Target_MotivationalSpeech"
 data "Description" "h38571638g79a7g4ae6g8380g34d54cf06253;1"
 data "AmountOfTargets" "3"
 data "CombatAIOverrideSpell" "Target_MotivationalSpeech_AI"
+data "SpellProperties" "ApplyStatus(MOTIVATIONAL_SPEECH,100,-1)"
+data "TooltipStatusApply" "ApplyStatus(MOTIVATIONAL_SPEECH,100,-1)"
+data "AmountOfTargets" "3"
+
+// aljo's changes
+// add upcast motivational speech upcast edits
 
 new entry "Target_MotivationalSpeech_AI"
 type "SpellData"
