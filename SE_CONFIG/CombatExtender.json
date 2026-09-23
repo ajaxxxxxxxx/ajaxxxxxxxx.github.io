@@ -8,12 +8,12 @@
 	  "Bosses": {
 		"HealthMultiplier": 0,
 		"StaticBoost": 0.10,
-		"HealthPerLevel": 0.08
+		"HealthPerLevel": 0.06
 	},
 	  "Enemies": {
 		"HealthMultiplier": 0,
-		"StaticBoost": 0.06,
-		"HealthPerLevel": 0.06
+		"StaticBoost": 0.05,
+		"HealthPerLevel": 0.05
 	}
 	},
 	"Damage": {
