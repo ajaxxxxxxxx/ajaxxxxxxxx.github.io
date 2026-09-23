@@ -25,6 +25,7 @@ Save safe? Yes from 10.4 probably.
 2. Reorganized the main ListoPatches Stats/Generated/Data folder by entry type: `LP_Armor`, `LP_Characters`, `LP_Interrupts`, `LP_Objects`, `LP_Passives`, `LP_Spells`, `LP_Statuses`, and `LP_Weapons`. That's 2,247 entries total: 2,046 that were already in ListoPatches and 201 from DeGreaser. Tons and tons and tons of 1-off/single use/hotfix files were eliminated so that CatDude55 can have a much easier time finding things to fix.
 3. Merged DeGreaser's localization with ListoPatches and fixed a bunch of duplicates, typos, and errors.
 4. Combined all of the ListoPatches treasuretables into one mega file so there aren't multiple entries for the same treasure table. Did you know Listo adds/moves loot to 161+ "unique" locations?
+5. Slightly decreased buffs to enemy static and scaling HP on the easy and default CX configs (-0.01). Slightly increased buffs to enemy static and scaling HP on the hard CX config (+0.005).
 
 ## Listonomicon v10.4 CatDude Edition
 
