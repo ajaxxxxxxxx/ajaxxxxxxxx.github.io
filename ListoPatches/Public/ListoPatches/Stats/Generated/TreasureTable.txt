@@ -1295,17 +1295,7 @@ object category "I_MOD_OBJ_Dye_SHAR_GOLD",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_MOD_OBJ_Dye_Silver_Metal",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_MOD_OBJ_Dye_Elven_Armour",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_OBJ_Dye_IceCream_02",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_Dye_IceCream_02",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_Dye_IceCream_02",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_MOD_OBJ_Dye_Silver_Metal",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_MOD_OBJ_Dye_Elven_Armour",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AS_Dye_DrowBlack",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -2460,9 +2450,6 @@ object category "MagicScroll_7",2,0,0,0,0,0,0,0
 // Adding one level 7 scroll to High Security Vault 9 (key from completing Return Ratakth's Gold/pickpocketed from him; vanilla reward is just Elegant Studded Leather)
 new treasuretable "LOW_CountingHouse_HighSecurityVault_9"
 CanMerge 1
-new subtable "1,1"
-object category "MagicScroll_7",1,0,0,0,0,0,0,0
-// Adding one each levels 7, 8 and 9 scrolls to High Security Vault 1 (key from display case in Ramazith's Tower)
 new subtable "1,1"
 object category "MagicScroll_7",1,0,0,0,0,0,0,0
 new subtable "1,1"
