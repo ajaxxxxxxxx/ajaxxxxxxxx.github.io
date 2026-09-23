@@ -725,6 +725,8 @@ new treasuretable "SCL_DarkShamblingMound"
 CanMerge 1
 new subtable "1,1"
 object category "I_ARA_Cloak_VeryRare_Symbiote",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_HAV_Holdfast_Scimitar",1,0,0,0,0,0,0,0
 
 new treasuretable "CRE_Expeditioner_Trade"
 CanMerge 1
@@ -1107,6 +1109,8 @@ new subtable "1,1"
 object category "I_WPN_ChaosFang",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Voltstrike_Broken_Blade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Sharblood",1,0,0,0,0,0,0,0
 
 new treasuretable "FED_TollHouse_Hidden"
 CanMerge 1
@@ -2526,16 +2530,6 @@ CanMerge 1
 new subtable "1,1"
 object category "I_DeGreaser_Yaccocmuuds_Yang",1,0,0,0,0,0,0,0
 
-treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
-new treasuretable "DEN_Entrance_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_CINE_CONT_GEN_Freja_DyeChest",1,0,0,0,0,0,0,0
-
-new treasuretable "DEN_Weaponsmith_Trade"
-CanMerge 1
-new subtable "1,1"
-//nope//
 
 new treasuretable "GOB_WaterfallChest"
 CanMerge 1
@@ -2553,14 +2547,3 @@ new treasuretable "LOW_Prison_Rat"
 CanMerge 1
 new subtable "1,1"
 object category "I_MAG_TheClover_Scimitar_of_Thay",1,0,0,0,0,0,0,0
-
-
-new treasuretable "SCL_DarkShamblingMound"
-CanMerge 1
-new subtable "1,1"
-object category "I_MAG_HAV_Holdfast_Scimitar",1,0,0,0,0,0,0,0
-
-new treasuretable "FED_HollowArmr"
-CanMerge 1
-new subtable "1,1"
-object category "I_Sharblood",1,0,0,0,0,0,0,0
