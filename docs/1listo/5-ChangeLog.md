@@ -15,20 +15,18 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v10.5 CatDude Edition (WIP)
+## Listonomicon v10.4.1 CatDude Edition (WIP)
 
 More cleanup of the patch consolidation from 10.4. This is mostly about making the same changes easier to find and audit, not a promise that every conflicting stat entry is fixed.
 
-Save safe? Unknown. Assume no until this build has been tested in game.
+Save safe? Yes from 10.4 probably.
 
-1. Folded DeGreaser into ListoPatches and removed the separate DeGreaser folder/meta file. Its stat entries, localization, treasure tables, and 31 RootTemplate nodes were moved into ListoPatches. The `DeGreaser_` names on some items are still their actual identifiers; deleting the standalone folder did not rename those items.
-2. Reorganized the main ListoPatches Stats/Generated/Data folder by entry type: `LP_Armor`, `LP_Characters`, `LP_Interrupts`, `LP_Objects`, `LP_Passives`, `LP_Spells`, `LP_Statuses`, and `LP_Weapons`. That's 2,247 entries total: 2,046 that were already in ListoPatches and 201 from DeGreaser. Character entries from ListoPatches kept their existing order, with the DeGreaser entries added afterward and source-file comments to help trace where things came from. Duplicate stat definitions are next to each other for review, not silently decided for you. Yes, I really did have this many one-off files.
-3. Merged DeGreaser's English localization into both ListoPatches localization formats. The `.xml` and `.loca.xml` have the same 3,303 unique IDs. Added 23 new IDs and discarded three empty entries that had no contentuid *or* text. Of the 17 IDs where both mods had different strings, four now use DeGreaser's wording and 13 keep ListoPatches' wording. I picked those four deliberately after reviewing the actual strings.
-4. Combined 13 repeated `new treasuretable` definitions so their later subtables sit under the original definition without another `new treasuretable` or `CanMerge`. I then went through repeated item listings by hand and removed the ones I didn't want while leaving the intentional ones. The current main TreasureTable has 161 uniquely named table definitions.
-5. Moved active TreasureTable contents from Freja StyleNDye, More Better Scimitars, and Sharblood into ListoPatches' main TreasureTable. Their old files now contain `//nope//`; the empty/comment-only TreasureTable files in other Public folders were left alone. I subsequently cleaned up the overlapping tables in the main file, including removing the Freja dye-chest table rather than leaving a second `DEN_Entrance_Trade` definition.
-6. File-level checks confirmed that the moved stat entries survived the consolidation, the merged RootTemplates XML parses, and both localization files match. BG3 has not verified any of that for us yet, so report anything that fails in the actual game.
+1. Folded DeGreaser into ListoPatches and removed the separate DeGreaser folder/meta file. Its stat entries, localization, treasure tables, and 31 RootTemplate nodes were moved into ListoPatches.
+2. Reorganized the main ListoPatches Stats/Generated/Data folder by entry type: `LP_Armor`, `LP_Characters`, `LP_Interrupts`, `LP_Objects`, `LP_Passives`, `LP_Spells`, `LP_Statuses`, and `LP_Weapons`. That's 2,247 entries total: 2,046 that were already in ListoPatches and 201 from DeGreaser. Tons and tons and tons of 1-off/single use/hotfix files were eliminated so that CatDude55 can have a much easier time finding things to fix.
+3. Merged DeGreaser's localization with ListoPatches and fixed a bunch of duplicates, typos, and errors.
+4. Combined all of the ListoPatches treasuretables into one mega file so there aren't multiple entries for the same treasure table. Did you know Listo adds/moves loot to 161+ "unique" locations?
 
-## Listonomicon v10.4 CatDude Edition (WIP)
+## Listonomicon v10.4 CatDude Edition
 
 Skipping a lot of numbers internally due to testing/changes not reflected in changelog. Sorry.
 
