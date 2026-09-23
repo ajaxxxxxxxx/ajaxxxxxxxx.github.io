@@ -1314,7 +1314,7 @@ You still benefit from &lt;LSTag Type="Passive" Tooltip="Siael_POTR_Righteous_R"
   <content contentuid="h5237cb81gdb8dg70d2gb49egfdff29ecc62a" version="3">Takes [1] per turn and cannot move. It suffers &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and incoming attacks have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
   <content contentuid="h52494d4371c040c18626486449d2a16e" version="1">Glary Galloway said one day, "There is no way to see and slay!" So his enemies, who hide and play, thought that Glary was easy prey. Until he invented these.</content>
   <content contentuid="h5259232cg94bcg4f1fg86cag49bd2775aea0" version="1">You gain an additional +[1] to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; when &lt;LSTag Type="Status" Tooltip="SHIELD_OF_FAITH"&gt;Shield of Faith&lt;/LSTag&gt; is active.</content>
-  <content contentuid="h526124d8f2ed4ceeb0df5b06293e395f" version="1">You think you may be mistranslating the runes, "Wave Buying GF 1k O-B-O at G-E" is just gibberish.</content>
+  <content contentuid="h526124d8f2ed4ceeb0df5b06293e395f" version="1">This scimitar cuts to the heart of dispute.</content>
   <content contentuid="h52637098g3b16g4bdegac4cg788d909b8f1d" version="2">Drink</content>
   <content contentuid="h526542eed7f445f9b3ac5bd09381e7abada2" version="1">Charged Handaxe</content>
   <content contentuid="h529bf12eg518dg4e7fg9f46gf91c7e3b2863" version="1">A collection of tools used for treating wounds in the field. Not as robust as an Injury Kit, lacking salves, tinctures and other important remedies, but a reliable collection of implements that stand the test of time nonetheless.</content>
@@ -1701,7 +1701,7 @@ You still benefit from &lt;LSTag Type="Passive" Tooltip="Siael_POTR_Righteous_R"
   <content contentuid="h748c6d18e6294a9f97cafe9dde39f0b105g4" version="1">Glaive of Hill Giant Strength</content>
   <content contentuid="h74908bc9gb985g203dgcd9ag7878a1e79342" version="1">Controlled Chaos</content>
   <content contentuid="h74a1e7fege350g4240g96d1gf205f3144f4e" version="1">Hex Target (Strength)</content>
-  <content contentuid="h74de494d18b04635af399d460ccab884" version="1">I will be the last creature when I am done. The cosmos will then be perfect, free of the braying abominations that are all other living things</content>
+  <content contentuid="h74de494d18b04635af399d460ccab884" version="1">I will be the last creature when I am done. The cosmos will then be perfect, free of the braying abominations that are all other living things.</content>
   <content contentuid="h7500c30521ca43539cae4ce0a002ca12gbge" version="1">Ambuscade Glaive</content>
   <content contentuid="h7531fa3655e242deb853fe61b88378488027" version="1">Ambuscade Trident</content>
   <content contentuid="h754e926706d740448ecccf7fa76e495022e4" version="1">Barrel of Monster Hunter Weapons</content>
@@ -2303,7 +2303,7 @@ Removed when &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Helped&lt;/LSTag&gt
   <content contentuid="ha863bb2f41f3474db9db13b4dfdd416e0d49" version="1">Monster Hunting Mace</content>
   <content contentuid="ha87ba250gf6bdg4037gb9f8g43440c304f7f" version="1">All creatures (except yourself) in a 30 foot radius have disadvantage on all saving throws for the next 3 turns.</content>
   <content contentuid="ha893fa2dga107g43ccg9ed2geeafea14cf0c" version="1">Melt</content>
-  <content contentuid="ha8c414a769ee4ea4a8430f69c043fb5b" version="1">Adamantine String Bow</content>
+  <content contentuid="ha8c414a769ee4ea4a8430f69c043fb5b" version="1">Chewed-On Adamantine String Bow</content>
   <content contentuid="ha8ee38caga775g87a4g28dagaa3cc23a0096" version="1">Bolster nearby allies with a supernatural resolve. Their attacks deal an additional [1].</content>
   <content contentuid="ha8fa3b21gfb5bg4074gb7cfg8eaa3694cfd9" version="1">You must wait until you have</content>
   <content contentuid="ha903bd60g9b04g485bgafcdg0000814a42af" version="1">While holding a weapon, you channel magic into it, altering its properties to always give you &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; when attacking.</content>
@@ -2892,7 +2892,7 @@ The &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; bonus for &lt;LS
   <content contentuid="hd9afb91b9a0842d18df84bc2fa5329712b11" version="1">Sickle of Terror</content>
   <content contentuid="hd9dea46fg4bd5g4219g9504gfb803fb74bc0" version="1">Wild Magic: Strength Increase</content>
   <content contentuid="hd9eeb157g5f64g4dadga080g6e5552e70a8c" version="1">Summoned Lute</content>
-  <content contentuid="hda078bbf0e444022b5c296f08bbeb4c1" version="1">Grand Exchange</content>
+  <content contentuid="hda078bbf0e444022b5c296f08bbeb4c1" version="1">Swift Exchange</content>
   <content contentuid="hda3169e0755945ae8b9dbcaf7c1233b7647e" version="1">Bound Club</content>
   <content contentuid="hda35005d4fdb41c394cd7039119177c6ddgg" version="1">Chilled Flail</content>
   <content contentuid="hda3b0bb6g52fbg4786g8c33g5950b017e03f" version="1">Lightning &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; (Non-Magical)</content>
