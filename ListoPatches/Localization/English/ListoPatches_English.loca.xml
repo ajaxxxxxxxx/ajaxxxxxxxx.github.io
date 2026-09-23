@@ -3302,4 +3302,27 @@ The &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; bonus for &lt;LS
   <content contentuid="ShillelaghSpellDescription2" version="1">Your Club, Quarterstaff, Mace, Morningstar, Sickle, Spear, or Trident becomes magical: they deal [1], and add your &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability&lt;/LSTag&gt; for &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
   <content contentuid="ShillelaghSpellDescription3" version="1">Creature's weapon is magical and deals [1]. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; add the wielder's &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt;.</content>
   <content contentuid="ShillelaghSpellExDescription" version="1">Cast again to remove effect.</content>
+	<content contentuid="h834471a51a254efc802f070ecad2d816" version="1">Jasper's Cloak</content>
+	<content contentuid="h3e82833c8693463f9ca602f2dd4f92e5" version="1">Do not go gently into that bright light, fae.</content>
+	<content contentuid="h318e7c13244d4ebc87218fb2c3bd1713" version="1">Cloak of the Monarch</content>
+	<content contentuid="h3a07e3b9236a45509bd9b29acc6262ea" version="1">Heroes come and go, but villains are forever.</content>
+	<content contentuid="7f93ba98-e579-4845-819d-18f391785dbd" version="1">You are cursed! When your Hit Points reach zero, you will die instantly instead of falling unconscious.</content>
+	<content contentuid="h0a45cebag6c15g4ed5ga194g9f456a9e3a88" version="1">Unreliable Runes</content>
+	<content contentuid="h899c35b2g293fg4be0gb94cg444ee5604f6b" version="1">The faded magic of the bow causes some of its enchantment to improve arrows fired from it - at random! Deals random bonus damage. </content>
+	<content contentuid="h8f5faf91g4293g440fg99f1g86972a1b7455" version="1">Second Hand Gear</content>
+	<content contentuid="hef222708ge492g452bgb6a4gbee0d49b1c1b" version="1">This poor adventurer is using old, rusted gear covered in the grime of an adventure-gone-wrong. They have reduced health and rolls, and are flammable and vulnerable to acid.</content>
+	<content contentuid="hc0b0a888g7404g4d7agb223g53e9e4ac8208" version="1">Rusty Goblin Gear</content>
+	<content contentuid="hd3544834g859dg4f66g8e43gb3c83d154011" version="1">These goblins have third-hand gear. They have reduced health and penalties to their AC, saves, and attack rolls.</content>
+	<content contentuid="h11d184b2geb74g4585ga68fg97adc7e260bd" version="1">Rigor Mortis</content>
+	<content contentuid="hae45bd01gdde0g48f5g84fcg30ffeea71baf" version="1">The grave has not relinquished control of this creature completely - it is slower and weaker as a result.</content>
+	<content contentuid="h5728dcfdg22b7g4e2cga609g3b1e9d4e2ae6" version="1">Hellacious Fireball</content>
+	<content contentuid="ha45e963cga131g4283g8f96gf642c448fb6b" version="1">Aetheric Tantrum</content>
+	<content contentuid="h9bba7cebgb27ag4ec4g97f4g2aa04626a239" version="1">The creature swells with arcane energy and rage. It increases in size, strength, and danger while excess surges of the Weave manifest in unpredictable consequences!</content>
+	<content contentuid="h0c7599b1ga123g43aag905bg7a64ab8d006e" version="1">Scouring Anathema</content>
+	<content contentuid="h088a2d86gda5eg4276gb189gfe6591be3636" version="1">This creature's attacks will apply fierce burns to opponents.</content>
+	<content contentuid="h478c63dcg2385g4fcdgb3c4g8ca871aa5caf" version="1">Undying Endurance</content>
+	<content contentuid="h448bca7bg62d5g4b6agacbfg29e88d457848" version="1">This creature refuses to yield. When bloodied, it will regain [1] health every round of combat.</content>
+	<content contentuid="ha9872611g0faeg4aa3g80e8gee16927cf874" version="1">Aegis of Absolute Immunity</content>
+	<content contentuid="h3aabbd14g0161g4f22g837cg973c9ff6c745" version="1">This creature renders itself immune to all types of damage it received in the previous turn.</content>
+	<content contentuid="hebdf9566ga7a1g4ce2gb495gb29a460bc838" version="1">Reduce the next damage taken by the entity by [1], consuming one charge of Unstoppable. Unstoppable creatures cannot be moved by any external forces, neither mundane nor magical.</content>
 </contentList>
