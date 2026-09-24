@@ -1435,7 +1435,7 @@
 		"Passives": ["Goon_Radiant_Vulnerable","Goon_Psychic_Resistant","Goon_Poison_Resistant","Goon_Necrotic_Resistant","Goon_Fire_Vulnerable","SunlightSensitivity","JWL_Passive_SymbolKelemvor","JWL_Passive_Follower_SymbolKelemvor","CAT_Autosummon_Zombie3_Passive","AJ_RM"]
 	},
 	  "S_LOW_Lorroakan_a9d4b71d-b0ef-429e-8210-6dc8be986ee9": {
-		"Passives": ["MAG_Acid_NoxiousFumes_Gloves_Passive","MAG_Extended_Target_Cantrip_Passive","Goon_Fall_Damage_Resistance","ControlledChaos","TempestuousMagic","Goon_Reduced_Weight_Size_Scale_1","Goon_Reduced_Scale_1","MAG_PHB_OfRegeneration_Ring_Passive","Alert","WarCaster_Bonuses","WarCaster_OpportunitySpell","Tough","ElementalAdept_Cold","ElementalAdept_Lightning","ARA_Cloak_SpellSaveDC_Passive","MAG_FrostTalon_ChillingCounter_Passive","MAG_Cold_ChilledOnSpellDamage_Passive","MAG_Frost_GenerateFrostOnDamage_Gloves_Passive","MAG_Frost_GenerateFrostOnStatusApply_Hat_Passive","CC_KineticRedirection_Passive","CC_LivingCurrent_Passive","CC_ChaoticHarmony_Passive","CC_MaximizedOutput_Passive","WW_ShiftingElements","CORD_Lightningonlightning"],
+		"Passives": ["UND_SocietyOfBrilliance_ResonanceStaff_Passive","MAG_Acid_NoxiousFumes_Gloves_Passive","MAG_Extended_Target_Cantrip_Passive","Goon_Fall_Damage_Resistance","ControlledChaos","TempestuousMagic","Goon_Reduced_Weight_Size_Scale_1","Goon_Reduced_Scale_1","MAG_PHB_OfRegeneration_Ring_Passive","Alert","WarCaster_Bonuses","WarCaster_OpportunitySpell","Tough","ElementalAdept_Cold","ElementalAdept_Lightning","ARA_Cloak_SpellSaveDC_Passive","MAG_FrostTalon_ChillingCounter_Passive","MAG_Cold_ChilledOnSpellDamage_Passive","MAG_Frost_GenerateFrostOnDamage_Gloves_Passive","MAG_Frost_GenerateFrostOnStatusApply_Hat_Passive","CC_KineticRedirection_Passive","CC_LivingCurrent_Passive","CC_ChaoticHarmony_Passive","CC_MaximizedOutput_Passive","WW_ShiftingElements","CORD_Lightningonlightning"],
 		"Spells": ["NPC_LightningBolt","NPC_ParalyzingRay","NPC_SummonArchmage","Target_Sunburst","NPC_PrismaticSpray","AJ_Shout_ActionSurge_Emergency","AJ_MirrorImage_Emergency"],
 		"HealthOverride": 250
 	},
@@ -1655,7 +1655,7 @@
 		"HealthOverride": 66
 	},
 	  "S_GLO_Monitor_f65becd6-5cd7-4c88-b85e-6dd06b60f7b8": {
-		"Passives": ["ImmuneToDisarm","ElementalAdept_Fire","LOW_Chasm_Mangle_Pushback","ThirdEye","DevilsSight","Blindsight","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","BSM_BS_OniSkin_Passive","CC_CharismaticForce_Passive","CC_AugmentedRetaliation_Passive"],
+		"Passives": ["ImmuneToDisarm","ElementalAdept_Fire","LOW_Chasm_Mangle_Pushback","ThirdEye","DevilsSight","Blindsight","MAG_Frightened_Immunity_Passive","MAG_StunnImmunity_Passive","MAG_Shadow_BlindImmunity_Ring_Passive","BSM_BS_OniSkin_Passive","CC_CharismaticForce_Passive"],
 		"Spells": ["AJ_AotA"]
 	},
 	  "S_LOW_HouseOfHope_RaphaelCambion04_25c6573c-acb8-437f-9fcf-81a80c56f540": {
@@ -1879,17 +1879,17 @@
 		"HealthOverride": 135
 	},
 	  "EO_Lathanders_Image_e84d8eb3-89ab-4b65-b6e1-05b04afc2d1c": {
-		"Passives": ["ShieldMaster_Shove","MAG_Shove_DealDamage","MOO_KethericArmor","CSS_Lathander_Pass_DivineWeave","CSS_Lathander_Pass_IlluminateAC","CSS_Lathander_Pass_UndeadKiller","CRE_LathandersLight_Passive","ARA_Cloak_OnHealSanctuary","LOW_Chasm_Mangle_Pushback","CC_KineticRedirection_Passive","FinishingStrike","CX_Paladin_Boost"],
+		"Passives": ["CSS_Lathander_Pass_SurgeOfLight","ShieldMaster_Shove","MAG_Shove_DealDamage","MOO_KethericArmor","CSS_Lathander_Pass_DivineWeave","CSS_Lathander_Pass_IlluminateAC","CSS_Lathander_Pass_UndeadKiller","CRE_LathandersLight_Passive","ARA_Cloak_OnHealSanctuary","LOW_Chasm_Mangle_Pushback","CC_KineticRedirection_Passive","FinishingStrike","CX_Paladin_Boost"],
 		"Spells": ["Target_ShieldShove","Rush_Charger_Push","Target_Shove","NPC_MassHealingWord","NPC_GuardianOfFaith","AJ_Shout_ActionSurge_Emergency","NPC_BurningHandsBA"],
 		"healthOverride": 133
 	},
 	  "EO_Lathander_Guard_1_403f0c08-1fe7-4c1f-8f38-892792e74933": {
-		"Passives": ["ShieldMaster_Shove","MAG_Shove_DealDamage","MOO_KethericArmor","CSS_Lathander_Pass_IlluminateAC","CSS_Lathander_Pass_UndeadKiller","CRE_LathandersLight_Passive","LOW_Chasm_Mangle_Pushback","FinishingStrike","CX_Paladin_Boost"],
+		"Passives": ["CSS_Lathander_Pass_SurgeOfLight","ShieldMaster_Shove","MAG_Shove_DealDamage","MOO_KethericArmor","CSS_Lathander_Pass_IlluminateAC","CSS_Lathander_Pass_UndeadKiller","CRE_LathandersLight_Passive","LOW_Chasm_Mangle_Pushback","FinishingStrike","CX_Paladin_Boost"],
 		"Spells": ["Target_ShieldShove","Rush_Charger_Push","Target_Shove","NPC_MassHealingWord","NPC_GuardianOfFaith"],
 		"healthOverride": 133
 	},
 	  "EO_Lathander_Guard_2_55b24425-ab1c-40a1-9791-9c25b0883935": {
-		"Passives": ["ShieldMaster_Shove","MAG_Shove_DealDamage","MOO_KethericArmor","CSS_Lathander_Pass_IlluminateAC","CSS_Lathander_Pass_UndeadKiller","CRE_LathandersLight_Passive","LOW_Chasm_Mangle_Pushback","FinishingStrike","CX_Paladin_Boost"],
+		"Passives": ["CSS_Lathander_Pass_SurgeOfLight","ShieldMaster_Shove","MAG_Shove_DealDamage","MOO_KethericArmor","CSS_Lathander_Pass_IlluminateAC","CSS_Lathander_Pass_UndeadKiller","CRE_LathandersLight_Passive","LOW_Chasm_Mangle_Pushback","FinishingStrike","CX_Paladin_Boost"],
 		"Spells": ["Target_ShieldShove","Rush_Charger_Push","Target_Shove","NPC_MassHealingWord","NPC_GuardianOfFaith"],
 		"healthOverride": 133
 	},
