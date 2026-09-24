@@ -146,28 +146,19 @@ data "StatusOnEquip" ""
 
 // New passive: gives 3m movement speed (so stacks with Longstrider). When jumping, can possibly fear enemies in a 3m radius upon landing if they fail a DC 17 WIS saving throw
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/DegreaserAdamantStuff.txt
-new entry "DeGreaser_Shield_of_Spell_Reflection"
-type "Armor"
-using "DeGreaser_Shield_of_Spell_Reflection"
-data "Rarity" "Legendary"
-data "Boosts" "CriticalHit(AttackTarget,Success,Never);Resistance(Cold, Resistant);Resistance(Acid, Resistant)"
-data "ValueScale" "5.5"
-data "PassivesOnEquip" "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Shield_Passive;MOD_AdamantineClad_Shield;MAG_ShieldRiposte_Passive;MageSlayer_Advantage;MageSlayer_AttackCaster;MageSlayer_BreakConcentration"
-
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Armor.txt
 new entry "DeGreaser_Shield_of_Spell_Reflection"
 type "Armor"
 using "ARM_Shield"
 data "RootTemplate" "4b255ce5-912c-414e-b936-d9ae4dca0dbd"
-data "Rarity" "VeryRare"
+data "Rarity" "Legendary"
 data "Boosts" "Resistance(Acid,Resistant)"
 data "ArmorClass" "+2"
 data "Weight" "1"
 data "ValueUUID" "a57433fc-8be8-4efb-ac6b-a625b3bdcd18"
-data "ValueScale" "4"
-data "PassivesOnEquip" "MageSlayer_Advantage;MageSlayer_AttackCaster;MageSlayer_BreakConcentration"
+data "ValueScale" "5.5"
+data "PassivesOnEquip" "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Shield_Passive;MOD_AdamantineClad_Shield;MAG_ShieldRiposte_Passive;MageSlayer_Advantage;MageSlayer_AttackCaster;MageSlayer_BreakConcentration"
 data "Unique" "1"
+data "Boosts" "CriticalHit(AttackTarget,Success,Never);Resistance(Cold, Resistant);Resistance(Acid, Resistant)"
     
 
 // Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/GraphicFade_Patches.txt
