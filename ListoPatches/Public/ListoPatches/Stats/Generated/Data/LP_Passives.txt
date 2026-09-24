@@ -304,6 +304,7 @@ using "MAG_Gish_TempHPWhileConcentrating_Boots_Passive"
 data "DescriptionParams" "GainTemporaryHitPoints(12)"
 // data "StatsFunctors" "ApplyStatus(SELF, MAG_TEMPORARY_HP_8, 100, -1)"
 data "StatsFunctors" "ApplyStatus(SELF, CHT_MAG_TEMPORARY_HP_12, 100, -1)"
+
 new entry "MAG_Interrupt_MAG_Interrupt_AbsorbElements_Resource_Passive"
 type "PassiveData"
 using "MAG_Interrupt_MAG_Interrupt_AbsorbElements_Resource_Passive"
@@ -326,6 +327,7 @@ data "StatsFunctors" "ApplyStatus(CHT_MAG_TEMPORARY_HP_12,100,-1)"
 
 // ========================== Shield of Shielding ==========================
 // Shield: decrease cooldown to per short rest
+
 new entry "MAG_OfSwordmaster_Gloves_Passive"
 type "PassiveData"
 using "MAG_OfSwordmaster_Gloves_Passive"
@@ -336,6 +338,7 @@ data "Boosts" "Proficiency(Shortswords);Proficiency(Longswords);Proficiency(Grea
 
 // ========================== Martial Exertion Gloves ==========================
 // Martial Exertion: decrease self-damage to 3d6
+
 new entry "CHT_BlackguardGauntlets_SpellAdvantage_Passive"
 type "PassiveData"
 // Touch of Death
@@ -346,6 +349,7 @@ data "Boosts" "IF(IsMeleeSpellAttack()):Advantage(AttackRoll)"
 
 // ========================== Dark Justiciar Boots ==========================
 // Shadow Teleportation: change cost to bonus action and decrease cooldown to per combat
+
 new entry "CHT_BlackguardGreaves_Movement_Passive"
 type "PassiveData"
 // Dreaded Entrance
@@ -359,6 +363,7 @@ data "Conditions" "SpellCategoryIs(SpellCategory.Jump)"
 data "StatsFunctors" "PROJECTILE:CreateExplosion(CHT_BlackguardGreaves_Jump_Explosion);RemoveStatus(SG_Invisible)"
 
 // Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/CorrosiveRing.txt
+
 new entry "MAG_Acid_Corrosion_Ring_Passive"
 type "PassiveData"
 using "MAG_Acid_Corrosion_Ring_Passive"
@@ -366,6 +371,7 @@ data "DescriptionParams" "Acid Damage;1"
 data "StatsFunctors" "ApplyStatus(MAG_ACID_CORROSION, 100, 1);ApplyStatus(MAG_ACID_CORROSION_DURATION_TECHNICAL, 100, 1)"
 
 // Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Discordant Instruments.txt
+
 new entry "JWL_Passive_SymbolKelemvor"
 type "PassiveData"
 using "JWL_Passive_SymbolKelemvor"
@@ -492,6 +498,7 @@ data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Force)):DealDamage(Char
 // ==================================== Faith and Fortitude - Cleric Equipment ====================================
 
 // Staff of Resurrection: fix localization for the Heal spell, as it inherits from the vanilla spell but Syrchalis spell rebalance changed how the spell works
+
 new entry "MAG_Fortune"
 type "PassiveData"
 using "MAG_Fortune"
@@ -1006,7 +1013,7 @@ data "DescriptionParams" "DealDamage(1d10,Poison)"
 data "Properties" "IsHidden"
 data "StatsFunctorContext" "OnDamage"
 data "Conditions" "AttackedWithPassiveSourceWeapon()"
-data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, math.max(19, ManeuverSaveDC()+6))):ApplyStatus(ALCH_TOXIN_PURPLEWORM_CONDITION,100,1, AdvantageOnPoisoned())"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, math.max(19, ManeuverSaveDC()+4))):ApplyStatus(ALCH_TOXIN_PURPLEWORM_CONDITION,100,1, AdvantageOnPoisoned())"
 
 // Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/LoviatarLove.txt
 new entry "GOB_CalmnessInPain"
