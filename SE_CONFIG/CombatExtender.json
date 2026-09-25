@@ -1441,7 +1441,7 @@
 	},
 	  "S_LOW_Miklaur_637bb24f-66b7-4447-807b-556bd1c00ed6": {
 		"Passives": ["SunlightSensitivity","ARP_SpellSlot_3_3","Goon_Summon_Potion_Healing_x5","Goon_Summon_Potion_Healing_Greater_x2","Goon_Summon_Potion_Healing_Supreme_x1"],
-		"Spells": ["Target_First_Aid_NPC","Target_Counterspell","NPC_EyebitePanicked","NPC_Heal","NPC_MassHealingWord","AJ_Emergency_Cats"]
+		"Spells": ["Target_Counterspell","NPC_EyebitePanicked","NPC_Heal","NPC_MassHealingWord","AJ_Emergency_Cats"]
 	},
 	  "S_HAG_ForestIllusion_Redcap_01_ff840420-d46a-4837-868b-ac02f45e4586": {
 		"Passives": ["ClarifiedMortality","WildMagic"],
