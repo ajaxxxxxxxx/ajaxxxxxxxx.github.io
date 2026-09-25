@@ -1336,11 +1336,11 @@
 		"HealthOverride": 67
 	},
 	  "Intellect_Devourer_000_bd2732bb-ad17-807e-15f3-b53dabd0cb1b": {
-		"Passives": ["Goon_Piercing_Vulnerable","Goon_Psychic_Vulnerable","QUEST_CRA_IntDev_Weakened"],
+		"Passives": ["Goon_Piercing_Vulnerable","Goon_Psychic_Vulnerable","Goon_Acid_Vulnerable","Goon_Necrotic_Vulnerable","Goon_Thunder_Vulnerable","Goon_Fire_Vulnerable","SunlightSensitivity","QUEST_CRA_IntDev_Weakened"],
 		"HealthOverride": 5
 	},
 	  "Intellect_Devourer_001_987e0a31-d4c6-83f1-3aa9-1ba08b1c5af1": {
-		"Passives": ["Goon_Piercing_Vulnerable","Goon_Psychic_Vulnerable","QUEST_CRA_IntDev_Weakened"],
+		"Passives": ["Goon_Piercing_Vulnerable","Goon_Psychic_Vulnerable","Goon_Acid_Vulnerable","Goon_Necrotic_Vulnerable","Goon_Thunder_Vulnerable","Goon_Fire_Vulnerable","SunlightSensitivity","QUEST_CRA_IntDev_Weakened"],
 		"HealthOverride": 5
 	},
 	  "S_CRA_Int_001_cb82f6b0-edc0-4720-a551-83802e2d3fc9": {
@@ -1352,10 +1352,6 @@
 		"HealthOverride": 5
 	},
 	  "S_CRA_Escape_IntDevourer3_000_0076b830-9bc2-4252-95dd-cd7dcdfda666": {
-		"Passives": ["Goon_Piercing_Vulnerable","Goon_Psychic_Vulnerable","QUEST_CRA_IntDev_Weakened"],
-		"HealthOverride": 5
-	},
-	  "MMM_LOSTINTELLECT_c518330d-cc41-46f5-a9c7-bddc8738f993": {
 		"Passives": ["Goon_Piercing_Vulnerable","Goon_Psychic_Vulnerable","QUEST_CRA_IntDev_Weakened"],
 		"HealthOverride": 5
 	},
