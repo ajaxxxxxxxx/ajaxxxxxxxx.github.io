@@ -28,6 +28,7 @@ Save safe? Yes from 10.4 probably.
 5. Slightly decreased buffs to enemy static and scaling HP on the easy and default CX configs (-0.01). Slightly increased buffs to enemy static and scaling HP on the hard CX config (+0.005).
 6. Made further small tweaks to various enemies or enemy types. Updating vulnerabilities/immunities, giving a little more or less health, tagging Sarevok as ethereal, making sure the phase spider matriarch has consistent design with other spiders (like aversion to fire) so that the experience of fighting her children translates better to fighting her.
 7. Very small tweaks to the normal and hard CX. Removing damage retaliation from Raphael on normal, adding a buff that activates by being healed to the defenders of Lathander's mace.
+8. Normal CX: Removed "SpellSniper_Critical" and "PotentCantrip" from the generic Wizard lists and moved them to specific wizard types (Evocation, Necromancy, Divination). Gave Divination Wizard enemies "Alert" so they can act like they actually prepared, and Jack of All Trades in Act 2 to further boost their initiative and the rare NPC skill check roll. Removed a bunch of passives from Barbarians in Act 3. Act 3 Knowledge Clerics have Alert. Removed some of the larger healing related buffs out of the generic Cleric boosts, giving them just to Life Clerics. Act 3 War Clerics are better with their cantrips. Reduced spell lists a little further. Cleaned out old references to spells/abilities from mods no longer in Listo.
 
 ## Listonomicon v10.4 CatDude Edition
 
