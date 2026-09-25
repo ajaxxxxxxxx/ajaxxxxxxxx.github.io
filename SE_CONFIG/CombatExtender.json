@@ -1729,7 +1729,7 @@
 		"Spells": ["AJ_AotA"]
 	},
 	  "UNI_GLO_Gortash_NoHandTemplate_3bbf4a0c-2eea-459e-942a-85beaa6ae59a": {
-		"Passives": ["MagicResistance","MAG_Critfisher_Passive","PsyRiderPassive1","PsyRiderPassive1b","PsyRiderPassive2","PsyRiderPassive2b","AJ_NPC_HPR","NPC_BF","NPC_DamageReduction"],
+		"Passives": ["MagicResistance","MAG_Critfisher_Passive","AJ_NPC_HPR","NPC_BF","NPC_DamageReduction"],
 		"Spells": ["AJ_AotA"]
 	},
 	  "S_LOW_Park_Bhaal_Leader_ecb818a4-d67d-4e7f-b917-552654a4cb61": {
@@ -1874,7 +1874,7 @@
 		"Spells": ["NPC_Girzanjes","AJ_Shout_ActionSurge_Emergency"]
 	},
 	  "S_MOO_Executioner_8e75eb3b-7551-485e-8f98-2bf2e51d3e84": {
-		"Passives": ["MAG_DarkJusticiarGloves_Passive","DirtyKickUnlock","Alert","GraveMagic","PsyRiderPassive1","PsyRiderPassive1b","PsyRiderPassive2","PsyRiderPassive2b","MAG_ToughVestPassive","Mod_Titans_Reach","Mod_MAG_LowHP_IncreaseDamage_Passive","FullSwing_Passive","Mod_MAG_Violence_LowHP_Violence_Passive","Goon_Necrotic_Immune","Goon_Psychic_Resistant","Goon_Damage_Psychic_d4_Attacks"],
+		"Passives": ["MAG_DarkJusticiarGloves_Passive","DirtyKickUnlock","Alert","GraveMagic","MAG_ToughVestPassive","Mod_Titans_Reach","Mod_MAG_LowHP_IncreaseDamage_Passive","FullSwing_Passive","Mod_MAG_Violence_LowHP_Violence_Passive","Goon_Necrotic_Immune","Goon_Psychic_Resistant","Goon_Damage_Psychic_d4_Attacks"],
 		"Spells": ["NPC_AbsorbIntellect","AJ_AotA"],
 		"HealthOverride": 135
 	},
@@ -1906,7 +1906,7 @@
 		"Passives": ["CX_Boss_Boost","CAT_Autosummon_SkeletalHound2_Passive","AJ_NPC_HPR","NPC_DamageReduction"]
 	},
 	  "EO_SCL_Beholder_6a1772b5-aeaf-45c4-9b53-d38176981f91": {
-		"Passives": ["Tough","MAG_Fighter_ActionSurge_AttackBonus_Gloves_Passive","RelentlessEndurance","WildMagic","PsyRiderPassive1","PsyRiderPassive1b","PsyRiderPassive2","PsyRiderPassive2b","Goon_Poison_Resistant","Goon_Psychic_Resistant"]
+		"Passives": ["Tough","MAG_Fighter_ActionSurge_AttackBonus_Gloves_Passive","RelentlessEndurance","WildMagic","Goon_Poison_Resistant","Goon_Psychic_Resistant"]
 	},
 	  "S_MOO_OublietteHookHorror_000_eda129f0-b54b-4b05-95a3-ba626e4b765a": {
 		"Passives": ["MAG_Critfisher_Passive","MagicResistance","Goon_Damage_Necrotic_d4_Attacks","BSM_BS_UnstoppableMassacre_Passive","VV_CorneredRat_Passive"],
