@@ -32,7 +32,7 @@ Save safe? Yes from 10.4 probably.
 9. Easy config: Removed 73 spells and passives, and downgraded the worst auto-summon abilities to much weaker summons (e.g. "2 death sphepherds, 2 ghouls, 2 shadows" now just summons a skeleton, ghoul, and zombie).
 10. Moved CatDude's Mizora Rewards and Moon Oath fixes into the Listo patch instead of separate files.
 11. Updated 13 mods.
-12. Initial pass of updating Act 2 Expansion NPCs to support UNSO-style enhancement.
+12. ~~Initial pass of updating Act 2 Expansion NPCs to support UNSO-style enhancement.~~ do this later
 13. Updates to mod configs.
 
 ## Listonomicon v10.4 CatDude Edition
