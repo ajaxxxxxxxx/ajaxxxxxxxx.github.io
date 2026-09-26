@@ -37,6 +37,22 @@
                     <attribute id="Name" type="FixedString" value="D12Cantrip" />
                     <attribute id="UUID" type="guid" value="67432a46-f078-4c62-bade-e5a0f96db334" />
                 </node>
+                <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d8"/>
+                    <attribute id="Level1" type="LSString" value="1d8"/>
+                    <attribute id="Level10" type="LSString" value="3d8"/>
+                    <attribute id="Level17" type="LSString" value="4d8"/>
+                    <attribute id="Level2" type="LSString" value="1d8"/>
+                    <attribute id="Level3" type="LSString" value="1d8"/>
+                    <attribute id="Level4" type="LSString" value="1d8"/>
+                    <attribute id="Level5" type="LSString" value="2d8"/>
+                    <attribute id="Level6" type="LSString" value="2d8"/>
+                    <attribute id="Level7" type="LSString" value="2d8"/>
+                    <attribute id="Level8" type="LSString" value="2d8"/>
+                    <attribute id="Level9" type="LSString" value="2d8"/>
+                    <attribute id="Name" type="FixedString" value="EldritchZoneDamage"/>
+                    <attribute id="UUID" type="guid" value="18773080-6a5a-4510-84c6-c9a91eb16a32"/>
+                </node>
             </children>
         </node>
     </region>
