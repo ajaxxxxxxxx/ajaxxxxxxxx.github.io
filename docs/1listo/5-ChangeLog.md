@@ -15,7 +15,7 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v10.4.1 CatDude Edition (WIP)
+## Listonomicon v10.4.1 CatDude Edition
 
 More cleanup of the patch consolidation from 10.4. This is mostly about making the same changes easier to find and audit, not a promise that every conflicting stat entry is fixed.
 
@@ -30,6 +30,10 @@ Save safe? Yes from 10.4 probably.
 7. Very small tweaks to the normal and hard CX. Removing damage retaliation from Raphael on normal, adding a buff that activates by being healed to the defenders of Lathander's mace.
 8. Normal CX: Removed "SpellSniper_Critical" and "PotentCantrip" from the generic Wizard lists and moved them to specific wizard types (Evocation, Necromancy, Divination). Gave Divination Wizard enemies "Alert" so they can act like they actually prepared, and Jack of All Trades in Act 2 to further boost their initiative and the rare NPC skill check roll. Removed a bunch of passives from Barbarians in Act 3. Act 3 Knowledge Clerics have Alert. Removed some of the larger healing related buffs out of the generic Cleric boosts, giving them just to Life Clerics. Act 3 War Clerics are better with their cantrips. Reduced spell lists a little further. Cleaned out old references to spells/abilities from mods no longer in Listo.
 9. Easy config: Removed 73 spells and passives, and downgraded the worst auto-summon abilities to much weaker summons (e.g. "2 death sphepherds, 2 ghouls, 2 shadows" now just summons a skeleton, ghoul, and zombie).
+10. Moved CatDude's Mizora Rewards and Moon Oath fixes into the Listo patch instead of separate files.
+11. Updated 13 mods.
+12. Initial pass of updating Act 2 Expansion NPCs to support UNSO-style enhancement.
+13. Updates to mod configs.
 
 ## Listonomicon v10.4 CatDude Edition
 
