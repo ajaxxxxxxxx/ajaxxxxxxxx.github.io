@@ -7,6 +7,10 @@ new treasuretable "UND_Tower_SecretCellar_RewardChest"
 CanMerge 1
 new subtable "1,1"
 object category "I_UND_Noblestalk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_BW_SOTF_WPN_HUM_Shield_Thunder",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_CL_WPN_MAG_Sentinel_1_HandCrossbow",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_Weaponsmith_Trade"
 CanMerge 1
@@ -36,6 +40,8 @@ new subtable "1,1"
 object category "I_CL_WPN_MAG_Cauterising_Scimitar",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_CL_WPN_MAG_Caustic_Longbow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Gloves_of_Gecko_Grip",1,0,0,0,0,0,0,0
 
 new treasuretable "HAV_Weaponsmith_Trade"
 CanMerge 1
@@ -139,6 +145,8 @@ new subtable "1,1"
 object category "I_WPN_Artificer_Rifle_1",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_CL_WPN_MAG_Sentinel_1_Pike",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Swollentoes_Cloak_of_Protection",1,0,0,0,0,0,0,0
 
 new treasuretable "SCL_RuinedFortExploration"
 CanMerge 1
@@ -175,6 +183,8 @@ new subtable "1,1"
 object category "I_MAG_DevilsBlackmith_ScaleMail",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_ARA_Cloak_Legendary_Bhaalist",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Moghadam",1,0,0,0,0,0,0,0
 
 new treasuretable "SCL_ServantOfTheRaven_Inventory"
 CanMerge 1
@@ -304,6 +314,8 @@ new subtable "1,1"
 object category "I_ARMBEALUS_AND_HRINGS",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_TrickOrTreat",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Mantle_of_Ajax",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_Guildhall_FetchersBrat_Trade"
 CanMerge 1
@@ -366,6 +378,8 @@ new subtable "1,1"
 object category "I_CL_WPN_MAG_Sentinel_1_Spear",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_CL_WPN_MAG_Sentinel_1_Trident",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Flamepearls_Vorpal_Greataxe",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_SorcerousSundries_Trade_Magic"
 CanMerge 1
@@ -520,6 +534,8 @@ new subtable "1,1"
 object category "I_BW_SOTF_WPN_HUM_Shield_Crimson_Rector",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_CL_WPN_MAG_Sentinel_1_Greataxe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Sussurstring_Bow",1,0,0,0,0,0,0,0
 
 new treasuretable "COL_Barracks_MistressOfSouls"
 CanMerge 1
@@ -585,12 +601,6 @@ CanMerge 1
 new subtable "1,1"
 object category "I_BW_SOTF_WPN_HUM_Shield_The_First_of_the_Beasts",1,0,0,0,0,0,0,0
 
-new treasuretable "UND_Tower_SecretCellar_RewardChest"
-new subtable "1,1"
-object category "I_BW_SOTF_WPN_HUM_Shield_Thunder",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_CL_WPN_MAG_Sentinel_1_HandCrossbow",1,0,0,0,0,0,0,0
-
 new treasuretable "UND_SeluneOutpost_Paladin_Treasure"
 CanMerge 1
 new subtable "1,1"
@@ -646,6 +656,8 @@ new treasuretable "LOW_DevilsFee_Diabolist_Trade"
 CanMerge 1
 new subtable "2,1"
 object category "I_ARA_Cloak_Legendary_Helldusk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Resplendant_Scimitar",1,0,0,0,0,0,0,0
 
 new treasuretable "MOO_BugBearvendor_Trade"
 CanMerge 1
@@ -679,6 +691,8 @@ new subtable "1,1"
 object category "I_ARA_Cloak_Rare_Reeling",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_WPN_Voltstrike_Blade_Broken",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Galloways_Goggles_of_True_Sight",1,0,0,0,0,0,0,0
 
 new treasuretable "HAG_WoodWoad_Chest"
 CanMerge 1
@@ -711,6 +725,8 @@ new treasuretable "SCL_DarkShamblingMound"
 CanMerge 1
 new subtable "1,1"
 object category "I_ARA_Cloak_VeryRare_Symbiote",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_MAG_HAV_Holdfast_Scimitar",1,0,0,0,0,0,0,0
 
 new treasuretable "CRE_Expeditioner_Trade"
 CanMerge 1
@@ -873,6 +889,10 @@ new subtable "1,1"
 object category "I_CL_WPN_MAG_Moist_Quarterstaff",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_CL_WPN_MAG_Moist_Rapier",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Jarlaxles_Piwafwa",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Mariners_Revenge",1,0,0,0,0,0,0,0
 
 new treasuretable "FOR_BlacksmithsCellar_FineWeapon"
 CanMerge 1
@@ -968,6 +988,11 @@ new treasuretable "LOW_DevilsFee_HelsikChest_Treasure"
 CanMerge 1
 new subtable "1,1"
 object category "I_MAG_Shar_Mace",1,0,0,0,0,0,0,0
+// Adding one level 7 OR 8 OR 9 scroll to chest upstairs in Devil's Fee (same location as Mask of Soul Perception)
+new subtable "1,1"
+object category "MagicScroll_7",3,0,0,0,0,0,0,0
+object category "MagicScroll_8",2,0,0,0,0,0,0,0
+object category "MagicScroll_9",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_CazadorPalace_DeadGirlChest_Treasure"
 CanMerge 1
@@ -1053,6 +1078,8 @@ new subtable "1,1"
 object category "I_WPN_Dagger_GluttonousPrince_A",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_MAG_Minthara_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_DeGreaser_Devilstring_Bow",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
 CanMerge 1
@@ -1082,6 +1109,8 @@ new subtable "1,1"
 object category "I_WPN_ChaosFang",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_Voltstrike_Broken_Blade",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_Sharblood",1,0,0,0,0,0,0,0
 
 new treasuretable "FED_TollHouse_Hidden"
 CanMerge 1
@@ -1270,17 +1299,7 @@ object category "I_MOD_OBJ_Dye_SHAR_GOLD",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_MOD_OBJ_Dye_Silver_Metal",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_MOD_OBJ_Dye_Elven_Armour",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_OBJ_Dye_IceCream_02",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_Dye_IceCream_02",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_Dye_IceCream_02",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_MOD_OBJ_Dye_Silver_Metal",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_MOD_OBJ_Dye_Elven_Armour",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_AS_Dye_DrowBlack",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -2149,6 +2168,7 @@ new subtable "1,1"
 object category "I_Obj_Freja_DYE_Violet_Night_8RoseGold",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_Obj_Freja_DYE_Violet_Night_9Verdigris",1,0,0,0,0,0,0,0
+
 new treasuretable "CONT_Freja_Dyes_Bag_V2"
 CanMerge 1
 new subtable "1,1"
@@ -2436,23 +2456,9 @@ new treasuretable "LOW_CountingHouse_HighSecurityVault_9"
 CanMerge 1
 new subtable "1,1"
 object category "MagicScroll_7",1,0,0,0,0,0,0,0
-
-// Adding one each levels 7, 8 and 9 scrolls to High Security Vault 1 (key from display case in Ramazith's Tower)
-new treasuretable "LOW_CountingHouse_HighSecurityVault_9"
-CanMerge 1
-new subtable "1,1"
-object category "MagicScroll_7",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "MagicScroll_8",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "MagicScroll_9",1,0,0,0,0,0,0,0
-
-// Adding one level 7 OR 8 OR 9 scroll to chest upstairs in Devil's Fee (same location as Mask of Soul Perception)
-new treasuretable "LOW_DevilsFee_HelsikChest_Treasure"
-CanMerge 1
-new subtable "1,1"
-object category "MagicScroll_7",3,0,0,0,0,0,0,0
-object category "MagicScroll_8",2,0,0,0,0,0,0,0
 object category "MagicScroll_9",1,0,0,0,0,0,0,0
 
 // Adding one level 8 scroll to quest reward for Help the Hag Survivors
@@ -2462,7 +2468,6 @@ new subtable "1,1"
 object category "MagicScroll_8",1,0,0,0,0,0,0,0
 
 // // ================================ Gear rebalance: changed drop locations ================================
-
 // Pelorsun Blade: moved from dirt mound in Cazador’s dungeon to Lann Tarv’s special stock. Replaced with a couple high level scrolls in the previous drop location 
 new treasuretable "I_MAG_LC_RadiantLight_Rapier"
 CanMerge 1
@@ -2499,3 +2504,46 @@ new treasuretable "GOB_Festivities_Trader"
 CanMerge 1
 new subtable "-1"
 object category "I_UNI_MartyrAmulet",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Circus_KoboldMerchant_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Shield_of_Spell_Reflection",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_GrymForge_HvyChest_Jelly"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Adamantine_String_Bow",1,0,0,0,0,0,0,0
+
+new treasuretable "LOW_SteepsTrader_BooksAndScrolls"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Rolans_Stolen_Spellbook",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_UD_Spectator"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Yaccocmuuds_Yin",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Morgue_HiddenChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_DeGreaser_Yaccocmuuds_Yang",1,0,0,0,0,0,0,0
+
+
+new treasuretable "GOB_WaterfallChest"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_HAV_Ambusher_Scimitar",1,0,0,0,0,0,0,0
+
+
+new treasuretable "HAV_HoneymoonLodge_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "I_Cine_WPN_HUM_Scimitar_Ice",1,0,0,0,0,0,0,0
+
+
+new treasuretable "LOW_Prison_Rat"
+CanMerge 1
+new subtable "1,1"
+object category "I_MAG_TheClover_Scimitar_of_Thay",1,0,0,0,0,0,0,0

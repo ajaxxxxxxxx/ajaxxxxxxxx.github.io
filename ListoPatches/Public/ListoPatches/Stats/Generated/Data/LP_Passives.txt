@@ -1,0 +1,1721 @@
+// Consolidated PassiveData entries from ListoPatches and DeGreaser.
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Adjustable Shove-Pull Targeting patches.txt
+new entry "ThunderboltStrike"
+type "PassiveData"
+using "ThunderboltStrike"
+data "StatsFunctors" "Force(3, OriginToTarget, Aggressive);ApplyStatus(THUNDERBOLT_STRIKE,100,1)"
+
+// ==================================== Patching in Adjustable Shove-Pull Targeting with Expansion, Bard Fixes and Tweaks and overwriting Rebalance Cantrips changes to Thorn Whip ====================================
+
+// Also does a Goon rebalance of the spell
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/BackgroundPassives.txt
+new entry "Origin_Astarion_Passive"
+type "PassiveData"
+data "DisplayName" "h2f599d62ge3a5g458egb863g432a912f0ce4;2"
+data "Description" "h22f14076gbc7fg4761gb7dfgec9b020b9b77;2"
+data "Properties" "Highlighted"
+data "Boosts" "Skill(Performance,1);Skill(Acrobatics,1);AJ_RogueSize"
+
+new entry "Origin_Jaheira_Passive"
+type "PassiveData"
+data "DisplayName" "h71de9a98g8979g4d61g82c2gcaaf52514417;2"
+data "Description" "hf3ec93a4gae72g414cg8623gfa77053f0cb3;2"
+data "Properties" "Highlighted"
+data "Boosts" "Skill(History,1);Skill(Survival,1);RollBonus(SavingThrow,1)"
+
+new entry "Origin_Shadowheart_Passive"
+type "PassiveData"
+data "DisplayName" "hf4048d3fgd317g461agb8e4g43e7f97c1ff3;2"
+data "Description" "hbaafe8f3gc6c4g4c17ga5cfga9061017451d;2"
+data "Properties" "Highlighted"
+data "Boosts" "Skill(Arcana,1);Skill(Religion,1)"
+
+new entry "Origin_Laezel_Passive"
+type "PassiveData"
+data "DisplayName" "hc0194ad5g572cg4c2cga6ccgb15e2ce798ff;2"
+data "Description" "h06500c21g6aa1g45b9ga9c1gfdc43debec67;2"
+data "Properties" "Highlighted"
+data "Boosts" "Skill(Intimidation,1);Skill(Perception,1);Resistance(Psychic,Resistant)"
+
+new entry "Origin_Halsin_Passive"
+type "PassiveData"
+data "DisplayName" "hce3eee36g10b8g461dga3ffge4311029480a;2"
+data "Description" "h7a790db6g5f6fg4e50g8759g08dcd15bc902;2"
+data "Properties" "Highlighted"
+data "Boosts" "Skill(Nature,1);Skill(Medicine,1)"
+
+new entry "Origin_Minthara_Passive"
+type "PassiveData"
+data "DisplayName" "ha768e8f3g0d80g4463gb43fg9f22d5f520d7;2"
+data "Description" "h1f1e2d00g15feg4538g90e1g39c490e6e27b;2"
+data "Properties" "Highlighted"
+data "Boosts" "Skill(Intimidation,1);Skill(Religion,1);Resistance(Poison,Resistant)"
+
+new entry "Origin_Gale_Passive"
+type "PassiveData"
+data "DisplayName" "hed2943d6g55a5g4942ga8b7g2ed2378973fe;2"
+data "Description" "h76c3dad9g3381g4a63gb52eg99799dee9619;2"
+data "Properties" "Highlighted"
+data "Boosts" "Skill(Arcana,1);Skill(History,1)"
+
+new entry "Origin_Minsc_Passive"
+type "PassiveData"
+data "DisplayName" "h4d48886eg1ca8g4e4cga58eg821f84b115dd;2"
+data "Description" "ha443d131g7b6ag456cgb569g0bec1172558c;2"
+data "Properties" "Highlighted"
+data "Boosts" "Skill(Intimidation,2);Skill(Acrobatics,2)"
+
+new entry "Origin_Karlach_Passive"
+type "PassiveData"
+data "DisplayName" "hce69682bge70eg4903gad69gcaa077a2e87d;2"
+data "Description" "hb8a509b3gd319g49f9g989fga371ec8f4b15;2"
+data "Properties" "Highlighted"
+data "Boosts" "Skill(Intimidation,1);Skill(Religion,1);AJ_BarbSize"
+
+new entry "Origin_Wyll_Passive"
+type "PassiveData"
+data "DisplayName" "h7078b611g3619g46e3g9c91gce64a81ad0da;2"
+data "Description" "h67ab8232ge05cg41a0g8816g608332b3a8a2;2"
+data "Properties" "Highlighted"
+data "Boosts" "Skill(Persuasion,1);Skill(Investigation,1)"
+
+new entry "Origin_Durge_Passive"
+type "PassiveData"
+data "DisplayName" "h58531a09g3cd4g4612gbdf3ge82ce6aad7d0;2"
+data "Description" "hfcb30214gf370g4fe6g9c2agcbf5a31ce966;2"
+data "Properties" "Highlighted"
+data "Boosts" "Skill(Intimidation,1);Skill(Deception,1)"
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/BardPassive.txt
+new entry "JackOfAllTrades"
+type "PassiveData"
+// Jack of All Trades
+data "DisplayName" "h349a15dfgb413g462bg99cdgcfff15955948;1"
+// Your vast experiences make you more likely to succeed in any undertaking. Add half of your <LSTag Tooltip="ProficiencyBonus">Proficiency Bonus</LSTag> (rounded down) to <LSTag Tooltip="AbilityCheck">Ability Checks</LSTag> that you are not <LSTag Tooltip="Proficiency">Proficient</LSTag> in.
+data "Description" "h0bcd4b15gacb3g47d2g9936g86953e2fed10;1"
+data "Icon" "PassiveFeature_JackOfAllTrades"
+data "Properties" "Highlighted"
+data "Boosts" "IF(not HasProficiencyBonus(context.CheckedAbility,context.CheckedSkill,context.Source)):RollBonus(SkillCheck,ProficiencyBonus/2);IF(not HasProficiencyBonus(context.CheckedAbility,context.CheckedSkill,context.Source)):RollBonus(RawAbility,ProficiencyBonus/2);IF(ConditionResult(context.Source.ProficiencyBonus >= 2)):Initiative(1);IF(ConditionResult(context.Source.ProficiencyBonus >= 4)):Initiative(1);IF(ConditionResult(context.Source.ProficiencyBonus >= 6)):Initiative(1)"
+
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/CD55 Fixes.txt
+new entry "CC_AugmentedRetaliation_Passive"
+type "PassiveData"
+data "DisplayName" "h27ad4a5fg8ebeg4b8egb71dg81a7d073b015;1"
+data "Description" "h27ad4a5fg8ebeg4b8egb71dg81a7d073b016;1"
+data "DescriptionParams" "DealDamage(CharismaModifier/2,Force)"
+data "Icon" "Action_ShieldShove"
+data "Properties" "OncePerTurn"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "IsMeleeAttack() and not IsRedirectedDamage()"
+data "StatsFunctors" "DealDamage(SWAP,CharismaModifier*2,Force,Magical)"
+
+new entry "CC_AugmentedDefense_Passive"
+type "PassiveData"
+data "DisplayName" "h27ad4a5fg8ebeg4b8egb71dg81a7d073b011;1"
+data "Description" "h27ad4a5fg8ebeg4b8egb71dg81a7d073b012;1"
+data "Icon" "PassiveFeature_ShieldMaster_Dodge"
+data "Properties" "Highlighted"
+data "BoostContext" "OnEquip;OnCreate"
+data "BoostConditions" "not WearingArmor(context.Source)"
+data "Boosts" "IF(ConditionResult(context.Source.Charisma == 12) or ConditionResult(context.Source.Charisma == 13)):AC(1);IF(ConditionResult(context.Source.Charisma  == 14) or ConditionResult(context.Source.Charisma  == 15)):AC(2);IF(ConditionResult(context.Source.Charisma  >= 16)):AC(3)"
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/CEchoFix.txt
+new entry "UND_SocietyOfBrilliance_ResonanceStaff_Passive"
+type "PassiveData"
+using "UND_SocietyOfBrilliance_ResonanceStaff_Passive"
+data "Description" "ha3ebc385c2a54329b0e1d8b0b220ab3d4dcf"
+data "DescriptionParams" "2"
+data "Properties" ""
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "Character() and not Ally()"
+data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Acid,context.Target)):ApplyStatus(SELF,RESISTANCE_ACID_ECHO,100,2);IF(HasDamageDoneForType(DamageType.Cold,context.Target)):ApplyStatus(SELF,RESISTANCE_COLD_ECHO,100,2);IF(HasDamageDoneForType(DamageType.Fire,context.Target)):ApplyStatus(SELF,RESISTANCE_FIRE_ECHO,100,2);IF(HasDamageDoneForType(DamageType.Lightning,context.Target)):ApplyStatus(SELF,RESISTANCE_LIGHTNING_ECHO,100,2);IF(HasDamageDoneForType(DamageType.Thunder,context.Target)):ApplyStatus(SELF,RESISTANCE_THUNDER_ECHO,100,2);IF(HasDamageDoneForType(DamageType.Necrotic,context.Target)):ApplyStatus(SELF,RESISTANCE_NECROTIC_ECHO,100,2);IF(HasDamageDoneForType(DamageType.Radiant,context.Target)):ApplyStatus(SELF,RESISTANCE_RADIANT_ECHO,100,2)"
+
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/CahootGear.txt
+new entry "MAG_DazingSmite_Passive"
+type "PassiveData"
+using "MAG_DazingSmite_Passive"
+// data "TooltipSave" ""
+data "TooltipSave" "Constitution"
+// data "StatsFunctorContext" "OnDamage;OnStatusApply"
+data "StatsFunctorContext" "OnAttack"
+// data "Conditions" ""
+data "Conditions" "IsSmiteSpells() and not IsMiss()"
+// data "StatsFunctors" "IF(context.HasContextFlag(StatsFunctorContext.OnDamage) and IsSmiteSpells()):ApplyStatus(DAZED, 100, 2,,,,not SavingThrow(Ability.Constitution,13));IF(context.HasContextFlag(StatsFunctorContext.OnStatusApply) and StatusId('INTERRUPT_SMITE_DIVINE_VFX')):ApplyStatus(DAZED, 100, 2,,,,not SavingThrow(Ability.Constitution,13))"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, ManeuverSaveDC())):ApplyStatus(DAZED, 100, 2)"
+
+// New passive: regain 2d4 hit points when dealing a critical hit or killing blow with Necrotic damage
+new entry "CHT_BlackguardSword_Kill_Passive"
+type "PassiveData"
+// Unholy Exchange
+data "DisplayName" "he2d43d3fgad58g494aga871g19b279fa1556;1"
+// When you deal a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; or killing blow with[1], you regain [2].
+data "Description" "h5c3a0a65g4cd2g420fga96ag5a5a6e65701e;1"
+data "DescriptionParams" "DealDamage(,Necrotic);RegainHitPoints(2d4)"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "Character() and HasDamageDoneForType(DamageType.Necrotic) and (IsKillingBlow() or IsCritical())"
+data "StatsFunctors" "RegainHitPoints(SELF, 2d4)"
+
+// ===============================================================================
+//                                       Quarterstaves  
+// ===============================================================================
+new entry "CHT_SpellAttackRoll_1_Passive"
+type "PassiveData"
+// Arcane Accuracy
+data "DisplayName" "h1eaa6c44gd9c5g4a00g9d81g5c5710f2f995;6"
+// You gain a +[1] bonus to Spell &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.
+data "Description" "h280ef7c0g07a5g49a3g8dffg3a0177848e21;1"
+data "DescriptionParams" "1"
+data "Boosts" "RollBonus(MeleeSpellAttack, 1);RollBonus(RangedSpellAttack, 1)"
+
+// ========================== Staff of Interruption ==========================
+// Gives +1 to spell save DC
+new entry "CHT_MAG_LC_Lorroakan_Quarterstaff_Reverb_Passive"
+type "PassiveData"
+// Raging Storm
+data "DisplayName" "hd29c21bag2717g4989gae2cg661187f6fb36;1"
+// When you inflict a condition upon a hostile target, they suffer [1] turns of &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;. When you deal spell damage to a target with &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt;, it must make a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Spell Save DC&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="DAZED"&gt;Dazed&lt;/LSTag&gt; for [2] turns.
+data "Description" "h2ec6e766g1a1fg4322gb759ge3bdf534501d;1"
+data "DescriptionParams" "2;2"
+data "Properties" "OncePerAttack"
+data "StatsFunctorContext" "OnStatusApply"
+data "Conditions" "IsSpell() and Enemy() and not Self() and not StatusId('MAG_THUNDER_REVERBERATION') and not StatusId('MONK_SOUND_SWITCH')"
+data "StatsFunctors" "ApplyStatus(SWAP, MAG_THUNDER_REVERBERATION, 100, 2);ApplyStatus(MAG_THUNDER_REVERBERATION_DURATION_TECHNICAL, 100, 1)"
+new entry "CHT_MAG_LC_Lorroakan_Quarterstaff_Dazed_Passive"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsSpell() and HasStatus('MAG_THUNDER_REVERBERATION') and not HasStatus('DAZED')"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, SourceSpellDC())):ApplyStatus(DAZED,100,2)"
+
+// ===============================================================================
+//                                       Rapiers  
+// ===============================================================================
+
+// ========================== Infernal Rapier ==========================
+// Melee Caster: fix description text
+new entry "MAG_MeleeCaster_Passive"
+type "PassiveData"
+using "MAG_MeleeCaster_Passive"
+// Instead of its Strength or Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;, the wielder adds their &lt;LSTag Tooltip="SpellcastingAbilityModifier"&gt;Spellcasting Ability Modifier&lt;/LSTag&gt; to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; with this weapon.
+data "Description" "h4f9480b1gfa10g405dgad9eg611bd8bafda8;1"
+new entry "MAG_InitiativeWeapon_Passive"
+type "PassiveData"
+using "MAG_InitiativeWeapon_Passive"
+// data "DescriptionParams" "1"
+data "DescriptionParams" "2"
+// data "Boosts" "Initiative(1);Advantage(Skill, Perception)"
+data "Boosts" "Initiative(2);Advantage(Skill, Perception)"
+
+// ===============================================================================
+//                                       Greataxes  
+// ===============================================================================
+
+// ========================== Hellfire Greataxe ==========================
+// Hellflame Cleave: can no longer hit allies and cooldown decreased to per combat
+new entry "MAG_TWN_Brewer_DrunkardRage_Passive"
+type "PassiveData"
+using "MAG_TWN_Brewer_DrunkardRage_Passive"
+// data "DescriptionParams" "DealDamage(1d4,Thunder);Distance(3)"
+data "DescriptionParams" "DealDamage(1d6,Thunder);Distance(3)"
+new entry "MAG_UndeadSlayer_Passive"
+type "PassiveData"
+using "MAG_UndeadSlayer_Passive"
+// >Attacks with this weapon against Aberrations, Monstrosities, and Undead gain a +[1] to &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and Damage rolls.
+data "Description" "h0b4b9f6cg32b7g49d5ga2c0gf4ba55b65778;1"
+// data "Boosts" ""
+data "Boosts" "IF((Tagged('UNDEAD') or Tagged('ABERRATION') or Tagged('MONSTROSITY')) and IsRangedWeaponAttack()):CharacterWeaponDamage(1d4);IF(Tagged('UNDEAD') or Tagged('ABERRATION') or Tagged('MONSTROSITY')):RollBonus(RangedWeaponAttack, 1d4);"
+
+// ========================== Robe of Summer ==========================
+// New passive: increase all Fire damage done by 2, with subsequent damage (AoE or multiattacks) only being buffed by 1 damage
+new entry "CHT_RobeOfSummer_FireDamage_Passive"
+type "PassiveData"
+// Estival Heat
+data "DisplayName" "h6daa1f68g238fg4043gafa3gdb62220b9646;1"
+// When you deal[1], deal an extra [2]. This bonus damage only applies once per attack. The damage bonus for subsequent hits or to secondary targets in the same attack is reduced to [3].
+data "Description" "h7a9a490cg01d8g4206g87cdg792c747676dc;1"
+data "DescriptionParams" "DealDamage(,Fire);DealDamage(2,Fire);DealDamage(1,Fire)"
+data "Boosts" "IF(HasDamageDoneForType(DamageType.Fire) and ConditionResult(context.HitDescription.FirstAttack)):DamageBonus(2);IF(HasDamageDoneForType(DamageType.Fire) and not ConditionResult(context.HitDescription.FirstAttack)):DamageBonus(1);"
+
+// ========================== Obsidian Laced Robe ==========================
+// New passive: inflict Burning for 2 turns when dealing Fire damage with a spell or cantrip (same as in Syrchalis' mod, but cleaned up tooltip)
+new entry "CHT_ObsidianLacedRobe_Burning_Passive"
+type "PassiveData"
+// Flaming Wrath
+data "DisplayName" "h73e64822g8cb5g4432g90a2gc810f4a7bf33;1"
+// On a hit with a spell or cantrip that deals[1], afflict targets with &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; for [2] turns.
+data "Description" "h73e64822g8cb5g4432g90a2gc810f4a7bf33;1"
+data "DescriptionParams" "DealDamage(,Fire);2"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "HasDamageDoneForType(DamageType.Fire) and not Ally() and (IsSpell() or IsCantrip())"
+data "StatsFunctors" "ApplyStatus(BURNING,100,2)"
+
+// ========================== Bided Time ==========================
+// Add +1 AC; passive changed to gain Arcane Charge when attacked instead of when hit with a melee attack
+// wtf is this Shield passive
+new entry "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe_Passive"
+type "PassiveData"
+using "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe_Passive"
+// You gain &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_CHARGE"&gt;Arcane Charge&lt;/LSTag&gt; for [1] turns when a foe makes a melee attack against you.
+data "Description" "ha62d55d8g0fb8g468ag8cfcg18b68e3a9b81;1"
+data "DescriptionParams" "2"
+// data "Conditions" "IsMeleeAttack() and Enemy() and HasDamageEffectFlag(DamageFlags.Hit)"
+data "Conditions" "IsMeleeAttack() and Enemy()"
+
+// ========================== Wavemother's Robe ==========================
+// New passive: your Cold damage spells inflict 4 turns of Encrusted with Frost to Wet targets
+new entry "CHT_WavemothersRobe_Cold_Passive"
+type "PassiveData"
+// Chilly Depths
+data "DisplayName" "h7ce9e17fgccf2g4f2fga01ega0d4eaababe0;1"
+// When you deal[1] to a &lt;LSTag Type="Status" Tooltip="WET"&gt;Wet&lt;/LSTag&gt; target, you inflict &lt;LSTag Type="Status" Tooltip="MAG_FROST"&gt;Encrusted with Frost&lt;/LSTag&gt; to it for [2] turns.
+data "Description" "h169ee614g2ffcg465bg889agab70115acfd2;1"
+data "DescriptionParams" "DealDamage(,Cold);4"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsSpell() and HasDamageDoneForType(DamageType.Cold) and not Ally() and HasStatus('WET',context.Target)"
+data "StatsFunctors" "ApplyStatus(MAG_FROST,100,4)"
+
+// ========================== Elegant Studded Leather ==========================
+// Add advantage on DEX saving throws
+new entry "MAG_Gish_ArcaneAcuity_Gloves_Passive"
+type "PassiveData"
+using "MAG_Gish_ArcaneAcuity_Gloves_Passive"
+// Battlemage's Power
+// data "DisplayName" "haab50542gb3f3g41c5g9ee9gefb50accc757;3"
+// When you hit a target with a spell or &lt;LSTag Tooltip="Cantrip"&gt;cantrip&lt;/LSTag&gt; that uses a weapon, you gain &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;Arcane Acuity&lt;/LSTag&gt;.
+// data "Description" "hbae6c94bg09c9g45e6ga267gef7984d501be;11"
+// When you hit a target with a &lt;LSTag Tooltip="MeleeSpellAttack"&gt;Melee Spell Attack&lt;/LSTag&gt;, you gain [2] turns of &lt;LSTag Type="Status" Tooltip="MAG_GISH_ARCANE_ACUITY"&gt;Arcane Acuity&lt;/LSTag&gt;.
+data "Description" "hf583b6a7g93e9g4024g849fge9c76241e0ab;1"
+// data "Properties" "OncePerAttack"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "ArcaneAcuityGlovesCondition();"
+data "Conditions" "IsAttackType(AttackType.MeleeSpellAttack) or (IsMeleeAttack() and IsSpell())"
+// data "StatsFunctors" "ApplyStatus(SELF, MAG_GISH_ARCANE_ACUITY, 100, 2);ApplyStatus(SELF, MAG_GISH_ARCANE_ACUITY_DURATION_TECHNICAL, 100, 1)"
+
+// ========================== Mystra's Grace ==========================
+// Gives 1m movement speed and +1 to Arcana checks
+new entry "MAG_Gish_TempHPWhileConcentrating_Boots_Passive"
+type "PassiveData"
+using "MAG_Gish_TempHPWhileConcentrating_Boots_Passive"
+// data "DescriptionParams" "GainTemporaryHitPoints(8)"
+data "DescriptionParams" "GainTemporaryHitPoints(12)"
+// data "StatsFunctors" "ApplyStatus(SELF, MAG_TEMPORARY_HP_8, 100, -1)"
+data "StatsFunctors" "ApplyStatus(SELF, CHT_MAG_TEMPORARY_HP_12, 100, -1)"
+
+new entry "MAG_Interrupt_MAG_Interrupt_AbsorbElements_Resource_Passive"
+type "PassiveData"
+using "MAG_Interrupt_MAG_Interrupt_AbsorbElements_Resource_Passive"
+// data "Properties" "IsHidden;OncePerShortRest"
+data "Properties" "IsHidden;OncePerCombat"
+// data "StatsFunctorContext" "OnCreate;OnShortRest;OnLongRest"
+data "StatsFunctorContext" "OnCreate;OnCombatStarted;OnShortRest;OnLongRest"
+
+// ========================== Wavemother's Cloak ==========================
+// Add +1 AC
+new entry "MAG_LowHP_TemporaryHP_Passive"
+type "PassiveData"
+using "MAG_LowHP_TemporaryHP_Passive"
+// Once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, if you are below [1] &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; and take damage, you gain [2] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;.
+data "Description" "h644f1487gc26dg40e7gacaag5e3899554a3d;1"
+// data "DescriptionParams" ""
+data "DescriptionParams" "50%;12"
+// data "StatsFunctors" "ApplyStatus(MAG_TEMPORARY_HP_8,100,-1)"
+data "StatsFunctors" "ApplyStatus(CHT_MAG_TEMPORARY_HP_12,100,-1)"
+
+// ========================== Shield of Shielding ==========================
+// Shield: decrease cooldown to per short rest
+
+new entry "MAG_OfSwordmaster_Gloves_Passive"
+type "PassiveData"
+using "MAG_OfSwordmaster_Gloves_Passive"
+// data "DescriptionParams" "1"
+data "DescriptionParams" "2"
+// data "Boosts" "Proficiency(Shortswords);Proficiency(Longswords);Proficiency(Greatswords);RollBonus(MeleeWeaponAttack, 1)"
+data "Boosts" "Proficiency(Shortswords);Proficiency(Longswords);Proficiency(Greatswords);RollBonus(MeleeWeaponAttack, 2)"
+
+// ========================== Martial Exertion Gloves ==========================
+// Martial Exertion: decrease self-damage to 3d6
+
+new entry "CHT_BlackguardGauntlets_SpellAdvantage_Passive"
+type "PassiveData"
+// Touch of Death
+data "DisplayName" "h4cd883a0ge3ddg495agafb9g999236995f9c;1"
+// You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on all &lt;LSTag Tooltip="MeleeSpellAttack"&gt;Melee Spell Attacks&lt;/LSTag&gt;.
+data "Description" "h5669904cg31d2g4013g8ee2g358bed898c58;1"
+data "Boosts" "IF(IsMeleeSpellAttack()):Advantage(AttackRoll)"
+
+// ========================== Dark Justiciar Boots ==========================
+// Shadow Teleportation: change cost to bonus action and decrease cooldown to per combat
+
+new entry "CHT_BlackguardGreaves_Movement_Passive"
+type "PassiveData"
+// Dreaded Entrance
+data "DisplayName" "h569a8dc5g8cebg4a4eg9d75gb54d9e1f48df;1"
+// Your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases by [1].&lt;br&gt;&lt;br&gt;When you &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt;, enemies in a [2] radius where you land must succeed a DC [3] Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or be &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Feared&lt;/LSTag&gt; for [4] turns. You can toggle this effect off.
+data "Description" "hb4eb78fdg5538g495cg9357gccca6477bc3e;1"
+data "DescriptionParams" "Distance(3);Distance(3);17;2"
+data "Properties" "IsToggled;Temporary;ToggledDefaultOn"
+data "StatsFunctorContext" "OnProjectileExploded"
+data "Conditions" "SpellCategoryIs(SpellCategory.Jump)"
+data "StatsFunctors" "PROJECTILE:CreateExplosion(CHT_BlackguardGreaves_Jump_Explosion);RemoveStatus(SG_Invisible)"
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/CorrosiveRing.txt
+
+new entry "MAG_Acid_Corrosion_Ring_Passive"
+type "PassiveData"
+using "MAG_Acid_Corrosion_Ring_Passive"
+data "DescriptionParams" "Acid Damage;1"
+data "StatsFunctors" "ApplyStatus(MAG_ACID_CORROSION, 100, 1);ApplyStatus(MAG_ACID_CORROSION_DURATION_TECHNICAL, 100, 1)"
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Discordant Instruments.txt
+
+new entry "JWL_Passive_SymbolKelemvor"
+type "PassiveData"
+using "JWL_Passive_SymbolKelemvor"
+// data "DisplayName" "h056322b9g3133g4a74g94fcg870752f5a500;1"
+// data "Description" "h41345d5eg81deg4336g8edcgbd7b9c2bc9b7;1"
+// data "DescriptionParams" "DealDamage(1,Radiant);DealDamage(1,Necrotic)"
+// data "StatsFunctorContext" "OnDamage"
+data "StatsFunctorContext" ""
+// data "Conditions" "IsMeleeWeaponAttack()"
+data "Conditions" ""
+// data "StatsFunctors" "DealDamage(1,Radiant);DealDamage(1,Necrotic)"
+data "StatsFunctors" ""
+data "Boosts" "IF(IsMeleeWeaponAttack() or IsMeleeUnarmedAttack()):DamageBonus(1,Radiant);IF(IsMeleeWeaponAttack() or IsMeleeUnarmedAttack()):DamageBonus(1,Necrotic)"
+
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/GoliathSize.txt
+new entry "BiggerGoliath"
+type "PassiveData"
+data "DisplayName" "hef138800gcbc4g403bga5e0g21d1a02ed032;1"
+data "Properties" "IsHidden"
+data "Icon" "Spell_Transmutation_Reduce"
+data "Boosts" "ScaleMultiplier(1.1)"
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/GraphicFade_Patches.txt
+new entry "BB_Vinewoven_Passive"
+type "PassiveData"
+using "BB_Vinewoven_Passive"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Dexterity,ManeuverSaveDC())):ApplyStatus(ENSNARED,100,1)"
+
+// Ring of the Primal Hunter: decrease hp threshold for bonus damage to 40% (previously 50%)
+new entry "BB_DamageBoostHalfHP_Passive"
+type "PassiveData"
+using "BB_DamageBoostHalfHP_Passive"
+// The hawk's keen gaze guides your aim, revealing your prey's vulnerabilities. Targets that have [1]% or fewer &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; take an additional [2] from &lt;LSTag Tooltip="RangedWeaponAttack"&gt;ranged weapon attacks&lt;/LSTag&gt;.
+data "Description" "hab7d75d4gf054g4c04gacf6ga0aa47d9ab94;1"
+data "DescriptionParams" "40;DealDamage(1d4,MainRangedWeaponDamageType)"
+data "StatsFunctors" "IF(HasHPPercentageEqualOrLessThan(40)):DealDamage(1d4, MainRangedWeaponDamageType,Magical,,0,,true,true)"
+
+// Piercing Wind's Sting: decrease Wind's Guidance bonus damage to half Dexterity modifier (previously 1d4) and clarify description that extra damage is once per turn
+new entry "BB_PiercingWind_Passive"
+type "PassiveData"
+using "BB_PiercingWind_Passive"
+// When you make a lt;LSTag Tooltip="RangedWeaponAttack"&gt;ranged weapon attack &lt;/LSTag&gt;, it gains a +[1] bonus to the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; and deals additional damage equal to half your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; (rounded down). The bonus damage can only occur once per turn.
+data "Description" "hb3535914g66a1g4774gb6a7g21e9fadf05c4;1"
+data "DescriptionParams" "1"
+data "StatsFunctors" "IF(IsAttackType(AttackType.RangedWeaponAttack)):DealDamage(DexterityModifier/2, MainRangedWeaponDamageType,Magical,,0,,true,true)"
+
+// Archer's Eye Charm: change Wisdom bonus to give +2 Wisdom instead, with max of 22 (previously set Wisdom to 20)
+new entry "BB_DamageToTagged_Passive"
+type "PassiveData"
+using "BB_DamageToTagged_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "IsWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit) and Tagged('BEAST',context.Target) or Tagged('MONSTROSITY',context.Target)"
+// data "StatsFunctors" "IF(IsAttackType(AttackType.MeleeWeaponAttack)):DealDamage(1d4, MainMeleeWeaponDamageType);IF(IsAttackType(AttackType.RangedWeaponAttack)):DealDamage(1d4, MainRangedWeaponDamageType);IF(IsAttackType(AttackType.MeleeOffHandWeaponAttack)):DealDamage(1d4, OffhandMeleeWeaponDamageType);IF(IsAttackType(AttackType.RangedOffHandWeaponAttack)):DealDamage(1d4, OffhandRangedWeaponDamageType)"
+data "StatsFunctors" "IF(IsAttackType(AttackType.MeleeWeaponAttack)):DealDamage(1d4, MainMeleeWeaponDamageType,Magical,,0,,true,true);IF(IsAttackType(AttackType.RangedWeaponAttack)):DealDamage(1d4, MainRangedWeaponDamageType,Magical,,0,,true,true);IF(IsAttackType(AttackType.MeleeOffHandWeaponAttack)):DealDamage(1d4, OffhandMeleeWeaponDamageType,Magical,,0,,true,true);IF(IsAttackType(AttackType.RangedOffHandWeaponAttack)):DealDamage(1d4, OffhandRangedWeaponDamageType,Magical,,0,,true,true)"
+
+new entry "BB_HuntersShroud_Passive"
+type "PassiveData"
+using "BB_HuntersShroud_Passive"
+// data "StatsFunctorContext" "OnAttack"
+// data "Conditions" "IsRangedWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit) and not DistanceToTargetGreaterThan(9.0) and not IsCritical()"
+// data "StatsFunctors" "IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('Shortbows', GetActiveWeapon())):DealDamage(1d6,Piercing);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('Longbows', GetActiveWeapon())):DealDamage(1d8,Piercing);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('Darts', GetActiveWeapon())):DealDamage(1d4,Piercing);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('Slings', GetActiveWeapon())):DealDamage(1d4,Bludgeoning);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('LightCrossbows', GetActiveWeapon())):DealDamage(1d8,Piercing);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('HeavyCrossbows', GetActiveWeapon())):DealDamage(1d10,Piercing);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('HandCrossbows', GetActiveWeapon())):DealDamage(1d6,Piercing)"
+data "StatsFunctors" "IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('Shortbows', GetActiveWeapon())):DealDamage(1d6,Piercing,Magical,,0,,true,true);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('Longbows', GetActiveWeapon())):DealDamage(1d8,Piercing,Magical,,0,,true,true);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('Darts', GetActiveWeapon())):DealDamage(1d4,Piercing,Magical,,0,,true,true);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('Slings', GetActiveWeapon())):DealDamage(1d4,Bludgeoning,Magical,,0,,true,true);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('LightCrossbows', GetActiveWeapon())):DealDamage(1d8,Piercing,Magical,,0,,true,true);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('HeavyCrossbows', GetActiveWeapon())):DealDamage(1d10,Piercing,Magical,,0,,true,true);IF(IsAttackType(AttackType.RangedWeaponAttack) and IsWeaponOfProficiencyGroup('HandCrossbows', GetActiveWeapon())):DealDamage(1d6,Piercing,Magical,,0,,true,true)"
+
+// Also clarifying this tooltip
+new entry "BB_Imp_Hunters_Mark"
+type "PassiveData"
+using "BB_Imp_Hunters_Mark"
+// The cloak infuses your projectile with the piercing force of a hawk's talons. Your &lt;LSTag Tooltip="RangedWeaponAttack"&gt;ranged weapon attacks&lt;/LSTag&gt; against creatures within [1] of you do an additional [2] damage based off the type of ranged weapon used. This effect can only occur once per turn.
+data "Description" "h6e348a50geec5g47bbg83bfg11313faf51b0;1"
+data "DescriptionParams" "Distance(9);1d4"
+data "StatsFunctors" "IF(HasAttackDamageDoneForType(DamageType.Slashing)):DealDamage(1d4, Slashing,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Piercing)):DealDamage(1d4, Piercing,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Bludgeoning)):DealDamage(1d4, Bludgeoning,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Acid)):DealDamage(1d4, Acid,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Thunder)):DealDamage(1d4, Thunder,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Necrotic)):DealDamage(1d4, Necrotic,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Fire)):DealDamage(1d4, Fire,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Lightning)):DealDamage(1d4, Lightning,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Cold)):DealDamage(1d4, Cold,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Psychic)):DealDamage(1d4, Psychic,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Poison)):DealDamage(1d4, Poison,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Radiant)):DealDamage(1d4, Radiant,Magical,,0,,true,true);IF(HasAttackDamageDoneForType(DamageType.Force)):DealDamage(1d4, Force,Magical,,0,,true,true)"
+
+// ==================================== Chaos and Control - Sorcere Equipment ====================================
+
+// Light Crossbow of the Spellstorm: change Spellstorm's damage reflect to once per turn (previously once per attack)
+new entry "CC_Spellstorm_Passive"
+type "PassiveData"
+using "CC_Spellstorm_Passive"
+// At the start of combat, the crossbow activates, causing bolts of magical energy to lash out. For 3 turns, whenever a creature damages you with an attack, the attacker takes [1]. This can only occur once per turn.
+data "Description" "hef7b9f74gfcd8g4499gb3cbgbbad7dc209dd;1"
+
+new entry "CC_SpellStorm_Damage_Passive"
+type "PassiveData"
+using "CC_SpellStorm_Damage_Passive"
+data "Properties" "IsHidden;OncePerTurn"
+data "StatsFunctors" "DealDamage(SWAP, 1d4, Force,Magical)"
+
+// Staff of Arcane Resonance: Inner Tap now only recovers Sorcery Points equal to half your Charisma modiifer, rounded up (previously equal to full Charisma modifier)
+new entry "CC_SorcerousWager_Passive"
+type "PassiveData"
+using "CC_SorcerousWager_Passive"
+// 	When you cast a spell and spend at least 1 &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Sorcery Point&lt;/LSTag&gt;, you gain a bonus to your &lt;LSTag Tooltip="AttackRoll"&gt;Spell Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Spell Save DC&lt;/LSTag&gt; equal to half the spell level cast, rounded up. This bonus lasts 1 turn. This effect can only occur once per turn.
+data "Description" "h00ccd4e2g61a2g49d0g9f76g3df8d72168a1;1"
+
+new entry "CC_SpellMaster_Concentration_Passive"
+type "PassiveData"
+using "CC_SpellMaster_Concentration_Passive"
+// While &lt;LSTag Tooltip="Concentration"&gt;Concentrating&lt;/LSTag&gt;, you gain a +[1] bonus to Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.
+data "Description" "h66f71dabge247g4b6agaaa8gde857ac2cfa8;1"
+data "DescriptionParams" "2"
+data "Boosts" "IF(IsConcentrating):RollBonus(SavingThrow,2,Constitution)"
+
+// Grimoire of the First Sorcerer: slight decrease to Sorcery Point recovery chance of Echo of Forgotten Power
+new entry "CC_EndlessWell_Passive"
+type "PassiveData"
+using "CC_EndlessWell_Passive"
+// While your Metamagic ability is active, the amulet floods your being with raw magical energy, allowing you to draw upon its infinite reserves of &lt;LSTag Type="ActionResource" Tooltip="SorceryPoint"&gt;Sorcery Points&lt;/LSTag&gt;. You can only use this effect once per turn and you take [1] each time you use it.
+data "Description" "h591efe33gb1f1g42f4gbafcg8f2377d5eaf3;1"
+data "DescriptionParams" "DealDamage(1d8,Force)"
+data "Properties" "Highlighted;ToggledDefaultAddToHotbar;IsToggled;OncePerTurn"
+data "EnabledConditions" "HasActionResource('SorceryPoint', 1, 0, false, false, context.Source) and (HasStatus('CC_METAMAGIC_CAREFUL',context.Source) or HasStatus('CC_METAMAGIC_DISTANT',context.Source) or HasStatus('CC_METAMAGIC_EXTENDED',context.Source) or HasStatus('CC_METAMAGIC_HEIGHTENED',context.Source) or HasStatus('CC_METAMAGIC_QUICKENED',context.Source) or HasStatus('CC_METAMAGIC_SUBTLE',context.Source) or HasStatus('CC_METAMAGIC_TWINNED',context.Source) or HasStatus('CHT_CC_METAMAGIC_SEEKING',context.Source) or HasStatus('METAMAGIC_EMPOWERED',context.Source) or HasStatus('METAMAGIC_TRANSMUTED_SPELL',context.Source)) and not HasStatus('CHT_CC_SORCERER_ENDLESSWELL_USED')"
+data "ToggleOnFunctors" "ApplyStatus(CHT_CC_SORCERER_ENDLESSWELL_TRACKER,100,-1);IF(HasStatus('CC_SORCERER_FREE_CAST_TECHNICAL', context.Source)):ApplyStatus(CC_SORCERER_FREE_CAST,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(CC_SORCERER_FREE_CAST);RemoveStatus(CHT_CC_SORCERER_ENDLESSWELL_TRACKER)"
+
+new entry "CC_CharismaticForce_Passive"
+type "PassiveData"
+using "CC_CharismaticForce_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "IsSpell()"
+// data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Force)):DealDamage(CharismaModifier/2, Force);IF(HasDamageDoneForType(DamageType.Radiant)):DealDamage(CharismaModifier/2, Radiant);IF(HasDamageDoneForType(DamageType.Psychic)):DealDamage(CharismaModifier/2, Psychic)"
+data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Force)):DealDamage(CharismaModifier/2, Force,Magical,,0,,true,true);IF(HasDamageDoneForType(DamageType.Radiant)):DealDamage(CharismaModifier/2, Radiant,Magical,,0,,true,true);IF(HasDamageDoneForType(DamageType.Psychic)):DealDamage(CharismaModifier/2, Psychic,Magical,,0,,true,true)"
+
+// ==================================== Faith and Fortitude - Cleric Equipment ====================================
+
+// Staff of Resurrection: fix localization for the Heal spell, as it inherits from the vanilla spell but Syrchalis spell rebalance changed how the spell works
+
+new entry "MAG_Fortune"
+type "PassiveData"
+using "MAG_Fortune"
+// In moments of dire need, you clench your fist. A divine spark answers within the gauntlets, allowing you to cast your next spell of up to 4th level without expending a &lt;LSTag Tooltip="SpellSlot"&gt;Spell Slot&lt;/LSTag&gt; or &lt;LSTag Type="ActionResource" Tooltip="ChannelDivinity"&gt;Channel Divinity&lt;/LSTag&gt;.
+data "Description" "haf00e860g5b00g4c6cg8b35g35db19326e8f;1"
+data "Conditions" "CHT_DivineFortuneCheck() and HasStatus('MAG_DIVINE_FORTUNE_CAST', context.Source)"
+
+new entry "MAG_StarAura_Ring_Passive"
+type "PassiveData"
+data "DisplayName" "h154deae1gb7aag4b5fgbb28g0286ae978da35;1"
+data "Description" "h154deae1gb7aag4b5fgbb28g0286ae978da36;1"
+data "DescriptionParams" "DealDamage(max(1,WisdomModifier), MainMeleeWeaponDamageType);DamageReduction(All, Flat, Cause.WisdomModifier)"
+// You must toggle this on in order to activate this condition.
+data "ExtraDescription" "hd81671ebg63a5g46b1gabadg070e4c768835;2"
+data "Icon" "Action_Legendary_Offensive"
+data "Properties" "IsToggled"
+data "ToggleOnFunctors" "ApplyStatus(AURA_OF_STAR, 100, -1)"
+data "ToggleOffFunctors" "RemoveStatus(AURA_OF_STAR)"
+
+new entry "GG_Three_IncreasedElementalDamage_Passive"
+type "PassiveData"
+using "GG_Three_IncreasedElementalDamage_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "IsSpell()"
+// data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Thunder)):DealDamage(1d6, Thunder);IF(HasDamageDoneForType(DamageType.Lightning)):DealDamage(1d6, Lightning);IF(HasDamageDoneForType(DamageType.Cold)):DealDamage(1d6, Cold)"
+data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Thunder)):DealDamage(1d6, Thunder,Magical,,0,,true,true);IF(HasDamageDoneForType(DamageType.Lightning)):DealDamage(1d6, Lightning,Magical,,0,,true,true);IF(HasDamageDoneForType(DamageType.Cold)):DealDamage(1d6, Cold,Magical,,0,,true,true)"
+
+new entry "MM_CriticalThinking_Passive"
+type "PassiveData"
+using "MM_CriticalThinking_Passive"
+// Landing a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; with a weapon attack fuels your aggression, causing your next weapon attack to deal an additional [1]. This effect can only occur once per turn.
+data "Description" "he304e98fgb937g4a67g841bga62fd80ce711;1"
+data "Properties" "OncePerTurn"
+
+// Battleaxe of the Sundering Blow: increase chance of applying Sundered to 25% per weapon attack (previously 20%). Remove vulnerability from all physical damage from Sundered status and increase AC penalty to -4 (previously -2)
+new entry "MM_SunderingImpact_Passive"
+type "PassiveData"
+using "MM_SunderingImpact_Passive"
+// Attacks with this weapon have a [1]% chance to apply &lt;LSTag Type="Status" Tooltip="MM_SUNDERED"&gt;Sundered&lt;/LSTag&gt; for 3 turns.
+data "Description" "h6481da05gffefg4991gbd33gd0eba9b2c9cc;1"
+data "DescriptionParams" "25"
+data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d100,76)):ApplyStatus(MM_SUNDERED,100,3)"
+
+new entry "MM_SanguineFeast_Passive"
+type "PassiveData"
+using "MM_SanguineFeast_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "AttackedWithPassiveSourceWeapon() and HasStatus('BLEEDING', context.Target)"
+// data "StatsFunctors" "DealDamage(1d4,Necrotic,Magical)"
+data "StatsFunctors" "DealDamage(1d4,Necrotic,Magical,,0,,true,false)"
+
+// new entry "MM_FuryFlurry_Passive"
+// type "PassiveData"
+// data "DisplayName" "h22892942gd938g469dg96bag67bafebbd049;1"
+// data "Description" "h22892942gd938g469dg96bag67bafebbd050;1"
+// data "DescriptionParams" "DealDamage(MainMeleeWeapon,MainMeleeWeaponDamageType);15"
+// data "Icon" "PassiveFeature_SavageAttacker"
+// data "Properties" "OncePerAttack"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "IsMeleeWeaponAttack()"
+// data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d100,85)):ApplyStatus(MM_FURY_FLURRY_CHECK,100,0)"
+
+// See passive above for application of this status
+new entry "MM_FuryFlurry_Passive"
+type "PassiveData"
+using "MM_FuryFlurry_Passive"
+data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d100,90)):DealDamage(MainMeleeWeapon, MainMeleeWeaponDamageType,Magical,,0,,true,true)"
+
+new entry "PP_FeastOnTheWounded_Passive"
+type "PassiveData"
+using "PP_FeastOnTheWounded_Passive"
+data "StatsFunctors" "DealDamage(1d8,Necrotic,Magical,,0,,true,true)"
+
+// ==================================== Oath and Order - Paladin Equipment ====================================
+
+// Reliquary of the Devout: increase Echoing Oath's chance of not expending Channel Oath to 25% (previously 10%)
+new entry "OO_EchoingOath_Passive"
+type "PassiveData"
+using "OO_EchoingOath_Passive"
+// When you use your &lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;Channel Oath&lt;/LSTag&gt;, you have a [1]% chance to not expend the charge.
+data "Description" "had698a50g6587g4092g9456gb23b405f2d78;1"
+data "DescriptionParams" "25"
+data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d100,76)):ApplyStatus(SELF,OO_RESTORE_OATH,100,0)"
+
+// Holy Avenger's Longsword: decrease saving throw bonus of Bastion of Resolve to +3 (previously +4)
+new entry "OO_BastionResolve_Passive"
+type "PassiveData"
+using "OO_BastionResolve_Passive"
+data "DescriptionParams" "3;Distance(9)"
+
+new entry "OO_SunDescent_Passive"
+type "PassiveData"
+using "OO_SunDescent_Passive"
+data "DescriptionParams" "Distance(2);Distance(3);2"
+
+new entry "OO_EverlightAura_Passive"
+type "PassiveData"
+using "OO_EverlightAura_Passive"
+// The symbol emits light in a [1] radius, dispelling any darkness. You and all allies who are within this aura reduce the number needed to &lt;LSTag Tooltip="AttackRoll"&gt;roll&lt;/LSTag&gt; a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; while attacking by [2], and gain a +[3] bonus to Attack Rolls.
+data "Description" "he509020fg6bccg4e96gb99eg754d87840ebc;1"
+data "DescriptionParams" "Distance(15);1;1"
+
+new entry "OO_RadiantBurst_Passive"
+type "PassiveData"
+using "OO_RadiantBurst_Passive"
+data "DescriptionParams" "DealDamage(1d6,Radiant)"
+data "Boosts" "IF(HasStatus('MAG_RADIANT_RADIATING_ORB',context.Target,context.Source) and IsWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit)):CharacterWeaponDamage(1d6, Radiant)"
+
+// Gauntlets of Celestial Haste: reduce duration of Heavenly Haste to 1 turn (previously 3 turns)
+new entry "OO_HeavenlyHaste_Passive"
+type "PassiveData"
+using "OO_HeavenlyHaste_Passive"
+// When you cast &lt;LSTag Type="Spell" Tooltip="Target_Smite_Divine"&gt;Divine Smite&lt;/LSTag&gt;, you gain &lt;LSTag Type="Status" Tooltip="OO_HEAVENLY_HASTE"&gt;Heavenly Haste&lt;/LSTag&gt; for 1 turn. This effect can only occur once per combat.
+data "Description" "hcd5f7586g4e76g4471gad0eg28a612958386;1"
+data "StatsFunctors" "ApplyStatus(SELF,OO_HEAVENLY_HASTE,100,1)"
+
+// Oathkeeper's Blade: decrease cooldown of Judgement Blow to per short rest (previously long rest), decrease bonus damage to 1d10 (previously 2d8), and increase Constitution save DC for the stun to 14 (previously 12)
+// Most enemies in Act 3 have pretty high Constitution saves so 12 was just incredibly low
+new entry "OO_JudgementBlow_Passive"
+type "PassiveData"
+using "OO_JudgementBlow_Passive"
+// Once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;, when you expend a &lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;Channel Oath&lt;/LSTag&gt; charge, your next &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;melee weapon attack&lt;/LSTag&gt; will deal an extra [1]. If the target fails a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, they will also be &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stunned&lt;/LSTag&gt; for 1 turn.
+data "Description" "h2f6b9cdfg9eb9g4684gb1fbgc76b2572b01e;1"
+data "DescriptionParams" "DealDamage(1d10, Radiant)"
+data "Properties" "Highlighted;OncePerShortRestPerItem"
+
+new entry "OO_SacredSustenance_Passive"
+type "PassiveData"
+using "OO_SacredSustenance_Passive"
+// When you use &lt;LSTag Type="ActionResource" Tooltip="ChannelOath"&gt;Channel Oath&lt;/LSTag&gt;, you have a [1]% chance to not expend the use.
+data "Description" "h8a98533bgddbfg43b4g8790ge0dfe7d3b236;1"
+data "DescriptionParams" "50"
+data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d100,51)):ApplyStatus(SELF,OO_RESTORE_OATH,100,0)"
+
+// ==================== Preventing damage rider sources ====================
+new entry "OO_RadiantCondemnation_Passive"
+type "PassiveData"
+using "OO_RadiantCondemnation_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "IsAttack() and (Tagged('UNDEAD') or Tagged('FIEND') or Tagged('MONSTROSITY') or Tagged('ABERRATION'))"
+// data "StatsFunctors" "DealDamage(ClassLevel(Paladin), Radiant)"
+data "StatsFunctors" "DealDamage(ClassLevel(Paladin), Radiant,Magical,,0,,true,false)"
+
+new entry "OO_EmboldenedSmite_Passive"
+type "PassiveData"
+using "OO_EmboldenedSmite_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "IsAttack() and OOIsDivineSmite()"
+// data "StatsFunctors" "DealDamage(1d4,Radiant,Magical)"
+data "StatsFunctors" "DealDamage(1d4,Radiant,Magical,,0,,true,true)"
+
+new entry "OO_AvengerFury_Passive"
+type "PassiveData"
+using "OO_AvengerFury_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "AttackedWithPassiveSourceWeapon()"
+// data "StatsFunctors" "IF(not Tagged('FIEND',context.Target) and not Tagged('UNDEAD',context.Target)):DealDamage(1d8,Radiant);IF(Tagged('FIEND',context.Target) or Tagged('UNDEAD',context.Target)):DealDamage(2d8,Radiant)"
+data "StatsFunctors" "IF(not Tagged('FIEND',context.Target) and not Tagged('UNDEAD',context.Target)):DealDamage(1d8,Radiant,Magical,,0,,true,false);IF(Tagged('FIEND',context.Target) or Tagged('UNDEAD',context.Target)):DealDamage(2d8,Radiant,Magical,,0,,true,false)"
+
+// ==================================== Pact and Power - Warlock Equipment  ====================================
+
+// Shortbow of the Binding Vow: decrease Chains of Submission duration to 2 turns (previously 10)
+new entry "PP_Packkeeper_Aura_Text_Passive"
+type "PassiveData"
+using "PP_Packkeeper_Aura_Text_Passive"
+data "DescriptionParams" "1d4;Distance(3);DealDamage(1d6,Necrotic)"
+
+new entry "PP_Insatiable_Passive"
+type "PassiveData"
+using "PP_Insatiable_Passive"
+// 	The amulet's hunger claws at your very being, demanding sacrifice for its power. At the start of combat, you suffer [1] but become armoued with shadowy energy. Until combat ends, you gain a bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; equal to half your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;, rounded up, up to a max of +4.
+data "Description" "hb84c60b9g49afg49eagafc1g894388e1c278;1"
+
+new entry "PP_Insatiable_Buff_Passive"
+type "PassiveData"
+using "PP_Insatiable_Buff_Passive"
+// The amulet's insatiable hunger sinks its teeth into you, forging a shield of dark power from your stolen life force. Until combat ends, you have a bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; equal to half your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;, rounded up, up to a max of +4.
+data "Description" "h612819fcge6d0g4d57gb472g9c8de5025616;1"
+data "DescriptionParams" ""
+data "Boosts" "IF(ConditionResult(context.Source.Charisma >= 12) and ConditionResult(context.Source.Charisma <= 15)):AC(1);IF(ConditionResult(context.Source.Charisma  >= 16) and ConditionResult(context.Source.Charisma  <= 19)):AC(2);IF(ConditionResult(context.Source.Charisma  >= 20) and ConditionResult(context.Source.Charisma  <= 23)):AC(3);IF(ConditionResult(context.Source.Charisma  >= 24)):AC(4)"
+
+new entry "PP_EverlastingPact_Text_Passive"
+type "PassiveData"
+using "PP_EverlastingPact_Text_Passive"
+data "Description" "h3775309cgc80cg41a8g9aaag251b9565f3c5;1"
+// The dagger resonates with the eternal nature of your pact, granting you unique benefits that reflect your chosen pact.&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Passive" Tooltip="PactOfTheBlade"&gt;Pact of the Blade&lt;/LSTag&gt; - While &lt;LSTag Type="Status" Tooltip="PACT_BLADE"&gt;Pact Weapon&lt;/LSTag&gt; is active, your weapon deals an additional [1] and you gain &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; to Psychic damage. This effect can only occur once per turn.&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Passive" Tooltip="PactOfTheChain"&gt;Pact of the Chain&lt;/LSTag&gt; - Your familiars gain an additional +[2] to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, in addition to &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; equal to twice your Warlock level.&lt;br&gt;&lt;br&gt;&lt;LSTag Type="Passive" Tooltip="PactOfTheTome"&gt;Pact of the Tome&lt;/LSTag&gt; - You gain +[3] to spell &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and &lt;LSTag Tooltip="SpellDifficultyClass"&gt;Spell Save DC&lt;/LSTag&gt;, and your cantrips also deal an additonal [4]. This effect can only occur once per turn.
+data "DescriptionParams" "DealDamage(2d6,Psychic);2;2;DealDamage(1d8,Psychic)"
+
+new entry "PP_EP_Tome_Passive" 
+type "PassiveData"
+using "PP_EP_Tome_Passive"
+data "StatsFunctors" "IF(IsSpell() and IsCantrip()):DealDamage(1d8,Psychic)"
+
+// Shortbow of Hellish Flames: decrease Hellish Rebuke level to 3rd level (previously 4th level)
+new entry "PP_SearingRebuke_Passive"
+type "PassiveData"
+using "PP_SearingRebuke_Passive"
+// When struck by an enemy, you can sear your foe with a 3rd-level &lt;LSTag Type="Spell" Tooltip="Target_HellishRebuke_3"&gt;Hellish Rebuke&lt;/LSTag&gt;. This effect can only occur once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.
+data "Description" "h869b50beg6836g49c7g80e4gb5cc85a0e08c;1"
+
+new entry "PP_Shadowfell_Infusion_Passive"
+type "PassiveData"
+using "PP_Shadowfell_Infusion_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "SpellId('Shout_ArmsOfHadar') or SpellId('Shout_ArmsOfHadar_2') or SpellId('Shout_ArmsOfHadar_3') or SpellId('Shout_ArmsOfHadar_4') or SpellId('Shout_ArmsOfHadar_5') or SpellId('Shout_ArmsOfHadar_6')"
+// data "StatsFunctors" "DealDamage(1d4,Necrotic,Magical)"
+data "StatsFunctors" "DealDamage(1d4,Necrotic,Magical,,0,,true,true)"
+
+new entry "PP_SurgeOfBrimstone_Buff"
+type "PassiveData"
+using "PP_SurgeOfBrimstone_Buff"
+// data "StatsFunctorContext" "OnCastResolved;OnDamage"
+// data "Conditions" "IsSpell() and (HasDamageDoneForType(DamageType.Fire) or HasDamageDoneForType(DamageType.Necrotic))"
+// data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Fire)):DealDamage(2d4,Fire,Magical);IF(HasDamageDoneForType(DamageType.Necrotic)):DealDamage(2d4,Necrotic,Magical);IF(HasDamageDoneForType(DamageType.Fire)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE);IF(HasDamageDoneForType(DamageType.Necrotic)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE)"
+data "StatsFunctors" "IF(HasDamageDoneForType(DamageType.Fire)):DealDamage(2d4,Fire,Magical,,0,,true,true);IF(HasDamageDoneForType(DamageType.Necrotic)):DealDamage(2d4,Necrotic,Magical,,0,,true,true);IF(HasDamageDoneForType(DamageType.Fire)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE);IF(HasDamageDoneForType(DamageType.Necrotic)):RemoveStatus(SELF,PP_SURGE_BRIMSTONE)"
+
+
+
+// ==================================== Rage and Resilience - Barbarian Equipment ====================================
+
+// Chestguard of the Iron Heart: incease cost by 1.5x to 480 gold base price (previously 320 gold base price)
+new entry "RR_Thunderstruck_Passive"
+type "PassiveData"
+using "RR_Thunderstruck_Passive"
+// When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; while &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Raging&lt;/LSTag&gt;, it &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stuns&lt;/LSTag&gt; the target for 1 turn.
+data "Description" "h7b2cede7gc2b9g4bd8g8c8ag12827a9e1431;1"
+data "StatsFunctors" "ApplyStatus(STUNNED,100, 1)"
+
+// Horn of Valhalla: decrease max hp increase from Blood of the Aesir to 4 hp per Barbarian level (previously 6 per Barbarian level)
+new entry "RR_Thunder_God_Passive"
+type "PassiveData"
+using "RR_Thunder_God_Passive"
+// When you strike with this hammer, there is a [1]% chance that a clap of thunder erupts, dealing [2] to all creatures within [3].
+data "Description" "hb4201a5fg4f4eg4027g8183ga04fb232b42f;1"
+data "DescriptionParams" "30;DealDamage(4d4,Thunder);Distance(3)"
+data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d100,71)):CreateExplosion(RR_Thunder_God_Shatter)"
+
+new entry "RR_AmuletOfWar_Passive"
+type "PassiveData"
+using "RR_AmuletOfWar_Passive"
+// You become a raging embodiment of war itself. While &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Raging&lt;/LSTag&gt;, you add half your Strength &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; (rounded down) to damage done with &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;melee weapon attacks&lt;/LSTag&gt;, and all damage taken is reduced by the same amount. Your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is doubled.
+data "Description" "hbfc46ddcg04f9g4cbbgb14cgf4cef0f86b94;1"
+
+new entry "RR_AmuletOfWar_DamageReduction_Passive"
+type "PassiveData"
+using "RR_AmuletOfWar_DamageReduction_Passive"
+data "Boosts" "DamageReduction(All, Flat, StrengthModifier/2);IF(IsMeleeWeaponAttack()):DamageBonus(StrengthModifier/2)"
+
+// Breastplate of the Titan's Fortitude: decrease Resilient Rage duration to 4 turns (previously 5), and decrease damage reduction for self-buff to 3 (previously 4)
+new entry "RR_Titan_Fortitude_Passive"
+type "PassiveData"
+using "RR_Titan_Fortitude_Passive"
+// When you unleash your fury, your allies share in your resilience. You and all allies within [1] gain &lt;LSTag Type="Status" Tooltip="RR_TITAN_FORT_BUFF_ALLY"&gt;Resilient Rage&lt;/LSTag&gt; for [2] turns.
+data "Description" "h6e5ba530g0ab7g4ec7g8d79g2a7b6dbcd175;1"
+data "DescriptionParams" "Distance(5);4"
+data "StatsFunctors" "ApplyStatus(SELF,RR_TITAN_FORT_BUFF_SELF,100, 4);CreateExplosion(RR_Titan_Fortitude_Buff)"
+
+new entry "RR_PrimalFury_Fire_Passive"
+type "PassiveData"
+using "RR_PrimalFury_Fire_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "AttackedWithPassiveSourceWeapon() and HasHPPercentageWithoutTemporaryHPEqualOrLessThan(50, context.Target)"
+// data "StatsFunctors" "DealDamage(1d6,Fire,Magical)"
+data "StatsFunctors" "DealDamage(1d6,Fire,Magical,,0,,true,false)"
+
+new entry "RR_MountainKing_Strength_Passive"
+type "PassiveData"
+using "RR_MountainKing_Strength_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "not Dead()"
+// data "StatsFunctors" "IF(IsMeleeWeaponAttack()):DealDamage(StrengthModifier/2,MainWeaponDamageType)"
+data "StatsFunctors" "IF(IsMeleeWeaponAttack()):DealDamage(StrengthModifier/2,MainWeaponDamageType,Magical,,0,,true,true)"
+
+new entry "RR_MountainKing_Attk_Passive"
+type "PassiveData"
+using "RR_MountainKing_Attk_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "not Dead() and SizeEqualOrGreater(Size.Large)"
+// data "StatsFunctors" "IF(IsWeaponAttack()):DealDamage(1d6,MainWeaponDamageType)"
+data "StatsFunctors" "IF(IsWeaponAttack()):DealDamage(1d6,MainWeaponDamageType,Magical,,0,,true,true)"
+
+// ==================================== Song and Steel - Bard Equipment ====================================
+
+// Flute of Haunting: add passive that clarifies that you also unlock the SS_Shout_HauntingTune spell, since it's not shown properly in the item's tooltip
+new entry "CHT_Flute_of_Haunting_HauntingTune"
+type "PassiveData"
+// Haunting Tune
+data "DisplayName" "hdac67de1g7565g4ca8g9e3ag47d0e9b705ba;1"
+// You unlock &lt;LSTag Type="Spell" Tooltip="SS_Shout_HauntingTune"&gt;Haunting Tune&lt;/LSTag&gt; when you have this flute equipped.
+data "Description" "h6dfa2216g75fbg45ecg84dfg0b48b6caa1f8;1"
+data "Icon" "Spell_Illusion_Fear"
+
+// Amulet of the Performer's Resilience: clarify that Encore Performance can only be triggered once per short rest
+new entry "SS_EncorePerformance_LowHP"
+type "PassiveData"
+using "SS_EncorePerformance_LowHP"
+// The show must go on! Inspired to continue fighting, if you are below 50% &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; and take damage, you can channel your artistic passion to heal yourself for [1]+[2] &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;. This effect can only occur once per &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.
+data "Description" "h10d9270fg491dg4226gbf50g3e4796a9b215;1"
+
+// Visage of Vanishing Laughter: decrease Charismatic Focus' spell attack roll and spell save DC bonus to +2 (previously +3)
+new entry "SS_CharismaticFocus"
+type "PassiveData"
+using "SS_CharismaticFocus"
+data "DescriptionParams" "2"
+data "Boosts" "RollBonus(MeleeSpellAttack, 2);RollBonus(RangedSpellAttack,2);SpellSaveDC(2)"
+
+// ==================================== Unarmed and Upgraded - Monk Equipment ====================================
+
+// Boots of the Marsh Strider: tooltip for Marsh Strider didn't reflect DescriptionParams
+new entry "MAG_Marsh_Strider_Passive"
+type "PassiveData"
+using "MAG_Marsh_Strider_Passive"
+// data "Description" "h3cec0bf4g98a9g474eg886dga3d4b1a889d20;2"
+// Your &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is increased by [1] and your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is increased by [2].
+data "Description" "h7920b39bg75f5g44ecga83dg40a756099eea;1"
+
+// Helm of Spirit Reach: tooltip for Whispers of the Past was missing the actual damage bonus
+new entry "MAG_UnarmedBuff_Passive"
+type "PassiveData"
+using "MAG_UnarmedBuff_Passive"
+// You deal an additional [1] damage with &lt;LSTag Type="Spell" Tooltip="Target_UnarmedAttack"&gt;Unarmed Attacks&lt;/LSTag&gt; and gain a +[2] bonus to Unarmed Attack Rolls.
+data "Description" "h4f4ce4c8gfd9ag4404gbc85gae2fda32246c;1"
+data "DescriptionParams" "1;1"
+// data "Boosts" "CharacterUnarmedDamage(1);IF(IsMeleeUnarmedAttack()):RollBonus(Attack, 1)"
+
+// Sunspark Short: remove concentration from Sunspark Ray (it doesn't have a recast like Sunbeam, which it inherits from)
+new entry "VV_FateWeaver_Passive"
+type "PassiveData"
+using "VV_FateWeaver_Passive"
+data "Description" "h990e62fcg7a13g40cbga24dgd7d08379f3d4;1"
+data "DescriptionParams" "2"
+data "Properties" "OncePerCombat"
+data "StatsFunctors" "ApplyStatus(PARALYZED, 100, 2)"
+
+// Vest of the Trickster: decrease Stealth check bonus from Subtle Steps to +6 (previously +10). Way too abuseable with Greater Invisibility otherwise
+new entry "VV_Dagger_Specialist_Passive"
+type "PassiveData"
+using "VV_Dagger_Specialist_Passive"
+data "DescriptionParams" "1d8"
+data "Boosts" "EntityThrowDamage(1d8)"
+
+// Helm of of the First Strike: specify the duration of Calculated Risk status in description for Opening Gambit
+new entry "VV_OpeningGambit_Passive"
+type "PassiveData"
+using "VV_OpeningGambit_Passive"
+// At the start of combat, you gain &lt;LSTag Type="Status" Tooltip="VV_OPEN_GAMBIT"&gt;Calculated Risk&lt;/LSTag&gt; for [1] turns.
+data "Description" "hffe99ba8g6b4eg408fga06fg6cc6e0b1e140;1"
+data "DescriptionParams" "3"
+
+// Ring of the Assassin's Mark: rebalance Mark for Death and fix the status always being applied even if the target succeeds their saving throw
+// Nerfs: only gives advantage to caster (previously all attackers), critical hits against marked target deal an additional 2d8 damage (previously instantly killed)
+// Buffs: short rest cooldown (previously long rest), saving throw DC changed to ManoeuverDC+1 (previously flat 17), can be cast against all enemies (previously couldn't target basically any bosses in Honour Mode)
+
+
+new entry "VV_AssassinsMark_Passive"
+type "PassiveData"
+using "VV_AssassinsMark_Passive"
+// data "StatsFunctorContext" "OnDamage"
+data "StatsFunctorContext" ""
+// data "Conditions" "IsCritical() and HasStatus('VV_ASSASSINS_MARK')"
+data "Conditions" ""
+// data "StatsFunctors" "Kill()"
+data "StatsFunctors" ""
+data "Boosts" "IF(HasStatus('VV_ASSASSINS_MARK', context.Target, context.Source) and IsCritical() and not IsCriticalMiss()):DamageBonus(1d8)"
+
+// ==================== Preventing damage rider sources ====================
+new entry "VV_WhisperWind_Passive"
+type "PassiveData"
+using "VV_WhisperWind_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "AttackedWithPassiveSourceWeapon()"
+// data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d100,85)):DealDamage(1d6,Psychic,Magical)"
+data "StatsFunctors" "IF(RollDieAgainstDC(DiceType.d100,85)):DealDamage(1d6,Psychic,Magical,,0,,true,false)"
+
+new entry "VV_NineLives_Passive"
+type "PassiveData"
+using "VV_NineLives_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "AttackedWithPassiveSourceWeapon() and IsCritical()"
+// data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution,17)):DealDamage(4d6,Necrotic);RegainHitPoints(SELF,(DamageDone)/2)"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution,17)):DealDamage(4d6,Necrotic,Magical,,0,,true,false);RegainHitPoints(SELF,(DamageDone)/2)"
+
+new entry "VV_BackstabBlade_Assassinate_Passive"
+type "PassiveData"
+using "VV_BackstabBlade_Assassinate_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "not FacingMe() and HasDamageEffectFlag(DamageFlags.Hit) and SpellId('Target_SneakAttack')"
+// data "StatsFunctors" "DealDamage(2d6, Psychic,Magical)"
+data "StatsFunctors" "DealDamage(2d6, Psychic,Magical,,0,,true,false)"
+
+new entry "VV_AssassinsEye_Passive"
+type "PassiveData"
+using "VV_AssassinsEye_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "not FacingMe() and HasDamageEffectFlag(DamageFlags.Hit) and IsMeleeWeaponAttack()"
+// data "StatsFunctors" "DealDamage(1d6, MainMeleeWeaponDamageType)"
+data "StatsFunctors" "DealDamage(1d6, MainMeleeWeaponDamageType,Magical,,0,,true,true)"
+
+new entry "VV_LightningReflexes_Passive"
+type "PassiveData"
+using "VV_LightningReflexes_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "IsMeleeWeaponAttack() and HasDamageEffectFlag(DamageFlags.Hit)"
+// data "StatsFunctors" "DealDamage(ProficiencyBonus, Lightning)"
+data "StatsFunctors" "DealDamage(ProficiencyBonus, Lightning,Magical,,0,,true,false)"
+
+new entry "VV_Nightwhisper_Passive"
+type "PassiveData"
+using "VV_Nightwhisper_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "not FacingMe() and IsMeleeWeaponAttack()"
+// data "StatsFunctors" "IF(not SavingThrow(Ability.Wisdom, 15)):DealDamage(2d4, Psychic,Magical)"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Wisdom, 15)):DealDamage(2d4, Psychic,Magical,,0,,true,false)"
+
+// ==================================== Wands and Weave - Wizard Equipment ====================================
+
+// Arcanum Repeater: decrease Force damage and temporary hit points on a crit from Arcane Repercussion to 1d8 each (previously 1d10 each)
+
+// ==================== Preventing damage rider sources ====================
+new entry "WW_ArcRepeater_Crit_Passive"
+type "PassiveData"
+using "WW_ArcRepeater_Crit_Passive"
+// data "StatsFunctorContext" "OnDamage"
+// data "Conditions" "IsSpell() and IsCritical()"
+// data "StatsFunctors" "DealDamage(1d8, Force,Magical);ApplyStatus(SELF, WW_ARC_REPEATER_CRIT, 100, -1)"
+data "StatsFunctors" "DealDamage(1d8, Force,Magical,,0,,true,false);ApplyStatus(SELF, WW_ARC_REPEATER_CRIT, 100, -1)"
+
+new entry "WW_Ascendant_Spellcaster_Passive"
+type "PassiveData"
+using "WW_Ascendant_Spellcaster_Passive"
+data "DescriptionParams" "2"
+data "Boosts" "RollBonus(MeleeSpellAttack, 2);RollBonus(RangedSpellAttack,2);SpellSaveDC(2)"
+
+// Boots of the Shifting Elements: can only be triggered in combat as tooltip states and now only has 60% chance to receive the buff (previously 100% chance).
+// Rebalance of some effects: Fire damage (Heat) now gives 3 turns (Heat is by far the weakest of the buffs), plus others below
+// Not using custom status for Thunder damage (Blur) because the effect can't be stacked and is already much stronger than the other defensive buffs
+new entry "WW_ShiftingElements"
+type "PassiveData"
+using "WW_ShiftingElements"
+// While in combat and you deal damage with a spell, you have a [1]% chance of being granted a boon for [2] turn based on the damage type dealt. This can only occur once per turn.&lt;br&gt;&lt;br&gt;Acid: &lt;LSTag Type="Status" Tooltip="WW_ACIDIC_FORM"&gt;Acidic Form&lt;/LSTag&gt;&lt;br&gt;Thunder: &lt;LSTag Type="Status" Tooltip="BLUR"&gt;Blurred&lt;/LSTag&gt;&lt;br&gt;Necrotic: &lt;LSTag Type="Status" Tooltip="FALSE_LIFE"&gt;False Life&lt;/LSTag&gt;&lt;br&gt;Fire: &lt;LSTag Type="Status" Tooltip="MAG_FIRE_HEAT"&gt;Heat&lt;/LSTag&gt; (for [3] turns)&lt;br&gt;Lightning: &lt;LSTag Type="Status" Tooltip="MAG_CHARGED_LIGHTNING"&gt;Lightning Charges&lt;/LSTag&gt;&lt;br&gt;Cold: &lt;LSTag Type="Status" Tooltip="ARMOR_OF_AGATHYS"&gt;Armor of Agathys&lt;/LSTag&gt;&lt;br&gt;Psychic: &lt;LSTag Type="Status" Tooltip="MIRROR_IMAGE_1"&gt;Mirror Image&lt;/LSTag&gt;&lt;br&gt;Poison: &lt;LSTag Type="Status" Tooltip="WW_ENVENOMED_VITALITY"&gt;Envenomed Vitality&lt;/LSTag&gt;&lt;br&gt;Radiant: &lt;LSTag Type="Status" Tooltip="CHT_WW_SHIELD_OF_FAITH"&gt;Shield of Faith&lt;/LSTag&gt;&lt;br&gt;Force: &lt;LSTag Type="Status" Tooltip="WW_FORCE_EXPLOSION_BOOTS"&gt;Forceful Repercussion&lt;/LSTag&gt;
+data "Description" "h439e891bgfd50g42bdgb086g2a116ba17d6f;1"
+data "DescriptionParams" "60;1;3"
+data "Conditions" "TotalAttackDamageDoneGreaterThan(0) and (IsSpell() or IsCantrip()) and Combat()"
+data "StatsFunctors" "IF(HasAttackDamageDoneForType(DamageType.Acid) and RollDieAgainstDC(DiceType.d100,41)):ApplyStatus(SWAP,WW_ACIDIC_FORM,100,1);IF(HasAttackDamageDoneForType(DamageType.Thunder) and RollDieAgainstDC(DiceType.d100,41)):ApplyStatus(SWAP,BLUR,100,1);IF(HasAttackDamageDoneForType(DamageType.Necrotic) and RollDieAgainstDC(DiceType.d100,41)):ApplyStatus(SWAP,CHT_WW_FALSE_LIFE,100,1);IF(HasAttackDamageDoneForType(DamageType.Fire) and RollDieAgainstDC(DiceType.d100,41)):ApplyStatus(SWAP,MAG_FIRE_HEAT,100,3);IF(HasAttackDamageDoneForType(DamageType.Lightning) and RollDieAgainstDC(DiceType.d100,41)):ApplyStatus(SWAP,MAG_CHARGED_LIGHTNING,100,1);IF(HasAttackDamageDoneForType(DamageType.Cold) and RollDieAgainstDC(DiceType.d100,41)):ApplyStatus(SWAP,WW_ARMOR_OF_AGATHYS,100,1);IF(HasAttackDamageDoneForType(DamageType.Psychic) and RollDieAgainstDC(DiceType.d100,41)):ApplyStatus(SWAP,MIRROR_IMAGE_1,100,1);IF(HasAttackDamageDoneForType(DamageType.Poison) and RollDieAgainstDC(DiceType.d100,41)):ApplyStatus(SWAP,WW_ENVENOMED_VITALITY,100,1);IF(HasAttackDamageDoneForType(DamageType.Radiant) and RollDieAgainstDC(DiceType.d100,41)):ApplyStatus(SWAP,CHT_WW_SHIELD_OF_FAITH,100,1);IF(HasAttackDamageDoneForType(DamageType.Force) and RollDieAgainstDC(DiceType.d100,41)):CreateExplosion(WW_Projectile_Force_Boots)"
+
+// Cold damage (Armour of Agathys): increase damage reflect to 4 damage (previously 2)
+new entry "WW_ArmorOfAgathys"
+type "PassiveData"
+using "WW_ArmorOfAgathys"
+data "DescriptionParams" "DealDamage(4,Cold)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);DealDamage(SWAP,4,Cold,Magical)"
+
+// Necrotic damage (False Life): use custom status with temporary hp increased to 9 (previously 7)
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/IMDCPassive.txt
+new entry "ALCH_Oil_Bane_Passive"
+type "PassiveData"
+data "DisplayName" "h58787b49g9d53g4b4fg8234g7f8cefee8dab;2"
+data "Description" "hd31b5402g3f9bg4b1ag8400gbd961b0a25a0;1"
+data "DescriptionParams" "2"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Charisma, math.max(11, ManeuverSaveDC()-2))):ApplyStatus(ALCH_OIL_BANE_CONDITION,100,2)"
+
+new entry "ALCH_Oil_Reduce_Passive"
+type "PassiveData"
+data "DisplayName" "h359ee476gb8f5g4caegbd5bgf2b9a29f3ad0;2"
+data "Description" "h0ca79c18g3bb5g4082gb185g2f82815d7a63;1"
+data "DescriptionParams" "-1d4"
+data "Properties" "IsHidden"
+data "Boosts" "WeaponEnchantment(-1)"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, math.max(11, ManeuverSaveDC()-2))):ApplyStatus(REDUCE,100,2)"
+
+new entry "Toxin_Basic_Passive"
+type "PassiveData"
+data "DisplayName" "h02524745g3faeg4540g8aecg7b5794f4c41a;2"
+data "Description" "h28f417e6g3ed9g495egb02fg105c2ad12208;3"
+data "DescriptionParams" "DealDamage(1d4,Poison)"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, math.max(11, ManeuverSaveDC()-2))):ApplyStatus(ALCH_TOXIN_BASIC_CONDITION,100,1, AdvantageOnPoisoned())"
+
+new entry "Toxin_SerpentVenom_Passive"
+type "PassiveData"
+data "DisplayName" "h7531476bgfb94g4e9cg8ab0gd28654b257ed;2"
+data "Description" "h43726bacg78aeg4095g9bdega832a889aa6a;4"
+data "DescriptionParams" "DealDamage(1d6,Poison)"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, math.max(13, ManeuverSaveDC()))):ApplyStatus(ALCH_TOXIN_SERPENTVENOM_CONDITION,100,1, AdvantageOnPoisoned())"
+
+new entry "Toxin_Wyvern_Passive"
+type "PassiveData"
+data "DisplayName" "h8756c9d0gdbdeg459egbee0g61ea46ed9b4f;1"
+data "Description" "h6ecf93d6gab2fg4f96gb2f9gc6139b281b70;3"
+data "DescriptionParams" "DealDamage(1d8,Poison)"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, math.max(15, ManeuverSaveDC()+2))):ApplyStatus(ALCH_TOXIN_WYVERN_CONDITION,100,1, AdvantageOnPoisoned())"
+
+new entry "Toxin_PurpleWorm_Passive"
+type "PassiveData"
+data "DisplayName" "hdc5a159eg5cbbg4466gac36gf63b48e8acb6;2"
+data "Description" "h25913176g1788g4a81g8990g411aa91f55b5;3"
+data "DescriptionParams" "DealDamage(1d10,Poison)"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "AttackedWithPassiveSourceWeapon()"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution, math.max(19, ManeuverSaveDC()+4))):ApplyStatus(ALCH_TOXIN_PURPLEWORM_CONDITION,100,1, AdvantageOnPoisoned())"
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/LoviatarLove.txt
+new entry "GOB_CalmnessInPain"
+type "PassiveData"
+using "GOB_CalmnessInPain"
+// Loviatar's Love
+data "DisplayName" "h80729873g86d9g4ddbga01egeebe788f1733;2"
+// Pain is the path to clarity. When you have 30% <LSTag Tooltip="HitPoints">hit points</LSTag> or less, you gain a +2 bonus to <LSTag Tooltip="AttackRoll">Attack Rolls</LSTag> and Wisdom <LSTag Tooltip="SavingThrow">Saving Throws</LSTag> for 3 turns.
+data "Description" "hef31fe63ga576g45c0ga580gf2b0d8fa0b35;3"
+data "Icon" "statIcons_GOB_CalmnessInPain"
+// Remove IsHidden:
+data "Properties" ""
+data "StatsFunctorContext" ""
+data "Conditions" ""
+data "StatsFunctors" ""
+
+new entry "GOB_CalmnessInPainDeathCheck"
+type "PassiveData"
+using "GOB_CalmnessInPainDeathCheck"
+// Remove logic to remove Loviatar's Love on death:
+data "StatsFunctors" "IF(HasStatus('GOB_CALMNESS_IN_PAIN_ACTIVE') and Dead()): RemoveStatus(GOB_CALMNESS_IN_PAIN_ACTIVE)"
+
+new entry "GOB_CalmnessInPainActive"
+type "PassiveData"
+using "GOB_CalmnessInPainActive"
+data "StatsFunctorContext" ""
+data "Conditions" ""
+data "StatsFunctors" ""
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/MizoraRewardsPassives.txt
+new entry "EldritchGlaive"
+type "PassiveData"
+using "EldritchGlaive"
+data "DisplayName" "ha41296d6g34a3g5e67gb8c5gbb404bc8559f;1"
+data "Description" "h3c127449g671ag5315gcddagf9a1e70eae9c;1"
+data "DescriptionParams" "DealDamage(1d10,Force)"
+data "ExtraDescription" "hc664fe0ag8c87g8e6agd0d7g2356bbd1c3a0;2"
+data "BoostConditions" "HasPassive('PactOfTheBlade') or HasPassive('PactOfTheBlade_Hex')"
+data "Boosts" "UnlockSpell(Shout_Eldritch_Glaive)"
+
+new entry "EldritchGlaiveBonusAttack"
+type "PassiveData"
+using "EldritchGlaiveBonusAttack"
+data "DisplayName" ""
+data "Description" ""
+data "DescriptionParams" ""
+data "Icon" "PassiveFeature_PactOfTheBlade"
+data "BoostConditions" ""
+data "Boosts" ""
+data "Conditions" ""
+data "StatsFunctors" ""
+
+new entry "FrightfulBlast"
+type "PassiveData"
+using "FrightfulBlast"
+data "DisplayName" "h9b8efca5g332agfac6g91aagbcd8ddb80d7a;2"
+data "Description" "h53678340g3014g20c1g4c63g8a9e453dbd5e;1"
+data "Icon" "Action_Paladin_DreadfulAspect"
+data "Properties" "Highlighted"
+data "Boosts" ""
+data "StatsFunctors" "IF(not SavingThrow(Ability.Wisdom,(SourceSpellDC()-2),AdvantageOnFrightened(),DisadvantageOnFrightened())):ApplyStatus(FRIGHTENED,100,2)"
+
+new entry "SickeningBlast"
+type "PassiveData"
+using "SickeningBlast"
+data "DisplayName" "h8f84c3e8g3fe8g9270gbc6cg91fcc0678277;1"
+data "Description" "h9d87557bg70e1gea36gf3efg1d3569db115f;1"
+data "Icon" "GenericIcon_DamageType_Poison"
+data "Properties" "Highlighted"
+data "Boosts" ""
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution,(SourceSpellDC()-2),AdvantageOnPoisoned())):ApplyStatus(POISONED,100,2)"
+
+new entry "DeterioratingBlast"
+type "PassiveData"
+using "DeterioratingBlast"
+data "DisplayName" "h59983842g4788g896agba00g7defee1dca8e;1"
+data "Description" "he5fcf851g829fga59cg0f5cga02e8ddf1441;1"
+data "DescriptionParams" "DealDamage(,Bludgeoning);DealDamage(,Piercing);DealDamage(,Slashing);"
+data "Icon" "Action_MagicItem_BrandTheWeak"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution,(SourceSpellDC()-3))):ApplyStatus(DETERIORATING_BLAST,100,1)"
+
+new entry "LanceOfLethargy"
+type "PassiveData"
+using "LanceOfLethargy"
+data "DisplayName" "ha9c347c7g523dg7484ge9e2g036cb41ed3b2;1"
+data "Description" "h7ce64f85g9aa4g7b39g25f0g73933c1da788;1"
+data "DescriptionParams" "Distance(3)"
+data "Icon" "Spell_Transmutation_Slow"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Constitution,(SourceSpellDC()-2))):ApplyStatus(LANCE_OF_LETHARGY,100,2)"
+
+new entry "BewitchingBlast"
+type "PassiveData"
+using "BewitchingBlast"
+data "DisplayName" "h4d505f62gccfcgbaf8g113ag7c87848e5b04;1"
+data "Description" "h11861f10gd8c8g32a4gc0cagba1cb9005469;1"
+data "Icon" "Spell_Enchantment_Confusion"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Charisma,(SourceSpellDC()-3))):ApplyStatus(CONFUSION,100,2)"
+
+new entry "EnervatingShadow"
+type "PassiveData"
+using "EnervatingShadow"
+data "DisplayName" "h484b3644g4595g5549g74b9g3ed80868ccac;1"
+data "Description" "h5ba59368ge5f4g400fg6d12g68bac7a9cba3;1"
+data "Conditions" "IsEldritchBlastAlike() and HasDamageEffectFlag(DamageFlags.Hit) and not HasObscuredState(ObscuredState.Clear)"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Strength,(SourceSpellDC()-4))):ApplyStatus(STRENGTH_DRAIN,100,2); ApplyStatus(STRENGTH_DRAIN_VFX,100,0)"
+
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Objects.txt
+new entry "Artificer_Firearms_PointBlank"
+type "PassiveData"
+using "Artificer_Firearms_PointBlank"
+data "DisplayName" "hfffd4565g187cg49e2ga99eg43b33c5b8142;1"
+data "Description" "hbbddf565g187cg49e2ga99eg43b33c5b8142;1"
+data "DescriptionParams" "Distance(1.5)"
+data "Icon" "PassiveFeature_FavoredEnemy_BountyHunter"
+data "Properties" "Highlighted"
+data "Boosts" "IgnorePointBlankDisadvantage(Loading)"
+
+new entry "Artificer_Firearms_DexBonus"
+type "PassiveData"
+using "Artificer_Firearms_DexBonus"
+data "DisplayName" "hddfff565g187cg49e2ga99eg43b33c5b8142;1"
+data "Description" "hdffff565g187cg49e2ga99eg43b33c5b8142;1"
+data "Icon" "PassiveFeature_Evasion"
+data "Properties" "Highlighted"
+data "Boosts" "Ability(Dexterity, 1, 20);"
+
+new entry "Artificer_FirearmsProficiency_Gunner"
+type "PassiveData"
+using "Artificer_FirearmsProficiency_Gunner"
+data "DisplayName" "hfffff565g187cg49e2ga99eg43b33c5b8142;1"
+data "Description" "hccddf565g187cg49e2ga99eg43b33c5b8142;1"
+data "Icon" "PassiveFeature_Evasion"
+data "Properties" "IsHidden"
+data "Boosts" "Proficiency(Slings)"
+
+//Remove use cost from coatings and poisons
+
+new entry "UND_StrengthChair_Leg_Passive"
+type "PassiveData"
+using "UND_StrengthChair_Leg_Passive"
+data "DisplayName" "h870a9abeg2143g4507gbee6g4ae1cb89af0f;1"
+//data "Description" "hc29527b5gf34eg4759g8deag0c9e1d252a47;2"
+data "Description" "hde561cd6gfda8g41b4gbedbg65a6639e4665;1"
+//data "DescriptionParams" "2;24"
+data "Boosts" "Ability(Strength,4,24)"
+
+new entry "CSS_Lathander_Pass_SurgeOfLight"
+type "PassiveData"
+using "CSS_Lathander_Pass_SurgeOfLight"
+// Whenever the wearer is healed, they receive an additional [1] of healing.
+data "Description" "hce421159g0407g470fg85deg6fc73d6c24bc;1"
+data "DescriptionParams" "RegainHitPoints(3)"
+// data "Conditions" "(Character() and not Self()) or AreaRadiusGreaterThan(1)"
+data "Conditions" "HasStatus('LATHANDER_SURGEOFLIGHT_TECHNICAL', context.Target)"
+// data "StatsFunctors" "IF(not HasStatus('MAG_HEAL_SELF_ONCE_TECHNICAL', context.Source)):RegainHitPoints(SELF,3);ApplyStatus(SELF, MAG_HEAL_SELF_ONCE_TECHNICAL, 100, 0)"
+data "StatsFunctors" "IF(not HasStatus('MAG_HEAL_SELF_ONCE_TECHNICAL', context.Source)):RegainHitPoints(3);ApplyStatus(SELF, MAG_HEAL_SELF_ONCE_TECHNICAL, 100, 0)"
+
+// New technical status
+new entry "CSS_Lathander_Pass_IlluminateAC" 
+type "PassiveData"
+using "CSS_Lathander_Pass_IlluminateAC"
+// data "BoostContext" "OnEquip;OnCreate"
+data "BoostContext" "OnObscurityChanged;OnEquip;OnCreate;OnAttacked;OnMovedDistance;OnStatusApplied;OnStatusRemoved"
+// data "BoostConditions" "IF(HasObscuredState(ObscuredState.Clear, context.Source))"
+data "BoostConditions" "HasObscuredState(ObscuredState.Clear, context.Source)"
+
+new entry "CSS_Lathander_Pass_IlluminateConc" 
+type "PassiveData"
+using "CSS_Lathander_Pass_IlluminateConc"
+// data "StatsFunctorContext" "OnObscurityChanged;OnCreate"
+data "BoostContext" "OnObscurityChanged;OnEquip;OnCreate;OnAttacked;OnMovedDistance;OnStatusApplied;OnStatusRemoved"
+// data "BoostConditions" "IF(HasObscuredState(ObscuredState.Clear, context.Source))"
+data "BoostConditions" "HasObscuredState(ObscuredState.Clear, context.Source)"
+
+new entry "CSS_Lathander_Pass_IlluminateConc2" 
+type "PassiveData"
+using "CSS_Lathander_Pass_IlluminateConc2"
+// data "StatsFunctorContext" "OnObscurityChanged;OnCreate"
+data "BoostContext" "OnObscurityChanged;OnEquip;OnCreate;OnAttacked;OnMovedDistance;OnStatusApplied;OnStatusRemoved"
+// data "BoostConditions" "IF(not HasObscuredState(ObscuredState.Clear, context.Source))"
+data "BoostConditions" "not HasObscuredState(ObscuredState.Clear, context.Source)"
+
+// ================================= Sunburst Signet =================================
+// Add short rest cooldown to Daylight variants, and fix inheritances for variants to inherit from base game spells
+
+new entry "CSS_Lathy_Pass_HolyRebuked"
+type "PassiveData"
+using "CSS_Lathy_Pass_HolyRebuked"
+data "StatsFunctors" "ApplyStatus(TURNED, 100, 3)"
+data "StatsFunctors" "ApplyStatus(SWAP,TURNED, 100, 3)"
+
+// ==================================== Cahoot's Helm's Armory fixes ====================================
+
+// Longsword: fixes force damage against concentrating targets and adds advantage to saving throws against spells
+new entry "CSS_HelmArmor_Pass_Weavebane"
+type "PassiveData"
+using "CSS_HelmArmor_Pass_Weavebane"
+data "Boosts" "IF(IsMeleeAttack() and IsConcentrating(context.Target)):CharacterWeaponDamage(1d6,Force);IF(IsSpell()):RollBonus(SavingThrow, Advantage)"
+data "Description" "h26e9271ag521dg49begb54eg511971cdde17"
+
+
+// Chest armour: fixes Faithguard +2 AC remaining on target even if they no longer have Shield of Faith
+new entry "CSS_HelmArmory_Pass_Faithguard"
+type "PassiveData"
+using "CSS_HelmArmory_Pass_Faithguard"
+// You gain an additional +[1] to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; when &lt;LSTag Type="Status" Tooltip="SHIELD_OF_FAITH"&gt;Shield of Faith&lt;/LSTag&gt; is active.
+data "Description" "h5259232cg94bcg4f1fg86cag49bd2775aea0"
+// data "DescriptionParams" "2"
+data "StatsFunctors" "ApplyStatus(HELMARMORY_FAITHGUARD,100,-1)"
+// data "Boosts" "AC(2)"
+data "Boosts" ""
+
+// New status
+new entry "CSS_HelmArmor_Pass_DivineVigilance"
+type "PassiveData"
+using "CSS_HelmArmor_Pass_DivineVigilance"
+// You gain a +3 bonus to Initiative Rolls and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.
+data "Description" "ha910c197g7b7ag443dga5cagace2a219dde8"
+
+
+
+new entry "CSS_HelmArmory_Pass_ShieldHeal"
+type "PassiveData"
+using "CSS_HelmArmory_Pass_ShieldHeal"
+data "Description" "h02da00cdgac67g45f4g8516g806b0ee900b7"
+
+
+/// Redoing Smokepowder
+
+new entry "Siael_EyeOfVecna"
+type "PassiveData"
+using "Siael_EyeOfVecna"
+data "Icon" "Siael_VecnaEye"
+data "Boosts" "StatusImmunity(SG_Blinded);Skill(Perception,1);DarkvisionRangeMin(24);ActiveCharacterLight(c46e7ba8-e746-7020-5146-287474d7b9f7);StatusImmunity(BLINDED_DARKNESS);IgnoreSurfaceCover(SurfaceDarknessCloud)"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "SpellId('Siael_Vecna_Disintegrate') or SpellId('Siael_Vecna_CrownOfMadness') or SpellId('Siael_Vecna_Dominate') or SpellId('Siael_Vecna_Eyebite') or SpellId('Siael_Vecna_Eyebite_Asleep') or SpellId('Siael_Vecna_Eyebite_Panicked') or SpellId('Siael_Vecna_Eyebite_Sickened')"
+data "StatsFunctors" "ApplyStatus(SELF,SIAEL_VECNA_MADNESSROLL,100,0)"
+
+new entry "Siael_HandOfVecna"
+type "PassiveData"
+using "Siael_HandofVecna"
+data "DisplayName" "h8a22064f8168422ba24b612e21bf17694b0g;1"
+data "Description" "h937ceeb4b8f34fcfaa6db9ace63b9bbaee1a;1"
+data "DescriptionParams" "DealDamage(1d6,Cold);DealDamage(1d6,MainWeaponDamageType)"
+data "Icon" "Siael_VecnaHand"
+data "Boosts" "IF(IsMainHandAttack() or IsAttackType(AttackType.MeleeSpellAttack)):DamageBonus(1d6,Cold);IF(IsWeaponAttack()):DamageBonus(1d6)"
+data "StatsFunctorContext" "OnCast"
+data "Conditions" "SpellId('Siael_Vecna_FingerOfDeath') or SpellId('Siael_Vecna_Sleep') or SpellId('Siael_Vecna_Slow') or SpellId('Siael_Vecna_Teleport')"
+data "StatsFunctors" "ApplyStatus(SELF,SIAEL_HANDOFVEVNA_SUGGESTION,100,0)"
+
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/PASSIVES.txt
+// PassiveData declarations moved from ListoMasterSpells
+// Consolidated from ListoMasterSpells into ListoPatches.
+// Entry identity is the exact combination of type and name.
+
+// Family: ara_cloak_warlockspellslot_passive
+new entry "ARA_Cloak_WarlockSpellSlot_Passive"
+type "PassiveData"
+data "DisplayName" "h51ed988cg5af7g405egbe95g4716c4d21fbd;1"
+data "Description" "hbca51664g4a42g4367gb800g913a1eca7e79;1"
+data "Boosts" ""
+
+
+// Family: armorofagathys
+new entry "ArmorOfAgathys_7"
+type "PassiveData"
+using "ArmorOfAgathys"
+data "DescriptionParams" "DealDamage(35,Cold)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);DealDamage(SWAP,35,Cold, Magical)"
+new entry "ArmorOfAgathys_8"
+type "PassiveData"
+using "ArmorOfAgathys"
+data "DescriptionParams" "DealDamage(40,Cold)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);DealDamage(SWAP,40,Cold, Magical)"
+new entry "ArmorOfAgathys_9"
+type "PassiveData"
+using "ArmorOfAgathys"
+data "DescriptionParams" "DealDamage(45,Cold)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_ARMOR_OF_AGATHYS,100,0);ApplyStatus(SELF,PASSIVE_ARMOR_OF_AGATHYS_ATTACKER,100,0);DealDamage(SWAP,45,Cold, Magical)"
+
+
+// Family: decayingtouch
+new entry "DecayingTouch"
+type "PassiveData"
+using "DecayingTouch"
+data "Conditions" "HasDamageEffectFlag(DamageFlags.Hit) and not IsRedirectedDamage()"
+data "StatsFunctors" "DealDamage(1d6,Necrotic,Magical,,0,,true,true);CreateExplosion(Projectile_NecroticEffect_Explosion);IF(not SpellId('Target_DecayingTouch')):RemoveStatus(DECAYING_TOUCH)"
+data "StatsFunctorContext" "OnDamaged"
+new entry "DecayingTouch_2"
+type "PassiveData"
+using "DecayingTouch"
+data "StatsFunctors" "DealDamage(2d6,Necrotic,Magical,,0,,true,true);CreateExplosion(Projectile_NecroticEffect_Explosion);IF(not SpellId('Target_DecayingTouch')):RemoveStatus(DECAYING_TOUCH_2)"
+new entry "DecayingTouch_3"
+type "PassiveData"
+using "DecayingTouch"
+data "StatsFunctors" "DealDamage(3d6,Necrotic,Magical,,0,,true,true);CreateExplosion(Projectile_NecroticEffect_Explosion);IF(not SpellId('Target_DecayingTouch')):RemoveStatus(DECAYING_TOUCH_3)"
+new entry "DecayingTouch_4"
+type "PassiveData"
+using "DecayingTouch"
+data "StatsFunctors" "DealDamage(4d6,Necrotic,Magical,,0,,true,true);CreateExplosion(Projectile_NecroticEffect_Explosion);IF(not SpellId('Target_DecayingTouch')):RemoveStatus(DECAYING_TOUCH_4)"
+
+
+// Family: fistsoffire_bonusoverride
+new entry "FistsOfFire_BonusOverride"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "BoostContext" "OnTurn;OnCast;OnAttack;OnCreate"
+data "BoostConditions" "not HasActionResource('ActionPoint',1,0,false,false,context.Source) and HasActionResource('BonusActionPoint',1,0,false,false,context.Source)"
+data "Boosts" "AttackSpellOverride(Target_UnarmedAttack_FistsOfFire_Override_Bonus, Target_UnarmedAttack);UnlockSpellVariant(SpellId('Target_UnarmedAttack_FistsOfFire_Override_Bonus'),ModifyUseCosts(Replace,BonusActionPoint,1,0,ActionPoint),ModifyIconGlow())"
+
+
+// Family: fistsoffire_override
+new entry "FistsOfFire_Override"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "BoostContext" "OnTurn;OnCast;OnAttack;OnCreate"
+data "BoostConditions" "HasActionResource('ActionPoint',1,0,false,false,context.Source) or (not HasActionResource('ActionPoint',1,0,false,false,context.Source) and not HasActionResource('BonusActionPoint',1,0,false,false,context.Source)) or HasAnyExtraAttack()"
+data "Boosts" "AttackSpellOverride(Target_UnarmedAttack_FistsOfFire_Override, Target_UnarmedAttack)"
+
+
+// Family: flamingsphere_state
+new entry "FlamingSphere_State_7"
+type "PassiveData"
+using "FlamingSphere_State"
+data "DescriptionParams" "DealDamage(7d6,Fire)"
+data "ToggleOnFunctors" "ApplyStatus(FLAMING_SPHERE_AURA_7,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(FLAMING_SPHERE_AURA_7)"
+new entry "FlamingSphere_State_8"
+type "PassiveData"
+using "FlamingSphere_State"
+data "DescriptionParams" "DealDamage(8d6,Fire)"
+data "ToggleOnFunctors" "ApplyStatus(FLAMING_SPHERE_AURA_8,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(FLAMING_SPHERE_AURA_8)"
+new entry "FlamingSphere_State_9"
+type "PassiveData"
+using "FlamingSphere_State"
+data "DescriptionParams" "DealDamage(9d6,Fire)"
+data "ToggleOnFunctors" "ApplyStatus(FLAMING_SPHERE_AURA_9,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(FLAMING_SPHERE_AURA_9)"
+
+
+// Family: hellishrebuke
+new entry "HellishRebuke_7"
+type "PassiveData"
+data "DisplayName" "hb625c2ecg7119g43edga7b9gef18c19064ba;1"
+data "Description" "h712cc5dcg0597g4c7fg87efg120bc07fe32e;1"
+data "DescriptionParams" "DealDamage(8d10,Fire)"
+data "ExtraDescription" "ha25d0fa5g0cedg42bcg9540geab3d36f2899;2"
+data "TooltipUseCosts" "ReactionActionPoint:1"
+data "Icon" "Spell_HellishRebuke"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "HasActionResource('ReactionActionPoint', 1, 0, false) and Enemy()"
+data "StatsFunctors" "UseSpell(SWAP,Target_HellishRebuke_7,true,true,true);UseActionResource(ReactionActionPoint,1);RemoveStatus(HELLISH_REBUKE_7)"
+new entry "HellishRebuke_8"
+type "PassiveData"
+data "DisplayName" "hb625c2ecg7119g43edga7b9gef18c19064ba;1"
+data "Description" "h712cc5dcg0597g4c7fg87efg120bc07fe32e;1"
+data "DescriptionParams" "DealDamage(9d10,Fire)"
+data "ExtraDescription" "ha25d0fa5g0cedg42bcg9540geab3d36f2899;2"
+data "TooltipUseCosts" "ReactionActionPoint:1"
+data "Icon" "Spell_HellishRebuke"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "HasActionResource('ReactionActionPoint', 1, 0, false) and Enemy()"
+data "StatsFunctors" "UseSpell(SWAP,Target_HellishRebuke_8,true,true,true);UseActionResource(ReactionActionPoint,1);RemoveStatus(HELLISH_REBUKE_8)"
+new entry "HellishRebuke_9"
+type "PassiveData"
+data "DisplayName" "hb625c2ecg7119g43edga7b9gef18c19064ba;1"
+data "Description" "h712cc5dcg0597g4c7fg87efg120bc07fe32e;1"
+data "DescriptionParams" "DealDamage(10d10,Fire)"
+data "ExtraDescription" "ha25d0fa5g0cedg42bcg9540geab3d36f2899;2"
+data "TooltipUseCosts" "ReactionActionPoint:1"
+data "Icon" "Spell_HellishRebuke"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "HasActionResource('ReactionActionPoint', 1, 0, false) and Enemy()"
+data "StatsFunctors" "UseSpell(SWAP,Target_HellishRebuke_9,true,true,true);UseActionResource(ReactionActionPoint,1);RemoveStatus(HELLISH_REBUKE_9)"
+
+
+// Family: huntersmark
+new entry "HuntersMark"
+type "PassiveData"
+using "HuntersMark"
+data "Boosts" "IF(HasStatus('HUNTERS_MARK',context.Target,context.Source) and (IsWeaponAttack() or IsUnarmedAttack()) and HasDamageEffectFlag(DamageFlags.Hit)):DamageBonus(1d6)"
+data "Conditions" "HasStatus('HUNTERS_MARK',context.Target,context.Source) and (IsWeaponAttack() or IsUnarmedAttack()) and HasDamageEffectFlag(DamageFlags.Hit) and TotalAttackDamageDoneGreaterThan(0)"
+
+
+// Family: land_coast
+new entry "Land_Coast_2"
+type "PassiveData"
+using "Land_Coast_2"
+data "Boosts" "UnlockSpell(Wall_WallOfStone,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);UnlockSpell(Target_Fly,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom)"
+
+
+// Family: land_desert
+new entry "Land_Desert_2"
+type "PassiveData"
+using "Land_Desert_2"
+data "Boosts" "UnlockSpell(Wall_WallOfStone,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);UnlockSpell(Target_HypnoticPattern,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom)"
+new entry "Land_Desert_4"
+type "PassiveData"
+using "Land_Desert_4"
+data "Boosts" "UnlockSpell(Target_FlameStrike,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);UnlockSpell(Target_InsectPlague,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom)"
+
+
+// Family: land_mountain
+new entry "Land_Mountain_4"
+type "PassiveData"
+using "Land_Mountain_4"
+data "Boosts" "UnlockSpell(Throw_Telekinesis,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom);UnlockSpell(Target_ConjureElemental_Container,AddChildren,d136c5d9-0ff0-43da-acce-a74a07f8d6bf,,Wisdom)"
+
+
+// Family: repellingblast
+new entry "RepellingBlast"
+type "PassiveData"
+// Repelling Blast
+data "DisplayName" "hf6a72bdfg5022g4befg86c2g9382c643da51;2"
+// When you hit a creature with <LSTag Type="Spell" Tooltip="Projectile_EldritchBlast">Eldritch Blast</LSTag>, you can push the creature up to [1] away from you.
+data "Description" "h37c1bb57g04fag4e45g8953gb5bec46f0c48;3"
+data "DescriptionParams" "Distance(4.5)"
+data "Icon" "PassiveFeature_RepellingBlast"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "SpellId('Projectile_EldritchBlast') and HasDamageEffectFlag(DamageFlags.Hit)"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Strength,SourceSpellDC())):ApplyStatus(PASSIVE_REPELLING_BLAST,100,0)"
+
+
+// Family: sailor_greaterinvisibility_tracking_ar
+new entry "Sailor_GreaterInvisibility_Tracking_AR"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnCast;OnAttack"
+data "StatsFunctors" "IF((context.HasContextFlag(StatsFunctorContext.OnCast) and IsSpell() and not HasSpellFlag(SpellFlags.Invisible)) or (context.HasContextFlag(StatsFunctorContext.OnAttack) and IsHit())):ApplyStatus(SELF,SAILOR_GREATERINVIS_TECH_AR,100,0)"
+
+
+
+
+
+// Family: syr_bestowcurse_curse_mental_passive
+new entry "Syr_Bestowcurse_Curse_Mental_Passive"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "DisplayName" "hecd9906egd25cg4cc0gb572g385100df550e;1"
+data "Description" "h42b7d1bag136dg49c5ga2d5g96b4f472cb38;1"
+data "StatsFunctors" "IF(not SavingThrow(Ability.Wisdom,SourceSpellDC())):ApplyStatus(CURSE_SKIPPED_TURN,100,1)"
+data "StatsFunctorContext" "OnTurn"
+
+
+// Family: syr_druidqol_wildshape_action_passive
+new entry "SYR_DruidQoL_Wildshape_Action_Passive"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape);IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape_Bear_Polar);IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape_Cat);IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape_Wolf_Dire);IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape_Spider);IF(ClassLevelHigherOrEqualThan(2,'Druid')):UnlockSpell(Shout_WildShape_Badger);IF(ClassLevelHigherOrEqualThan(4,'Druid')):UnlockSpell(Shout_WildShape_DeepRothe);IF(ClassLevelHigherOrEqualThan(4,'Druid')):UnlockSpell(Shout_WildShape_Raven);IF(ClassLevelHigherOrEqualThan(6,'Druid')):UnlockSpell(Shout_Wildshape_Panther);IF(ClassLevelHigherOrEqualThan(6,'Druid')):UnlockSpell(Shout_WildShape_Owlbear);IF(ClassLevelHigherOrEqualThan(8,'Druid')):UnlockSpell(Shout_Wildshape_SaberTooth_Tiger);IF(ClassLevelHigherOrEqualThan(10,'Druid')):UnlockSpell(Shout_WildShape_Dilophosaurus);IF(ClassLevelHigherOrEqualThan(10,'Druid')):UnlockSpell(Shout_WildShape_Myrmidon_Air);IF(ClassLevelHigherOrEqualThan(10,'Druid')):UnlockSpell(Shout_WildShape_Myrmidon_Fire);IF(ClassLevelHigherOrEqualThan(10,'Druid')):UnlockSpell(Shout_WildShape_Myrmidon_Water);IF(ClassLevelHigherOrEqualThan(10,'Druid')):UnlockSpell(Shout_WildShape_Myrmidon_Earth)"
+
+
+// Family: syr_false_life_dr_passive
+new entry "SYR_False_Life_DR_Passive"
+type "PassiveData"
+data "DisplayName" "ha0180935g478ag43f4ga251ga140eeb78609;1"
+data "Properties" "IsHidden"
+data "Boosts" "Resistance(Necrotic,Resistant);IF(HasStatus('FALSE_LIFE')):DamageReduction(All, Flat, 1);IF(HasStatus('FALSE_LIFE_2')):DamageReduction(All, Flat, 1);IF(HasStatus('FALSE_LIFE_3')):DamageReduction(All, Flat, 2);IF(HasStatus('FALSE_LIFE_4')):DamageReduction(All, Flat, 2);IF(HasStatus('FALSE_LIFE_5')):DamageReduction(All, Flat, 3);IF(HasStatus('FALSE_LIFE_6')):DamageReduction(All, Flat, 3);IF(HasStatus('FALSE_LIFE_7')):DamageReduction(All, Flat, 4);IF(HasStatus('FALSE_LIFE_8')):DamageReduction(All, Flat, 4);IF(HasStatus('FALSE_LIFE_9')):DamageReduction(All, Flat, 5)"
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/PaladinAuraRange.txt
+new entry "AuraOfZealPassive"
+type "PassiveData"
+using "AuraOfZealPassive"
+data "DescriptionParams" "Distance(9)"
+
+
+new entry "AuraOfZealPassiveUpgrade"
+type "PassiveData"
+using "AuraOfZealPassive"
+data "DescriptionParams" "Distance(15)"
+
+
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/PsyArmoryEnemies.txt
+new entry "GuardianOfFaith_Retaliate_Mesmerist"
+type "PassiveData"
+data "DisplayName" "h9a952da6g6bf6g494fgaf79gf92e41de43e8;1"
+data "Description" "hf5c61eb8g73c2g487dg89deg20632436fa2a;1"
+data "Icon" "Action_CausalityBA"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockInterrupt(Interrupt_GuardianOfFaith_Retaliate_Mesmerist)"
+
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/RadiantRetort.txt
+new entry "DamageShield_NPC_Radiant"
+type "PassiveData"
+using "DamageShield_NPC_Radiant"
+// %%% Damage Shield Technical - Radiant
+data "DisplayName" "h41fc2fd9g393fg4df6gaa9bg2674a5c17df1;1"
+// %%% Technical passive to reflect radiant damage x2
+data "Description" "436c350c-7509-4375-9b8e-78a8cce5bec1;1"
+data "Boosts" "RedirectDamage(1,Necrotic,Radiant,true);Resistance(Radiant,Resistant)"
+
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Shadowblade_Flameblade.txt
+new entry "SummonBlade_Passive"
+type "PassiveData"
+using "MAG_MeleeCaster_Passive"
+data "DisplayName" "e506bdcd-34da-45b0-92d5-986ab9508298"
+//Summoned Weapon//
+//When you attack with your summoned weapon you use your spell casting ability in place of Strength or Dexterity//
+data "BoostContext" "OnAttack"
+data "Boosts" "IF(AttackedWithPassiveSourceWeapon()):WeaponAttackRollAbilityOverride(SpellCastingAbility)"
+
+//basic shadowblade weapon//
+
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/ShortRestMagics.txt
+new entry "Undead_Auto_Toggler"
+type "PassiveData"
+using "Undead_Auto_Toggler"
+data "Properties" "IsHidden"
+data "ToggleOnFunctors" ""
+data "ToggleOffFunctors" ""
+
+new entry "SailorCat_Remove_ADPP_Passives"
+type "PassiveData"
+using "SailorCat_Remove_ADPP_Passives"
+data "Properties" "IsHidden"
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/WetStatus.txt
+new entry "JST_ApplyRayOfFrost"
+type "PassiveData"
+// %%% Technical: Apply Ray of Frost on Hit
+data "DisplayName" "h019b4a95ge9aag4415gaeecgc23a1cad925d"
+// %%% Technical: Apply Ray of Frost on Hit
+data "Description" "h6efcc3f6gc58dg48a9ga91ag40afc99f7b53"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnDamaged"
+data "Conditions" "IsSpell() and IsDamageTypeCold()"
+data "StatsFunctors" "ApplyStatus(RAY_OF_FROST,100,1)"
+
+
+// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/stolenDIQMiscPatches.txt
+new entry "PsyRiderPassive1"
+type "PassiveData"
+using "PsyRiderPassive1"
+// The wearer deals an additional 1d4 cold damage when dealing psychic damage.
+// data "Description" "h06057d84g97a9g9546g1585g5dcd52408f54;1"
+// The wearer deals an additional [1] when dealing [2] with &lt;LSTag Tooltip="AttackRoll"&gt;Attacks&lt;/LSTag&gt;.
+data "Description" "h0c187050gaa77g4ce9g8549g9f1f20b437bd;1"
+// data "Boosts" "IF(HasDamageDoneForType(DamageType.Psychic)):DamageBonus(1d6, Cold)"
+data "Boosts" "IF(IsAttack() and HasDamageDoneForType(DamageType.Psychic)):DamageBonus(1d4, Cold)"
+// data "DescriptionParams" ""
+data "DescriptionParams" "DealDamage(1d4, Poison);DealDamage(,Psychic)"
+
+// Scholastic Assault
+new entry "PsyRiderPassive1b"
+type "PassiveData"
+using "PsyRiderPassive1b"
+// When you deal psychic damage to an enemy, they may gain &lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;Mental Fatigue&lt;/LSTag&gt; for 3 turns.
+// data "Description" "h760b6bffg847ag7cc3g1774gcdfe57c6ac57;4"
+// When you deal psychic damage to an enemy with an &lt;LSTag Tooltip="AttackRoll"&gt;Attacks&lt;/LSTag&gt;, they must succed a &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; &lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;Mental Fatigue&lt;/LSTag&gt;.
+data "Description" "h22442963ge147g4874gb0c8gc2fb3393f96b;1"
+// data "DescriptionParams" ""
+data "DescriptionParams" "DealDamage(,Psychic)"
+// data "Conditions" "not Item() and not Self() and not IsMiss() and HasDamageDoneForType(DamageType.Psychic)"
+data "Conditions" "not Item() and IsAttack() and HasDamageEffectFlag(DamageFlags.Hit) and HasDamageDoneForType(DamageType.Psychic)"
+
+// Venomous Whispers
+new entry "PsyRiderPassive2"
+type "PassiveData"
+using "PsyRiderPassive2"
+// The wearer deals an additional 1d4 poison damage when dealing psychic damage.
+// data "Description" "haec0b11eg1828g7835gf48bg779698a31a73;1"
+// The wearer deals an additional [1] when dealing [2] with &lt;LSTag Tooltip="AttackRoll"&gt;Attacks&lt;/LSTag&gt;.
+data "Description" "h6ef7c9ecg66b6g40dfga408g82481445ca73;1"
+// data "DescriptionParams" ""
+data "DescriptionParams" "DealDamage(1d4, Poison);DealDamage(,Psychic)"
+// data "Boosts" "IF(HasDamageDoneForType(DamageType.Psychic)):DamageBonus(1d4, Poison)"
+data "Boosts" "IF(IsAttack() and HasDamageDoneForType(DamageType.Psychic)):DamageBonus(1d4, Poison)"
+
+// Creeping Dread
+new entry "PsyRiderPassive2b"
+type "PassiveData"
+using "PsyRiderPassive2b"
+// When you deal psychic damage to an enemy, they may gain &lt;LSTag Type="Status" Tooltip="MAG_PSYCHIC_MENTAL_FATIGUE"&gt;Poisoned&lt;/LSTag&gt; for 2 turns.
+// data "Description" "hcac96ea0g0345g68ffg413eg984a74c0b3aa;3"
+// When you deal [1] to an enemy with an &lt;LSTag Tooltip="AttackRoll"&gt;Attacks&lt;/LSTag&gt;, they must succed a &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or become &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt;.
+data "Description" "h805f7870g29c2g478dga6afgf66da2c04da3;1"
+// data "DescriptionParams" ""
+data "DescriptionParams" "DealDamage(,Psychic)"
+// data "Conditions" "not Item() and not Self() and not IsMiss() and HasDamageDoneForType(DamageType.Psychic)"
+data "Conditions" "not Item() and IsAttack() and HasDamageEffectFlag(DamageFlags.Hit) and HasDamageDoneForType(DamageType.Psychic)"
+
+// ==================================== Dark Urge Rebirth - Add missing DescriptionParams, increase Save DC, and add some sweat and blood splatter for flavour. ====================================
+
+new entry "Goon_WPN_Halberd_Cambion_Passive"
+type "PassiveData"
+data "DisplayName" "h9e12dfe9g3b00g45dcgb231gb565edf9449b"
+data "Description" "h0c94e075gf395g4a17gb4fbg75001c0d7a69"
+data "DescriptionParams" "DealDamage(4d8, Fire)"
+data "Boosts" "IF(Character() and Tagged('CAMBION')):WeaponDamage(4d8, Fire)"
+
+// ==================================== Ensnaring Strike missing from Damage Combos ====================================
+
+
+// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Act1NerfPassives.txt
+new entry "QUEST_CRA_IntDev_Weakened"
+type "PassiveData"
+using "QUEST_CRA_IntDev_Weakened"
+// Weakened
+data "DisplayName" "h2db07054gaba4g4ff7g9884gbabb81d61c76;1"
+// Its journey through hell has severely weakened this creature's defences.
+data "Description" "h779ea992g1853g4ba6ga215g25f805b0c078;2"
+data "Icon" "GenericIcon_Intent_Debuff"
+data "Boosts" "IncreaseMaxHP(-20%);ActionResource(Movement,-2,0);AC(-5);Resistance(Psychic,Vulnerable);Resistance(Fire,Vulnerable);IF(IsInSunlight(context.Target)):Disadvantage(AttackRoll);IF(IsInSunlight(context.Target)):Disadvantage(Skill,Perception);RollBonus(SavingThrow, -2);RollBonus(MeleeSpellAttack,-2);RollBonus(Attack,-2);RollBonus(Damage,-1);RollBonus(RangedSpellAttack, -2)"
+
+new entry "AJ_SHG"
+type "PassiveData"
+data "Boosts" "IncreaseMaxHP(-15%);ActionResource(Movement,-1,0);AC(-1);RollBonus(SavingThrow, -1);Resistance(Acid,Vulnerable);Resistance(Fire,Vulnerable);RollBonus(MeleeSpellAttack,-1);RollBonus(Attack,-1);RollBonus(Damage,-2);RollBonus(RangedSpellAttack,-1)"
+data "DisplayName" "h8f5faf91g4293g440fg99f1g86972a1b7455;1"
+data "Description" "hef222708ge492g452bgb6a4gbee0d49b1c1b;1"
+
+new entry "AJ_RGG"
+type "PassiveData"
+data "Boosts" "IncreaseMaxHP(-25%);AC(-3);RollBonus(SavingThrow,-1);RollBonus(MeleeSpellAttack,-1);RollBonus(Attack,-1);RollBonus(Damage,-2);RollBonus(RangedSpellAttack,-1)"
+data "DisplayName" "hc0b0a888g7404g4d7agb223g53e9e4ac8208;1"
+data "Description" "hd3544834g859dg4f66g8e43gb3c83d154011;1"
+
+new entry "AJ_RM"
+type "PassiveData"
+data "Boosts" "IncreaseMaxHP(-20%);AC(-2);RollBonus(SavingThrow,-2);RollBonus(MeleeSpellAttack,-2);RollBonus(Attack,-2);RollBonus(Damage,-2);RollBonus(RangedSpellAttack,-2);ActionResource(Movement,-2,0)"
+data "DisplayName" "h11d184b2geb74g4585ga68fg97adc7e260bd;1"
+data "Description" "hae45bd01gdde0g48f5g84fcg30ffeea71baf;1"
+
+new entry "AJ_BarbSize"
+type "PassiveData"
+data "Boosts" "ScaleMultiplier(1.10)"
+
+new entry "AJ_RogueSize"
+type "PassiveData"
+data "Boosts" "ScaleMultiplier(0.90)"
+
+
+// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Character.txt
+new entry "Ajax_ConqPres"
+type "PassiveData"
+data "Boosts" "UnlockSpell(Shout_LOW_GithyankiPaladin_ConqueringPresence)"
+
+new entry "Ajax_SCCR"
+type "PassiveData"
+data "Boosts" "UnlockSpell(Target_MF_AbsorbIntellect)"
+
+
+// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Passive.txt
+new entry "NPC_CbD"
+type "PassiveData"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "StatsFunctors" "TARGET:IF(Character() and Party() and not Ally() and not Dead() and not Summon() and not Tagged('SUMMON')):ApplyStatus(Ajax_CbD_Status,100,-1)"
+
+new entry "NPC_DamageReduction"
+type "PassiveData"
+data "DisplayName" "h5b4280056a754abe83ad50c05af217cfg861;1"
+data "Description" "hfef70fe222774b49b7eb7812b9c04e27cage;1"
+data "DescriptionParams" "ProficiencyBonus"
+data "Icon" "PassiveFeature_Durable"
+data "Properties" "Highlighted"
+data "Boosts" "DamageReduction(All, Flat, ProficiencyBonus)"
+
+/// burning fiercly
+
+new entry "NPC_BF"
+type "PassiveData"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnDamage"
+data "Conditions" "IsWeaponAttack()"
+data "StatsFunctors" "ApplyStatus(BURNING_AZER,100,3,,,,not SavingThrow(Ability.Constitution,16))"
+data "DisplayName" "h0c7599b1ga123g43aag905bg7a64ab8d006e;1"
+data "Description" "h088a2d86gda5eg4276gb189gfe6591be3636;1"
+data "Icon" "PassiveFeature_Generic_Explosion"
+
+// health regen
+
+
+// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/PassiveForABow.txt
+new entry "UnreliableRunes"
+type "PassiveData"
+data "DisplayName" "h0a45cebag6c15g4ed5ga194g9f456a9e3a88"
+data "Description" "h899c35b2g293fg4be0gb94cg444ee5604f6b"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "not IsMiss() and Enemy() and IsRangedAttack()"
+data "StatsFunctors" "ApplyStatus(RandomRunes, 100, 1d20);"
+
+
+// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Weapon.txt
+new entry "Ajax_Wisdomous_Pew_Pew"
+type "PassiveData"
+data "BoostConditions" "GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand) and ConditionResult(context.Source.Wisdom >= context.Source.Dexterity)"
+data "Boosts" "WeaponAttackRollAbilityOverride(Wisdom)"
+data "Properties" "IsHidden"
+
+new entry "Ajax_Intdomous_Pew_Pew"
+type "PassiveData"
+data "BoostConditions" "GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand) and ConditionResult(context.Source.Intelligence >= context.Source.Dexterity)"
+data "Boosts" "WeaponAttackRollAbilityOverride(Intelligence)"
+data "Properties" "IsHidden"
+

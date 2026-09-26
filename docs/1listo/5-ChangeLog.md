@@ -15,7 +15,23 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v10.4 CatDude Edition (WIP)
+## Listonomicon v10.4.1 CatDude Edition (WIP)
+
+More cleanup of the patch consolidation from 10.4. This is mostly about making the same changes easier to find and audit, not a promise that every conflicting stat entry is fixed.
+
+Save safe? Yes from 10.4 probably.
+
+1. Folded DeGreaser into ListoPatches and removed the separate DeGreaser folder/meta file. Its stat entries, localization, treasure tables, and 31 RootTemplate nodes were moved into ListoPatches.
+2. Reorganized the main ListoPatches Stats/Generated/Data folder by entry type: `LP_Armor`, `LP_Characters`, `LP_Interrupts`, `LP_Objects`, `LP_Passives`, `LP_Spells`, `LP_Statuses`, and `LP_Weapons`. That's 2,247 entries total: 2,046 that were already in ListoPatches and 201 from DeGreaser. Tons and tons and tons of 1-off/single use/hotfix files were eliminated so that CatDude55 can have a much easier time finding things to fix.
+3. Merged DeGreaser's localization with ListoPatches and fixed a bunch of duplicates, typos, and errors.
+4. Combined all of the ListoPatches treasuretables into one mega file so there aren't multiple entries for the same treasure table. Did you know Listo adds/moves loot to 161+ "unique" locations?
+5. Slightly decreased buffs to enemy static and scaling HP on the easy and default CX configs (-0.01). Slightly increased buffs to enemy static and scaling HP on the hard CX config (+0.005).
+6. Made further small tweaks to various enemies or enemy types. Updating vulnerabilities/immunities, giving a little more or less health, tagging Sarevok as ethereal, making sure the phase spider matriarch has consistent design with other spiders (like aversion to fire) so that the experience of fighting her children translates better to fighting her.
+7. Very small tweaks to the normal and hard CX. Removing damage retaliation from Raphael on normal, adding a buff that activates by being healed to the defenders of Lathander's mace.
+8. Normal CX: Removed "SpellSniper_Critical" and "PotentCantrip" from the generic Wizard lists and moved them to specific wizard types (Evocation, Necromancy, Divination). Gave Divination Wizard enemies "Alert" so they can act like they actually prepared, and Jack of All Trades in Act 2 to further boost their initiative and the rare NPC skill check roll. Removed a bunch of passives from Barbarians in Act 3. Act 3 Knowledge Clerics have Alert. Removed some of the larger healing related buffs out of the generic Cleric boosts, giving them just to Life Clerics. Act 3 War Clerics are better with their cantrips. Reduced spell lists a little further. Cleaned out old references to spells/abilities from mods no longer in Listo.
+9. Easy config: Removed 73 spells and passives, and downgraded the worst auto-summon abilities to much weaker summons (e.g. "2 death sphepherds, 2 ghouls, 2 shadows" now just summons a skeleton, ghoul, and zombie).
+
+## Listonomicon v10.4 CatDude Edition
 
 Skipping a lot of numbers internally due to testing/changes not reflected in changelog. Sorry.
 
