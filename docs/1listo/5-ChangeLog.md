@@ -15,6 +15,12 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v10.4.2 CatDude Edition (WIP)
+
+Save safe? Yes so far.
+
+1. Fixed Eldritch Blast (and derivatives) inheritance/self-reference and removed erroneous references to localization strings that don't exist. All EBs and their various modified/alternate forms accessed via different Invocations should work as advertised/expected now.
+
 ## Listonomicon v10.4.1 CatDude Edition
 
 More cleanup of the patch consolidation from 10.4. This is mostly about making the same changes easier to find and audit, not a promise that every conflicting stat entry is fixed.
