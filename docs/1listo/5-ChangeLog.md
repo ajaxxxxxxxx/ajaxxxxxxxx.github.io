@@ -20,6 +20,11 @@ description: Update info
 Save safe? Yes so far.
 
 1. Fixed Eldritch Blast (and derivatives) inheritance/self-reference and removed erroneous references to localization strings that don't exist. All EBs and their various modified/alternate forms accessed via different Invocations should work as advertised/expected now.
+2. Updated 15 mods, including one that should fix the tooltip/description for force conduit.
+3. Added Bigger Tiefling Party.
+4. Added Critical Hit Range / CHR Character Panel under the "Debug and Dev Tools" section (bottom of MO2).
+5. Added Subtle Dialogue Tweaks for Carrion.
+6. Initial pass on bringing Act 2 Expansion monsters/creatures in line with the rest of Listo / CX compatability.
 
 ## Listonomicon v10.4.1 CatDude Edition
 
