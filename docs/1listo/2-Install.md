@@ -68,9 +68,10 @@ BG3 should no longer receive Patches (major updates), but Hotfixes (small update
 ### 6.) Launching MO2
 
 - Your portable instance of Mod Organizer 2 should be ready as soon as Wabbajack is done. Look for ModOrganizer.exe in the folder where you installed Listonomicon. You can verify that everything is working by ensuring that MO2 has defaulted to the correct profile at the top-left, which should be Listonomicon.
-- **Listonomicon: Your total number of active mods should be 844, and the purple seperator at the top should say Listonomicon v8.0**
+- **Listonomicon: Your total number of active mods should be 760, and the purple seperator at the top should say Listonomicon v10.4.x**
 - **Listonomicon Lite: For Listo Lite, your total active mods should be 573, and the seperator should say Listo Lite v8.0**
 - At the top-right, you should be able to switch the program to launch the Vulkan or dx11 version of the game.
+- Just below the game version selection, there is a selection of tabs. If the game is not working for some reason, go to "BG3" -> Clear all paks metadata -> generate all paks metadata, and try launching again.
 - Hit "run" after selecting the EXE that works best for your system (but please try DX11 first). Always launch the game this way (don't use Steam).
 - You can verify Listo's mods are all loaded correctly if the main menu has a button for the Mod Configuration Menu. It's normal if it doesn't do anything after being clicked on - just see if it's there before hitting new game.
 
