@@ -15,9 +15,9 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v10.4.2 CatDude Edition (WIP)
+## Listonomicon v10.4.2 CatDude Edition
 
-Save safe? Yes so far.
+Save safe? Yes
 
 1. Fixed Eldritch Blast (and derivatives) inheritance/self-reference and removed erroneous references to localization strings that don't exist. All EBs and their various modified/alternate forms accessed via different Invocations should work as advertised/expected now.
 2. Updated 15 mods, including one that should fix the tooltip/description for force conduit.
