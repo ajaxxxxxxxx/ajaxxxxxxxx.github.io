@@ -778,11 +778,11 @@
 		"2": {
 			"ExtraPassives": ["TavernBrawler_Bonuses","TavernBrawler","ARP_KiPoint_1","JWL_Passive_KerzinsOoze","MAG_ChargingTiger_RestoreMovement_Passive","Goon_Target_Longstrider_Passive"],
 			"Spells": ["Target_Shove"]			
-	}
 	},
 		"3": {
 			"ExtraPassives": ["MAG_MonkCloak_NoCrit_Passive","BeguilingDefenses","SteelWill","MM_FearlessResolve_Passive","MAG_WisdomMomentum_Boots_Passive"],
 			"Spells": []			
+	  }
 	  }
 	},
 	{
@@ -795,11 +795,11 @@
 		"2": {
 			"ExtraPassives": ["MAG_Monk_StunningStrike_Reaction_Passive"],
 			"Spells": ["Target_FlurryOfBlows"]			
-	}
 	},
 		"3": {
 			"ExtraPassives": ["ARA_Cloak_ToUnarmedAttack_Passive","Mod_CriticalVsObjects_Passive"],
 			"Spells": ["Target_StunningStrike","Target_StunningStrike_Unarmed"]			
+	  }
 	  }
 	},
 	{
@@ -812,11 +812,11 @@
 		"2": {
 			"ExtraPassives": [],
 			"Spells": ["Target_WaterWhip","Projectile_FangsOfTheFireSnake","Zone_Thunderwave_Monk","Target_FistOfUnbrokenAir"]			
-	}
 	},
 		"3": {
 			"ExtraPassives": ["GG_Three_IncreasedElementalDamage_Passive","VV_LightningReflexes_Passive","Goon_Target_Magic_Weapon_Passive"],
 			"Spells": []			
+	  }
 	  }
 	},
 	  {
