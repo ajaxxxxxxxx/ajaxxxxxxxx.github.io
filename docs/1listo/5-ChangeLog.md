@@ -15,6 +15,13 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v10.4.3 CatDude Edition
+
+Save safe? Yes
+
+1. Further refinement of Act 2 Expansion CX-integration.
+2. Did you know that, apparently, Monks have been broken in CX this entire time and nobody noticed? ALLEGEDLY in Acts 2 and 3, Monks (and their subclasses) should actually receive their intended buffs/features. Which is crazy because that's when monks actually show up in the game.
+
 ## Listonomicon v10.4.2 CatDude Edition
 
 Save safe? Yes
