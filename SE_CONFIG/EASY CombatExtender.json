@@ -1307,18 +1307,6 @@
 		"Passives": ["Athlete_PassiveBonuses"],
 		"Spells": ["Projectile_StoneThrow_Ogre","Projectile_Jump","Shout_Dash_BonusAction","Shout_Dash"]
 	},
-	  "EO_ForgeLavaELemental_1_e536320d-5246-4175-90f8-abd6ce3a60c9": {
-		"Passives": ["ARP_SpellSlot_4_1"],
-		"Spells": ["Target_MistyStep_Myrmidon_Air","Target_ConjureElementals_Minor_Azer","Shout_CreateLava"]
-	},
-	  "EO_ForgeLavaELemental_2_770cc178-fb9e-49e9-b6e0-2881a79421f5": {
-		"Passives": ["ARP_SpellSlot_4_1"],
-		"Spells": ["Target_MistyStep_Myrmidon_Air","Target_ConjureElementals_Minor_Azer","Shout_CreateLava"]
-	},
-	  "EO_FireDjinni_a0698031-7ede-4d76-b8d4-83d5985ad1dc": {
-		"Passives": ["CAT_Autosummon_MyrmidonSwarm_Passive"],
-		"Spells": ["Target_ConjureElementals_Minor_Azer","Target_SappingSting"]
-	},
 	  "EO_Spectator_33b81965-7790-44dc-b51d-a02e17f77072": {
 		"Passives": ["CAT_MultiattackDefense_75_2","Tough","WildMagic"],
 		"Spells": ["AJ_Shout_ActionSurge_Emergency"]
