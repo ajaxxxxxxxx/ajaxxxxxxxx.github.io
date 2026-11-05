@@ -15,6 +15,27 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v10.5
+
+Save safe? --- Maybe? But XP changes are wonky and Valkrana's Undead Encounters needs to run a console command to reset encounters.
+
+1. Moved "Act 2.5" to core mod status. Seems like it works without major issues, so enjoy your (slightly) longer game.
+2. Arbitrarily reduced XP requirements at several points to make level 20 achievable without optional mods.
+3. Fixed Moon Oath paladin localization.
+4. Forcibly reverted some spell patches back to how they were in pre-consolidation of all path mods. Hopefully shadowblade, flameblade work as intended again.
+5. Fixed a longstanding issue with Monks in CX.
+6. Removed a bunch of stuff from CX to counterbalance enemies being enhanced by other mods.
+7. Removed the Djinn/Lava Elemental encounter in EO from CX (all CX profiles).
+8. Shillelagh should go away on long rest now and not create bricked items.
+9. Updated 48+ mods.
+10. Added Reciprocal Approval, Mazzle's Stolen Glances, and Mazzle's Everybody Blinks Naturally.
+11. Added Extended Boat Crew to 32 (the Underdark boat should just work now).
+12. Added Respec on Recruit.
+13. Added Auto Apply Companion Presets.
+14. Added (dev tool) Skip Act 1 Full Choices.
+15. Added Dragonborn Safety Net.
+16. Added Immersive Outfits.
+
 ## Listonomicon v10.4.3 CatDude Edition
 
 Save safe? Yes
