@@ -35,6 +35,7 @@ Save safe? --- Maybe? But XP changes are wonky and Valkrana's Undead Encounters 
 14. Added (dev tool) Skip Act 1 Full Choices.
 15. Added Dragonborn Safety Net.
 16. Added Immersive Outfits.
+17. Removed Lae'zel Died.
 
 ## Listonomicon v10.4.3 CatDude Edition
 
