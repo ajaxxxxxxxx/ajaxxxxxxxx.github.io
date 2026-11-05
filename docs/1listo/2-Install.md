@@ -68,8 +68,8 @@ BG3 should no longer receive Patches (major updates), but Hotfixes (small update
 ### 6.) Launching MO2
 
 - Your portable instance of Mod Organizer 2 should be ready as soon as Wabbajack is done. Look for ModOrganizer.exe in the folder where you installed Listonomicon. You can verify that everything is working by ensuring that MO2 has defaulted to the correct profile at the top-left, which should be Listonomicon.
-- **Listonomicon: Your total number of active mods should be 760, and the purple seperator at the top should say Listonomicon v10.4.x**
-- **Listonomicon Lite: For Listo Lite, your total active mods should be 573, and the seperator should say Listo Lite v8.0**
+- **Listonomicon: Your total number of active mods should be 771, and the purple seperator at the top should say Listonomicon v10.5.x**
+- **Listonomicon Lite: Not currently supported/updated**
 - At the top-right, you should be able to switch the program to launch the Vulkan or dx11 version of the game.
 - Just below the game version selection, there is a selection of tabs. If the game is not working for some reason, go to "BG3" -> Clear all paks metadata -> generate all paks metadata, and try launching again.
 - Hit "run" after selecting the EXE that works best for your system (but please try DX11 first). Always launch the game this way (don't use Steam).
@@ -130,14 +130,14 @@ There are several optional mods packaged with Listonomicon to enable even more f
 
 If Listo is too hard, and you'd actually have more fun if it was a little easier, you can make a few changes:
 1. In Custom Difficulty settings, reduce the trade price penalty to x3-x3.5. If you reduce it too much, buying prices become too low and the economy really falls apart. You can reduce the long rest camp supply cost to a lower number, whatever you want.
-2. Navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Easy CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, relaxed CX configuration. The alt file will still be more difficult than vanilla BG3 and include new, tweaked, and changed enemies - but the size of the tweaks is much less dramatic with lower health, AC, attack rolls, and saving throw DC for enemies across the board, bigger increases to allied characters, and many powerful buffs and abilities taken away from bosses.
+2. Navigate to [Listo Install Location]\mods\[CUST] Listonomicon Mod Settings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Easy CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, relaxed CX configuration. The alt file will still be more difficult than vanilla BG3 and include new, tweaked, and changed enemies - but the size of the tweaks is much less dramatic with lower health, AC, attack rolls, and saving throw DC for enemies across the board, bigger increases to allied characters, and many powerful buffs and abilities taken away from bosses.
 3. Enable any of the OPTIONAL mods in with the "-" tag.
-4. Go to Listonomicon\mods\zzz_ListonomiconModSettings\SE_CONFIG\Attunement and replace "conmfig.json" with "relaxed config.json" (delete the first, rename the latter as config.json). This will slightly increase the number of magic items you can equip, enabling more powerful builds or at least easier combo crafting.
+4. Go to Listonomicon\mods\[CUST] Listonomicon Mod Settings\SE_CONFIG\Attunement and replace "conmfig.json" with "relaxed config.json" (delete the first, rename the latter as config.json). This will slightly increase the number of magic items you can equip, enabling more powerful builds or at least easier combo crafting.
 
 If Listo is not hard enough,
 1. Enable Absolute Wrath (search "OPTIONAL_Absolute Wrath" or look in the optional tweaks section of MO2).
 2. If that still isn't hard enough, begin enabling other + mods.
-3. If still that isn't hard enough, navigate to [Listo Install Location]\mods\zzz_ListonomiconModSettings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Hard CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, unrelaxed CX configuration. The alt file has more enemy health, more enemy buffs, and more cruel combinations of spells and abilities and features, with intentional enemy nerfs from the normal config removed.
+3. If still that isn't hard enough, navigate to [Listo Install Location]\mods\[CUST] Listonomicon Mod Settings\SE_CONFIG. Rename CombatExtender.json to something else (like CombatExtender.json.backup) and rename Hard CombatExtender.json to CombatExtender.json. This will cause the game to load an alternate, unrelaxed CX configuration. The alt file has more enemy health, more enemy buffs, and more cruel combinations of spells and abilities and features, with intentional enemy nerfs from the normal config removed.
 4. Enable optional mods that add new encounters.
 
 ### 13.) Multiplayer
