@@ -1,8 +1,8 @@
 // Consolidated Weapon entries from ListoPatches and DeGreaser.
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/CahootGear.txt
 // ========================== Moonlight Glaive ==========================
 // Radiant damage increased to 1d6
+
 new entry "MAG_Moonlight_Glaive"
 type "Weapon"
 using "MAG_Moonlight_Glaive"
@@ -15,6 +15,7 @@ data "ValueUUID" "71191c11-966f-4c19-b4ee-eb36d31c4944"
 
 // ========================== The Dancing Breeze ==========================
 // Whirlwind Attack: cooldown decreased to per combat
+
 new entry "MAG_Giantslayer_Greatsword"
 type "Weapon"
 using "MAG_Giantslayer_Greatsword"
@@ -31,6 +32,7 @@ data "Damage" "4d4"
 
 // ========================== Harmonium Halberd ==========================
 // Strength increase increased to 3
+
 new entry "MAG_BG_Harmonium_Halberd"
 type "Weapon"
 using "MAG_BG_Harmonium_Halberd"
@@ -43,6 +45,7 @@ data "Boosts" "Ability(Strength, 4, 23);Ability(Intelligence, -2);Ability(Wisdom
 
 // ========================== Larethian's Wrath ==========================
 // Razor Gale: cooldown decreased to per combat
+
 new entry "MAG_OB_Paladin_DeathKnight_Longsword"
 type "Weapon"
 using "MAG_OB_Paladin_DeathKnight_Longsword"
@@ -54,12 +57,14 @@ data "Rarity" "VeryRare"
 data "PassivesOnEquip" "MAG_DazingSmite_Passive;CHT_BlackguardSword_Kill_Passive"
 
 // Dazing Smite: increased save DC from flat 13 to weapon manoeuvre, and fix it requiring to deal damage instead of just on a hit like description says
+
 new entry "MAG_Fire_FireDamage_Quarterstaff"
 type "Weapon"
 using "MAG_Fire_FireDamage_Quarterstaff"
 // data "Boosts" "UnlockSpell(Projectile_MAG_FireBolt_Staff)"
 data "Boosts" "UnlockSpell(Projectile_MAG_FireBolt_Staff);UnlockSpell(CHT_MAG_Smite_Searing)"
 data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
+
 new entry "MAG_Harpers_OfWeapons_Quarterstaff"
 type "Weapon"
 using "MAG_Harpers_OfWeapons_Quarterstaff"
@@ -67,6 +72,7 @@ using "MAG_Harpers_OfWeapons_Quarterstaff"
 data "PassivesOnEquip" "CHT_SpellAttackRoll_1_Passive"
 
 // Custom passive because the only passive in vanilla with +1 to spell attack rolls doesn't have a fitting name
+
 new entry "MAG_LC_Counterspell_Quarterstaff"
 type "Weapon"
 using "MAG_LC_Counterspell_Quarterstaff"
@@ -76,6 +82,7 @@ data "PassivesOnEquip" "MAG_LC_Counterspell_Quarterstaff_Resource_Passive;MAG_Sp
 // ========================== Despair of Athkatla ==========================
 // Increase rarity to Very Rare
 // New passive: inflicting a condition on an enemy applies 2 turns of Reverberation. Dealing spell damage to a target with Reverberation causes them to be Dazed for 2 turns if they fail a CON save
+
 new entry "MAG_LC_Lorroakan_Quarterstaff"
 type "Weapon"
 using "MAG_LC_Lorroakan_Quarterstaff"
@@ -85,6 +92,7 @@ data "Rarity" "VeryRare"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 // data "PassivesOnEquip" "MAG_ArcaneEnchantment_Lesser_Passive"
 data "PassivesOnEquip" "MAG_ArcaneEnchantment_Lesser_Passive;CHT_MAG_LC_Lorroakan_Quarterstaff_Reverb_Passive;CHT_MAG_LC_Lorroakan_Quarterstaff_Dazed_Passive"
+
 new entry "MAG_LC_Wave_Trident"
 type "Weapon"
 using "MAG_LC_Wave_Trident"
@@ -94,6 +102,7 @@ data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical)"
 data "Boosts" "UnlockSpell(CHT_HiemalStrike_Upgraded)"
 
 // Add upgraded version of Hiemal Strike from Water Myrmidons that uses weapon save DC + 1 instead of flat 13 and deals 2d6 instead of 1d10 Cold damage
+
 new entry "MAG_Tyrrant_Warhammer"
 type "Weapon"
 using "MAG_Tyrrant_Warhammer"
@@ -108,6 +117,7 @@ data "DefaultBoosts" "WeaponEnchantment(2);WeaponProperty(Magical);WeaponDamage(
 
 // ========================== Ambusher ==========================
 // Increase rarity to Very Rare, enchantment to +2
+
 new entry "MAG_Ambusher_Shortsword"
 type "Weapon"
 using "MAG_Ambusher_Shortsword"
@@ -119,6 +129,7 @@ data "Rarity" "VeryRare"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 
 // Sentinel Weapon: increase initiative bonus to +2
+
 new entry "MAG_Cleric_Devotees_Mace"
 type "Weapon"
 using "MAG_Cleric_Devotees_Mace"
@@ -127,7 +138,6 @@ data "PassivesOnEquip" "MAG_SpellSaveDC_Enchantment_Passive"
 
 // Healing Incense: cooldown decreased to per combat
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/GraphicFade_Patches.txt
 new entry "DruidEquipmentAct3_Staff_of_the_Ancient_Guardian"
 type "Weapon"
 using "WPN_Quarterstaff_1"
@@ -135,6 +145,7 @@ using "DruidEquipmentAct3_Staff_of_the_Ancient_Guardian"
 data "PassivesOnEquip" "MAG_SpellSaveDC_Enchantment_Passive"
 
 // ==================== Preventing damage rider sources ====================
+
 new entry "MonkEquipmentAct3_Steady_Striker"
 type "Weapon"
 using "MonkEquipmentAct3_Steady_Striker"
@@ -143,7 +154,6 @@ data "ValueScale" "2"
 // Vestment of the Ascended Fist: change Unarmoured Defence passive to only give +1 extra AC (previously +3). Compare the original version of this armour with Vest of Soul Rejuvenation (vanilla endgame Monk armour) and this one was so much better in every way
 // Replaced previous passive with the same passive as Shattered Sun Vest, the other legendary cloth armour in this mod.
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Objects.txt
 //Artificer weapons
 
 new entry "WPN_Artillerist_Pistol_Firearm"
@@ -384,7 +394,6 @@ data "Boosts" "Initiative(3);Advantage(Skill,Perception)"
 data "PassivesOnEquip" "CSS_HelmArmor_Pass_DivineVigilance;CSS_HelmArmor_Pass_Weavebane"
 
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/SoJNerf.txt
 new entry "UNI_PLA_WPN_SwordOfJustice"
 type "Weapon"
 using "WPN_Greatsword_1"
@@ -421,7 +430,6 @@ data "PassivesOnEquip" "MAG_IgnoreSlashingResistance_Passive;MAG_Tyr_Protection_
 data "BoostsOnEquipMainHand" "UnlockSpell(Target_PommelStrike);UnlockSpell(Target_Slash_New);UnlockSpell(Zone_Cleave);"
 data "Unique" "1"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/SussurWeapons.txt
 //intentionally a hard override//
 
 new entry "FOR_IncompleteMasterwork_SussurDagger"
@@ -457,7 +465,6 @@ data "Unique" "1"
 data "DefaultBoosts" "WeaponProperty(Magical);WeaponEnchantment(2);WeaponDamage(1d4,Force)"
 data "BoostsOnEquipMainHand" "SpellSaveDC(-1);RollBonus(MeleeSpellAttack,-1);RollBonus(RangedSpellAttack,-1);RollBonus(SavingThrow,1);IF(InMeleeRange() and IsSpell()):Advantage(AllSavingThrows)"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/stolenDIQMiscPatches.txt
 new entry "MAG_Fire_AlwaysDippedInFire_Greatsword"
 type "Weapon"
 using "MAG_Fire_AlwaysDippedInFire_Greatsword"
@@ -472,7 +479,6 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "Goon_WPN_Halberd_Cambion_Passive"
 
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/PassiveForABow.txt
 new entry "DeGreaser_Adamantine_String_Bow"
 type "Weapon"
 using "WPN_Longbow_1"
@@ -488,7 +494,6 @@ data "BoostsOnEquipMainHand" "UnlockSpell(Projectile_HamstringShot);UnlockSpell(
 data "Unique" "1"
 data PassivesOnEquip "UnreliableRunes"
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Weapon.txt
 new entry "DeGreaser_Moghadam"
 type "Weapon"
 using "WPN_Greatsword_1"
