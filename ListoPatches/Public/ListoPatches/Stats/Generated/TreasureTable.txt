@@ -1227,3 +1227,78 @@ object category "I_WPN_Artillerist_Pistol_Firearm",34,0,0,0,0,0,0,0
 object category "I_WPN_Artificer_Rifle",34,0,0,0,0,0,0,0
 object category "I_WPN_Artillerist_Pistol_Firearm_1",16,0,0,0,0,0,0,0
 object category "I_WPN_Artificer_Rifle_1",16,0,0,0,0,0,0,0
+
+// AJ randomized general loot: one of seven equally weighted categories per invocation.
+
+new treasuretable "AJ_Random_Loot"
+new subtable "1,1"
+object category "T_AJ_Loot_Arrows",1,0,0,0,0,0,0,0
+object category "T_AJ_Loot_Scrolls",1,0,0,0,0,0,0,0
+object category "T_AJ_Loot_Potions",1,0,0,0,0,0,0,0
+object category "T_AJ_Loot_Barrels",1,0,0,0,0,0,0,0
+object category "T_AJ_Loot_Explosives",1,0,0,0,0,0,0,0
+object category "T_AJ_Loot_Gems",1,0,0,0,0,0,0,0
+object category "T_AJ_Loot_Gold",1,0,0,0,0,0,0,0
+
+new treasuretable "AJ_Loot_Arrows"
+new subtable "1,1"
+object category "T_AJ_Loot_Arrows_Elemental",2,0,0,0,0,0,0,0
+object category "T_AJ_Loot_Arrows_Special",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_A",1,0,0,0,0,0,0,0
+
+new treasuretable "AJ_Loot_Arrows_Elemental"
+new subtable "2,1"
+object category "T_ST_SpecialArrow_Common",1,0,0,0,0,0,0,0
+
+new treasuretable "AJ_Loot_Arrows_Special"
+new subtable "1,1"
+object category "T_ST_SpecialArrow_Uncommon",1,0,0,0,0,0,0,0
+object category "T_ST_SpecialArrow_Rare",1,0,0,0,0,0,0,0
+
+new treasuretable "AJ_Loot_Scrolls"
+new subtable "1,1"
+object category "T_AJ_Loot_Scrolls_2",4,0,0,0,0,0,0,0
+object category "MagicScroll_3",2,0,0,0,0,0,0,0
+object category "MagicScroll_4",1,0,0,0,0,0,0,0
+
+new treasuretable "AJ_Loot_Scrolls_2"
+new subtable "2,1"
+object category "MagicScroll_2",1,0,0,0,0,0,0,0
+
+new treasuretable "AJ_Loot_Potions"
+new subtable "1,1"
+object category "I_OBJ_Potion_Of_Heroism",4,0,0,0,0,0,0,0
+object category "I_OBJ_BasicPoison",4,0,0,0,0,0,0,0
+object category "I_ALCH_Solution_Oil_AttackBuff",4,0,0,0,0,0,0,0
+object category "T_AJ_Loot_Healing_Minor",2,0,0,0,0,0,0,0
+object category "I_OBJ_Potion_Healing_Greater",1,0,0,0,0,0,0,0
+
+new treasuretable "AJ_Loot_Healing_Minor"
+new subtable "2,1"
+object category "I_OBJ_Potion_Healing",1,0,0,0,0,0,0,0
+
+new treasuretable "AJ_Loot_Barrels"
+new subtable "1,1"
+object category "I_OBJ_Barrel_Filled_Alcohol",4,0,0,0,0,0,0,0
+object category "I_OBJ_Barrel_Filled_Smokepowder",2,0,0,0,0,0,0,0
+// Intended weight-1 third barrel outcome: Box of Fireworks (UID CONT_GEN_Box_Fireworks_A).
+// No verified Stats ID for that root-template-only container; do NOT add an unverified I_ reference.
+// Until resolved, firewine/smokepowder are weighted 2:1 within the barrel category.
+
+new treasuretable "AJ_Loot_Explosives"
+new subtable "1,1"
+object category "T_AJ_Loot_Alchemists_Fire",2,0,0,0,0,0,0,0
+object category "I_OBJ_Bag_BlackPowder",1,0,0,0,0,0,0,0
+
+new treasuretable "AJ_Loot_Alchemists_Fire"
+new subtable "2,1"
+object category "I_OBJ_FireBottle",1,0,0,0,0,0,0,0
+
+new treasuretable "AJ_Loot_Gems"
+new subtable "1,1"
+object category "PreciousGem",2,0,0,0,0,0,0,0
+object category "PreciousGem_2",1,0,0,0,0,0,0,0
+
+new treasuretable "AJ_Loot_Gold"
+new subtable "50,4;100,2;200,1"
+object category "Gold",1,0,0,0,0,0,0,0
