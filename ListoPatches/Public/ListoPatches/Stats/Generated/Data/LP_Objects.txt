@@ -1,6 +1,3 @@
-// Consolidated Object entries from ListoPatches and DeGreaser.
-
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Foods.txt
 new entry "CONS_FOOD_BluecapMushroom"
 type "Object"
 using "CONS_FOOD_BluecapMushroom"
@@ -890,7 +887,7 @@ data "Priority" "1"
 data "MinLevel" "1"
 data "SupplyValue" "5"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Objects.txt
+
 new entry "UNI_Poison_Brewer"
 type "Object"
 using "_Poison"
@@ -1064,12 +1061,6 @@ using "_MagicScroll"
 data "UseCosts" "BonusActionPoint:1"
 
 
-// Family: obj_wall_of_stone
-new entry "OBJ_Wall_Of_Stone"
-type "Object"
-using "OBJ_Wall_Of_Stone"
-data "Vitality" "20"
-
 // Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/fireworksnerf.txt
 new entry "OBJ_Fireworks_Rocket_A"
 type "Object"
@@ -1086,7 +1077,6 @@ type "Object"
 using "OBJ_Fireworks_Rocket_C"
 data "ObjectCategory" "ArrowUncommon"
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Character.txt
 new entry "OBJ_LOW_HoH_Pillar"
 type "Object"
 using "OBJ_LOW_HoH_Pillar"
@@ -1102,18 +1092,6 @@ data "NecroticResistance" "Immune"
 data "RadiantResistance" "Vulnerable"
 data "ForceResistance" "None"
 data "ThunderResistance" "Resistant"
-
-// ==================================== Make Sahuagin Great Again ====================================
-// "_Base"
-//  ├─ "_Humanoid"
-//  │   ├─ "Sahuagin"
-//  │   │   ├─ "LOW_IronThrone_Sahuagin"        --- Unused
-//  │   │   ├─ "Sahuagin_Champion"
-//  │   │   │   └─ "END_SahuaginAlly_Champion"
-//  │   │   ├─ "Sahuagin_Melee"
-//  │   │   ├─ "Sahuagin_Ranged"
-//  │   │   │   └─ "END_SahuaginAlly_Ranged"
-//  │   │   └─ "Sahuagin_Warlock"               --- Unused
 
 new entry "HAV_ShadowPortal"
 type "Object"
