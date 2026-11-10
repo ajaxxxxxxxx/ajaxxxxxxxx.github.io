@@ -876,6 +876,8 @@ new subtable "-1"
 object category "I_WPN_Dagger_GluttonousPrince_A",1,0,0,0,0,0,0,0
 object category "I_MAG_Minthara_Cloak",1,0,0,0,0,0,0,0
 object category "I_DeGreaser_Devilstring_Bow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Loot_Explosives",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
 CanMerge 1
@@ -887,6 +889,9 @@ CanMerge 1
 new subtable "-1"
 object category "I_MOD_WPN_Mabs_Dagger_1",1,0,0,0,0,0,0,0
 object category "I_WPN_Shortsword_GoblinSlayer",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_A",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_B",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_C",1,0,0,0,0,0,0,0
 
 new treasuretable "FED_GobCamp_BigTreasure"
 CanMerge 1
@@ -1001,6 +1006,10 @@ new treasuretable "FED_Blurg"
 CanMerge 1
 new subtable "1,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_OBJ_Fireworks_Rocket_A",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_B",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_C",1,0,0,0,0,0,0,0
 
 new treasuretable "FED_ArcaneTower_GildChest"
 CanMerge 1
@@ -1088,6 +1097,9 @@ new treasuretable "GOB_Festivities_Trader"
 CanMerge 1
 new subtable "-1"
 object category "I_UNI_MartyrAmulet",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_A",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_B",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_C",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_Circus_KoboldMerchant_Magic"
 CanMerge 1
@@ -1273,6 +1285,10 @@ object category "I_WPN_Artillerist_Pistol_Firearm",34,0,0,0,0,0,0,0
 object category "I_WPN_Artificer_Rifle",34,0,0,0,0,0,0,0
 object category "I_WPN_Artillerist_Pistol_Firearm_1",16,0,0,0,0,0,0,0
 object category "I_WPN_Artificer_Rifle_1",16,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Fireworks_Rocket_A",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_B",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_C",1,0,0,0,0,0,0,0
 
 // AJ randomized general loot: one of seven equally weighted categories per invocation.
 
@@ -1291,6 +1307,8 @@ new subtable "1,1"
 object category "T_AJ_Loot_Arrows_Elemental",2,0,0,0,0,0,0,0
 object category "T_AJ_Loot_Arrows_Special",1,0,0,0,0,0,0,0
 object category "I_OBJ_Fireworks_Rocket_A",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_B",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_C",1,0,0,0,0,0,0,0
 
 new treasuretable "AJ_Loot_Arrows_Elemental"
 new subtable "2,1"
@@ -1327,14 +1345,14 @@ new treasuretable "AJ_Loot_Barrels"
 new subtable "1,1"
 object category "I_OBJ_Barrel_Filled_Alcohol",4,0,0,0,0,0,0,0
 object category "I_OBJ_Barrel_Filled_Smokepowder",2,0,0,0,0,0,0,0
-// Intended weight-1 third barrel outcome: Box of Fireworks (UID CONT_GEN_Box_Fireworks_A).
-// No verified Stats ID for that root-template-only container; do NOT add an unverified I_ reference.
-// Until resolved, firewine/smokepowder are weighted 2:1 within the barrel category.
 
 new treasuretable "AJ_Loot_Explosives"
 new subtable "1,1"
 object category "T_AJ_Loot_Alchemists_Fire",2,0,0,0,0,0,0,0
 object category "I_OBJ_Bag_BlackPowder",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_A",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_B",1,0,0,0,0,0,0,0
+object category "I_OBJ_Fireworks_Rocket_C",1,0,0,0,0,0,0,0
 
 new treasuretable "AJ_Loot_Alchemists_Fire"
 new subtable "2,1"
