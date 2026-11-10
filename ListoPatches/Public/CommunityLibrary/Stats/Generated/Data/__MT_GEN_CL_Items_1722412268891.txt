@@ -15,7 +15,7 @@ data "RootTemplate" "7a8572be-fade-4971-af0d-22f9061ea0da"
 data "ValueUUID" "a229f048-70b0-4b0c-88cb-29b5c6bdb2d0"
 data "Rarity" "Rare"
 data "PassivesOnEquip" "UNI_DarkUrge_Stealth_Expertise_Passive"
-data "Unique" "0"
+data "Unique" "1"
 
 // === CL_DK_StarterHelmet.txt ===
 new entry "CL_DK_StarterHelmet"
