@@ -19,10 +19,15 @@ description: Update info
 
 Save safe? Yes - unless you have sold dyes to traders. Otherwise junk what you have, remove dye on any gear before updating.
 
-1. REMOVED Style'n'Dye, Goth Dyes, and Dyes of Thay.
+1. REMOVED Style'n'Dye, Goth Dyes 1 and 2, and Dyes of Thay.
 2. ADDED Izzli's Altered Dyes.
-3. Distributed dyes randomly throughout treasure tables to restore the "find and accessorize" experience for players who do not want to use Armoury to set all of their cosmetics at the start of the game.
+3. Distributed dyes randomly throughout treasure tables to restore the "find and accessorize as you go" experience for players who do not want to use Armoury to set all of their cosmetics at the start of the game (like me).
 4. Other fixes/changes to Listo treasure tables.
+   * Community Library generic weapons (e.g. Moist Spear, Caustic Dagger, Cauterizing Short Sword) are now organized into a table that gets rolled randomly. Everywhere that used to have a CL weapon now makes a random roll, and vendors will get a few random choices every time their inventory resets. These are generally inferior/uninteresting weapons, but they do not require attunement and (especially early game) help fill in slots here-and-there.
+   * Generic Artificer pistols, rifles, and their +1 variants are similarly randomized instead of fixed.
+   * Old references to mods that are no longer in Listo (like Spurious Upgrades) didn't do any harm by being in tables, but they are cleared out and/or replaced by further random minor loot rolls.
+   * Some tables that were never configured correctly have been fixed now that I know the difference between using "-1" and "1,1" to define table contents... This _may_ be responsible for upgrade materials and quest items failing to appear throughout the history of Listo updates, not that it matters now that those mods are removed anyway.
+   * Some other minor randomization has been created to inject more instances of magic arrows, low level scrolls, potions, barrels, or gems into various locations.
 
 ## Listonomicon v10.5
 
