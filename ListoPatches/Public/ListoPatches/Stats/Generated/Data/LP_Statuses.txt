@@ -1,6 +1,5 @@
 // Consolidated StatusData entries from ListoPatches and DeGreaser.
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/AWStatus_BOOST.txt
 new entry "MOD_RESILIENCE_WEAVE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -23,10 +22,10 @@ data "StackType" "Overwrite"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 data "OnApplyFunctors" "IF(MaximumLowStackableStatus(context.Target, 'MOD_RESILIENCE_WEAVE')):SetStatusDuration(MOD_RESILIENCE_WEAVE, 5, ForceSet)"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Assistance tooltips.txt
 // ==================================== Use Highest Modifier in Dialogue and Use Best Sleight of Hand tooltip fixes to avoid conflict with 5E Dodge Action ====================================
 
 // Use Best Sleight of Hand
+
 new entry "SLEIGHTOFHAND_BUFF_MINT"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -35,6 +34,7 @@ data "DisplayName" "h8065a5acg6c5fg4d5dga066g40c0411924a3"
 data "Description" "h704e8f78gd53fg4f66g8296gc127ab992969"
 
 // Use Highest Modifier in Dialogue
+
 new entry "ATHLETICS_BUFF"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -161,7 +161,6 @@ using "PERSUASION_BUFF"
 data "DisplayName" "h8065a5acg6c5fg4d5dga066g40c0411924a3"
 data "Description" "h704e8f78gd53fg4f66g8296gc127ab992969"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/BlackedOutFix.txt
 new entry "TWN_DISTILLERY_DRUNK_01"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -180,7 +179,6 @@ data "StatusType" "KNOCKED_DOWN"
 using "TWN_DISTILLERY_DRUNK_03"
 data "StatusGroups" "SG_Condition"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/CD55 Fixes.txt
 new entry "XGATT_VECNA_MAG_ALACRITY_1_BOOST"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -190,7 +188,6 @@ data "Boosts" "UnlockSpellVariant(IsCantrip(),ModifyUseCosts(Replace,BonusAction
 data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;DisablePortraitIndicator"
 
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/CEchoFix.txt
 new entry "RESISTANCE_ACID_ECHO"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -233,7 +230,6 @@ data "StatusType" "BOOST"
 using "RESISTANCE_RADIANT"
 data "StackId" ""
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/CahootGear.txt
 new entry "MAG_MELEE_CASTER_BOON"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -246,6 +242,7 @@ data "Description" "h4f9480b1gfa10g405dgad9eg611bd8bafda8;1"
 
 // ========================== Trident of the Waves ==========================
 // Increase enchantment to +2
+
 new entry "MAG_DRUNKARD_RAGE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -254,16 +251,19 @@ using "MAG_DRUNKARD_RAGE"
 data "DescriptionParams" "DealDamage(1d6,Thunder);Distance(3)"
 
 // (Honour Mode version)
+
 new entry "MAG_UNDEAD_SLAYER_BLESS"
 type "StatusData"
 data "StatusType" "BOOST"
 using "MAG_UNDEAD_SLAYER_BLESS"
 // data "Boosts" "IF(Tagged('UNDEAD', context.Target)):WeaponAttackRollBonus(1d4);IF(Tagged('UNDEAD', context.Target)):WeaponDamage(1d4, Piercing)"
 data "Boosts" ""
+
 new entry "GOON_GLOVESOFBATTLEMAGESPOWER_ARMOUR_TECHNICAL"
 type "StatusData"
 data "StatusType" "BOOST"
 data "StatusPropertyFlags" "DisablePortraitIndicator;DisableOverhead;DisableCombatlog;IgnoreResting"
+
 new entry "CHT_MAG_TEMPORARY_HP_12"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -276,6 +276,7 @@ data "Boosts" "TemporaryHP(12)"
 
 // ========================== Boots of Apparent Death ==========================
 // Gives +1 to CON saving throws
+
 new entry "CHT_ARABELLA_DANCE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -292,7 +293,6 @@ data "RemoveEvents" "OnTurn;OnDamage"
 // ========================== Glowing Shield ==========================
 // Loving Protection: increase temporary hp to 12
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Discordant Instruments.txt
 new entry "JWL_Status_BannerMourningsteelAura"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -406,7 +406,6 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;ApplyToDead;IgnoreR
 // data "Boosts" "RollBonus(MeleeWeaponAttack,2);RollBonus(RangedWeaponAttack,2);RollBonus(RangedOffHandWeaponAttack, 2)"
 data "Boosts" "RollBonus(MeleeWeaponAttack,2);RollBonus(MeleeOffHandWeaponAttack,2);RollBonus(RangedWeaponAttack,2);RollBonus(RangedOffHandWeaponAttack, 2)"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/ExVulnStatus.txt
 new entry "RAY_OF_ENFEEBLEMENT"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -511,7 +510,6 @@ data "StatusType" "BOOST"
 using "CRIPPLED"
 data "Boosts" "ActionResourceMultiplier(Movement,0,0);ActionResourceBlock(Movement);Disadvantage(SavingThrow,Dexterity);Resistance(Acid, Vulnerable)"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/FixLathanderBlessing.txt
 new entry "CRE_MAG_LATHANDER_PUZZLE_BOON"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -526,7 +524,6 @@ data "Boosts" "IF(not Tagged('UNDEAD')):CharacterWeaponDamage(1d4,Radiant)"
 data "RemoveEvents" "OnStatusApplied"
 data "RemoveConditions" "HasStatus('LONG_REST')"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/FrostDCStatus_BOOST.txt
 new entry "MAG_FROST_FROZEN_CHECK_TECHNICAL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -545,7 +542,6 @@ data "OnApplySuccess" "ApplyStatus(FROZEN, 100, 2)"
 data "OnApplyFail" "DealDamage(1d4, Cold,Magical)"
 data "StatusEffect" ""
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/GraphicFade_Patches.txt
 new entry "CC_SORCEROUS_WAGER_TWO"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -603,6 +599,7 @@ data "DescriptionParams" "5"
 data "Boosts" "RollBonus(MeleeSpellAttack,5);RollBonus(RangedSpellAttack, 5);SpellSaveDC(5)"
 
 // Hat of Font Surge: Font Surge now only recovers Sorcery Points equal to half your Sorcerer level, rounded up (previously equal to Sorcerer level)
+
 new entry "CC_FORGOTTEN_POWER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -611,6 +608,7 @@ data "OnApplyFunctors" "IF(RollDieAgainstDC(DiceType.d100,80)):RestoreResource(S
 
 // Amulet of the Infinite Wellspring: fix Endless Well not having a once per turn cooldown and add 1d8 Force self-damage each time you use it
 // Add OncePerTurn to the Proprties of CC_EndlessWell_Passive. It doesn't actually work, but adding it so it shows on the tooltip
+
 new entry "CHT_CC_SORCERER_ENDLESSWELL_TRACKER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -627,6 +625,7 @@ data "StackId" "CHT_CC_SORCERER_ENDLESSWELL_USED"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead"
 
 // ==================== Preventing damage rider sources ====================
+
 new entry "MAG_DIVINE_FORTUNE_CAST"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -635,6 +634,7 @@ data "Description" "haf00e860g5b00g4c6cg8b35g35db19326e8f;1"
 data "Boosts" "UnlockSpellVariant(CHT_DivineFortuneCheck(),ModifyIconGlow(),ModifyTooltipDescription(),ModifyUseCosts(Replace,SpellSlot,0,-1,SpellSlot),ModifyUseCosts(Replace,ChannelDivinity,0,0,ChannelDivinity),ModifyUseCosts(Replace,SpellSlotsGroup,0,-1,SpellSlotsGroup))"
 
 // Pendant of Divine Duality: increase cost by 1.6x to 200 gold base price (previously 125 gold base price), make Branding Smite not cost a spell slot and also not be concentration (in line with Syrchalis spell rebalance), and increase Cure Wounds heal to 4d6 to be in line with personal healing spell buffs
+
 new entry "AURA_OF_STAR"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -656,6 +656,7 @@ data "Boosts" "IF(IsMeleeAttack()):CharacterWeaponDamage(max(1, Cause.WisdomModi
 
 // Feywild Ring: fix for not being able to be Helped when downed with ring equipped
 // Not a change to the ring's entry itself, but instead using a Khonsu script and modifying Target_Help
+
 new entry "MM_SUNDERED"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -666,6 +667,7 @@ data "DescriptionParams" "4"
 data "Boosts" "AC(-4)"
 
 // Amulet of the Deathless: decrease temporary hp from Defiance of Death to 50 (previously 100)
+
 new entry "MM_DEATH_DEFYING"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -680,6 +682,7 @@ data "DescriptionParams" "1;GainTemporaryHitPoints(50)"
 data "Boosts" "TemporaryHP(50)"
 
 // Downed status missing the DescriptionParams
+
 new entry "MM_DEATH_DEFYING_DOWNED"
 type "StatusData"
 data "StatusType" "DOWNED"
@@ -688,6 +691,7 @@ data "DescriptionParams" "1;GainTemporaryHitPoints(50)"
 
 
 // ==================== Preventing damage rider sources ====================
+
 new entry "MM_FURY_FLURRY_CHECK"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -709,6 +713,7 @@ data "DescriptionParams" "Distance(9);3"
 data "Boosts" "RollBonus(SavingThrow, 3);RollBonus(DeathSavingThrow, 3)"
 
 // Breastplate of the Radiant Defender: decrease attack roll penalty aura range of Sun's Descent to 3m (previously 9m)
+
 new entry "OO_SUN_RADIANCE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -717,6 +722,7 @@ data "DescriptionParams" "Distance(3);2"
 data "AuraRadius" "3"
 
 // Holy Symbol of Everlight: now gives attack roll bonus of +1 and reduces crit threshold by 1 for yourself and allies within aura (previously caused yourself and allies to regain max hp when healed and have advantage on death saving throws)
+
 new entry "OO_EVERLIGHT_AURA"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -736,6 +742,7 @@ data "Boosts" "ReduceCriticalAttackThreshold(1);RollBonus(Attack,1)"
 
 // Chalice of Divine Wrath: decrease bonus damage from Radiant Burst to 1d6 (previously 2d4)
 // For reference, Caustic Band (which is already an endgame-level ring in vanilla) gives +2 Acid damage on weapon attacks. This change gives the ring an average of +3.5 Radiant damage (much better damage type) with weapon attacks against enemies with Radiating Orb (super easy with a RadOrb cleric), plus the ring has the Radiant Surge ability
+
 new entry "OO_JUDGEMENT_BLOW"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -752,6 +759,7 @@ data "OnApplyFunctors" "DealDamage(1d10, Radiant, Magical)"
 data "OnApplyRoll" "not SavingThrow(Ability.Constitution, SpellSaveDC())"
 
 // Cloak of Sacred Power: increase Sacred Sustenance's chance of not expending a Channel Oath charge to 50% (previously 30%)
+
 new entry "PP_AURA_OF_PACTKEEPER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -760,6 +768,7 @@ data "DescriptionParams" "1d4;Distance(3);DealDamage(1d6,Necrotic)"
 data "AuraRadius" "3"
 
 // Amulet of the Eternal Hunger: decrease Insatiable's AC bonus to half your Charisma modifier, rounded down, up to max of +4 AC (previously was equal to full Charisma modifier)
+
 new entry "PP_INSATIABLE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -767,6 +776,7 @@ using "PP_INSATIABLE"
 data "Description" "h612819fcge6d0g4d57gb472g9c8de5025616;1"
 
 // Soulknife of the Everlasting Pact: [Pact of the Tome]: decrease damage to 1d8
+
 new entry "RR_VALHALLA_HP_01"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -891,6 +901,7 @@ using "RR_VALHALLA_HP_20"
 data "Boosts" "IncreaseMaxHP(80)"
 
 // Warhammer of the Thunder God: decrease Thunderclap damage to 2d8 (previously 3d8) but increase proc chance to 30% (previously 25%)
+
 new entry "RR_AVATAR_OF_WAR"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -913,6 +924,7 @@ data "Boosts" "Skill(Stealth, 6)"
 
 // The Backstabber's Blade: decrease damage of Heartstopper to 1d8 Necrotic per every 2 Rogue levels (previously 1d6 per every Rogue level) but now deals half damage on a save (previously no damage), and fix tooltip save ability to Constitution (previously showed Dexterity)
 // Interesting spell that's super feast or famine, as you had to both hit the attack and have the enemy fail the save for it to do anything. This makes it more consistent, but you may wish to keep the original as it can be pretty fun to include
+
 new entry "VV_ASSASSINS_MARK"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -924,6 +936,7 @@ data "DescriptionParams" "1d8"
 data "Boosts" "SourceAdvantageOnAttack()"
 
 // Keep in mind that the 1d8 will become a 2d8 due to it only triggering on critical hits
+
 new entry "WW_ARC_REPEATER_CRIT"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -932,6 +945,7 @@ data "DescriptionParams" "1d8"
 data "Boosts" "TemporaryHP(1d8)"
 
 // Hood of the Archmage: change Intelligence bonus to give +2 Intelligence instead, with max of 22 (previously set Intelligence to 20)
+
 new entry "WW_ARMOR_OF_AGATHYS"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -950,6 +964,7 @@ data "Boosts" "TemporaryHP(9)"
 data "RemoveConditions" "not HasTemporaryHP()"
 
 // Radiant damage (Shield of Faith): use custom status so it can be stacked with the vanilla status (not that strong of a buff and with Syrchalis spell rebalance, it'd be on permanently already)
+
 new entry "CHT_WW_SHIELD_OF_FAITH"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -959,7 +974,6 @@ data "StackId" "CHT_WW_SHIELD_OF_FAITH"
 // Netherese Staff: increase damage of Netherstrike to 10d6+20 pre-level 12 (previously 10d8), and 10d6+40 at level 12+ (previously 12d8). Clarify that spell does more damage at level 12+
 // Still a pretty meme spell but may actually have a use case now
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/IMDCStatus_BOOST.txt
 new entry "POISON_SIMPLE_TECHNICAL_APPLIER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1059,7 +1073,6 @@ data "RemoveEvents" "OnTurn"
 data "TooltipSave" "Constitution"
 data "TickFunctors" "DealDamage(1d6,Poison,Magical)"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/LoviatarLove.txt
 new entry "GOB_CALMNESS_IN_PAIN"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1071,7 +1084,6 @@ data "RemoveEvents" ""
 data "StatusPropertyFlags" "DisableCombatlog;DisablePortraitIndicator;ApplyToDead;IgnoreResting"
 
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Objects.txt
 new entry "LATHANDER_SURGEOFLIGHT_TECHNICAL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1096,6 +1108,7 @@ data "RemoveConditions" "StatusId('SHIELD_OF_FAITH')"
 data "RemoveEvents" "OnStatusRemoved"
 
 // ==================================== Additional loca changes ====================================
+
 new entry "SIAEL_HANDOFVECNA"
 type "StatusData"
 using "SIAEL_HANDOFVECNA"
@@ -1123,7 +1136,6 @@ data "TickFunctors" "IF(not IsDowned() and HasHPPercentageWithoutTemporaryHPLess
 
 // Family: obj_scroll_dimensiondoor
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/PaladinAuraRange.txt
 new entry "AURA_OF_COURAGE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1261,7 +1273,6 @@ using "AURA_OF_ZEAL_AURA"
 data "DescriptionParams" "Distance(15)"
 
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/PermanentWeaponBond.txt
 new entry "WEAPON_BOND"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1273,7 +1284,6 @@ data "RemoveEvents" "OnStatusApplied"
 data "StatusPropertyFlags" "IgnoreResting"
 data "OnRemoveFunctors" ""
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/PhalarAluve.txt
 new entry "MAG_HARPERS_SINGING_SWORD_SHRIEKING_AURA_V2"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1336,14 +1346,12 @@ data "AuraRadius" "9"
 data "AuraStatuses" "IF(Character() and Ally() and not Dead()):ApplyStatus(MAG_HARPERS_SINGING_SWORD_BLESS);IF(Character() and Ally() and not Dead()):ApplyStatus(BLUR)"
 data "StatusEffect" "563dd2de-c629-4eb0-95ad-ffd16cff896d"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/RadiantRetort.txt
 new entry "DAMAGE_SHIELD_NPC_RADIANT"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DAMAGE_SHIELD_NPC_RADIANT"
 data "Description" "436c350c-7509-4375-9b8e-78a8cce5bec1;1"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/RandomCahootFixes.txt
 new entry "BLINDED"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1351,7 +1359,6 @@ using "BLINDED"
 // data "TickType" ""
 data "TickType" "EndTurn"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/ResonanceStoneTweaks.txt
 new entry "COL_RESONANCESTONE_BUFF"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1364,7 +1371,6 @@ data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;IgnoreResting"
 data "ApplyEffect" "dea3aa1d-9a09-4176-b965-5c71d3b40cb8"
 data "EndEffect" "dea3aa1d-9a09-4176-b965-5c71d3b40cb8"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/SPELLS.txt
 new entry "BLESSING_OF_THE_TRICKSTER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1382,6 +1388,7 @@ data "StatusEffect" "d6422dfb-0caa-4354-8d63-26489afff4a0"
 
 
 // Family: alch_elixir_bloodlust
+
 new entry "ALCH_ELIXIR_BLOODLUST"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1391,6 +1398,7 @@ data "StatusEffect" ""
 
 
 // Family: arctic_breath
+
 new entry "ARCTIC_BREATH"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1398,6 +1406,7 @@ using "ARCTIC_BREATH"
 data "TickType" "StartTurn"
 data "StatusPropertyFlags" "TickingWithSource"
 data "OnApplyFunctors" "RemoveStatus(BURNING)"
+
 new entry "ARMOR_OF_AGATHYS"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1408,6 +1417,7 @@ data "StatusEffect" ""
 
 
 // Family: barkskin
+
 new entry "BARKSKIN"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1424,6 +1434,7 @@ data "Boosts" "ACOverrideFormula(16,false);Resistance(Bludgeoning,Resistant);Dam
 
 
 // Family: blade_barrier_aura
+
 new entry "BLADE_BARRIER_AURA"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1433,6 +1444,7 @@ data "OnTickRoll" "not SavingThrow(Ability.Dexterity,CalculateSpellDC(context.Pr
 
 
 // Family: bless
+
 new entry "BLESS"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1442,6 +1454,7 @@ data "StatusEffect" ""
 
 
 // Family: calm_emotions
+
 new entry "CALM_EMOTIONS"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1454,6 +1467,7 @@ data "OnApplyFunctors" "AI_ONLY:IF(HasStatus('SG_Rage')):ApplyStatus(AI_HELPER_D
 
 
 // Family: cht_sleep
+
 new entry "CHT_SLEEP"
 type "StatusData"
 data "StatusType" "INCAPACITATED"
@@ -1466,6 +1480,7 @@ data "OnTickRoll" "not SavingThrow(Ability.Wisdom, SourceSpellDC())"
 data "OnTickSuccess" "ApplyStatus(CHT_SLEEP_2,100,9)"
 data "OnTickFail" "RemoveStatus(CHT_SLEEP)"
 data "StatusGroups" "SG_Unconscious;SG_Condition;SG_Sleeping;SG_Sleeping_Magical"
+
 new entry "CHT_SLEEP_2"
 type "StatusData"
 data "StatusType" "INCAPACITATED"
@@ -1479,6 +1494,7 @@ data "StatusGroups" "SG_Unconscious;SG_Condition;SG_Sleeping;SG_Sleeping_Magical
 
 
 // Family: cold_snap
+
 new entry "COLD_SNAP"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1489,6 +1505,7 @@ data "OnApplyFunctors" "RemoveStatus(BURNING)"
 
 
 // Family: compelled_duel
+
 new entry "COMPELLED_DUEL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1498,6 +1515,7 @@ data "Boosts" "IF(not HasStatus('COMPELLED_DUEL', context.Source, context.Target
 
 
 // Family: conjure_volley
+
 new entry "CONJURE_VOLLEY"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1506,6 +1524,7 @@ data "OnApplyFunctors" "DealDamage(8d8,MainRangedWeaponDamageType,Magical)"
 
 
 // Family: conjure_volley_bludgeoning
+
 new entry "CONJURE_VOLLEY_BLUDGEONING"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1514,6 +1533,7 @@ data "OnApplyFunctors" "DealDamage(8d8,Bludgeoning,Magical)"
 
 
 // Family: conjure_volley_bludgeoning_fail
+
 new entry "CONJURE_VOLLEY_BLUDGEONING_FAIL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1522,6 +1542,7 @@ data "OnApplyFunctors" "DealDamage(8d8/2,Bludgeoning,Magical)"
 
 
 // Family: conjure_volley_fail
+
 new entry "CONJURE_VOLLEY_FAIL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1530,6 +1551,7 @@ data "OnApplyFunctors" "DealDamage(8d8/2,MainRangedWeaponDamageType,Magical)"
 
 
 // Family: conjure_volley_piercing
+
 new entry "CONJURE_VOLLEY_PIERCING"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1538,6 +1560,7 @@ data "OnApplyFunctors" "DealDamage(8d8,Piercing,Magical)"
 
 
 // Family: conjure_volley_piercing_fail
+
 new entry "CONJURE_VOLLEY_PIERCING_FAIL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1548,6 +1571,7 @@ data "OnApplyFunctors" "DealDamage(8d8/2,Piercing,Magical)"
 
 
 // Family: conjure_volley_slashing
+
 new entry "CONJURE_VOLLEY_SLASHING"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1556,6 +1580,7 @@ data "OnApplyFunctors" "DealDamage(8d8,Slashing,Magical)"
 
 
 // Family: conjure_volley_slashing_fail
+
 new entry "CONJURE_VOLLEY_SLASHING_FAIL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1564,6 +1589,7 @@ data "OnApplyFunctors" "DealDamage(8d8/2,Slashing,Magical)"
 
 
 // Family: crackle
+
 new entry "CRACKLE_3"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1574,6 +1600,7 @@ data "Description" "hf64cb486g5a1cg432bgb217g77b18fa322b2;1"
 
 
 // Family: crackle_reset_launcher
+
 new entry "CRACKLE_RESET_LAUNCHER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1582,6 +1609,7 @@ data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;DisablePortraitIndi
 
 
 // Family: crackle_shocked
+
 new entry "CRACKLE_SHOCKED"
 type "StatusData"
 data "StatusType" "INCAPACITATED"
@@ -1589,6 +1617,7 @@ using "STUNNED"
 
 
 // Family: crusaders_mantle
+
 new entry "CRUSADERS_MANTLE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1596,6 +1625,7 @@ using "CRUSADERS_MANTLE"
 data "DescriptionParams" "DealDamage(1d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(1d4,Radiant)"
 data "StatusPropertyFlags" "DisableCombatlog"
+
 new entry "CRUSADERS_MANTLE_4"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1603,6 +1633,7 @@ using "CRUSADERS_MANTLE"
 data "DescriptionParams" "DealDamage(1d4,Radiant)"
 data "AuraStatuses" "TARGET:IF(Character() and not Dead() and not Enemy()):ApplyStatus(CRUSADERS_MANTLE_AURA_4,100,1)"
 data "Boosts" "CharacterWeaponDamage(1d4,Radiant)"
+
 new entry "CRUSADERS_MANTLE_5"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1610,6 +1641,7 @@ using "CRUSADERS_MANTLE"
 data "DescriptionParams" "DealDamage(2d4,Radiant)"
 data "AuraStatuses" "TARGET:IF(Character() and not Dead() and not Enemy()):ApplyStatus(CRUSADERS_MANTLE_AURA_5,100,1)"
 data "Boosts" "CharacterWeaponDamage(2d4,Radiant)"
+
 new entry "CRUSADERS_MANTLE_6"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1617,6 +1649,7 @@ using "CRUSADERS_MANTLE"
 data "DescriptionParams" "DealDamage(2d4,Radiant)"
 data "AuraStatuses" "TARGET:IF(Character() and not Dead() and not Enemy()):ApplyStatus(CRUSADERS_MANTLE_AURA_6,100,1)"
 data "Boosts" "CharacterWeaponDamage(2d4,Radiant)"
+
 new entry "CRUSADERS_MANTLE_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1624,6 +1657,7 @@ using "CRUSADERS_MANTLE"
 data "DescriptionParams" "DealDamage(3d4,Radiant)"
 data "AuraStatuses" "TARGET:IF(Character() and not Dead() and not Enemy()):ApplyStatus(CRUSADERS_MANTLE_AURA_7,100,1)"
 data "Boosts" "CharacterWeaponDamage(3d4,Radiant)"
+
 new entry "CRUSADERS_MANTLE_8"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1631,6 +1665,7 @@ using "CRUSADERS_MANTLE"
 data "DescriptionParams" "DealDamage(3d4,Radiant)"
 data "AuraStatuses" "TARGET:IF(Character() and not Dead() and not Enemy()):ApplyStatus(CRUSADERS_MANTLE_AURA_8,100,1)"
 data "Boosts" "CharacterWeaponDamage(3d4,Radiant)"
+
 new entry "CRUSADERS_MANTLE_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1641,6 +1676,7 @@ data "Boosts" "CharacterWeaponDamage(4d4,Radiant)"
 
 
 // Family: crusaders_mantle_aura
+
 new entry "CRUSADERS_MANTLE_AURA"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1648,36 +1684,42 @@ using "CRUSADERS_MANTLE_AURA"
 data "DescriptionParams" "DealDamage(1d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(1d4,Radiant)"
 data "StatusPropertyFlags" "DisableCombatlog;IgnoreResting"
+
 new entry "CRUSADERS_MANTLE_AURA_4"
 type "StatusData"
 data "StatusType" "BOOST"
 using "CRUSADERS_MANTLE_AURA"
 data "DescriptionParams" "DealDamage(1d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(1d4,Radiant)"
+
 new entry "CRUSADERS_MANTLE_AURA_5"
 type "StatusData"
 data "StatusType" "BOOST"
 using "CRUSADERS_MANTLE_AURA"
 data "DescriptionParams" "DealDamage(2d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(2d4,Radiant)"
+
 new entry "CRUSADERS_MANTLE_AURA_6"
 type "StatusData"
 data "StatusType" "BOOST"
 using "CRUSADERS_MANTLE_AURA"
 data "DescriptionParams" "DealDamage(2d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(2d4,Radiant)"
+
 new entry "CRUSADERS_MANTLE_AURA_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "CRUSADERS_MANTLE_AURA"
 data "DescriptionParams" "DealDamage(3d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(3d4,Radiant)"
+
 new entry "CRUSADERS_MANTLE_AURA_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "CRUSADERS_MANTLE_AURA"
 data "DescriptionParams" "DealDamage(3d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(3d4,Radiant)"
+
 new entry "CRUSADERS_MANTLE_AURA_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1687,6 +1729,7 @@ data "Boosts" "CharacterWeaponDamage(4d4,Radiant)"
 
 
 // Family: dancing_lights
+
 new entry "DANCING_LIGHTS"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1700,22 +1743,26 @@ data "IsUnique" "1"
 
 
 // Family: decaying_touch
+
 new entry "DECAYING_TOUCH"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DECAYING_TOUCH"
 data "StatusGroups" "SG_Disease"
 data "OnRemoveFunctors" "IF(RemoveCause(StatusRemoveCause.Condition)):DealDamage(1d6,Necrotic,Magical,,0,,true,true);IF(RemoveCause(StatusRemoveCause.Condition)):CreateExplosion(Projectile_NecroticEffect_Explosion)"
+
 new entry "DECAYING_TOUCH_2"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DECAYING_TOUCH_2"
 data "OnRemoveFunctors" "IF(RemoveCause(StatusRemoveCause.Condition)):DealDamage(2d6,Necrotic,Magical,,0,,true,true);IF(RemoveCause(StatusRemoveCause.Condition)):CreateExplosion(Projectile_NecroticEffect_Explosion)"
+
 new entry "DECAYING_TOUCH_3"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DECAYING_TOUCH_3"
 data "OnRemoveFunctors" "IF(RemoveCause(StatusRemoveCause.Condition)):DealDamage(3d6,Necrotic,Magical,,0,,true,true);IF(RemoveCause(StatusRemoveCause.Condition)):CreateExplosion(Projectile_NecroticEffect_Explosion)"
+
 new entry "DECAYING_TOUCH_4"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1724,6 +1771,7 @@ data "OnRemoveFunctors" "IF(RemoveCause(StatusRemoveCause.Condition)):DealDamage
 
 
 // Family: detect_magic_aura
+
 new entry "DETECT_MAGIC_AURA"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1732,6 +1780,7 @@ data "AuraStatuses" "IF((HasActionResource('SpellSlot',1,1,false) or HasActionRe
 
 
 // Family: difficult_terrain_wallofthorn
+
 new entry "DIFFICULT_TERRAIN_WALLOFTHORN"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1740,6 +1789,7 @@ data "Boosts" "ActionResourceConsumeMultiplier(Movement,4,0);MovementSpeedLimit(
 
 
 // Family: dispel_evil_and_good
+
 new entry "DISPEL_EVIL_AND_GOOD"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1749,6 +1799,7 @@ data "RemoveConditions" "IsStatusEvent(StatusEvent.OnSpellCast) and (SpellId('Ta
 
 
 // Family: elemental_weapon_acid
+
 new entry "ELEMENTAL_WEAPON_ACID"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1763,6 +1814,7 @@ data "RemoveConditions" "not HasStatus('ELEMENTAL_WEAPON_MASTER')"
 data "RemoveEvents" "OnStatusRemoved"
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "3798c69d-e202-4323-b660-2e1778dafafc"
+
 new entry "ELEMENTAL_WEAPON_ACID_5"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1774,6 +1826,7 @@ data "Boosts" "WeaponEnchantment(2); WeaponDamage(2d4,Acid)"
 data "IsUnique" "1"
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "3798c69d-e202-4323-b660-2e1778dafafc"
+
 new entry "ELEMENTAL_WEAPON_ACID_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1784,6 +1837,7 @@ data "StatusEffect" "3798c69d-e202-4323-b660-2e1778dafafc"
 
 
 // Family: elemental_weapon_cold
+
 new entry "ELEMENTAL_WEAPON_COLD"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1792,6 +1846,7 @@ data "DescriptionParams" "1;DealDamage(1d4,Cold)"
 data "Icon" "Spell_Transmutation_ElementalWeapon_Cold"
 data "Boosts" "WeaponEnchantment(1); WeaponDamage(1d4,Cold)"
 data "StatusEffect" "e92003cd-6622-4a82-a3c7-69d6222f0ba0"
+
 new entry "ELEMENTAL_WEAPON_COLD_5"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1800,6 +1855,7 @@ data "DescriptionParams" "2;DealDamage(2d4,Cold)"
 data "Icon" "Spell_Transmutation_ElementalWeapon_Cold"
 data "Boosts" "WeaponEnchantment(2); WeaponDamage(2d4,Cold)"
 data "StatusEffect" "e92003cd-6622-4a82-a3c7-69d6222f0ba0"
+
 new entry "ELEMENTAL_WEAPON_COLD_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1811,6 +1867,7 @@ data "StatusEffect" "e92003cd-6622-4a82-a3c7-69d6222f0ba0"
 
 
 // Family: elemental_weapon_fire
+
 new entry "ELEMENTAL_WEAPON_FIRE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1819,6 +1876,7 @@ data "DescriptionParams" "1;DealDamage(1d4,Fire)"
 data "Icon" "Spell_Transmutation_ElementalWeapon_Fire"
 data "Boosts" "WeaponEnchantment(1); WeaponDamage(1d4,Fire)"
 data "StatusEffect" "8a4c7e6e-a629-4765-9c5d-d354838703d8"
+
 new entry "ELEMENTAL_WEAPON_FIRE_5"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1827,6 +1885,7 @@ data "DescriptionParams" "2;DealDamage(2d4,Fire)"
 data "Icon" "Spell_Transmutation_ElementalWeapon_Fire"
 data "Boosts" "WeaponEnchantment(2); WeaponDamage(2d4,Fire)"
 data "StatusEffect" "8a4c7e6e-a629-4765-9c5d-d354838703d8"
+
 new entry "ELEMENTAL_WEAPON_FIRE_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1838,6 +1897,7 @@ data "StatusEffect" "8a4c7e6e-a629-4765-9c5d-d354838703d8"
 
 
 // Family: elemental_weapon_lightning
+
 new entry "ELEMENTAL_WEAPON_LIGHTNING"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1846,6 +1906,7 @@ data "DescriptionParams" "1;DealDamage(1d4,Lightning)"
 data "Icon" "Spell_Transmutation_ElementalWeapon_Lightning"
 data "Boosts" "WeaponEnchantment(1); WeaponDamage(1d4,Lightning)"
 data "StatusEffect" "7905bb82-0284-46b8-855b-24f17560fe4a"
+
 new entry "ELEMENTAL_WEAPON_LIGHTNING_5"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1854,6 +1915,7 @@ data "DescriptionParams" "2;DealDamage(2d4,Lightning)"
 data "Icon" "Spell_Transmutation_ElementalWeapon_Lightning"
 data "Boosts" "WeaponEnchantment(2); WeaponDamage(2d4,Lightning)"
 data "StatusEffect" "7905bb82-0284-46b8-855b-24f17560fe4a"
+
 new entry "ELEMENTAL_WEAPON_LIGHTNING_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1865,6 +1927,7 @@ data "StatusEffect" "7905bb82-0284-46b8-855b-24f17560fe4a"
 
 
 // Family: elemental_weapon_master
+
 new entry "ELEMENTAL_WEAPON_MASTER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1876,6 +1939,7 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndi
 
 
 // Family: elemental_weapon_thunder
+
 new entry "ELEMENTAL_WEAPON_THUNDER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1884,6 +1948,7 @@ data "DescriptionParams" "1;DealDamage(1d4,Thunder)"
 data "Icon" "Spell_Transmutation_ElementalWeapon_Thunder"
 data "Boosts" "WeaponEnchantment(1); WeaponDamage(1d4,Thunder)"
 data "StatusEffect" "ca0b3ab3-dac0-47f7-b313-7ca69c85b5b4"
+
 new entry "ELEMENTAL_WEAPON_THUNDER_5"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1892,6 +1957,7 @@ data "DescriptionParams" "2;DealDamage(2d4,Thunder)"
 data "Icon" "Spell_Transmutation_ElementalWeapon_Thunder"
 data "Boosts" "WeaponEnchantment(2); WeaponDamage(2d4,Thunder)"
 data "StatusEffect" "ca0b3ab3-dac0-47f7-b313-7ca69c85b5b4"
+
 new entry "ELEMENTAL_WEAPON_THUNDER_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1903,6 +1969,7 @@ data "StatusEffect" "ca0b3ab3-dac0-47f7-b313-7ca69c85b5b4"
 
 
 // Family: enlarge
+
 new entry "ENLARGE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1912,6 +1979,7 @@ data "StatusEffect" ""
 
 
 // Family: ensnaring_strike
+
 new entry "ENSNARING_STRIKE_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1920,6 +1988,7 @@ data "DescriptionParams" "DealDamage(7d6,Piercing)"
 data "TooltipDamage" "DealDamage(7d6, Piercing)"
 data "TickFunctors" "DealDamage(7d6, Piercing,Magical)"
 data "StatusGroups" "SG_Restrained;SG_Condition"
+
 new entry "ENSNARING_STRIKE_8"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1928,6 +1997,7 @@ data "DescriptionParams" "DealDamage(8d6,Piercing)"
 data "TooltipDamage" "DealDamage(8d6, Piercing)"
 data "TickFunctors" "DealDamage(8d6, Piercing,Magical)"
 data "StatusGroups" "SG_Restrained;SG_Condition"
+
 new entry "ENSNARING_STRIKE_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1939,6 +2009,7 @@ data "StatusGroups" "SG_Restrained;SG_Condition"
 
 
 // Family: false_life
+
 new entry "FALSE_LIFE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -1949,48 +2020,56 @@ data "DescriptionParams" "10;1"
 data "Boosts" "TemporaryHP(10)"
 data "RemoveConditions" "not HasTemporaryHP()"
 data "RemoveEvents" "OnDamage"
+
 new entry "FALSE_LIFE_2"
 type "StatusData"
 data "StatusType" "BOOST"
 using "FALSE_LIFE_2"
 data "DescriptionParams" "17;1"
 data "Boosts" "TemporaryHP(17)"
+
 new entry "FALSE_LIFE_3"
 type "StatusData"
 data "StatusType" "BOOST"
 using "FALSE_LIFE_3"
 data "DescriptionParams" "24;2"
 data "Boosts" "TemporaryHP(24)"
+
 new entry "FALSE_LIFE_4"
 type "StatusData"
 data "StatusType" "BOOST"
 using "FALSE_LIFE_4"
 data "DescriptionParams" "31;2"
 data "Boosts" "TemporaryHP(31)"
+
 new entry "FALSE_LIFE_5"
 type "StatusData"
 data "StatusType" "BOOST"
 using "FALSE_LIFE_5"
 data "DescriptionParams" "38;3"
 data "Boosts" "TemporaryHP(38)"
+
 new entry "FALSE_LIFE_6"
 type "StatusData"
 data "StatusType" "BOOST"
 using "FALSE_LIFE_6"
 data "DescriptionParams" "45;3"
 data "Boosts" "TemporaryHP(45)"
+
 new entry "FALSE_LIFE_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "FALSE_LIFE_6"
 data "DescriptionParams" "52;4"
 data "Boosts" "TemporaryHP(52)"
+
 new entry "FALSE_LIFE_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "FALSE_LIFE_6"
 data "DescriptionParams" "59;4"
 data "Boosts" "TemporaryHP(59)"
+
 new entry "FALSE_LIFE_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2000,6 +2079,7 @@ data "Boosts" "TemporaryHP(66)"
 
 
 // Family: feather_fall
+
 new entry "FEATHER_FALL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2022,6 +2102,7 @@ data "StatusEffect" ""
 
 
 // Family: fists_of_fire
+
 new entry "FISTS_OF_FIRE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2035,6 +2116,7 @@ data "Passives" "FistsOfFire_Override;FistsOfFire_BonusOverride"
 
 
 // Family: freeze
+
 new entry "FREEZE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2045,6 +2127,7 @@ data "OnApplyFunctors" "RemoveStatus(BURNING)"
 
 
 // Family: girzanjes_march
+
 new entry "GIRZANJES_MARCH_4"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2057,6 +2140,7 @@ data "OnApplyConditions" "not HasStatus('DEAFENED')"
 
 
 // Family: greater_invisibility
+
 new entry "GREATER_INVISIBILITY"
 type "StatusData"
 data "StatusType" "INVISIBLE"
@@ -2069,6 +2153,7 @@ data "OnRemoveFunctors" "RemoveStatus(SAILOR_GREATERINVIS_FUNCTORS_AR)"
 
 
 // Family: guidance
+
 new entry "GUIDANCE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2078,6 +2163,7 @@ data "ManagedStatusEffectGroup" ""
 
 
 // Family: hav_seluneointment
+
 new entry "HAV_SELUNEOINTMENT"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2086,16 +2172,19 @@ data "StatusEffect" ""
 
 
 // Family: heat_metal
+
 new entry "HEAT_METAL_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "HEAT_METAL"
 data "DescriptionParams" "DealDamage(7d8,Fire)"
+
 new entry "HEAT_METAL_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "HEAT_METAL"
 data "DescriptionParams" "DealDamage(8d8,Fire)"
+
 new entry "HEAT_METAL_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2104,16 +2193,19 @@ data "DescriptionParams" "DealDamage(9d8,Fire)"
 
 
 // Family: heat_metal_reapply
+
 new entry "HEAT_METAL_REAPPLY_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "HEAT_METAL_REAPPLY"
 data "Boosts" "IF(not Tagged('MEPHIT', context.Source)):UnlockSpell(Target_HeatMetal_Reapply_7);IF(Tagged('MEPHIT', context.Source)):UnlockSpell(Target_HeatMetal_Reapply_MagmaMephit)"
+
 new entry "HEAT_METAL_REAPPLY_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "HEAT_METAL_REAPPLY"
 data "Boosts" "IF(not Tagged('MEPHIT', context.Source)):UnlockSpell(Target_HeatMetal_Reapply_8);IF(Tagged('MEPHIT', context.Source)):UnlockSpell(Target_HeatMetal_Reapply_MagmaMephit)"
+
 new entry "HEAT_METAL_REAPPLY_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2122,18 +2214,21 @@ data "Boosts" "IF(not Tagged('MEPHIT', context.Source)):UnlockSpell(Target_HeatM
 
 
 // Family: heat_metal_technical
+
 new entry "HEAT_METAL_TECHNICAL_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "HEAT_METAL_TECHNICAL"
 data "TickFunctors" "IF(not HasStatus('HEAT_METAL_REAPPLY_7')):ApplyStatus(HEAT_METAL_REAPPLY_7,100,9)"
 data "OnRemoveFunctors" "RemoveStatus(HEAT_METAL_REAPPLY_7)"
+
 new entry "HEAT_METAL_TECHNICAL_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "HEAT_METAL_TECHNICAL"
 data "TickFunctors" "IF(not HasStatus('HEAT_METAL_REAPPLY_8')):ApplyStatus(HEAT_METAL_REAPPLY_8,100,9)"
 data "OnRemoveFunctors" "RemoveStatus(HEAT_METAL_REAPPLY_8)"
+
 new entry "HEAT_METAL_TECHNICAL_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2143,6 +2238,7 @@ data "OnRemoveFunctors" "RemoveStatus(HEAT_METAL_REAPPLY_9)"
 
 
 // Family: hellish_rebuke
+
 new entry "HELLISH_REBUKE_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2151,6 +2247,7 @@ data "DescriptionParams" "DealDamage(8d10,Fire)"
 data "StackPriority" "1"
 data "Passives" "HellishRebuke_7"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
 new entry "HELLISH_REBUKE_8"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2159,6 +2256,7 @@ data "DescriptionParams" "DealDamage(9d10,Fire)"
 data "StackPriority" "1"
 data "Passives" "HellishRebuke_8"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
 new entry "HELLISH_REBUKE_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2167,6 +2265,7 @@ data "DescriptionParams" "DealDamage(10d10,Fire)"
 data "StackPriority" "1"
 data "Passives" "HellishRebuke_9"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
 new entry "HEX_REAPPLY"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2179,6 +2278,7 @@ data "StatusEffect" ""
 
 
 // Family: holy_rebuke
+
 new entry "HOLY_REBUKE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2187,6 +2287,7 @@ data "DescriptionParams" "DealDamage(LevelMapValue(D4Cantrip),Radiant)"
 
 
 // Family: holy_weapon
+
 new entry "HOLY_WEAPON"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2198,6 +2299,7 @@ data "StackId" "HOLY_WEAPON"
 data "Boosts" "WeaponDamage(1d8,Radiant);WeaponProperty(Magical);GameplayLight(9,false,0.1)"
 data "StatusEffect" "f28f933a-4b35-1b3d-a0ac-386676185d49"
 data "StatusPropertyFlags" "RemoveOnLongRest"
+
 new entry "HOLY_WEAPON_TECHNICAL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2209,6 +2311,7 @@ data "StackId" "HOLY_WEAPON_TECHNICAL"
 data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;DisablePortraitIndicator"
 
 // Family: icecloud
+
 new entry "ICECLOUD"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2217,6 +2320,7 @@ data "OnApplyRoll" "not SavingThrow(Ability.Constitution,CalculateSpellDC(contex
 
 
 // Family: long_jump
+
 new entry "LONG_JUMP"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2241,6 +2345,7 @@ data "StatusEffect" ""
 
 
 // Family: longstrider
+
 new entry "LONGSTRIDER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2250,6 +2355,7 @@ data "StatusEffect" ""
 
 
 // Family: mage_armor
+
 new entry "MAGE_ARMOR"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2264,6 +2370,7 @@ data "StatusEffect" ""
 
 
 // Family: magic_weapon
+
 new entry "MAGIC_WEAPON"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2279,12 +2386,14 @@ data "SoundStop" ""
 // Enlarge/Reduce
 // ===============================================================
 //
+
 new entry "MAGIC_WEAPON_4"
 type "StatusData"
 data "StatusType" "BOOST"
 using "MAGIC_WEAPON_4"
 data "RemoveConditions" "not HasStatus('MAGIC_WEAPON_MASTER')"
 data "RemoveEvents" "OnStatusRemoved"
+
 new entry "MAGIC_WEAPON_6"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2294,6 +2403,7 @@ data "RemoveEvents" "OnStatusRemoved"
 
 
 // Family: magic_weapon_master
+
 new entry "MAGIC_WEAPON_MASTER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2305,6 +2415,7 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndi
 
 
 // Family: motivational_speech
+
 new entry "MOTIVATIONAL_SPEECH"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2312,6 +2423,7 @@ using "MOTIVATIONAL_SPEECH"
 data "DescriptionParams" "GainTemporaryHitPoints(15)"
 data "StackPriority" "15"
 data "Boosts" "TemporaryHP(15);Advantage(SavingThrow,Wisdom)"
+
 new entry "MOTIVATIONAL_SPEECH_4"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2319,6 +2431,7 @@ using "MOTIVATIONAL_SPEECH_4"
 data "DescriptionParams" "GainTemporaryHitPoints(21)"
 data "StackPriority" "21"
 data "Boosts" "TemporaryHP(21);Advantage(SavingThrow,Wisdom)"
+
 new entry "MOTIVATIONAL_SPEECH_5"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2326,6 +2439,7 @@ using "MOTIVATIONAL_SPEECH_5"
 data "DescriptionParams" "GainTemporaryHitPoints(27)"
 data "StackPriority" "27"
 data "Boosts" "TemporaryHP(27);Advantage(SavingThrow,Wisdom)"
+
 new entry "MOTIVATIONAL_SPEECH_6"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2333,6 +2447,7 @@ using "MOTIVATIONAL_SPEECH_6"
 data "StackPriority" "33"
 data "Boosts" "TemporaryHP(33);Advantage(SavingThrow,Wisdom)"
 data "DescriptionParams" "GainTemporaryHitPoints(33)"
+
 new entry "MOTIVATIONAL_SPEECH_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2340,6 +2455,7 @@ using "MOTIVATIONAL_SPEECH_7"
 data "StackPriority" "39"
 data "Boosts" "TemporaryHP(39);Advantage(SavingThrow,Wisdom)"
 data "DescriptionParams" "GainTemporaryHitPoints(39)"
+
 new entry "MOTIVATIONAL_SPEECH_8"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2347,6 +2463,7 @@ using "MOTIVATIONAL_SPEECH_8"
 data "StackPriority" "45"
 data "Boosts" "TemporaryHP(45);Advantage(SavingThrow,Wisdom)"
 data "DescriptionParams" "GainTemporaryHitPoints(45)"
+
 new entry "MOTIVATIONAL_SPEECH_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2359,6 +2476,7 @@ data "DescriptionParams" "GainTemporaryHitPoints(51)"
 
 
 // Family: orbital_stones_ii
+
 new entry "ORBITAL_STONES_II"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2368,6 +2486,7 @@ data "Boosts" "AC(2);RollBonus(SavingThrow,2,Dexterity);UnlockSpell(Projectile_O
 
 
 // Family: phantasmal_force
+
 new entry "PHANTASMAL_FORCE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2379,6 +2498,7 @@ data "Passives" ""
 data "TickFunctors" "AI_ONLY:DealDamage(2d6,Psychic,Magical)"
 data "OnApplyFunctors" "ApplyStatus(PHANTASMAL_FORCE_PSYCHIC,100,5);ApplyStatus(FRIGHTENED,100,5)"
 data "OnRemoveFunctors" "RemoveStatus(PHANTASMAL_FORCE_PSYCHIC);RemoveStatus(FRIGHTENED)"
+
 new entry "PHANTASMAL_FORCE_3"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2388,6 +2508,7 @@ data "TooltipDamage" "DealDamage(3d6,Psychic)"
 data "TickFunctors" "AI_ONLY:DealDamage(3d6,Psychic,Magical)"
 data "OnApplyFunctors" "ApplyStatus(PHANTASMAL_FORCE_PSYCHIC_3,100,5);ApplyStatus(FRIGHTENED,100,5)"
 data "OnRemoveFunctors" "RemoveStatus(PHANTASMAL_FORCE_PSYCHIC_3);RemoveStatus(FRIGHTENED)"
+
 new entry "PHANTASMAL_FORCE_4"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2397,6 +2518,7 @@ data "TooltipDamage" "DealDamage(4d6,Psychic)"
 data "TickFunctors" "AI_ONLY:DealDamage(4d6,Psychic,Magical)"
 data "OnApplyFunctors" "ApplyStatus(PHANTASMAL_FORCE_PSYCHIC_4,100,5);ApplyStatus(FRIGHTENED,100,5)"
 data "OnRemoveFunctors" "RemoveStatus(PHANTASMAL_FORCE_PSYCHIC_4);RemoveStatus(FRIGHTENED)"
+
 new entry "PHANTASMAL_FORCE_5"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2406,6 +2528,7 @@ data "TooltipDamage" "DealDamage(5d6,Psychic)"
 data "TickFunctors" "AI_ONLY:DealDamage(5d6,Psychic,Magical)"
 data "OnApplyFunctors" "ApplyStatus(PHANTASMAL_FORCE_PSYCHIC_5,100,5);ApplyStatus(FRIGHTENED,100,5)"
 data "OnRemoveFunctors" "RemoveStatus(PHANTASMAL_FORCE_PSYCHIC_5);RemoveStatus(FRIGHTENED)"
+
 new entry "PHANTASMAL_FORCE_6"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2415,6 +2538,7 @@ data "TooltipDamage" "DealDamage(6d6,Psychic)"
 data "TickFunctors" "AI_ONLY:DealDamage(6d6,Psychic,Magical)"
 data "OnApplyFunctors" "ApplyStatus(PHANTASMAL_FORCE_PSYCHIC_6,100,5);ApplyStatus(FRIGHTENED,100,5)"
 data "OnRemoveFunctors" "RemoveStatus(PHANTASMAL_FORCE_PSYCHIC_6);RemoveStatus(FRIGHTENED)"
+
 new entry "PHANTASMAL_FORCE_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2424,6 +2548,7 @@ data "TooltipDamage" "DealDamage(7d6,Psychic)"
 data "TickFunctors" "AI_ONLY:DealDamage(7d6,Psychic,Magical)"
 data "OnApplyFunctors" "ApplyStatus(PHANTASMAL_FORCE_PSYCHIC_7,100,5);ApplyStatus(FRIGHTENED,100,5)"
 data "OnRemoveFunctors" "RemoveStatus(PHANTASMAL_FORCE_PSYCHIC_7);RemoveStatus(FRIGHTENED)"
+
 new entry "PHANTASMAL_FORCE_8"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2433,6 +2558,7 @@ data "TooltipDamage" "DealDamage(8d6,Psychic)"
 data "TickFunctors" "AI_ONLY:DealDamage(8d6,Psychic,Magical)"
 data "OnApplyFunctors" "ApplyStatus(PHANTASMAL_FORCE_PSYCHIC_8,100,5);ApplyStatus(FRIGHTENED,100,5)"
 data "OnRemoveFunctors" "RemoveStatus(PHANTASMAL_FORCE_PSYCHIC_8);RemoveStatus(FRIGHTENED)"
+
 new entry "PHANTASMAL_FORCE_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2445,6 +2571,7 @@ data "OnRemoveFunctors" "RemoveStatus(PHANTASMAL_FORCE_PSYCHIC_9);RemoveStatus(F
 
 
 // Family: phantasmal_force_psychic
+
 new entry "PHANTASMAL_FORCE_PSYCHIC"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2452,6 +2579,7 @@ using "PHANTASMAL_FORCE_PSYCHIC"
 data "DescriptionParams" "DealDamage(2d6,Psychic)"
 data "TooltipDamage" "DealDamage(2d6,Psychic)"
 data "TickFunctors" "DealDamage(2d6,Psychic,Magical)"
+
 new entry "PHANTASMAL_FORCE_PSYCHIC_3"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2459,6 +2587,7 @@ using "PHANTASMAL_FORCE_PSYCHIC"
 data "DescriptionParams" "DealDamage(3d6,Psychic)"
 data "TooltipDamage" "DealDamage(3d6,Psychic)"
 data "TickFunctors" "DealDamage(3d6,Psychic,Magical)"
+
 new entry "PHANTASMAL_FORCE_PSYCHIC_4"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2466,6 +2595,7 @@ using "PHANTASMAL_FORCE_PSYCHIC"
 data "DescriptionParams" "DealDamage(4d6,Psychic)"
 data "TooltipDamage" "DealDamage(4d6,Psychic)"
 data "TickFunctors" "DealDamage(4d6,Psychic,Magical)"
+
 new entry "PHANTASMAL_FORCE_PSYCHIC_5"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2473,6 +2603,7 @@ using "PHANTASMAL_FORCE_PSYCHIC"
 data "DescriptionParams" "DealDamage(5d6,Psychic)"
 data "TooltipDamage" "DealDamage(5d6,Psychic)"
 data "TickFunctors" "DealDamage(5d6,Psychic,Magical)"
+
 new entry "PHANTASMAL_FORCE_PSYCHIC_6"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2480,6 +2611,7 @@ using "PHANTASMAL_FORCE_PSYCHIC"
 data "DescriptionParams" "DealDamage(6d6,Psychic)"
 data "TooltipDamage" "DealDamage(6d6,Psychic)"
 data "TickFunctors" "DealDamage(6d6,Psychic,Magical)"
+
 new entry "PHANTASMAL_FORCE_PSYCHIC_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2487,6 +2619,7 @@ using "PHANTASMAL_FORCE_PSYCHIC"
 data "DescriptionParams" "DealDamage(7d6,Psychic)"
 data "TooltipDamage" "DealDamage(7d6,Psychic)"
 data "TickFunctors" "DealDamage(7d6,Psychic,Magical)"
+
 new entry "PHANTASMAL_FORCE_PSYCHIC_8"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2494,6 +2627,7 @@ using "PHANTASMAL_FORCE_PSYCHIC"
 data "DescriptionParams" "DealDamage(8d6,Psychic)"
 data "TooltipDamage" "DealDamage(8d6,Psychic)"
 data "TickFunctors" "DealDamage(8d6,Psychic,Magical)"
+
 new entry "PHANTASMAL_FORCE_PSYCHIC_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2504,6 +2638,7 @@ data "TickFunctors" "DealDamage(9d6,Psychic,Magical)"
 
 
 // Family: protection_from_energy_acid
+
 new entry "PROTECTION_FROM_ENERGY_ACID"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2514,6 +2649,7 @@ data "RemoveEvents" "OnStatusRemoved"
 
 
 // Family: protection_from_energy_master
+
 new entry "PROTECTION_FROM_ENERGY_MASTER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2525,6 +2661,7 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndi
 
 
 // Family: protection_from_poison
+
 new entry "PROTECTION_FROM_POISON"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2533,6 +2670,7 @@ data "StatusEffect" ""
 
 
 // Family: reduce
+
 new entry "REDUCE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2542,6 +2680,7 @@ data "StatusEffect" ""
 
 
 // Family: regenerate_downed
+
 new entry "REGENERATE_DOWNED"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2553,6 +2692,7 @@ data "StatusPropertyFlags" "DisableImmunityOverhead;DisableOverhead;DisablePortr
 
 
 // Family: s5e_ritual_spell_ceremony
+
 new entry "S5E_RITUAL_SPELL_CEREMONY"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2561,6 +2701,7 @@ data "Boosts" ""
 
 
 // Family: s5e_ritual_spell_commune_with_nature
+
 new entry "S5E_RITUAL_SPELL_COMMUNE_WITH_NATURE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2569,6 +2710,7 @@ data "Boosts" ""
 
 
 // Family: s5e_ritual_spell_detect_magic
+
 new entry "S5E_RITUAL_SPELL_DETECT_MAGIC"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2577,6 +2719,7 @@ data "Boosts" ""
 
 
 // Family: s5e_ritual_spell_find_familiar
+
 new entry "S5E_RITUAL_SPELL_FIND_FAMILIAR"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2585,6 +2728,7 @@ data "Boosts" ""
 
 
 // Family: s5e_ritual_spell_telepathic_bond
+
 new entry "S5E_RITUAL_SPELL_TELEPATHIC_BOND"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2593,6 +2737,7 @@ data "Boosts" ""
 
 
 // Family: s5e_ritual_spell_unseen_servant
+
 new entry "S5E_RITUAL_SPELL_UNSEEN_SERVANT"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2601,6 +2746,7 @@ data "Boosts" ""
 
 
 // Family: s5e_ritual_spell_water_walk
+
 new entry "S5E_RITUAL_SPELL_WATER_WALK"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2609,6 +2755,7 @@ data "Boosts" ""
 
 
 // Family: sailor_banished_ar
+
 new entry "SAILOR_BANISHED_AR"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2621,6 +2768,7 @@ data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;IgnoreResting"
 
 
 // Family: sailor_banished_tech_ar
+
 new entry "SAILOR_BANISHED_TECH_AR"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2629,6 +2777,7 @@ data "OnRemoveFunctors" "IF(RemoveCause(StatusRemoveCause.TimeOut)):ApplyStatus(
 
 
 // Family: sailor_dispelevilandgood_ar
+
 new entry "SAILOR_DISPELEVILANDGOOD_AR"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2642,6 +2791,7 @@ data "StatusEffect" "07f239ed-90e5-4c00-b18f-20ebf7853d77"
 
 
 // Family: sailor_eyebite_blocker
+
 new entry "SAILOR_EYEBITE_BLOCKER"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2649,6 +2799,7 @@ data "StatusPropertyFlags" "DisableCombatlog;DisablePortraitIndicator;DisableOve
 
 
 // Family: sailor_greaterinvis_functors_ar
+
 new entry "SAILOR_GREATERINVIS_FUNCTORS_AR"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2660,6 +2811,7 @@ data "OnRemoveFunctors" "IF(HasStatus('GREATER_INVISIBILITY')):ApplyStatus(SAILO
 
 
 // Family: sailor_greaterinvis_tech_ar
+
 new entry "SAILOR_GREATERINVIS_TECH_AR"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2672,6 +2824,7 @@ data "OnApplyFunctors" "IF(HasStatus('GREATER_INVISIBILITY')):ApplyStatus(SAILOR
 
 
 // Family: scl_moonshield
+
 new entry "SCL_MOONSHIELD"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2691,6 +2844,7 @@ data "StatusEffect" ""
 
 
 // Family: scl_moonshield_aura
+
 new entry "SCL_MOONSHIELD_AURA"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2699,6 +2853,7 @@ data "StatusEffect" ""
 
 
 // Family: see_invisibility
+
 new entry "SEE_INVISIBILITY"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2721,6 +2876,7 @@ data "StatusEffect" ""
 
 
 // Family: sky_burst_block
+
 new entry "SKY_BURST_BLOCK"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2730,6 +2886,7 @@ data "Boosts" "StatusImmunity(SKY_BURST_DAMAGE_TECHNICAL);StatusImmunity(SKY_BUR
 
 
 // Family: sky_burst_damage_half_technical
+
 new entry "SKY_BURST_DAMAGE_HALF_TECHNICAL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2738,6 +2895,7 @@ data "OnApplyFunctors" "DealDamage((4d12+4)/2,Lightning,Magical)"
 
 
 // Family: sky_burst_damage_technical
+
 new entry "SKY_BURST_DAMAGE_TECHNICAL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2748,6 +2906,7 @@ data "OnApplyFunctors" "DealDamage(4d12+4,Lightning,Magical)"
 
 
 // Family: spirit_guardians_necrotic_aura
+
 new entry "SPIRIT_GUARDIANS_NECROTIC_AURA"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2756,12 +2915,14 @@ data "Icon" "Spell_Sailor_AR_SG_Necrotic"
 
 
 // Family: stone_forming_limbs
+
 new entry "STONE_FORMING_LIMBS"
 type "StatusData"
 data "StatusType" "BOOST"
 using "STONE_FORMING_LIMBS"
 data "Boosts" "UnlockSpell(Target_UnarmedAttack_StoneForming);CharacterUnarmedDamage(1d8, Bludgeoning)"
 data "RemoveEvents" "OnCombatEnded"
+
 new entry "STONESKIN"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2776,6 +2937,7 @@ data "ApplyEffect" ""
 
 
 // Family: symbiotic_entity
+
 new entry "SYMBIOTIC_ENTITY"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2784,6 +2946,7 @@ data "StatusEffect" ""
 
 
 // Family: syr_bestowcurse_curse_mental
+
 new entry "SYR_BESTOWCURSE_CURSE_MENTAL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2795,6 +2958,7 @@ data "Passives" "Syr_Bestowcurse_Curse_Mental_Passive"
 
 
 // Family: syr_calm_emotions_ally
+
 new entry "SYR_CALM_EMOTIONS_ALLY"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2807,6 +2971,7 @@ data "OnApplyFunctors" "RemoveStatus(SG_Charmed);RemoveStatus(SG_Frightened)"
 
 
 // Family: syr_flamestrike_recast_5a
+
 new entry "SYR_FLAMESTRIKE_RECAST_5A"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2819,6 +2984,7 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog"
 
 
 // Family: syr_flamestrike_recast_5a_prepare
+
 new entry "SYR_FLAMESTRIKE_RECAST_5A_PREPARE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2829,6 +2995,7 @@ data "OnRemoveFunctors" "ApplyStatus(SYR_FLAMESTRIKE_RECAST_5A,100,2)"
 
 
 // Family: syr_flamestrike_recast_5b
+
 new entry "SYR_FLAMESTRIKE_RECAST_5B"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2841,6 +3008,7 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog"
 
 
 // Family: syr_flamestrike_recast_5b_prepare
+
 new entry "SYR_FLAMESTRIKE_RECAST_5B_PREPARE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2851,6 +3019,7 @@ data "OnRemoveFunctors" "ApplyStatus(SYR_FLAMESTRIKE_RECAST_5B,100,2)"
 
 
 // Family: syr_flamestrike_recast_6a
+
 new entry "SYR_FLAMESTRIKE_RECAST_6A"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2860,6 +3029,7 @@ data "Boosts" "UnlockSpell(SYR_Target_FlameStrike_Recast_6A)"
 
 
 // Family: syr_flamestrike_recast_6a_prepare
+
 new entry "SYR_FLAMESTRIKE_RECAST_6A_PREPARE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2870,6 +3040,7 @@ data "OnRemoveFunctors" "ApplyStatus(SYR_FLAMESTRIKE_RECAST_6A,100,2)"
 
 
 // Family: syr_flamestrike_recast_6b
+
 new entry "SYR_FLAMESTRIKE_RECAST_6B"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2879,6 +3050,7 @@ data "Boosts" "UnlockSpell(SYR_Target_FlameStrike_Recast_6B)"
 
 
 // Family: syr_flamestrike_recast_6b_prepare
+
 new entry "SYR_FLAMESTRIKE_RECAST_6B_PREPARE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2889,6 +3061,7 @@ data "OnRemoveFunctors" "ApplyStatus(SYR_FLAMESTRIKE_RECAST_6B,100,2)"
 
 
 // Family: syr_flamestrike_recast_7a
+
 new entry "SYR_FLAMESTRIKE_RECAST_7A"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2898,6 +3071,7 @@ data "Boosts" "UnlockSpell(SYR_Target_FlameStrike_Recast_7A)"
 
 
 // Family: syr_flamestrike_recast_7a_prepare
+
 new entry "SYR_FLAMESTRIKE_RECAST_7A_PREPARE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2908,6 +3082,7 @@ data "OnRemoveFunctors" "ApplyStatus(SYR_FLAMESTRIKE_RECAST_7A,100,2)"
 
 
 // Family: syr_flamestrike_recast_7b
+
 new entry "SYR_FLAMESTRIKE_RECAST_7B"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2917,6 +3092,7 @@ data "Boosts" "UnlockSpell(SYR_Target_FlameStrike_Recast_7B)"
 
 
 // Family: syr_flamestrike_recast_7b_prepare
+
 new entry "SYR_FLAMESTRIKE_RECAST_7B_PREPARE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2927,6 +3103,7 @@ data "OnRemoveFunctors" "ApplyStatus(SYR_FLAMESTRIKE_RECAST_7B,100,2)"
 
 
 // Family: syr_flamestrike_recast_8a
+
 new entry "SYR_FLAMESTRIKE_RECAST_8A"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2936,6 +3113,7 @@ data "Boosts" "UnlockSpell(SYR_Target_FlameStrike_Recast_8A)"
 
 
 // Family: syr_flamestrike_recast_8a_prepare
+
 new entry "SYR_FLAMESTRIKE_RECAST_8A_PREPARE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2946,6 +3124,7 @@ data "OnRemoveFunctors" "ApplyStatus(SYR_FLAMESTRIKE_RECAST_8A,100,2)"
 
 
 // Family: syr_flamestrike_recast_8b
+
 new entry "SYR_FLAMESTRIKE_RECAST_8B"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2955,6 +3134,7 @@ data "Boosts" "UnlockSpell(SYR_Target_FlameStrike_Recast_8B)"
 
 
 // Family: syr_flamestrike_recast_8b_prepare
+
 new entry "SYR_FLAMESTRIKE_RECAST_8B_PREPARE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2965,6 +3145,7 @@ data "OnRemoveFunctors" "ApplyStatus(SYR_FLAMESTRIKE_RECAST_8B,100,2)"
 
 
 // Family: syr_flamestrike_recast_9a
+
 new entry "SYR_FLAMESTRIKE_RECAST_9A"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2974,6 +3155,7 @@ data "Boosts" "UnlockSpell(SYR_Target_FlameStrike_Recast_9A)"
 
 
 // Family: syr_flamestrike_recast_9a_prepare
+
 new entry "SYR_FLAMESTRIKE_RECAST_9A_PREPARE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2984,6 +3166,7 @@ data "OnRemoveFunctors" "ApplyStatus(SYR_FLAMESTRIKE_RECAST_9A,100,2)"
 
 
 // Family: syr_flamestrike_recast_9b
+
 new entry "SYR_FLAMESTRIKE_RECAST_9B"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -2993,6 +3176,7 @@ data "Boosts" "UnlockSpell(SYR_Target_FlameStrike_Recast_9B)"
 
 
 // Family: syr_flamestrike_recast_9b_prepare
+
 new entry "SYR_FLAMESTRIKE_RECAST_9B_PREPARE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3003,6 +3187,7 @@ data "OnRemoveFunctors" "ApplyStatus(SYR_FLAMESTRIKE_RECAST_9B,100,2)"
 
 
 // Family: syr_long_jump_aura
+
 new entry "SYR_LONG_JUMP_AURA"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3014,6 +3199,7 @@ data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;DisablePortraitIndi
 
 
 // Family: syr_long_jump_technical
+
 new entry "SYR_LONG_JUMP_TECHNICAL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3023,6 +3209,7 @@ data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;DisablePortraitIndi
 
 
 // Family: syr_wallofstone_health
+
 new entry "SYR_WALLOFSTONE_HEALTH_4"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3030,26 +3217,31 @@ data "Icon" "Spell_WallOfStone"
 data "StackId" "SYR_WALLOFSTONE_HEALTH"
 data "Boosts" "IncreaseMaxHP(10)"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+
 new entry "SYR_WALLOFSTONE_HEALTH_5"
 type "StatusData"
 data "StatusType" "BOOST"
 using "SYR_WALLOFSTONE_HEALTH_4"
 data "Boosts" "IncreaseMaxHP(20)"
+
 new entry "SYR_WALLOFSTONE_HEALTH_6"
 type "StatusData"
 data "StatusType" "BOOST"
 using "SYR_WALLOFSTONE_HEALTH_4"
 data "Boosts" "IncreaseMaxHP(30)"
+
 new entry "SYR_WALLOFSTONE_HEALTH_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "SYR_WALLOFSTONE_HEALTH_4"
 data "Boosts" "IncreaseMaxHP(40)"
+
 new entry "SYR_WALLOFSTONE_HEALTH_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "SYR_WALLOFSTONE_HEALTH_4"
 data "Boosts" "IncreaseMaxHP(50)"
+
 new entry "SYR_WALLOFSTONE_HEALTH_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3058,6 +3250,7 @@ data "Boosts" "IncreaseMaxHP(60)"
 
 
 // Family: tad_shield_of_thralls
+
 new entry "TAD_SHIELD_OF_THRALLS"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3066,6 +3259,7 @@ data "StatusEffect" ""
 
 
 // Family: thunder_note_concentration_imperil
+
 new entry "THUNDER_NOTE_CONCENTRATION_IMPERIL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3075,6 +3269,7 @@ data "StatusPropertyFlags" "DisableCombatlog;DisableOverhead;DisablePortraitIndi
 
 
 // Family: val_bestowcurse_curse_mental
+
 new entry "VAL_BESTOWCURSE_CURSE_MENTAL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3092,6 +3287,7 @@ data "StatusEffect" "a15aaf6c-5fcd-4602-a7b5-343c98d49591"
 
 
 // Family: val_bestowcurse_curse_physical
+
 new entry "VAL_BESTOWCURSE_CURSE_PHYSICAL"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3111,48 +3307,56 @@ data "ManagedStatusEffectGroup" "6435c10a-c67d-4f79-8813-b84b0762f92b"
 
 
 // Family: val_divine_favor
+
 new entry "VAL_DIVINE_FAVOR_2"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DIVINE_FAVOR"
 data "DescriptionParams" "DealDamage(1d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(1d4,Radiant)"
+
 new entry "VAL_DIVINE_FAVOR_3"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DIVINE_FAVOR"
 data "DescriptionParams" "DealDamage(1d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(1d4,Radiant)"
+
 new entry "VAL_DIVINE_FAVOR_4"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DIVINE_FAVOR"
 data "DescriptionParams" "DealDamage(2d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(2d4,Radiant)"
+
 new entry "VAL_DIVINE_FAVOR_5"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DIVINE_FAVOR"
 data "DescriptionParams" "DealDamage(2d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(2d4,Radiant)"
+
 new entry "VAL_DIVINE_FAVOR_6"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DIVINE_FAVOR"
 data "DescriptionParams" "DealDamage(3d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(3d4,Radiant)"
+
 new entry "VAL_DIVINE_FAVOR_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DIVINE_FAVOR"
 data "DescriptionParams" "DealDamage(3d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(3d4,Radiant)"
+
 new entry "VAL_DIVINE_FAVOR_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DIVINE_FAVOR"
 data "DescriptionParams" "DealDamage(4d4,Radiant)"
 data "Boosts" "CharacterWeaponDamage(4d4,Radiant)"
+
 new entry "VAL_DIVINE_FAVOR_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3162,6 +3366,7 @@ data "Boosts" "CharacterWeaponDamage(4d4,Radiant)"
 
 
 // Family: val_hail_of_thorns
+
 new entry "VAL_HAIL_OF_THORNS"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3170,48 +3375,56 @@ data "Description" "h19ce1647gc8adg4ddfgb727g2d8ae5c2fd01;1"
 data "OnApplyRoll" "not SavingThrow(Ability.Dexterity, ManeuverSaveDC()+2)"
 data "OnApplySuccess" "DealDamage(1d10,Piercing,Magical);ApplyStatus(BLEEDING,100,2)"
 data "OnApplyFail" "DealDamage(1d10/2,Piercing,Magical)"
+
 new entry "VAL_HAIL_OF_THORNS_2"
 type "StatusData"
 data "StatusType" "BOOST"
 using "VAL_HAIL_OF_THORNS"
 data "OnApplySuccess" "DealDamage(2d10,Piercing,Magical);ApplyStatus(BLEEDING,100,2)"
 data "OnApplyFail" "DealDamage(2d10/2,Piercing,Magical)"
+
 new entry "VAL_HAIL_OF_THORNS_3"
 type "StatusData"
 data "StatusType" "BOOST"
 using "VAL_HAIL_OF_THORNS"
 data "OnApplySuccess" "DealDamage(3d10,Piercing,Magical);ApplyStatus(BLEEDING,100,2)"
 data "OnApplyFail" "DealDamage(3d10/2,Piercing,Magical)"
+
 new entry "VAL_HAIL_OF_THORNS_4"
 type "StatusData"
 data "StatusType" "BOOST"
 using "VAL_HAIL_OF_THORNS"
 data "OnApplySuccess" "DealDamage(4d10,Piercing,Magical);ApplyStatus(BLEEDING,100,2)"
 data "OnApplyFail" "DealDamage(4d10/2,Piercing,Magical)"
+
 new entry "VAL_HAIL_OF_THORNS_5"
 type "StatusData"
 data "StatusType" "BOOST"
 using "VAL_HAIL_OF_THORNS"
 data "OnApplySuccess" "DealDamage(5d10,Piercing,Magical);ApplyStatus(BLEEDING,100,2)"
 data "OnApplyFail" "DealDamage(5d10/2,Piercing,Magical)"
+
 new entry "VAL_HAIL_OF_THORNS_6"
 type "StatusData"
 data "StatusType" "BOOST"
 using "VAL_HAIL_OF_THORNS"
 data "OnApplySuccess" "DealDamage(6d10,Piercing,Magical);ApplyStatus(BLEEDING,100,2)"
 data "OnApplyFail" "DealDamage(6d10/2,Piercing,Magical)"
+
 new entry "VAL_HAIL_OF_THORNS_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "VAL_HAIL_OF_THORNS"
 data "OnApplySuccess" "DealDamage(7d10,Piercing,Magical);ApplyStatus(BLEEDING,100,2)"
 data "OnApplyFail" "DealDamage(7d10/2,Piercing,Magical)"
+
 new entry "VAL_HAIL_OF_THORNS_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "VAL_HAIL_OF_THORNS"
 data "OnApplySuccess" "DealDamage(8d10,Piercing,Magical);ApplyStatus(BLEEDING,100,2)"
 data "OnApplyFail" "DealDamage(8d10/2,Piercing,Magical)"
+
 new entry "VAL_HAIL_OF_THORNS_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3221,18 +3434,21 @@ data "OnApplyFail" "DealDamage(9d10/2,Piercing,Magical)"
 
 
 // Family: vampiric_touch
+
 new entry "VAMPIRIC_TOUCH_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "VAMPIRIC_TOUCH"
 data "StackPriority" "7"
 data "Boosts" "UnlockSpell(Target_VampiricTouch_Free_7)"
+
 new entry "VAMPIRIC_TOUCH_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "VAMPIRIC_TOUCH"
 data "StackPriority" "8"
 data "Boosts" "UnlockSpell(Target_VampiricTouch_Free_8)"
+
 new entry "VAMPIRIC_TOUCH_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3242,11 +3458,13 @@ data "Boosts" "UnlockSpell(Target_VampiricTouch_Free_9)"
 
 
 // Family: walloffire
+
 new entry "WALLOFFIRE"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WALLOFFIRE"
 data "Boosts" "IF(HasPassive('ElementalAdept_Fire',GetSummoner(context.Source))):IgnoreResistance(Fire,Resistant);IF(HasPassive('ElementalAdept_Fire',GetSummoner(context.Source))):MinimumRollResult(Damage,2)"
+
 new entry "WALLOFFIRE_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3255,6 +3473,7 @@ data "DescriptionParams" "Distance(3);DealDamage(8d8,Fire)"
 data "StackId" "WALLOFFIRE_7"
 data "AuraStatuses" "IF(not Dead() and not (HasPassive('SculptSpells', context.Source) and Ally())):ApplyStatus(WALLOFFIRE_AURA_7,100,1)"
 data "TooltipDamage" "DealDamage(8d8,Fire)"
+
 new entry "WALLOFFIRE_8"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3263,6 +3482,7 @@ data "DescriptionParams" "Distance(3);DealDamage(9d8,Fire)"
 data "StackId" "WALLOFFIRE_8"
 data "AuraStatuses" "IF(not Dead() and not (HasPassive('SculptSpells', context.Source) and Ally())):ApplyStatus(WALLOFFIRE_AURA_8,100,1)"
 data "TooltipDamage" "DealDamage(9d8,Fire)"
+
 new entry "WALLOFFIRE_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3274,12 +3494,14 @@ data "TooltipDamage" "DealDamage(10d8,Fire)"
 
 
 // Family: walloffire_aura
+
 new entry "WALLOFFIRE_AURA"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WALLOFFIRE_AURA"
 data "OnApplyRoll" "WallOfFireCheck(Ability.Dexterity,CalculateSpellDC(context.PreferredCastingAbility,GetSummoner(context.Source)))"
 data "OnTickRoll" "WallOfFireCheck(Ability.Dexterity,CalculateSpellDC(context.PreferredCastingAbility,GetSummoner(context.Source)))"
+
 new entry "WALLOFFIRE_AURA_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3291,6 +3513,7 @@ data "OnApplySuccess" "IF(not HasStatus('WALLOFFIRE_DAMAGE_RECEIVED_7')):DealDam
 data "OnApplyFail" "IF(not HasStatus('WALLOFFIRE_DAMAGE_RECEIVED_7')):DealDamage(8d8/2,Fire,Magical);IF(not HasStatus('WALLOFFIRE_DAMAGE_RECEIVED_7')):ApplyStatus(WALLOFFIRE_DAMAGE_RECEIVED_7,100,1)"
 data "OnTickSuccess" "IF(not HasStatus('WALLOFFIRE_DAMAGE_RECEIVED_7') or StatusDurationLessThan(context.Source, 'WALLOFFIRE_DAMAGE_RECEIVED_7', 0.1)):DealDamage(8d8,Fire,Magical);ApplyStatus(WALLOFFIRE_DAMAGE_RECEIVED_7,100,1)"
 data "OnTickFail" "IF(not HasStatus('WALLOFFIRE_DAMAGE_RECEIVED_7') or StatusDurationLessThan(context.Source, 'WALLOFFIRE_DAMAGE_RECEIVED_7', 0.1)):DealDamage(8d8/2,Fire,Magical);ApplyStatus(WALLOFFIRE_DAMAGE_RECEIVED_7,100,1)"
+
 new entry "WALLOFFIRE_AURA_8"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3302,6 +3525,7 @@ data "OnApplySuccess" "IF(not HasStatus('WALLOFFIRE_DAMAGE_RECEIVED_8')):DealDam
 data "OnApplyFail" "IF(not HasStatus('WALLOFFIRE_DAMAGE_RECEIVED_8')):DealDamage(9d8/2,Fire,Magical);IF(not HasStatus('WALLOFFIRE_DAMAGE_RECEIVED_8')):ApplyStatus(WALLOFFIRE_DAMAGE_RECEIVED_8,100,1)"
 data "OnTickSuccess" "IF(not HasStatus('WALLOFFIRE_DAMAGE_RECEIVED_8') or StatusDurationLessThan(context.Source, 'WALLOFFIRE_DAMAGE_RECEIVED_8', 0.1)):DealDamage(9d8,Fire,Magical);ApplyStatus(WALLOFFIRE_DAMAGE_RECEIVED_8,100,1)"
 data "OnTickFail" "IF(not HasStatus('WALLOFFIRE_DAMAGE_RECEIVED_8') or StatusDurationLessThan(context.Source, 'WALLOFFIRE_DAMAGE_RECEIVED_8', 0.1)):DealDamage(9d8/2,Fire,Magical);ApplyStatus(WALLOFFIRE_DAMAGE_RECEIVED_8,100,1)"
+
 new entry "WALLOFFIRE_AURA_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3316,16 +3540,19 @@ data "OnTickFail" "IF(not HasStatus('WALLOFFIRE_DAMAGE_RECEIVED_9') or StatusDur
 
 
 // Family: walloffire_damage_received
+
 new entry "WALLOFFIRE_DAMAGE_RECEIVED_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WALLOFFIRE_DAMAGE_RECEIVED"
 data "StackId" "WALLOFFIRE_DAMAGE_RECEIVED_7"
+
 new entry "WALLOFFIRE_DAMAGE_RECEIVED_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WALLOFFIRE_DAMAGE_RECEIVED"
 data "StackId" "WALLOFFIRE_DAMAGE_RECEIVED_8"
+
 new entry "WALLOFFIRE_DAMAGE_RECEIVED_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3334,23 +3561,27 @@ data "StackId" "WALLOFFIRE_DAMAGE_RECEIVED_9"
 
 
 // Family: wallofice
+
 new entry "WALLOFICE"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WALLOFICE"
 data "Boosts" "IF(HasPassive('ElementalAdept_Cold',GetSummoner(context.Source))):IgnoreResistance(Cold,Resistant);IF(HasPassive('ElementalAdept_Cold',GetSummoner(context.Source))):MinimumRollResult(Damage,2)"
+
 new entry "WALLOFICE_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WALLOFICE"
 data "DescriptionParams" "DealDamage(12d6,Cold)"
 data "OnApplyFunctors" "CreateExplosion(Projectile_Wall_Of_Ice_Explode_7)"
+
 new entry "WALLOFICE_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WALLOFICE"
 data "DescriptionParams" "DealDamage(14d6,Cold)"
 data "OnApplyFunctors" "CreateExplosion(Projectile_Wall_Of_Ice_Explode_8)"
+
 new entry "WALLOFICE_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3360,23 +3591,27 @@ data "OnApplyFunctors" "CreateExplosion(Projectile_Wall_Of_Ice_Explode_9)"
 
 
 // Family: wallofthorn
+
 new entry "WALLOFTHORN"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WALLOFTHORN"
 data "AuraStatuses" "IF(not Dead()):ApplyStatus(WALLOFTHORN_AURA,100,1);ApplyStatus(DIFFICULT_TERRAIN_WALLOFTHORN,100,1)"
+
 new entry "WALLOFTHORN_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WALLOFTHORN"
 data "DescriptionParams" "DealDamage(8d8,Piercing)
 "data "AuraStatuses" "IF(not Dead()):ApplyStatus(WALLOFTHORN_AURA_7,100,1);ApplyStatus(DIFFICULT_TERRAIN_WALLOFTHORN,100,1)"
+
 new entry "WALLOFTHORN_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WALLOFTHORN"
 data "DescriptionParams" "DealDamage(9d8,Piercing)
 "data "AuraStatuses" "IF(not Dead()):ApplyStatus(WALLOFTHORN_AURA_8,100,1);ApplyStatus(DIFFICULT_TERRAIN_WALLOFTHORN,100,1)"
+
 new entry "WALLOFTHORN_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3386,12 +3621,14 @@ data "DescriptionParams" "DealDamage(10d8,Piercing)
 
 
 // Family: wallofthorn_aura
+
 new entry "WALLOFTHORN_AURA"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WALLOFTHORN_AURA"
 data "OnApplyRoll" "not SavingThrow(Ability.Dexterity,CalculateSpellDC(context.PreferredCastingAbility,GetSummoner(context.Source)))"
 data "OnTickRoll" "not SavingThrow(Ability.Dexterity,CalculateSpellDC(context.PreferredCastingAbility,GetSummoner(context.Source)))"
+
 new entry "WALLOFTHORN_AURA_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3402,6 +3639,7 @@ data "OnApplySuccess" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):DealDama
 data "OnApplyFail" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):DealDamage(8d8/2,Piercing,Magical);IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
 data "OnTickSuccess" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED') or StatusDurationLessThan(context.Source, 'WALLOFTHORN_DAMAGE_RECEIVED', 0.1)):DealDamage(8d8,Piercing,Magical);ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
 data "OnTickFail" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED') or StatusDurationLessThan(context.Source, 'WALLOFTHORN_DAMAGE_RECEIVED', 0.1)):DealDamage(8d8/2,Piercing,Magical);ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+
 new entry "WALLOFTHORN_AURA_8"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3412,6 +3650,7 @@ data "OnApplySuccess" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):DealDama
 data "OnApplyFail" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):DealDamage(9d8/2,Piercing,Magical);IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED')):ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
 data "OnTickSuccess" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED') or StatusDurationLessThan(context.Source, 'WALLOFTHORN_DAMAGE_RECEIVED', 0.1)):DealDamage(9d8,Piercing,Magical);ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
 data "OnTickFail" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED') or StatusDurationLessThan(context.Source, 'WALLOFTHORN_DAMAGE_RECEIVED', 0.1)):DealDamage(9d8/2,Piercing,Magical);ApplyStatus(WALLOFTHORN_DAMAGE_RECEIVED,100,1)"
+
 new entry "WALLOFTHORN_AURA_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3425,6 +3664,7 @@ data "OnTickFail" "IF(not HasStatus('WALLOFTHORN_DAMAGE_RECEIVED') or StatusDura
 
 
 // Family: warding_bond
+
 new entry "WARDING_BOND"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3434,23 +3674,25 @@ data "StatusEffect" ""
 
 
 // Family: warding_bond_caster
+
 new entry "WARDING_BOND_CASTER"
 type "StatusData"
 data "StatusType" "BOOST"
 using "WARDING_BOND_CASTER"
 data "StatusEffect" ""
+
 new entry "DEN_SILVANUS_BLESSING"
 type "StatusData"
 data "StatusType" "BOOST"
 using "DEN_SILVANUS_BLESSING"
 data "StatusPropertyFlags" "IgnoreResting;DisableOverhead;DisableCombatlog"
+
 new entry "BURNING"
 type "StatusData"
 data "StatusType" "BOOST"
 using "BURNING"
 data "StatusPropertyFlags" "InitiateCombat;Burning;DisableOverhead;IgnoreResting;DisableCombatlog"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Shadowblade_Flameblade.txt
 new entry "SHADOW_BLADE_7"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3458,6 +3700,7 @@ using "SHADOW_BLADE"
 data "Boosts" "Attribute(InventoryBound);WeaponDamageDieOverride(4d6);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
 
 //9//
+
 new entry "SHADOW_BLADE_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3474,6 +3717,7 @@ data "DescriptionParams" "DealDamage(4d6,Fire);Distance(3);Distance(6)"
 data "Boosts" "Attribute(InventoryBound);WeaponDamageDieOverride(4d6);GameplayLight(3,false,0.1);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
 
 //9//
+
 new entry "FLAME_BLADE_9"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3484,7 +3728,6 @@ data "Boosts" "Attribute(InventoryBound);WeaponDamageDieOverride(5d6);GameplayLi
 ///actual spells///
 
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/ShortRestMagics.txt
 new entry "SHORT_REST"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3504,7 +3747,6 @@ data "StatusType" "BOOST"
 data "Passives" ""
 
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Status_BOOST.txt
 new entry "HEALTHBOOST_HARDCORE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3770,7 +4012,6 @@ using "DIFFICULTY_GUSTAVDEV"
 data "Boosts" "IncreaseMaxHP(1%)"
 
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Act1NerfPassives.txt
 new entry "HALSIN_SHADOWPORTAL_HARDCORE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3778,7 +4019,6 @@ using "HALSIN_SHADOWPORTAL_HARDCORE"
 data "Boosts" ""
 
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/Status_BOOST.txt
 new entry "LASTJUSTICIAR_HARDCORE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3803,7 +4043,6 @@ using "DIFFICULTY_GUSTAVDEV"
 data "Boosts" "IncreaseMaxHP(100%);UnlockSpell(Target_MistyStep_Githyanki)"
 data "Passives" "GrimHarvest;ClarifiedMortality;Alert;ExtraAttack;SYR_Feat_DeadlyAlacrity_Passive"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/WetStatus.txt
 new entry "WET"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3831,7 +4070,6 @@ data "SplatterDirtAmount" "-2"
 data "SplatterBloodAmount" "-2"
 data "SplatterSweatAmount" "-2"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/stolenDIQMiscPatches.txt
 new entry "DARK_ENDURANCE_DOWNED"
 type "StatusData"
 data "StatusType" "DOWNED"
@@ -3979,7 +4217,6 @@ data "StatusEffect" "a0f74dff-7074-45aa-a4d2-a131d7f328f5"
 data "SoundLoop" "Misc_Status_Bloodeless_MO"
 data "SoundStop" "Misc_Status_Bloodeless_MO_Stop"
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Armor.txt
 new entry "Ajax_Disruption_Aura"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -3989,7 +4226,6 @@ data "StatusPropertyFlags" ""
 //// ////
     
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/BuletteChanges.txt
 new entry "UND_BULETTE_HARDCORE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -4003,7 +4239,6 @@ data "StatusType" "BOOST"
 using "DIAMONDSCALES_BULETTE"
 data "Boosts" "Attribute(Grounded);IgnoreDamageThreshold(All,10);TemporaryHP(125)"
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Character.txt
 new entry "UND_ADAMANTINEGOLEM_DEFAULT"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -4015,7 +4250,6 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndi
 
 // Steel Watcher Titan - Gortash's Magnum Opus - HONOUR MODE INHERITANCE (Added Boss boost)
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/MakeUnstoppableNotSuck.txt
 // ==================================== Unstoppable ====================================
 
 new entry "DEATHSHEAD_UNSTOPPABLE_1"
@@ -4194,7 +4428,6 @@ data "DescriptionParams" "12"
 data "Boosts" "IF(HasStatus('DEATHSHEAD_UNSTOPPABLE_12',context.Source)):DamageReduction(All, Flat, 12);Attribute(Grounded)"
 // data "OnRemoveFunctors" "ApplyStatus(DEATHSHEAD_UNSTOPPABLE_11,100,-1)"
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Passive.txt
 ////Set up a unique CbD Status////
 
 new entry "Ajax_CbD_Status"
@@ -4231,7 +4464,6 @@ data "Boosts" ""
 data "TickFunctors" "IF(HasHPLessThan(51,context.Source)):RegainHitPoints(2d8)"
 data "Icon" "PassiveFeature_Generic_Magical"
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/PassiveForABow.txt
 new entry "RandomRunes"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -4241,7 +4473,6 @@ data "StatusPropertyFlags" "FreezeDuration"
 data "OnApplyFunctors" "ApplyStatus(RandomRunes_Technical, 100, 0)"
 
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Status_BOOSTForABow.txt
 new entry "RandomRunes"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -4251,7 +4482,6 @@ data "StatusPropertyFlags" "FreezeDuration"
 data "OnApplyFunctors" "ApplyStatus(RandomRunes_Technical, 100, 0)"
 
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/PassiveForABow.txt
 new entry "RandomRunes_Technical"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -4259,7 +4489,6 @@ data "DisplayName" "h0a45cebag6c15g4ed5ga194g9f456a9e3a88;1"
 data "OnRemoveFunctors" "IF(GetStatusDuration('RandomRunes') == 1):DealDamage(1d6, Acid,Magical);IF(GetStatusDuration('RandomRunes') == 2):DealDamage(1d6, Cold,Magical);IF(GetStatusDuration('RandomRunes') == 3):DealDamage(1d6, Fire,Magical);IF(GetStatusDuration('RandomRunes') == 4):DealDamage(1d6, Force,Magical);IF(ConditionResult(GetStatusDuration('RandomRunes') == 5)):DealDamage(1d6, Lightning,Magical);IF(GetStatusDuration('RandomRunes') == 6):DealDamage(1d6, Necrotic,Magical);IF(GetStatusDuration('RandomRunes') == 7):DealDamage(1d6, Poison,Magical);IF(GetStatusDuration('RandomRunes') == 8):DealDamage(1d6, Psychic,Magical);RemoveStatus(RandomRunes);IF(GetStatusDuration('RandomRunes') == 9):DealDamage(1d6, Radiant,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 10)):DealDamage(1d6, Thunder,Magical);RemoveStatus(RandomRunes);IF(GetStatusDuration('RandomRunes') == 11):DealDamage(1d6, Acid,Magical);IF(GetStatusDuration('RandomRunes') == 11):DealDamage(1d6, Necrotic,Magical);RemoveStatus(RandomRunes);IF(GetStatusDuration('RandomRunes') == 12):DealDamage(1d6, Cold,Magical);IF(GetStatusDuration('RandomRunes') == 12):DealDamage(1d6, Fire,Magical);RemoveStatus(RandomRunes);IF(GetStatusDuration('RandomRunes') == 13):DealDamage(3d4, Force,Magical);RemoveStatus(RandomRunes);IF(GetStatusDuration('RandomRunes') == 14):DealDamage(1d6, Lightning,Magical);IF(GetStatusDuration('RandomRunes') == 14):DealDamage(1d6, Thunder,Magical);RemoveStatus(RandomRunes);IF(GetStatusDuration('RandomRunes') == 15):DealDamage(3d4, Radiant,Magical);RemoveStatus(RandomRunes);IF(GetStatusDuration('RandomRunes') == 16):DealDamage(1d6, Acid,Magical);IF(GetStatusDuration('RandomRunes') == 16):DealDamage(1d6, Cold,Magical);IF(GetStatusDuration('RandomRunes') == 16):DealDamage(1d6, Fire,Magical);IF(GetStatusDuration('RandomRunes') == 16):DealDamage(1d6, Lightning,Magical);IF(GetStatusDuration('RandomRunes') == 16):DealDamage(1d6, Thunder,Magical);RemoveStatus(RandomRunes);IF(GetStatusDuration('RandomRunes') == 17):DealDamage(1d6, Force,Magical);IF(GetStatusDuration('RandomRunes') == 17):DealDamage(1d6, Necrotic,Magical);IF(GetStatusDuration('RandomRunes') == 17):DealDamage(1d6, Psychic,Magical);IF(GetStatusDuration('RandomRunes') == 17):DealDamage(1d6, Radiant,Magical);IF(GetStatusDuration('RandomRunes') == 17):DealDamage(1d6, Poison,Magical);RemoveStatus(RandomRunes);IF(GetStatusDuration('RandomRunes') == 18):DealDamage(1d8, Acid,Magical);RemoveStatus(RandomRunes);IF(GetStatusDuration('RandomRunes') == 19):DealDamage(1d8, Cold,Magical);RemoveStatus(RandomRunes);IF(GetStatusDuration('RandomRunes') == 20):DealDamage(1d8, Fire,Magical);RemoveStatus(RandomRunes)"
 
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Status_BOOSTForABow.txt
 new entry "RandomRunes_Technical"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -4267,7 +4496,6 @@ data "DisplayName" "h0a45cebag6c15g4ed5ga194g9f456a9e3a88;1"
 data "OnRemoveFunctors" "IF(ConditionResult(GetStatusDuration('RandomRunes') == 1)):DealDamage(1d6, Acid,Magical);IF(ConditionResult(GetStatusDuration('RandomRunes') == 2)):DealDamage(1d6, Cold,Magical);IF(ConditionResult(GetStatusDuration('RandomRunes') == 3)):DealDamage(1d6, Fire,Magical);IF(ConditionResult(GetStatusDuration('RandomRunes') == 4)):DealDamage(1d6, Force,Magical);IF(ConditionResult(GetStatusDuration('RandomRunes') == 5)):DealDamage(1d6, Lightning,Magical);IF(ConditionResult(GetStatusDuration('RandomRunes') == 6)):DealDamage(1d6, Necrotic,Magical);IF(ConditionResult(GetStatusDuration('RandomRunes') == 7)):DealDamage(1d6, Poison,Magical);IF(ConditionResult(GetStatusDuration('RandomRunes') == 8)):DealDamage(1d6, Psychic,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 9)):DealDamage(1d6, Radiant,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 10)):DealDamage(1d6, Thunder,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 11)):DealDamage(1d6, Acid,Magical);DealDamage(1d6, Necrotic,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 12)):DealDamage(1d6, Cold,Magical);DealDamage(1d6, Fire,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 13)):DealDamage(3d4, Force,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 14)):DealDamage(1d6, Lightning,Magical);DealDamage(1d6, Thunder,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 15)):DealDamage(3d4, Radiant,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 16)):DealDamage(1d6, Acid,Magical);DealDamage(1d6, Cold,Magical);DealDamage(1d6, Fire,Magical);DealDamage(1d6, Lightning,Magical);DealDamage(1d6, Thunder,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 17)):DealDamage(1d6, Force,Magical);DealDamage(1d6, Necrotic,Magical);DealDamage(1d6, Psychic,Magical);DealDamage(1d6, Radiant,Magical);DealDamage(1d6, Poison,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 18)):DealDamage(1d8, Acid,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 19)):DealDamage(1d8, Cold,Magical);RemoveStatus(RandomRunes);IF(ConditionResult(GetStatusDuration('RandomRunes') == 20)):DealDamage(1d8, Fire,Magical);RemoveStatus(RandomRunes)"
 
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/PhasedBossFights.txt
 new entry "DRUNK_Kobold"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -4276,7 +4504,6 @@ data "Boosts" "Ability(Strength,2);Disadvantage(Ability,Dexterity);Disadvantage(
 data "StatusPropertyFlags" "LoseControl;OverheadOnTurn;InitiateCombat;BringIntoCombat"
 
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Wwargaz.txt
 new entry "CRE_MINDSTEAL_LINK_SOURCE"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -4313,7 +4540,6 @@ data "ApplyEffect" "73048481-886c-41c9-b71c-2313aeb44f59"
 data "StatusEffect" "c58a99b4-7a8e-4a52-82e6-d58ea005cd71"
 
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/petrify.txt
 new entry "PETRIFIED"
 type "StatusData"
 data "StatusType" "INCAPACITATED"
