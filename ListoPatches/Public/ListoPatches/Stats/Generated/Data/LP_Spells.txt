@@ -998,25 +998,25 @@ data "DisplayName" "h3f6b9952g6dd6g48c9g927bgb0d26c3e0b95;1"
 data "Description" "h2a05f823g53fdg47b3gb24cg41116a4cc174;1"
 data "UseCosts" "ActionPoint:1"
 
-// ================================= Sun Prince's Breastplate =================================
-// Divine Protection: Fix  the Turned status applying to the wearer instead of the attacker 
+
 new entry "Projectile_Barrel_Explosion_Smokepowder"
 type "SpellData"
 data "SpellType" "Projectile"
 using "Projectile_Barrel_Explosion_Smokepowder"
-data "SpellSuccess" "IF(not Item()):DealDamage(1d4,Fire);IF(not Item()):DealDamage(1d4,Bludgeoning);IF(not Item()):DealDamage(1d4,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(4d4+18,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(8d4+36,Force);Force(3, TargetToEntity)"
-data "SpellFail" "IF(not Item()):DealDamage((1d4)/2,Fire);IF(not Item()):DealDamage((1d4)/2,Bludgeoning);IF(not Item()):DealDamage((1d4)/2,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((4d4+18)/2,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((8d4+36)/2,Force)"
-data "TooltipDamageList" "DealDamage(1d4,Fire);DealDamage(1d4,Bludgeoning);DealDamage(1d4,Slashing)"
+data "SpellSuccess" "IF(not Item()):DealDamage(3d4,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(4d4+18,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(8d4+36,Force);Force(3, TargetToEntity)"
+data "SpellFail" "IF(not Item()):DealDamage((3d4)/2,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((4d4)/2,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((8d4)/2,Force)"
+data "TooltipDamageList" "DealDamage(3d4,Slashing)"
 data "SpellFlags" "AddFallDamageOnLand;IsHarmful;RangeIgnoreVerticalThreshold;CanAreaDamageEvade;ImmediateCast;DisplayInItemTooltip"
-data "DamageType" "Fire"
+data "DamageType" "Slashing"
 
 new entry "Projectile_ArrowOfSmokepowder"
 type "SpellData"
 data "SpellType" "Projectile"
 using "Projectile_ArrowOfSmokepowder"
-data "SpellSuccess" "IF(not Item()):DealDamage(1d6,Fire);IF(not Item()):DealDamage(1d6,Bludgeoning);IF(not Item()):DealDamage(1d6,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(4d6,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(8d6,Force);Force(3, TargetToEntity)"
-data "SpellFail" "IF(not Item()):DealDamage((1d6)/2,Fire);IF(not Item()):DealDamage((1d6)/2,Bludgeoning);IF(not Item()):DealDamage((1d6)/2,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((4d6)/2,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((8d6)/2,Force)"
-data "TooltipDamageList" "DealDamage(1d6,Fire);DealDamage(1d6,Bludgeoning);DealDamage(1d6,Slashing)"
+data "SpellSuccess" "IF(not Item()):DealDamage(2d4,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(4d6,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(8d6,Force);Force(3, TargetToEntity)"
+data "SpellFail" "IF(not Item()):DealDamage((2d4)/2,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((4d6)/2,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((8d6)/2,Force)"
+data "TooltipDamageList" "DealDamage(2d4,Slashing)"
+data "DamageType" "Slashing"
 
 new entry "Projectile_Bomb"
 type "SpellData"
@@ -1024,15 +1024,11 @@ data "SpellType" "Projectile"
 using "Projectile_Bomb"
 data "AreaRadius" "6"
 data "ExplodeRadius" "6"
-data "SpellSuccess" "IF(not Item()):DealDamage(1d6,Fire);IF(not Item()):DealDamage(1d6,Bludgeoning);IF(not Item()):DealDamage(1d6,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(4d6,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(8d6,Force);Force(3, TargetToEntity)"
-data "SpellFail" "IF(not Item()):DealDamage((1d6)/2,Fire);IF(not Item()):DealDamage((1d6)/2,Bludgeoning);IF(not Item()):DealDamage((1d6)/2,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((4d6)/2,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((8d6)/2,Force)"
-data "TooltipDamageList" "DealDamage(1d6,Fire);DealDamage(1d6,Bludgeoning);DealDamage(1d6,Slashing)"
-data "DamageType" "Fire"
+data "SpellSuccess" "IF(not Item()):DealDamage(2d8,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(4d6,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage(8d6,Force);Force(3, TargetToEntity)"
+data "SpellFail" "IF(not Item()):DealDamage((2d8)/2,Slashing);IF(Item() and not (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((4d6)/2,Force);IF(Item() and (HasStatus('DEBRIS_THRESHOLD_GREATER') or HasStatus('DEBRIS_THRESHOLD') or HasStatus('DEBRIS_THRESHOLD_LESSER'))):DealDamage((8d6)/2,Force)"
+data "TooltipDamageList" "DealDamage(2d8,Slashing)"
+data "DamageType" "Slashing"
 
-///Vecna Nerfing
-
-
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/PaladinAuraRange.txt
 new entry "Shout_AuraOf_Courage"
 type "SpellData"
 data "SpellType" "Shout"
@@ -1106,13 +1102,11 @@ data "SpellType" "Shout"
 using "Shout_AuraOf_Warding_2"
 data "AreaRadius" "15"
 
-
 new entry "Shout_AuraOfSentinel"
 type "SpellData"
 data "SpellType" "Shout"
 using "Shout_AuraOfSentinel"
 data "AreaRadius" "9"
-
 
 new entry "Shout_AuraOfAlacrity"
 type "SpellData"
@@ -1120,20 +1114,15 @@ data "SpellType" "Shout"
 using "Shout_AuraOfAlacrity"
 data "AreaRadius" "9"
 
-
 new entry "Shout_LHB_AuraOfEnmity"
 type "SpellData"
 using "Shout_LHB_AuraOfEnmity"
 data "AreaRadius" "9"
 
-
 new entry "LHB_AURA_OF_CONQUEST_UPGRADE"
 type "SpellData"
 using "LHB_AURA_OF_CONQUEST_UPGRADE"
 data "AreaRadius" "15"
-
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/PhalarAluve.txt
-///////////////PHALAR ALUVE SPELLS REBALANCE
 
 new entry "Shout_MAG_Harpers_SingingSword_Container_v2"
 type "SpellData"
@@ -1433,11 +1422,6 @@ data "SpellSuccess" "IF(Character() and HasWeaponInMainHand() and not SavingThro
 // ========================== Staff of Interruption: Counterspell ==========================
 // Fix Counterspell from the weapon not actually rolling as a level 5 Counterspell
 
-
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/SPELLS.txt
-// Player and general spell declarations
-// Consolidated from ListoMasterSpells into ListoPatches.
-// Entry identity is the exact combination of type and name.
 
 // Family: projectile_acidsplash
 new entry "Projectile_AcidSplash"
