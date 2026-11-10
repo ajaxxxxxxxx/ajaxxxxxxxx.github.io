@@ -2,6 +2,8 @@ new treasuretable "UND_Bulette"
 CanMerge 1
 new subtable "-1"
 object category "I_UND_Noblestalk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "UND_Tower_SecretCellar_RewardChest"
 CanMerge 1
@@ -10,6 +12,8 @@ object category "I_UND_Noblestalk",1,0,0,0,0,0,0,0
 object category "I_BW_SOTF_WPN_HUM_Shield_Thunder",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_Weaponsmith_Trade"
 CanMerge 1
@@ -23,7 +27,7 @@ object category "I_COF_TANK",1,0,0,0,0,0,0,0
 object category "I_DeGreaser_Gloves_of_Gecko_Grip",1,0,0,0,0,0,0,0
 new subtable "3,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
-new subtable "1,1"
+new subtable "2,1"
 object category "T_Artificer_Firearm",1,0,0,0,0,0,0,0
 
 new treasuretable "HAV_Weaponsmith_Trade"
@@ -32,7 +36,7 @@ new subtable "-1"
 object category "I_BW_SOTF_WPN_HUM_Shield_Church_of_Orian_Radiance",1,0,0,0,0,0,0,0
 object category "I_COF_RANG_ROLL",1,0,0,0,0,0,0,0
 object category "I_COF_SPELL_ROLL",1,0,0,0,0,0,0,0
-new subtable "1,1"
+new subtable "2,1"
 object category "T_Artificer_Firearm",1,0,0,0,0,0,0,0
 
 new treasuretable "GOB_Quartermaster"
@@ -44,12 +48,10 @@ object category "I_BW_SOTF_WPN_HUM_Shield_Garish_Display",1,0,0,0,0,0,0,0
 object category "I_MAG_Crit_Dagger",1,0,0,0,0,0,0,0
 new subtable "2,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "T_Artificer_Firearm",1,0,0,0,0,0,0,0
 
 new treasuretable "MOO_ZhentQuartermaster"
 CanMerge 1
-new subtable "1,1"
+new subtable "2,1"
 object category "T_Artificer_Firearm",1,0,0,0,0,0,0,0
 
 new treasuretable "MOO_InfernalTrader_Trade"
@@ -84,6 +86,8 @@ new subtable "-1"
 object category "I_MAG_Selunite_Isobel_Robe",1,0,0,0,0,0,0,0
 object category "I_UNI_DarkUrge_Bhaal_Cloak",1,0,0,0,0,0,0,0
 object category "I_ORI_Wyll_Infernal_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_VoicelessPenitent"
 CanMerge 1
@@ -110,6 +114,8 @@ object category "I_MAG_Shadow_Shortsword",1,0,0,0,0,0,0,0
 object category "I_MAG_BG_Darkfire_Shortbow",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "MOO_BugBearVendor_PrivateStash"
 CanMerge 1
@@ -119,7 +125,7 @@ object category "I_MAG_PHB_OfLifestealing_Shortsword",1,0,0,0,0,0,0,0
 object category "I_MAG_Fire_HeatOnWeaponDamage_Battleaxe",1,0,0,0,0,0,0,0
 object category "I_MAG_Bonded_Shocking_Warhammer",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+object category "T_CL_Random_Roll",2,0,0,0,0,0,0,0
 
 new treasuretable "WYR_OrinsImpersonation_Smith"
 CanMerge 1
@@ -220,7 +226,7 @@ object category "I_BEDIZENED_HALS",1,0,0,0,0,0,0,0
 object category "I_BATTLEWORN_SHIELD",1,0,0,0,0,0,0,0
 object category "I_MAG_Gale_Cloak",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+object category "T_CL_Random_Roll",3,0,0,0,0,0,0,0
 
 new treasuretable "DEN_Entrance_Trade"
 CanMerge 1
@@ -240,11 +246,15 @@ new treasuretable "LOW_SorcerousSundries_SecretRoom3_Treasure"
 CanMerge 1
 new subtable "-1"
 object category "I_Endgame_caster_Robe",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_SorcerousSundries_MystraVault_Weapon_Treasure"
 CanMerge 1
 new subtable "-1"
 object category "I_Endgame_caster_headwear",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_SteepsTrader_Armor"
 CanMerge 1
@@ -258,7 +268,7 @@ CanMerge 1
 new subtable "-1"
 object category "I_DeGreaser_Flamepearls_Vorpal_Greataxe",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+object category "T_CL_Random_Roll",3,0,0,0,0,0,0,0
 
 new treasuretable "LOW_SorcerousSundries_Trade_Magic"
 CanMerge 1
@@ -266,7 +276,7 @@ new subtable "-1"
 object category "I_Endgame_caster_Gloves",1,0,0,0,0,0,0,0
 object category "I_BW_SOTF_WPN_HUM_Shield_Angel_Aegis",1,0,0,0,0,0,0,0
 new subtable "3,1"
-object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+object category "T_CL_Random_Roll",3,0,0,0,0,0,0,0
 
 new treasuretable "LOW_StormshoreTabernacle_Guardian"
 CanMerge 1
@@ -285,6 +295,8 @@ new treasuretable "WYR_JungleOfChult_Arcanic_Treasure"
 CanMerge 1
 new subtable "1,1"
 object category "I_BT_ES_WPN_HUM_Shield_Dragon_Gold_Balanced",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_Ironhand_Magic_Merchant"
 CanMerge 1
@@ -296,7 +308,7 @@ CanMerge 1
 new subtable "-1"
 object category "I_BT_ES_WPN_HUM_Shield_Royal_Guard_Gold_Balanced",1,0,0,0,0,0,0,0
 new subtable "2,1"
-object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+object category "T_CL_Random_Roll",3,0,0,0,0,0,0,0
 
 new treasuretable "FED_ArkleiaOloril"
 CanMerge 1
@@ -319,6 +331,8 @@ object category "I_ARA_Cloak_Legendary_Justiciar",1,0,0,0,0,0,0,0
 object category "I_MAG_Bat_Cloak",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "FED_Holvik"
 CanMerge 1
@@ -360,6 +374,8 @@ new treasuretable "FED_RaphaelVault"
 CanMerge 1
 new subtable "-1"
 object category "I_BT_ES_WPN_HUM_Shield_Celestial_Gold_Balanced",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_GoblinRaider_Captain"
 CanMerge 1
@@ -373,6 +389,8 @@ object category "I_BW_SOTF_WPN_HUM_Shield_Crimson_Rector",1,0,0,0,0,0,0,0
 object category "I_DeGreaser_Sussurstring_Bow",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "COL_Barracks_MistressOfSouls"
 CanMerge 1
@@ -403,7 +421,7 @@ new subtable "-1"
 object category "I_BW_SOTF_WPN_HUM_Shield_Moonlit_Emissary",1,0,0,0,0,0,0,0
 object category "I_MAG_Brimstone_Cloak",1,0,0,0,0,0,0,0
 new subtable "2,1"
-object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+object category "T_CL_Random_Roll",2,0,0,0,0,0,0,0
 
 new treasuretable "CRE_RooftopExploration_Chest"
 CanMerge 1
@@ -414,6 +432,8 @@ new treasuretable "GOB_PriestChanber_Chest"
 CanMerge 1
 new subtable "-1"
 object category "I_BW_SOTF_WPN_HUM_Shield_Pale_Eye",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "PLA_ConflictedFlind"
 CanMerge 1
@@ -502,6 +522,8 @@ new treasuretable "TWN_Brewer_Treasure"
 CanMerge 1
 new subtable "-1"
 object category "I_ARA_Cloak_VeryRare_BonusAction",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "TWN_Brewer"
 CanMerge 1
@@ -514,16 +536,22 @@ new subtable "-1"
 object category "I_ARA_Cloak_Rare_Reeling",1,0,0,0,0,0,0,0
 object category "I_WPN_Voltstrike_Blade_Broken",1,0,0,0,0,0,0,0
 object category "I_DeGreaser_Galloways_Goggles_of_True_Sight",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "HAG_WoodWoad_Chest"
 CanMerge 1
 new subtable "-1"
 object category "I_ARA_Cloak_Rare_Lightning",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "MOO_MimicReward"
 CanMerge 1
 new subtable "-1"
 object category "I_ARA_Cloak_VeryRare_ManyEyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "SCL_TollHouseExplorationChest"
 CanMerge 1
@@ -535,6 +563,8 @@ CanMerge 1
 new subtable "-1"
 object category "I_ARA_Cloak_Legendary_PaleWidow",1,0,0,0,0,0,0,0
 object category "I_WPN_Morningstar_Lloth",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "SCL_ServantOfTheRaven_Reward"
 CanMerge 1
@@ -567,6 +597,8 @@ new treasuretable "CRE_GremishkaNest"
 CanMerge 1
 new subtable "-1"
 object category "I_MAG_MystralWand",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_Weaponsmith_Trade"
 CanMerge 1
@@ -629,6 +661,8 @@ new treasuretable "GOB_King_Treasures"
 CanMerge 1
 new subtable "-1"
 object category "I_COF_REAC_TAKE_DMG",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "COF_LEG_CHEST"
 CanMerge 1
@@ -644,6 +678,8 @@ new treasuretable "FED_MRT_Balthazar_SecretRm_Chest"
 CanMerge 1
 new subtable "1,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "FED_ByOliverShed_WdnChest"
 CanMerge 1
@@ -654,6 +690,8 @@ new treasuretable "FED_CursedKuoChiefCursed"
 CanMerge 1
 new subtable "1,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_BlushingMermaid_Barkeep"
 CanMerge 1
@@ -787,6 +825,8 @@ object category "I_NAI_Theifs_Ring",1,0,0,0,0,0,0,0
 object category "I_NAI_Theifs_Amulet",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "SHA_HiddenRoom_Magic_Chest"
 CanMerge 1
@@ -864,6 +904,8 @@ new subtable "-1"
 object category "I_WPN_ChaosFang",1,0,0,0,0,0,0,0
 object category "I_OBJ_Voltstrike_Broken_Blade",1,0,0,0,0,0,0,0
 object category "I_Sharblood",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "FED_TollHouse_Hidden"
 CanMerge 1
@@ -1056,6 +1098,8 @@ new treasuretable "FED_GrymForge_HvyChest_Jelly"
 CanMerge 1
 new subtable "-1"
 object category "I_DeGreaser_Adamantine_String_Bow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "LOW_SteepsTrader_BooksAndScrolls"
 CanMerge 1
@@ -1066,6 +1110,8 @@ new treasuretable "FED_UD_Spectator"
 CanMerge 1
 new subtable "-1"
 object category "I_DeGreaser_Yaccocmuuds_Yin",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "FED_Morgue_HiddenChest"
 CanMerge 1
