@@ -15,7 +15,7 @@ data "RootTemplate" "7a8572be-fade-4971-af0d-22f9061ea0da"
 data "ValueUUID" "a229f048-70b0-4b0c-88cb-29b5c6bdb2d0"
 data "Rarity" "Rare"
 data "PassivesOnEquip" "UNI_DarkUrge_Stealth_Expertise_Passive"
-data "Unique" "1"
+data "Unique" "0"
 
 // === CL_DK_StarterHelmet.txt ===
 new entry "CL_DK_StarterHelmet"
@@ -490,7 +490,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Caustic"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Hand Crossbow
 new entry "CL_WPN_MAG_Caustic_HandCrossbow"
@@ -500,7 +500,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b012-00000000ac1d"
 data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Caustic"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
-data "Unique" "1"
+data "Unique" "0"
 
 // Javelin
 new entry "CL_WPN_MAG_Caustic_Javelin"
@@ -510,7 +510,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b014-00000000ac1d"
 data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Caustic"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
-data "Unique" "1"
+data "Unique" "0"
 
 // Mace
 new entry "CL_WPN_MAG_Caustic_Mace"
@@ -520,7 +520,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b019-00000000ac1d"
 data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Caustic"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
-data "Unique" "1"
+data "Unique" "0"
 
 // === CL_WPN_MAG_Enchantment_Cauterising.txt ===
 new entry "CL_Passive_WPN_Cauterising"
@@ -542,7 +542,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Cauterising"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Glaive
 new entry "CL_WPN_MAG_Cauterising_Glaive"
@@ -554,7 +554,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Cauterising"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Greataxe
 new entry "CL_WPN_MAG_Cauterising_Greataxe"
@@ -566,7 +566,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Cauterising"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Halberd
 new entry "CL_WPN_MAG_Cauterising_Halberd"
@@ -578,7 +578,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Cauterising"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Handaxe
 new entry "CL_WPN_MAG_Cauterising_Handaxe"
@@ -590,7 +590,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Cauterising"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Heavy Crossbow
 new entry "CL_WPN_MAG_Cauterising_HeavyCrossbow"
@@ -602,7 +602,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Cauterising"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Light Crossbow
 new entry "CL_WPN_MAG_Cauterising_LightCrossbow"
@@ -614,7 +614,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Cauterising"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Rapier
 new entry "CL_WPN_MAG_Cauterising_Rapier"
@@ -626,7 +626,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Cauterising"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // === CL_WPN_MAG_Enchantment_Charged.txt ===
 
@@ -649,7 +649,7 @@ data "WeaponFunctors" "GROUND:SurfaceChange(Electrify)"
 data "PassivesOnEquip" "CL_Passive_WPN_Charged"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Flail
 new entry "CL_WPN_MAG_Charged_Flail"
@@ -661,7 +661,7 @@ data "WeaponFunctors" "GROUND:SurfaceChange(Electrify)"
 data "PassivesOnEquip" "CL_Passive_WPN_Charged"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Greatclub
 new entry "CL_WPN_MAG_Charged_Greatclub"
@@ -673,7 +673,7 @@ data "WeaponFunctors" "GROUND:SurfaceChange(Electrify)"
 data "PassivesOnEquip" "CL_Passive_WPN_Charged"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Morningstar
 new entry "CL_WPN_MAG_Charged_Morningstar"
@@ -685,7 +685,7 @@ data "WeaponFunctors" "GROUND:SurfaceChange(Electrify)"
 data "PassivesOnEquip" "CL_Passive_WPN_Charged"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Shortbow
 new entry "CL_WPN_MAG_Charged_Shortbow"
@@ -697,7 +697,7 @@ data "WeaponFunctors" "GROUND:SurfaceChange(Electrify)"
 data "PassivesOnEquip" "CL_Passive_WPN_Charged"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Shortsword
 new entry "CL_WPN_MAG_Charged_Shortsword"
@@ -709,7 +709,7 @@ data "WeaponFunctors" "GROUND:SurfaceChange(Electrify)"
 data "PassivesOnEquip" "CL_Passive_WPN_Charged"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Trident
 new entry "CL_WPN_MAG_Charged_Trident"
@@ -721,7 +721,7 @@ data "WeaponFunctors" "GROUND:SurfaceChange(Electrify)"
 data "PassivesOnEquip" "CL_Passive_WPN_Charged"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // === CL_WPN_MAG_Enchantment_Chilled.txt ===
 new entry "CL_Passive_WPN_Chilled"
@@ -743,7 +743,7 @@ data "PassivesOnEquip" "CL_Passive_WPN_Chilled"
 data "WeaponFunctors" "GROUND:SurfaceChange(Freeze);GROUND:SurfaceChange(Douse);RemoveStatus(BURNING)"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Javelin
 new entry "CL_WPN_MAG_Chilled_Javelin"
@@ -755,7 +755,7 @@ data "PassivesOnEquip" "CL_Passive_WPN_Chilled"
 data "WeaponFunctors" "GROUND:SurfaceChange(Freeze);GROUND:SurfaceChange(Douse);RemoveStatus(BURNING)"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Light Crossbow
 new entry "CL_WPN_MAG_Chilled_LightCrossbow"
@@ -767,7 +767,7 @@ data "PassivesOnEquip" "CL_Passive_WPN_Chilled"
 data "WeaponFunctors" "GROUND:SurfaceChange(Freeze);GROUND:SurfaceChange(Douse);RemoveStatus(BURNING)"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Longbow
 new entry "CL_WPN_MAG_Chilled_Longbow"
@@ -779,7 +779,7 @@ data "PassivesOnEquip" "CL_Passive_WPN_Chilled"
 data "WeaponFunctors" "GROUND:SurfaceChange(Freeze);GROUND:SurfaceChange(Douse);RemoveStatus(BURNING)"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Maul
 new entry "CL_WPN_MAG_Chilled_Maul"
@@ -791,7 +791,7 @@ data "PassivesOnEquip" "CL_Passive_WPN_Chilled"
 data "WeaponFunctors" "GROUND:SurfaceChange(Freeze);GROUND:SurfaceChange(Douse);RemoveStatus(BURNING)"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Pike
 new entry "CL_WPN_MAG_Chilled_Pike"
@@ -803,7 +803,7 @@ data "PassivesOnEquip" "CL_Passive_WPN_Chilled"
 data "WeaponFunctors" "GROUND:SurfaceChange(Freeze);GROUND:SurfaceChange(Douse);RemoveStatus(BURNING)"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Sickle
 new entry "CL_WPN_MAG_Chilled_Sickle"
@@ -815,7 +815,7 @@ data "PassivesOnEquip" "CL_Passive_WPN_Chilled"
 data "WeaponFunctors" "GROUND:SurfaceChange(Freeze);GROUND:SurfaceChange(Douse);RemoveStatus(BURNING)"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Trident
 new entry "CL_WPN_MAG_Chilled_Trident"
@@ -827,7 +827,7 @@ data "PassivesOnEquip" "CL_Passive_WPN_Chilled"
 data "WeaponFunctors" "GROUND:SurfaceChange(Freeze);GROUND:SurfaceChange(Douse);RemoveStatus(BURNING)"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // === CL_WPN_MAG_Enchantment_Doom.txt ===
 // Battleaxe
@@ -846,7 +846,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b002-0000000fea12"
 data "PassivesOnEquip" "UNI_DoomAxe_Passive"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.2"
-data "Unique" "1"
+data "Unique" "0"
 
 // Dagger
 new entry "CL_WPN_MAG_Doom_Dagger"
@@ -856,7 +856,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b003-0000000fea12"
 data "PassivesOnEquip" "UNI_DoomAxe_Passive"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.2"
-data "Unique" "1"
+data "Unique" "0"
 
 // Light Crossbow
 new entry "CL_WPN_MAG_Doom_LightCrossbow"
@@ -866,7 +866,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b015-0000000fea12"
 data "PassivesOnEquip" "UNI_DoomAxe_Passive"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.2"
-data "Unique" "1"
+data "Unique" "0"
 
 // Mace
 new entry "CL_WPN_MAG_Doom_Mace"
@@ -876,7 +876,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b019-0000000fea12"
 data "PassivesOnEquip" "UNI_DoomAxe_Passive"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.2"
-data "Unique" "1"
+data "Unique" "0"
 
 // Sickle
 new entry "CL_WPN_MAG_Doom_Sickle"
@@ -886,7 +886,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b028-0000000fea12"
 data "PassivesOnEquip" "UNI_DoomAxe_Passive"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.2"
-data "Unique" "1"
+data "Unique" "0"
 
 // === CL_WPN_MAG_Enchantment_HillGiant.txt ===
 
@@ -904,7 +904,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b001-000000b16b01"
 data "PassivesOnEquip" "CL_HGS"
 data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
 data "ValueScale" "2.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Club
 new entry "CL_WPN_MAG_HillGiant_Club"
@@ -914,7 +914,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b002-000000b16b01"
 data "PassivesOnEquip" "CL_HGS"
 data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
 data "ValueScale" "2.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Dagger
 new entry "CL_WPN_MAG_HillGiant_Dagger"
@@ -924,7 +924,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b003-000000b16b01"
 data "PassivesOnEquip" "CL_HGS"
 data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
 data "ValueScale" "2.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Greataxe
 new entry "CL_WPN_MAG_HillGiant_Greataxe"
@@ -934,7 +934,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b007-000000b16b01"
 data "PassivesOnEquip" "CL_HGS"
 data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
 data "ValueScale" "2.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Greatclub
 new entry "CL_WPN_MAG_HillGiant_Greatclub"
@@ -944,7 +944,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b008-000000b16b01"
 data "PassivesOnEquip" "CL_HGS"
 data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
 data "ValueScale" "2.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Mace
 new entry "CL_WPN_MAG_HillGiant_Mace"
@@ -954,7 +954,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b019-000000b16b01"
 data "PassivesOnEquip" "CL_HGS"
 data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
 data "ValueScale" "2.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Maul
 new entry "CL_WPN_MAG_HillGiant_Maul"
@@ -964,7 +964,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b020-000000b16b01"
 data "PassivesOnEquip" "CL_HGS"
 data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
 data "ValueScale" "2.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Quarterstaff
 new entry "CL_WPN_MAG_HillGiant_Quarterstaff"
@@ -974,7 +974,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b023-000000b16b01"
 data "PassivesOnEquip" "CL_HGS"
 data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
 data "ValueScale" "2.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Warhammer
 new entry "CL_WPN_MAG_HillGiant_Warhammer"
@@ -984,7 +984,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b032-000000b16b01"
 data "PassivesOnEquip" "CL_HGS"
 data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
 data "ValueScale" "2.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // War Pick
 new entry "CL_WPN_MAG_HillGiant_WarPick"
@@ -994,7 +994,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b033-000000b16b01"
 data "PassivesOnEquip" "CL_HGS"
 data "ValueUUID" "d24c441f-7ebe-4229-8522-cf34c257ff20"
 data "ValueScale" "2.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // === CL_WPN_MAG_Enchantment_Moist.txt ===
 
@@ -1006,7 +1006,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b003-000000050661"
 data "WeaponFunctors" "GROUND:SurfaceChange(Douse);RemoveStatus(BURNING);ApplyStatus(WET,100,2)"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.1"
-data "Unique" "1"
+data "Unique" "0"
 
 // Hand Crossbow
 new entry "CL_WPN_MAG_Moist_HandCrossbow"
@@ -1016,7 +1016,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b012-000000050661"
 data "WeaponFunctors" "GROUND:SurfaceChange(Douse);RemoveStatus(BURNING);ApplyStatus(WET,100,2)"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.1"
-data "Unique" "1"
+data "Unique" "0"
 
 // Scimitar
 new entry "CL_WPN_MAG_Moist_Scimitar"
@@ -1026,7 +1026,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b025-000000050661"
 data "WeaponFunctors" "GROUND:SurfaceChange(Douse);RemoveStatus(BURNING);ApplyStatus(WET,100,2)"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.1"
-data "Unique" "1"
+data "Unique" "0"
 
 // Spear
 new entry "CL_WPN_MAG_Moist_Spear"
@@ -1036,7 +1036,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b030-000000050661"
 data "WeaponFunctors" "GROUND:SurfaceChange(Douse);RemoveStatus(BURNING);ApplyStatus(WET,100,2)"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.1"
-data "Unique" "1"
+data "Unique" "0"
 
 // Trident
 new entry "CL_WPN_MAG_Moist_Trident"
@@ -1046,7 +1046,7 @@ data "RootTemplate" "c1cfc0d3-1007-5af3-b031-000000050661"
 data "WeaponFunctors" "GROUND:SurfaceChange(Douse);RemoveStatus(BURNING);ApplyStatus(WET,100,2)"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.1"
-data "Unique" "1"
+data "Unique" "0"
 
 // === CL_WPN_MAG_Enchantment_MonsterHunter.txt ===
 
@@ -1059,7 +1059,7 @@ data "Boosts" "UnlockSpell(Target_MAG_HuntersMark)"
 data "PassivesOnEquip" "MAG_LC_MonsterHunter_Passive"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.2"
-data "Unique" "1"
+data "Unique" "0"
 
 // Javelin
 new entry "CL_WPN_MAG_MonsterHunter_Javelin"
@@ -1070,7 +1070,7 @@ data "Boosts" "UnlockSpell(Target_MAG_HuntersMark)"
 data "PassivesOnEquip" "MAG_LC_MonsterHunter_Passive"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.2"
-data "Unique" "1"
+data "Unique" "0"
 
 // Light Crossbow
 new entry "CL_WPN_MAG_MonsterHunter_LightCrossbow"
@@ -1081,7 +1081,7 @@ data "Boosts" "UnlockSpell(Target_MAG_HuntersMark)"
 data "PassivesOnEquip" "MAG_LC_MonsterHunter_Passive"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.2"
-data "Unique" "1"
+data "Unique" "0"
 
 // Longbow
 new entry "CL_WPN_MAG_MonsterHunter_Longbow"
@@ -1092,7 +1092,7 @@ data "Boosts" "UnlockSpell(Target_MAG_HuntersMark)"
 data "PassivesOnEquip" "MAG_LC_MonsterHunter_Passive"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.2"
-data "Unique" "1"
+data "Unique" "0"
 
 // Shortbow
 new entry "CL_WPN_MAG_MonsterHunter_Shortbow"
@@ -1103,7 +1103,7 @@ data "Boosts" "UnlockSpell(Target_MAG_HuntersMark)"
 data "PassivesOnEquip" "MAG_LC_MonsterHunter_Passive"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.2"
-data "Unique" "1"
+data "Unique" "0"
 
 // Spear
 new entry "CL_WPN_MAG_MonsterHunter_Spear"
@@ -1114,7 +1114,7 @@ data "Boosts" "UnlockSpell(Target_MAG_HuntersMark)"
 data "PassivesOnEquip" "MAG_LC_MonsterHunter_Passive"
 data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "1.2"
-data "Unique" "1"
+data "Unique" "0"
 
 // === CL_WPN_MAG_Enchantment_Sentinel.txt ===
 
@@ -1137,7 +1137,7 @@ data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Sentinel"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.6"
-data "Unique" "1"
+data "Unique" "0"
 
 // Hand Crossbow
 new entry "CL_WPN_MAG_Sentinel_1_HandCrossbow"
@@ -1148,7 +1148,7 @@ data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Sentinel"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.6"
-data "Unique" "1"
+data "Unique" "0"
 
 // Longsword
 new entry "CL_WPN_MAG_Sentinel_1_Longsword"
@@ -1159,7 +1159,7 @@ data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Sentinel"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.6"
-data "Unique" "1"
+data "Unique" "0"
 
 // Quarterstaff
 new entry "CL_WPN_MAG_Sentinel_1_Quarterstaff"
@@ -1170,7 +1170,7 @@ data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Sentinel"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.6"
-data "Unique" "1"
+data "Unique" "0"
 
 // Rapier
 new entry "CL_WPN_MAG_Sentinel_1_Rapier"
@@ -1181,7 +1181,7 @@ data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Sentinel"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.6"
-data "Unique" "1"
+data "Unique" "0"
 
 // Sickle
 new entry "CL_WPN_MAG_Sentinel_1_Sickle"
@@ -1192,7 +1192,7 @@ data "DefaultBoosts" "WeaponEnchantment(1);WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Sentinel"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.6"
-data "Unique" "1"
+data "Unique" "0"
 
 // === CL_WPN_MAG_Enchantment_Toxic.txt ===
 
@@ -1214,7 +1214,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Toxic"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Hand Crossbow
 new entry "CL_WPN_MAG_Toxic_HandCrossbow"
@@ -1225,7 +1225,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Toxic"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Shortbow
 new entry "CL_WPN_MAG_Toxic_Shortbow"
@@ -1236,7 +1236,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Toxic"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Shortsword
 new entry "CL_WPN_MAG_Toxic_Shortsword"
@@ -1247,7 +1247,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Toxic"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 // Sickle
 new entry "CL_WPN_MAG_Toxic_Sickle"
@@ -1258,7 +1258,7 @@ data "DefaultBoosts" "WeaponProperty(Magical)"
 data "PassivesOnEquip" "CL_Passive_WPN_Toxic"
 data "ValueUUID" "81764c3c-c7a9-49a7-b145-d31ffd5aebe1"
 data "ValueScale" "1.5"
-data "Unique" "1"
+data "Unique" "0"
 
 new entry "CL_Base_necrofx_1"
 type "StatusData"
