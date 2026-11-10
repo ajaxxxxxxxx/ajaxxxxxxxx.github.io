@@ -28,6 +28,7 @@ Save safe? Yes - unless you have sold dyes to traders. Otherwise junk what you h
    * Old references to mods that are no longer in Listo (like Spurious Upgrades) didn't do any harm by being in tables, but they are cleared out and/or replaced by further random minor loot rolls.
    * Some tables that were never configured correctly have been fixed now that I know the difference between using "-1" and "1,1" to define table contents... This _may_ be responsible for upgrade materials and quest items failing to appear throughout the history of Listo updates, not that it matters now that those mods are removed anyway.
    * Some other minor randomization has been created to inject more instances of magic arrows, low level scrolls, potions, barrels, or gems into various locations.
+5. Smokepowder Arrows and Barrels are now, effectively, shrapnel-based improvised explosive weapons. Dealing 3d4 or 2d4 slashing damage and pushing targets away. This replaces their vanilla effect (so a huge nerf) and their Listo effect (slashing + bludgeoning + fire damage) to avoid damage rider exponential damage. Both types of explosion still deal massive amounts of force damage against objects, so they still perform their main duty within the Underdark and in Hell. Bombs deal 2d8 slashing damage (or massive force damage vs objects).
 
 ## Listonomicon v10.5
 
