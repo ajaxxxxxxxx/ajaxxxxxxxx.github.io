@@ -1334,25 +1334,10 @@ CanMerge 1
 new subtable "1,1"
 object category "I_MAG_TheClover_Scimitar_of_Thay",1,0,0,0,0,0,0,0
 
-// Cosmetic dye distribution pools (scaffolds; not yet referenced by any loot table).
-// Add real, verified dye item identifiers before invoking these pools.
-// Each active pool should have one subtable; a 1,1 subtable rolls one item.
-// Example item entry (replace placeholder with a real Stats identifier):
-// object category "I_ACTUAL_DYE_STATS_ID",1,0,0,0,0,0,0,0
-// Reference a pool from another treasuretable using T_Random_Dyes_Table_N.
-
-new treasuretable "Random_Dyes_Table_1"
-// new subtable "1,1"
-// object category "I_ACTUAL_DYE_STATS_ID",1,0,0,0,0,0,0,0
-
-new treasuretable "Random_Dyes_Table_2"
-// new subtable "1,1"
-// object category "I_ACTUAL_DYE_STATS_ID",1,0,0,0,0,0,0,0
-
-new treasuretable "Random_Dyes_Table_3"
-// new subtable "1,1"
-// object category "I_ACTUAL_DYE_STATS_ID",1,0,0,0,0,0,0,0
-
-new treasuretable "Random_Dyes_Table_4"
-// new subtable "1,1"
+// Shared cosmetic dye pool. Each invocation selects 2, 4, 6, or 8 dyes with equal probability.
+// Populate this subtable with verified dye Stats identifiers, each at selection weight 1.
+// Repeated selections of the same dye are possible.
+// Other tables may reference this table using T_Random_Dyes.
+new treasuretable "Random_Dyes"
+new subtable "2,1;4,1;6,1;8,1"
 // object category "I_ACTUAL_DYE_STATS_ID",1,0,0,0,0,0,0,0
