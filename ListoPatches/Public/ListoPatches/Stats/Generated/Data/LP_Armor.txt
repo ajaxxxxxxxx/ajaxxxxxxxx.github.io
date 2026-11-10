@@ -1,11 +1,3 @@
-// Consolidated Armor entries from ListoPatches and DeGreaser.
-
-// Armor declarations moved from ListoMasterSpells
-// Consolidated from ListoMasterSpells into ListoPatches.
-// Entry identity is the exact combination of type and name.
-
-// Family: psionicwarden_cowl
-
 new entry "PSIONICWARDEN_Cowl"
 type "Armor"
 using "PSIONICWARDEN_Cowl"
@@ -25,8 +17,7 @@ data "PassivesOnEquip" "CHT_RobeOfSummer_FireDamage_Passive"
 new entry "MAG_Heat_Fire_Robe"
 type "Armor"
 using "MAG_Heat_Fire_Robe"
-// data "PassivesOnEquip" "MAG_Heat_Fire_Robe_Passive;"
-data "PassivesOnEquip" "CHT_ObsidianLacedRobe_Burning_Passive;MAG_Heat_Fire_Robe_Passive;"
+data "PassivesOnEquip" "CHT_ObsidianLacedRobe_Burning_Passive;MAG_Heat_Fire_Robe_Passive"
 
 new entry "MAG_CQCaster_GainArcaneChargeOnDamaged_Robe"
 type "Armor"
@@ -52,18 +43,6 @@ using "MAG_EndGame_StuddedLeather_Armor"
 // data "Boosts" "Advantage(Skill, Stealth);UnlockSpell(Shout_MAG_Shield_LeatherArmor)"
 data "Boosts" "Advantage(SavingThrow, Dexterity);Advantage(Skill, Stealth);UnlockSpell(Shout_MAG_Shield_LeatherArmor)"
 
-// ========================== Gloves of Battlemage's Power ==========================
-// Bug Fix: Inadvertently fix every issue with Larian's Patch #8 implementation, such as Shadow Blade and Flame Blade triggering the effect with every successful attack.
-// Changes: Swapped conditions for gaining from a janky list of spells using weapons to all melee spell attacks. 
-
-// new entry "MAG_Gish_ArcaneAcuity_Gloves"
-// type "Armor"
-// using "_Hand_Magic_Metal"
-// data "RootTemplate" "15381544-e616-46e6-a881-0af793971863"
-// data "ValueUUID" "a229f048-70b0-4b0c-88cb-29b5c6bdb2d0"
-// data "Rarity" "Rare"
-// data "PassivesOnEquip" "MAG_Gish_ArcaneAcuity_Gloves_Passive"
-// data "Unique" "1"
 
 new entry "UND_Tower_BootsFeatherFall"
 type "Armor"
@@ -71,53 +50,26 @@ using "UND_Tower_BootsFeatherFall"
 // data "Boosts" "UnlockSpell(Shout_UND_FeatherFall_Tower_Boots)"
 data "Boosts" "UnlockSpell(Shout_UND_FeatherFall_Tower_Boots);Skill(Arcana,1);ActionResource(Movement,1,0)"
 
-// ========================== Vital Conduit Boots ==========================
-// Vital Conduit: increase temporary hp to 12
-
 new entry "TWN_BootsOfApparentDeath"
 type "Armor"
 using "TWN_BootsOfApparentDeath"
-// data "Boosts" "UnlockSpell(Target_TWN_FeignDeath)"
 data "Boosts" "RollBonus(SavingThrow, 1, Constitution);UnlockSpell(Target_TWN_FeignDeath)"
-
-
-// ===============================================================================
-//                                       Cloaks  
-// ===============================================================================
-
-// ========================== Cloak of Elemental Absorption ==========================
-// Absorb Elements: cooldown reduced to once per combat
 
 new entry "MAG_LC_Umberlee_Protection_Cape"
 type "Armor"
 using "MAG_LC_Umberlee_Protection_Cape"
-// data "Boosts" ""
 data "Boosts" "AC(1)"
-
-// ========================== Komira's Locket ==========================
-// Add special nerfed version of Otto's Irresistible Dance:
-// Doesn't give disadvantage on attack rolls and DEX saving throws, lasts 3 turns only, requires a Wisdom saving throw on the initial cast. Short rest cooldown
 
 new entry "DEN_Arabella_Locket"
 type "Armor"
 using "DEN_Arabella_Locket"
-// data "Boosts" "UnlockSpell(Target_DEN_DancingLights_Arabella_Locket)"
 data "Boosts" "UnlockSpell(Target_DEN_DancingLights_Arabella_Locket);UnlockSpell(CHT_IrresistibleDance_Arabella_Locket)"
 
 new entry "MAG_Radiant_RadiatingOrb_Armor"
 type "Armor"
 using "MAG_Radiant_RadiatingOrb_Armor"
-// data "Rarity" "Uncommon"
 data "Rarity" "Rare"
-// data "ValueUUID" "be545ee9-311c-4ab8-ab14-fefcc552cace"
 data "ValueUUID" "240eb257-ef20-4877-89bd-6956b4b7c41a"
-
-// ===============================================================================
-//                                       Handwear  
-// ===============================================================================
-
-// ========================== Luminous Gloves ==========================
-// Change quality to Rare to reflect it being BiS endgame gear for some builds still
 
 new entry "MAG_Radiant_RadiatingOrb_Gloves"
 type "Armor"
@@ -127,35 +79,20 @@ data "Rarity" "Rare"
 // data "ValueUUID" "f0e7be35-8be4-483d-afa8-dc9a104ea758"
 data "ValueUUID" "a229f048-70b0-4b0c-88cb-29b5c6bdb2d0"
 
-
-// ========================== Swordmaster Gloves ==========================
-// Sword Mastery: attack roll bonus increased to +2
-
 new entry "MAG_OB_Paladin_DeathKnight_Gloves"
 type "Armor"
 using "MAG_OB_Paladin_DeathKnight_Gloves"
-// data "ValueUUID" "240eb257-ef20-4877-89bd-6956b4b7c41a"
 data "ValueUUID" "adfdafe5-f4da-4c64-a1e6-a33d626437d2"
-// data "Rarity" "Rare"
 data "Rarity" "VeryRare"
-// data "PassivesOnEquip" ""
 data "PassivesOnEquip" "CHT_BlackguardGauntlets_SpellAdvantage_Passive"
-
-// New passive: grants advantage on melee spell attack rolls
 
 new entry "MAG_OB_Paladin_DeathKnight_Boots"
 type "Armor"
 using "MAG_OB_Paladin_DeathKnight_Boots"
-// data "ValueUUID" "240eb257-ef20-4877-89bd-6956b4b7c41a"
 data "ValueUUID" "adfdafe5-f4da-4c64-a1e6-a33d626437d2"
-// data "Rarity" "Rare"
 data "Rarity" "VeryRare"
-// data "PassivesOnEquip" "MAG_Longstrider_Passive"
 data "PassivesOnEquip" "CHT_BlackguardGreaves_Movement_Passive"
-// data "StatusOnEquip" "MAG_END_GAME_LONGSTRIDER"
 data "StatusOnEquip" ""
-
-// New passive: gives 3m movement speed (so stacks with Longstrider). When jumping, can possibly fear enemies in a 3m radius upon landing if they fail a DC 17 WIS saving throw
 
 new entry "DeGreaser_Shield_of_Spell_Reflection"
 type "Armor"
@@ -170,7 +107,6 @@ data "ValueScale" "5.5"
 data "PassivesOnEquip" "MAG_MeleeDebuff_AttackDebuff1_OnDamage_Shield_Passive;MOD_AdamantineClad_Shield;MAG_ShieldRiposte_Passive;MageSlayer_Advantage;MageSlayer_AttackCaster;MageSlayer_BreakConcentration"
 data "Unique" "1"
 data "Boosts" "CriticalHit(AttackTarget,Success,Never);Resistance(Cold, Resistant);Resistance(Acid, Resistant)"
-    
 
 new entry "GotA_Equipment_Absolutes_Echo"
 type "Armor"
@@ -182,31 +118,20 @@ data "ValueUUID" "a57433fc-8be8-4efb-ac6b-a625b3bdcd18"
 data "ValueScale" "1.2"
 data "Unique" "1"
 
-// ==================================== Beast and Bow - Ranger Equipment ====================================
-
-// Vinewoven Shortbow: decrease save DC of Treant's Grasp ensnare to 12 (previously 13)
-
 new entry "BB_ArchersEyeCharm"
 type "Armor"
 using "BB_ArchersEyeCharm"
 data "Boosts" "Ability(Wisdom,2,22);UnlockSpell(BB_Shout_ArcherEyeCharm)"
-
-// Farstrider's Reach: add action cost to Arrow of the Farstrider weapon ability (previously no cost)
 
 new entry "ClericEquipmentAct2_Pendant_of_Divine_Duality"
 type "Armor"
 using "ClericEquipmentAct2_Pendant_of_Divine_Duality"
 data "ValueScale" "1.6"
 
-// Branding Smite: having it inherit from the vanilla spell for compatibility with mods that change it (and also so it inherits Honour Mode changes)
-
 new entry "DruidEquipmentAct1_Helm_of_the_Wildwood"
 type "Armor"
 using "DruidEquipmentAct1_Helm_of_the_Wildwood"
 data "ValueScale" "1.8"
-
-// Ring of the Stormspeaker: increase cost by 4x to 560 gold base price (previously 140 gold base price)
-// This ring is extremely overloaded if used by a druid caster, but druid casters builds are just decent, not OP, so not directly nerfing the item for now
 
 new entry "DruidEquipmentAct3_Ring_of_the_Stormspeaker"
 type "Armor"
@@ -214,14 +139,10 @@ using "DruidEquipmentAct3_Ring_of_the_Stormspeaker"
 data "RootTemplate" "d6eef1f0-1541-44cd-94ef-e1204240e984"
 data "ValueScale" "4"
 
-// Staff of the Ancient Guardian: decrease spell save DC bonus to +2 (previously +3) (using an existing vanilla passive)
-
 new entry "RR_Barbarian_Equipment_Chestguard_of_the_Iron_Heart"
 type "Armor"
 using "RR_Barbarian_Equipment_Chestguard_of_the_Iron_Heart"
 data "ValueScale" "1.5"
-
-// Warhammer of Thunder: decrease stun duration to 1 turn (previously 2 turns)
 
 new entry "SS_Bard_Equipment_Flute_of_Haunting"
 type "Armor"
@@ -233,29 +154,21 @@ type "Armor"
 using "MonkEquipmentAct3_Pearl_of_the_Coral_Throne"
 data "PassivesOnEquip" "MAG_SpellSaveDC_Enchantment_Passive"
 
-// Steady Striker: increase cost by 2x to 380 gold base price (previously 190 gold base price) 
-
 new entry "MonkEquipmentAct3_Vestment_of_the_Ascended_Fist"
 type "Armor"
 using "MonkEquipmentAct3_Vestment_of_the_Ascended_Fist"
 data "RootTemplate" "1b899406-c01d-4d4f-b948-c32f4be4cddc"
 data "PassivesOnEquip" "UnarmoredDefense_Monk_ShatteredSun;MAG_Monk_StunningStrike_Reaction_Passive"
 
-// Gloves of the Iron Fist: increase cost by 4x to 1200 gold base price (previously 300 gold base price)
-
 new entry "MonkEquipmentAct3_Gloves_of_the_Iron_Fist"
 type "Armor"
 using "MonkEquipmentAct3_Gloves_of_the_Iron_Fist"
 data "ValueScale" "4"
 
-// ==================================== Veil and Venom - Rogue Equipment ====================================
-
 new entry "WW_Wizard_Equipment_Hood_of_the_Archmage"
 type "Armor"
 using "WW_Wizard_Equipment_Hood_of_the_Archmage"
 data "Boosts" "Ability(Intelligence,2,22)"
-
-// Band of the Ascendant Spellcaster: decrease Ascendant Might's spell attack roll and spell save DC bonus to +2 (previously +3)
 
 new entry "ACT1_HAG_HagMask"
 type "Armor"
@@ -276,8 +189,6 @@ data "Boosts" "Advantage(SavingThrow, Wisdom); Disadvantage(Skill,Stealth)"
 data "PassivesOnEquip" "ARM_MagicalPlate_1_Passive"
 data "StatusOnEquip" "Ajax_CbD_Status"
 data "Unique" "1"
-
-//Change vanilla SET stat items to PLUS stat items
 
 new entry "MAG_ofGreaterHealth_Amulet"
 type "Armor"
@@ -356,8 +267,6 @@ using "SOF_Goggles_Neck"
 data "RootTemplate" "cf35353f-b752-4a9e-9e43-e1f39f4a999e"
 data "Rarity" "Rare"
 data "Boosts" "Ability(Intelligence,2,24,true);UnlockSpell(Shout_SOF_Goggles_SwitchNtE);UnlockSpell(Shout_SOF_Goggles_SwitchNtF)"
-
-///Orphic Hammer Buff
 
 new entry "ARM_Ghaikslayer_Helm"
 type "Armor"
@@ -485,17 +394,10 @@ data "PassivesOnEquip" "MAG_ElementalGish_ArcaneAcuity_Helmet_Passive"
 data "Unique" "1"
 data "ArmorType" "Plate"
 
-// ==================================== Attempts to fix this damn ring from Lathander's Armory ====================================
-
-// ================================= Sunwheel Mantle =================================
-// Change Crusader's Mantle to inherit from base game spell, remove spell slot cost, and have long rest cooldown
-
 new entry "CSS_LATHANDER_CREST_TRINKET"
 type "Armor"
 using "CSS_LATHANDER_CREST_TRINKET"
 data "StatusOnEquip" "LATHANDER_SURGEOFLIGHT_TECHNICAL"
-
-// Passive only gives 3 hit points to entity that has the technical status. SELF parameter removed from RegainHitPoints()
 
 new entry "JWL_DiscordantInstruments_BeltFrostGiant"
 type "Armor"
@@ -534,30 +436,21 @@ data "Boosts" "AC(-2)"
 data "ValueUUID" "adfdafe5-f4da-4c64-a1e6-a33d626437d2"
 data "Unique" "1"
 
-// ==================================== Soul Knife Equipment nerfs and fixes ====================================
-
 new entry "MAG_PsyRide1"
 type "Armor"
-// using "_Ring_Magic"
 using "MAG_PsyRide1"
 data "IsUnique" "1"
 
 new entry "MAG_PsyRide2"
 type "Armor"
-// using "_Ring_Magic"
 using "MAG_PsyRide2"
 data "IsUnique" "1"
 
 new entry "MAG_PsyRiderGloves"
 type "Armor"
-// using "_Hand_Magic"
 using "MAG_PsyRiderGloves"
-// data "PassivesOnEquip" "PsyRiderGloves_Advantage;FastHands"
 data "PassivesOnEquip" "PsyRiderGloves_Advantage"
 data "IsUnique" "1"
-
-// Words That Remain
-
 
 new entry "DeGreaser_Mantle_of_Ajax"
 type "Armor"
@@ -604,8 +497,6 @@ data "ValueUUID" "9b6a4ab2-323b-4030-89ab-030252bb6214"
 data "ValueScale" "3.5"
 data "PassivesOnEquip" "ImmuneToDisarm"
 data "Unique" "1"
-
-///set up alt disruption aura///
 
 new entry "DeGreaser_Galloways_Goggles_of_True_Sight"
 type "Armor"
