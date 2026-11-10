@@ -15,6 +15,15 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
+## Listonomicon v10.5.1 Death of Dyes
+
+Save safe? Yes - unless you have sold dyes to traders. Otherwise junk what you have, remove dye on any gear before updating.
+
+1. REMOVED Style'n'Dye, Goth Dyes, and Dyes of Thay.
+2. ADDED Izzli's Altered Dyes.
+3. Distributed dyes randomly throughout treasure tables to restore the "find and accessorize" experience for players who do not want to use Armoury to set all of their cosmetics at the start of the game.
+4. Other fixes/changes to Listo treasure tables.
+
 ## Listonomicon v10.5
 
 Save safe? --- Maybe? But XP changes are wonky and Valkrana's Undead Encounters needs to run a console command to reset encounters.
