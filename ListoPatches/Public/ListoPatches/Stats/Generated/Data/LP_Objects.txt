@@ -1061,7 +1061,6 @@ using "_MagicScroll"
 data "UseCosts" "BonusActionPoint:1"
 
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/fireworksnerf.txt
 new entry "OBJ_Fireworks_Rocket_A"
 type "Object"
 using "OBJ_Fireworks_Rocket_A"
