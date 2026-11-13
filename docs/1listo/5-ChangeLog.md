@@ -17,9 +17,9 @@ description: Update info
 
 ## Listonomicon v10.5.1 Death of Dyes
 
-Save safe? Yes - unless you have sold dyes to traders. Otherwise junk what you have, remove dye on any gear before updating.
+Save safe? Possibly no because of the dyes being removed. If you never looted the giant dye pile on the Nautiloid and have already entered Act 2, you might be safe. Might.
 
-1. REMOVED Style'n'Dye, Goth Dyes 1 and 2, and Dyes of Thay.
+1. REMOVED Style'n'Dye, Goth Dyes 1 and 2, Flower Power Dyes, and Dyes of Thay.
 2. ADDED Izzli's Altered Dyes.
 3. Distributed dyes randomly throughout treasure tables to restore the "find and accessorize as you go" experience for players who do not want to use Armoury to set all of their cosmetics at the start of the game (like me).
 4. Other fixes/changes to Listo treasure tables.
@@ -38,6 +38,13 @@ Save safe? Yes - unless you have sold dyes to traders. Otherwise junk what you h
 12. Added Clansong - Speaking Dragonborns.
 13. COMBAT EXTENDER:
     * Removed manual HP overrides where used in Combat Extender. Enemy HP calculations should be consistent/predictable and this reduces the number of places where I need to tweak numbers in cases where enemies have excessive HP. Please report any encounter that has more than 500 HP outside of Grym, dragons, and the Netherbrain.
+    * Removed Gortash from CX (all profiles) and magma mephits (easy CX).
+    * 2 of 3 Shadowdruids no longer have anything special in CX and only summon a trio of ravens (redcaps in hard CX).
+14. Added (optional) Randomized Item Framework.
+15. Updated 19 mods.
+16. Removed Lord Enver Gortash Redone - The Black Hand of Bane.
+17. Cleaned up several old/conflicting situations where multi-NPC redesign pacts and specific single-NPC editing mods weren't applied in the right order.
+18. Removed One Feels So Exposed - a Raphael redressing mod in favor of the _other_ raphael visual mod already in Listo.
 
 ## Listonomicon v10.5
 
