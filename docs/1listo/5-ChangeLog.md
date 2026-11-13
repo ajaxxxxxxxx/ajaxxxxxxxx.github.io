@@ -29,6 +29,15 @@ Save safe? Yes - unless you have sold dyes to traders. Otherwise junk what you h
    * Some tables that were never configured correctly have been fixed now that I know the difference between using "-1" and "1,1" to define table contents... This _may_ be responsible for upgrade materials and quest items failing to appear throughout the history of Listo updates, not that it matters now that those mods are removed anyway.
    * Some other minor randomization has been created to inject more instances of magic arrows, low level scrolls, potions, barrels, or gems into various locations.
 5. Smokepowder Arrows and Barrels are now, effectively, shrapnel-based improvised explosive weapons. Dealing 3d4 or 2d4 slashing damage and pushing targets away. This replaces their vanilla effect (so a huge nerf) and their Listo effect (slashing + bludgeoning + fire damage) to avoid damage rider exponential damage. Both types of explosion still deal massive amounts of force damage against objects, so they still perform their main duty within the Underdark and in Hell. Bombs deal 2d8 slashing damage (or massive force damage vs objects).
+6. Added (for testing) TYRANNY OF FANG, which attempts to turn an act 3 fight into a dragon shapeshifter.
+7. Added Kagha Edits - Silvanus's Faithful (Crackhead Kagha is officially kill).
+8. Added Merigold the Fearless and Oaken Maiden Hair, which are requirements for the above.
+9. Added Rusty Titan's Grip feat.
+10. Added "Alternate Universe Gortash - Dragon's Bane" -- something I have been waiting for! Alkelka released dragonborn heads that are able to follow human lipsync, which finally makes this alternate universe possible where Gortash is a fearsome enemy instead of a greasy Chris Angel.
+11. Added Crones and Codgers (old people heads).
+12. Added Clansong - Speaking Dragonborns.
+13. COMBAT EXTENDER:
+    * Removed manual HP overrides where used in Combat Extender. Enemy HP calculations should be consistent/predictable and this reduces the number of places where I need to tweak numbers in cases where enemies have excessive HP. Please report any encounter that has more than 500 HP outside of Grym, dragons, and the Netherbrain.
 
 ## Listonomicon v10.5
 
@@ -51,6 +60,7 @@ Save safe? --- Maybe? But XP changes are wonky and Valkrana's Undead Encounters 
 15. Added Dragonborn Safety Net.
 16. Added Immersive Outfits.
 17. Removed Lae'zel Died.
+18. Added Warforged.
 
 ## Listonomicon v10.4.3 CatDude Edition
 
