@@ -1150,7 +1150,7 @@ object category "I_MAG_TheClover_Scimitar_of_Thay",1,0,0,0,0,0,0,0
 // Repeated selections of the same dye are possible.
 // Other tables may reference this table using T_Random_Dyes.
 new treasuretable "Random_Dyes"
-new subtable "2,1;4,1;6,1;8,1"
+new subtable "1,1;2,1;3,1;4,1"
 object category "I_AS_Dye_DrowBlack",1,0,0,0,0,0,0,0
 object category "I_AS_Dye_NightBlack",1,0,0,0,0,0,0,0
 object category "I_AS_Dye_PureWhite",1,0,0,0,0,0,0,0
@@ -1432,6 +1432,46 @@ object category "I_IZ_WhiteRed_01",1,0,0,0,0,0,0,0
 object category "I_IZ_GreenSwamp_01",1,0,0,0,0,0,0,0
 object category "I_IZ_RedWhite_01",1,0,0,0,0,0,0,0
 object category "I_IZ_Golden_01",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Azure",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_BlackBlue",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_BlackGreen",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_BlackPink",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_BlackRed",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_BlackTeal",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Blue",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_BlueGreen",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_BluePurple",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_BlueYellow",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_BlueYellow_02",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Golden",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Green",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Green_02",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_GreenSage",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_GreenSwamp",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_GreenPink",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_IceCream",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_IceCream_02",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_IceCream_03",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_IceCream_04",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Maroon",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Ocean",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Orange",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_OrangeBlue",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Pink",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Purple",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Purple_02",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Purple_03",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Purple_04",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_PurpleRed",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Red",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_RedBrown",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_RedWhite",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_RichRed",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_RoyalBlue",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_Teal",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_WhiteBlack",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_WhiteBrown",1,0,0,0,0,0,0,0
+object category "I_OBJ_Dye_WhiteRed",1,0,0,0,0,0,0,0
 
 new treasuretable "CL_Random_Roll"
 new subtable "1,1"
