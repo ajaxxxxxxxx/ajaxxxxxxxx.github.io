@@ -867,6 +867,8 @@ new subtable "1,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
 
 new treasuretable "SHA_HiddenRoom_Magic_Chest"
 CanMerge 1
@@ -1033,6 +1035,10 @@ new treasuretable "FED_Therezzyn"
 CanMerge 1
 new subtable "1,1"
 object category "T_CL_Random_Roll",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
 
 new treasuretable "SCL_MasonGuild_Chest"
 CanMerge 1
@@ -1839,3 +1845,265 @@ new treasuretable "WYR_Thiefling_Trade"
 CanMerge 1
 new subtable "1,1"
 object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new treasuretable "_Junk_Loot"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "_Valuables_Generic"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Alchemy_Potion"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Alchemy_Potion_Elixir"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Alchemy_Potion_Elixir_1"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Alchemy_Potion_Elixir_2"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Alchemy_Potion_Elixir_3"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Stash_Modest"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Stash_Normal"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Stash_Opulent"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Stash_Part"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Stash_Poor"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Gold_Stash_Wealthy"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_Dye"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_DyeRandom"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_DyeRare"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_Dyes_AllRare"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_Dyes_AllUncommon"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_Dyes_AllVeryRare"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_DyeVeryRare"
+CanMerge 1
+new subtable "0,19;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Clothes_Medium_Random"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Clothes_Poor_Random"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Clothes_Rich_Random"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Exploration_Minor_Consumables"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_GEN_Valuables_Jewelry_Gold"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_GEN_Valuables_Jewelry_Silver"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_GEN_Valuables_Ring_Gold"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_GEN_Valuables_Ring_Silver"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_RandomConsumable"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "ST_RandomPotion"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Supply_Alchemy_CommonAndRare"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Supply_Alchemy_Oil"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Supply_Alchemy_Potion_Utility"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Supply_Alchemy_Rare"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Supply_Potions"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Supply_Tools"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "Supply_Water"
+CanMerge 1
+new subtable "0,99;1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_GerringotheThorm"
+CanMerge 1
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_ShamblingMound"
+CanMerge 1
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_MalusThorm"
+CanMerge 1
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_MRT_Zrell"
+CanMerge 1
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Karniss"
+CanMerge 1
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Warden"
+CanMerge 1
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Balthazar"
+CanMerge 1
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Grove_HiddenVault"
+CanMerge 1
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_BM_HagLair_HvyChest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_Ragzlin"
+CanMerge 1
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+
+new treasuretable "FED_ZaKrug"
+CanMerge 1
+new subtable "1,1"
+object category "T_Random_Dyes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_AJ_Random_Loot",1,0,0,0,0,0,0,0
+
