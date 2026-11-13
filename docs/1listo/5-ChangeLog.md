@@ -45,6 +45,7 @@ Save safe? Possibly no because of the dyes being removed. If you never looted th
 16. Removed Lord Enver Gortash Redone - The Black Hand of Bane.
 17. Cleaned up several old/conflicting situations where multi-NPC redesign pacts and specific single-NPC editing mods weren't applied in the right order.
 18. Removed One Feels So Exposed - a Raphael redressing mod in favor of the _other_ raphael visual mod already in Listo.
+19. Fixed Sussur weapons not having weapons actions. Whoops.
 
 ## Listonomicon v10.5
 
