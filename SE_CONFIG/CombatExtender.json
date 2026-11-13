@@ -1666,14 +1666,6 @@
 	  "S_LOW_BaldursMouth_Guard04_123f1c40-3276-44e9-97ec-116d6f5b3740": {
 		"Passives": ["DEN_RaidingParty_GoblinCaptain_Gloves_Passive","DirtyKickUnlock","DarkOnesBlessing","ClarifiedMortality","Goon_Thunder_Resistant","Goon_Fire_Resistant","Goon_Bludgeoning_Resistant","Goon_Cold_Resistant","Goon_Force_Resistant","ARP_SpellSlot_1_1","LOW_Chasm_Mangle_Pushback"]
 	},
-	  "S_GLO_Gortash_b878a854-f790-4999-95c4-3f20f00f65ac": {
-		"Passives": ["MagicResistance","MAG_Critfisher_Passive","AJ_NPC_HPR","NPC_BF","NPC_DamageReduction"],
-		"Spells": ["AJ_AotA"]
-	},
-	  "UNI_GLO_Gortash_NoHandTemplate_3bbf4a0c-2eea-459e-942a-85beaa6ae59a": {
-		"Passives": ["MagicResistance","MAG_Critfisher_Passive","AJ_NPC_HPR","NPC_BF","NPC_DamageReduction"],
-		"Spells": ["AJ_AotA"]
-	},
 	  "S_LOW_Park_Bhaal_Leader_ecb818a4-d67d-4e7f-b917-552654a4cb61": {
 		"Passives": ["DirtyKickUnlock","DreadAmbusher","Goon_Damage_Piercing_d4_Attacks","ExtraAttack_3","MagicResistance","PP_FeastOnTheWounded_Passive","Assassinate_Ambush","Assassinate_Initiative"]
 	},
