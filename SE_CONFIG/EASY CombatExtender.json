@@ -1575,22 +1575,6 @@
 	  "S_FOR_Ambush_Goblins_Ranger_004_9948a0bb-a01c-4a8a-a521-c3e5c69f35b8": {
 		"Passives": ["AJ_RGG"]
 	},
-	  "S_UND_AdamantinteGolem_Mephit_003_2c07b751-f1d1-41f9-a3a6-1f9597171b32": {
-		"Passives": ["MAG_Heat_Fire_Robe_Passive","Goon_Increased_Movement_3","Goon_Increased_Weight_Size_Scale_1","ARP_SpellSlot_1_3","ARP_SpellSlot_2_2","ARP_SpellSlot_3_1","GOON_MAGICALLERGY_UNLOCK"],
-		"Spells": ["Shout_EarthTremor","Target_Grease","Target_HeatMetal"]
-	},
-	  "S_UND_AdamantinteGolem_Mephit_004_8df15cf3-5880-4618-8c5d-b1522dff1bac": {
-		"Passives": ["MAG_Heat_Fire_Robe_Passive","Goon_Increased_Movement_3","Goon_Increased_Weight_Size_Scale_1","ARP_SpellSlot_1_3","ARP_SpellSlot_2_2","ARP_SpellSlot_3_1","GOON_MAGICALLERGY_UNLOCK"],
-		"Spells": ["Shout_EarthTremor","Target_Grease","Target_HeatMetal"]
-	},
-	  "S_UND_AdamantinteGolem_Mephit_001_c33491f2-17f1-48bd-ad4c-7df70049025e": {
-		"Passives": ["MAG_Heat_Fire_Robe_Passive","Goon_Increased_Movement_3","Goon_Increased_Weight_Size_Scale_1","ARP_SpellSlot_1_3","ARP_SpellSlot_2_2","ARP_SpellSlot_3_1","GOON_MAGICALLERGY_UNLOCK"],
-		"Spells": ["Shout_EarthTremor","Target_Grease","Target_HeatMetal"]
-	},
-	  "S_UND_AdamantinteGolem_Mephit_002_e96e33ae-870c-4cc2-9742-201e61dbe162": {
-		"Passives": ["MAG_Heat_Fire_Robe_Passive","Goon_Increased_Movement_3","Goon_Increased_Weight_Size_Scale_1","ARP_SpellSlot_1_3","ARP_SpellSlot_2_2","ARP_SpellSlot_3_1","GOON_MAGICALLERGY_UNLOCK"],
-		"Spells": ["Shout_EarthTremor","Target_Grease","Target_HeatMetal"]
-	},
 	  "S_GOB_Warlock_d432aafd-f728-4d9d-9707-732e1cdd8297": {
 		"Passives": [],
 		"Spells": ["NPC_FireworkBlast","NPC_FleshToStone"]
@@ -1664,14 +1648,6 @@
 	},
 	  "S_LOW_BaldursMouth_Guard04_123f1c40-3276-44e9-97ec-116d6f5b3740": {
 		"Passives": ["DEN_RaidingParty_GoblinCaptain_Gloves_Passive","DirtyKickUnlock","DarkOnesBlessing","ClarifiedMortality","Goon_Thunder_Resistant","Goon_Fire_Resistant","Goon_Bludgeoning_Resistant","Goon_Cold_Resistant","Goon_Force_Resistant","ARP_SpellSlot_1_1","LOW_Chasm_Mangle_Pushback"]
-	},
-	  "S_GLO_Gortash_b878a854-f790-4999-95c4-3f20f00f65ac": {
-		"Passives": ["MagicResistance","NPC_BF","NPC_DamageReduction"],
-		"Spells": ["AJ_AotA"]
-	},
-	  "UNI_GLO_Gortash_NoHandTemplate_3bbf4a0c-2eea-459e-942a-85beaa6ae59a": {
-		"Passives": ["MagicResistance","NPC_BF","NPC_DamageReduction"],
-		"Spells": ["AJ_AotA"]
 	},
 	  "S_LOW_Park_Bhaal_Leader_ecb818a4-d67d-4e7f-b917-552654a4cb61": {
 		"Passives": ["DirtyKickUnlock","DreadAmbusher","ExtraAttack_3","MagicResistance","PP_FeastOnTheWounded_Passive","Assassinate_Ambush","Assassinate_Initiative"]
