@@ -1440,12 +1440,6 @@
 	  "S_DEN_ShadowDruid_001_0cb92c37-fb4d-4547-8702-1fb1dd52d0b6": {
 		"Passives": ["FeralInstinct","MAG_ShapeshiftersBurgeon_Passive","MAG_Greenstone_Amulet_Passive","VV_CorneredRat_Passive","CAT_Autosummon_Raven3_Passive"]
 	},
-	  "S_DEN_ShadowDruid_002_0820c093-f400-4efc-95b9-a6d08a58cac9": {
-		"Passives": ["FeralInstinct","MAG_ShapeshiftersBurgeon_Passive","MAG_Greenstone_Amulet_Passive","VV_CorneredRat_Passive","CAT_Autosummon_Crab3_Passive"]
-	},
-	  "S_DEN_ShadowDruid_003_53b08334-9f79-4bb5-b580-2662355d54ad": {
-		"Passives": ["FeralInstinct","MAG_ShapeshiftersBurgeon_Passive","MAG_Greenstone_Amulet_Passive","VV_CorneredRat_Passive","CAT_Autosummon_Redcap2_Passive"]
-	},
 	  "S_DEN_DruidLeader_95eb2b0b-a522-4ea5-8167-c5f4d1418156": {
 		"Passives": ["Alert","MAG_ShapeshiftersBurgeon_Passive","MAG_Greenstone_Amulet_Passive"]
 	},
