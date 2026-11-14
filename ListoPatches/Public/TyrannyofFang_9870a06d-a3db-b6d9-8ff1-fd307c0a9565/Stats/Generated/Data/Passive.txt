@@ -1,0 +1,10 @@
+new entry "ATT_LA_DragonTash"
+type "PassiveData"
+data "DisplayName" "hf3d875afgf1edg19d9g0435g83bfd187f77b;1"
+data "Description" "h2541b785g5d79g9fa6gd4e4g79ab1c86dc73;5"
+data "TooltipPermanentWarnings" "34b494d7-8bde-43d5-8e67-4988f2d39487"
+data "Icon" "Action_Legendary_Offensive"
+data "StatsFunctorContext" "OnRound;OnCombatStarted"
+data "Conditions" "not HasStatus('ATT_LA_GORTASH_3')"
+data "StatsFunctors" "ApplyStatus(ATT_LA_GORTASH_3,100,-1)"
+

@@ -1,6 +1,5 @@
 // Consolidated InterruptData entries from ListoPatches and DeGreaser.
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/GraphicFade_Patches.txt
 new entry "PP_Interrupt_SearingRebuke"
 type "InterruptData"
 using "PP_Interrupt_SearingRebuke"
@@ -11,22 +10,24 @@ data "Properties" "UseSpell(SWAP,Target_HellishRebuke_3,true,true,true)"
 
 // Visage of the Inner Demon: add short rest cooldown to Demonic Surge (previously none)
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/INTERRUPTS.txt
 // InterruptData declarations moved from ListoMasterSpells
 // Consolidated from ListoMasterSpells into ListoPatches.
 // Entry identity is the exact combination of type and name.
 
 // Family: interrupt_counterspell
+
 new entry "Interrupt_Counterspell_7"
 type "InterruptData"
 using "Interrupt_Counterspell"
 data "Roll" "TryCounterspellHigherLevel(7)"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:7"
+
 new entry "Interrupt_Counterspell_8"
 type "InterruptData"
 using "Interrupt_Counterspell"
 data "Roll" "TryCounterspellHigherLevel(8)"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:8"
+
 new entry "Interrupt_Counterspell_9"
 type "InterruptData"
 using "Interrupt_Counterspell"
@@ -35,36 +36,42 @@ data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:9"
 
 
 // Family: interrupt_hellishrebuke
+
 new entry "Interrupt_HellishRebuke_4"
 type "InterruptData"
 using "Interrupt_HellishRebuke"
 data "DescriptionParams" "DealDamage(5d10,Fire)"
 data "Properties" "UseSpell(SWAP,Target_HellishRebuke_4,true,true,true)"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:4"
+
 new entry "Interrupt_HellishRebuke_5"
 type "InterruptData"
 using "Interrupt_HellishRebuke"
 data "DescriptionParams" "DealDamage(6d10,Fire)"
 data "Properties" "UseSpell(SWAP,Target_HellishRebuke_5,true,true,true)"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:5"
+
 new entry "Interrupt_HellishRebuke_6"
 type "InterruptData"
 using "Interrupt_HellishRebuke"
 data "DescriptionParams" "DealDamage(7d10,Fire)"
 data "Properties" "UseSpell(SWAP,Target_HellishRebuke_6,true,true,true)"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:6"
+
 new entry "Interrupt_HellishRebuke_7"
 type "InterruptData"
 using "Interrupt_HellishRebuke"
 data "DescriptionParams" "DealDamage(8d10,Fire)"
 data "Properties" "UseSpell(SWAP,Target_HellishRebuke_7,true,true,true)"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:7"
+
 new entry "Interrupt_HellishRebuke_8"
 type "InterruptData"
 using "Interrupt_HellishRebuke"
 data "DescriptionParams" "DealDamage(9d10,Fire)"
 data "Properties" "UseSpell(SWAP,Target_HellishRebuke_8,true,true,true)"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:8"
+
 new entry "Interrupt_HellishRebuke_9"
 type "InterruptData"
 using "Interrupt_HellishRebuke"
@@ -74,14 +81,17 @@ data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:9"
 
 
 // Family: interrupt_shield_sorcerer
+
 new entry "Interrupt_Shield_Sorcerer_7"
 type "InterruptData"
 using "Interrupt_Shield_Sorcerer"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:7"
+
 new entry "Interrupt_Shield_Sorcerer_8"
 type "InterruptData"
 using "Interrupt_Shield_Sorcerer"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:8"
+
 new entry "Interrupt_Shield_Sorcerer_9"
 type "InterruptData"
 using "Interrupt_Shield_Sorcerer"
@@ -89,14 +99,17 @@ data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:9"
 
 
 // Family: interrupt_shield_warlock
+
 new entry "Interrupt_Shield_Warlock_7"
 type "InterruptData"
 using "Interrupt_Shield_Warlock"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:7"
+
 new entry "Interrupt_Shield_Warlock_8"
 type "InterruptData"
 using "Interrupt_Shield_Warlock"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:8"
+
 new entry "Interrupt_Shield_Warlock_9"
 type "InterruptData"
 using "Interrupt_Shield_Warlock"
@@ -104,20 +117,22 @@ data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:9"
 
 
 // Family: interrupt_shield_wizard
+
 new entry "Interrupt_Shield_Wizard_7"
 type "InterruptData"
 using "Interrupt_Shield_Wizard"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:7"
+
 new entry "Interrupt_Shield_Wizard_8"
 type "InterruptData"
 using "Interrupt_Shield_Wizard"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:8"
+
 new entry "Interrupt_Shield_Wizard_9"
 type "InterruptData"
 using "Interrupt_Shield_Wizard"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:9"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/PsyArmoryEnemies.txt
 new entry "Interrupt_GuardianOfFaith_Retaliate_Mesmerist"
 type "InterruptData"
 using "Interrupt_GuardianOfFaith_Retaliate"
@@ -127,7 +142,6 @@ data "Cost" "ReactionActionPoint:1"
 data "EnableCondition" ""
 data "EnableContext" ""
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/RandomCahootFixes.txt
 new entry "Interrupt_MAG_Counterspell"
 type "InterruptData"
 using "Interrupt_Counterspell"
@@ -137,7 +151,6 @@ data "Roll" "TryCounterspellHigherLevel(5)"
 // Force the TickType to be EndTurn
 
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/stolenDIQMiscPatches.txt
 new entry "Interrupt_WYR_Gortash_Gortane"
 type "InterruptData"
 using "Interrupt_WYR_Gortash_Gortane"

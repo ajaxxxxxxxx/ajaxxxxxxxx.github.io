@@ -1,9 +1,9 @@
 // Consolidated Character entries from ListoPatches and DeGreaser.
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/ExtraEncountersStats.txt
 // ==================================== Extra Encounters and Minibosses ====================================
 
 // (Added Wizard progressions))
+
 new entry "Ilyn_Toth"
 type "Character"
 using "Ilyn_Toth"
@@ -16,6 +16,7 @@ data "PiercingResistance" "ImmuneToNonMagical"
 data "FireResistance" "Vulnerable"
 
 // (Inherits Fighter progressions)
+
 new entry "Drow_raider"
 type "Character"
 using "Drow_raider"
@@ -23,10 +24,12 @@ data "Passives" "CX_Fighter_Boost;FeyAncestry;AttackOfOpportunity;DarknessRules;
 data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
 
 // (Inherits Barbarian progressions)
+
 new entry "Ogre_Elite"
 type "Character"
 using "Ogre_Elite"
 data "Passives" "CX_Barbarian_Berserker_Boost;CX_Barbarian_Boost;OgreCurse;AttackOfOpportunity;Darkvision;DarknessRules;ExtraAttack"
+
 new entry "Earth_Elemental_miniboss"
 type "Character"
 using "Earth_Elemental_miniboss"
@@ -39,6 +42,7 @@ data "NecroticResistance" "Immune"
 data "PoisonResistance" "Immune"
 data "FireResistance" "Resistant"
 data "AcidResistance" "None"
+
 new entry "Djinni_miniboss"
 type "Character"
 using "Djinni_miniboss"
@@ -49,12 +53,14 @@ data "Passives" "CX_MiniBoss_Boost;CX_Sorcerer_Boost;CX_Magic_Boost;AttackOfOppo
 data "Progressions" "2189a72d-6489-4621-8b2c-85d3e7df2f6f"
 
 // (Has Paladin progressions)
+
 new entry "Champion_of_Lath"
 type "Character"
 using "Champion_of_Lath"
 data "Passives" "CX_MiniBoss_Boost;CX_Paladin_Devotion_Boost;CX_Paladin_Boost;AttackOfOpportunity;DarknessRules;Darkvision;ExtraAttack;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;ImmuneToDisarm"
 
 // (Has Rogue progressions)
+
 new entry "Redcap_Melee_under"
 type "Character"
 using "Redcap_Melee_under"
@@ -63,6 +69,7 @@ data "Passives" "CX_Rogue_Boost;AttackOfOpportunity;DarknessRules;Darkvision;Blo
 data "Progressions" "532203c2-7bcb-4162-9a7c-2bb20e227a30"
 
 // (Inherits Warlock progressions)
+
 new entry "Redcap_Caster_under"
 type "Character"
 using "Redcap_Caster_under"
@@ -75,6 +82,7 @@ data "Charisma" "14"
 data "Passives" "CX_Warlock_Archfey_Boost;CX_Warlock_Boost;CX_Magic_Boost;AttackOfOpportunity;DarknessRules;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check"
 
 // (Swapped Wizard progressions to Sorcerer progressions)
+
 new entry "Aurelio_wild"
 type "Character"
 using "Aurelio_wild"
@@ -82,6 +90,7 @@ using "Aurelio_wild"
 data "Passives" "CX_Sorcerer_Boost;CX_Sorcerer_WildMagic_Boost;CX_Magic_Boost;HumanMilitia;HumanVersatility;AttackOfOpportunity;DarknessRules;WildMagic_Boss;ControlledChaos_Boss;WildMagic_Guarantee;Conduit_Absolute"
 //data "Progressions" "44bdbc5e-a003-4d61-87f0-5ced20d3804e"
 data "Progressions" "2189a72d-6489-4621-8b2c-85d3e7df2f6f"
+
 new entry "Dragon_SCL_Skel"
 type "Character"
 using "Dragon_SCL_Skel"
@@ -94,6 +103,7 @@ data "RadiantResistance" "None"
 data "SlashingResistance" "Immune"
 data "BludgeoningResistance" "None"
 data "PiercingResistance" "Immune"
+
 new entry "KillerReplica_WLD"
 type "Character"
 using "KillerReplica_WLD"
@@ -112,11 +122,13 @@ data "RadiantResistance" "Resistant"
 data "Progressions" "8726b2c4-edc0-4905-b82f-60a4baba0733"
 
 // (Inherits Cleric progressions)
+
 new entry "SHA_Shar"
 type "Character"
 using "SHA_Shar"
 // data "Passives" "ExtraAttack;SHA_DarkVengeance;SHA_VisionOfShar;LivingShadow;SunlightSensitivity;AttackOfOpportunity;Darkvision;DarknessRules"
 data "Passives" "CX_Cleric_Trickery_Boost;CX_Cleric_Boost;CX_Magic_Boost;AttackOfOpportunity;Darkvision;DarknessRules;ExtraAttack;SHA_DarkVengeance;SHA_VisionOfShar;LivingShadow;SunlightSensitivity"
+
 new entry "Vlaakith_manifest"
 type "Character"
 using "Vlaakith_manifest"
@@ -124,6 +136,7 @@ using "Vlaakith_manifest"
 data "Passives" "CX_Martial_Boost;CX_Magic_Boost;CX_Boss_Boost;AttackOfOpportunity;DarknessRules;PsychicStrikes_Githyanki;Parry_Githyanki_Supreme;Parry_Githyanki_Supreme_EquipTrigger;ExtraAttack;Vlaakith_immovable;UndeadFortitude_Vlaakith;TurnResistance;ImmuneToDisarm;Vlaakith_counter"
 
 // (Has Fighter progressions) 
+
 new entry "Human_Drunk_Filli"
 type "Character"
 using "Human_Drunk_Filli"
@@ -131,6 +144,7 @@ using "Human_Drunk_Filli"
 data "Passives" "HumanMilitia;HumanVersatility;AttackOfOpportunity;DarknessRules;Drunk_inluln_filli"
 
 // (Added Rogue progressions)
+
 new entry "Doppelganger_crowd_ambush"
 type "Character"
 using "Doppelganger_crowd_ambush"
@@ -140,6 +154,7 @@ data "Passives" "AttackOfOpportunity;Darkvision;DarknessRules;Doppel_remove;Mult
 data "Progressions" "532203c2-7bcb-4162-9a7c-2bb20e227a30"
 
 // (Has Rogue progressions)
+
 new entry "Drow_Pirate"
 type "Character"
 using "Drow_Pirate"
@@ -147,6 +162,7 @@ using "Drow_Pirate"
 data "Passives" "FeyAncestry;AttackOfOpportunity;DarknessRules;SuperiorDarkvision;SunlightSensitivity;DualWielder_BonusAC;DualWielder_PassiveBonuses;ExtraAttack;Drow_balance"
 
 // (Has Fighter progressions)
+
 new entry "Drow_Pirate_bodyguard"
 type "Character"
 using "Drow_Pirate_bodyguard"
@@ -154,6 +170,7 @@ using "Drow_Pirate_bodyguard"
 data "Passives" "FeyAncestry;AttackOfOpportunity;DarknessRules;SuperiorDarkvision;SunlightSensitivity;DualWielder_BonusAC;DualWielder_PassiveBonuses;ExtraAttack;Drow_balance"
 
 // (Has Wizard progressions)
+
 new entry "Drow_Pirate_boss"
 type "Character"
 using "Drow_Pirate_boss"
@@ -168,6 +185,7 @@ data "Passives" "CX_Spells_L5;CX_Spells_L6;CX_Spells_L6C;FeyAncestry;AttackOfOpp
 // data "Passives" "AttackOfOpportunity;DarknessRules;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;"
 
 // (Added Fighter progressions)
+
 new entry "Thay_Knight"
 type "Character"
 using "Thay_Knight"
@@ -177,6 +195,7 @@ data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
 data "Passives" "CX_Fighter_BattleMaster_Boost;CX_Fighter_Boost;AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;ExtraAttack;BlockVerbalSpellcasting;SkeletonDeath_Check"
 
 // (Inherits Wizard progressions)
+
 new entry "Thay_Caster_Skel"
 type "Character"
 using "Thay_Caster_Skel"
@@ -184,6 +203,7 @@ using "Thay_Caster_Skel"
 data "Passives" "AttackOfOpportunity;DarknessRules;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check"
 
 // (Inherits Fighter progressions)
+
 new entry "Githyanki_Raider_Lich_Strong"
 type "Character"
 using "Githyanki_Raider_Lich_Strong"
@@ -191,6 +211,7 @@ using "Githyanki_Raider_Lich_Strong"
 data "Passives" "CX_Fighter_BattleMaster_Boost;CX_Fighter_Boost;AttackOfOpportunity;DarknessRules;ExtraAttack;CrossbowExpert_PointBlank;CrossbowExpert_Wounding;Sharpshooter_AllIn;Sharpshooter_Bonuses;InuredtoUndeath;Blessing_Vlaa;Alert;SteelWill"
 
 // (Inherits Fighter progressions)
+
 new entry "Githyanki_Gish_Lich_Strong"
 type "Character"
 using "Githyanki_Gish_Lich_Strong"
@@ -198,6 +219,7 @@ using "Githyanki_Gish_Lich_Strong"
 data "Passives" "CX_Fighter_EldritchKnight_Boost;CX_Fighter_Boost;CX_Magic_Boost;AttackOfOpportunity;DarknessRules;WarMagic_Githyanki;WarCaster_Bonuses;GreatWeaponMaster_BonusAttack;GreatWeaponMaster_BonusDamage;InuredtoUndeath;Blessing_Vlaa;Alert;SteelWill"
 
 // (Inherits Warlock progressions)
+
 new entry "Redcap_caster_well"
 type "Character"
 using "Redcap_caster_well"
@@ -209,6 +231,7 @@ data "Charisma" "16"
 data "Passives" "CX_Warlock_Archfey_Boost;CX_Warlock_Boost;CX_Magic_Boost;AttackOfOpportunity;DarknessRules;Darkvision;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;Redcap_Buff_Well"
 
 // (Has Fighter progressions)
+
 new entry "Redcap_melee_well"
 type "Character"
 using "Redcap_melee_well"
@@ -217,6 +240,7 @@ data "Passives" "AttackOfOpportunity;DarknessRules;Darkvision;BloodThirsty_Redca
 data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
 
 // (Has Cleric progressions)
+
 new entry "Bane_Master"
 type "Character"
 using "Bane_Master"
@@ -224,6 +248,7 @@ using "Bane_Master"
 data "Passives" "CX_Cleric_War_Boost;CX_Cleric_Boost;CX_Magic_Boost;AttackOfOpportunity;DarknessRules;ExtraAttack;Tactical_Discipline;MAG_FrightenedDisadvantage_Passive;MAG_Poison_PoisonExposure_Gloves_Passive"
 
 // (Inherits Rogue progressions)
+
 new entry "Bhaal_Deathstalker"
 type "Character"
 using "Bhaal_Deathstalker"
@@ -231,6 +256,7 @@ using "Bhaal_Deathstalker"
 data "Passives" "AttackOfOpportunity;DarknessRules;Darkvision;ExtraAttack;SneakAttack_Unlock;LOW_BhaalAmulet_Passive"
 
 // (Added Barbarian progressions)
+
 new entry "Human_Cultist_Bhaal_Rager"
 type "Character"
 using "Human_Cultist_Bhaal_Rager"
@@ -240,6 +266,7 @@ data "Passives" "CX_Barbarian_Berserker_Boost;CX_Barbarian_Boost;AttackOfOpportu
 data "Progressions" "56db8107-e04c-4fe3-94f3-fd4acd44cd4a"
 
 // (Added Sorcerer progressions)
+
 new entry "Thrall_Sorcerer_ER"
 type "Character"
 using "Thrall_Sorcerer_ER"
@@ -249,6 +276,7 @@ data "Passives" "CX_Sorcerer_Boost;CX_Magic_Boost;AttackOfOpportunity;DarknessRu
 data "Progressions" "2189a72d-6489-4621-8b2c-85d3e7df2f6f"
 
 // (Added Fighter progressions)
+
 new entry "Duelist_ER_Act1"
 type "Character"
 using "Duelist_ER_Act1"
@@ -256,6 +284,7 @@ data "Passives" "CX_Fighter_BattleMaster_Boost;CX_Fighter_Boost;FeyAncestry;Atta
 data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
 
 // (Added Fighter progressions) (removed the Eternal Duelist feature)
+
 new entry "Duelist_ER_Act2"
 type "Character"
 using "Duelist_ER_Act2"
@@ -263,32 +292,34 @@ data "Passives" "CX_Fighter_BattleMaster_Boost;CX_Bard_Swords_Boost;CX_MiniBoss_
 data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
 
 // (Added Fighter progressions)
+
 new entry "Duelist_ER_Act3"
 type "Character"
 using "Duelist_ER_Act3"
 data "Passives" "CX_Fighter_BattleMaster_Boost;CX_Bard_Swords_Boost;CX_Ranger_Hunter_Boost;CX_Boss_Boost;CX_Fighter_Boost;CX_Bard_Boost;CX_Ranger_Boost;FeyAncestry;AttackOfOpportunity;DarknessRules;Darkvision;Eternal_Duelist_ER;Riposte;ExtraAttack"
 data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/FlameSpheres.txt
 // Character declarations moved from ListoMasterSpells
 // Consolidated from ListoMasterSpells into ListoPatches.
 // Entry identity is the exact combination of type and name.
 
 // Family: flamingsphere
+
 new entry "FlamingSphere_7"
 type "Character"
 using "FlamingSphere"
 data "Passives" "FlamingSphere_State_7"
+
 new entry "FlamingSphere_8"
 type "Character"
 using "FlamingSphere"
 data "Passives" "FlamingSphere_State_8"
+
 new entry "FlamingSphere_9"
 type "Character"
 using "FlamingSphere"
 data "Passives" "FlamingSphere_State_9"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/PotionSellerNPCs.txt
 new entry "Vera_Boss"
 type "Character"
 using "Vera_Boss"
@@ -307,7 +338,6 @@ data "ActionResources" "ActionPoint:1;BonusActionPoint:1;Movement:9;ReactionActi
 data "Passives" "CX_Boss_Boost;CX_Magic_Boost;CX_Wizard_Transmutation_Boost;CX_Wizard_Boost;AttackOfOpportunity;DarknessRules;Darkvision;ExtraAttack;ImmuneToDisarm"
 data "Proficiency Group" "SimpleWeapons;MartialWeapons"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/PsyArmoryEnemies.txt
 new entry "JL_PsyArm_PsionicWarden_Augur"
 type "Character"
 using "JL_PsyArm_PsionicWarden_Augur"
@@ -324,7 +354,6 @@ using "JL_PsyArm_PsionicWarden_Oracle"
 data "Passives" "CX_Boss_Boost;GuardianOfFaith_Attack;GuardianOfFaith_Retaliate_Mesmerist;ImmuneToDisarm"
 
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/SaSaEECharacter.txt
 new entry "FindFamiliar_Dog"
 type "Character"
 using "FindFamiliar_Dog"
@@ -393,7 +422,6 @@ data "FireResistance" "Vulnerable"
 data "PsychicResistance" "Vulnerable"
 
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/SpellJammerCharacters.txt
 new entry "SPJM_Mercane_TemplateStats"
 type "Character"
 using "SPJM_Mercane_TemplateStats"
@@ -475,7 +503,6 @@ type "Character"
 using "SPJM_Dgb_Guard"
 data "Passives" "CX_Fighter_Boost;AttackOfOpportunity;DarknessRules;ExtraAttack"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/nopickpocket.txt
 new entry "GLO_Volo"
 type "Character"
 using "GLO_Volo"
@@ -486,7 +513,6 @@ type "Character"
 using "GLO_Jergal"
 data "DefaultBoosts" "ProficiencyBonus(SavingThrow, Wisdom); BlockRegainHP(Living;Construct); Tag(BLOCK_PICKPOCKET)"
 
-// Source: ListoPatches/Public/ListoPatches/Stats/Generated/Data/stolenDIQMiscPatches.txt
 new entry "SpiritualWeapon_Greataxe"
 type "Character"
 using "SpiritualWeapon_Greataxe"
@@ -495,7 +521,6 @@ data "ActionResources" "BonusActionPoint:1;Movement:9"
 // ==================================== Fix Metamagic Extended machine broke ====================================
 
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Character.txt
 // ==================================== Constructs ====================================
 // "_Base"
 //  ├─ "_Construct"
@@ -554,6 +579,7 @@ data "PersonalStatusImmunities" "ABJURE_ENEMY_FRIGHT;BARBED_ARROW;BLEEDING;CHEST
 data "Passives" "CX_Fighter_Champion_Boost;CX_Fighter_Boost;LightningAbsortion;ExtraAttack;AntimagicSusceptibility;AttackOfOpportunity;Darkvision;DarknessRules;MAG_ChargedLightning_TempHP_Helmet_Passive;MAG_ChargedLightning_Electrocute_Armor_Passive;MAG_ChargedLightning_ElectricSurface_Boots_Passive;MAG_ChargedLightning_ElectrifyWater_Boots_Passive;MAG_ChargedLightning_Dash_Boots_Passive;MAG_Thunder_Reverberation_Gloves_Passive;ARA_Cloak_StaticCharge_Passive;ARA_Cloak_KeepCharged_Passive;DispelEvilAndGood_Charm_Check;DispelEvilAndGood_Frightened_Check;DispelEvilAndGood_Possessed_Check;TWN_AasimarSurvivor_SpawnShadow"
 
 // Grym - Provide a baseline way to damage him through Acid and Bludgeoning
+
 new entry "UND_AdamantineGolem"
 type "Character"
 using "UND_AdamantineGolem"
@@ -910,6 +936,7 @@ data "SlashingResistance" "ResistantToNonMagical"
 data "PiercingResistance" "ResistantToNonMagical"
 
 // Raphael's Ascended Fiend Form - HONOUR MODE INHERITANCE (Added Martial boost, added Magic boost added Boss boost)
+
 new entry "LOW_Raphael_Monster_Form_Stats"
 type "Character"
 using "LOW_Raphael_Monster_Form_Stats"
@@ -1219,6 +1246,7 @@ data "AcidResistance" "Resistant"
 //  │   │           └─ "LOW_KoboldGang_Ranger"          --- Unused (Inherits Ranger progressions)
 
 // Koll the Red / Kobold Inventor (There is like 2 in the whole game, with 1 being a trader) (Sorcerer progressions added, Wild Magic subclass added)
+
 new entry "Kobold_Inventor"
 type "Character"
 using "Kobold_Inventor"
@@ -1232,6 +1260,7 @@ data "Passives" "CX_Sorcerer_WildMagic_Boost;CX_MiniBoss_Boost;CX_Sorcerer_Boost
 data "Progressions" "2189a72d-6489-4621-8b2c-85d3e7df2f6f"
 
 // Kobold (Added Rogue progressions and fixed the spellcasting modifier, Rogues make sense for the encounter over Fighters, and Kobold tactics from TTRPG in general)
+
 new entry "Kobold_Melee"
 type "Character"
 using "Kobold_Melee"
@@ -1241,6 +1270,7 @@ data "SpellCastingAbility" "Intelligence"
 data "Progressions" "532203c2-7bcb-4162-9a7c-2bb20e227a30"
 
 // Bugthimble (Inherits added Rogue progressions, added Thief subclass)
+
 new entry "LOW_KoboldGangLeader"
 type "Character"
 using "LOW_KoboldGangLeader"
@@ -1248,6 +1278,7 @@ using "LOW_KoboldGangLeader"
 data "Passives" "CX_Rogue_Thief_Boost;CX_Rogue_Boost;PackTactics;SunlightSensitivity;AttackOfOpportunity;Darkvision;DarknessRules;Evasion"
 
 // Popper - Purveyor of Treats and Trinkets, Circus of the Last Days (Inherited added Rogue replaced swapped for Wizard progressios)
+
 new entry "WYR_Kobold_Popper"
 type "Character"
 using "WYR_Kobold_Popper"
@@ -1258,6 +1289,7 @@ data "Progressions" "44bdbc5e-a003-4d61-87f0-5ced20d3804e"
 data "PassivesAdded" "CX_Magic_Boost"
 
 // Kobold Scout (Added Ranger progressions, fixed spellcasting ability)
+
 new entry "Kobold_Ranger"
 type "Character"
 using "Kobold_Ranger"
@@ -1271,6 +1303,7 @@ data "Progressions" "f0ede459-8b86-48fd-ac11-4432573566a5"
 //stolen from cahoot
 
 // Mind Flayers: increase AC
+
 new entry "MindFlayer"
 type "Character"
 using "MindFlayer"
@@ -1278,6 +1311,7 @@ using "MindFlayer"
 data "Armor" "16"
 
 // Encounters Overhaul: changing crash site Mind Flayer to remove increased AC from inheritance
+
 new entry "EO_Mindflayer"
 type "Character"
 using "EO_Mindflayer"
@@ -1285,6 +1319,7 @@ data "Armor" "12"
 data "Passives" "MagicResistance;AttackOfOpportunity;DarknessRules;QUEST_CRA_IntDev_Weakened"
 
 // Dream Guardians (if siding with Orpheus): make their melee attacks not suck since after changing their Command spell costs to bonus action, they should actually be making weapon attacks (boosting Strength instead they're not using a Finesse weapon)
+
 new entry "END_Daisy"
 type "Character"
 using "END_Daisy"
@@ -1292,6 +1327,7 @@ using "END_Daisy"
 data "Strength" "18"
 
 // Tentacles: decrease health so they're not such a chore with CX health increases
+
 new entry "Tentacle_Netherbrain"
 type "Character"
 using "Tentacle_Netherbrain"
@@ -1313,6 +1349,7 @@ data "Vitality" "4"
 //  │   │   └─ "MOO_BugbearMerchant"
 
 // (Added Rogue progressions)
+
 new entry "Bugbear"
 type "Character"
 using "Bugbear"
@@ -1320,6 +1357,7 @@ using "Bugbear"
 data "Progressions" "532203c2-7bcb-4162-9a7c-2bb20e227a30"
 
 // Hairy Henry - Skull Lasher, Cult of Myrkul (Added Fighter progressions, added Eldritch Knight subclass)
+
 new entry "Bugbear_Cultist_Myrkul_SkullLasher"
 type "Character"
 using "Bugbear_Cultist_Myrkul_SkullLasher"
@@ -1329,6 +1367,7 @@ data "Passives" "CX_Fighter_EldritchKnight_Boost;CX_Fighter_Boost;CX_Magic_Boost
 data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
 
 // Chop - Cult of the Absolute (Added Rogue progressions, added Assassin subclass)
+
 new entry "COL_Butcher"
 type "Character"
 using "COL_Butcher"
@@ -1338,6 +1377,7 @@ data "Passives" "CX_Rogue_Assassin_Boost;CX_Rogue_Boost;Brute_Bugbear;AttackOfOp
 data "Progressions" "532203c2-7bcb-4162-9a7c-2bb20e227a30"
 
 // Bugbear Assassin (Added Rogue progressions, added Assassin subclass)
+
 new entry "DEN_BugbearNinja"
 type "Character"
 using "DEN_BugbearNinja"
@@ -1347,6 +1387,7 @@ data "Passives" "CX_Rogue_Assassin_Boost;CX_Rogue_Boost;Brute_Bugbear;AttackOfOp
 data "Progressions" "532203c2-7bcb-4162-9a7c-2bb20e227a30"
 
 // (Added Barbarian progressions, added Berserker subclass)
+
 new entry "DEN_BugbearRaider"
 type "Character"
 using "DEN_BugbearRaider"
@@ -1356,6 +1397,7 @@ data "Passives" "CX_Barbarian_Berserker_Boost;CX_Barbarian_Boost;Brute_Bugbear;A
 data "Progressions" "56db8107-e04c-4fe3-94f3-fd4acd44cd4a"
 
 // Lann Tarv - Armourer to the Absolute, Cult of the Absolute (Added Rogue progressions)
+
 new entry "MOO_BugbearMerchant"
 type "Character"
 using "MOO_BugbearMerchant"
@@ -1374,6 +1416,7 @@ data "Progressions" "532203c2-7bcb-4162-9a7c-2bb20e227a30"
 ///Aylin///
 
 // Aylin - The Nightsong, Singer of Sorrows, Sword of the Moonmaiden, Daughter of Selûne (Has Paladin progressions, added Vengeance subclass, added Boss boost, added "ImmuneToDisarm")
+
 new entry "SHA_Nightsong"
 type "Character"
 using "SHA_Nightsong"
@@ -1411,7 +1454,6 @@ data "RadiantResistance" "Immune"
 data "NecroticResistance" "Resistant"
 data "PoisonResistance" "Immune"
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Orpheus.txt
 new entry "INT_Orpheus"
 type "Character"
 using "INT_Orpheus"
@@ -1425,8 +1467,8 @@ data "Vitality" "200"
 data "Progressions" "06388b88-eda4-424d-aad1-074c0ad02d49"
 data "Passives" "CX_Boss_Boost;CX_Cleric_Knowledge_Boost;CX_Fighter_EldritchKnight_Boost;CX_Cleric_Boost;CX_Fighter_Boost;CX_Magic_Boost;AttackOfOpportunity;DarknessRules;Monk_SoundSwitch;Ki;FlurryOfBlowsUnlock;PsychicStrikes_Githyanki"
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Sarevok.txt
 // Sarevok Anchev - Justice of the Murder Tribunal, Cult of Bhaal - HONOUR MODE INHERITANCE (Added Fighter progressions, added Champion subclass, added Boss boost)
+
 new entry "LOW_Sarevok"
 type "Character"
 using "LOW_Sarevok"
@@ -1437,7 +1479,6 @@ data "Passives" "CX_Boss_Boost;CX_Fighter_Champion_Boost;CX_Fighter_Boost;Ethere
 data "Progressions" "0e6da493-5a37-423b-8c28-629462b22faa"
 data "DefaultBoosts" "Skill(Athletics, 7); Skill(Perception, 9);Resistance(Poison, Immune);Resistance(Necrotic, Resistant);StatusImmunity(SG_Paralyzed);StatusImmunity(SG_Poisoned);StatusImmunity(BLEEDING);StatusImmunity(SLEEPING);StatusImmunity(GAPING_WOUND);StatusImmunity(CHEST_TRAUMA);StatusImmunity(DAZED);StatusImmunity(SG_Charmed);Tag(CHASM_IMMUNE);Tag(IGNORE_CHASMS);StatusImmunity(SG_Prone);BlockRegainHP(Undead;Construct);ProficiencyBonus(SavingThrow, Strength);ProficiencyBonus(SavingThrow, Constitution);Tag(UNDEAD)"
 
-// Source: DeGreaser/Public/DeGreaser/Stats/Generated/Data/Wwargaz.txt
 new entry "CRE_Githyanki_Inquisitor_VlaakithsMindSword"
 type "Character"
 using "CRE_Githyanki_Inquisitor_VlaakithsMindSword"

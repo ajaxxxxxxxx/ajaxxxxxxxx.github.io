@@ -2,6 +2,7 @@
 // It's a magical weapon, the summoner has innate proficiency with it, it uses the summoner's spell casting ability for attacks. Lasts until long rest. Damage starts at 1d6 and scales to 5d6 with upcasting to level 9 spell slots. Concentration requirement removed. Melee weapon attacks against obscured targets now have Advantage, not just attacks made with the weapon itself.
 
 // Vanilla entries
+
 new entry "WPN_ShadowBlade"
 type "Weapon"
 // using "WPN_Shortsword_1"
@@ -25,6 +26,7 @@ using "SHADOW_BLADE"
 data "Boosts" "Attribute(InventoryBound);IntrinsicSummonerProficiency();WeaponAttackRollAbilityOverride(SpellCastingAbility)"
 
 // 5E Spells entries
+
 new entry "SHADOW_BLADE_3"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -47,6 +49,7 @@ using "SHADOW_BLADE"
 data "Boosts" "Attribute(InventoryBound);IntrinsicSummonerProficiency();WeaponDamageDieOverride(4d6);WeaponAttackRollAbilityOverride(SpellCastingAbility)"
 
 // New entry for level 9 casting
+
 new entry "SHADOW_BLADE_6"
 type "StatusData"
 data "StatusType" "BOOST"
@@ -56,6 +59,7 @@ data "Boosts" "Attribute(InventoryBound);IntrinsicSummonerProficiency();WeaponDa
 // ==================================== Shadow Blade - Spells ====================================
 
 // Vanilla entry
+
 new entry "Shout_ShadowBlade"
 type "SpellData"
 data "SpellType" "Shout"
