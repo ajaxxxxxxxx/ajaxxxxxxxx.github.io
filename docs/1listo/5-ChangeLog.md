@@ -15,9 +15,9 @@ description: Update info
 
 ## Releases (Newest to Oldest)  
 
-## Listonomicon v10.5.1 Death of Dyes
+## Listonomicon v10.6 Testing - Death of Dyes
 
-Save safe? Possibly no because of the dyes being removed. If you never looted the giant dye pile on the Nautiloid and have already entered Act 2, you might be safe. Might.
+Save safe? No
 
 1. REMOVED Style'n'Dye, Goth Dyes 1 and 2, Flower Power Dyes, and Dyes of Thay.
 2. ADDED Izzli's Altered Dyes.
